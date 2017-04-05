@@ -1,0 +1,856 @@
+F01.50	démence vasculaire sans troubles du comportement
+F01.51	démence vasculaire avec des troubles du comportement
+F02.80	démence au cours d'autres maladies classées ailleurs sans troubles du comportement
+F02.81	démence au cours d'autres maladies classées ailleurs avec des troubles du comportement
+F03.90	démence non spécifiée sans troubles du comportement
+F03.91	démence non spécifiée avec des troubles du comportement
+F04	trouble amnésique dû à une affection physiologique connue
+F05	delirium dû à une affection physiologique connue
+F06.0	trouble psychotique avec des hallucinations dû à une affection physiologique connue
+F06.1	trouble catatonique dû à une affection physiologique connue
+F06.2	trouble psychotique avec des idées délirantes dû à une affection physiologique connue
+F06.30	trouble de l'humeur dû à une affection physiologique connue, non spécifié
+F06.31	trouble de l'humeur dû à une affection physiologique connue avec des caractéristiques dépressives
+F06.32	trouble de l'humeur dû à une affection physiologique connue avec un épisode ressemblant majeur dépressif
+F06.33	trouble de l'humeur dû à une affection physiologique connue avec des caractéristiques maniaques
+F06.34	trouble de l'humeur dû à une affection physiologique connue avec des caractéristiques mixtes
+F06.4	trouble anxieux dû à une affection physiologique connue
+F06.8	d'autres troubles mentaux spécifiés dus à une affection physiologique connue
+F07.0	trouble de la personnalité dû à une affection physiologique connue
+F07.81	syndrome post-commotionnel
+F07.89	d'autres troubles organiques de la personnalité et du comportement dus à une affection physiologique connue
+F07.9	troubles organiques de la personnalité et du comportement dus à une affection physiologique connue, non spécifiés
+F09	trouble mental dû à une affection physiologique connue, non spécifié
+F10.10	abus d'alcool, non compliqué
+F10.120	abus d'alcool avec intoxication, non compliqué
+F10.121	abus d'alcool avec délire dû à l'intoxication
+F10.129	abus d'alcool avec intoxication, non spécifié
+F10.14	abus d'alcool avec un trouble de l'humeur induit par l'alcool
+F10.150	abus d'alcool avec un trouble psychotique induit par l'alcool avec des idées délirantes
+F10.151	abus d'alcool avec un trouble psychotique induit par l'alcool avec des hallucinations
+F10.159	abus d'alcool avec un trouble psychotique induit par l'alcool, non spécifié
+F10.180	abus d'alcool avec un trouble anxieux induits par l'alcool
+F10.181	abus d'alcool avec un dysfonctionnement sexuel induit par l'alcool
+F10.182	abus d'alcool avec un trouble du sommeil induit par l'alcool
+F10.188	abus d'alcool avec un autre trouble induit par l'alcool
+F10.19	abus d'alcool avec un trouble induit par l'alcool, non spécifié
+F10.20	dépendance à l'alcool, non compliquée
+F10.21	dépendance à l'alcool, en rémission
+F10.220	dépendance à l'alcool avec intoxication, non compliquée
+F10.221	dépendance à l'alcool avec délire dû à l'intoxication
+F10.229	dépendance à l'alcool avec intoxication, non spécifiée
+F10.230	dépendance à l'alcool avec abstinence, non compliquée
+F10.231	dépendance à l'alcool avec délire dû à abstinence
+F10.232	dépendance à l'alcool avec abstinence avec un trouble de la perception
+F10.239	dépendance à l'alcool avec abstinence, non spécifiée
+F10.24	dépendance à l'alcool avec un trouble de l'humeur induit par l'alcool
+F10.250	dépendance à l'alcool avec un trouble psychotique induit par l'alcool avec des idées délirantes
+F10.251	dépendance à l'alcool avec un trouble psychotique induit par l'alcool avec des hallucinations
+F10.259	dépendance à l'alcool avec un trouble psychotique induit par l'alcool, non spécifié
+F10.26	dépendance à l'alcool avec un trouble amnésique persistant induit par l'alcool
+F10.27	dépendance à l'alcool avec démence persistante induite par l'alcool
+F10.280	dépendance à l'alcool avec un trouble anxieux induits par l'alcool
+F10.281	dépendance à l'alcool avec un dysfonctionnement sexuel induit par l'alcool
+F10.282	dépendance à l'alcool avec un trouble du sommeil induit par l'alcool
+F10.288	dépendance à l'alcool avec un autre trouble induit par l'alcool
+F10.29	dépendance à l'alcool avec un trouble induit par l'alcool, non spécifié
+F10.920	consommation d'alcool non spécifiée avec intoxication, non compliquée
+F10.921	consommation d'alcool non spécifiée avec délire dû à l'intoxication
+F10.929	consommation d'alcool non spécifiée avec intoxication, non spécifiée
+F10.94	consommation d'alcool non spécifiée avec un trouble de l'humeur induit par l'alcool
+F10.950	consommation d'alcool non spécifiée avec un trouble psychotique induit par l'alcool avec des idées délirantes
+F10.951	consommation d'alcool non spécifiée avec un trouble psychotique induit par l'alcool avec des hallucinations
+F10.959	consommation d'alcool non spécifiée avec un trouble psychotique induit par l'alcool, non spécifié
+F10.96	consommation d'alcool non spécifiée avec un trouble amnésique persistant induit par l'alcool
+F10.97	consommation d'alcool non spécifiée avec démence persistante induite par l'alcool
+F10.980	consommation d'alcool non spécifiée avec un trouble anxieux induits par l'alcool
+F10.981	consommation d'alcool non spécifiée avec un dysfonctionnement sexuel induit par l'alcool
+F10.982	consommation d'alcool non spécifiée avec un trouble du sommeil induit par l'alcool
+F10.988	consommation d'alcool non spécifiée avec un autre trouble induit par l'alcool
+F10.99	consommation d'alcool non spécifiée avec un trouble induit par l'alcool, non spécifié
+F11.10	abus d'opiacés, non compliqué
+F11.120	abus d'opiacés avec intoxication, non compliquée
+F11.121	abus d'opiacés avec délire dû à l'intoxication
+F11.122	abus d'opiacés avec intoxication avec un trouble de la perception
+F11.129	abus d'opiacés avec intoxication, non spécifiée
+F11.14	abus d'opiacés avec un trouble de l'humeur induit par les opiacés
+F11.150	abus d'opiacés avec un trouble psychotique induit par les opiacés avec des idées délirantes
+F11.151	abus d'opiacés avec un trouble psychotique induit par les opiacés avec des hallucinations
+F11.159	abus d'opiacés avec un trouble psychotique induit par les opiacés, non spécifié
+F11.181	abus d'opiacés avec un dysfonctionnement sexuel induit par les opiacés
+F11.182	abus d'opiacés avec un trouble du sommeil induit par les opiacés
+F11.188	abus d'opiacés avec un autre trouble induit par les opiacés
+F11.19	abus d'opiacés avec un trouble induit par les opiacés, non spécifié
+F11.20	dépendance aux opiacés, non compliquée
+F11.21	dépendance aux opiacés, en rémission
+F11.220	dépendance aux opiacés avec intoxication, non compliquée
+F11.221	dépendance aux opiacés avec délire dû à l'intoxication
+F11.222	dépendance aux opiacés avec intoxication avec un trouble de la perception
+F11.229	dépendance aux opiacés avec intoxication, non spécifiée
+F11.23	dépendance aux opiacés avec abstinence
+F11.24	dépendance aux opiacés avec un trouble de l'humeur induit par les opiacés
+F11.250	dépendance aux opiacés avec un trouble psychotique induit par les opiacés avec des idées délirantes
+F11.251	dépendance aux opiacés avec un trouble psychotique induit par les opiacés avec des hallucinations
+F11.259	dépendance aux opiacés avec un trouble psychotique induit par les opiacés, non spécifié
+F11.281	dépendance aux opiacés avec un dysfonctionnement sexuel induit par les opiacés
+F11.282	dépendance aux opiacés avec un trouble du sommeil induit par les opiacés
+F11.288	dépendance aux opiacés avec un autre trouble induit par les opiacés
+F11.29	dépendance aux opiacés avec un trouble induit par les opiacés, non spécifié
+F11.90	consommation d'opiacés non spécifiée, non compliquée
+F11.920	consommation d'opiacés non spécifiée avec intoxication, non compliquée
+F11.921	consommation d'opiacés non spécifiée avec délire dû à l'intoxication
+F11.922	consommation d'opiacés non spécifiée avec intoxication avec un trouble de la perception
+F11.929	consommation d'opiacés non spécifiée avec intoxication, non spécifiée
+F11.93	consommation d'opiacés non spécifiée avec abstinence
+F11.94	consommation d'opiacés non spécifiée avec un trouble de l'humeur induit par les opiacés
+F11.950	consommation d'opiacés non spécifiée avec un trouble psychotique induit par les opiacés avec des idées délirantes
+F11.951	consommation d'opiacés non spécifiée avec un trouble psychotique induit par les opiacés avec des hallucinations
+F11.959	consommation d'opiacés non spécifiée avec un trouble psychotique induit par les opiacés, non spécifié
+F11.981	consommation d'opiacés non spécifiée avec un dysfonctionnement sexuel induit par les opiacés
+F11.982	consommation d'opiacés non spécifiée avec un trouble du sommeil induit par les opiacés
+F11.988	consommation d'opiacés non spécifiée avec un autre trouble induit par les opiacés
+F11.99	consommation d'opiacés non spécifiée avec un trouble non spécifié induit par les opiacés
+F12.10	abus de cannabis, non compliqué
+F12.120	abus de cannabis avec intoxication, non compliquée
+F12.121	abus de cannabis avec délire dû à l'intoxication
+F12.122	abus de cannabis avec intoxication avec un trouble de la perception
+F12.129	abus de cannabis avec intoxication, non spécifiée
+F12.150	abus de cannabis avec un trouble psychotique avec des idées délirantes
+F12.151	abus de cannabis avec un trouble psychotique avec des hallucinations
+F12.159	abus de cannabis avec un trouble psychotique, non spécifié
+F12.180	abus de cannabis avec un trouble anxieux induit par le cannabis
+F12.188	abus de cannabis avec un autre trouble induit par le cannabis
+F12.19	abus de cannabis avec un trouble induit par le cannabis, non spécifié
+F12.20	dépendance au cannabis, non compliquée
+F12.21	dépendance au cannabis, en rémission
+F12.220	dépendance au cannabis avec intoxication, non compliquée
+F12.221	dépendance au cannabis avec délire dû à l'intoxication
+F12.222	dépendance au cannabis avec intoxication avec un trouble de la perception
+F12.229	dépendance au cannabis avec intoxication, non spécifiée
+F12.250	dépendance au cannabis avec un trouble psychotique avec des idées délirantes
+F12.251	dépendance au cannabis avec un trouble psychotique avec des hallucinations
+F12.259	dépendance au cannabis avec un trouble psychotique, non spécifié
+F12.280	dépendance au cannabis avec un trouble anxieux induit par le cannabis
+F12.288	dépendance au cannabis avec un autre trouble induit par le cannabis
+F12.29	dépendance au cannabis avec un trouble anxieux induit par le cannabis, non spécifié
+F12.90	consommation de cannabis, non compliquée
+F12.920	consommation de cannabis avec intoxication, non compliquée
+F12.921	consommation de cannabis avec délire dû à l'intoxication
+F12.922	consommation de cannabis avec intoxication avec un trouble de la perception
+F12.929	consommation non spécifiée de cannabis avec intoxication
+F12.950	consommation de cannabis avec un trouble psychotique avec des idées délirantes
+F12.951	consommation de cannabis avec un trouble psychotique avec des hallucinations
+F12.959	consommation non spécifiée de cannabis avec un trouble psychotique
+F12.980	consommation de cannabis avec un trouble anxieux
+F12.988	consommation de cannabis avec un autre trouble induit par le cannabis
+F12.99	consommation non spécifiée de cannabis avec un trouble induit par le cannabis
+F13.10	abus de sédatifs, non compliqué
+F13.10	abus d'hypnotiques, non compliqué
+F13.10	abus d'anxiolytiques, non compliqué
+F13.120	abus de sédatifs avec intoxication, non compliquée
+F13.120	abus d'hypnotiques avec intoxication, non compliquée
+F13.120	abus d'anxiolytiques avec intoxication, non compliquée
+F13.121	abus de sédatifs avec délire dû à l'intoxication
+F13.121	abus d'hypnotiques avec délire dû à l'intoxication
+F13.121	abus d'anxiolytiques avec délire dû à l'intoxication
+F13.129	abus d'hypnotiques avec intoxication, non spécifiée
+F13.129	abus de sédatifs avec intoxication, non spécifiée
+F13.129	abus d'anxiolytiques avec intoxication, non spécifiée
+F13.14	abus de sédatifs avec un trouble de l'humeur induit par les sédatifs
+F13.14	abus d'hypnotiques avec un trouble de l'humeur induit par les hypnotiques
+F13.14	abus d'anxiolytiques avec un trouble de l'humeur induit par les anxiolytiques
+F13.150	abus de sédatifs avec un trouble psychotique induit par les sédatifs avec des idées délirantes
+F13.150	abus d'hypnotiques avec un trouble psychotique induit par les hypnotiques avec des idées délirantes
+F13.150	abus d'anxiolytiques avec un trouble psychotique induit par les anxiolytiques avec des idées délirantes
+F13.151	abus de sédatifs avec un trouble psychotique induit par les sédatifs avec des hallucinations
+F13.151	abus d'hypnotiques avec un trouble psychotique induit par les hypnotiques avec des hallucinations
+F13.151	abus d'anxiolytiques avec un trouble psychotique induit par les anxiolytiques avec des hallucinations
+F13.159	abus de sédatifs avec un trouble psychotique induit par les sédatifs, non spécifié
+F13.159	abus d'hypnotiques avec un trouble psychotique induit par les hypnotiques, non spécifié
+F13.159	abus d'anxiolytiques avec un trouble psychotique induit par les anxiolytiques, non spécifié
+F13.180	abus de sédatifs avec un trouble anxieux induit par les sédatifs
+F13.180	abus d'hypnotiques avec un trouble anxieux induit par les hypnotiques
+F13.180	abus d'anxiolytiques avec un trouble anxieux induit par les anxiolytiques
+F13.181	abus d'anxiolytiques avec un dysfonctionnement sexuel induit par les anxiolytiques
+F13.181	abus d'hypnotiques avec un dysfonctionnement sexuel induit par les hypnotiques
+F13.181	abus d'anxiolytiques avec un dysfonctionnement sexuel induit par les anxiolytiques
+F13.182	abus d'anxiolytiques avec un trouble du sommeil induit par les anxiolytiques
+F13.182	abus d'hypnotiques avec un trouble du sommeil induit par les hypnotiques
+F13.182	abus d'anxiolytiques avec un trouble du sommeil induit par les anxiolytiques
+F13.188	abus de sédatifs avec un autre trouble induit par les sédatifs
+F13.188	abus d'hypnotiques avec un autre trouble induit par les hypnotiques
+F13.188	abus d'anxiolytiques avec un autre trouble induit par les anxiolytiques
+F13.19	abus de sédatifs avec un trouble non spécifié induit par les sédatifs
+F13.19	abus d'hypnotiques avec un trouble non spécifié induit par les hypnotiques
+F13.19	abus d'anxiolytiques avec un trouble non spécifié induit par les anxiolytiques
+F13.20	dépendance aux sédatifs, non compliquée
+F13.20	dépendance aux hypnotiques, non compliquée
+F13.20	dépendance aux anxiolytiques, non compliquée
+F13.21	dépendance aux sédatifs, en rémission
+F13.21	dépendance aux hypnotiques, en rémission
+F13.21	dépendance aux anxiolytiques, en rémission
+F13.220	dépendance aux sédatifs avec intoxication, non compliquée
+F13.220	dépendance aux hypnotiques avec intoxication, non compliquée
+F13.220	dépendance aux anxiolytiques avec intoxication, non compliquée
+F13.221	dépendance aux sédatifs avec délire dû à l'intoxication
+F13.221	dépendance aux hypnotiques avec délire dû à l'intoxication
+F13.221	dépendance aux anxiolytiques avec délire dû à l'intoxication
+F13.229	dépendance aux sédatifs avec intoxication, non spécifiée
+F13.229	dépendance aux hypnotiques avec intoxication, non spécifiée
+F13.229	dépendance aux anxiolytiques avec intoxication, non spécifiée
+F13.230	dépendance aux sédatifs avec abstinence, non compliquée
+F13.230	dépendance aux hypnotiques avec abstinence, non compliquée
+F13.230	dépendance aux anxiolytiques avec abstinence, non compliquée
+F13.231	dépendance aux sédatifs avec délire dû à abstinence
+F13.231	dépendance aux hypnotiques avec délire dû à abstinence
+F13.231	dépendance aux anxiolytiques avec délire dû à abstinence
+F13.232	dépendance aux sédatifs avec abstinence avec un trouble de la perception
+F13.232	dépendance aux hypnotique avec abstinence avec un trouble de la perception
+F13.232	dépendance aux anxiolytiques avec abstinence avec un trouble de la perception
+F13.239	dépendance aux sédatifs avec abstinence, non spécifiée
+F13.239	dépendance aux hypnotiques avec abstinence, non spécifiée
+F13.239	dépendance aux anxiolytiques avec abstinence, non spécifiée
+F13.24	dépendance aux sédatifs avec un trouble de l'humeur induit par les sédatifs
+F13.24	dépendance aux sédatifs avec un trouble de l'humeur induit par les hypnotiques
+F13.24	dépendance aux sédatifs avec un trouble de l'humeur induit par les anxiolytiques
+F13.24	dépendance aux hypnotiques avec un trouble de l'humeur induit par les sédatifs
+F13.24	dépendance aux hypnotiques avec un trouble de l'humeur induit par les hypnotiques
+F13.24	dépendance aux hypnotiques avec un trouble de l'humeur induit par les anxiolytiques
+F13.24	dépendance aux anxiolytiques avec un trouble de l'humeur induit par les sédatifs
+F13.24	dépendance aux anxiolytiques avec un trouble de l'humeur induit par les hypnotiques
+F13.24	dépendance aux anxiolytiques avec un trouble de l'humeur induit par les anxiolytiques
+F13.250	dépendance aux sédatifs avec un trouble psychotique induit par les sédatifs avec des idées délirantes
+F13.250	dépendance aux sédatifs avec un trouble psychotique induit par les hypnotiques avec des idées délirantes
+F13.250	dépendance aux sédatifs avec un trouble psychotique induit par les anxiolytiques avec des idées délirantes
+F13.250	dépendance aux hypnotiques avec un trouble psychotique induit par les sédatifs avec des idées délirantes
+F13.250	dépendance aux hypnotiques avec un trouble psychotique induit par les hypnotiques avec des idées délirantes
+F13.250	dépendance aux hypnotiques avec un trouble psychotique induit par les anxiolytiques avec des idées délirantes
+F13.250	dépendance aux anxiolytiques avec un trouble psychotique induit par les sédatifs avec des idées délirantes
+F13.250	dépendance aux anxiolytiques avec un trouble psychotique induit par les hypnotiques avec des idées délirantes
+F13.250	dépendance aux anxiolytiques avec un trouble psychotique induit par les anxiolytiques avec des idées délirantes
+F13.251	dépendance aux sédatifs avec un trouble psychotique induit par les sédatifs avec des hallucinations
+F13.251	dépendance aux hypnotiques avec un trouble psychotique induit par les hypnotiques avec des hallucinations
+F13.251	dépendance aux anxiolytiques avec un trouble psychotique induit par les anxiolytiques avec des hallucinations
+F13.259	dépendance aux sédatifs, hypnotiques ou anxiolytiques avec un trouble psychotique induit par les sédatifs, les hypnotiques ou les anxiolytiques, non spécifié
+F13.259	dépendance aux sédatifs avec un trouble psychotique induit par les sédatifs, non spécifié
+F13.259	dépendance aux hypnotiques avec un trouble psychotique induit par les hypnotiques, non spécifié
+F13.259	dépendance aux anxiolytiques avec un trouble psychotique induit par les anxiolytiques, non spécifié
+F13.26	dépendance aux sédatifs avec un trouble amnésique persistant induit par les sédatifs
+F13.26	dépendance aux hypnotiques avec un trouble amnésique persistant induit par les hypnotiques
+F13.26	dépendance aux anxiolytiques avec un trouble amnésique persistant induit par les anxiolytiques
+F13.27	dépendance aux sédatifss avec démence persistante induit par des sédatifs
+F13.27	dépendance aux hypnotiques avec démence persistante induit par des hypnotiques
+F13.27	dépendance aux anxiolytiques avec démence persistante induit par des anxiolytiques
+F13.280	dépendance aux sédatifs avec un trouble anxieux induit par les sédatifs
+F13.280	dépendance aux hypnotique avec un trouble anxieux induit par les hypnotiques
+F13.280	dépendance aux anxiolytiques avec un trouble anxieux induit par les anxiolytiques
+F13.281	dépendance aux sédatifs avec un dysfonctionnement sexuel induit par les sédatifs
+F13.281	dépendance aux hypnotiques avec un dysfonctionnement sexuel induit par les hypnotiques
+F13.281	dépendance aux anxiolytiques avec un dysfonctionnement sexuel induit par les anxiolytiques
+F13.282	dépendance aux sédatifs avec un trouble du sommeil induit par les sédatifs
+F13.282	dépendance aux hypnotiques avec un trouble du sommeil induit par les hypnotiques
+F13.282	dépendance aux anxiolytiques avec un trouble du sommeil induit par les anxiolytiques
+F13.288	dépendance aux anxiolytiques avec un autre trouble induit par les anxiolytiques
+F13.288	dépendance aux sédatifs avec un autre trouble induit par les sédatifs
+F13.288	dépendance aux hypnotiques avec un autre trouble induit par les hypnotiques
+F13.29	dépendance aux anxiolytiques avec un trouble non spécifié induit par les anxiolytiques
+F13.90	consommation non spécifiée de sédatifs, d'hypnotiques ou d'anxiolytiques, non compliquée
+F13.920	consommation non spécifiée de sédatifs avec intoxication, non compliquée
+F13.920	consommation non spécifiée d'hypnotiques avec intoxication, non compliquée
+F13.920	consommation non spécifiée d'anxiolytiques avec intoxication, non compliquée
+F13.921	consommation non spécifiée de sédatifs avec délire dû à l'intoxication
+F13.921	consommation non spécifiée d'hypnotiques avec délire dû à l'intoxication
+F13.921	consommation non spécifiée d'anxiolytiques avec délire dû à l'intoxication
+F13.929	consommation non spécifiée d'anxiolytiques avec intoxication, non spécifiée
+F13.929	consommation non spécifiée d'hypnotiques avec intoxication, non spécifiée
+F13.929	consommation non spécifiée de sédatifs avec intoxication, non spécifiée
+F13.930	consommation non spécifiée de sédatifs avec abstinence, non compliquée
+F13.930	consommation non spécifiée d'anxiolytiques avec abstinence, non compliquée
+F13.930	consommation non spécifiée d'hyptnotiques avec abstinence, non compliquée
+F13.931	consommation non spécifiée de sédatifs avec délire dû à abstinence
+F13.931	consommation non spécifiée d'hypnotiques avec délire dû à abstinence
+F13.931	consommation non spécifiée d'anxiolytiques avec délire dû à abstinence
+F13.932	consommation non spécifiée de sédatifs avec abstinence avec un trouble de la perception
+F13.932	consommation non spécifiée d'hypnotiques avec abstinence avec un trouble de la perception
+F13.932	consommation non spécifiée d'anxiolytiques avec abstinence avec un trouble de la perception
+F13.939	consommation non spécifiée de sédatifs, d'hypnotiques ou d'anxiolytiques avec abstinence, non spécifiée
+F13.94	consommation non spécifiée de sédatifs avec un trouble de l'humeur induit par les sédatifs
+F13.94	consommation non spécifiée d'hypnotiques avec un trouble de l'humeur induit par les hypnotiques
+F13.94	consommation non spécifiée d'anxiolytiques avec un trouble de l'humeur induit par les anxiolytiques
+F13.950	consommation non spécifiée de sédatifs avec un trouble psychotique induit par les sédatifs avec des idées délirantes
+F13.950	consommation non spécifiée d'hypnotiques avec un trouble psychotique induit par les hypnotiques avec des idées délirantes
+F13.950	consommation non spécifiée d'anxiolytiques avec un trouble psychotique induit par les anxiolytiques avec des idées délirantes
+F13.951	consommation non spécifiée de sédatifs avec un trouble psychotique induit par les sédatifs avec des hallucinations
+F13.951	consommation non spécifiée d'hypnotiques avec un trouble psychotique induit par les hypnotiques avec des hallucinations
+F13.951	consommation non spécifiée d'anxiolytiques avec un trouble psychotique induit par les anxiolytiques avec des hallucinations
+F13.959	consommation non spécifiée de sédatifs avec un trouble psychotique induit par les sédatifs, non spécifié
+F13.959	consommation non spécifiée d'hypnotiques avec un trouble psychotique induit par les hypnotiques, non spécifié
+F13.959	consommation non spécifiée d'anxiolytiques avec un trouble psychotique induit par les anxiolytiques, non spécifié
+F13.96	consommation non spécifiée de sédatifs avec un trouble amnésique persistant induit par les sédatifs
+F13.96	consommation non spécifiée d'hypnotiques avec un trouble amnésique persistant induit par les hypnotiques
+F13.96	consommation non spécifiée d'anxiolytiques avec un trouble amnésique persistant induit par les anxiolytiques
+F13.97	consommation non spécifiée de sédatifs avec démence persistante induite par des sédatifs
+F13.97	consommation non spécifiée d'hypnotiques avec démence persistante induite par des hypnotiques 
+F13.97	consommation non spécifiée d'anxiolytiques avec démence persistante induite par des anxiolytiques
+F13.980	consommation non spécifiée de sédatifs avec un trouble anxieux induit par les sédatifs
+F13.980	consommation non spécifiée d'hypnotiques avec un trouble anxieux induit par les hypnotiques
+F13.980	consommation non spécifiée d'anxiolytiques avec un trouble anxieux induit par les anxiolytiques
+F13.981	consommation non spécifiée de sédatifs avec un dysfonctionnement sexuel induit par les sédatifs
+F13.981	consommation non spécifiée d'hypnotiques avec un dysfonctionnement sexuel induit par les hypnotiques
+F13.981	consommation non spécifiée d'anxiolytiques avec un dysfonctionnement sexuel induit par les anxiolytiques
+F13.982	consommation non spécifiée de sédatifs avec un trouble du sommeil induit par les sédatifs
+F13.982	consommation non spécifiée d'hypnotiques avec un trouble du sommeil induit par les hypnotiques
+F13.982	consommation non spécifiée d'anxiolytiques avec un trouble du sommeil induit par les anxiolytiques
+F13.988	consommation non spécifiée de sédatifs avec un autre trouble induit par les sédatifs
+F13.988	consommation non spécifiée d'hypnotiques avec un autre trouble induit par les hypnotiques
+F13.988	consommation non spécifiée d'anxiolytiques avec un autre trouble induit par les anxiolytiques
+F13.99	consommation non spécifiée de sédatifs avec un trouble induit par les sédatifs, non spécifié
+F13.99	consommation non spécifiée d'hypnotiques avec un trouble induit par les hypnotiques, non spécifié
+F13.99	consommation non spécifiée d'anxiolytiques avec un trouble induit par les anxiolytiques, non spécifié
+F14.10	abus de cocaïne, non compliqué
+F14.120	abus de cocaïne avec intoxication, non compliquée
+F14.121	abus de cocaïne avec délire dû à l'intoxication
+F14.122	abus de cocaïne avec intoxication avec un trouble de la perception
+F14.129	abus de cocaïne avec intoxication, non spécifiée
+F14.14	abus de cocaïne avec un trouble de l'humeur induit par la cocaïne
+F14.150	abus de cocaïne avec un trouble psychotique induit par la cocaïne avec des idées délirantes
+F14.151	abus de cocaïne avec un trouble psychotique induit par la cocaïne avec des hallucinations
+F14.159	abus de cocaïne avec un trouble psychotique induit par la cocaïne, non spécifié
+F14.180	abus de cocaïne avec un trouble anxieux induit par la cocaïne
+F14.181	abus de cocaïne avec un dysfonctionnement sexuel induit par la cocaïne
+F14.182	abus de cocaïne avec un trouble du sommeil induit par la cocaïne
+F14.188	abus de cocaïne avec un autre trouble induit par la cocaïne
+F14.19	abus de cocaïne avec un trouble induit par la cocaïne, non spécifié
+F14.20	dépendance à la cocaïne, non compliquée
+F14.21	dépendance à la cocaïne, en rémission
+F14.220	dépendance à la cocaïne avec intoxication, non compliquée
+F14.221	dépendance à la cocaïne avec délire dû à l'intoxication
+F14.222	dépendance à la cocaïne avec intoxication avec un trouble de la perception
+F14.229	dépendance à la cocaïne avec intoxication, non spécifiée
+F14.23	dépendance à la cocaïne avec abstinence
+F14.24	dépendance à la cocaïne avec un trouble de l'humeur induit par la cocaïne
+F40.210	arachnophobie
+F40.218	autre phobie liée aux animaux
+F40.220	anxiété d'orage
+F40.228	autre phobie liée à l'environnement naturel
+F40.230	anxiété de sang
+F40.231	anxiété d'injections et de transfusions
+F40.232	anxiété d'une autre forme de soin médical
+F40.233	anxiété d'une lésion
+F40.240	claustrophobie
+F40.241	acrophobie
+F40.242	anxiété de ponts
+F40.243	anxiété de voler
+F40.248	autre forme d'une phobie situationnelle
+F40.290	androphobie
+F40.291	gynéphobie
+F40.298	autre phobie spécifiée
+F40.8	d'autres troubles anxieux phobiques
+F40.9	trouble anxieux phobique, non spécifié
+F41.0	trouble panique
+F41.0	anxiété épisodique paroxystique
+F41.1	trouble d'anxiété généralisée
+F41.3	d'autres troubles anxieux mixtes
+F41.8	d'autres troubles anxieux spécifiés
+F41.9	trouble anxieux, non spécifié
+F42	trouble obsessionnel-compulsif
+F43.0	réaction aiguë au facteur de stress
+F43.10	syndrome de stress post-traumatique, non spécifié
+F43.11	syndrome de stress post-traumatique, aigu
+F43.12	syndrome de stress post-traumatique, chronique
+F43.20	trouble d'adaptation, non spécifié
+F43.21	trouble d'adaptation avec une réaction dépressive
+F43.22	trouble d'adaptation avec une réaction anxieuse
+F43.23	trouble d'adaptation avec une réaction mixte, anxieuse et dépressive
+F43.24	trouble d'adaptation avec une perturbation du comportement
+F43.25	trouble d'adaptation avec une perturbation mixte d'émotions et de comportement
+F43.29	trouble d'adaptation avec d'autres symptômes
+F43.8	d'autres réactions au facteur de stress sévère
+F43.9	réaction au facteur de stress sévère, non spécifiée
+F44.0	amnésie dissociative
+F44.1	fugue dissociative
+F44.2	stupeur dissociative
+F44.4	troubles moteurs dissociatifs
+F44.5	convulsions dissociatives
+F44.6	anesthésie dissociative et troubles sensoriels
+F44.7	trouble dissociatif mixte
+F44.7	trouble de conversion mixte
+F44.81	trouble dissociatif de l'identité
+F44.89	autre troubles dissociatifs et de la conversion
+F44.9	trouble dissociatif, non spécifié
+F44.9	trouble de conversion, non spécifié
+F45.0	somatisation
+F45.1	trouble somatoforme indifférencié
+F90.9	trouble avec altération de l'attention et hyperactivité, type non spécifié
+F90.9	trouble avec ADHD, type non spécifié
+F91.0	trouble du comportement limité au milieu familial
+F91.1	trouble du comportement, type mal socialisé
+F91.2	trouble du comportement, type socialisé
+F91.3	trouble oppositionnel avec provocation
+F91.8	d'autres troubles du comportement
+F91.9	trouble du comportement, non spécifié
+F93.0	angoisse de séparation de l'enfance
+F14.250	dépendance à la cocaïne avec un trouble psychotique induit par la cocaïne avec des idées délirantes
+F14.251	dépendance à la cocaïne avec un trouble psychotique induit par la cocaïne avec des hallucinations
+F14.259	dépendance à la cocaïne avec un trouble psychotique induit par la cocaïne, non spécifié
+F14.280	dépendance à la cocaïne avec un trouble anxieux induit par la cocaïne
+F14.281	dépendance à la cocaïne avec un dysfonctionnement sexuel induit par la cocaïne
+F14.282	dépendance à la cocaïne avec un trouble du sommeil induit par la cocaïne
+F14.288	dépendance à la cocaïne avec un autre trouble induit par la cocaïne
+F14.29	dépendance à la cocaïne avec un trouble non spécifié induit par la cocaïne
+F14.90	consommation non spécifiée de cocaïne, non compliquée
+F14.920	consommation non spécifiée de cocaïne avec intoxication, non compliquée
+F14.921	consommation non spécifiée de cocaïne avec délire dû à l'intoxication
+F14.922	consommation non spécifiée de cocaïne avec intoxication avec un trouble de la perception
+F14.929	consommation non spécifiée de cocaïne avec intoxication, non spécifiée
+F14.94	consommation non spécifiée de cocaïne avec un trouble de l'humeur induit par la cocaïne
+F14.950	consommation non spécifiée de cocaïne avec un trouble psychotique induit par la cocaïne avec des idées délirantes
+F14.951	consommation non spécifiée de cocaïne avec un trouble psychotique induit par la cocaïne avec des hallucinations
+F14.959	consommation non spécifiée de cocaïne avec un trouble psychotique induit par la cocaïne, non spécifié
+F14.980	consommation non spécifiée de cocaïne avec un trouble anxieux induit par la cocaïne
+F14.981	consommation non spécifiée de cocaïne avec un dysfonctionnement sexuel induit par la cocaïne
+F14.982	consommation non spécifiée de cocaïne avec un trouble du sommeil induit par la cocaïne
+F14.988	consommation non spécifiée de cocaïne avec un autre trouble induit par la cocaïne
+F14.99	consommation non spécifiée de cocaïne avec un trouble non spécifié induit par la cocaïne
+F15.10	abus d'autres stimulants, non compliqué
+F15.120	abus d'autres stimulants avec intoxication, non compliquée
+F15.121	abus d'autres stimulants avec délire dû à l'intoxication
+F15.122	abus d'autres stimulants avec intoxication avec un trouble de la perception
+F15.129	abus d'autres stimulants avec intoxication, non spécifiée
+F15.14	abus d'autres stimulants avec un trouble de l'humeur induit par les stimulants
+F15.150	abus d'autres stimulants avec un trouble psychotique induit par les stimulants avec des idées délirantes
+F15.151	abus d'autres stimulants avec un trouble psychotique induit par les stimulants avec des hallucinations
+F15.159	abus d'autres stimulants avec un trouble psychotique induit par les stimulants, non spécifié
+F15.180	abus d'autres stimulants avec un trouble anxieux induit par les stimulants
+F15.181	abus d'autres stimulants avec un dysfonctionnement sexuel induit par les stimulants
+F15.182	abus d'autres stimulants avec un trouble du sommeil induit par les stimulants
+F15.188	abus d'autres stimulants avec un autre trouble induit par les stimulants
+F15.19	abus d'autres stimulants avec un trouble induit par les stimulants, non spécifié
+F15.20	dépendance à d'autres stimulants, non compliquée
+F15.21	dépendance à d'autres stimulants, en rémission
+F15.220	dépendance à d'autres stimulants avec intoxication, non compliquée
+F15.221	dépendance à d'autres stimulants avec délire dû à l'intoxication
+F15.222	dépendance à d'autres stimulants avec intoxication avec un trouble de la perception
+F15.229	dépendance à d'autres stimulants avec intoxication, non spécifiée
+F15.23	dépendance à d'autres stimulants avec abstinence
+F15.24	dépendance à d'autres stimulants avec un trouble de l'humeur induit par les stimulants
+F15.250	dépendance à d'autres stimulants avec un trouble psychotique induit par les stimulants avec des idées délirantes
+F15.251	dépendance à d'autres stimulants avec un trouble psychotique induit par les stimulants avec des hallucinations
+F15.259	dépendance à d'autres stimulants avec un trouble psychotique induit par les stimulants, non spécifié
+F15.280	dépendance à d'autres stimulants avec un trouble anxieux induit par les stimulants
+F15.281	dépendance à d'autres stimulants avec un dysfonctionnement sexuel induit par les stimulants
+F15.282	dépendance à d'autres stimulants avec un trouble du sommeil induit par les stimulants
+F15.288	dépendance à d'autres stimulants avec un autre trouble induit par les stimulants
+F15.29	dépendance à d'autres stimulants avec un trouble non spécifié induit par les stimulants
+F15.90	consommation non spécifiée d'autres stimulants, non compliquée
+F15.920	consommation non spécifiée d'autres stimulants avec intoxication, non compliquée
+F15.921	consommation non spécifiée d'autres stimulants avec délire dû à l'intoxication
+F15.922	consommation non spécifiée d'autres stimulants avec intoxication avec un trouble de la perception
+F15.929	consommation non spécifiée d'autres stimulants avec intoxication, non spécifiée
+F15.93	consommation non spécifiée d'autres stimulants avec abstinence
+F15.94	consommation non spécifiée d'autres stimulants avec un trouble de l'humeur induit par les stimulants
+F15.950	consommation non spécifiée d'autres stimulants avec un trouble psychotique induit par les stimulants avec des idées délirantes
+F15.951	consommation non spécifiée d'autres stimulants avec un trouble psychotique induit par les stimulants avec des hallucinations
+F15.959	consommation non spécifiée d'autres stimulants avec un trouble psychotique induit par les stimulants, non spécifié
+F15.980	consommation non spécifiée d'autres stimulants avec un trouble anxieux induit par les stimulants
+F15.981	consommation non spécifiée d'autres stimulants avec un dysfonctionnement sexuel induit par les stimulants
+F15.982	consommation non spécifiée d'autres stimulants avec un trouble du sommeil induit par les stimulants
+F15.988	consommation non spécifiée d'autres stimulants avec un autre trouble induit par les stimulants
+F15.99	consommation non spécifiée d'autres stimulants avec un trouble non spécifié induit par les stimulants
+F16.10	abus d'hallucinogènes, non compliqué
+F16.120	abus d'hallucinogènes avec intoxication, non compliquée
+F16.121	abus d'hallucinogènes avec délire dû à l'intoxication
+F16.122	abus d'hallucinogènes avec intoxication avec un trouble de la perception
+F16.129	abus d'hallucinogènes avec intoxication, non spécifiée
+F16.14	abus d'hallucinogènes avec un trouble de l'humeur induit par les hallucinogènes
+F16.150	abus d'hallucinogènes avec un trouble psychotique induit par les hallucinogènes avec des idées délirantes
+F16.151	abus d'hallucinogènes avec un trouble psychotique induit par les hallucinogènes avec des hallucinations
+F16.159	abus d'hallucinogènes avec un trouble psychotique induit par les hallucinogènes, non spécifié
+F16.180	abus d'hallucinogènes avec un trouble anxieux induit par les hallucinogènes
+F16.183	abus d'hallucinogènes avec un trouble persistant de perception (flashbacks) induit par les hallucinogènes
+F16.188	abus d'hallucinogènes avec un autre trouble induit par les hallucinogènes
+F16.19	abus d'hallucinogènes avec un trouble induit par les hallucinogènes, non spécifié
+F16.20	dépendance aux hallucinogènes, non compliquée
+F16.21	dépendance aux hallucinogènes, en rémission
+F16.220	dépendance aux hallucinogènes avec intoxication, non compliquée
+F16.221	dépendance aux hallucinogènes avec délire dû à l'intoxication
+F16.229	dépendance aux hallucinogènes avec intoxication, non spécifiée
+F16.24	dépendance aux hallucinogènes avec un trouble de l'humeur induit par les hallucinogènes
+F16.250	dépendance aux hallucinogènes avec un trouble psychotique induit par les hallucinogènes avec des idées délirantes
+F16.251	dépendance aux hallucinogènes avec un trouble psychotique induit par les hallucinogènes avec des hallucinations
+F16.259	dépendance aux hallucinogènes avec un trouble psychotique induit par les hallucinogènes, non spécifié
+F16.280	dépendance aux hallucinogènes avec un trouble anxieux induit par les hallucinogènes
+F16.283	dépendance aux hallucinogènes avec un trouble persistant de perception (flashbacks) induit par les hallucinogènes
+F16.288	dépendance aux hallucinogènes avec un autre trouble induit par les hallucinogènes
+F16.29	dépendance aux hallucinogènes avec un trouble non spécifié induit par les hallucinogènes
+F16.90	consommation d'hallucinogènes non spécifiée, non compliquée
+F16.920	consommation d'hallucinogènes non spécifiée avec intoxication, non compliquée
+F16.921	consommation d'hallucinogènes non spécifiée avec délire dû à l'intoxication
+F16.929	consommation d'hallucinogènes non spécifiée avec intoxication, non spécifiée
+F16.94	consommation d'hallucinogènes non spécifiée avec un trouble de l'humeur induit par les hallucinogènes
+F16.950	consommation d'hallucinogènes non spécifiée avec un trouble psychotique induit par les hallucinogènes avec des idées délirantes
+F16.951	consommation d'hallucinogènes non spécifiée avec un trouble psychotique induit par les hallucinogènes avec des hallucinations
+F16.959	consommation d'hallucinogènes non spécifiée avec un trouble psychotique induit par les hallucinogènes, non spécifié
+F16.980	consommation d'hallucinogènes non spécifiée avec un trouble anxieux induit par les hallucinogènes
+F16.983	consommation d'hallucinogènes non spécifiée avec un trouble persistant de perception (flashbacks) induit par les hallucinogènes
+F16.988	consommation d'hallucinogènes non spécifiée avec un autre trouble induit par les hallucinogènes
+F16.99	consommation d'hallucinogènes non spécifiée avec un trouble non spécifié induit par les hallucinogènes
+F17.200	dépendance non spécifiée à la nicotine, non compliquée
+F17.201	dépendance non spécifiée à la nicotine, en rémission
+F17.203	dépendance non spécifiée à la nicotine, avec abstinence
+F17.208	dépendance non spécifiée à la nicotine, avec un autre trouble induit par la nicotine
+F17.209	dépendance non spécifiée à la nicotine, avec un trouble non spécifié induit par la nicotine
+F17.210	dépendance aux cigarettes, non compliquée
+F17.211	dépendance aux cigarettes, en rémission
+F17.213	dépendance aux cigarettes, avec abstinence
+F17.218	dépendance aux cigarettes, avec un autre trouble induit par la nicotine
+F17.219	dépendance aux cigarettes, avec un trouble non spécifié induit par la nicotine
+F17.220	dépendance au tabac à chiquer, non compliquée
+F17.221	dépendance au tabac à chiquer, en rémission
+F17.223	dépendance au tabac à chiquer, avec abstinence
+F17.228	dépendance au tabac à chiquer, avec un autre trouble induit par la nicotine
+F17.229	dépendance au tabac à chiquer, avec un trouble non spécifié induit par la nicotine
+F17.290	autre dépendance à la nicotine, non compliquée
+F17.291	autre dépendance à la nicotine, en rémission
+F17.293	autre dépendance à la nicotine, avec abstinence
+F17.298	autre dépendance à la nicotine, avec un autre trouble induit par la nicotine
+F17.299	autre dépendance à la nicotine, avec un trouble non spécifié induit par la nicotine
+F18.10	abus de substances inhalées, non compliqué
+F18.120	abus de substances inhalées avec intoxication, non compliquée
+F18.121	abus de substances inhalées avec délire dû à l'intoxication
+F18.129	abus de substances inhalées avec intoxication, non spécifiée
+F18.14	abus de substances inhalées avec un trouble de l'humeur induit par les substances inhalées
+F18.150	abus de substances inhalées avec un trouble psychotique induit par les substances inhalées avec des idées délirantes
+F18.151	abus de substances inhalées avec un trouble psychotique induit par les substances inhalées avec des hallucinations
+F18.159	abus de substances inhalées avec un trouble non spécifié psychotique induit par les substances inhalées
+F18.17	abus de substances inhalées avec démence induite par les substances inhalées
+F18.180	abus de substances inhalées avec un trouble anxieux induit par les substances inhalées
+F18.188	abus de substances inhalées avec un autre trouble induit par les substances inhalées
+F18.19	abus de substances inhalées avec un trouble non spécifié induit par les substances inhalées
+F18.20	dépendance aux substances inhalées, non compliquée
+F18.21	dépendance aux substances inhalées, en rémission
+F18.220	dépendance aux substances inhalées avec intoxication, non compliquée
+F18.221	dépendance aux substances inhalées avec délire dû à l'intoxication
+F18.229	dépendance aux substances inhalées avec intoxication, non spécifiée
+F18.24	dépendance aux substances inhalées avec un trouble de l'humeur induit par les substances inhalées
+F18.250	dépendance aux substances inhalées avec un trouble psychotique induit par les substances inhalées avec des idées délirantes
+F18.251	dépendance aux substances inhalées avec un trouble psychotique induit par les substances inhalées avec des hallucinations
+F18.259	dépendance aux substances inhalées avec un trouble psychotique induit par les substances inhalées, non spécifié
+F18.27	dépendance aux substances inhalées avec démence induite par les substances inhalées
+F18.280	dépendance aux substances inhalées avec un trouble anxieux induit par les substances inhalées
+F18.288	dépendance aux substances inhalées avec un autre trouble induit par les substances inhalées
+F18.29	dépendance aux substances inhalées avec un trouble non spécifié induit par les substances inhalées
+F18.90	consommation non spécifiée de substances inhalées, non compliquée
+F18.920	consommation non spécifiée de substances inhalées avec intoxication, non compliquée
+F18.921	consommation non spécifiée de substances inhalées avec délire dû à l'intoxication
+F18.929	consommation non spécifiée de substances inhalées avec intoxication, non spécifiée
+F18.94	consommation non spécifiée de substances inhalées avec un trouble de l'humeur induit par les substances inhalées
+F18.950	consommation non spécifiée de substances inhalées avec un trouble psychotique induit par les substances inhalées avec des idées délirantes
+F18.951	consommation non spécifiée de substances inhalées avec un trouble psychotique induit par les substances inhalées avec des hallucinations
+F18.959	consommation non spécifiée de substances inhalées avec un trouble psychotique induit par les substances inhalées, non spécifié
+F18.97	consommation non spécifiée de substances inhalées avec démence induite par les substances inhalées
+F18.980	consommation non spécifiée de substances inhalées avec un trouble anxieux induit par les substances inhalées
+F18.988	consommation non spécifiée de substances inhalées avec un autre trouble induit par les substances inhalées
+F18.99	consommation non spécifiée de substances inhalées avec un trouble non spécifié induit par les substances inhalées
+F19.10	abus d'autres substances psychoactives, non compliqué
+F19.120	abus d'autres substances psychoactives avec intoxication, non compliquée
+F19.121	abus d'autres substances psychoactives avec délire dû à l'intoxication
+F19.122	abus d'autres substances psychoactives avec intoxication avec un trouble de la perception
+F19.129	abus d'autres substances psychoactives avec intoxication, non spécifiée
+F19.14	abus d'autres substances psychoactives avec un trouble de l'humeur induit par les substances psychoactives
+F19.150	abus d'autres substances psychoactives avec un trouble psychotique induit par les substances psychoactives avec des idées délirantes
+F19.151	abus d'autres substances psychoactives avec un trouble psychotique induit par les substances psychoactives avec des hallucinations
+F19.159	abus d'autres substances psychoactives avec un trouble psychotique induit par les substances psychoactives, non spécifié
+F19.16	abus d'autres substances psychoactives avec un trouble amnésique persistant induit par les substances psychoactives
+F19.17	abus d'autres substances psychoactives avec démence persistante induit par les substances psychoactives
+F19.180	abus d'autres substances psychoactives avec un trouble anxieux induit par les substances psychoactives
+F19.181	abus d'autres substances psychoactives avec un dysfonctionnement sexuel induit par les substances psychoactives
+F19.182	abus d'autres substances psychoactives avec un trouble du sommeil induit par les substances psychoactives
+F19.188	abus d'autres substances psychoactives avec un autre trouble induit par les substances psychoactives
+F19.19	abus d'autres substances psychoactives avec un trouble induit par les substances psychoactives, non spécifié
+F19.20	dépendance à d'autres substances psychoactives, non compliquée
+F19.21	dépendance à d'autres substances psychoactives, en rémission
+F19.220	dépendance à d'autres substances psychoactives avec intoxication, non compliquée
+F19.221	dépendance à d'autres substances psychoactives avec délire dû à l'intoxication
+F19.222	dépendance à d'autres substances psychoactives avec intoxication avec un trouble de la perception
+F19.229	dépendance à d'autres substances psychoactives avec intoxication, non spécifiée
+F19.230	dépendance à d'autres substances psychoactives avec abstinence, non compliquée
+F19.231	dépendance à d'autres substances psychoactives avec délire dû à abstinence
+F19.232	dépendance à d'autres substances psychoactives avec abstinence avec un trouble de la perception
+F19.239	dépendance à d'autres substances psychoactives avec abstinence, non spécifiée
+F19.24	dépendance à d'autres substances psychoactives avec un trouble de l'humeur induit par les substances psychoactives
+F19.250	dépendance à d'autres substances psychoactives avec un trouble psychotique induit par les substances psychoactives avec des idées délirantes
+F19.251	dépendance à d'autres substances psychoactives avec un trouble psychotique induit par les substances psychoactives avec des hallucinations
+F19.259	dépendance à d'autres substances psychoactives avec un trouble psychotique induit par les substances psychoactives, non spécifié
+F19.26	dépendance à d'autres substances psychoactives avec un trouble amnésique persistant induit par les substances psychoactives
+F19.27	dépendance à d'autres substances psychoactives avec démence persistante induit par les substances psychoactives
+F19.280	dépendance à d'autres substances psychoactives avec un trouble anxieux induit par les substances psychoactives
+F19.281	dépendance à d'autres substances psychoactives avec un dysfonctionnement sexuel induit par les substances psychoactives
+F19.282	dépendance à d'autres substances psychoactives avec un trouble du sommeil induit par les substances psychoactives
+F19.288	dépendance à d'autres substances psychoactives avec un autre trouble induit par les substances psychoactives
+F19.29	dépendance à d'autres substances psychoactives avec un trouble non spécifié induit par les substances psychoactives
+F19.90	consommation non spécifiée d'autres substances psychoactives, non compliquée
+F19.920	consommation non spécifiée d'autres substances psychoactives avec intoxication, non compliquée
+F19.921	consommation non spécifiée d'autres substances psychoactives avec délire dû à l'intoxication
+F19.922	consommation non spécifiée d'autres substances psychoactives avec intoxication avec un trouble de la perception
+F19.929	consommation non spécifiée d'autres substances psychoactives avec intoxication, non spécifiée
+F19.930	consommation non spécifiée d'autres substances psychoactives avec abstinence, non compliquée
+F19.931	consommation non spécifiée d'autres substances psychoactives avec délire dû à abstinence
+F19.932	consommation non spécifiée d'autres substances psychoactives avec abstinence avec un trouble de la perception
+F19.939	consommation non spécifiée d'autres substances psychoactives avec abstinence, non spécifiée
+F19.94	consommation non spécifiée d'autres substances psychoactives avec un trouble de l'humeur induit par les substances psychoactives
+F19.950	consommation non spécifiée d'autres substances psychoactives avec un trouble psychotique induit par les substances psychoactives avec des idées délirantes
+F19.951	consommation non spécifiée d'autres substances psychoactives avec un trouble psychotique induit par les substances psychoactives avec des hallucinations
+F19.959	consommation non spécifiée d'autres substances psychoactives avec un trouble psychotique induit par les substances psychoactives, non spécifié
+F19.96	consommation non spécifiée d'autres substances psychoactives avec un trouble amnésique persistant induit par les substances psychoactives
+F19.97	consommation non spécifiée d'autres substances psychoactives avec démence persistante induit par les substances psychoactives
+F19.980	consommation non spécifiée d'autres substances psychoactives avec un trouble anxieux induit par les substances psychoactives
+F19.981	consommation non spécifiée d'autres substances psychoactives avec un dysfonctionnement sexuel induit par les substances psychoactives
+F19.982	consommation non spécifiée d'autres substances psychoactives avec un trouble du sommeil induit par les substances psychoactives
+F19.988	consommation non spécifiée d'autres substances psychoactives avec un autre trouble induit par les substances psychoactives
+F19.99	consommation non spécifiée d'autres substances psychoactives avec un trouble non spécifié induit par les substances psychoactives
+F20.0	schizophrénie paranoïde
+F20.1	schizophrénie hébéphrénique
+F20.2	schizophrénie catatonique
+F20.3	schizophrénie indifférenciée
+F20.5	schizophrénie résiduelle
+F20.81	trouble schizophréniforme
+F20.89	autre schizophrénie
+F20.9	schizophrénie, non spécifiée
+F21	trouble schizotypique
+F22	troubles délirants persistants
+F23	troubles psychotiques aigus et transitoires
+F24	trouble délirant induit
+F25.0	trouble schizo-affectif, type maniaque
+F25.1	trouble schizo-affectif, type dépressif
+F25.8	d'autres troubles schizo-affectifs
+F25.9	trouble schizo-affectif, non spécifié
+F28	d'autres troubles psychotiques non organiques
+F29	psychose non organique, non spécifiée
+F30.10	épisode maniaque sans symptômes psychotiques, non spécifié
+F30.11	épisode maniaque sans symptômes psychotiques, léger
+F30.12	épisode maniaque sans symptômes psychotiques, moyen
+F30.13	épisode maniaque sans symptômes psychotiques, sévère
+F30.2	épisode maniaque avec des symptômes psychotiques, sévère
+F30.3	épisode maniaque en rémission partielle
+F30.4	épisode maniaque en rémission complète
+F30.8	d'autres épisodes maniaques
+F30.9	épisode maniaque, non spécifié
+F31.0	trouble affectif bipolaire, épisode actuel hypomaniaque
+F31.10	trouble affectif bipolaire, épisode actuel maniaque sans symptômes psychotiques, non spécifié
+F31.11	trouble affectif bipolaire, épisode actuel maniaque sans symptômes psychotiques, léger
+F31.12	trouble affectif bipolaire, épisode actuel maniaque sans symptômes psychotiques, moyen
+F31.13	trouble affectif bipolaire, épisode actuel maniaque sans symptômes psychotiques, sévère
+F31.2	trouble affectif bipolaire, épisode actuel maniaque avec des symptômes psychotiques
+F31.30	trouble affectif bipolaire, épisode actuel de dépression, sévérité légère ou moyenne, non spécifié
+F31.31	trouble affectif bipolaire, épisode actuel de dépression, léger
+F31.32	trouble affectif bipolaire, épisode actuel de dépression, moyen
+F31.4	trouble affectif bipolaire, épisode actuel de dépression sévère sans symptômes psychotiques
+F31.5	trouble affectif bipolaire, épisode actuel de dépression sévère avec des symptômes psychotiques
+F31.60	trouble affectif bipolaire, épisode actuel mixte, non spécifié
+F31.61	trouble affectif bipolaire, épisode actuel mixte, léger
+F31.62	trouble affectif bipolaire, épisode actuel mixte, moyen
+F31.63	trouble affectif bipolaire, épisode actuel mixte, sévère, sans symptômes psychotiques
+F31.64	trouble affectif bipolaire, épisode actuel mixte, sévère, avec des symptômes psychotiques
+F31.70	trouble affectif bipolaire, actuellement en rémission, non spécifié
+F31.71	trouble affectif bipolaire, en rémission partielle, épisode le plus récent hypomaniaque
+F31.72	trouble affectif bipolaire, en rémission complète, épisode le plus récent hypomaniaque
+F31.73	trouble affectif bipolaire, en rémission partielle, épisode le plus récent maniaque
+F31.74	trouble affectif bipolaire, en rémission complète, épisode le plus récent maniaque
+F31.75	trouble affectif bipolaire, en rémission partielle, épisode le plus récent dépressif
+F31.76	trouble affectif bipolaire, en rémission complète, épisode le plus récent dépressif
+F31.77	trouble affectif bipolaire, en rémission partielle, épisode le plus récent mixte
+F31.78	trouble affectif bipolaire, en rémission complète, épisode le plus récent mixte
+F31.81	trouble bipolaire II
+F31.89	autre trouble bipolaire
+F31.9	trouble affectif bipolaire, non spécifié
+F32.0	désordre dépressif majeur, épisode isolé, légère
+F32.1	trouble dépressif majeur, épisode isolé, moyenne
+F32.2	trouble dépressif majeur, épisode isolé, sévère, sans symptômes psychotiques
+F32.3	trouble dépressif majeur, épisode isolé, sévère, avec des symptômes psychotiques
+F32.4	trouble dépressif majeur, épisode isolé, en rémission partielle
+F32.5	trouble dépressif majeur, épisode isolé, en rémission complète
+F32.8	d'autres épisodes dépressifs
+F32.9	épisode dépressif, non spécifié
+F33.0	trouble dépressif récurrent, épisode actuel léger
+F33.1	trouble dépressif récurrent, épisode actuel moyen
+F33.2	trouble dépressif récurrent, épisode actuel sévère sans symptômes psychotiques
+F33.3	trouble dépressif récurrent, épisode actuel sévère avec des symptômes psychotiques
+F33.40	trouble dépressif récurrent, en rémission, non spécifié
+F33.41	trouble dépressif récurrent, en rémission partielle
+F33.42	trouble dépressif récurrent, en rémission complète
+F33.8	d'autres troubles dépressifs récurrents
+F33.9	trouble dépressif récurrent, non spécifié
+F34.0	cyclothymie
+F34.1	dysthymie
+F34.8	d'autres troubles d'humeur persistants
+F34.8	d'autres troubles affectifs persistants
+F34.9	trouble de l'humeur persistant, non spécifié
+F34.9	trouble affectif persistant, non spécifié
+F39	trouble de l'humeur, non spécifié
+F39	trouble de l'humeur affectif, non spécifié
+F40.0	agoraphobie, non spécifiée
+F40.1	agoraphobie, avec un trouble panique
+F40.2	agoraphobie, sans trouble panique
+F40.10	phobie sociale, non spécifiée
+F40.11	phobie sociale, généralisée
+F45.20	trouble hypocondriaque, non spécifié
+F45.21	hypocondrie
+F45.22	peur de dysmorphie corporelle
+F45.29	d'autres troubles hypocondriaques
+F45.41	trouble de douleur exclusivement lié à des facteurs psychologiques
+F45.42	trouble de douleur lié à des facteurs psychologiques
+F45.8	d'autres troubles somatoformes
+F45.9	trouble somatoforme, non spécifié
+F48.1	syndrome de dépersonnalisation-déréalisation
+F48.2	effet pseudobulbaire
+F48.8	d'autres troubles névrotiques spécifiés
+F48.9	trouble névrotique, non spécifié
+F50.0	anorexie mentale, non spécifiée
+F50.1	anorexie mentale du type restrictif
+F50.2	anorexie mentale du type binge/purge
+F50.2	boulimie
+F50.2	bulimia nervosa
+F50.8	d'autres troubles d'alimentation
+F50.9	trouble de l'alimentation, non spécifié
+F51.1	insomnie primaire
+F51.2	insomnie d'ajustement
+F51.3	insomnie paradoxale
+F51.4	insomnie psychophysiologique
+F51.5	insomnie due à d'autres troubles mentales
+F51.9	insomnie, non en raison d'une substance ou d'une condition physiologique connue
+F51.11	hypersomnie primaire
+F51.12	insufficient sleep syndrome
+F51.13	hypersomnie due à d'autres troubles mentales
+F51.19	hypersomnie, non en raison d'une substance ou d'une condition physiologique connue
+F51.3	somnambulisme
+F51.4	terreurs nocturnes
+F51.5	cauchemars
+F51.8	d'autres troubles du sommeil non organiques
+F51.9	trouble du sommeil non organique, non spécifié
+F52.0	absence du désir sexuel
+F52.0	perte du désir sexuel
+F52.1	aversion sexuelle et manque du plaisir sexuel
+F52.21	trouble de l'érection chez l'homme
+F52.22	trouble de la réponse sexuelle chez la femme
+F52.31	dysfonctionnement orgasmique féminin
+F52.32	dysfonctionnement orgasmique masculin
+F52.32	dysfonctionnement orgasmique
+F52.4	éjaculation précoce
+F52.5	vaginisme non organique
+F52.6	dyspareunie non organique
+F52.8	d'autres dysfonctionnements sexuels, non dus au trouble ou à une maladie organique
+F52.9	dysfonctionnement sexuel non dû au trouble ou à une maladie organique, non spécifié
+F53	troubles mentaux et du comportement associés à la puerpéralité, non classés ailleurs
+F54	facteurs psychologiques et comportementaux associés à des maladies ou des troubles classés ailleurs
+F55.0	abus d'antiacides
+F55.1	abus de préparations à base de plantes ou remèdes populaires
+F55.2	abus de laxatifs
+F55.3	abus de stéroïdes
+F55.3	abus d'hormones
+F55.4	abus de vitamines
+F55.8	abus d'autres substances non psychoactives
+F59	syndromes comportementaux non spécifiés associés à des perturbations physiologiques et à des facteurs physiques
+F60.0	personnalité paranoïaque
+F60.1	personnalité schizoïde
+F60.2	personnalité dyssociale
+F60.3	personnalité émotionnellement labile
+F60.4	personnalité histrionique
+F60.5	personnalité anankastique
+F60.6	personnalité anxieuse 
+F60.6	personnalité anxieuse évitante
+F60.7	personnalité dépendante
+F60.81	personnalité narcissique
+F60.89	d'autres troubles spécifiques de la personnalité
+F60.9	trouble de la personnalité, non spécifié
+F63.0	jeu pathologique
+F63.1	tendance pathologique à allumer des incendies 
+F63.1	tendance pathologique à allumer des incendies pyromanie
+F63.2	tendance pathologique à commettre des vols
+F63.2	tendance pathologique à commettre des vols kleptomanie
+F63.3	trichotillomanie
+F63.81	trouble explosif intermittent
+F63.89	d'autres troubles des impulsions
+F63.9	trouble des habitudes et des impulsions, non spécifié
+F64.1	travestisme bivalent
+F64.2	trouble de l'identité sexuelle de l'enfance
+F64.8	d'autres troubles de l'identité sexuelle
+F64.9	trouble de l'identité sexuelle, non spécifié
+F65.0	fétichisme
+F65.1	travestisme fétichiste
+F65.2	exhibitionnisme
+F65.3	voyeurisme
+F65.4	pédophilie
+F65.50	sado-masochisme, non spécifié
+F65.51	sado-masochisme sexuel
+F65.52	sadisme sexuel
+F65.81	frotteurisme
+F65.89	d'autres paraphilies
+F65.9	trouble de la préférence sexuelle, non spécifié
+F66	problèmes psychologiques et comportementaux associés au développement sexuel et à son orientation
+F68.10	trouble factice, non spécifié
+F68.11	trouble factice avec des signes et des symptômes psychologiques prédominants
+F68.12	trouble factice avec des signes et des symptômes physiques prédominants
+F68.13	trouble factice avec des signes et des symptômes psychologiques et physiques combinés
+F68.8	d'autres troubles spécifiés de la personnalité et du comportement chez l'adulte
+F69	trouble de la personnalité et de comportement chez l'adulte, non spécifié
+F70	déficience intellectuelle légère
+F71	déficience intellectuelle moyenne
+F72	déficience intellectuelle grave
+F73	déficience intellectuelle profonde
+F78	d'autres formes de déficience intellectuelle
+F79	déficience intellectuelle, non spécifiée
+F80.0	trouble spécifique de l'articulation
+F80.1	trouble de l'acquisition du langage, du type expressif
+F80.2	trouble de l'acquisition du langage, du type réceptif
+F80.4	retard du développement de la parole et du langage due à  la perte de l'audition
+F80.81	trouble de la fluidité, d'origine de l'enfance
+F80.89	autre trouble du développement de la parole et du langage
+F80.9	trouble du développement de la parole et du langage, non spécifié
+F81.0	trouble spécifique de la lecture
+F81.2	trouble spécifique de l'acquisition de l'arithmétique
+F81.81	trouble du développement de l'expression écrite
+F81.89	d'autres troubles du développement des acquisitions scolaires
+F81.9	trouble du développement des acquisitions scolaires, non spécifié
+F82	trouble spécifique du développement motrice
+F84.0	autisme infantile
+F84.2	syndrome de Rett
+F84.3	autre trouble désintégratif de l'enfance
+F84.5	syndrome d'Asperger
+F84.8	d'autres troubles envahissants du développement
+F84.9	trouble envahissant du développement, non spécifié
+F88	d'autres troubles du développement psychologique
+F89	trouble du développement psychologique, non spécifié
+F90.0	trouble avec altération de l'attention et hyperactivité, type prédominant inattentif
+F90.0	trouble avec ADHD, type prédominant inattentif
+F90.1	trouble avec altération de l'attention et hyperactivité, type prédominant hyperactif
+F90.1	trouble avec ADHD, type prédominant hyperactif
+F90.2	trouble avec altération de l'attention et hyperactivité, type mixte
+F90.2	trouble avec ADHD, type mixte
+F90.8	trouble avec altération de l'attention et hyperactivité, autre type
+F90.8	trouble avec ADHD, autre type
+F93.8	d'autres troubles émotionnels de l'enfance
+F93.9	trouble émotionnel de l'enfance, non spécifié
+F94.0	mutisme électif
+F94.1	trouble réactionnel de l'attachement de l'enfance
+F94.2	trouble de l'attachement de l'enfance avec désinhibition
+F94.8	d'autres troubles du fonctionnement social de l'enfance
+F94.9	trouble du fonctionnement social de l'enfance, non spécifié
+F95.0	tic transitoire
+F95.1	tic moteur chronique
+F95.1	tic vocal chronique
+F95.2	forme associant tics vocaux et tics moteurs
+F95.2	syndrome de Gilles de la Tourette
+F95.8	d'autres tics
+F95.9	tic, non spécifié
+F98.0	énurésie non organique
+F98.1	encoprésie non organique
+F98.21	mérycisme de l'enfance
+F98.29	autre trouble de l'alimentation du nourrisson et de l'enfant
+F98.3	pica du nourrisson et de l'enfant
+F98.4	mouvements stéréotypés
+F98.5	bégaiement
+F98.8	d'autres troubles spécifiés du comportement et des troubles émotionnels apparaissant habituellement durant l'enfance et l'adolescence
+F98.9	trouble du comportement et des troubles émotionnels apparaissant habituellement durant l'enfance et l'adolescence, non spécifié
+F99	trouble mental, sans autre indication
+

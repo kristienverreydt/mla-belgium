@@ -1,0 +1,121 @@
+Y20.9	mort par asphyxie
+Y20.9	mort par suffocation
+Y20.9	asphyxie par lésion des voies respiratoires
+Y20.9	asphyxie par compression soutenue du thorax
+Y17.9	asphyxie par exposition à un gaz
+Y17.9	asphyxie par gaz toxique
+Y17.9	asphyxie par vapeurs toxiques
+Y20.9	suffocation par la litterie
+Y20.9	suffocation par constriction
+Y20.9	suffocation par pression
+Y20.9	mort par strangulation
+Y20.9	étranglement
+Y20.9	garrottement
+Y20.9	mort par pendaison
+Y21.9	mort par noyade
+Y21.9	submersion-immersion fatale
+Y21.9	noyade dans l'eau douce
+Y21.9	noyade dans l'eau salée
+Y21.9	noyade dans l'eau saumâtre
+Y21.9	noyade dans un liquide autre que l'eau
+Y09.9	homicide
+Y09.9	homicide avec acharnement
+Y09.9	meurtre
+Y09.9	meurtre au premier degré
+Y09.9	homicide avec préméditation
+Y09.9	meurtre au deuxième degré
+Y09.9	homicide sans préméditation
+Y09.9	homicide involontaire
+Y09.9	homicide justifiable
+Y09.9	mort par voies de fait, coups et blessures
+Y09.9	matricide
+Y09.9	patricide
+Y09.9	fratricide
+Y09.9	sororicide
+Y09.9	infanticide
+Y09.9	meurtre d'un époux
+Y09.9	meurtre d'un parent
+Y09.9	meurtre d'un ami
+Y09.9	meurtre d'une connaissance
+Y09.9	meurtre d'un étranger
+Y09.9	meurtre par tueur à gage
+Y09.9	homicide par règlement de compte
+Y09.9	exécution par règlement de compte
+Y09.9	tentative d'assassinat
+Y09.9	exécution non judiciaire
+Y09.9	euthanasie
+Y35.5	exécution judiciaire
+Y35.5	exécution légale
+Y35.5	exécution judiciaire par pendaison
+Y35.5	exécution judiciaire par chaise électrique
+Y35.5	exécution judiciaire par chambre à gaz
+Y35.5	exécution judiciaire par guillotine
+Y35.5	exécution judiciaire par peloton d'exécution
+Y35.5	exécution judiciaire par injection mortelle
+Y04.9	victime d'agression physique
+Y08.9	victime de piétinement
+Y07.9	syndrome de l'enfant maltraité
+Y07.9	abus sur un enfant
+Y07.9	blessure non accidentelle infligée à un enfant
+Y07.9	enfant victime de mauvais traitements
+Y07.9	syndrome des enfants battus
+Y07.9	syndrome du bébé secoué
+Y06.9	enfant mal nourri et/ou maltraité émotionnellement
+Y06.9	enfant négligé
+Y06.9	privation de soins aux enfants
+Y06.1	victime de négligence maternelle
+Y06.9	enfant victime de négligence
+Y07.9	syndrome de l'adulte maltraité
+Y07.9	victime d'abus
+Y07.9	abus
+Y07.9	personne abusée
+Y07.9	syndrome de la personne battue
+Y07.0	syndrome du conjoint battu
+Y07.0	conjoint abusé
+Y07.0	abus du conjoint
+Y07.0	syndrome de la femme battue
+Y07.9	femme abusée
+Y07.9	femme maltraitée
+Y07.9	personne âgée victime de mauvais traitements
+Y07.9	personne âgée maltraitée
+Y05.9	victime d'agression sexuelle
+Y05.9	enfant abusé sexuellement
+Y05.9	victime de viol
+Y05.9	victime de détournement de mineur
+Y05.9	victime d'agression homosexuelle
+Y05.9	victime de traumatisme psychologique
+Y05.9	victime d'agression psychologique
+Y07.9	victime d'abus psychologique
+Y07.9	victime de cruauté mentale
+Y05.9	femme abusée psychologiquement
+Y05.9	femme battue psychologiquement
+Y07.0	conjoint abusé psychologiquement
+Y07.0	conjoint battu psychologiquement
+Y07.1	parents abusés psychologiquement
+Y07.1	enfants abusés psychologiquement
+Y07.9	personne âgée abusée psychologiquement
+Y06.9	victime de négligence
+Y06.9	négligence
+Y06.0	conjoint négligé
+Y06.1	parents négligés
+Y06.9	personne âgée négligée
+Y09.9	victime d'un crime
+Y08.9	victime de cambriolage
+Y08.9	victime d'enlèvement
+Y07.9	victime de torture
+Y36.9	victime de conflit armé
+Y36.9	victime d'émeute
+Y36.9	victime d'insurrection civile
+Y36.9	victime de révolte civile
+Y36.9	victime de guerre civile
+Y36.9	victime d'embuscade
+Y36.9	victime de guérilla
+Y36.9	victime de guerre au sol
+Y36.9	victime de guerre navale
+Y36.9	victime de guerre aérienne
+Y36.9	victime de guerre internationale
+Y36.9	victime d'action internationale
+Y36.9	victime d'action militaire
+Y36.9	victime d'action pour le maintien de la paix
+Y36.9	victime de terrorisme
+Y20.9	strangulation

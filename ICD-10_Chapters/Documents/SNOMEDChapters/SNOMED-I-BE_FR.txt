@@ -1,0 +1,1424 @@
+I77.8	papulose atrophiante maligne
+I77.8	syndrome de Degos
+I77.8	syndrome cutanéo-intestinal mortel
+I78.1	étoile vasculaire
+I78.8	télangiectasie maculaire éruptive persistante
+I82.1	thrombophlébite migratrice superficielle
+I82.9	thrombose des petits vaisseaux de la peau
+I83.1	dermatite de stase
+I83.1	dermite de stase
+I83.1	eczéma de stase
+I83.1	eczéma variqueux
+I83.1	angiodermite pigmentée et purpurique
+I89.1	lymphangite infectieuse
+I89.1	lymphangite infectieuse des vaisseaux lymphatiques superficiels
+I89.1	lymphangite infectieuse des vaisseaux lymphatiques profonds
+I67.2	maladie de Klippel
+I67.2	pseudo-paralysie générale arthritique
+I51.6	maladie de l'appareil circulatoire
+I51.6	trouble cardiovasculaire
+I51.6	trouble de l'appareil circulatoire
+I51.6	maladie cardiovasculaire
+I51.6	MCV
+I25.0	maladie cardiovasculaire artérioscléreuse
+I25.0	MCV artérioscléreuse
+I25.0	artériosclérose cardiovasculaire
+I25.0	dégénérescence cardiovasculaire par artériosclérose
+I25.0	maladie cardiovasculaire par artériosclérose
+I25.0	sclérose cardiovasculaire par artériosclérose
+I70.9	athérosclérose oblitérante
+I70.9	athérosclérose ischémique
+I70.9	maladie athéroscléreuse ischémique
+I10	maladie hypertensive
+I10	HTA
+I10	hypertension artérielle
+I10	hyperpiésie
+I10	dégénérescence vasculaire hypertensive
+I10	maladie vasculaire hypertensive
+I10	hypertension
+I10	épisode hypertensif
+I10	rebond d'hypertension
+I10	hypertension artérielle bénigne
+I10	hypertension artérielle maligne
+I10	hypertension artérielle essentielle
+I10	hypertension artérielle primitive systémique
+I10	hypertension artérielle primitive
+I12.9	hypertension rénale
+I10	hypertension artérielle essentielle à rénine basse
+I10	hypertension artérielle essentielle à rénine élevée
+I10	hypertension artérielle essentielle bénigne
+I10	hypertension artérielle essentielle maligne
+I10	hypertension artérielle essentielle évolutive
+I15.9	hypertension artérielle secondaire
+I15.2	hypertension artérielle endocrinienne
+I15.2	HTA secondaire à des atteintes endocriniennes
+I15.2	hypertension artérielle d'origine surrénale
+I15.0	hypertension rénovasculaire
+I15.0	hypertension par ischémie rénale
+I15.0	hypertension artérielle de type Goldblatt
+I15.8	hypertension artérielle secondaire bénigne
+I15.0	hypertension artérielle réno-vasculaire secondaire bénigne
+I15.0	HTA vasculo-rénale secondaire bénigne
+I15.8	hypertension artérielle secondaire maligne
+I15.0	hypertension artérielle réno-vasculaire secondaire maligne
+I15.0	hypertension artérielle vasculo-rénale secondaire maligne
+I15.8	hypertension artérielle secondaire évolutive
+I10	hypertension artérielle systolique
+I10	hypertension artérielle transitoire
+I10	hypertension artérielle paroxystique
+I10	hypertension artérielle diastolique
+I10	hypertension artérielle diastolique labile
+I10	hypertension artérielle diastolique stable
+I15.8	hypertension artérielle diastolique secondaire
+I12.9	hypertension artérielle rénale
+I12.9	hypertension rénale parenchymateuse
+I11.9	maladie cardiaque hypertensive
+I11.9	cardiopathie hypertensive
+I11.9	cardiomégalie hypertensive
+I11.9	maladie cardiovasculaire hypertensive
+I11.0	maladie cardiaque hypertensive avec insuffisance cardiaque congestive
+I11.9	maladie cardiaque hypertensive sans insuffisance cardiaque congestive
+I13.9	maladie cardio-rénale hypertensive
+I13.9	maladie cardio-rénale
+I11.0	insuffisance cardiaque hypertensive
+I11.9	maladie cardiaque hypertensive bénigne
+I11.0	maladie cardiaque hypertensive bénigne avec insuffisance cardiaque congestive
+I11.9	maladie cardiaque hypertensive bénigne sans insuffisance cardiaque congestive
+I13.9	maladie cardio-rénale hypertensive bénigne
+I13.9	cardionéphropathie hypertensive bénigne
+I11.9	maladie cardiaque hypertensive maligne
+I11.9	cardiopathie hypertensive maligne
+I11.0	maladie cardiaque hypertensive maligne avec insuffisance cardiaque congestive
+I11.0	cardiopathie hypertensive maligne avec insuffisance cardiaque congestive
+I11.9	maladie cardiaque hypertensive maligne sans insuffisance cardiaque congestive
+I11.9	cardiopathie hypertensive maligne sans insuffisance cardiaque congestive
+I13.9	maladie cardio-rénale hypertensive maligne
+I13.9	cardionéphropathie hypertensive
+I12.9	maladie rénale hypertensive
+I12.9	néphropathie hypertensive
+I12.0	insuffisance rénale hypertensive
+I12.0	néphropathie hypertensive avec insuffisance rénale
+I12.0	urémie hypertensive chronique
+I12.9	néphrosclérose
+I12.9	artériosclérose rénale
+I12.9	néphrite artérioscléreuse chronique
+I12.9	néphrite artérioscléreuse interstitielle
+I12.9	artériosclérose du rein
+I12.9	néphropathie artériolaire
+I12.9	artériosclérose des artérioles rénales
+I12.9	sclérose artériolaire des artérioles rénales
+I13.9	maladie cardio-vasculo-rénale
+I12.9	sclérose rénale avec hypertension
+I12.9	néphrosclérose avec hypertension
+I12.9	maladie rénale hypertensive bénigne
+I12.9	maladie rénale hypertensive maligne
+I95.9	hypotension
+I95.9	hypotension artérielle
+I95.8	crise hypotensive
+I95.8	hypotension artérielle chronique
+I95.0	hypotension artérielle idiopathique permanente
+I95.1	hypotension artérielle orthostatique
+I95.1	hypotension artérielle posturale
+I95.1	hypotension artérielle orthostatique chronique
+I95.1	syndrome de Bradbury et Eggleston
+I95.1	hypotension artérielle orthostatique idiopathique
+I51.9	maladie cardiaque
+I51.9	cardiopathie
+I25.3	anévrisme cardiaque
+I25.3	anévrisme de la paroi du coeur
+I25.3	anévrisme pariétal du coeur
+I51.3	thrombus mural du coeur
+I51.3	thrombose endocardique
+I51.3	polype cardiaque
+I25.3	anévrisme ventriculaire
+I25.3	anévrisme auriculaire
+I25.3	anévrisme septal auriculaire
+I25.4	fistule artérioveineuse acquise du coeur
+I51.8	maladie cardiaque hyperkinétique
+I51.8	hyperkinésie cardiaque
+I42.9	maladie du myocarde
+I51.5	dégénérescence du myocarde
+I51.5	dégénérescence du coeur
+I51.5	dégénérescense pariétale du coeur
+I51.5	dégénérescence musculaire du coeur
+I51.5	dégénérescence graisseuse du coeur
+I42.3	maladie endomyocardique
+I42.3	endomyocardiopathie
+I38	maladie de l'endocarde
+I38	endocardiopathie
+I38	valvulopathie cardiaque
+I38	maladie valvulaire du coeur
+I38	maladie valvulaire cardiaque
+I51.8	affection du muscle papillaire
+I51.1	rupture des cordages tendineux
+I51.2	rupture du muscle papillaire
+I51.8	atrophie du muscle papillaire
+I51.8	dégénérescence du muscle papillaire
+I51.8	cicatrisation du muscle papillaire
+I51.8	dysfonctionnement du muscle papillaire
+I51.8	insuffisance du muscle papillaire
+I51.8	incoordination du muscle papillaire
+I21.2	infarctus aigu du muscle papillaire
+I20.9	angine de poitrine
+I20.9	angor
+I20.8	angor d'effort
+I20.9	syndrome angineux
+I20.8	sténocardie
+I20.8	angor, classe I
+I20.8	angor, classe II
+I20.8	angor, classe III
+I20.8	angor, classe IV
+I20.8	angor de décubitus
+I20.8	angor de repos
+I20.8	angor nocturne
+I20.1	angor de Prinzmetal
+I20.9	état angineux
+I20.9	syncope au cours d'une crise d'angine de poitrine
+I20.0	syndrome pré-infarctus
+I20.0	syndrome prémonitoire
+I20.0	angor instable
+I20.0	angor crescendo
+I20.0	syndrome de menace d'infarctus du myocarde
+I20.0	angor préinfarctus
+I25.1	maladie des artères coronaires
+I25.1	athérosclérose coronarienne
+I25.1	MCAS
+I25.1	maladie cardiaque athérosclérotique
+I25.1	artériosclérose coronarienne
+I25.1	cardiopathie artérioscléreuse
+I25.1	maladie cardiaque artériosclérotique
+I25.1	sclérose artérielle coronarienne
+I25.1	artériosclérose coronarienne calcifiée
+I25.1	athérome d'une artère coronaire
+I25.1	athérome des artères coronaires
+I25.1	artérite coronarienne
+I25.1	endartérite coronarienne
+I25.1	occlusion coronarienne
+I25.1	occlusion d'une artère coronaire
+I20.1	spasme d'une artère coronaire
+I25.1	occlusion de l'artère coronaire gauche
+I25.1	obstruction artérielle coronarienne gauche
+I25.1	occlusion de l'artère coronaire droite
+I25.1	obstruction artérielle coronarienne droite
+I24.0	thrombose coronarienne
+I24.0	embolie d'une artère coronaire
+I25.1	sténose coronarienne
+I25.1	sténose de l'ostium coronaire
+I25.1	sténose ostiale coronarienne
+I21.9	rupture d'une artère coronaire
+I25.4	anévrisme des vaisseaux coronaires
+I25.4	anévrisme disséquant d'une artère coronaire
+I24.0	thrombose du tronc de l'artère coronaire gauche
+I24.0	thrombose de l'artère interventriculaire antérieure gauche
+I24.0	thrombose du tronc de l'artère coronaire droite
+I25.9	cardiopathie ischémique
+I25.9	ischémie myocardique
+I97.1	hypertonie ischémique post-opératoire du coeur
+I97.1	syndrome du coeur de pierre
+I24.9	cardiopathie ischémique aiguë
+I20.0	insuffisance coronarienne aiguë
+I25.9	cardiopathie ischémique chronique
+I25.9	insuffisance coronarienne chronique
+I25.9	ischémie myocardique chronique
+I21.4	ischémie sous-endocardique
+I21.9	infarctus du myocarde
+I21.9	crise cardiaque
+I21.9	infarctus post-opératoire du myocarde
+I24.8	micro-infarctus du coeur
+I21.9	infarctus aigu du myocarde
+I23.3	infarctus aigu du myocarde avec rupture du ventricule
+I21.0	infarctus aigu de la paroi antérieure du myocarde
+I21.0	infarctus aigu de la paroi antéro-latérale du myocarde
+I21.0	infarctus aigu de la paroi antéro-apicale du myocarde
+I21.0	infarctus aigu de la paroi antéro-septale du myocarde
+I21.1	infarctus aigu de la paroi inférieure du myocarde
+I21.1	infarctus aigu de la paroi diaphragmatique du myocarde
+I21.1	infarctus aigu de la paroi inféro-latérale du myocarde
+I21.1	infarctus aigu de la paroi postéro-inférieure du myocarde
+I21.2	infarctus aigu de la paroi latérale du myocarde
+I21.2	infarctus aigu de la paroi latéro-apicale du myocarde
+I21.2	infarctus aigu de la paroi latéro-basale du myocarde
+I21.2	infarctus aigu de la paroi latérale haute du myocarde
+I21.2	infarctus aigu de la paroi postéro-latérale du myocarde
+I21.2	infarctus pariétal postérieur vrai
+I21.2	infarctus aigu du myocarde postéro-basal
+I21.2	infarctus aigu du myocarde auriculaire
+I21.2	infarctus aigu du myocarde septal
+I23.2	rupture du septum interventriculaire
+I21.4	infarctus sous-endocardique aigu
+I21.4	infarctus aigu non transmural
+I25.2	infarctus ancien du myocarde
+I25.2	infarctus du myocarde guéri
+I25.2	infarctus ancien du myocarde diagnostiqué par ECG ou autre procédé d'investigation, mais actuellement asymptomatique
+I24.1	syndrome post-infarctus du myocarde
+I24.1	syndrome de Dressler
+I21.9	syndrome de nécrose du myocarde dû à un médicament
+I21.9	syndrome de nécrose myocardique médicamenteuse
+I50.9	insuffisance cardiaque
+I50.9	insuffisance myocardique
+I50.9	défaillance cardiaque
+I50.9	insuffisance cardiaque aiguë
+I26.0	insuffisance cardiaque droite aiguë
+I50.1	insuffisance cardiaque chronique
+I27.9	insuffisance cardiaque droite chronique
+I50.0	insuffisance cardiaque congestive
+I50.0	maladie congestive du coeur
+I50.0	insuffisance cardiaque congestive aiguë
+I26.0	insuffisance cardiaque congestive droite aiguë
+I50.1	insuffisance cardiaque congestive gauche aiguë
+I50.0	insuffisance cardiaque congestive chronique
+I50.0	insuffisance cardiaque droite secondaire à une insuffisance cardiaque gauche
+I50.0	insuffisance cardiaque congestive droite chronique
+I50.1	insuffisance cardiaque gauche
+I50.1	oedème aigu du poumon avec mention de maladie cardiaque
+I50.1	oedème pulmonaire aigu avec mention de maladie cardiaque
+I50.1	insuffisance ventriculaire gauche
+I50.1	insuffisance cardiaque gauche aiguë
+I50.1	insuffisance cardiaque gauche chronique
+I50.1	insuffisance cardiaque congestive gauche chronique
+I50.0	insuffisance cardiaque globale
+I50.9	insuffisance cardiaque à haut débit
+I50.9	insuffisance cardiaque à faible débit
+I50.9	syndrome du bas débit cardiaque
+I50.0	syndrome de Bernheim
+I50.1	asthme cardiaque
+I50.1	oedème cardiaque
+I97.1	insuffisance cardiaque après chirurgie cardiaque
+I97.1	insuffisance cardiaque due à la présence d'une prothèse cardiaque
+I97.1	syndrome postcardiotomie
+I97.1	syndrome postvalvulotomie
+I51.7	cardiomégalie
+I51.7	coeur de boeuf
+I51.7	hypertrophie cardiaque
+I51.7	hypertrophie ventriculaire gauche
+I51.7	hypertrophie ventriculaire droite
+I51.7	hypertrophie septale interventriculaire
+I51.7	dilatation cardiaque
+I51.7	dilatation ventriculaire
+I51.7	ventricule dilaté
+I51.7	dilatation d'une oreillette
+I51.7	dilatation auriculaire cardiaque
+I42.5	myocardiopathie restrictive
+I42.5	syndrome hémodynamique restrictif
+I42.5	syndrome de Lloyd-Thomas et Evans
+I42.5	syndrome du coeur suspendu
+I00	fièvre rhumatismale
+I01.1	plaques de MacCallum
+I00	fièvre rhumatismale récurrente
+I00	fièvre rhumatismale chronique
+I00	fièvre rhumatismale sans atteinte cardiaque
+I00	arthropathie rhumatismale
+I00	fièvre rhumatismale active
+I00	fièvre rhumatismale aiguë
+I00	crise rhumatismale aiguë
+I00	arthrite rhumatismale subaiguë
+I00	rhumatisme articulaire subaigu
+I00	arthrite rhumatismale aiguë
+I00	rhumatisme articulaire aigu
+I02.9	chorée rhumatismale
+I02.9	chorée de Sydenham
+I02.9	chorée rhumatismale sans atteinte cardiaque
+I02.0	chorée rhumatismale avec atteinte cardiaque
+I02.9	chorée gravidique
+I09.9	maladie cardiaque rhumatismale
+I09.9	cardiopathie rhumatismale
+I09.9	pancardite rhumatismale
+I09.9	cardite rhumatismale
+I09.2	péricardite rhumatismale
+I09.8	cardiopathie rhumatismale récidivante
+I01.9	cardiopathie rhumatismale aiguë
+I01.9	fièvre rhumatismale avec atteinte cardiaque
+I01.9	cardite rhumatismale aiguë
+I01.9	fièvre rhumatismale active avec atteinte cardiaque sans précision
+I01.9	fièvre rhumatismale aiguë avec atteinte cardiaque sans précision
+I01.2	myocardite rhumatismale aiguë
+I01.2	myocardite rhumatismale
+I01.2	fièvre rhumatismale évolutive avec myocardite
+I01.2	fièvre rhumatismale aiguë avec myocardite
+I01.2	dégénérescence rhumatismale du myocarde
+I01.1	endocardite rhumatismale aiguë
+I01.1	fièvre rhumatismale aiguë avec endocardite
+I01.1	fièvre rhumatismale active avec endocardite
+I01.0	péricardite rhumatismale aiguë
+I01.0	fièvre rhumatismale active avec péricardite
+I01.0	fièvre rhumatismale aiguë avec péricardite
+I01.8	pancardite rhumatismale aiguë
+I01.8	autres cardiopathies rhumatismales aiguës
+I01.8	fièvre rhumatismale aiguë avec atteintes cardiaques multiples
+I09.9	maladie cardiaque rhumatismale chronique
+I09.9	cardiopathie rhumatismale chronique
+I09.9	cardite rhumatismale chronique
+I09.9	cardiopathie rhumatismale inactive chronique
+I09.0	cardiopathie rhumatismale chronique avec myocardite
+I09.0	myocardite rhumatismale chronique
+I09.1	endocardite rhumatismale chronique
+I09.1	cardiopathie rhumatismale chronique avec endocardite
+I09.2	péricardite rhumatismale chronique
+I09.2	péricardite fibreuse rhumatismale
+I09.2	médiastino-péricardite chronique rhumatismale
+I09.2	myo-péricardite chronique rhumatismale
+I09.1	maladie rhumatismale d'une valvule cardiaque
+I09.1	cardiopathie valvulaire rhumatismale
+I01.1	fièvre rhumatismale aiguë avec valvulite
+I01.1	fièvre rhumatismale évolutive avec valvulite
+I09.1	sténose rhumatismale d'une valvule cardiaque
+I09.1	régurgitation rhumatismale d'une valvule cardiaque
+I09.1	insuffisance rhumatismale d'une valvule cardiaque
+I09.1	reflux rhumatismal d'une valvule cardiaque
+I09.1	sténose rhumatismale d'une valvule cardiaque avec insuffisance
+I09.1	sténose rhumatismale d'une valvule cardiaque avec reflux
+I09.1	défaillance rhumatismale d'une valvule cardiaque
+I08.9	valvulite rhumatismale chronique
+I08.9	cardiopathie rhumatismale chronique avec valvulopathie
+I09.1	endocardite rhumatismale
+I09.1	maladie rhumatismale de l'endocarde
+I09.1	maladie rhumatismale de l'endocarde, valvule non précisée
+I05.9	maladie rhumatismale de la valvule mitrale
+I05.0	sténose rhumatismale de la valvule mitrale
+I05.0	sténose mitrale rhumatismale
+I05.0	rétrécissement rhumatismal de la valvule mitrale
+I05.1	régurgitation rhumatismale de la valvule mitrale
+I05.1	insuffisance rhumatismale de la valvule mitrale
+I05.1	reflux rhumatismal de la valvule mitrale
+I05.2	sténose rhumatismale de la valvule mitrale avec régurgitation
+I05.2	sténose rhumatismale de la valvule mitrale avec insuffisance
+I05.2	sténose rhumatismale de la valvule mitrale avec reflux
+I05.2	insuffisance mitrale rhumatismale
+I06.9	maladie rhumatismale de la valvule aortique
+I06.9	maladie valvulaire aortique rhumatismale
+I06.0	sténose rhumatismale de la valvule aortique
+I06.0	rétrécissement rhumatismal de la valvule aortique
+I06.1	régurgitation rhumatismale de la valvule aortique
+I06.1	insuffisance rhumatismale de la valvule aortique
+I06.1	reflux rhumatismal de la valvule aortique
+I06.2	sténose rhumatismale de la valvule aortique avec régurgitation
+I06.2	sténose rhumatismale de la valvule aortique avec insuffisance
+I06.2	sténose rhumatismale de la valvule aortique avec reflux
+I08.0	maladie rhumatismale des valvules mitrale et aortique
+I08.0	sténose rhumatismale des valvules mitrale et aortique
+I08.0	rétrécissement rhumatismal des valvules mitrale et aortique
+I08.0	sténose mitrale et insuffisance aortique rhumatismales
+I08.0	insuffisance mitrale et sténose aortique rhumatismales
+I08.0	régurgitation rhumatismale des valvules mitrale et aortique
+I08.0	insuffisance rhumatismale des valvules mitrale et aortique
+I08.0	reflux rhumatismal des valvules mitrale et aortique
+I08.0	atteinte rhumatismale des valvules mitrale et aortique
+I07.9	maladie rhumatismale de la valvule tricuspide
+I07.9	maladie valvulaire tricuspidienne rhumatismale
+I07.0	sténose rhumatismale de la valvule tricuspide
+I07.0	rétrécissement rhumatismal de la valvule tricuspide
+I07.1	régurgitation rhumatismale de la valvule tricuspide
+I07.1	insuffisance rhumatismale de la valvule tricuspide
+I07.1	reflux rhumatismal de la valvule tricuspide
+I07.2	sténose rhumatismale de la valvule tricuspide avec régurgitation
+I07.2	défaillance rhumatismale de la valvule tricuspide
+I09.8	maladie rhumatismale de la valvule pulmonaire
+I09.8	maladie valvulaire pulmonaire rhumatismale
+I09.8	sténose rhumatismale de la valvule pulmonaire
+I09.8	rétrécissement rhumatismal de la valvule pulmonaire
+I09.8	insuffisance rhumatismale de la valvule pulmonaire
+I09.8	régurgitation rhumatismale de la valvule pulmonaire
+I09.8	reflux rhumatismal de la valvule pulmonaire
+I09.8	sténose rhumatismale de la valvule pulmonaire avec insuffisance
+I09.8	sténose rhumatismale de la valvule pulmonaire avec régurgitation
+I09.8	sténose rhumatismale de la valvule pulmonaire avec reflux
+I09.8	défaillance rhumatismale de la valvule pulmonaire
+I09.9	insuffisance cardiaque rhumatismale congestive
+I09.9	insuffisance ventriculaire gauche rhumatismale
+I42.9	cardiomyopathie
+I42.9	myocardiopathie
+I42.3	cardiomyopathie africaine obscure
+I42.3	fibrose endomyocardique
+I42.3	sclérose endomyocardique
+I42.3	fibrose endomyocardique africaine
+I42.3	maladie endomyocardique pariétale idiopathique
+I42.4	fibroélastose endocardique
+I42.4	endocardite fibroplastique
+I42.0	cardiomyopathie non obstructive
+I42.0	myocardiopathie avec dilatation
+I42.9	cardiomyopathie primitive
+I42.9	cardiomyopathie idiopathique
+I42.9	cardiomyopathie idiopathique primitive
+I42.8	cardiomyopathie familiale
+I42.8	cardiomégalie familiale
+I42.3	endomyocardiopathie primitive à éosinophiles
+I42.3	endomyocardiopathie fibreuse primitive
+I42.9	cardiomyopathie secondaire
+I43.8*	cardiopathie thyréotoxique
+I43.8*	cardiopathie myxoedémateuse
+I43.8*	cardiopathie carcinoïde
+I42.0	cardiomyopathie congestive
+I42.0	cardiomyopathie congestive dilatée
+I42.0	insuffisance cardiaque primitive
+I42.0	cardiomyopathie dilatée primitive
+I42.0	cardiomyopathie dilatée idiopathique primitive
+I42.0	cardiomyopathie dilatée familiale primitive
+I42.0	cardiomyopathie dilatée secondaire
+I43.0*	cardiomyopathie dilatée secondaire à une infection
+I43.0*	cardiomyopathie dilatée secondaire à une myocardite virale
+I43.0*	cardiomyopathie dilatée secondaire à une myocardite bactérienne
+I43.0*	cardiomyopathie dilatée secondaire à une myocardite fongique
+I43.0*	cardiomyopathie dilatée secondaire à une myocardite à protozoaires
+I43.0*	cardiomyopathie dilatée secondaire à une myocardite à métazoaires
+I43.1*	cardiomyopathie dilatée secondaire à un trouble métabolique
+I43.1*	cardiomyopathie métabolique
+I43.1*	cardiomyopathie dilatée secondaire à une thésaurismose familiale
+I43.1*	cardiomyopathie dilatée secondaire à une glycogénose
+I43.1*	cardiomyopathie dilatée secondaire à une mucopolysaccharidose
+I43.2*	cardiomyopathie dilatée secondaire à une carence
+I43.2*	cardiomyopathie dilatée secondaire à une carence nutritionnelle
+I43.2*	cardiomyopathie nutritionnelle
+I43.2*	cardiomyopathie dilatée secondaire à une carence en électrolytes
+I42.8	cardiomyopathie dilatée secondaire à une connectivite
+I42.8	collagénose cardiovasculaire
+I43.8*	cardiomyopathie dilatée secondaire à un lupus érythémateux aigu disséminé
+I43.8*	cardiomyopathie dilatée secondaire à une périartérite noueuse
+I43.8*	cardiomyopathie dilatée secondaire à une polyarthrite rhumatoïde
+I43.8*	cardiomyopathie dilatée secondaire à une sclérodermie
+I43.8*	cardiomyopathie dilatée secondaire à une dermatomyosite
+I43.8*	cardiomyopathie dilatée secondaire à des infiltrations
+I43.1*	cardiomyopathie dilatée secondaire à une amyloïdose
+I43.8*	cardiomyopathie dilatée secondaire à une sarcoïdose
+I43.8*	cardiomyopathie dilatée secondaire à une affection maligne
+I43.1*	cardiomyopathie dilatée secondaire à une hémochromatose
+I43.8*	cardiomyopathie dilatée secondaire à des granulomes
+I43.8*	cardiomyopathie dilatée secondaire à des affections neuromusculaires
+I43.8*	cardiomyopathie dilatée secondaire à une dystrophie musculaire
+I43.8*	cardiomyopathie dilatée secondaire à une myotonie atrophique
+I43.8*	cardiomyopathie dilatée secondaire à une ataxie de Friedreich
+I43.8*	cardiomyopathie dilatée secondaire à une maladie de Refsum
+I43.8*	cardiomyopathie dilatée secondaire à une sensibilité
+I42.6	cardiomyopathie dilatée secondaire à l'alcool
+I42.6	myocardiopathie éthylique
+I42.7	cardiomyopathie dilatée secondaire à une irradiation
+I42.7	cardiomyopathie dilatée secondaire à un médicament
+I42.7	cardiomyopathie dilatée secondaire à une intoxication
+I42.7	cardiomyopathie des buveurs de bière
+I42.7	cardiomyopathie due au cobalt
+I43.8*	cardiomyopathie dilatée secondaire à une maladie cardiaque du péripartum
+I42.5	cardiomyopathie restrictive primitive
+I42.5	cardiomyopathie restrictive
+I42.5	cardiomyopathie constrictive
+I42.5	cardiomyopathie restrictive idiopathique primitive
+I42.3	endomyocardiopathie à éosinophiles
+I42.3	endocardite de Löffler
+I42.3	endocardite pariétale fibroplastique avec éosinophilie sanguine
+I42.3	endomyocardite de Löffler
+I42.3	endomyocardiopathie éosinophilique
+I42.5	endomyocardiopathie fibreuse restrictive primitive
+I43.1	cardiomyopathie restrictive secondaire à une thésaurismose familiale
+I43.1*	cardiomyopathie restrictive secondaire à une glycogénose
+I43.1*	cardiomyopathie restrictive secondaire à une mucopolysaccharidose
+I43.8*	cardiomyopathie restrictive secondaire à des infiltrations
+I43.1*	cardiomyopathie restrictive secondaire à une amyloïdose
+I43.8*	cardiomyopathie restrictive secondaire à une sarcoïdose
+I43.8*	cardiomyopathie restrictive secondaire à une affection maligne
+I43.1*	cardiomyopathie restrictive secondaire à une hémochromatose
+I43.8*	cardiomyopathie restrictive secondaire à des granulomes
+I43.8*	cardiomyopathie restrictive secondaire à une fibro-élastose endocardique
+I42.1	cardiomyopathie obstructive hypertrophique
+I42.2	cardiomyopathie hypertrophique primitive
+I42.1	cardiomyopathie obstructive
+I42.2	cardiomyopathie hypertrophique
+I42.2	cardiomyopathie hypertrophique idiopathique primitive
+I42.2	cardiomyopathie hypertrophique familiale primitive
+I43.8*	cardiomyopathie hypertrophique secondaire à des affections neuromusculaires
+I43.8*	cardiomyopathie hypertrophique secondaire à une hyperthyroïdie
+I43.8*	cardiomyopathie hypertrophique secondaire à une ataxie de Friedreich
+I51.4	myocardite
+I40.9	myocardite aiguë
+I40.9	myocardite interstitielle subaiguë
+I51.4	myocardite interstitielle chronique
+I51.4	myocardite fibreuse
+I40.1	myocardite interstitielle de Fiedler
+I40.1	myocardite de Fiedler
+I51.4	myocardite sénile
+I40.8	myocardite granulomateuse diffuse isolée
+I40.8	myocardite granulomateuse non spécifique
+I51.4	myocardite interstitielle
+I40.8	myocardite à cellules géantes
+I52.8*	cardite rhumatoïde
+I51.8	pancardite
+I43.8*	myocardite liée à un état d'hypersensibilité
+I42.7	myocardite d'irradiation
+I42.7	myocardite toxique
+I42.7	myocardite due à un agent chimique
+I42.7	myocardite due à un médicament
+I42.7	myocardite due à un agent physique
+I40.0	myocardite due à un agent infectieux
+I40.0	myocardite infectieuse
+I38	endocardite
+I33.9	endocardite aiguë
+I33.9	endocardite subaiguë
+I38	endocardite chronique
+I38	endocardite valvulaire
+I38	endocardite non infectieuse
+I33.0	endocardite bactérienne
+I33.0	endocardite infectieuse
+I33.0	endocardite bactérienne aiguë
+I33.0	endocardite bactérienne subaiguë
+I33.0	endocardite lente
+I33.0	EBS
+I38	endocardite bactérienne chronique
+I33.0	endocardite purulente
+I33.0	endocardite végétante
+I39.8*	endocardite verruqueuse
+I33.0	endocardite maligne
+I33.0	endocardite septique
+I33.0	endocardite ulcéreuse
+I33.0	endocardite avec anévrisme mycotique
+I33.9	myo-endocardite aiguë
+I33.9	myo-endocardite subaiguë
+I33.9	péri-endocardite aiguë
+I33.9	péri-endocardite subaiguë
+I39.8*	endocardite verruqueuse abactérienne
+I39.8*	endocardite de Libman-Sacks
+I39.8*	syndrome de Libman-Sacks
+I39.8*	endocardite verruqueuse atypique
+I38	endocardite thrombosante non bactérienne
+I38	endocardite cachectique
+I38	affection valvulaire cardiaque non rhumatismale
+I38	sténose non rhumatismale d'une valvule cardiaque
+I38	régurgitation d'une valvule cardiaque
+I38	insuffisance non rhumatismale d'une valvule cardiaque
+I38	reflux d'une valvule cardiaque
+I38	sténose valvulaire cardiaque avec régurgitation
+I38	sténose valvulaire cardiaque avec insuffisance
+I38	valvulite chronique
+I34.9	atteinte de la valvule mitrale
+I34.2	sténose non rhumatismale de la valvule mitrale
+I34.0	régurgitation de la valvule mitrale
+I34.0	régurgitation mitrale
+I34.0	insuffisance non rhumatismale de la valvule mitrale
+I34.0	reflux de la valvule mitrale
+I34.1	syndrome de Barlow
+I34.1	syndrome clic et souffle méso-télésystolique
+I34.1	syndrome de clic mésosystolique
+I34.1	syndrome de la valve flasque
+I34.1	prolapsus de la valvule mitrale
+I34.1	ballonnisation de la valve mitrale
+I34.8	sténose non rhumatismale mitrale avec régurgitation
+I34.8	sténose non rhumatismale mitrale avec insuffisance
+I35.9	atteinte de la valvule aortique
+I35.0	sténose non rhumatismale de la valvule aortique
+I35.1	régurgitation de la valvule aortique
+I35.1	régurgitation aortique
+I35.1	insuffisance non rhumatismale de la valvule aortique
+I35.1	reflux de la valvule aortique
+I35.0	calcification nodulaire et sténose de la valvule aortique
+I35.0	sclérose valvulaire aortique
+I35.0	sténose sub-aortique
+I36.9	atteinte de la valvule tricuspide
+I36.0	sténose non rhumatismale de la valvule tricuspide
+I36.1	régurgitation de la valvule tricuspide
+I36.1	régurgitation tricuspidienne
+I36.1	insuffisance non rhumatismale de la valvule tricuspide
+I36.1	reflux de la valvule tricuspide
+I37.9	atteinte de la valvule pulmonaire
+I37.9	affection valvulaire pulmonaire
+I37.0	sténose non rhumatismale de la valvule pulmonaire
+I37.0	sténose valvulaire pulmonaire
+I37.1	régurgitation de la valvule pulmonaire
+I37.1	régurgitation pulmonaire
+I37.1	régurgitation valvulaire pulmonaire
+I37.1	insuffisance valvulaire pulmonaire
+I37.1	reflux valvulaire pulmonaire
+I37.1	insuffisance non rhumatismale de la valvule pulmonaire
+I37.1	reflux de la valvule pulmonaire
+I37.8	atrésie acquise de la valvule pulmonaire
+I38	dégénérescence myxoïde d'une valvule cardiaque
+I34.8	dégénérescence myxoïde de la valvule mitrale
+I36.8	dégénérescence myxoïde de la valvule tricuspide
+I45.9	3-30-31 Dysrythmies cardiaques
+I45.9	trouble de la conduction du coeur
+I45.8	syndrome du tripoteur de pacemaker
+I49.9	dysrythmie cardiaque
+I49.9	arythmie
+I49.9	arythmie cardiaque
+I47.9	tachycardie paroxystique
+I47.9	syndrome de Bouveret
+I47.9	tachycardie paroxystique essentielle
+I47.2	tachy-arhythmie ventriculaire
+I46.9	arrêt cardiaque
+I46.9	asystole
+I46.9	arrêt circulatoire
+I46.9	arrêt cardiaque dû à une défaillance de l'électrostimulateur cardiaque
+I46.9	arrêt cardiaque dû à une défaillance du pacemaker
+I49.4	battements cardiaques prématurés
+I49.4	extrasystoles
+I49.4	arythmie extrasystolique
+I49.4	battements cardiaques prématurés multifocaux
+I49.4	extrasystoles multifocales
+I49.8	trouble du rythme ectopique
+I49.8	battements cardiaques ectopiques
+I49.8	trouble du rythme du sinus coronaire
+I49.8	dysfonctionnement du noeud sinu-atrial
+I49.8	arythmie sinusale
+I45.5	arrêt sinusal avec échappement nodal/ventriculaire
+I45.5	arrêt sinusal
+I49.5	bradycardie sinusale
+I49.5	bradycardie sinusale sévère
+I49.5	bradycardie sinusale persistante
+I49.5	maladie du sinus
+I49.5	maladie du noeud sinusal
+I49.5	dysfonctionnement sinusal
+I49.5	syndrome bradycardie-tachycardie
+I49.5	maladie rythmique auriculaire
+I49.5	tachycardie sinusale
+I49.8	trouble du rythme nodal
+I49.8	arythmie du noeud atrio-ventriculaire
+I49.8	arythmie nodale
+I49.8	arythmie jonctionnelle
+I45.6	excitation auriculo-ventriculaire anormale
+I45.6	conduction auriculoventriculaire pré-excitée
+I47.1	arythmie supraventriculaire
+I47.1	tachycardie supraventriculaire
+I47.1	tachycardie auriculaire
+I49.8	tachycardie du noeud atrio-ventriculaire non paroxystique
+I45.8	dissociation auriculoventriculaire
+I45.8	dissociation par interférence
+I45.8	dissociation isorythmique
+I45.6	conduction auriculoventriculaire accélérée
+I49.8	arythmie auriculaire
+I49.8	arythmie atriale
+I47.1	tachycardie auriculaire paroxystique
+I47.1	tachycardie atriale paroxystique
+I47.1	tachycardie auriculoventriculaire paroxystique
+I47.1	TAP
+I47.1	tachycardie atrioventriculaire paroxystique
+I47.1	tachycardie jonctionnelle paroxystique
+I47.1	tachycardie nodale paroxystique
+I47.1	tachycardie auriculaire paroxystique avec bloc auriculoventriculaire
+I47.1	tachycardie atriale paroxystique avec bloc auriculoventriculaire
+I47.1	tachycardie auriculaire ectopique chronique
+I47.1	tachycardie atriale ectopique chronique
+I47.1	tachycardie auriculaire multifocale
+I47.1	tachycardie atriale multifocale
+I48	fibrillation auriculaire
+I48	flutter auriculaire
+I48	fibrillation et flutter auriculaires
+I49.1	battements cardiaques auriculaires prématurés
+I49.1	extrasystoles auriculaires
+I49.1	contractions auriculaires prématurées
+I49.1	systoles auriculaires prématurées
+I49.8	centre rythmogène auriculaire migrateur
+I49.8	centre rythmogène atrial migrateur
+I49.8	battements cardiaques auriculaires ectopiques
+I49.8	centre rythmogène atrial ectopique
+I49.8	arythmie de sevrage
+I47.2	tachycardie ventriculaire
+I47.2	tachycardie ventriculaire paroxystique
+I49.8	arythmie ventriculaire
+I49.8	torsades de pointes
+I49.0	fibrillation ventriculaire
+I49.0	flutter ventriculaire
+I49.0	fibrillation et flutter ventriculaires
+I49.3	battements cardiaques ventriculaires prématurés
+I49.3	dépolarisation ventriculaire prématurée
+I49.3	extrasystoles ventriculaires
+I49.3	contractions ventriculaires prématurées
+I49.3	systoles ventriculaires prématurées
+I49.3	extrasystoles ventriculaires à foyer unique
+I49.3	extrasystoles ventriculaires multifocales
+I49.3	extrasystoles ventriculaires interpolées
+I47.1	tachycardie supraventriculaire paroxystique
+I49.1	extrasystoles supraventriculaires
+I45.6	conduction auriculoventriculaire accessoire
+I45.6	syndrome de Wolff-Parkinson-White
+I45.6	syndrome de pré-excitation arythmogène
+I45.6	syndrome de Lown, Ganong et Levine
+I45.6	syndrome de Clerc, Robert-Lévy et Cristesco
+I49.8	syndrome de l'allongement de l'intervalle QT
+I49.8	syndrome de l'allongement de l'espace QT
+I49.0	syndrome de Romano-Ward
+I45.5	bloc sino-atrial
+I45.5	bloc sino-auriculaire
+I45.9	bloc cardiaque
+I44.3	maladie de Lev
+I44.3	bloc atrioventriculaire
+I44.3	bloc auriculoventriculaire
+I44.2	bloc auriculoventriculaire complet
+I44.2	bloc cardiaque complet
+I44.2	bloc auriculoventriculaire du troisième degré
+I45.9	syndrome d'Adams-Stokes
+I45.9	maladie d'Adams-Stokes
+I45.9	maladie de Lenègre
+I44.1	bloc auriculoventriculaire incomplet
+I44.1	bloc cardiaque partiel
+I44.1	bloc cardiaque incomplet
+I44.1	bloc auriculoventriculaire du second degré
+I44.1	bloc auriculoventriculaire partiel
+I44.0	bloc auriculoventriculaire du premier degré
+I44.0	bloc du premier degré
+I44.0	allongement de l'espace PR
+I44.1	bloc auriculoventriculaire de Mobitz type II
+I44.1	bloc de Mobitz type II
+I44.1	bloc atrioventriculaire de Mobitz type II
+I44.1	bloc auriculoventriculaire de Mobitz type I
+I44.1	bloc de Luciani-Wenckebach
+I44.1	phénomène de Luciani-Wenckebach
+I44.6	bloc auriculoventriculaire incomplet avec réponse auriculoventriculaire
+I45.4	bloc intraventriculaire
+I45.4	bloc focal
+I45.4	trouble de la conduction intraventriculaire
+I45.4	bloc intraventriculaire diffus
+I45.4	bloc intraventriculaire myofibrillaire
+I45.4	bloc monofasciculaire
+I45.4	bloc de branche
+I45.1	bloc de branche droit
+I44.7	bloc de branche gauche
+I44.6	hémibloc gauche
+I44.4	bloc fasciculaire antérieur gauche
+I44.5	bloc fasciculaire postérieur gauche
+I45.2	bloc bifasciculaire
+I44.6	bloc de branche gauche complet
+I44.6	blocs fasciculaires antérieur et postérieur
+I45.1	bloc de branche droit et bloc fasciculaire postérieur gauche
+I45.1	bloc de branche droit et bloc fasciculaire antérieur gauche
+I44.2	bloc de branche bilatéral
+I45.1	bloc de branche droit et bloc de branche gauche
+I45.1	bloc de branche droit et bloc de branche gauche complet
+I45.1	bloc de branche droit et bloc de branche gauche incomplet
+I45.3	bloc trifasciculaire
+I45.3	bloc multifasciculaire
+I45.1	bloc de branche droit, blocs fasciculaires antérieur et postérieur
+I45.1	bloc de branche droit, bloc fasciculaire antérieur et bloc fasciculaire postérieur incomplet
+I45.1	bloc de branche droit, bloc fasciculaire postérieur et bloc fasciculaire antérieur incomplet
+I45.1	bloc de branche droit, blocs fasciculaires antérieur et postérieur incomplets
+I45.1	bloc de branche droit, bloc fasciculaire antérieur et bloc de branche gauche incomplet
+I45.1	bloc de branche droit, bloc fasciculaire postérieur et bloc de branche gauche incomplet
+I45.1	bloc fasciculaire antérieur, bloc fasciculaire postérieur et bloc de branche droit incomplet
+I27.9	maladie de la circulation pulmonaire
+I27.1	cardiopathie due à une cyphoscoliose
+I26.0	maladie cardiopulmonaire aiguë
+I27.9	maladie cardiopulmonaire chronique
+I27.9	coeur pulmonaire
+I26.0	coeur pulmonaire aigu
+I27.9	coeur pulmonaire chronique
+I28.8	rupture d'un vaisseau pulmonaire
+I28.8	sténose d'un vaisseau pulmonaire
+I28.8	sténose d'une artère pulmonaire
+I28.1	anévrisme d'une artère pulmonaire
+I28.0	fistule artérioveineuse des vaisseaux pulmonaires
+I28.0	fistule artérioveineuse pulmonaire
+I26.9	infarctus pulmonaire
+I26.9	infarctus du poumon
+I26.9	infarctus hémorragique pulmonaire
+I26.9	thrombose pulmonaire
+I26.9	thrombose d'une artère pulmonaire
+I26.9	thrombose artérielle pulmonaire
+I26.9	thrombose d'une veine pulmonaire
+I26.9	thrombose veineuse pulmonaire
+I26.9	embolie pulmonaire
+I26.9	micro-embolie pulmonaire
+I26.9	apoplexie pulmonaire
+I27.0	artériosclérose pulmonaire primitive
+I27.0	artérite pulmonaire
+I27.0	endartérite pulmonaire
+I27.0	hypertension pulmonaire
+I27.0	hypertension pulmonaire primitive
+I27.0	sclérose primitive d'une artère pulmonaire
+I27.0	endartérite oblitérante primitive d'une artère pulmonaire
+I27.0	maladie hypertensive artérielle pulmonaire
+I27.0	maladie hypertensive veineuse pulmonaire
+I27.0	maladie veino-occlusive du poumon
+I27.0	hypertension pulmonaire épisodique
+I27.0	hypertension pulmonaire progressive
+I27.0	hypertension pulmonaire secondaire
+I27.0	syndrome d'Ayerza
+I27.0	cardiopathie noire
+I27.0	syndrome des cardiaques noirs
+I99	maladie vasculaire
+I99	angiopathie
+I99	affection vasculaire
+I99	micro-angiopathie
+I77.6	vascularite systémique
+I73.9	maladie vasculaire périphérique
+I73.9	angiopathie périphérique
+I73.8	mauvaise circulation périphérique
+I73.8	cyanose d'origine périphérique
+I73.1	thromboangéite
+I73.1	thrombangéite
+I73.9	claudication intermittente
+I73.9	syndrome de Bouley-Charcot
+I73.9	claudication intermittente médullaire
+I73.9	claudication intermittente de la queue de cheval
+I73.9	claudication veineuse intermittente de Löhr
+I73.9	syndrome de Paget-von Schroetter
+I73.0	syndrome de Raynaud
+I73.0	maladie de Raynaud
+I73.0	phénomène de Raynaud
+I73.0	cyanose digitale paroxystique
+I73.8	acrocyanose
+I73.8	syndrome de Crocq et Cassirer
+I73.8	acroparesthésie simple
+I73.8	acroparesthésie type Schultze
+I73.8	acroparesthésie vasomotrice
+I73.8	acroparesthésie type Nothnagel
+I73.8	érythrocyanose
+I73.8	érythromélalgie
+I73.8	maladie de Weir Mitchell
+I73.8	érythermalgie
+I77.6	vasculite
+I77.6	vascularite
+I77.6	angéite
+I77.9	maladie des artères
+I70.9	maladie vasculaire artériosclérotique
+I70.9	artériosclérose oblitérante
+I70.9	artériosclérose sénile
+I70.2	gangrène par athérosclérose
+I70.2	médiacalcinose de Mönckeberg
+I70.2	sclérose de Mönckeberg
+I70.9	dégénérescence artérielle
+I70.9	dégénérescence artériovasculaire
+I70.9	dégénérescence vasculaire
+I70.9	calcification artérielle idiopathique de l'enfant
+I70.9	athérosclérose généralisée et sans précision
+I70.9	athérome d'une artère
+I70.1	athérosclérose de l'artère rénale
+I70.2	athérosclérose des artères des membres
+I70.8	athérosclérose d'artères précisées
+I72.8	anévrisme d'une artère, autre que l'aorte
+I72.9	anévrisme rompu d'une artère
+I72.9	anévrisme disséquant d'une artère
+I72.9	anévrisme cirsoïde d'une artère
+I72.9	faux anévrisme d'une artère
+I77.0	anévrisme variqueux d'une artère
+I77.0	varice anévrismale d'une artère
+I72.1	anévrisme d'une artère du membre supérieur
+I72.1	anévrisme de l'artère axillaire
+I72.4	anévrisme d'une artère du membre inférieur
+I72.4	anévrisme de l'artère fémorale
+I72.4	anévrisme de l'artère poplitée
+I72.2	anévrisme de l'artère rénale
+I72.2	anévrisme disséquant de l'artère rénale
+I72.3	anévrisme d'une artère iliaque
+I72.0	anévrisme d'une artère du cou
+I72.0	anévrisme de l'artère carotide commune
+I72.0	anévrisme de l'artère carotide externe
+I72.0	anévrisme de l'artère carotide interne
+I72.8	anévrisme de l'artère sous-clavière
+I72.8	anévrisme d'une artère viscérale
+I72.8	anévrisme de l'artère splénique
+I72.8	anévrisme du tronc coeliaque
+I72.8	anévrisme de l'artère gastro-duodénale
+I72.8	anévrisme de l'artère gastro-épiploïque
+I72.8	anévrisme d'une artère hépatique
+I72.8	anévrisme d'une artère pancréatico-duodénale
+I72.8	anévrisme de l'artère mésentérique supérieure
+I72.8	anévrisme de l'artère médiastinale
+I72.8	anévrisme d'une artère spinale
+I74.9	embolie artérielle, artère non précisée
+I74.9	infarctus embolique
+I74.5	embolie d'une artère iliaque
+I74.4	embolisation artérielle périphérique par cholestérol
+I74.4	syndrome de l'orteil bleu
+I74.9	thrombose artérielle, artère non précisée
+I74.9	thrombo-artérite
+I74.9	infarctus thrombotique
+I73.1	thromboangéite oblitérante
+I73.1	thrombo-angéite oblitérante
+I73.1	maladie de Buerger
+I73.1	thrombo-angiose
+I74.5	thrombose d'une artère iliaque
+I74.4	thrombose des artères des membres
+I74.2	thrombose des artères du membre supérieur
+I74.3	thrombose des artères du membre inférieur
+I74.3	thrombose de l'artère fémorale
+I74.3	thrombose de l'artère poplitée
+I77.6	artérite
+I77.6	endartérite
+I70.9	endartérite déformante
+I70.9	endartérite oblitérante
+I70.9	artérite sénile
+I70.9	endartérite sénile
+I00	artérite rhumatismale
+I77.6	artériolite
+I77.1	occlusion d'une artère
+I77.1	obstruction d'une artère
+I77.1	artériopathie oblitérante
+I77.1	sténose d'une artère
+I77.8	syndrome du tronc artériel brachiocéphalique déformé
+I77.2	fistule artérielle
+I77.2	érosion artérielle
+I77.2	ulcération artérielle
+I77.5	nécrose d'une artère
+I77.2	rupture d'une artère
+I77.8	hyperplasie de l'artère rénale
+I77.8	hyperplasie fibromusculaire de l'artère rénale
+I70.1	sténose de l'artère rénale, cause inconnue
+I70.1	sténose de l'artère rénale
+I77.4	syndrome de compression de l'artère coeliaque
+I77.4	syndrome du tronc coeliaque
+I77.4	syndrome de Marable
+I77.8	syndrome du guidon de scooter
+I77.8	hyperplasie fibromusculaire d'une artère, à l'exclusion de l'artère rénale
+I74.8	thrombose d'une artère hépatique
+I74.8	embolie d'une artère hépatique
+I77.9	maladie de l'aorte
+I77.9	affection de l'aorte
+I71.9	dilatation de l'aorte
+I71.9	nécrose hyaline de l'aorte
+I71.8	rupture de l'aorte
+I70.0	sténose de l'aorte
+I70.0	sténose aortique
+I71.9	médianécrose de l'aorte
+I71.9	médianécrose kystique de l'aorte d'Erdheim
+I71.9	médianécrose kystique idopathique de l'aorte
+I77.0	fistule aorto-cave
+I70.0	athérosclérose de l'aorte
+I71.9	anévrisme aortique
+I71.9	anévrisme de l'aorte
+I71.8	anévrisme aortique rompu
+I71.0	anévrisme aortique disséquant
+I71.2	anévrisme de l'aorte thoracique sans rupture
+I71.1	anévrisme rompu de l'aorte thoracique
+I71.4	anévrisme de l'aorte abdominale sans rupture
+I71.3	anévrisme rompu de l'aorte abdominale
+I74.0	embolie de l'aorte abdominale
+I74.1	embolie de l'aorte thoracique
+I74.0	thrombose de l'aorte abdominale
+I74.0	syndrome de la bifurcation aortique
+I74.0	syndrome d'obstruction de la bifurcation aortique
+I74.0	syndrome de Leriche
+I74.1	thrombose de l'aorte thoracique
+I77.6	aortite
+I01.1	aortite rhumatoïde
+I78.9	maladie des capillaires sanguins
+I78.9	affection des capillaires sanguins
+I78.8	hémorragie capillaire
+I78.8	hyperperméabilité capillaire
+I78.8	syndrome d'extravasation des capillaires sanguins
+I78.8	thrombose capillaire
+I78.1	naevus non néoplasique de la peau
+I78.1	angiome arachnéen de la peau
+I78.1	angiome arachnéen cutané
+I78.1	angiome serpigineux de la peau
+I78.1	angiome stellaire de la peau
+I78.1	angiome aranéen cutané
+I78.1	naevus cutané non néoplasique
+I78.1	naevus stellaire cutané
+I78.1	naevus cutané sénile
+I78.1	angiome cutané stellaire
+I78.1	naevus arachnéen de la peau
+I78.1	naevus télangiectasique de la peau
+I78.1	naevus aranéen de la peau
+I78.1	naevus sénile de la peau
+I78.1	angiome aranéen de la peau
+I78.1	naevus stellaire de la peau
+I78.1	naevus cutané télangiectasique
+I78.1	angiome sénile
+I78.1	tache rubis
+I78.1	taches de Morgan
+I78.1	télangiectasie papillaire
+I78.8	capillarite
+I87.9	maladie des veines
+I87.9	maladie veineuse
+I82.9	thrombose veineuse
+I87.8	calcul veineux
+I87.8	phlébolithe
+I81	obstruction de la veine porte
+I82.0	syndrome de Budd-Chiari
+I82.0	syndrome de Chiari
+I83.9	veines variqueuses du membre inférieur
+I83.9	phlébectasie du membre inférieur
+I83.9	varices du membre inférieur
+I83.9	veines variqueuses du membre inférieur sans ulcère ou inflammation
+I83.9	varices du membre inférieur sans ulcère ou inflammation
+I83.0	veines variqueuses du membre inférieur avec ulcère
+I83.0	ulcère variqueux du membre inférieur
+I83.0	varices du membre inférieur avec ulcère
+I83.1	veines variqueuses du membre inférieur avec inflammation
+I83.1	varices du membre inférieur avec inflammation
+I83.2	veines variqueuses du membre inférieur avec ulcère et inflammation
+I83.2	varices du membre inférieur avec ulcère et inflammation
+I84.9	hémorroïdes
+I84.9	hémorroïdes sans complication
+I84.8	hémorroïdes hémorragiques
+I84.8	hémorroïdes procidentes
+I84.8	hémorroïdes prolabées
+I84.8	hémorroïdes étranglées
+I84.8	hémorroïdes ulcérées
+I84.7	hémorroïdes thrombosées
+I84.2	hémorroïdes internes
+I84.2	hémorroïdes internes sans complication
+I84.1	hémorroïdes internes hémorragiques
+I84.1	hémorroïdes internes procidentes
+I84.1	hémorroïdes internes prolabées
+I84.1	hémorroïdes internes étranglées
+I84.1	hémorroïdes internes ulcérées
+I84.0	hémorroïdes internes thrombosées
+I84.5	hémorroïdes externes
+I84.5	hémorroïdes externes sans complication
+I84.4	hémorroïdes externes hémorragiques
+I84.4	hémorroïdes externes procidentes
+I84.4	hémorroïdes externes prolabées
+I84.4	hémorroïdes externes étranglées
+I84.4	hémorroïdes externes ulcérées
+I84.3	hémorroïdes externes thrombosées
+I84.6	cicatrices hémorroïdaires résiduelles
+I84.6	marisques
+I86.0	varices sublinguales
+I86.8	ulcère variqueux de la cloison nasale
+I86.1	varices scrotales
+I86.1	varicocèle
+I86.2	varices pelviennes
+I86.2	varices du ligament large de l'utérus
+I86.8	varices du périnée
+I86.3	varices vulvaires
+I82.2	embolie de la veine cave
+I82.9	phlébothrombose
+I81	thrombose de la veine porte
+I82.8	thrombose de la veine hépatique
+I82.2	thrombose de la veine cave
+I82.2	thrombophlébite de la veine cave
+I87.1	obstruction membraneuse de la veine cave inférieure
+I82.8	thrombose d'une veine pelvienne
+I82.8	thrombophlébite d'une veine pelvienne
+I80.9	phlébite
+I80.9	inflammation d'une veine
+I80.9	endophlébite
+I80.9	périphlébite
+I80.9	phlébite suppurée
+I80.9	thrombophlébite
+I80.9	phlegmatia coerulea dolens
+I80.9	phlébite bleue de Grégoire
+I80.9	thrombophlébite profonde
+I80.9	thrombose veineuse profonde
+I80.9	thrombophlébite superficielle
+I80.3	phlébite des membres inférieurs
+I80.3	thrombophlébite des membres inférieurs
+I80.1	phlegmatia alba dolens
+I80.0	phlébite des veines superficielles des membres inférieurs
+I80.1	phlébite de la veine fémoro-poplitée
+I80.0	phlébite d'une veine saphène
+I80.0	thrombophlébite des veines superficielles des membres inférieurs
+I80.1	thrombophlébite de la veine fémoro-poplitée
+I80.0	thrombophlébite d'une veine saphène
+I70.8	artériosclérose d'une veine saphène transplantée
+I80.2	phlébite des veines profondes du membre inférieur
+I80.2	phlébite de la veine fémorale profonde
+I80.2	phlébite d'une veine tibiale
+I80.2	phlébite de la veine poplitée
+I80.8	phlébite d'une veine iliaque
+I80.2	thrombophlébite des veines profondes des membres inférieurs
+I80.2	thrombophlébite de la veine fémorale profonde
+I80.2	thrombophlébite d'une veine tibiale
+I80.2	thrombophlébite de la veine poplitée
+I80.8	thrombophlébite d'une veine iliaque
+I80.8	thrombophlébite des membres supérieurs
+I80.8	thrombophlébite des veines superficielles des membres supérieurs
+I80.8	thrombophlébite des veines profondes des membres supérieurs
+I80.8	maladie de Mondor
+I82.1	thrombophlébite migratrice
+I87.0	syndrome post-phlébitique
+I87.1	compression veineuse
+I87.1	rétrécissement veineux
+I87.1	syndrome de la veine cave inférieure
+I87.1	syndrome de la veine cave supérieure
+I87.1	oedème en pèlerine
+I87.2	insuffisance veineuse périphérique
+I87.2	insuffisance veineuse chronique
+I87.8	circulation veineuse collatérale, tout siège
+I67.9	maladie cérébrovasculaire
+I62.9	hémorragie intracrânienne
+I60.9	hémorragie sous-arachnoïdienne
+I69.0	sidérose sous-piemérienne
+I60.8	hémorragie méningée
+I62.0	hémorragie sous-durale
+I62.1	hémorragie épidurale
+I62.1	hémorragie extradurale
+I60.9	hémorragie due à un anévrisme cérébral congénital rompu
+I60.9	hémorragie due à un anévrisme ampullaire rompu
+I62.1	hémorragie extradurale non traumatique
+I62.1	hématome épidural non traumatique
+I62.1	hémorragie épidurale non traumatique
+I62.0	hémorragie sous-durale non traumatique
+I62.0	hématome sous-dural non traumatique
+I62.0	hématome sous-dural
+I61.9	hémorragie intracérébrale
+I61.9	hématome intracérébral
+I61.9	rupture d'un vaisseau sanguin dans le cerveau
+I61.5	hémorragie bulbaire
+I60.4	hémorragie basilaire
+I61.4	hémorragie cérébelleuse
+I61.4	hémorragie du cervelet
+I61.4	cervelet hémorragique
+I61.9	hémorragie cérébrale
+I61.9	hémorragie du cerveau
+I61.9	cerveau hémorragique
+I61.8	hémorragie cérébro-méningée
+I61.1	hémorragie corticale
+I61.0	hémorragie de la capsule interne
+I61.0	hémorragie sous-corticale
+I61.3	hémorragie intrapontine
+I61.3	hémorragie pontine
+I61.3	hémorragie du tronc cérébral
+I61.5	hémorragie ventriculaire
+I61.5	hémorragie intraventriculaire
+I65.9	sténose d'une artère précérébrale
+I65.9	rétrécissement d'une artère précérébrale
+I65.9	obstruction d'une artère précérébrale
+I65.9	occlusion d'une artère précérébrale
+I65.9	thrombose d'une artère précérébrale
+I65.9	embolie d'une artère précérébrale
+I65.3	sténose des artères précérébrales, multiples et bilatérales
+I65.3	obstruction des artères précérébrales, multiples et bilatérales
+I65.3	thrombose des artères précérébrales, multiples et bilatérales
+I65.3	embolie des artères précérébrales, multiples et bilatérales
+I65.1	sténose de l'artère basilaire
+I65.1	rétrécissement de l'artère basilaire
+I65.1	obstruction de l'artère basilaire
+I65.1	occlusion de l'artère basilaire
+I65.1	thrombose de l'artère basilaire
+I65.1	embolie de l'artère basilaire
+I65.2	sténose de l'artère carotide
+I65.2	rétrécissement de l'artère carotide
+I65.2	obstruction de l'artère carotide
+I65.2	occlusion de l'artère carotide
+I65.2	thrombose de l'artère carotide
+I65.2	embolie de l'artère carotide
+I67.5	syndrome d'insuffisance carotidienne
+I65.0	sténose de l'artère vertébrale
+I65.0	rétrécissement de l'artère vertébrale
+I65.0	obstruction de l'artère vertébrale
+I65.0	occlusion de l'artère vertébrale
+I65.0	thrombose de l'artère vertébrale
+I65.0	embolie de l'artère vertébrale
+I66.9	occlusion d'une artère cérébrale
+I63.9	infarctus cérébral
+I66.9	occlusion artérielle intracrânienne progressive
+I66.9	embolie cérébrale
+I66.9	embolie artérielle cérébrale
+I66.9	thrombose cérébrale
+I66.9	thrombose artérielle cérébrale
+I66.9	thrombose des artères cérébrales
+I63.6	thrombose des veines cérébrales
+I63.6	thrombose veineuse cérébrale
+I64	ischémie cérébrale
+I66.8	syndrome de l'artère choroïdienne antérieure
+I66.8	syndrome de von Monakow
+I64	accident cérébrovasculaire
+I64	AVC
+I64	maladie cérébrovasculaire aiguë mal définie
+I64	apoplexie
+I64	attaque apoplectique
+I64	apoplexie cérébrale
+I64	ictus apoplectique
+I64	ictus cérébral
+I64	ACV
+I64	accident vasculaire cérébral
+I64	accident cérébrovasculaire non paralytique
+I64	accident cérébrovasculaire évolutif
+I64	accident cérébrovasculaire constitué
+I67.8	insuffisance cérébrovasculaire aiguë
+I67.8	ischémie cérébrale chronique
+I66.3	occlusion d'une artère cérébelleuse
+I66.3	thrombose d'une artère cérébelleuse
+I67.2	athérosclérose cérébrale
+I67.2	athérome des artères cérébrales
+I67.2	artériosclérose cérébrale
+I67.1	anévrisme cérébral non rompu
+I67.1	anévrisme artériel intracérébral
+I67.1	anévrisme intracrânien
+I67.7	artérite cérébrale
+I67.5	maladie moyamoya
+I67.5	syndrome de Taveras
+I67.5	maladie de Nishimoto
+I67.4	encéphalopathie hypertensive
+I67.4	crise hypertensive
+I67.6	occlusion d'une veine cérébrale
+I67.6	syndrome d'occlusion veineuse rolandique
+I67.6	syndrome rolandique
+I31.9	maladie du péricarde
+I31.9	affection du péricarde
+I31.2	hémopéricarde
+I30.1	pneumopyopéricarde
+I30.1	pyopéricarde
+I31.9	pneumopéricarde
+I31.3	hydropéricarde
+I31.3	épanchement péricardique
+I31.9	tamponade cardiaque
+I31.9	tamponade
+I31.8	plaques épicardiques
+I31.1	calcification du péricarde
+I31.8	fistule du péricarde
+I30.9	péricardite
+I31.0	péricardite symphysaire
+I31.0	adhérences péricardiques
+I31.0	symphyse péricardique
+I31.0	symphyse cardiaque
+I31.1	péricardite oblitérante
+I31.1	péricardite constrictive
+I31.1	syndrome de Pick
+I30.9	péricardite aiguë
+I30.0	médiastino-péricardite aiguë
+I30.0	myopéricardite aiguë
+I30.1	pleuropéricardite aiguë
+I30.1	pneumopéricardite aiguë
+I30.1	épanchement péricardique aigu
+I30.8	péricardite sèche
+I30.8	péricardite aiguë bénigne
+I30.8	péricardite aiguë épidémique
+I30.8	péricardite aiguë non spécifique bénigne
+I30.8	péricardite aiguë fugace
+I30.8	péricardite séro-fibrineuse
+I30.1	péricardite aiguë avec épanchement
+I30.8	hémo-péricardite aiguë
+I30.9	péricardite subaiguë
+I30.8	péricardite constrictive subaiguë
+I30.8	péricardite constrictive subaiguë avec épanchement
+I31.9	péricardite chronique
+I31.1	péricardite constrictive chronique
+I31.3	péricardite chronique avec épanchement
+I31.0	péricardite adhésive chronique
+I30.1	péricardite infectieuse
+I30.1	péricardite pyogène
+I30.1	péricardite purulente aiguë
+I31.9	péricardite non infectieuse
+I24.1	péricardite secondaire à un infarctus aigu du myocarde
+I32.8*	péricardite secondaire à une urémie
+I32.8*	péricardite urémique
+I32.8*	péricardite secondaire à une néoplasie
+I32.8*	péricardite secondaire à une tumeur primitive
+I32.8*	péricardite secondaire à une tumeur primitive bénigne
+I32.8*	péricardite secondaire à une tumeur primitive maligne
+I32.8*	péricardite secondaire à une tumeur métastatique du péricarde
+I32.8*	péricardite secondaire à un myxoedème
+I32.8*	péricardite due à des dépôts de cholestérol
+I32.8*	péricardite secondaire à un chylopéricarde
+I32.8*	péricardite post-traumatique
+I32.8*	péricardite secondaire à un traumatisme par pénétration
+I32.8*	péricardite secondaire à un traumatisme fermé
+I32.8*	péricardite secondaire à un anévrisme aortique
+I32.8*	péricardite secondaire à un anévrisme aortique avec extravasation dans le péricarde fibreux
+I32.8*	péricardite post-radiothérapie
+I32.8*	péricardite associée à une communication interauriculaire
+I32.8*	péricardite associée à une anémie chronique sévère
+I32.8*	péricardite associée à une mononucléose infectieuse
+I32.1*	péricardite associée à une fièvre méditerranéenne familiale
+I31.8	péricardite familiale
+I32.8*	péricardite secondaire à un nanisme Mulibrey
+I32.8*	péricardite secondaire à une collagénose vasculaire
+I32.8*	péricardite secondaire à un lupus érythémateux systémique
+I32.8*	péricardite secondaire à une polyarthrite rhumatoïde
+I32.8*	péricardite secondaire à une sclérodermie
+I32.8*	péricardite provoquée par un médicament
+I32.8*	péricardite provoquée par le procaïnamide
+I32.8*	péricardite provoquée par l'hydralazine
+I32.8*	péricardite après traumatisme cardiaque
+I97.8	péricardite après péricardiotomie
+I89.9	maladie des vaisseaux lymphatiques
+I89.9	lymphangiopathie
+I89.0	oblitération d'un vaisseau lymphatique
+I89.0	lymphoedème praecox
+I89.1	lymphangite
+I89.1	lymphangite subaiguë
+I89.1	lymphangite chronique
+I89.8	chylocèle non filarienne
+I89.8	fistule du canal thoracique
+I89.8	rupture du canal thoracique
+I89.0	lymphoedème acquis chronique
+I89.0	lymphoedème secondaire
+I97.2	syndrome du lymphoedème après mastectomie
+I97.2	éléphantiasis dû à une mastectomie
+I97.2	oblitération d'un vaisseau lymphatique due à une mastectomie
+I89.0	éléphantiasis non filarien
+I09.1	sténose post-rhumatismale d'une valvule cardiaque
+I09.1	régurgitation post-rhumatismale d'une valvule cardiaque
+I09.1	insuffisance post-rhumatismale d'une valvule cardiaque
+I09.1	reflux post-rhumatismale d'une valvule cardiaque
+I09.1	sténose post-rhumatismale d'une valvule cardiaque avec insuffisance
+I09.1	défaillance post-rhumatismale d'une valvule cardiaque
+I42.7	cardiomyopathie dilatée post-radique
+I43.8*	syndrome de Meadows
+I45.6	syndrome de pré-excitation auriculoventriculaire
+I45.6	syndrome de pré-excitation avec arythmie
+I45.6	syndrome du P-R court
+I72.8	anévrisme d'une artère vertébrale
+I80.9	phlébite bleue
+I78.0	angiomatose hémorragique familiale
+I78.0	hémangiomatose familiale
+I78.0	angiomatose héréditaire hémorragique
+I78.0	maladie de Rendu-Weber-Osler
+I78.0	maladie de Rendu-Osler
+I78.0	télangiectasie hémorragique héréditaire
+I78.0	angéite familiale
+I85.9	varices oesophagiennes
+I85.9	varices de l'oesophage
+I85.9	varices oesophagiennes non hémorragiques
+I85.9	varices de l'oesophage sans hémorragie
+I85.0	varices oesophagiennes hémorragiques
+I85.0	varices hémorragiques de l'oesophage
+I85.0	varices oesophagiennes avec hémorragie
+I85.0	varices de l'oesophage avec hémorragie
+I86.4	varices gastriques
+I86.4	ectasie vasculaire antropylorique
+I86.4	estomac en pastèque
+I77.2	fistule duodéno-aortique
+I77.2	fistule aorto-duodénale
+I89.0	lymphangiectasie intestinale primitive
+I89.0	obstruction des vaisseaux lymphatiques intestinaux
+I77.2	fistule artério-entérique
+I77.2	fistule aorto-intestinale
+I77.0	fistule artério-veineuse mésentérique
+I77.0	fistule porto-mésentérique
+I86.8	varices mésentériques
+I77.0	shunt porto-systémique acquis
+I77.0	fistule artério-veineuse acquise du foie
+I77.9	trouble réno-vasculaire
+I77.9	vascularite rénale
+I82.3	thrombose de la veine rénale
+I82.3	embolie de la veine rénale
+I12.9	néphro-angiosclérose
+I12.0	néphro-angiosclérose bénigne
+I12.0	néphro-angiosclérose maligne
+I67.6	thrombose non pyogène d'un sinus veineux intracrânien
+I67.3	encéphalopathie de Binswanger
+I67.3	maladie de Binswanger
+I67.3	démence de Binswanger
+I67.3	syndrome de Binswanger
+I88.9	lymphadénite
+I88.9	adénite
+I88.1	lymphadénite chronique
+I88.1	adénite chronique
+I88.0	adénite mésentérique
+I89.8	réticulose lipo-mélanique
+I89.8	lymphadénite dermatopathique
+I89.8	hyperplasie réticulaire lipomélanique des ganglions
+I89.8	hyperplasie angiolymphoïde
+I89.8	syndrome de Castleman
+I89.8	lymphoréticulome folliculaire
+I89.8	lymphome bénin
+I89.8	lymphome de Castleman
+I89.8	hyperplasie ganglionnaire géante
+I89.8	hyperplasie lymphoïde angiofolliculaire
+I89.8	hyperplasie ganglionnaire angiofolliculaire
+I89.8	tumeur de Castleman
+I89.8	granulome pseudopyogène
+I89.8	hyperplasie angiofolliculaire bénigne
+I89.8	hamartome lymphoïde angiomateux
+I89.8	maladie de Castleman
+I89.8	maladie de Kimura
+I89.8	hyperplasie angiolymphoïde avec éosinophilie
+I89.8	syndrome de Piringer-Kuchinka
+I89.8	lymphadénite de Piringer-Kuchinka
+I89.8	hypoplasie lymphocytaire
+I89.8	ganglion de Troisier
+I89.8	ganglion sentinelle
+I89.8	ganglion satellite
+I88.9	lymphadénite cervicale
+I88.9	adénite cervicale
+I89.8	fibrose des ganglions lymphatiques
+I82.8	thrombose de la veine splénique
+I89.8	lymphogranulome éosinophile
+I97.9	complication cardiaque
+I97.8	arrêt cardiaque pendant ou après une intervention
+I97.8	insuffisance cardio-respiratoire pendant ou après une intervention
+I97.8	phlébite ou thrombophlébite pendant ou après une intervention
+I40.0	myocardite bactérienne
+I40.0	myocardite septique
+I30.1	péricardite bactérienne aiguë
+I88.0	adénite mésentérique aiguë
+I88.0	lymphadénite mésentérique aiguë
+I46.1	mort subite par arrêt cardiaque

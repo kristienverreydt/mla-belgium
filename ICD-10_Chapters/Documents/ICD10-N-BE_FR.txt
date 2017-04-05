@@ -1,0 +1,612 @@
+N00.0	syndrome néphritique aigu avec une anomalie glomérulaire mineure
+N00.1	syndrome néphritique aigu avec des lésions glomérulaires focales et segmentaires
+N00.2	syndrome néphritique aigu avec glomérulonéphrite membraneuse diffuse
+N00.3	syndrome néphrotique aigu avec glomérulonéphrite mésangiale diffuse proliférative
+N00.4	syndrome néphritique aigu avec glomérulonéphrite proliférative endocapillaire diffuse
+N00.5	syndrome néphritique aigu avec glomérulonéphrite mésangiocapillaire diffuse
+N00.6	syndrome néphritique aigu avec la maladie à dépôt dense
+N00.7	syndrome néphritique aigu avec glomérulonéphrite diffuse en croissant
+N00.8	syndrome néphritique aigu avec d'autres altérations morphologiques
+N00.9	syndrome néphritique aigu avec des altérations morphologiques non spécifiées
+N01.0	syndrome néphritique d'évolution rapide avec une anomalie glomérulaire mineure
+N01.1	syndrome néphritique d'évolution rapide avec des lésions glomérulaires focales et segmentaires
+N01.2	syndrome néphritique d'évolution rapide avec glomérulonéphrite membraneuse diffuse
+N01.3	syndrome néphritique d'évolution rapide avec glomérulonéphrite proliférative mésangiale diffuse
+N01.4	syndrome néphritique d'évolution rapide avec glomérulonéphrite proliférative endocapillaire diffuse
+N01.5	syndrome néphritique d'évolution rapide avec glomérulonéphrite mésangiocapillaire diffuse
+N01.6	syndrome néphritique d'évolution rapide avec la maladie à dépôt dense
+N01.7	syndrome néphritique d'évolution rapide avec glomérulonéphrite diffuse en croissant
+N01.8	syndrome néphritique d'évolution rapide avec d'autres altérations morphologiques
+N01.9	syndrome néphritique d'évolution rapide avec des altérations morphologiques non spécifiées
+N02.0	hématurie récurrente et persistante avec une anomalie glomérulaire mineure
+N02.1	hématurie récurrente et persistante avec des lésions glomérulaires focales et segmentaires
+N02.2	hématurie récurrente et persistante avec glomérulonéphrite membraneuse diffuse
+N02.3	hématurie récurrente et persistante avec glomérulonéphrite proliférative mésangiale diffuse
+N02.4	hématurie récurrente et persistante avec glomérulonéphrite endocapillaire diffuse proliférative
+N02.5	hématurie récurrente et persistante avec glomérulonéphrite mésangiocapillaire diffuse
+N02.6	hématurie récurrente et persistante avec la maladie à dépôt dense
+N02.7	hématurie récurrente et persistante avec glomérulonéphrite diffuse en croissant
+N02.8	hématurie récurrente et persistante avec d'autres altérations morphologiques
+N02.9	hématurie récurrente et persistante avec des altérations morphologiques non spécifiées
+N03.0	syndrome néphritique chronique avec une anomalie glomérulaire mineure
+N03.1	syndrome néphritique chronique avec des lésions glomérulaires focales et segmentaires
+N03.2	syndrome néphritique chronique avec glomérulonéphrite membraneuse diffuse
+N03.3	syndrome néphritique chronique avec glomérulonéphrite proliférative mésangiale diffuse
+N03.4	syndrome néphritique chronique avec glomérulonéphrite proliférative endocapillaire diffuse
+N03.5	syndrome néphritique chronique avec glomérulonéphrite mésangiocapillaire diffuse
+N03.6	syndrome néphritique chronique avec la maladie à dépôt dense
+N03.7	syndrome néphritique chronique avec glomérulonéphrite diffuse en croissant
+N03.8	syndrome néphritique chronique avec d'autres altérations morphologiques
+N03.9	syndrome néphritique chronique avec des altérations morphologiques non spécifiées
+N04.0	syndrome néphrotique avec une anomalie glomérulaire mineure
+N04.1	syndrome néphrotique avec des lésions glomérulaires focales et segmentaires
+N04.2	syndrome néphrotique avec glomérulonéphrite membraneuse diffuse
+N04.3	syndrome néphrotique avec glomérulonéphrite proliférative mésangiale diffuse
+N04.4	syndrome néphrotique avec glomérulonéphrite proliférative endocapillaire diffuse
+N04.5	syndrome néphrotique avec glomérulonéphrite mésangiocapillaire diffuse
+N04.6	syndrome néphrotique avec la maladie à dépôt dense
+N04.7	syndrome néphrotique avec glomérulonéphrite diffuse en croissant
+N04.8	syndrome néphrotique avec d'autres altérations morphologiques
+N04.9	syndrome néphrotique avec des altérations morphologiques non spécifiées
+N05.0	syndrome néphritique non spécifié avec une anomalie glomérulaire mineure
+N05.1	syndrome néphritique non spécifié avec des lésions glomérulaires focales et segmentaires
+N05.2	syndrome néphritique non spécifié avec glomérulonéphrite membraneuse diffuse
+N05.3	syndrome néphritique non spécifié avec glomérulonéphrite proliférative mésangiale diffuse
+N05.4	syndrome néphritique non spécifié avec glomérulonéphrite proliférative endocapillaire diffuse
+N05.5	syndrome néphritique non spécifié avec glomérulonéphrite mésangiocapillaire diffuse
+N05.6	syndrome néphritique non spécifié avec la maladie à dépôt dense
+N05.7	syndrome néphritique non spécifié avec glomérulonéphrite diffuse en croissant
+N05.8	syndrome néphritique non spécifié avec d'autres altérations morphologiques
+N05.9	syndrome néphritique non spécifié avec des altérations morphologiques non spécifiées
+N06.0	protéinurie isolée avec  anomalie glomérulaire mineure
+N06.1	protéinurie isolée avec des lésions glomérulaires focales et segmentaires
+N06.2	protéinurie isolée avec glomérulonéphrite membraneuse diffuse
+N06.3	protéinurie isolée avec glomérulonéphrite proliférative mésangiale diffuse
+N06.4	protéinurie isolée avec glomérulonéphrite proliférative endocapillaire diffuse
+N06.5	protéinurie isolée avec glomérulonéphrite mésangiocapillaire diffuse
+N06.6	protéinurie isolée avec la maladie à dépôt dense
+N06.7	protéinurie isolée avec glomérulonéphrite diffuse en croissant
+N06.8	protéinurie isolée avec une autre lésion morphologique
+N06.9	protéinurie isolée avec une lésion morphologique non spécifiée
+N07.0	néphropathie héréditaire non classée ailleurs avec une anomalie glomérulaire mineure
+N07.1	néphropathie héréditaire non classée ailleurs avec des lésions glomérulaires focales et segmentaires
+N07.2	néphropathie héréditaire non classée ailleurs avec glomérulonéphrite membraneuse diffuse
+N07.3	néphropathie héréditaire non classée ailleurs avec glomérulonéphrite proliférative mésangiale diffuse
+N07.4	néphropathie héréditaire non classée ailleurs avec glomérulonéphrite proliférative endocapillaire diffuse
+N07.5	néphropathie héréditaire non classée ailleurs avec glomérulonéphrite mésangiocapillaire diffuse
+N07.6	néphropathie héréditaire non classée ailleurs avec la maladie à dépôt dense
+N07.7	néphropathie héréditaire non classée ailleurs avec glomérulonéphrite diffuse en croissant
+N07.8	néphropathie héréditaire non classée ailleurs avec d'autres lésions morphologiques
+N07.9	néphropathie héréditaire non classée ailleurs avec des lésions morphologiques non spécifiées
+N08	affections glomérulaires au cours de maladies classées ailleurs
+N10	néphrite tubulo-interstitielle aiguë
+N11.0	pyélonéphrite chronique sur reflux vésico-urétéral
+N11.1	pyélonéphrite chronique obstructive
+N11.8	autre néphrite tubulo-interstitielle chronique
+N11.9	néphrite tubulo-interstitielle chronique non spécifiée
+N12	néphrite tubulo-interstitielle non spécifiée comme aiguë ou chronique
+N13.1	hydronéphrose avec sténose urétérale, non classée ailleurs
+N13.2	hydronéphrose avec une obstruction lithiasique rénale et urétérale
+N13.30	hydronéphrose non spécifiée
+N13.39	autre hydronéphrose
+N13.4	hydruretère
+N13.5	sténose urétérale due à une intersection vasculaire, sans hydronéphrose
+N13.6	pyonéphrose
+N13.70	reflux vésico-urétéral non spécifié
+N13.71	reflux vésico-urétéral sans néphropathie du reflux
+N13.721	reflux vésico-urétéral avec néphropathie du reflux, sans hydruretère, unilatéral
+N13.722	reflux vésico-urétéral avec néphropathie du reflux, sans hydruretère, bilatéral
+N39.9	affection du système urinaire non spécifiée
+N40.0	hypertrophie prostatique sans symptômes du tractus urinaire bas
+N40.1	hypertrophie prostatique avec des symptômes du tractus urinaire bas
+N40.2	hypertrophie nodulaire sans symptômes du tractus urinaire bas
+N40.3	hypertrophie nodulaire avec des symptômes du tractus urinaire bas
+N41.0	prostatite aiguë
+N41.1	prostatite chronique
+N41.2	abcès de la prostate
+N41.3	prostato-cystite
+N41.4	prostatite granulomateuse
+N41.8	d'autres maladies inflammatoires de la prostate
+N41.9	maladie inflammatoire de la prostate, non spécifiée
+N42.0	lithiase prostatique
+N42.1	congestion et hémorragie prostatiques
+N42.3	dysplasie de la prostate
+N42.81	syndrome douloureux de la prostate
+N70.1	salpingite aiguë
+N70.2	ovarite aiguë
+N70.3	salpingite et ovarite aiguës
+N70.11	salpingite chronique
+N70.12	ovarite chronique
+N70.13	salpingite et ovarite chroniques
+N70.91	salpingite non spécifiée
+N70.92	ovarite non spécifiée
+N70.93	salpingite et ovarite non spécifiées
+N71.0	maladie inflammatoire aiguë de l'utérus
+N71.1	maladie inflammatoire chronique de l'utérus
+N71.9	maladie inflammatoire de l'utérus non spécifiée
+N72	maladie inflammatoire du col de l'utérus
+N73.0	paramétrite aiguë et phlegmon pelvien
+N73.1	paramétrite chronique et cellulite pelvienne
+N13.729	reflux vésico-urétéral avec néphropathie du reflux, sans hydruretère, non spécifié
+N13.731	reflux vésico-urétéral avec néphropathie du reflux, avec hydruretère, unilatéral
+N13.732	reflux vésico-urétéral avec néphropathie du reflux, avec hydruretère, bilatéral
+N13.739	reflux vésico-urétéral avec néphropathie du reflux, avec hydruretère, non spécifié
+N13.8	autre uropathie obstructive sur reflux
+N13.9	uropathie obstructive sur reflux, non spécifiée
+N14.0	néphropathie due à des drogues analgésiques
+N14.1	néphropathie due à d'autres drogues, médicaments et substances biologiques
+N14.2	néphropathie due à une drogue, un médicament ou une substance biologique non spécifié
+N14.2	néphropathie due à une drogue, un médicament ou une substance biologique non spécifiée
+N14.3	néphropathie due à des métaux lourds
+N14.4	néphropathie toxique non classée ailleurs
+N15.0	néphropathie des Balkans
+N15.1	abcès rénal et périrénal
+N15.8	d'autres maladies rénales tubulo-interstitielles spécifiées
+N15.9	maladie rénale tubulo-interstitielle non spécifiée
+N16	affections rénales tubulo-interstitielles au cours de maladies classées ailleurs
+N17.0	insuffisance rénale aiguë avec nécrose tubulaire
+N17.1	insuffisance rénale aiguë avec nécrose corticale aiguë
+N17.2	insuffisance rénale aiguë avec nécrose médullaire
+N17.8	autre insuffisance rénale aiguë
+N17.9	insuffisance rénale aiguë non spécifiée
+N18.1	néphropathie chronique, stade 1
+N18.2	néphropathie chronique, stade 2 
+N18.2	néphropathie chronique légère
+N18.3	néphropathie chronique, stade 3
+N18.3	néphropathie chronique modérée
+N18.4	néphropathie chronique, stade 4 
+N18.4	néphropathie chronique sévère
+N18.5	néphropathie chronique, stade 5
+N18.6	néphropathie terminale
+N18.9	néphropathie chronique non spécifiée
+N19	insuffisance rénale non spécifiée
+N20.0	lithiase rénale
+N20.1	lithiase urétérale
+N20.2	lithiase rénale avec une lithiase urétérale
+N20.9	lithiase urinaire non spécifiée
+N21.0	lithiase vésicale
+N21.1	lithiase urétrale
+N21.8	autre lithiase du tractus urinaire inférieur
+N21.9	lithiase du tractus urinaire inférieur non spécifiée
+N22	lithiase du tractus urinaire au cours de maladies classées ailleurs
+N23	colique néphrétique non spécifiée
+N25.0	ostéodystrophie rénale
+N25.1	diabète insipide néphrogénique
+N25.81	hyperparathyroïdie secondaire d'origine rénale
+N25.89	affections résultant d'une altération de la fonction rénale tubulaire, d'autres
+N25.9	affection résultant d'une altération de la fonction rénale tubulaire, non spécifiée
+N26.1	atrophie rénale
+N26.1	atrophie rénale terminale
+N26.2	page kidney
+N26.9	sclérose rénale non spécifiée
+N27.0	petit rein unilatéral
+N27.1	petit rein bilatéral
+N27.9	petit rein non spécifié
+N28.0	ischémie et infarctus rénaux
+N28.1	kyste rénal acquis
+N28.81	hypertrophie rénale
+N28.82	méga-uretère
+N28.83	néphroptose
+N28.84	pyélite kystique
+N28.85	pyélo-urétérite kystique
+N28.86	urétérite kystique
+N28.89	d'autres affections rénale et urétérale spécifiées
+N28.9	affection rénale et urétérale, non spécifiée
+N29	d'autres affections rénale et urétérale au cours de maladies classées ailleurs
+N30.0	cystite aiguë sans hématurie
+N30.1	cystite aiguë avec hématurie
+N30.10	cystite interstitielle sans hématurie
+N30.10	cystite interstitielle chronique sans hématurie
+N30.11	cystite interstitielle avec hématurie
+N30.11	cystite interstitielle chronique avec hématurie
+N30.20	autre cystite chronique sans hématurie
+N30.21	autre cystite chronique avec hématurie
+N30.30	trigonite sans hématurie
+N30.31	trigonite avec hématurie
+N30.40	cystite radique sans hématurie
+N30.41	cystite radique avec hématurie
+N30.80	autre cystite sans hématurie
+N30.81	autre cystite avec hématurie
+N30.90	cystite sans hématurie, non spécifiée
+N30.91	cystite avec hématurie, non spécifiée
+N31.0	vessie neuropathique non inhibée, non classée ailleurs
+N31.1	vessie neuropathique réflexe, non classée ailleurs
+N31.2	vessie neuropathique flasque, non classée ailleurs
+N31.2	vessie périphérique, non classée ailleurs
+N31.2	vessie neuropathique flasque périphérique, non classée ailleurs
+N31.8	autre dysfonctionnement neuromusculaire de la vessie
+N31.9	dysfonctionnement neuromusculaire de la vessie, non spécifié
+N32.0	obstruction du col de la vessie
+N32.1	fistule vésico-intestinale
+N32.2	fistule vésicale non classée ailleurs
+N32.3	diverticule de la vessie
+N32.81	vessie de lutte
+N32.89	d'autres affections vésicales spécifiées
+N32.9	affection vésicale non spécifiée
+N33	affections vésicales au cours de maladies classées ailleurs
+N34.0	abcès urétral
+N34.1	urétrite non spécifique
+N34.2	urétrite autre
+N34.3	syndrome urétral non spécifié
+N35.10	sténose post-traumatique du méat urétral chez l'homme
+N35.11	sténose post-traumatique de l'urètre bulbaire
+N35.12	sténose post-traumatique de l'urètre membraneux
+N35.13	sténose post-traumatique de l'urètre antérieur
+N35.14	sténose post-traumatique de l'urètre chez l'homme, non spécifiée
+N35.21	sténose urétrale due à l'accouchement
+N35.28	autre sténose post-traumatique de l'urètre chez la femme
+N35.111	sténose post-infectieuse du méat urétral chez l'homme, non classée ailleurs
+N35.112	sténose post-infectieuse de l'urètre bulbaire, non classée ailleurs
+N35.113	sténose post-infectieuse de l'urètre membraneux, non classée ailleurs
+N35.114	sténose post-infectieuse de l'urètre antérieur, non classée ailleurs
+N35.119	sténose post-infectieuse de l'urètre chez l'homme, non classée ailleurs, non spécifiée
+N35.12	sténose post-infectieuse de l'urètre chez la femme, non classée ailleurs
+N35.8	autre sténose urétrale
+N35.9	sténose urétrale non spécifiée
+N36.0	fistule urétrale
+N36.1	diverticule de l'urètre
+N36.2	caroncule urétrale
+N36.41	hypermotilité urétrale
+N36.42	insuffisance sphinctérienne intrinsèque
+N36.43	hypermotilité urétrale et insuffisance sphinctérienne intrinsèque combinées
+N36.44	affection musculaire de l'urètre
+N36.5	fausse route uréthrale
+N36.8	d'autres affections urétrales spécifiées
+N36.9	affection urétrale non spécifiée
+N37	affections urétrales au cours de maladies classées ailleurs
+N39.0	infection du tractus urinaire, site non spécifié
+N39.3	incontinence urinaire d'effort
+N39.3	incontinence urinaire d'effort chez la femme
+N39.3	incontinence urinaire d'effort chez l'homme
+N39.41	incontinence urinaire par impériosité
+N39.41	incontinence urinaire urgente
+N39.42	incontinence urinaire réflexe
+N39.42	incontinence urinaire par absence de la perception sensorielle
+N39.43	écoulement d'urines post-mictionnel
+N39.44	énurésie nocturne
+N39.45	fuites urinaires
+N39.46	incontinence urinaire mixte
+N39.490	incontinence urinaire par regorgement
+N39.498	autre incontinence urinaire spécifiée
+N39.8	d'autres affections du système urinaire spécifiées
+N42.82	prostatite non bactérienne
+N42.82	prostatose
+N42.83	kyste de la prostate
+N42.89	d'autres affections de la prostate spécifiées
+N42.9	affection de la prostate, non spécifiée
+N43.0	hydrocèle enkystée
+N43.1	hydrocèle infectée
+N43.2	autre hydrocèle
+N43.3	hydrocèle non spécifiée
+N43.40	spermatocèle de l'épididyme non spécifiée
+N43.41	spermatocèle de l'épididyme, unique
+N43.42	spermatocèle de l'épididyme, multiple
+N44.0	torsion du testicule non spécifiée
+N44.1	torsion extravaginale du cordon spermatique
+N44.2	torsion intravaginale du cordon spermatique
+N44.3	torsion de l'hydatide sessile de Morgagni
+N44.3	torsion de testicule
+N44.4	torsion de l'hydatide pédonculée de Morgagni
+N44.4	torsion de épididyme
+N44.1	kyste de l'albuginée du testicule
+N44.2	kyste bénin du testicule
+N44.8	d'autres affections non inflammatoires du testicule
+N45.1	épididymite
+N45.2	orchite
+N45.3	epididymo-orchite
+N45.4	abcès de l'épididyme ou du testicule
+N46.1	azoospermie organique
+N46.21	azoospermie due à un traitement médicamenteux
+N46.22	azoospermie infectieuse
+N46.23	azoospermie due à une obstruction des canaux déférents
+N46.24	azoospermie due à des radiations
+N46.25	azoospermie due à une maladie systémique
+N46.29	azoospermie due à d'autres causes extratesticulaires
+N46.11	oligospermie organique
+N46.121	oligospermie due à un traitement médicamenteux
+N46.122	oligospermie infectieuse
+N46.123	oligospermie due à une obstruction des canaux déférents
+N46.124	oligospermie due à des radiations
+N46.125	oligospermie due à une maladie systémique
+N46.129	oligospermie due à d'autres causes extratesticulaires
+N46.8	autre stérilité masculine
+N46.9	stérilité masculine non spécifiée
+N47.0	phimosis du nouveau-né
+N47.1	phimosis
+N47.2	paraphimosis
+N47.3	déficience du prépuce
+N47.4	kyste bénin du prépuce
+N47.5	adhérences du prépuce et du gland du pénis
+N47.6	balanoposthite
+N47.7	d'autres maladies inflammatoires du prépuce
+N47.8	d'autres affections du prépuce
+N48.0	leucoplasie du pénis
+N48.1	balanite
+N48.21	abcès du corps caverneux et du pénis
+N48.22	cellulite du corps caverneux et du pénis
+N48.29	d'autres affections inflammatoires du pénis
+N48.30	priapisme non spécifié
+N48.31	priapisme post-traumatique
+N48.32	priapisme dû à une maladie classée ailleurs
+N48.33	priapisme induit par un traitement médicamenteux
+N48.39	autre priapisme
+N48.5	ulcère du pénis
+N48.6	induration plastique des corps caverneux
+N48.6	induration plastique de la Peyronie
+N48.81	thrombose de la veine superficielle du pénis
+N48.82	torsion axcquise du pénis
+N48.83	pénis enterré acquis
+N48.89	d'autres affections du pénis spécifiées
+N48.9	affection du pénis non spécifiée
+N49.0	affections inflammatoires de la vésicule séminale
+N49.1	affections inflammatoires du cordon spermatique, de la tunique vaginale et du canal déférent
+N49.2	affections inflammatoires du scrotum
+N49.3	gangrène de Fournier
+N49.8	affections inflammatoires d'autres organes génitaux masculins spécifiés
+N49.9	affections inflammatoires d'un organe génital masculin non spécifié
+N50.0	atrophie testiculaire
+N50.1	troubles vasculaires des organes génitaux masculins
+N50.3	kyste de l'épididyme
+N50.8	d'autres affections des organes génitaux masculins spécifiées
+N50.9	affection des organes génitaux masculins non spécifiée
+N51	affections des organes génitaux masculins au cours de maladies classées ailleurs
+N52.1	dysfonctionnement érectile dû à une insuffisance artérielle
+N52.2	dysfonctionnement érectile dû à une occlusion veineuse des corps caverneux
+N52.3	dysfonctionnement érectile mixte dû à une insuffisance artérielle et à une occlusion veineuse des corps caverneux
+N52.1	dysfonctionnement érectile dû à des maladies classées ailleurs
+N52.2	dysfonctionnement érectile dû à un traitement médicamenteux
+N52.31	dysfonctionnement érectile post-prostatectomie radicale
+N52.32	dysfonctionnement érectile post-cystectomie radicale
+N52.33	dysfonctionnement érectile post-chirurgie urétrale
+N52.34	dysfonctionnement érectile post-prostatectomie simple
+N52.39	autre dysfonctionnement érectile post-chirurgical
+N52.8	autre dysfonctionnement érectile masculin
+N52.9	dysfonctionnement érectile masculin non spécifié
+N53.11	éjaculation tardive
+N53.12	éjaculation douloureuse
+N53.13	orgasme sans éjaculation
+N53.14	éjaculation rétrograde
+N53.19	autre dysfonctionnement éjaculatoire
+N53.8	dysfonctionnement sexuel masculin autre
+N53.9	dysfonctionnement sexuel masculin non spécifié
+N60.1	kyste unique du sein droit
+N60.2	kyste unique du sein gauche
+N60.9	kyste unique d'un sein non spécifié
+N60.11	mastopathie kystique diffuse du sein droit
+N60.12	mastopathie kystique diffuse du sein gauche
+N60.19	mastopathie kystique diffuse d'un sein non spécifié
+N60.21	maladie fibro-kystique du sein droit
+N60.22	maladie fibro-kystique du sein gauche
+N60.29	maladie fibro-kystique d'un sein non spécifié
+N60.31	fibrosclérose du sein droit
+N60.32	fibrosclérose du sein gauche
+N60.39	fibrosclérose d'un sein non spécifié
+N60.41	ectasie du canal galactophore du sein droit
+N60.42	ectasie du canal galactophore du sein gauche
+N60.49	ectasie du canal galactophore d'un sein non spécifié
+N60.81	d'autres dysplasies mammaires bénignes du sein droit
+N60.82	d'autres dysplasies mammaires bénignes du sein gauche
+N60.89	d'autres dysplasies mammaires bénignes d'un sein non spécifié
+N60.91	dysplasie mammaire bénigne du sein droit non spécifiée
+N60.92	dysplasie mammaire bénigne du sein gauche non spécifiée
+N60.99	dysplasie mammaire bénigne d'un sein non spécifié, non spécifiée
+N61	affections inflammatoires du sein
+N62	hypertrophie mammaire
+N63	nodule mammaire non spécifié
+N64.0	fissure et fistule du mamelon
+N64.1	stéatonécrose du sein
+N64.2	atrophie mammaire
+N64.3	galactorrhée non associée à l'accouchement
+N64.4	mastodynie
+N64.51	induration mammaire
+N64.52	écoulement mamelonnaire
+N64.53	rétraction mamelonnaire
+N64.59	d'autres signes cliniques et symptômes mammaires
+N64.81	ptose mammaire
+N64.82	hypoplasie mammaire
+N64.89	d'autres affections mammaires spécifiées
+N64.9	affection mammaire non spécifiée
+N65.0	difformité mammaire après une reconstruction
+N65.1	disproportion mammaire après une reconstruction
+N73.2	paramétrite et phlegmon pelvien non spécifiés
+N73.3	pelvipéritonite aiguë chez la femme
+N73.4	pelvipéritonite chronique chez la femme
+N73.5	pelvipéritonite chez la femme, non spécifiée
+N73.6	adhérences du péritoine pelvien chez la femme
+N73.6	adhérences post-infectieuses du péritoine pelvien chez la femme
+N73.8	maladies inflammatoires spécifiées du péritoine pelvien chez la femme, d'autres
+N73.9	maladie inflammatoire pelvienne chez la femme, non spécifiée
+N74	affections inflammatoires pelviennes chez la femme, au cours de maladies classées ailleurs
+N75.0	kyste de la glande de Bartholin
+N75.1	abcès de la glande de Bartholin
+N75.8	maladies de la glande de Bartholin d'autres
+N75.9	maladie de la glande de Bartholin, non spécifiée
+N76.0	vaginite aiguë
+N76.1	vaginite subaiguë et chronique
+N76.2	vulvite aiguë
+N76.3	vulvite subaiguë et chronique
+N76.4	abcès de la vulve
+N76.5	ulcération du vagin
+N76.6	ulcération de la vulve
+N76.81	mucite du vagin et de la vulve
+N76.81	mucite ulcérée du vagin et de la vulve
+N76.89	autre inflammation du vagin et de la vulve, spécifiée
+N77.0	ulcération de la vulve au cours de maladies classées ailleurs
+N77.1	vaginite, vulvite et vulvo-vaginite au cours de maladies classées ailleurs
+N80.0	endométriose de l'utérus
+N80.1	endométriose de l'ovaire
+N80.2	endométriose de la trompe de Fallope
+N80.3	endométriose du péritoine pelvien
+N80.4	endométriose du septum recto-vaginal et du vagin
+N80.5	endométriose de l'intestin
+N80.6	endométriose sur une cicatrice cutanée
+N80.8	autre endométriose
+N80.9	endométriose non spécifiée
+N81.0	urétrocèle chez la femme
+N81.10	cystocèle non spécifiée
+N81.11	cystocèle médiane
+N81.12	cystocèle latérale
+N81.2	prolapsus utéro-vaginal partiel
+N81.3	prolapsus utéro-vaginal complet
+N81.4	prolapsus utéro-vaginal non spécifié
+N81.5	entérocèle vaginale
+N81.6	rectocèle
+N81.81	hernie périnéale
+N81.82	distension ou affaiblissement du fascia pubo-cervical
+N81.83	distension ou affaiblissement du fascia recto-vaginal
+N81.84	fonte des muscles pelviens
+N81.85	prolapsus du col de l'utérus
+N81.89	autre prolapsus d'un organe génital féminin
+N81.9	prolapsus d'un organe génital féminin, non spécifié
+N82.0	fistule vésico-vaginale
+N82.1	d'autres fistules du tractus uro-génital féminin
+N82.2	fistule entéro-vaginale
+N82.3	fistule colo-vaginale
+N82.4	d'autres fistules entéro-génitales chez la femme
+N82.5	fistules génito-cutanées chez la femme
+N82.8	d'autres fistules du tractus génital féminin
+N82.9	fistule du tractus génital féminin non spécifiée
+N83.0	kyste folliculaire de l'ovaire
+N83.1	kyste du corps jaune
+N83.20	kystes ovariens non spécifiés
+N83.29	d'autres kystes ovariens
+N83.31	atrophie acquise de l'ovaire
+N83.32	atrophie acquise de la trompe de Fallope
+N83.33	atrophie acquise de l'ovaire et de la trompe de Fallope
+N83.4	prolapsus et hernie de l'ovaire et de la trompe de Fallope
+N83.51	torsion de l'ovaire et du pédicule ovarien
+N83.52	torsion de la trompe de Fallope
+N83.53	torsion de l'ovaire, du pédicule ovarien et de la trompe de Fallope
+N83.6	hématosalpinx
+N83.7	hématome du ligament large
+N83.8	d'autres affections non inflammatoires de l'ovaire, de la trompe de Fallope et du ligament large
+N83.9	affection non inflammatoire de l'ovaire, de la trompe de Fallope et du ligament large, non spécifiée
+N84.0	polype du corps de l'utérus
+N84.1	polype du col de l'utérus
+N84.2	polype du vagin
+N84.3	polype de la vulve
+N84.8	polype d'autres parties du tractus génital féminin
+N84.9	polype du tractus génital féminin, non spécifié
+N85.0	hyperplasie endométriale non spécifiée
+N85.1	hyperplasie endométriale bénigne
+N85.2	néoplasie intra-épithéliale de l'endomètre
+N85.2	hypertrophie de l'utérus
+N85.3	subinvolution de l'utérus
+N85.4	malposition de l'utérus
+N85.5	inversion utérine
+N85.6	synéchies utérines
+N85.7	hématométrie
+N85.8	d'autres affections non inflammatoires de l'utérus spécifiées
+N85.9	affection non inflammatoire de l'utérus non spécifiée
+N86	érosion et ectropion du col de l'utérus
+N87.0	dysplasie légère du col de l'utérus
+N87.1	dysplasie modérée du col de l'utérus
+N87.9	dysplasie du col de l'utérus non spécifiée
+N88.0	leucoplasie du col de l'utérus
+N88.1	déchirure ancienne du col de l'utérus
+N88.2	sténose du col de l'utérus
+N88.3	béance du col de l'utérus
+N88.4	allongement hypertrophique du col de l'utérus
+N88.8	d'autres affections non inflammatoires du col de l'utérus spécifiées
+N88.9	affection non inflammatoire du col de l'utérus non spécifiée
+N89.0	dysplasie légère du vagin
+N89.1	dysplasie modérée du vagin
+N89.3	dysplasie du vagin non spécifiée
+N89.4	leucoplasie du vagin
+N89.5	sténose et atrésie du vagin
+N89.6	anneau hyménal serré
+N89.7	hématocolpos
+N89.8	d'autres affections non inflammatoires du vagin spécifiées
+N89.9	affection non inflammatoire du vagin non spécifiée
+N90.0	dysplasie légère de la vulve
+N90.1	dysplasie modérée de la vulve
+N90.3	dysplasie de la vulve, non spécifiée
+N90.4	leucoplasie de la vulve
+N90.5	atrophie de la vulve
+N90.6	hypertrophie de la vulve
+N90.7	kyste de la vulve
+N90.810	état de mutilation génitale féminine non spécifié
+N90.811	état de mutilation génitale féminine du type I
+N90.812	état de mutilation génitale féminine du type II
+N90.813	état de mutilation génitale féminine du type III
+N90.818	autre état de mutilation génitale féminine
+N90.89	affections non inflammatoires de la vulve et du périnée spécifiées d'autres
+N90.9	affection non inflammatoire de la vulve et du périnée, non spécifiée
+N91.0	aménorrhée primaire
+N91.1	aménorrhée secondaire
+N91.2	aménorrhée non spécifiée
+N91.3	oligoménorrhée primaire
+N91.4	oligoménorrhée secondaire
+N91.5	oligoménorrhée non spécifiée
+N92.0	ménorragie répétitive avec un cycle menstruel régulier
+N92.1	ménorragie répétitive avec un cycle menstruel irrégulier
+N92.2	ménorragie de la puberté
+N92.3	hémorragie de l'ovulation
+N92.4	hémorragie excessive en période de la pré-ménopause
+N92.5	d'autres menstruations irrégulières spécifiées
+N92.6	menstruations irrégulières non spécifiées
+N93.0	hémorragie post-coïtale et de contact
+N93.8	autre hémorragie anormale de l'utérus et du vagin spécifiée
+N93.9	hémorragie anormale de l'utérus et du vagin non spécifiée
+N94.0	douleur de l'ovulation
+N94.1	dyspareunie
+N94.2	vaginisme
+N94.3	syndrome de tension prémenstruelle
+N94.4	dysménorrhée primaire
+N94.5	dysménorrhée secondaire
+N94.6	dysménorrhée non spécifiée
+N94.810	vulvodynie localisée et provoquée
+N94.818	autre vulvodynie
+N94.819	vulvodynie non spécifiée
+N94.89	d'autres affections des organes génitaux féminins et relatives au cycle menstruel, spécifiées
+N94.9	affection des organes génitaux féminins et relative au cycle menstruel, non spécifiée
+N95.0	hémorragie post-ménopausique
+N95.1	états de la ménopause et du climatère chez la femme
+N95.2	vaginite atrophique post-ménopausique
+N95.8	d'autres affections de la ménopause et de la périménopause, spécifiées
+N95.9	affection de la ménopause et de la périménopause, non spécifiée
+N96	fausses couches à répétition
+N97.0	stérilité féminine liée à l'anovulation
+N97.1	stérilité féminine d'origine tubaire
+N97.2	stérilité féminine d'origine utérine
+N97.8	stérilité féminine d'une autre origine
+N97.9	stérilité féminine non spécifiée
+N98.0	infection liée à une insémination artificielle
+N98.1	hyperstimulation des ovaires
+N98.2	complications lors d'une tentative de l'implantation d'un ovule fécondé après une fécondation in vitro
+N98.3	complications lors d'une tentative de l'implantation d'un embryon par transfert d'un embryon
+N98.8	d'autres complications lors de la procréation médicalement assistée
+N98.9	complication lors de la procréation médicalement assistée, non spécifiée
+N99.0	insuffisance rénale post-opératoire
+N99.0	insuffisance rénale aiguë post-opératoire
+N99.0	insuffisance rénale chronique post-opératoire
+N99.110	sténose post-opératoire du méat urétral chez l'homme
+N99.111	sténose post-opératoire de l'urètre bulbaire
+N99.112	sténose post-opératoire de l'urètre membraneux
+N99.113	sténose post-opératoire de l'urètre antérieur
+N99.114	sténose urétrale post-opératoire chez l'homme, non spécifiée
+N99.12	sténose urétrale post-opératoire chez la femme
+N99.2	adhérences vaginales post-opératoires
+N99.3	prolapsus du dôme vaginal après une hystérectomie
+N99.4	adhérences post-opératoires du péritoine pelvien
+N99.510	hémorraghie d'une cystostomie
+N99.511	infection d'une cystostomie
+N99.512	dysfonctionnement d'une cystostomie
+N99.518	autre complication d'une cystostomie
+N99.520	hémorragie d'une autre stomie du tractus urinaire
+N99.521	infection d'une autre stomie du tractus urinaire
+N99.522	dysfonctionnement d'une autre stomie du tractus urinaire
+N99.528	autre complication d'une autre stomie du tractus urinaire
+N99.530	hémorragie d'une anastomose du tractus urinaire
+N99.531	infection d'une anastomose du tractus urinaire
+N99.532	dysfonctionnement d'une anastomose du tractus urinaire
+N99.538	autre complication d'une anastomose du tractus urinaire
+N99.61	hémorragie et hématome peropératoires dans un organe ou un tissu du système uro-génital au cours d'une intervention du système uro-génital
+N99.62	hémorragie et hématome peropératoires dans un organe ou un tissu du système uro-génital au cours d'une autre intervention
+N99.71	perforation et lacération accidentelles d'un organe ou d'un tissu du système uro-génital au cours d'une intervention du système uro-génital
+N99.72	perforation et lacération accidentelles d'un organe ou d'un tissu du système uro-génital au cours d'une autre intervention
+N99.81	d'autres complications peropératoires du système uro-génital
+N99.820	hémorragie et hématome postopératoires dans un organe ou un tissu du système uro-génital, compliquant une intervention du système uro-génital
+N99.821	hémorragie et hématome postopératoires dans un organe ou un tissu du système uro-génital, compliquant une autre intervention
+N99.83	syndrome de l'ovaire résiduel
+N99.89	d'autres complications et affections postopératoires du système uro-génital

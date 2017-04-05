@@ -1,0 +1,3191 @@
+C43.0	mélanome malin de la peau de la lèvre
+C43.0	mélanome malin cutané de la lèvre
+C43.1	mélanome malin de la peau de la paupière
+C43.1	mélanome malin cutané de la paupière
+C43.2	mélanome malin de la peau de l'oreille externe
+C43.2	mélanome malin cutané de l'oreille externe
+C43.2	mélanome malin de la peau du conduit auditif externe
+C43.2	mélanome malin cutané du conduit auditif externe
+C43.3	mélanome malin de la peau de la face
+C43.3	mélanome malin cutané de la face
+C43.3	mélanome malin de la peau de la joue
+C43.3	mélanome malin cutané de la joue
+C43.3	mélanome malin de la peau de la région sus-orbitaire
+C43.3	mélanome malin cutané sus-orbitaire
+C43.3	mélanome malin de la peau du nez
+C43.3	mélanome malin cutané du nez
+C43.3	mélanome malin de la peau du front
+C43.3	mélanome malin cutané du front
+C43.3	mélanome malin de la peau du menton
+C43.3	mélanome malin cutané du menton
+C43.3	mélanome malin de la peau de la région temporale
+C43.3	mélanome malin cutané temporal
+C43.4	mélanome malin de la peau du cuir chevelu
+C43.4	mélanome malin cutané du cuir chevelu
+C43.4	mélanome malin de la peau du cou
+C43.4	mélanome malin cutané du cou
+C43.5	mélanome malin de la peau du tronc
+C43.5	mélanome malin cutané du tronc
+C43.5	mélanome malin de la peau de l'aisselle
+C43.5	mélanome malin cutané de l'aisselle
+C43.5	mélanome malin de la peau de l'abdomen
+C43.5	mélanome malin cutané de l'abdomen
+C43.5	mélanome malin de la peau du dos
+C43.5	mélanome malin cutané du dos
+C43.5	mélanome malin de la peau du thorax
+C43.5	mélanome malin cutané du thorax
+C43.5	mélanome malin de la peau du sein
+C43.5	mélanome malin cutané du sein
+C43.5	mélanome malin de la peau de la fesse
+C43.5	mélanome malin cutané de la fesse
+C43.5	mélanome malin de la peau de l'aine
+C43.5	mélanome malin cutané inguinal
+C43.5	mélanome malin de la peau du périnée
+C43.5	mélanome malin cutané du périnée
+C43.5	mélanome malin de la peau de la région périanale
+C43.5	mélanome malin cutané périanal
+C43.5	mélanome malin de la peau du nombril
+C43.5	mélanome malin cutané du nombril
+C43.6	mélanome malin de la peau du membre supérieur
+C43.6	mélanome malin cutané du membre supérieur
+C43.6	mélanome malin de la peau de l'épaule
+C43.6	mélanome malin cutané de l'épaule
+C43.6	mélanome malin de la peau du bras
+C43.6	mélanome malin cutané du bras
+C43.6	mélanome malin de la peau du coude
+C43.6	mélanome malin cutané du coude
+C43.6	mélanome malin de la peau de l'avant-bras
+C43.6	mélanome malin cutané de l'avant-bras
+C43.6	mélanome malin de la peau du poignet
+C43.6	mélanome malin cutané du poignet
+C43.6	mélanome malin de la peau de la main
+C43.6	mélanome malin cutané de la main
+C43.6	mélanome malin de la peau des doigts
+C43.6	mélanome malin cutané des doigts
+C43.7	mélanome malin de la peau du membre inférieur
+C43.7	mélanome malin cutané du membre inférieur
+C43.7	mélanome malin de la peau de la hanche
+C43.7	mélanome malin cutané de la hanche
+C43.7	mélanome malin de la peau de la cuisse
+C43.7	mélanome malin cutané de la cuisse
+C43.7	mélanome malin de la peau du creux poplité
+C43.7	mélanome malin cutané du creux poplité
+C43.7	mélanome malin de la peau du genou
+C43.7	mélanome malin cutané du genou
+C43.7	mélanome malin de la peau de la jambe
+C43.7	mélanome malin cutané de la jambe
+C43.7	mélanome malin de la peau de la cheville
+C43.7	mélanome malin cutané de la cheville
+C43.7	mélanome malin de la peau du pied
+C43.7	mélanome malin cutané du pied
+C43.7	mélanome malin de la peau des orteils
+C43.7	mélanome malin cutané des orteils
+C43.8	mélanome malin à localisations contiguës de la peau
+C43.8	mélanome malin cutané à localisations contiguës
+C43.9	mélanome malin de la peau
+C43.9	mélanome malin cutané
+C44.0	tumeur maligne de la peau de la lèvre
+C44.0	tumeur maligne de la face cutanée de la lèvre
+C44.1	tumeur maligne de la peau de la paupière
+C44.1	tumeur maligne cutanée de la paupière
+C44.2	tumeur maligne de la peau de l'oreille externe
+C44.2	tumeur maligne cutanée de l'oreille externe
+C44.2	tumeur maligne de la peau du conduit auditif externe
+C44.2	tumeur maligne cutanée du conduit auditif externe
+C44.3	tumeur maligne de la peau de la face
+C44.3	tumeur maligne cutanée de la face
+C44.3	tumeur maligne de la peau de la joue
+C44.3	tumeur maligne cutanée de la joue
+C44.3	tumeur maligne de la peau de la région sus-orbitaire
+C44.3	tumeur maligne cutanée sus-orbitaire
+C44.3	tumeur maligne de la peau du nez
+C44.3	tumeur maligne cutanée du nez
+C44.3	tumeur maligne de la peau du front
+C44.3	tumeur maligne cutanée du front
+C44.3	tumeur maligne de la peau du menton
+C44.3	tumeur maligne cutanée du menton
+C44.3	tumeur maligne de la peau de la région temporale
+C44.3	tumeur maligne cutanée temporale
+C44.4	tumeur maligne de la peau du cuir chevelu
+C44.4	tumeur maligne cutanée du cuir chevelu
+C44.4	tumeur maligne de la peau du cou
+C44.4	tumeur maligne cutanée du cou
+C44.5	tumeur maligne de la peau du tronc
+C44.5	tumeur maligne cutanée du tronc
+C44.5	tumeur maligne de la peau de l'aisselle
+C44.5	tumeur maligne cutanée de l'aisselle
+C44.5	tumeur maligne de la peau de l'abdomen
+C44.5	tumeur maligne cutanée de l'abdomen
+C44.5	tumeur maligne de la peau du dos
+C44.5	tumeur maligne cutanée du dos
+C44.5	tumeur maligne de la peau du thorax
+C44.5	tumeur maligne cutanée du thorax
+C44.5	tumeur maligne de la peau du sein
+C44.5	tumeur maligne cutanée du sein
+C44.5	tumeur maligne de la peau de la fesse
+C44.5	tumeur maligne cutanée de la fesse
+C44.5	tumeur maligne de la peau de l'aine
+C44.5	tumeur maligne cutanée inguinale
+C44.5	tumeur maligne de la peau du périnée
+C44.5	tumeur maligne cutanée du périnée
+C44.5	tumeur maligne de la peau de la région périanale
+C44.5	tumeur maligne cutanée périanale
+C44.5	tumeur maligne de la peau du nombril
+C44.5	tumeur maligne cutanée du nombril
+C44.6	tumeur maligne de la peau du membre supérieur
+C44.6	tumeur maligne cutanée du membre supérieur
+C44.6	tumeur maligne de la peau de l'épaule
+C44.6	tumeur maligne cutanée de l'épaule
+C44.6	tumeur maligne de la peau du bras
+C44.6	tumeur maligne cutanée du bras
+C44.6	tumeur maligne de la peau du coude
+C44.6	tumeur maligne cutanée du coude
+C44.6	tumeur maligne de la peau de l'avant-bras
+C44.6	tumeur maligne cutanée de l'avant-bras
+C44.6	tumeur maligne de la peau du poignet
+C44.6	tumeur maligne cutanée du poignet
+C44.6	tumeur maligne de la peau de la main
+C44.6	tumeur maligne cutanée de la main
+C44.6	tumeur maligne de la peau des doigts
+C44.6	tumeur maligne cutanée des doigts
+C44.7	tumeur maligne de la peau du membre inférieur
+C44.7	tumeur maligne cutanée du membre inférieur
+C44.7	tumeur maligne de la peau de la hanche
+C44.7	tumeur maligne cutanée de la hanche
+C44.7	tumeur maligne de la peau de la cuisse
+C44.7	tumeur maligne cutanée de la cuisse
+C44.7	tumeur maligne de la peau du creux poplité
+C44.7	tumeur maligne cutanée du creux poplité
+C44.7	tumeur maligne de la peau du genou
+C44.7	tumeur maligne cutanée du genou
+C44.7	tumeur maligne de la peau de la jambe
+C44.7	tumeur maligne cutanée de la jambe
+C44.7	tumeur maligne de la peau de la cheville
+C44.7	tumeur maligne cutanée de la cheville
+C44.7	tumeur maligne de la peau du pied
+C44.7	tumeur maligne cutanée du pied
+C44.7	tumeur maligne de la peau des orteils
+C44.7	tumeur maligne cutanée des orteils
+C44.8	tumeur maligne de la peau à localisations contiguës
+C44.8	tumeur maligne cutanée à localisations contiguës
+C44.9	tumeur maligne de la peau
+C44.9	tumeur maligne cutanée
+C44.9	tumeur maligne des annexes cutanées
+C44.9	tumeur maligne des glandes sudoripares
+C44.9	tumeur maligne sudoripare
+C44.9	tumeur maligne des glandes sébacées
+C44.9	tumeur maligne sébacée
+C79.2	tumeur secondaire de la peau
+C79.2	tumeur secondaire cutanée
+C79.2	tumeur métastatique cutanée
+C79.2	tumeur métastatique de la peau
+C79.2	tumeur secondaire des annexes cutanées
+C79.2	tumeur métastatique des annexes cutanées
+C79.2	tumeur secondaire des glandes sudoripares
+C79.2	tumeur secondaire sudoripare
+C79.2	tumeur métastatique sudoripare
+C79.2	tumeur métastatique des glandes sudoripares
+C79.2	tumeur secondaire des glandes sébacées
+C79.2	tumeur secondaire sébacée
+C79.2	tumeur métastatique sébacée
+C79.2	tumeur métastatique des glandes sébacées
+C79.2	tumeur secondaire de la peau de la face
+C79.2	tumeur secondaire cutanée de la face
+C79.2	tumeur métastatique cutanée de la face
+C79.2	tumeur métastatique de la peau de la face
+C79.2	tumeur secondaire de la peau de la joue
+C79.2	tumeur secondaire cutanée de la joue
+C79.2	tumeur métastatique cutanée de la joue
+C79.2	tumeur métastatique de la peau de la joue
+C79.2	tumeur secondaire de la peau de la région sus-orbitaire
+C79.2	tumeur secondaire cutanée sus-orbitaire
+C79.2	tumeur métastatique cutanée sus-orbitaire
+C79.2	tumeur métastatique de la peau de la région sus-orbitaire
+C79.2	tumeur secondaire de la peau du nez
+C79.2	tumeur secondaire cutanée du nez
+C79.2	tumeur métastatique cutanée du nez
+C79.2	tumeur métastatique de la peau du nez
+C79.2	tumeur secondaire de la peau du front
+C79.2	tumeur secondaire cutanée du front
+C79.2	tumeur métastatique cutanée du front
+C79.2	tumeur métastatique de la peau du front
+C79.2	tumeur secondaire de la peau du menton
+C79.2	tumeur secondaire cutanée du menton
+C79.2	tumeur métastatique cutanée du menton
+C79.2	tumeur métastatique de la peau du menton
+C79.2	tumeur secondaire de la peau de la lèvre
+C79.2	tumeur secondaire de la face cutanée de la lèvre
+C79.2	tumeur métastatique de la face cutanée de la lèvre
+C79.2	tumeur métastatique de la peau de la lèvre
+C79.2	tumeur secondaire de la peau de la paupière
+C79.2	tumeur secondaire cutanée de la paupière
+C79.2	tumeur métastatique cutanée de la paupière
+C79.2	tumeur métastatique de la peau de la paupière
+C79.2	tumeur secondaire de la peau du cuir chevelu
+C79.2	tumeur secondaire cutanée du cuir chevelu
+C79.2	tumeur métastatique cutanée du cuir chevelu
+C79.2	tumeur métastatique de la peau du cuir chevelu
+C79.2	tumeur secondaire de la peau de l'oreille externe
+C79.2	tumeur secondaire cutanée de l'oreille externe
+C79.2	tumeur métastatique cutanée de l'oreille externe
+C79.2	tumeur métastatique de la peau de l'oreille externe
+C79.2	tumeur secondaire de la peau du conduit auditif externe
+C79.2	tumeur secondaire cutanée du conduit auditif externe
+C79.2	tumeur métastatique cutanée du conduit auditif externe
+C79.2	tumeur métastatique de la peau du conduit auditif externe
+C79.2	tumeur secondaire de la peau de la région temporale
+C79.2	tumeur secondaire cutanée temporale
+C79.2	tumeur métastatique cutanée temporale
+C79.2	tumeur métastatique de la peau de la région temporale
+C79.2	tumeur secondaire de la peau du cou
+C79.2	tumeur secondaire cutanée du cou
+C79.2	tumeur métastatique cutanée du cou
+C79.2	tumeur métastatique de la peau du cou
+C79.2	tumeur secondaire de la peau du tronc
+C79.2	tumeur secondaire cutanée du tronc
+C79.2	tumeur métastatique cutanée du tronc
+C79.2	tumeur métastatique de la peau du tronc
+C79.2	tumeur secondaire de la peau de l'aisselle
+C79.2	tumeur secondaire cutanée de l'aisselle
+C79.2	tumeur métastatique cutanée de l'aisselle
+C79.2	tumeur métastatique de la peau de l'aisselle
+C79.2	tumeur secondaire de la peau de l'abdomen
+C79.2	tumeur secondaire cutanée de l'abdomen
+C79.2	tumeur métastatique cutanée de l'abdomen
+C79.2	tumeur métastatique de la peau de l'abdomen
+C79.2	tumeur secondaire de la peau du dos
+C79.2	tumeur secondaire cutanée du dos
+C79.2	tumeur métastatique cutanée du dos
+C79.2	tumeur métastatique de la peau du dos
+C79.2	tumeur secondaire de la peau du thorax
+C79.2	tumeur secondaire cutanée du thorax
+C79.2	tumeur métastatique cutanée du thorax
+C79.2	tumeur métastatique de la peau du thorax
+C79.2	tumeur secondaire de la peau du sein
+C79.2	tumeur secondaire cutanée du sein
+C79.2	tumeur métastatique cutanée du sein
+C79.2	tumeur métastatique de la peau du sein
+C79.2	tumeur secondaire de la peau de la fesse
+C79.2	tumeur secondaire cutanée de la fesse
+C79.2	tumeur métastatique cutanée de la fesse
+C79.2	tumeur métastatique de la peau de la fesse
+C79.2	tumeur secondaire de la peau de l'aine
+C79.2	tumeur secondaire cutanée inguinale
+C79.2	tumeur métastatique cutanée inguinale
+C79.2	tumeur métastatique de la peau de l'aine
+C79.2	tumeur secondaire de la peau du périnée
+C79.2	tumeur secondaire cutanée du périnée
+C79.2	tumeur métastatique cutanée du périnée
+C79.2	tumeur métastatique de la peau du périnée
+C79.2	tumeur secondaire de la peau de la région périanale
+C79.2	tumeur secondaire cutanée périanale
+C79.2	tumeur métastatique cutanée périanale
+C79.2	tumeur métastatique de la peau de la région périanale
+C79.2	tumeur secondaire de la peau du nombril
+C79.2	tumeur secondaire cutanée du nombril
+C79.2	tumeur métastatique cutanée du nombril
+C79.2	tumeur métastatique de la peau du nombril
+C79.2	tumeur secondaire de la peau du membre supérieur
+C79.2	tumeur secondaire cutanée du membre supérieur
+C79.2	tumeur métastatique cutanée du membre supérieur
+C79.2	tumeur métastatique de la peau du membre supérieur
+C79.2	tumeur secondaire de la peau de l'épaule
+C79.2	tumeur secondaire cutanée de l'épaule
+C79.2	tumeur métastatique cutanée de l'épaule
+C79.2	tumeur métastatique de la peau de l'épaule
+C79.2	tumeur secondaire de la peau du bras
+C79.2	tumeur secondaire cutanée du bras
+C79.2	tumeur métastatique cutanée du bras
+C79.2	tumeur métastatique de la peau du bras
+C79.2	tumeur secondaire de la peau du coude
+C79.2	tumeur secondaire cutanée du coude
+C79.2	tumeur métastatique cutanée du coude
+C79.2	tumeur métastatique de la peau du coude
+C79.2	tumeur secondaire de la peau de l'avant-bras
+C79.2	tumeur secondaire cutanée de l'avant-bras
+C79.2	tumeur métastatique cutanée de l'avant-bras
+C79.2	tumeur métastatique de la peau de l'avant-bras
+C79.2	tumeur secondaire de la peau du poignet
+C79.2	tumeur secondaire cutanée du poignet
+C79.2	tumeur métastatique cutanée du poignet
+C79.2	tumeur métastatique de la peau du poignet
+C79.2	tumeur secondaire de la peau de la main
+C79.2	tumeur secondaire cutanée de la main
+C79.2	tumeur métastatique cutanée de la main
+C79.2	tumeur métastatique de la peau de la main
+C79.2	tumeur secondaire de la peau des doigts
+C79.2	tumeur secondaire cutanée des doigts
+C79.2	tumeur métastatique cutanée des doigts
+C79.2	tumeur métastatique de la peau des doigts
+C79.2	tumeur secondaire de la peau du membre inférieur
+C79.2	tumeur secondaire cutanée du membre inférieur
+C79.2	tumeur métastatique cutanée du membre inférieur
+C79.2	tumeur métastatique de la peau du membre inférieur
+C79.2	tumeur secondaire de la peau de la hanche
+C79.2	tumeur secondaire cutanée de la hanche
+C79.2	tumeur métastatique cutanée de la hanche
+C79.2	tumeur métastatique de la peau de la hanche
+C79.2	tumeur secondaire de la peau de la cuisse
+C79.2	tumeur secondaire cutanée de la cuisse
+C79.2	tumeur métastatique cutanée de la cuisse
+C79.2	tumeur métastatique de la peau de la cuisse
+C79.2	tumeur secondaire de la peau du creux poplité
+C79.2	tumeur secondaire cutanée du creux poplité
+C79.2	tumeur métastatique cutanée du creux poplité
+C79.2	tumeur métastatique de la peau du creux poplité
+C79.2	tumeur secondaire de la peau du genou
+C79.2	tumeur secondaire cutanée du genou
+C79.2	tumeur métastatique cutanée du genou
+C79.2	tumeur métastatique de la peau du genou
+C79.2	tumeur secondaire de la peau de la jambe
+C79.2	tumeur secondaire cutanée de la jambe
+C79.2	tumeur métastatique cutanée de la jambe
+C79.2	tumeur métastatique de la peau de la jambe
+C79.2	tumeur secondaire de la peau de la cheville
+C79.2	tumeur secondaire cutanée de la cheville
+C79.2	tumeur métastatique cutanée de la cheville
+C79.2	tumeur métastatique de la peau de la cheville
+C79.2	tumeur secondaire de la peau du pied
+C79.2	tumeur secondaire cutanée du pied
+C79.2	tumeur métastatique cutanée du pied
+C79.2	tumeur métastatique de la peau du pied
+C79.2	tumeur secondaire de la peau des orteils
+C79.2	tumeur secondaire cutanée des orteils
+C79.2	tumeur métastatique cutanée des orteils
+C79.2	tumeur métastatique de la peau des orteils
+C41.9	tumeur maligne des os ou du cartilage articulaire
+C41.9	tumeur maligne osseuse ou cartilagineuse articulaire
+C79.5	tumeur secondaire des os ou du cartilage articulaire
+C79.5	tumeur secondaire osseuse ou cartilagineuse articulaire
+C79.5	tumeur métastatique osseuse ou cartilagineuse articulaire
+C79.5	tumeur métastatique des os ou du cartilage articulaire
+C41.9	tumeur maligne des os et du cartilage articulaire
+C41.9	tumeur maligne osseuse et cartilagineuse articulaire
+C79.5	tumeur secondaire des os et du cartilage articulaire
+C79.5	tumeur secondaire osseuse et cartilagineuse articulaire
+C79.5	tumeur métastatique osseuse et cartilagineuse articulaire
+C79.5	tumeur métastatique des os et du cartilage articulaire
+C41.8	tumeur maligne à localisations contiguës des os et du cartilage articulaire
+C40.8	tumeur maligne à localisations contiguës des os et du cartilage articulaire des membres
+C41.9	tumeur maligne des os
+C41.9	tumeur maligne osseuse
+C79.5	tumeur secondaire des os
+C79.5	tumeur secondaire osseuse
+C79.5	tumeur métastatique osseuse
+C79.5	tumeur métastatique des os
+C41.0	tumeur maligne des os du crâne
+C41.0	tumeur maligne osseuse du crâne
+C79.5	tumeur secondaire des os du crâne
+C79.5	tumeur secondaire osseuse du crâne
+C79.5	tumeur métastatique osseuse du crâne
+C79.5	tumeur métastatique des os du crâne
+C41.0	tumeur maligne de l'os frontal
+C41.0	tumeur maligne osseuse frontale
+C79.5	tumeur secondaire de l'os frontal
+C79.5	tumeur secondaire osseuse frontale
+C79.5	tumeur métastatique osseuse frontale
+C79.5	tumeur métastatique de l'os frontal
+C41.0	tumeur maligne de l'os pariétal
+C41.0	tumeur maligne osseuse pariétale
+C79.5	tumeur secondaire de l'os pariétal
+C79.5	tumeur secondaire osseuse pariétale
+C79.5	tumeur métastatique osseuse pariétale
+C79.5	tumeur métastatique de l'os pariétal
+C41.0	tumeur maligne de l'os temporal
+C41.0	tumeur maligne osseuse temporale
+C79.5	tumeur secondaire de l'os temporal
+C79.5	tumeur secondaire osseuse temporale
+C79.5	tumeur métastatique osseuse temporale
+C79.5	tumeur métastatique de l'os temporal
+C41.0	tumeur maligne de l'os occipital
+C41.0	tumeur maligne osseuse occipitale
+C79.5	tumeur secondaire de l'os occipital
+C79.5	tumeur secondaire osseuse occipitale
+C79.5	tumeur métastatique osseuse occipitale
+C79.5	tumeur métastatique de l'os occipital
+C41.0	tumeur maligne de l'os sphénoïde
+C41.0	tumeur maligne osseuse sphénoïdale
+C79.5	tumeur secondaire de l'os sphénoïde
+C79.5	tumeur secondaire osseuse sphénoïdale
+C79.5	tumeur métastatique osseuse sphénoïdale
+C79.5	tumeur métastatique de l'os sphénoïde
+C41.0	tumeur maligne de l'os ethmoïde
+C41.0	tumeur maligne osseuse ethmoïdale
+C79.5	tumeur secondaire de l'os ethmoïde
+C79.5	tumeur secondaire osseuse ethmoïdale
+C79.5	tumeur métastatique osseuse ethmoïdale
+C79.5	tumeur métastatique de l'os ethmoïde
+C41.0	tumeur maligne des os de la face
+C41.0	tumeur maligne osseuse de la face
+C79.5	tumeur secondaire des os de la face
+C79.5	tumeur secondaire osseuse de la face
+C79.5	tumeur métastatique osseuse de la face
+C79.5	tumeur métastatique des os de la face
+C41.0	tumeur maligne de l'os malaire
+C41.0	tumeur maligne de l'os zygomatique
+C79.5	tumeur secondaire de l'os malaire
+C79.5	tumeur secondaire de l'os zygomatique
+C79.5	tumeur métastatique de l'os zygomatique
+C79.5	tumeur métastatique de l'os malaire
+C41.0	tumeur maligne de l'os palatin
+C79.5	tumeur secondaire de l'os palatin
+C79.5	tumeur métastatique de l'os palatin
+C41.0	tumeur maligne de l'os propre du nez
+C79.5	tumeur secondaire de l'os propre du nez
+C79.5	tumeur métastatique de l'os propre du nez
+C41.0	tumeur maligne de l'os vomer
+C41.0	tumeur maligne osseuse vomérienne
+C79.5	tumeur secondaire de l'os vomer
+C79.5	tumeur secondaire osseuse vomérienne
+C79.5	tumeur métastatique osseuse vomérienne
+C79.5	tumeur métastatique de l'os vomer
+C41.0	tumeur maligne des os du maxillaire supérieur
+C41.0	tumeur maligne osseuse du maxillaire supérieur
+C79.5	tumeur secondaire des os du maxillaire supérieur
+C79.5	tumeur secondaire osseuse du maxillaire supérieur
+C79.5	tumeur métastatique osseuse du maxillaire supérieur
+C79.5	tumeur métastatique des os du maxillaire supérieur
+C41.1	tumeur maligne de la mandibule
+C41.1	tumeur maligne mandibulaire
+C41.1	tumeur maligne du maxillaire inférieur
+C79.5	tumeur secondaire de la mandibule
+C79.5	tumeur secondaire mandibulaire
+C79.5	tumeur secondaire du maxillaire inférieur
+C79.5	tumeur métastatique mandibulaire
+C79.5	tumeur métastatique du maxillaire inférieur
+C79.5	tumeur métastatique de la mandibule
+C41.2	tumeur maligne de la colonne vertébrale
+C41.2	tumeur maligne du rachis
+C79.5	tumeur secondaire de la colonne vertébrale
+C79.5	tumeur secondaire du rachis
+C79.5	tumeur métastatique du rachis
+C79.5	tumeur métastatique de la colonne vertébrale
+C41.2	tumeur maligne de la colonne cervicale
+C41.2	tumeur maligne du rachis cervical
+C79.5	tumeur secondaire de la colonne cervicale
+C79.5	tumeur secondaire du rachis cervical
+C79.5	tumeur métastatique du rachis cervical
+C79.5	tumeur métastatique de la colonne cervicale
+C41.2	tumeur maligne de la colonne dorsale
+C41.2	tumeur maligne du rachis dorsal
+C79.5	tumeur secondaire de la colonne dorsale
+C79.5	tumeur métastatique de la colonne dorsale
+C79.5	tumeur secondaire du rachis dorsal
+C79.5	tumeur métastatique du rachis dorsal
+C41.2	tumeur maligne de la colonne lombaire
+C41.2	tumeur maligne du rachis lombaire
+C79.5	tumeur secondaire de la colonne lombaire
+C79.5	tumeur secondaire du rachis lombaire
+C79.5	tumeur métastatique du rachis lombaire
+C79.5	tumeur métastatique de la colonne lombaire
+C41.4	tumeur maligne du sacrum
+C41.4	tumeur maligne sacrée
+C79.5	tumeur secondaire du sacrum
+C79.5	tumeur secondaire sacrée
+C79.5	tumeur métastatique sacrée
+C79.5	tumeur métastatique du sacrum
+C41.4	tumeur maligne du coccyx
+C41.4	tumeur maligne coccygienne
+C79.5	tumeur secondaire du coccyx
+C79.5	tumeur secondaire coccygienne
+C79.5	tumeur métastatique coccygienne
+C79.5	tumeur métastatique du coccyx
+C41.3	tumeur maligne d'une côte
+C41.3	tumeur maligne costale
+C79.5	tumeur secondaire d'une côte
+C79.5	tumeur secondaire costale
+C79.5	tumeur métastatique costale
+C79.5	tumeur métastatique d'une côte
+C41.3	tumeur maligne du sternum
+C41.3	tumeur maligne sternale
+C79.5	tumeur secondaire du sternum
+C79.5	tumeur secondaire sternale
+C79.5	tumeur métastatique sternale
+C79.5	tumeur métastatique du sternum
+C41.3	tumeur maligne de la clavicule
+C41.3	tumeur maligne claviculaire
+C79.5	tumeur secondaire de la clavicule
+C79.5	tumeur secondaire claviculaire
+C79.5	tumeur métastatique claviculaire
+C79.5	tumeur métastatique de la clavicule
+C41.4	tumeur maligne du bassin osseux
+C41.4	tumeur maligne osseuse pelvienne
+C79.5	tumeur secondaire du bassin osseux
+C79.5	tumeur secondaire osseuse pelvienne
+C79.5	tumeur métastatique osseuse pelvienne
+C79.5	tumeur métastatique du bassin osseux
+C41.4	tumeur maligne de l'ilion
+C79.5	tumeur secondaire de l'ilion
+C79.5	tumeur métastatique de l'ilion
+C41.4	tumeur maligne de l'ischion
+C79.5	tumeur secondaire de l'ischion
+C79.5	tumeur métastatique de l'ischion
+C41.4	tumeur maligne du pubis
+C41.4	tumeur maligne pubienne
+C79.5	tumeur secondaire du pubis
+C79.5	tumeur secondaire pubienne
+C79.5	tumeur métastatique pubienne
+C79.5	tumeur métastatique du pubis
+C40.9	tumeur maligne d'un os du membre supérieur
+C40.0	tumeur maligne osseuse du membre supérieur
+C79.5	tumeur secondaire d'un os du membre supérieur
+C79.5	tumeur secondaire osseuse du membre supérieur
+C79.5	tumeur métastatique osseuse du membre supérieur
+C79.5	tumeur métastatique d'un os du membre supérieur
+C40.0	tumeur maligne de l'omoplate
+C79.5	tumeur secondaire de l'omoplate
+C79.5	tumeur métastatique de l'omoplate
+C40.0	tumeur maligne de l'acromion
+C40.0	tumeur maligne acromiale
+C79.5	tumeur secondaire de l'acromion
+C79.5	tumeur secondaire acromiale
+C79.5	tumeur métastatique acromiale
+C79.5	tumeur métastatique de l'acromion
+C40.0	tumeur maligne d'un os long du membre supérieur
+C79.5	tumeur secondaire d'un os long du membre supérieur
+C79.5	tumeur métastatique d'un os long du membre supérieur
+C40.0	tumeur maligne du radius
+C40.0	tumeur maligne radiale
+C79.5	tumeur secondaire du radius
+C79.5	tumeur secondaire radiale
+C79.5	tumeur métastatique radiale
+C79.5	tumeur métastatique du radius
+C40.0	tumeur maligne du cubitus
+C40.0	tumeur maligne cubitale
+C79.5	tumeur secondaire du cubitus
+C79.5	tumeur secondaire cubitale
+C79.5	tumeur métastatique cubitale
+C79.5	tumeur métastatique du cubitus
+C40.1	tumeur maligne d'un os court du membre supérieur
+C79.5	tumeur secondaire d'un os court du membre supérieur
+C79.5	tumeur métastatique d'un os court du membre supérieur
+C40.1	tumeur maligne des os du carpe
+C40.1	tumeur maligne osseuse du carpe
+C79.5	tumeur secondaire des os du carpe
+C79.5	tumeur secondaire osseuse du carpe
+C79.5	tumeur métastatique osseuse du carpe
+C79.5	tumeur métastatique des os du carpe
+C40.1	tumeur maligne du scaphoïde de la main
+C40.1	tumeur maligne de l'os naviculaire de la main
+C79.5	tumeur secondaire du scaphoïde de la main
+C79.5	tumeur métastatique du scaphoïde de la main
+C79.5	tumeur secondaire de l'os naviculaire de la main
+C79.5	tumeur métastatique de l'os naviculaire de la main
+C40.1	tumeur maligne de l'os pisiforme
+C79.5	tumeur secondaire de l'os pisiforme
+C79.5	tumeur métastatique de l'os pisiforme
+C40.1	tumeur maligne de l'os semi-lunaire
+C79.5	tumeur secondaire de l'os semi-lunaire
+C79.5	tumeur métastatique de l'os semi-lunaire
+C40.1	tumeur maligne de l'os trapèze
+C40.1	tumeur maligne du grand multiangulaire
+C79.5	tumeur secondaire de l'os trapèze
+C79.5	tumeur métastatique de l'os trapèze
+C79.5	tumeur secondaire du grand multiangulaire
+C79.5	tumeur métastatique du grand multiangulaire
+C40.1	tumeur maligne de l'os trapézoïde
+C79.5	tumeur secondaire de l'os trapézoïde
+C79.5	tumeur métastatique de l'os trapézoïde
+C40.1	tumeur maligne de l'os crochu
+C79.5	tumeur secondaire de l'os crochu
+C79.5	tumeur métastatique de l'os crochu
+C40.1	tumeur maligne d'un métacarpien
+C40.1	tumeur maligne métacarpienne
+C79.5	tumeur secondaire d'un métacarpien
+C79.5	tumeur secondaire métacarpienne
+C79.5	tumeur métastatique métacarpienne
+C79.5	tumeur métastatique d'un métacarpien
+C40.1	tumeur maligne d'une phalange de la main
+C40.1	tumeur maligne phalangienne de la main
+C79.5	tumeur secondaire d'une phalange de la main
+C79.5	tumeur secondaire phalangienne de la main
+C79.5	tumeur métastatique phalangienne de la main
+C79.5	tumeur métastatique d'une phalange de la main
+C40.9	tumeur maligne d'un os du membre inférieur
+C40.2	tumeur maligne osseuse du membre inférieur
+C79.5	tumeur secondaire d'un os du membre inférieur
+C79.5	tumeur secondaire osseuse du membre inférieur
+C79.5	tumeur métastatique osseuse du membre inférieur
+C79.5	tumeur métastatique d'un os du membre inférieur
+C40.2	tumeur maligne d'un os long du membre inférieur
+C79.5	tumeur secondaire d'un os long du membre inférieur
+C79.5	tumeur métastatique d'un os long du membre inférieur
+C40.2	tumeur maligne du fémur
+C40.2	tumeur maligne fémorale
+C79.5	tumeur secondaire du fémur
+C79.5	tumeur secondaire fémorale
+C79.5	tumeur métastatique fémorale
+C79.5	tumeur métastatique du fémur
+C40.2	tumeur maligne du péroné
+C40.2	tumeur maligne péronière
+C79.5	tumeur secondaire du péroné
+C79.5	tumeur secondaire péronière
+C79.5	tumeur métastatique péronière
+C79.5	tumeur métastatique du péroné
+C40.2	tumeur maligne du tibia
+C40.2	tumeur maligne tibiale
+C79.5	tumeur secondaire du tibia
+C79.5	tumeur secondaire tibiale
+C79.5	tumeur métastatique tibiale
+C79.5	tumeur métastatique du tibia
+C40.3	tumeur maligne d'un os court du membre inférieur
+C79.5	tumeur secondaire d'un os court du membre inférieur
+C79.5	tumeur métastatique d'un os court du membre inférieur
+C40.3	tumeur maligne de la rotule
+C40.3	tumeur maligne rotulienne
+C79.5	tumeur secondaire de la rotule
+C79.5	tumeur secondaire rotulienne
+C79.5	tumeur métastatique rotulienne
+C79.5	tumeur métastatique de la rotule
+C40.3	tumeur maligne des os du tarse
+C40.3	tumeur maligne osseuse du tarse
+C79.5	tumeur secondaire des os du tarse
+C79.5	tumeur secondaire osseuse du tarse
+C79.5	tumeur métastatique osseuse du tarse
+C79.5	tumeur métastatique des os du tarse
+C40.3	tumeur maligne du calcanéum
+C40.3	tumeur maligne calcanéenne
+C79.5	tumeur secondaire du calcanéum
+C79.5	tumeur secondaire calcanéenne
+C79.5	tumeur métastatique calcanéenne
+C79.5	tumeur métastatique du calcanéum
+C40.3	tumeur maligne de l'astragale
+C40.3	tumeur maligne astragalienne
+C79.5	tumeur secondaire de l'astragale
+C79.5	tumeur secondaire astragalienne
+C79.5	tumeur métastatique astragalienne
+C79.5	tumeur métastatique de l'astragale
+C40.3	tumeur maligne du cuboïde
+C79.5	tumeur secondaire du cuboïde
+C79.5	tumeur métastatique du cuboïde
+C40.3	tumeur maligne de l'os naviculaire du pied
+C79.5	tumeur secondaire de l'os naviculaire du pied
+C79.5	tumeur métastatique de l'os naviculaire du pied
+C40.3	tumeur maligne du premier cunéiforme
+C79.5	tumeur secondaire du premier cunéiforme
+C79.5	tumeur métastatique du premier cunéiforme
+C40.3	tumeur maligne du deuxième cunéiforme
+C79.5	tumeur secondaire du deuxième cunéiforme
+C79.5	tumeur métastatique du deuxième cunéiforme
+C40.3	tumeur maligne du troisième cunéiforme
+C79.5	tumeur secondaire du troisième cunéiforme
+C79.5	tumeur métastatique du troisième cunéiforme
+C40.3	tumeur maligne d'un métatarsien
+C40.3	tumeur maligne métatarsienne
+C79.5	tumeur secondaire d'un métatarsien
+C79.5	tumeur secondaire métatarsienne
+C79.5	tumeur métastatique métatarsienne
+C79.5	tumeur métastatique d'un métatarsien
+C40.3	tumeur maligne d'une phalange du pied
+C40.3	tumeur maligne phalangienne du pied
+C79.5	tumeur secondaire d'une phalange du pied
+C79.5	tumeur secondaire phalangienne du pied
+C79.5	tumeur métastatique phalangienne du pied
+C79.5	tumeur métastatique d'une phalange du pied
+C49.6	tumeur maligne du tissu conjonctif et des autres tissus mous
+C79.8	tumeur secondaire du tissu conjonctif et des autres tissus mous
+C79.8	tumeur métastatique du tissu conjonctif et des autres tissus mous
+C49.8	tumeur maligne à localisations contiguës du tissu conjonctif et des autres tissus mous
+C49.0	tumeur maligne des tissus mous de la tête
+C79.8	tumeur secondaire des tissus mous de la tête
+C79.8	tumeur métastatique des tissus mous de la tête
+C49.0	tumeur maligne des tissus mous de la face
+C79.8	tumeur secondaire des tissus mous de la face
+C79.8	tumeur métastatique des tissus mous de la face
+C49.0	tumeur maligne des tissus mous du cou
+C79.8	tumeur secondaire des tissus mous du cou
+C79.8	tumeur métastatique des tissus mous du cou
+C49.1	tumeur maligne des tissus mous de l'épaule
+C79.8	tumeur secondaire des tissus mous de l'épaule
+C79.8	tumeur métastatique des tissus mous de l'épaule
+C49.1	tumeur maligne des tissus mous du membre supérieur
+C79.8	tumeur secondaire des tissus mous du membre supérieur
+C79.8	tumeur métastatique des tissus mous du membre supérieur
+C49.2	tumeur maligne des tissus mous de la hanche
+C79.8	tumeur secondaire des tissus mous de la hanche
+C79.8	tumeur métastatique des tissus mous de la hanche
+C49.2	tumeur maligne des tissus mous du membre inférieur
+C79.8	tumeur secondaire des tissus mous du membre inférieur
+C79.8	tumeur métastatique des tissus mous du membre inférieur
+C49.6	tumeur maligne des tissus mous du tronc
+C79.8	tumeur secondaire des tissus mous du tronc
+C79.8	tumeur métastatique des tissus mous du tronc
+C49.3	tumeur maligne des tissus mous du thorax
+C79.8	tumeur secondaire des tissus mous du thorax
+C79.8	tumeur métastatique des tissus mous du thorax
+C49.3	tumeur maligne des tissus mous de l'aisselle
+C79.8	tumeur secondaire des tissus mous de l'aisselle
+C79.8	tumeur métastatique des tissus mous de l'aisselle
+C49.4	tumeur maligne des tissus mous de l'abdomen
+C79.8	tumeur secondaire des tissus mous de l'abdomen
+C79.8	tumeur métastatique des tissus mous de l'abdomen
+C49.5	tumeur maligne des tissus mous du bassin
+C79.8	tumeur secondaire des tissus mous du bassin
+C79.8	tumeur métastatique des tissus mous du bassin
+C49.5	tumeur maligne des tissus mous de la fesse
+C79.8	tumeur secondaire des tissus mous de la fesse
+C79.8	tumeur métastatique des tissus mous de la fesse
+C49.5	tumeur maligne des tissus mous de la région inguinale
+C49.5	tumeur maligne des tissus mous inguinaux
+C79.8	tumeur secondaire des tissus mous de la région inguinale
+C79.8	tumeur secondaire des tissus mous inguinaux
+C79.8	tumeur métastatique des tissus mous inguinaux
+C79.8	tumeur métastatique des tissus mous de la région inguinale
+C49.5	tumeur maligne des tissus mous du périnée
+C49.5	tumeur maligne des tissus mous périnéaux
+C79.8	tumeur secondaire des tissus mous du périnée
+C79.8	tumeur secondaire des tissus mous périnéaux
+C79.8	tumeur métastatique des tissus mous périnéaux
+C79.8	tumeur métastatique des tissus mous du périnée
+C49.9	tumeur maligne des muscles
+C49.9	tumeur maligne musculaire
+C79.8	tumeur secondaire des muscles
+C79.8	tumeur secondaire musculaire
+C79.8	tumeur métastatique musculaire
+C79.8	tumeur métastatique des muscles
+C49.0	tumeur maligne d'un muscle de la tête
+C49.0	tumeur maligne musculaire de la tête
+C79.8	tumeur secondaire d'un muscle de la tête
+C79.8	tumeur secondaire musculaire de la tête
+C79.8	tumeur métastatique musculaire de la tête
+C79.8	tumeur métastatique d'un muscle de la tête
+C49.0	tumeur maligne d'un muscle de la face
+C49.0	tumeur maligne musculaire de la face
+C79.8	tumeur secondaire d'un muscle de la face
+C79.8	tumeur secondaire musculaire de la face
+C79.8	tumeur métastatique musculaire de la face
+C79.8	tumeur métastatique d'un muscle de la face
+C49.0	tumeur maligne d'un muscle du cou
+C49.0	tumeur maligne musculaire du cou
+C79.8	tumeur secondaire d'un muscle du cou
+C79.8	tumeur secondaire musculaire du cou
+C79.8	tumeur métastatique musculaire du cou
+C79.8	tumeur métastatique d'un muscle du cou
+C49.1	tumeur maligne d'un muscle de l'épaule
+C49.1	tumeur maligne musculaire de l'épaule
+C79.8	tumeur secondaire d'un muscle de l'épaule
+C79.8	tumeur secondaire musculaire de l'épaule
+C79.8	tumeur métastatique musculaire de l'épaule
+C79.8	tumeur métastatique d'un muscle de l'épaule
+C49.1	tumeur maligne d'un muscle du membre supérieur
+C49.1	tumeur maligne musculaire du membre supérieur
+C79.8	tumeur secondaire d'un muscle du membre supérieur
+C79.8	tumeur secondaire musculaire du membre supérieur
+C79.8	tumeur métastatique musculaire du membre supérieur
+C79.8	tumeur métastatique d'un muscle du membre supérieur
+C49.2	tumeur maligne d'un muscle de la hanche
+C49.2	tumeur maligne musculaire de la hanche
+C79.8	tumeur secondaire d'un muscle de la hanche
+C79.8	tumeur secondaire musculaire de la hanche
+C79.8	tumeur métastatique musculaire de la hanche
+C79.8	tumeur métastatique d'un muscle de la hanche
+C49.2	tumeur maligne d'un muscle du membre inférieur
+C49.2	tumeur maligne musculaire du membre inférieur
+C79.8	tumeur secondaire d'un muscle du membre inférieur
+C79.8	tumeur secondaire musculaire du membre inférieur
+C79.8	tumeur métastatique musculaire du membre inférieur
+C79.8	tumeur métastatique d'un muscle du membre inférieur
+C49.6	tumeur maligne d'un muscle du tronc
+C49.6	tumeur maligne musculaire du tronc
+C79.8	tumeur secondaire d'un muscle du tronc
+C79.8	tumeur secondaire musculaire du tronc
+C79.8	tumeur métastatique musculaire du tronc
+C79.8	tumeur métastatique d'un muscle du tronc
+C49.3	tumeur maligne d'un muscle du thorax
+C49.3	tumeur maligne musculaire du thorax
+C79.8	tumeur secondaire d'un muscle du thorax
+C79.8	tumeur secondaire musculaire du thorax
+C79.8	tumeur métastatique musculaire du thorax
+C79.8	tumeur métastatique d'un muscle du thorax
+C49.4	tumeur maligne d'un muscle de l'abdomen
+C49.4	tumeur maligne musculaire de l'abdomen
+C79.8	tumeur secondaire d'un muscle de l'abdomen
+C79.8	tumeur secondaire musculaire de l'abdomen
+C79.8	tumeur métastatique musculaire de l'abdomen
+C79.8	tumeur métastatique d'un muscle de l'abdomen
+C49.5	tumeur maligne d'un muscle du bassin
+C49.5	tumeur maligne musculaire du bassin
+C79.8	tumeur secondaire d'un muscle du bassin
+C79.8	tumeur secondaire musculaire du bassin
+C79.8	tumeur métastatique musculaire du bassin
+C79.8	tumeur métastatique d'un muscle du bassin
+C49.5	tumeur maligne d'un muscle de la fesse
+C49.5	tumeur maligne musculaire de la fesse
+C79.8	tumeur secondaire d'un muscle de la fesse
+C79.8	tumeur secondaire musculaire de la fesse
+C79.8	tumeur métastatique musculaire de la fesse
+C79.8	tumeur métastatique d'un muscle de la fesse
+C49.5	tumeur maligne d'un muscle inguinal
+C49.5	tumeur maligne musculaire inguinale
+C79.8	tumeur secondaire d'un muscle inguinal
+C79.8	tumeur secondaire musculaire inguinale
+C79.8	tumeur métastatique musculaire inguinale
+C79.8	tumeur métastatique d'un muscle inguinal
+C49.5	tumeur maligne d'un muscle du périnée
+C49.5	tumeur maligne musculaire du périnée
+C79.8	tumeur secondaire d'un muscle du périnée
+C79.8	tumeur secondaire musculaire du périnée
+C79.8	tumeur métastatique musculaire du périnée
+C79.8	tumeur métastatique d'un muscle du périnée
+C76.0	tumeur maligne de la tête
+C79.8	tumeur secondaire de la tête
+C79.8	tumeur métastatique de la tête
+C76.0	tumeur maligne de la face
+C76.0	tumeur maligne faciale
+C79.8	tumeur secondaire de la face
+C79.8	tumeur secondaire faciale
+C79.8	tumeur métastatique faciale
+C79.8	tumeur métastatique de la face
+C76.0	tumeur maligne de la joue
+C79.8	tumeur secondaire de la joue
+C79.8	tumeur métastatique de la joue
+C76.0	tumeur maligne de la mâchoire
+C79.8	tumeur secondaire de la mâchoire
+C79.8	tumeur métastatique de la mâchoire
+C76.0	tumeur maligne du cou
+C79.8	tumeur secondaire du cou
+C79.8	tumeur métastatique du cou
+C76.0	tumeur maligne de la région sus-claviculaire
+C76.0	tumeur maligne sus-claviculaire
+C79.8	tumeur secondaire de la région sus-claviculaire
+C79.8	tumeur secondaire sus-claviculaire
+C79.8	tumeur métastatique sus-claviculaire
+C79.8	tumeur métastatique de la région sus-claviculaire
+C76.7	tumeur maligne du tronc
+C79.8	tumeur secondaire du tronc
+C79.8	tumeur métastatique du tronc
+C76.1	tumeur maligne des viscères thoraciques
+C76.1	tumeur maligne des organes thoraciques
+C79.8	tumeur secondaire des viscères thoraciques
+C79.8	tumeur secondaire des organes thoraciques
+C79.8	tumeur métastatique des organes thoraciques
+C79.8	tumeur métastatique des viscères thoraciques
+C76.1	tumeur maligne de l'aisselle
+C76.1	tumeur maligne axillaire
+C79.8	tumeur secondaire de l'aisselle
+C79.8	tumeur secondaire axillaire
+C79.8	tumeur métastatique axillaire
+C79.8	tumeur métastatique de l'aisselle
+C76.1	tumeur maligne de la paroi thoracique
+C79.8	tumeur secondaire de la paroi thoracique
+C79.8	tumeur métastatique de la paroi thoracique
+C76.7	tumeur maligne du dos
+C76.7	tumeur maligne dorsale
+C79.8	tumeur secondaire du dos
+C79.8	tumeur secondaire dorsale
+C79.8	tumeur métastatique dorsale
+C79.8	tumeur métastatique du dos
+C76.7	tumeur maligne du flanc
+C79.8	tumeur secondaire du flanc
+C79.8	tumeur métastatique du flanc
+C76.2	tumeur maligne des viscères abdominaux
+C76.2	tumeur maligne des organes abdominaux
+C79.8	tumeur secondaire des viscères abdominaux
+C79.8	tumeur secondaire des organes abdominaux
+C79.8	tumeur métastatique des organes abdominaux
+C79.8	tumeur métastatique des viscères abdominaux
+C76.3	tumeur maligne du bassin
+C79.8	tumeur secondaire du bassin
+C79.8	tumeur métastatique du bassin
+C76.3	tumeur maligne de la région inguinale
+C76.3	tumeur maligne inguinale
+C79.8	tumeur secondaire de la région inguinale
+C79.8	tumeur secondaire inguinale
+C79.8	tumeur métastatique inguinale
+C79.8	tumeur métastatique de la région inguinale
+C76.3	tumeur maligne de la région présacrée
+C76.3	tumeur maligne présacrée
+C79.8	tumeur secondaire de la région présacrée
+C79.8	tumeur secondaire présacrée
+C79.8	tumeur métastatique présacrée
+C79.8	tumeur métastatique de la région présacrée
+C76.3	tumeur maligne de la région sacro-coccygienne
+C76.3	tumeur maligne sacro-coccygienne
+C79.8	tumeur secondaire de la région sacro-coccygienne
+C79.8	tumeur secondaire sacro-coccygienne
+C79.8	tumeur métastatique sacro-coccygienne
+C79.8	tumeur métastatique de la région sacro-coccygienne
+C76.3	tumeur maligne de la cloison recto-vaginale
+C76.3	tumeur maligne septale recto-vaginale
+C79.8	tumeur secondaire de la cloison recto-vaginale
+C79.8	tumeur secondaire septale recto-vaginale
+C79.8	tumeur métastatique septale recto-vaginale
+C79.8	tumeur métastatique de la cloison recto-vaginale
+C76.3	tumeur maligne de la cloison recto-vésicale
+C76.3	tumeur maligne septale recto-vésicale
+C79.8	tumeur secondaire de la cloison recto-vésicale
+C79.8	tumeur secondaire septale recto-vésicale
+C79.8	tumeur métastatique septale recto-vésicale
+C79.8	tumeur métastatique de la cloison recto-vésicale
+C76.4	tumeur maligne du membre supérieur
+C79.8	tumeur secondaire du membre supérieur
+C79.8	tumeur métastatique du membre supérieur
+C76.4	tumeur maligne de l'épaule
+C79.8	tumeur secondaire de l'épaule
+C79.8	tumeur métastatique de l'épaule
+C76.4	tumeur maligne du bras
+C79.8	tumeur secondaire du bras
+C79.8	tumeur métastatique du bras
+C76.4	tumeur maligne de l'avant-bras
+C79.8	tumeur secondaire de l'avant-bras
+C79.8	tumeur métastatique de l'avant-bras
+C76.4	tumeur maligne de la main
+C79.8	tumeur secondaire de la main
+C79.8	tumeur métastatique de la main
+C76.5	tumeur maligne du membre inférieur
+C79.8	tumeur secondaire du membre inférieur
+C79.8	tumeur métastatique du membre inférieur
+C76.5	tumeur maligne de la cuisse
+C79.8	tumeur secondaire de la cuisse
+C79.8	tumeur métastatique de la cuisse
+C76.5	tumeur maligne de la jambe
+C79.8	tumeur secondaire de la jambe
+C79.8	tumeur métastatique de la jambe
+C76.5	tumeur maligne du pied
+C79.8	tumeur secondaire du pied
+C79.8	tumeur métastatique du pied
+C80	tumeur maligne de siège non précisé (clinique)
+C76.7	tumeur maligne de siège mal défini
+C76.8	tumeur maligne à localisations contiguës de siège mal défini
+C97	tumeur maligne de sièges multiples indépendants
+C34.1	syndrome apico-costo-vertébral douloureux
+C34.1	syndrome de Pancoast et Tobias
+C34.1	tumeur de Pancoast
+C34.1	cancer de l'apex pulmonaire
+C39.9	tumeur maligne de l'appareil respiratoire
+C39.9	tumeur maligne des voies respiratoires
+C78.3	tumeur secondaire de l'appareil respiratoire
+C78.3	tumeur secondaire des voies respiratoires
+C78.3	tumeur métastatique des voies respiratoires
+C78.3	tumeur métastatique de l'appareil respiratoire
+C39.0	tumeur maligne des voies respiratoires supérieures
+C78.3	tumeur secondaire des voies respiratoires supérieures
+C78.3	tumeur métastatique des voies respiratoires supérieures
+C39.8	tumeur maligne à localisations contiguës des organes respiratoires et intrathoraciques
+C76.0	tumeur maligne du nez
+C76.0	tumeur maligne nasale
+C79.8	tumeur secondaire du nez
+C79.8	tumeur secondaire nasale
+C79.8	tumeur métastatique nasale
+C79.8	tumeur métastatique du nez
+C30.0	tumeur maligne des cavités nasales
+C30.0	tumeur maligne des fosses nasales
+C78.3	tumeur secondaire des cavités nasales
+C78.3	tumeur secondaire des fosses nasales
+C78.3	tumeur métastatique des fosses nasales
+C78.3	tumeur métastatique des cavités nasales
+C30.0	tumeur maligne du cartilage du nez
+C30.0	tumeur maligne du cartilage nasal
+C78.3	tumeur secondaire du cartilage du nez
+C78.3	tumeur secondaire du cartilage nasal
+C78.3	tumeur métastatique du cartilage nasal
+C78.3	tumeur métastatique du cartilage du nez
+C30.0	tumeur maligne de la cloison nasale
+C30.0	tumeur maligne du septum nasal
+C78.3	tumeur secondaire de la cloison nasale
+C78.3	tumeur secondaire du septum nasal
+C78.3	tumeur métastatique du septum nasal
+C78.3	tumeur métastatique de la cloison nasale
+C30.0	tumeur maligne du vestibule nasal
+C30.0	tumeur maligne vestibulaire nasale
+C78.3	tumeur secondaire du vestibule nasal
+C78.3	tumeur secondaire vestibulaire nasale
+C78.3	tumeur métastatique vestibulaire nasale
+C78.3	tumeur métastatique du vestibule nasal
+C30.0	tumeur maligne d'un cornet du nez
+C30.0	tumeur maligne d'un cornet nasal
+C78.3	tumeur secondaire d'un cornet du nez
+C78.3	tumeur secondaire d'un cornet nasal
+C78.3	tumeur métastatique d'un cornet nasal
+C78.3	tumeur métastatique d'un cornet du nez
+C31.9	tumeur maligne des sinus de la face
+C31.9	tumeur maligne des sinus paranasaux
+C78.3	tumeur secondaire des sinus de la face
+C78.3	tumeur secondaire des sinus paranasaux
+C78.3	tumeur métastatique des sinus paranasaux
+C78.3	tumeur métastatique des sinus de la face
+C31.8	tumeur maligne à localisations contiguës des sinus de la face
+C31.8	tumeur maligne à localisations contiguës des sinus paranasaux
+C31.0	tumeur maligne des sinus maxillaires
+C31.0	tumeur maligne d'un sinus maxillaire
+C78.3	tumeur secondaire des sinus maxillaires
+C78.3	tumeur secondaire d'un sinus maxillaire
+C78.3	tumeur métastatique d'un sinus maxillaire
+C78.3	tumeur métastatique des sinus maxillaires
+C31.1	tumeur maligne des sinus ethmoïdaux
+C31.1	tumeur maligne d'un sinus ethmoïdal
+C78.3	tumeur secondaire des sinus ethmoïdaux
+C78.3	tumeur secondaire d'un sinus ethmoïdal
+C78.3	tumeur métastatique d'un sinus ethmoïdal
+C78.3	tumeur métastatique des sinus ethmoïdaux
+C31.2	tumeur maligne des sinus frontaux
+C31.2	tumeur maligne d'un sinus frontal
+C78.3	tumeur secondaire des sinus frontaux
+C78.3	tumeur secondaire d'un sinus frontal
+C78.3	tumeur métastatique d'un sinus frontal
+C78.3	tumeur métastatique des sinus frontaux
+C31.3	tumeur maligne des sinus sphénoïdaux
+C31.3	tumeur maligne d'un sinus sphénoïdal
+C78.3	tumeur secondaire des sinus sphénoïdaux
+C78.3	tumeur secondaire d'un sinus sphénoïdal
+C78.3	tumeur métastatique d'un sinus sphénoïdal
+C78.3	tumeur métastatique des sinus sphénoïdaux
+C11.9	tumeur maligne du nasopharynx
+C11.9	tumeur maligne du rhinopharynx
+C79.8	tumeur secondaire du nasopharynx
+C79.8	tumeur métastatique du nasopharynx
+C79.8	tumeur secondaire du rhinopharynx
+C79.8	tumeur métastatique du rhinopharynx
+C11.8	tumeur maligne à localisations contiguës du nasopharynx
+C11.8	tumeur maligne à localisations contiguës du rhinopharynx
+C11.0	tumeur maligne de la paroi supérieure du nasopharynx
+C11.0	tumeur maligne de la paroi supérieure du rhinopharynx
+C79.8	tumeur secondaire de la paroi supérieure du nasopharynx
+C79.8	tumeur secondaire de la paroi supérieure du rhinopharynx
+C79.8	tumeur métastatique de la paroi supérieure du rhinopharynx
+C79.8	tumeur métastatique de la paroi supérieure du nasopharynx
+C11.1	tumeur maligne de la paroi postérieure du nasopharynx
+C11.1	tumeur maligne de la paroi postérieure du rhinopharynx
+C79.8	tumeur secondaire de la paroi postérieure du nasopharynx
+C79.8	tumeur secondaire de la paroi postérieure du rhinopharynx
+C79.8	tumeur métastatique de la paroi postérieure du rhinopharynx
+C79.8	tumeur métastatique de la paroi postérieure du nasopharynx
+C11.2	tumeur maligne de la paroi latérale du nasopharynx
+C11.2	tumeur maligne de la paroi latérale du rhinopharynx
+C79.8	tumeur secondaire de la paroi latérale du nasopharynx
+C79.8	tumeur secondaire de la paroi latérale du rhinopharynx
+C79.8	tumeur métastatique de la paroi latérale du rhinopharynx
+C79.8	tumeur métastatique de la paroi latérale du nasopharynx
+C11.3	tumeur maligne de la paroi antérieure du nasopharynx
+C11.3	tumeur maligne de la paroi antérieure du rhinopharynx
+C79.8	tumeur secondaire de la paroi antérieure du nasopharynx
+C79.8	tumeur secondaire de la paroi antérieure du rhinopharynx
+C79.8	tumeur métastatique de la paroi antérieure du rhinopharynx
+C79.8	tumeur métastatique de la paroi antérieure du nasopharynx
+C14.0	tumeur maligne du pharynx
+C14.0	tumeur maligne pharyngée
+C79.8	tumeur secondaire du pharynx
+C79.8	tumeur secondaire pharyngée
+C79.8	tumeur métastatique pharyngée
+C79.8	tumeur métastatique du pharynx
+C13.9	tumeur maligne de l'hypopharynx
+C13.9	tumeur maligne hypopharyngée
+C79.8	tumeur secondaire de l'hypopharynx
+C79.8	tumeur secondaire hypopharyngée
+C79.8	tumeur métastatique hypopharyngée
+C79.8	tumeur métastatique de l'hypopharynx
+C13.8	tumeur maligne à localisations contiguës de l'hypopharynx
+C13.8	tumeur maligne hypopharyngée à localisations contiguës
+C13.0	tumeur maligne de la région crico-pharyngienne
+C13.0	tumeur maligne crico-pharyngienne
+C13.0	tumeur maligne de la région rétro-cricoïdienne
+C79.8	tumeur secondaire de la région crico-pharyngienne
+C79.8	tumeur secondaire crico-pharyngienne
+C79.8	tumeur secondaire de la région rétro-cricoïdienne
+C79.8	tumeur métastatique crico-pharyngienne
+C79.8	tumeur métastatique de la région rétro-cricoïdienne
+C79.8	tumeur métastatique de la région crico-pharyngienne
+C12	tumeur maligne du sinus piriforme
+C79.8	tumeur secondaire du sinus piriforme
+C79.8	tumeur métastatique du sinus piriforme
+C13.1	tumeur maligne de la face hypopharyngée du repli aryténo-épiglottique
+C13.1	tumeur maligne du versant hypopharyngé du repli ary-épiglottique
+C79.8	tumeur secondaire de la face hypopharyngée du repli aryténo-épiglottique
+C79.8	tumeur secondaire du versant hypopharyngé du repli ary-épiglottique
+C79.8	tumeur métastatique du versant hypopharyngé du repli ary-épiglottique
+C79.8	tumeur métastatique de la face hypopharyngée du repli aryténo-épiglottique
+C13.1	tumeur maligne de la face hypopharyngée du repli inter-aryténoïdien
+C79.8	tumeur secondaire de la face hypopharyngée du repli inter-aryténoïdien
+C79.8	tumeur métastatique de la face hypopharyngée du repli inter-aryténoïdien
+C13.2	tumeur maligne de la paroi postérieure de l'hypopharynx
+C79.8	tumeur secondaire de la paroi postérieure de l'hypopharynx
+C79.8	tumeur métastatique de la paroi postérieure de l'hypopharynx
+C32.9	tumeur maligne du larynx
+C32.9	tumeur maligne laryngée
+C78.3	tumeur secondaire du larynx
+C78.3	tumeur secondaire laryngée
+C78.3	tumeur métastatique laryngée
+C78.3	tumeur métastatique du larynx
+C32.8	tumeur maligne à localisations contiguës du larynx
+C32.8	tumeur maligne laryngée à localisations contiguës
+C32.0	tumeur maligne de la glotte
+C32.0	tumeur maligne glottique
+C78.3	tumeur secondaire de la glotte
+C78.3	tumeur secondaire glottique
+C78.3	tumeur métastatique glottique
+C78.3	tumeur métastatique de la glotte
+C32.0	tumeur maligne de la commissure du larynx
+C32.0	tumeur maligne de la commissure laryngée
+C78.3	tumeur secondaire de la commissure du larynx
+C78.3	tumeur secondaire de la commissure laryngée
+C78.3	tumeur métastatique de la commissure laryngée
+C78.3	tumeur métastatique de la commissure du larynx
+C32.0	tumeur maligne des cordes vocales vraies
+C78.3	tumeur secondaire des cordes vocales vraies
+C78.3	tumeur métastatique des cordes vocales vraies
+C32.2	tumeur maligne de l'étage sous-glottique
+C32.2	tumeur maligne sous-glottique
+C78.3	tumeur secondaire de l'étage sous-glottique
+C78.3	tumeur secondaire sous-glottique
+C78.3	tumeur métastatique sous-glottique
+C78.3	tumeur métastatique de l'étage sous-glottique
+C32.3	tumeur maligne du cartilage laryngé
+C32.1	tumeur maligne de l'étage sus-glottique
+C32.1	tumeur maligne sus-glottique
+C78.3	tumeur secondaire de l'étage sus-glottique
+C78.3	tumeur secondaire sus-glottique
+C78.3	tumeur métastatique sus-glottique
+C78.3	tumeur métastatique de l'étage sus-glottique
+C32.1	tumeur maligne des fausses cordes vocales
+C32.1	tumeur maligne des bandes ventriculaires du larynx
+C78.3	tumeur secondaire des fausses cordes vocales
+C78.3	tumeur métastatique des fausses cordes vocales
+C78.3	tumeur secondaire des bandes ventriculaires du larynx
+C78.3	tumeur métastatique des bandes ventriculaires du larynx
+C32.1	tumeur maligne de l'épiglotte
+C32.1	tumeur maligne épiglottique
+C78.3	tumeur secondaire de l'épiglotte
+C78.3	tumeur secondaire épiglottique
+C78.3	tumeur métastatique épiglottique
+C78.3	tumeur métastatique de l'épiglotte
+C32.1	tumeur maligne de la face laryngée de l'épiglotte
+C78.3	tumeur secondaire de la face laryngée de l'épiglotte
+C78.3	tumeur métastatique de la face laryngée de l'épiglotte
+C32.1	tumeur maligne de la face laryngée du repli aryténo-épiglottique
+C32.1	tumeur maligne du versant laryngé du repli ary-épiglottique
+C78.3	tumeur secondaire de la face laryngée du repli aryténo-épiglottique
+C78.3	tumeur secondaire du versant laryngé du repli ary-épiglottique
+C78.3	tumeur métastatique du versant laryngé du repli ary-épiglottique
+C78.3	tumeur métastatique de la face laryngée du repli aryténo-épiglottique
+C32.1	tumeur maligne de la face laryngée du repli inter-aryténoïdien
+C78.3	tumeur secondaire de la face laryngée du repli inter-aryténoïdien
+C78.3	tumeur métastatique de la face laryngée du repli inter-aryténoïdien
+C33	tumeur maligne de la trachée
+C33	tumeur maligne trachéale
+C78.3	tumeur secondaire de la trachée
+C78.3	tumeur secondaire trachéale
+C78.3	tumeur métastatique trachéale
+C78.3	tumeur métastatique de la trachée
+C34.0	tumeur maligne de l'éperon trachéal
+C78.3	tumeur secondaire de l'éperon trachéal
+C78.3	tumeur métastatique de l'éperon trachéal
+C34.9	tumeur maligne des bronches
+C34.9	tumeur maligne bronchique
+C78.3	tumeur secondaire des bronches
+C78.3	tumeur secondaire bronchique
+C78.3	tumeur métastatique bronchique
+C78.3	tumeur métastatique des bronches
+C34.0	tumeur maligne de la bronche souche
+C78.3	tumeur secondaire de la bronche souche
+C78.3	tumeur métastatique de la bronche souche
+C34.0	tumeur maligne du hile du poumon
+C34.0	tumeur maligne du hile pulmonaire
+C78.0	tumeur secondaire du hile du poumon
+C78.0	tumeur secondaire du hile pulmonaire
+C78.0	tumeur métastatique du hile pulmonaire
+C78.0	tumeur métastatique du hile du poumon
+C34.1	tumeur maligne de la bronche lobaire supérieure droite
+C34.1	tumeur maligne bronchique lobaire supérieure droite
+C78.0	tumeur secondaire de la bronche lobaire supérieure droite
+C78.0	tumeur secondaire bronchique lobaire supérieure droite
+C78.0	tumeur métastatique bronchique lobaire supérieure droite
+C78.0	tumeur métastatique de la bronche lobaire supérieure droite
+C34.1	tumeur maligne de la bronche lobaire supérieure gauche
+C34.1	tumeur maligne bronchique lobaire supérieure gauche
+C78.0	tumeur secondaire de la bronche lobaire supérieure gauche
+C78.0	tumeur secondaire bronchique lobaire supérieure gauche
+C78.0	tumeur métastatique bronchique lobaire supérieure gauche
+C78.0	tumeur métastatique de la bronche lobaire supérieure gauche
+C34.2	tumeur maligne de la bronche lobaire moyenne droite
+C34.2	tumeur maligne bronchique lobaire moyenne droite
+C78.0	tumeur secondaire de la bronche lobaire moyenne droite
+C78.0	tumeur secondaire bronchique lobaire moyenne droite
+C78.0	tumeur métastatique bronchique lobaire moyenne droite
+C78.0	tumeur métastatique de la bronche lobaire moyenne droite
+C34.3	tumeur maligne de la bronche lobaire inférieure droite
+C34.3	tumeur maligne bronchique lobaire inférieure droite
+C78.0	tumeur secondaire de la bronche lobaire inférieure droite
+C78.0	tumeur secondaire bronchique lobaire inférieure droite
+C78.0	tumeur métastatique bronchique lobaire inférieure droite
+C78.0	tumeur métastatique de la bronche lobaire inférieure droite
+C34.3	tumeur maligne de la bronche lobaire inférieure gauche
+C34.3	tumeur maligne bronchique lobaire inférieure gauche
+C78.0	tumeur secondaire de la bronche lobaire inférieure gauche
+C78.0	tumeur secondaire bronchique lobaire inférieure gauche
+C78.0	tumeur métastatique bronchique lobaire inférieure gauche
+C78.0	tumeur métastatique de la bronche lobaire inférieure gauche
+C34.8	tumeur maligne à localisations contiguës des bronches et du poumon
+C34.9	tumeur maligne du poumon
+C34.9	tumeur maligne pulmonaire
+C78.0	tumeur secondaire du poumon
+C78.0	tumeur secondaire pulmonaire
+C78.0	tumeur métastatique pulmonaire
+C78.0	tumeur métastatique du poumon
+C34.1	tumeur maligne du lobe supérieur du poumon droit
+C78.0	tumeur secondaire du lobe supérieur du poumon droit
+C78.0	tumeur métastatique du lobe supérieur du poumon droit
+C34.2	tumeur maligne du lobe moyen du poumon droit
+C78.0	tumeur secondaire du lobe moyen du poumon droit
+C78.0	tumeur métastatique du lobe moyen du poumon droit
+C34.3	tumeur maligne du lobe inférieur du poumon droit
+C78.0	tumeur secondaire du lobe inférieur du poumon droit
+C78.0	tumeur métastatique du lobe inférieur du poumon droit
+C34.1	tumeur maligne du lobe supérieur du poumon gauche
+C78.0	tumeur secondaire du lobe supérieur du poumon gauche
+C78.0	tumeur métastatique du lobe supérieur du poumon gauche
+C34.3	tumeur maligne du lobe inférieur du poumon gauche
+C78.0	tumeur secondaire du lobe inférieur du poumon gauche
+C78.0	tumeur métastatique du lobe inférieur du poumon gauche
+C38.4	tumeur maligne de la plèvre
+C38.4	tumeur maligne pleurale
+C78.2	tumeur secondaire de la plèvre
+C78.2	tumeur secondaire pleurale
+C78.2	tumeur métastatique pleurale
+C78.2	tumeur métastatique de la plèvre
+C38.4	tumeur maligne de la plèvre pariétale
+C78.2	tumeur secondaire de la plèvre pariétale
+C78.2	tumeur métastatique de la plèvre pariétale
+C38.4	tumeur maligne de la plèvre viscérale
+C78.2	tumeur secondaire de la plèvre viscérale
+C78.2	tumeur métastatique de la plèvre viscérale
+C45.0	mésothéliome de la plèvre
+C45.0	mésothéliome pleural
+C38.8	tumeur maligne à localisations contiguës du médiastin et de la plèvre
+C45.7	mésothéliome d'autres sièges
+C45.9	mésothéliome de siège non précisé (clinique)
+C38.3	tumeur maligne du médiastin
+C38.3	tumeur maligne médiastinale
+C78.1	tumeur secondaire du médiastin
+C78.1	tumeur secondaire médiastinale
+C78.1	tumeur métastatique médiastinale
+C78.1	tumeur métastatique du médiastin
+C38.1	tumeur maligne du médiastin antérieur
+C38.1	tumeur maligne médiastinale antérieure
+C78.1	tumeur secondaire du médiastin antérieur
+C78.1	tumeur secondaire médiastinale antérieure
+C78.1	tumeur métastatique médiastinale antérieure
+C78.1	tumeur métastatique du médiastin antérieur
+C38.2	tumeur maligne du médiastin postérieur
+C38.2	tumeur maligne médiastinale postérieure
+C78.1	tumeur secondaire du médiastin postérieur
+C78.1	tumeur secondaire médiastinale postérieure
+C78.1	tumeur métastatique médiastinale postérieure
+C78.1	tumeur métastatique du médiastin postérieur
+C49.3	tumeur maligne du diaphragme
+C49.3	tumeur maligne diaphragmatique
+C79.8	tumeur secondaire du diaphragme
+C79.8	tumeur secondaire diaphragmatique
+C79.8	tumeur métastatique diaphragmatique
+C79.8	tumeur métastatique du diaphragme
+C49.1	syndrome de Stewart et Treves
+C49.1	lymphangiosarcome après mastectomie
+C38.0	tumeur maligne du coeur
+C79.8	tumeur secondaire du coeur
+C79.8	tumeur métastatique du coeur
+C38.0	tumeur maligne de l'endocarde
+C38.0	tumeur maligne endocardique
+C79.8	tumeur secondaire de l'endocarde
+C79.8	tumeur secondaire endocardique
+C79.8	tumeur métastatique endocardique
+C79.8	tumeur métastatique de l'endocarde
+C38.0	tumeur maligne du myocarde
+C38.0	tumeur maligne myocardique
+C79.8	tumeur secondaire du myocarde
+C79.8	tumeur secondaire myocardique
+C79.8	tumeur métastatique myocardique
+C79.8	tumeur métastatique du myocarde
+C38.0	tumeur maligne de l'épicarde
+C38.0	tumeur maligne épicardique
+C79.8	tumeur secondaire de l'épicarde
+C79.8	tumeur secondaire épicardique
+C79.8	tumeur métastatique épicardique
+C79.8	tumeur métastatique de l'épicarde
+C38.0	tumeur maligne du péricarde
+C38.0	tumeur maligne péricardique
+C79.8	tumeur secondaire du péricarde
+C79.8	tumeur secondaire péricardique
+C79.8	tumeur métastatique péricardique
+C79.8	tumeur métastatique du péricarde
+C45.2	mésothéliome du péricarde
+C45.2	mésothéliome péricardique
+C38.8	tumeur maligne à localisations contiguës du coeur, du médiastin et de la plèvre
+C49.9	tumeur maligne des vaisseaux sanguins
+C49.9	tumeur maligne vasculaire sanguine
+C79.8	tumeur secondaire des vaisseaux sanguins
+C79.8	tumeur secondaire vasculaire sanguine
+C79.8	tumeur métastatique vasculaire sanguine
+C79.8	tumeur métastatique des vaisseaux sanguins
+C49.3	tumeur maligne des gros vaisseaux de la base du coeur
+C79.8	tumeur secondaire des gros vaisseaux de la base du coeur
+C79.8	tumeur métastatique des gros vaisseaux de la base du coeur
+C49.0	tumeur maligne des vaisseaux sanguins de la tête
+C79.8	tumeur secondaire des vaisseaux sanguins de la tête
+C79.8	tumeur métastatique des vaisseaux sanguins de la tête
+C49.0	tumeur maligne des vaisseaux sanguins de la face
+C79.8	tumeur secondaire des vaisseaux sanguins de la face
+C79.8	tumeur métastatique des vaisseaux sanguins de la face
+C49.0	tumeur maligne des vaisseaux sanguins du cou
+C79.8	tumeur secondaire des vaisseaux sanguins du cou
+C79.8	tumeur métastatique des vaisseaux sanguins du cou
+C49.1	tumeur maligne des vaisseaux sanguins du membre supérieur
+C79.8	tumeur secondaire des vaisseaux sanguins du membre supérieur
+C79.8	tumeur métastatique des vaisseaux sanguins du membre supérieur
+C49.1	tumeur maligne des vaisseaux sanguins de l'épaule
+C79.8	tumeur secondaire des vaisseaux sanguins de l'épaule
+C79.8	tumeur métastatique des vaisseaux sanguins de l'épaule
+C49.1	tumeur maligne des vaisseaux sanguins du bras
+C79.8	tumeur secondaire des vaisseaux sanguins du bras
+C79.8	tumeur métastatique des vaisseaux sanguins du bras
+C49.1	tumeur maligne des vaisseaux sanguins de l'avant-bras
+C79.8	tumeur secondaire des vaisseaux sanguins de l'avant-bras
+C79.8	tumeur métastatique des vaisseaux sanguins de l'avant-bras
+C49.1	tumeur maligne des vaisseaux sanguins de la main
+C79.8	tumeur secondaire des vaisseaux sanguins de la main
+C79.8	tumeur métastatique des vaisseaux sanguins de la main
+C49.1	tumeur maligne des vaisseaux sanguins des doigts
+C79.8	tumeur secondaire des vaisseaux sanguins des doigts
+C79.8	tumeur métastatique des vaisseaux sanguins des doigts
+C49.2	tumeur maligne des vaisseaux sanguins du membre inférieur
+C79.8	tumeur secondaire des vaisseaux sanguins du membre inférieur
+C79.8	tumeur métastatique des vaisseaux sanguins du membre inférieur
+C49.2	tumeur maligne des vaisseaux sanguins de la hanche
+C79.8	tumeur secondaire des vaisseaux sanguins de la hanche
+C79.8	tumeur métastatique des vaisseaux sanguins de la hanche
+C49.2	tumeur maligne des vaisseaux sanguins de la cuisse
+C79.8	tumeur secondaire des vaisseaux sanguins de la cuisse
+C79.8	tumeur métastatique des vaisseaux sanguins de la cuisse
+C49.2	tumeur maligne des vaisseaux sanguins du triangle poplité
+C79.8	tumeur secondaire des vaisseaux sanguins du triangle poplité
+C79.8	tumeur métastatique des vaisseaux sanguins du triangle poplité
+C49.2	tumeur maligne des vaisseaux sanguins de la jambe
+C79.8	tumeur secondaire des vaisseaux sanguins de la jambe
+C79.8	tumeur métastatique des vaisseaux sanguins de la jambe
+C49.2	tumeur maligne des vaisseaux sanguins du pied
+C79.8	tumeur secondaire des vaisseaux sanguins du pied
+C79.8	tumeur métastatique des vaisseaux sanguins du pied
+C49.2	tumeur maligne des vaisseaux sanguins des orteils
+C79.8	tumeur secondaire des vaisseaux sanguins des orteils
+C79.8	tumeur métastatique des vaisseaux sanguins des orteils
+C49.6	tumeur maligne des vaisseaux sanguins du tronc
+C79.8	tumeur secondaire des vaisseaux sanguins du tronc
+C79.8	tumeur métastatique des vaisseaux sanguins du tronc
+C49.3	tumeur maligne des vaisseaux sanguins du thorax
+C79.8	tumeur secondaire des vaisseaux sanguins du thorax
+C79.8	tumeur métastatique des vaisseaux sanguins du thorax
+C49.3	tumeur maligne des vaisseaux sanguins de l'aisselle
+C79.8	tumeur secondaire des vaisseaux sanguins de l'aisselle
+C79.8	tumeur métastatique des vaisseaux sanguins de l'aisselle
+C49.4	tumeur maligne des vaisseaux sanguins de l'abdomen
+C79.8	tumeur secondaire des vaisseaux sanguins de l'abdomen
+C79.8	tumeur métastatique des vaisseaux sanguins de l'abdomen
+C49.5	tumeur maligne des vaisseaux sanguins du bassin
+C79.8	tumeur secondaire des vaisseaux sanguins du bassin
+C79.8	tumeur métastatique des vaisseaux sanguins du bassin
+C49.5	tumeur maligne des vaisseaux sanguins de la fesse
+C79.8	tumeur secondaire des vaisseaux sanguins de la fesse
+C79.8	tumeur métastatique des vaisseaux sanguins de la fesse
+C49.5	tumeur maligne des vaisseaux sanguins de la région inguinale
+C49.5	tumeur maligne des vaisseaux sanguins inguinaux
+C79.8	tumeur secondaire des vaisseaux sanguins de la région inguinale
+C79.8	tumeur secondaire des vaisseaux sanguins inguinaux
+C79.8	tumeur métastatique des vaisseaux sanguins inguinaux
+C79.8	tumeur métastatique des vaisseaux sanguins de la région inguinale
+C49.5	tumeur maligne des vaisseaux sanguins du périnée
+C49.5	tumeur maligne des vaisseaux sanguins périnéaux
+C79.8	tumeur secondaire des vaisseaux sanguins du périnée
+C79.8	tumeur secondaire des vaisseaux sanguins périnéaux
+C79.8	tumeur métastatique des vaisseaux sanguins périnéaux
+C79.8	tumeur métastatique des vaisseaux sanguins du périnée
+C46.9	sarcome de Kaposi de siège non précisé (clinique)
+C46.0	sarcome de Kaposi de la peau
+C46.0	sarcome de Kaposi cutané
+C46.1	sarcome de Kaposi des tissus mous
+C46.2	sarcome de Kaposi du palais
+C46.7	sarcome de Kaposi du tube digestif
+C46.7	sarcome de Kaposi des voies digestives
+C46.7	sarcome de Kaposi du poumon
+C46.3	sarcome de Kaposi des ganglions lymphatiques
+C46.8	sarcome de Kaposi d'organes multiples
+C26.9	tumeur maligne du tube digestif
+C26.9	tumeur maligne des voies digestives
+C26.9	tumeur maligne de siège mal défini de l'appareil digestif
+C78.8	tumeur secondaire du tube digestif
+C78.8	tumeur secondaire des voies digestives
+C78.8	tumeur métastatique du tube digestif
+C78.8	tumeur métastatique des voies digestives
+C26.8	tumeur maligne à localisations contiguës du tube digestif
+C26.8	tumeur maligne à localisations contiguës des voies digestives
+C26.0	tumeur maligne de l'intestin
+C26.0	tumeur maligne intestinale
+C78.8	tumeur secondaire de l'intestin
+C78.8	tumeur secondaire intestinale
+C78.8	tumeur métastatique de l'intestin
+C78.8	tumeur métastatique intestinale
+C00.9	tumeur maligne de la lèvre
+C00.9	tumeur maligne labiale
+C79.8	tumeur secondaire de la lèvre
+C79.8	tumeur secondaire labiale
+C79.8	tumeur métastatique de la lèvre
+C79.8	tumeur métastatique labiale
+C00.8	tumeur maligne à localisations contiguës de la lèvre
+C00.8	tumeur maligne labiale à localisations contiguës
+C00.2	tumeur maligne du vermillon des lèvres
+C00.2	tumeur maligne du bord libre des lèvres
+C00.2	tumeur maligne du vermillon labial
+C79.8	tumeur secondaire du vermillon des lèvres
+C79.8	tumeur secondaire du bord libre des lèvres
+C79.8	tumeur secondaire du vermillon labial
+C79.8	tumeur métastatique du vermillon des lèvres
+C79.8	tumeur métastatique du bord libre des lèvres
+C79.8	tumeur métastatique du vermillon labial
+C00.0	tumeur maligne du vermillon de la lèvre supérieure
+C00.0	tumeur maligne du bord libre de la lèvre supérieure
+C00.0	tumeur maligne du vermillon labial supérieur
+C79.8	tumeur secondaire du vermillon de la lèvre supérieure
+C79.8	tumeur secondaire du bord libre de la lèvre supérieure
+C79.8	tumeur secondaire du vermillon labial supérieur
+C79.8	tumeur métastatique du vermillon de la lèvre supérieure
+C79.8	tumeur métastatique du bord libre de la lèvre supérieure
+C79.8	tumeur métastatique du vermillon labial supérieur
+C00.1	tumeur maligne du vermillon de la lèvre inférieure
+C00.1	tumeur maligne du bord libre de la lèvre inférieure
+C00.1	tumeur maligne du vermillon labial inférieur
+C79.8	tumeur secondaire du vermillon de la lèvre inférieure
+C79.8	tumeur secondaire du bord libre de la lèvre inférieure
+C79.8	tumeur secondaire du vermillon labial inférieur
+C79.8	tumeur métastatique du vermillon de la lèvre inférieure
+C79.8	tumeur métastatique du bord libre de la lèvre inférieure
+C79.8	tumeur métastatique du vermillon labial inférieur
+C00.5	tumeur maligne de la face interne des lèvres
+C79.8	tumeur secondaire de la face interne des lèvres
+C79.8	tumeur métastatique de la face interne des lèvres
+C00.3	tumeur maligne de la face interne de la lèvre supérieure
+C79.8	tumeur secondaire de la face interne de la lèvre supérieure
+C79.8	tumeur métastatique de la face interne de la lèvre supérieure
+C00.4	tumeur maligne de la face interne de la lèvre inférieure
+C79.8	tumeur secondaire de la face interne de la lèvre inférieure
+C79.8	tumeur métastatique de la face interne de la lèvre inférieure
+C00.6	tumeur maligne de la commissure des lèvres
+C00.6	tumeur maligne de la commissure labiale
+C79.8	tumeur secondaire de la commissure des lèvres
+C79.8	tumeur secondaire de la commissure labiale
+C79.8	tumeur métastatique de la commissure des lèvres
+C79.8	tumeur métastatique de la commissure labiale
+C02.9	tumeur maligne de la langue
+C02.9	tumeur maligne linguale
+C79.8	tumeur secondaire de la langue
+C79.8	tumeur secondaire linguale
+C79.8	tumeur métastatique de la langue
+C79.8	tumeur métastatique linguale
+C02.8	tumeur maligne à localisations contiguës de la langue
+C02.8	tumeur maligne linguale à localisations contiguës
+C01	tumeur maligne de la base de la langue
+C79.8	tumeur secondaire de la base de la langue
+C79.8	tumeur métastatique de la base de la langue
+C02.0	tumeur maligne du dos de la langue
+C02.0	tumeur maligne de la face dorsale de la langue
+C79.8	tumeur secondaire du dos de la langue
+C79.8	tumeur secondaire de la face dorsale de la langue
+C79.8	tumeur métastatique du dos de la langue
+C79.8	tumeur métastatique de la face dorsale de la langue
+C02.1	tumeur maligne de la pointe et du bord externe de la langue
+C02.1	tumeur maligne de la pointe et du bord latéral de la langue
+C79.8	tumeur secondaire de la pointe et du bord externe de la langue
+C79.8	tumeur secondaire de la pointe et du bord latéral de la langue
+C79.8	tumeur métastatique de la pointe et du bord externe de la langue
+C79.8	tumeur métastatique de la pointe et du bord latéral de la langue
+C02.2	tumeur maligne de la face ventrale de la langue
+C02.2	tumeur maligne de la face inférieure de la langue
+C79.8	tumeur secondaire de la face ventrale de la langue
+C79.8	tumeur secondaire de la face inférieure de la langue
+C79.8	tumeur métastatique de la face ventrale de la langue
+C79.8	tumeur métastatique de la face inférieure de la langue
+C02.3	tumeur maligne des deux tiers antérieurs de la langue
+C79.8	tumeur secondaire des deux tiers antérieurs de la langue
+C79.8	tumeur métastatique des deux tiers antérieurs de la langue
+C02.2	tumeur maligne de la zone de jonction de la base de la langue
+C79.8	tumeur secondaire de la zone de jonction de la base de la langue
+C79.8	tumeur métastatique de la zone de jonction de la base de la langue
+C08.9	tumeur maligne des glandes salivaires
+C79.8	tumeur secondaire des glandes salivaires
+C79.8	tumeur métastatique des glandes salivaires
+C08.8	tumeur maligne à localisations contiguës des glandes salivaires
+C07	tumeur maligne de la glande parotide
+C79.8	tumeur secondaire de la glande parotide
+C79.8	tumeur métastatique de la glande parotide
+C08.0	tumeur maligne de la glande sous-maxillaire
+C79.8	tumeur secondaire de la glande sous-maxillaire
+C79.8	tumeur métastatique de la glande sous-maxillaire
+C08.1	tumeur maligne de la glande sublinguale
+C79.8	tumeur secondaire de la glande sublinguale
+C79.8	tumeur métastatique de la glande sublinguale
+C08.9	tumeur maligne du canal d'une glande salivaire
+C03.9	tumeur maligne des gencives
+C03.9	tumeur maligne gingivale
+C79.8	tumeur secondaire des gencives
+C79.8	tumeur secondaire gingivale
+C79.8	tumeur métastatique des gencives
+C79.8	tumeur métastatique gingivale
+C03.0	tumeur maligne de la gencive supérieure
+C03.0	tumeur maligne gingivale supérieure
+C79.8	tumeur secondaire de la gencive supérieure
+C79.8	tumeur secondaire gingivale supérieure
+C79.8	tumeur métastatique de la gencive supérieure
+C79.8	tumeur métastatique gingivale supérieure
+C03.1	tumeur maligne de la gencive inférieure
+C03.1	tumeur maligne gingivale inférieure
+C79.8	tumeur secondaire de la gencive inférieure
+C79.8	tumeur secondaire gingivale inférieure
+C79.8	tumeur métastatique de la gencive inférieure
+C79.8	tumeur métastatique gingivale inférieure
+C03.9	tumeur maligne de la muqueuse gingivale
+C79.8	tumeur secondaire de la muqueuse gingivale
+C79.8	tumeur métastatique de la muqueuse gingivale
+C03.9	tumeur maligne de la muqueuse de la crête alvéolaire
+C79.8	tumeur secondaire de la muqueuse de la crête alvéolaire
+C79.8	tumeur métastatique de la muqueuse de la crête alvéolaire
+C06.9	tumeur maligne de la bouche
+C06.9	tumeur maligne buccale
+C79.8	tumeur secondaire de la bouche
+C79.8	tumeur secondaire buccale
+C79.8	tumeur métastatique de la bouche
+C79.8	tumeur métastatique buccale
+C06.8	tumeur maligne à localisations contiguës de la bouche, parties autres et non précisées
+C06.9	tumeur maligne des glandes salivaires accessoires
+C06.9	tumeur maligne des petites glandes salivaires
+C79.8	tumeur secondaire des glandes salivaires accessoires
+C79.8	tumeur secondaire des petites glandes salivaires
+C79.8	tumeur métastatique des glandes salivaires accessoires
+C79.8	tumeur métastatique des petites glandes salivaires
+C04.9	tumeur maligne du plancher de la bouche
+C04.9	tumeur maligne du plancher buccal
+C79.8	tumeur secondaire du plancher de la bouche
+C79.8	tumeur secondaire du plancher buccal
+C79.8	tumeur métastatique du plancher de la bouche
+C79.8	tumeur métastatique du plancher buccal
+C04.8	tumeur maligne à localisations contiguës du plancher de la bouche
+C04.8	tumeur maligne à localisations contiguës du plancher buccal
+C04.0	tumeur maligne du plancher antérieur de la bouche
+C04.0	tumeur maligne du plancher buccal antérieur
+C79.8	tumeur secondaire du plancher antérieur de la bouche
+C79.8	tumeur secondaire du plancher buccal antérieur
+C79.8	tumeur métastatique du plancher antérieur de la bouche
+C79.8	tumeur métastatique du plancher buccal antérieur
+C04.1	tumeur maligne du plancher latéral de la bouche
+C04.1	tumeur maligne du plancher buccal latéral
+C79.8	tumeur secondaire du plancher latéral de la bouche
+C79.8	tumeur secondaire du plancher buccal latéral
+C79.8	tumeur métastatique du plancher latéral de la bouche
+C79.8	tumeur métastatique du plancher buccal latéral
+C06.0	tumeur maligne de la muqueuse buccale
+C79.8	tumeur secondaire de la muqueuse buccale
+C79.8	tumeur métastatique de la muqueuse buccale
+C06.1	tumeur maligne du vestibule de la bouche
+C79.8	tumeur secondaire du vestibule de la bouche
+C79.8	tumeur métastatique du vestibule de la bouche
+C06.2	tumeur maligne de la région rétromolaire
+C79.8	tumeur secondaire de la région rétromolaire
+C79.8	tumeur métastatique de la région rétromolaire
+C05.9	tumeur maligne du palais
+C79.8	tumeur secondaire du palais
+C79.8	tumeur métastatique du palais
+C05.8	tumeur maligne à localisations contiguës du palais
+C05.0	tumeur maligne du palais dur
+C05.0	tumeur maligne de la voûte palatine
+C05.0	tumeur maligne du palais osseux
+C79.8	tumeur secondaire du palais dur
+C79.8	tumeur secondaire de la voûte palatine
+C79.8	tumeur secondaire du palais osseux
+C79.8	tumeur métastatique du palais dur
+C79.8	tumeur métastatique de la voûte palatine
+C79.8	tumeur métastatique du palais osseux
+C05.1	tumeur maligne du palais mou
+C05.1	tumeur maligne du palais flottant
+C05.1	tumeur maligne du voile du palais
+C79.8	tumeur secondaire du palais mou
+C79.8	tumeur secondaire du palais flottant
+C79.8	tumeur secondaire du voile du palais
+C79.8	tumeur métastatique du palais mou
+C79.8	tumeur métastatique du palais flottant
+C79.8	tumeur métastatique du voile du palais
+C05.2	tumeur maligne de la luette
+C79.8	tumeur secondaire de la luette
+C79.8	tumeur métastatique de la luette
+C10.9	tumeur maligne de l'oropharynx
+C79.8	tumeur secondaire de l'oropharynx
+C79.8	tumeur métastatique de l'oropharynx
+C10.8	tumeur maligne à localisations contiguës de l'oropharynx
+C09.0	tumeur maligne de la fosse amygdalienne
+C79.8	tumeur secondaire de la fosse amygdalienne
+C79.8	tumeur métastatique de la fosse amygdalienne
+C09.1	tumeur maligne du pilier antérieur du voile du palais
+C79.8	tumeur secondaire du pilier antérieur du voile du palais
+C79.8	tumeur métastatique du pilier antérieur du voile du palais
+C10.0	tumeur maligne de la vallécule épiglottique
+C10.0	tumeur maligne de la fossette épiglottique
+C79.8	tumeur secondaire de la vallécule épiglottique
+C79.8	tumeur secondaire de la fossette épiglottique
+C79.8	tumeur métastatique de la vallécule épiglottique
+C79.8	tumeur métastatique de la fossette épiglottique
+C10.1	tumeur maligne de la face antérieure de l'épiglotte
+C10.1	tumeur maligne de la face buccale de l'épiglotte
+C79.8	tumeur secondaire de la face antérieure de l'épiglotte
+C79.8	tumeur secondaire de la face buccale de l'épiglotte
+C79.8	tumeur métastatique de la face antérieure de l'épiglotte
+C79.8	tumeur métastatique de la face buccale de l'épiglotte
+C10.1	tumeur maligne de la région jonctionnelle de l'épiglotte
+C10.1	tumeur maligne du bord libre de l'épiglotte
+C79.8	tumeur secondaire de la région jonctionnelle de l'épiglotte
+C79.8	tumeur secondaire du bord libre de l'épiglotte
+C79.8	tumeur métastatique de la région jonctionnelle de l'épiglotte
+C79.8	tumeur métastatique du bord libre de l'épiglotte
+C10.2	tumeur maligne de la paroi latérale de l'oropharynx
+C10.2	tumeur maligne de la face latérale de l'oropharynx
+C79.8	tumeur secondaire de la paroi latérale de l'oropharynx
+C79.8	tumeur secondaire de la face latérale de l'oropharynx
+C79.8	tumeur métastatique de la paroi latérale de l'oropharynx
+C79.8	tumeur métastatique de la face latérale de l'oropharynx
+C10.3	tumeur maligne de la paroi postérieure de l'oropharynx
+C10.3	tumeur maligne de la face postérieure de l'oropharynx
+C79.8	tumeur secondaire de la paroi postérieure de l'oropharynx
+C79.8	tumeur secondaire de la face postérieure de l'oropharynx
+C79.8	tumeur métastatique de la paroi postérieure de l'oropharynx
+C79.8	tumeur métastatique de la face postérieure de l'oropharynx
+C14.8	tumeur maligne à localisations contiguës de la lèvre, de la cavité buccale et du pharynx
+C10.4	tumeur maligne de la fente branchiale
+C15.9	tumeur maligne de l'oesophage
+C15.9	tumeur maligne oesophagienne
+C78.8	tumeur secondaire de l'oesophage
+C78.8	tumeur métastatique de l'oesophage
+C78.8	tumeur métastatique oesophagienne
+C78.8	tumeur secondaire oesophagienne
+C15.8	tumeur maligne à localisations contiguës de l'oesophage
+C15.8	tumeur maligne oesophagienne à localisations contiguës
+C15.0	tumeur maligne de l'oesophage cervical
+C78.8	tumeur secondaire de l'oesophage cervical
+C78.8	tumeur métastatique de l'oesophage cervical
+C15.1	tumeur maligne de l'oesophage thoracique
+C78.8	tumeur secondaire de l'oesophage thoracique
+C78.8	tumeur métastatique de l'oesophage thoracique
+C15.2	tumeur maligne de l'oesophage abdominal
+C78.8	tumeur secondaire de l'oesophage abdominal
+C78.8	tumeur métastatique de l'oesophage abdominal
+C15.3	tumeur maligne du tiers supérieur de l'oesophage
+C78.8	tumeur secondaire du tiers supérieur de l'oesophage
+C78.8	tumeur métastatique du tiers supérieur de l'oesophage
+C15.4	tumeur maligne du tiers moyen de l'oesophage
+C78.8	tumeur secondaire du tiers moyen de l'oesophage
+C78.8	tumeur métastatique du tiers moyen de l'oesophage
+C15.5	tumeur maligne du tiers inférieur de l'oesophage
+C78.8	tumeur secondaire du tiers inférieur de l'oesophage
+C78.8	tumeur métastatique du tiers inférieur de l'oesophage
+C16.9	tumeur maligne de l'estomac
+C16.9	tumeur maligne gastrique
+C78.8	tumeur secondaire de l'estomac
+C78.8	tumeur secondaire gastrique
+C78.8	tumeur métastatique de l'estomac
+C78.8	tumeur métastatique gastrique
+C16.8	tumeur maligne à localisations contiguës de l'estomac
+C16.8	tumeur maligne gastrique à localisations contiguës
+C16.0	tumeur maligne du cardia
+C16.0	tumeur maligne cardiale
+C78.8	tumeur secondaire du cardia
+C78.8	tumeur secondaire cardiale
+C78.8	tumeur métastatique du cardia
+C78.8	tumeur métastatique cardiale
+C16.1	tumeur maligne du fundus de l'estomac
+C16.1	tumeur maligne fundique de l'estomac
+C78.8	tumeur secondaire du fundus de l'estomac
+C78.8	tumeur secondaire fundique de l'estomac
+C78.8	tumeur métastatique du fundus de l'estomac
+C78.8	tumeur métastatique fundique de l'estomac
+C16.2	tumeur maligne du corps de l'estomac
+C16.2	tumeur maligne du corps gastrique
+C78.8	tumeur secondaire du corps de l'estomac
+C78.8	tumeur secondaire du corps gastrique
+C78.8	tumeur métastatique du corps de l'estomac
+C78.8	tumeur métastatique du corps gastrique
+C16.5	tumeur maligne de la petite courbure de l'estomac
+C16.5	tumeur maligne de la petite courbure gastrique
+C78.8	tumeur secondaire de la petite courbure de l'estomac
+C78.8	tumeur secondaire de la petite courbure gastrique
+C78.8	tumeur métastatique de la petite courbure de l'estomac
+C78.8	tumeur métastatique de la petite courbure gastrique
+C16.6	tumeur maligne de la grande courbure de l'estomac
+C16.6	tumeur maligne de la grande courbure gastrique
+C78.8	tumeur secondaire de la grande courbure de l'estomac
+C78.8	tumeur secondaire de la grande courbure gastrique
+C78.8	tumeur métastatique de la grande courbure de l'estomac
+C78.8	tumeur métastatique de la grande courbure gastrique
+C16.3	tumeur maligne de l'antre pylorique
+C78.8	tumeur secondaire de l'antre pylorique
+C78.8	tumeur métastatique de l'antre pylorique
+C16.4	tumeur maligne du pylore
+C16.4	tumeur maligne pylorique
+C78.8	tumeur secondaire du pylore
+C78.8	tumeur secondaire pylorique
+C78.8	tumeur métastatique du pylore
+C78.8	tumeur métastatique pylorique
+C17.9	tumeur maligne de l'intestin grêle
+C78.4	tumeur secondaire de l'intestin grêle
+C78.4	tumeur métastatique de l'intestin grêle
+C17.8	tumeur maligne à localisations contiguës de l'intestin grêle
+C17.0	tumeur maligne du duodénum
+C17.0	tumeur maligne duodénale
+C78.4	tumeur secondaire du duodénum
+C78.4	tumeur secondaire duodénale
+C78.4	tumeur métastatique du duodénum
+C78.4	tumeur métastatique duodénale
+C17.1	tumeur maligne du jéjunum
+C17.1	tumeur maligne jéjunale
+C78.4	tumeur secondaire du jéjunum
+C78.4	tumeur secondaire jéjunale
+C78.4	tumeur métastatique du jéjunum
+C78.4	tumeur métastatique jéjunale
+C17.2	tumeur maligne de l'iléon
+C17.2	tumeur maligne iléale
+C78.4	tumeur secondaire de l'iléon
+C78.4	tumeur secondaire iléale
+C78.4	tumeur métastatique de l'iléon
+C78.4	tumeur métastatique iléale
+C17.3	tumeur maligne du diverticule de Meckel
+C78.4	tumeur secondaire du diverticule de Meckel
+C78.4	tumeur métastatique du diverticule de Meckel
+C18.9	tumeur maligne du gros intestin
+C78.5	tumeur secondaire du gros intestin
+C78.5	tumeur métastatique du gros intestin
+C18.9	tumeur maligne du côlon
+C18.9	tumeur maligne colique
+C78.5	tumeur secondaire du côlon
+C78.5	tumeur secondaire colique
+C78.5	tumeur métastatique du côlon
+C78.5	tumeur métastatique colique
+C18.8	tumeur maligne à localisations contiguës du côlon
+C18.8	tumeur maligne colique à localisations contiguës
+C18.0	tumeur maligne du caecum
+C18.0	tumeur maligne caecale
+C78.5	tumeur secondaire du caecum
+C78.5	tumeur métastatique caecale
+C78.5	tumeur métastatique du caecum
+C78.5	tumeur secondaire caecale
+C18.2	tumeur maligne du côlon ascendant
+C18.2	tumeur maligne du côlon droit
+C78.5	tumeur secondaire du côlon ascendant
+C78.5	tumeur secondaire du côlon droit
+C78.5	tumeur métastatique du côlon ascendant
+C78.5	tumeur métastatique du côlon droit
+C18.3	tumeur maligne de l'angle droit du côlon
+C18.3	tumeur maligne de l'angle colique droit
+C78.5	tumeur secondaire de l'angle droit du côlon
+C78.5	tumeur secondaire de l'angle colique droit
+C78.5	tumeur métastatique de l'angle droit du côlon
+C78.5	tumeur métastatique de l'angle colique droit
+C18.4	tumeur maligne du côlon transverse
+C18.4	tumeur maligne colique transverse
+C78.5	tumeur secondaire du côlon transverse
+C78.5	tumeur secondaire colique transverse
+C78.5	tumeur métastatique du côlon transverse
+C78.5	tumeur métastatique colique transverse
+C18.5	tumeur maligne de l'angle gauche du côlon
+C18.5	tumeur maligne de l'angle colique gauche
+C78.5	tumeur secondaire de l'angle gauche du côlon
+C78.5	tumeur secondaire de l'angle colique gauche
+C78.5	tumeur métastatique de l'angle gauche du côlon
+C78.5	tumeur métastatique de l'angle colique gauche
+C18.6	tumeur maligne du côlon descendant
+C18.6	tumeur maligne du côlon gauche
+C78.5	tumeur secondaire du côlon descendant
+C78.5	tumeur secondaire du côlon gauche
+C78.5	tumeur métastatique du côlon descendant
+C78.5	tumeur métastatique du côlon gauche
+C18.7	tumeur maligne du côlon sigmoïde
+C78.5	tumeur secondaire du côlon sigmoïde
+C78.5	tumeur métastatique du côlon sigmoïde
+C18.1	tumeur maligne de l'appendice vermiculaire
+C18.1	tumeur maligne appendiculaire
+C18.1	tumeur maligne de l'appendice
+C78.5	tumeur secondaire de l'appendice vermiculaire
+C78.5	tumeur secondaire appendiculaire
+C78.5	tumeur secondaire de l'appendice
+C78.5	tumeur métastatique de l'appendice vermiculaire
+C78.5	tumeur métastatique appendiculaire
+C78.5	tumeur métastatique de l'appendice
+C20	tumeur maligne du rectum
+C20	tumeur maligne rectale
+C78.5	tumeur secondaire du rectum
+C78.5	tumeur secondaire rectale
+C78.5	tumeur métastatique du rectum
+C78.5	tumeur métastatique rectale
+C19	tumeur maligne de la jonction recto-sigmoïdienne
+C78.5	tumeur secondaire de la jonction recto-sigmoïdienne
+C78.5	tumeur métastatique de la jonction recto-sigmoïdienne
+C21.0	tumeur maligne de l'anus
+C21.0	tumeur maligne anale
+C78.5	tumeur secondaire de l'anus
+C78.5	tumeur secondaire anale
+C78.5	tumeur métastatique de l'anus
+C78.5	tumeur métastatique anale
+C21.1	tumeur maligne du canal anal
+C78.5	tumeur secondaire du canal anal
+C78.5	tumeur métastatique du canal anal
+C21.8	tumeur maligne à localisations contiguës du rectum, de l'anus et du canal anal
+C22.9	tumeur maligne du foie
+C22.9	tumeur maligne hépatique
+C78.7	tumeur secondaire du foie
+C78.7	tumeur secondaire hépatique
+C78.7	tumeur métastatique du foie
+C78.7	tumeur métastatique hépatique
+C22.9	tumeur maligne de nature primitive du foie
+C22.1	tumeur maligne des canaux biliaires intra-hépatiques
+C22.1	tumeur maligne des voies biliaires intra-hépatiques
+C78.8	tumeur secondaire des canaux biliaires intra-hépatiques
+C78.8	tumeur secondaire des voies biliaires intra-hépatiques
+C78.8	tumeur métastatique des canaux biliaires intra-hépatiques
+C78.8	tumeur métastatique des voies biliaires intra-hépatiques
+C22.0	carcinome à cellules hépatiques (clinique)
+C22.0	carcinome hépatocellulaire (clinique)
+C22.1	carcinome du canal biliaire intrahépatique
+C22.2	hépatoblastome (clinique)
+C22.3	angiosarcome du foie
+C22.4	sarcome du foie
+C22.7	carcinome précisé du foie
+C24.9	tumeur maligne des voies biliaires
+C78.8	tumeur secondaire des voies biliaires
+C78.8	tumeur métastatique des voies biliaires
+C24.8	tumeur maligne à localisations contiguës des voies biliaires
+C23	tumeur maligne de la vésicule biliaire
+C78.8	tumeur secondaire de la vésicule biliaire
+C78.8	tumeur métastatique de la vésicule biliaire
+C24.0	tumeur maligne des canaux biliaires extra-hépatiques
+C24.0	tumeur maligne des voies biliaires extra-hépatiques
+C78.8	tumeur secondaire des canaux biliaires extra-hépatiques
+C78.8	tumeur secondaire des voies biliaires extra-hépatiques
+C78.8	tumeur métastatique des canaux biliaires extra-hépatiques
+C78.8	tumeur métastatique des voies biliaires extra-hépatiques
+C24.0	tumeur maligne du canal cystique
+C78.8	tumeur secondaire du canal cystique
+C78.8	tumeur métastatique du canal cystique
+C24.0	tumeur maligne du canal cholédoque
+C78.8	tumeur secondaire du canal cholédoque
+C78.8	tumeur métastatique du canal cholédoque
+C24.1	tumeur maligne de l'ampoule de Vater
+C24.1	tumeur maligne vatérienne
+C78.8	tumeur secondaire de l'ampoule de Vater
+C78.8	tumeur secondaire vatérienne
+C78.8	tumeur métastatique de l'ampoule de Vater
+C78.8	tumeur métastatique vatérienne
+C25.9	tumeur maligne du pancréas
+C25.9	tumeur maligne pancréatique
+C78.8	tumeur secondaire du pancréas
+C78.8	tumeur secondaire pancréatique
+C78.8	tumeur métastatique du pancréas
+C78.8	tumeur métastatique pancréatique
+C25.8	tumeur maligne à localisations contiguës du pancréas
+C25.8	tumeur maligne pancréatique à localisations contiguës
+C25.0	tumeur maligne de la tête du pancréas
+C78.8	tumeur secondaire de la tête du pancréas
+C78.8	tumeur métastatique de la tête du pancréas
+C25.1	tumeur maligne du corps du pancréas
+C78.8	tumeur secondaire du corps du pancréas
+C78.8	tumeur métastatique du corps du pancréas
+C25.2	tumeur maligne de la queue du pancréas
+C78.8	tumeur secondaire de la queue du pancréas
+C78.8	tumeur métastatique de la queue du pancréas
+C25.3	tumeur maligne du canal pancréatique principal
+C25.3	tumeur maligne du canal de Wirsung
+C78.8	tumeur secondaire du canal pancréatique principal
+C78.8	tumeur secondaire du canal de Wirsung
+C78.8	tumeur métastatique du canal pancréatique principal
+C78.8	tumeur métastatique du canal de Wirsung
+C25.4	tumeur maligne des ilôts de Langerhans
+C25.4	tumeur maligne à cellules insulaires pancréatiques
+C25.4	tumeur maligne du pancréas endocrine
+C25.4	tumeur maligne insulaire pancréatique
+C78.8	tumeur secondaire des ilôts de Langerhans
+C78.8	tumeur secondaire à cellules insulaires pancréatiques
+C78.8	tumeur secondaire du pancréas endocrine
+C78.8	tumeur secondaire insulaire pancréatique
+C78.8	tumeur métastatique des ilôts de Langerhans
+C78.8	tumeur métastatique à cellules insulaires pancréatiques
+C78.8	tumeur métastatique du pancréas endocrine
+C78.8	tumeur métastatique insulaire pancréatique
+C25.7	tumeur maligne d'autres parties du pancréas
+C48.2	tumeur maligne du péritoine
+C48.2	tumeur maligne péritonéale
+C78.6	tumeur secondaire du péritoine
+C78.6	tumeur secondaire péritonéale
+C78.6	tumeur métastatique du péritoine
+C78.6	tumeur métastatique péritonéale
+C48.1	tumeur maligne du péritoine pariétal
+C78.6	tumeur secondaire du péritoine pariétal
+C78.6	tumeur métastatique du péritoine pariétal
+C48.1	tumeur maligne du péritoine pelvien
+C78.6	tumeur secondaire du péritoine pelvien
+C78.6	tumeur métastatique du péritoine pelvien
+C48.1	tumeur maligne du cul-de-sac recto-vaginal
+C48.1	tumeur maligne du cul-de-sac de Douglas
+C78.6	tumeur secondaire du cul-de-sac recto-vaginal
+C78.6	tumeur secondaire du cul-de-sac de Douglas
+C78.6	tumeur métastatique du cul-de-sac recto-vaginal
+C78.6	tumeur métastatique du cul-de-sac de Douglas
+C48.1	tumeur maligne du mésentère
+C48.1	tumeur maligne mésentérique
+C78.6	tumeur secondaire du mésentère
+C78.6	tumeur secondaire mésentérique
+C78.6	tumeur métastatique du mésentère
+C78.6	tumeur métastatique mésentérique
+C48.1	tumeur maligne du mésocôlon
+C48.1	tumeur maligne mésocolique
+C78.6	tumeur secondaire du mésocôlon
+C78.6	tumeur secondaire mésocolique
+C78.6	tumeur métastatique du mésocôlon
+C78.6	tumeur métastatique mésocolique
+C48.1	tumeur maligne de l'épiploon
+C48.1	tumeur maligne épiploïque
+C78.6	tumeur secondaire de l'épiploon
+C78.6	tumeur secondaire épiploïque
+C78.6	tumeur métastatique de l'épiploon
+C78.6	tumeur métastatique épiploïque
+C48.8	tumeur maligne à localisations contiguës du rétropéritoine et du péritoine
+C48.0	tumeur maligne du rétropéritoine
+C48.0	tumeur maligne rétropéritonéale
+C78.6	tumeur secondaire du rétropéritoine
+C78.6	tumeur secondaire rétropéritonéale
+C78.6	tumeur métastatique du rétropéritoine
+C78.6	tumeur métastatique rétropéritonéale
+C48.0	tumeur maligne des tissus périsurrénaliens
+C48.0	tumeur maligne périsurrénalienne
+C78.6	tumeur secondaire des tissus périsurrénaliens
+C78.6	tumeur secondaire périsurrénalienne
+C78.6	tumeur métastatique des tissus périsurrénaliens
+C78.6	tumeur métastatique périsurrénalienne
+C48.0	tumeur maligne des tissus périrénaux
+C48.0	tumeur maligne périrénale
+C78.6	tumeur secondaire des tissus périrénaux
+C78.6	tumeur secondaire périrénale
+C78.6	tumeur métastatique des tissus périrénaux
+C78.6	tumeur métastatique périrénale
+C48.0	tumeur maligne des tissus rétrocaecaux
+C48.0	tumeur maligne rétrocaecale
+C78.6	tumeur secondaire des tissus rétrocaecaux
+C78.6	tumeur métastatique rétrocaecale
+C78.6	tumeur métastatique des tissus rétrocaecaux
+C78.6	tumeur secondaire rétrocaecale
+C45.1	mésothéliome du péritoine
+C45.1	mésothéliome péritonéal
+C45.1	mésothéliome du péritoine pariétal
+C45.1	mésothéliome du péritoine pelvien
+C45.1	mésothéliome du mésentère
+C45.1	mésothéliome mésentérique
+C45.1	mésothéliome du mésocôlon
+C45.1	mésothéliome mésocolique
+C45.1	mésothéliome de l'épiploon
+C45.1	mésothéliome épiploïque
+C68.9	tumeur maligne de l'appareil urinaire
+C79.1	tumeur secondaire de l'appareil urinaire
+C79.1	tumeur métastatique de l'appareil urinaire
+C68.8	tumeur maligne à localisations contiguës des organes urinaires
+C64	tumeur maligne rénale
+C64	tumeur maligne d'un rein
+C79.0	tumeur secondaire rénale
+C79.0	tumeur secondaire d'un rein
+C79.0	tumeur métastatique d'un rein
+C79.0	tumeur métastatique rénale
+C65	tumeur maligne du bassinet
+C79.0	tumeur secondaire du bassinet
+C79.0	tumeur métastatique du bassinet
+C66	tumeur maligne de l'uretère
+C66	tumeur maligne urétérale
+C79.1	tumeur secondaire de l'uretère
+C79.1	tumeur secondaire urétérale
+C79.1	tumeur métastatique urétérale
+C79.1	tumeur métastatique de l'uretère
+C68.0	tumeur maligne de l'urètre
+C68.0	tumeur maligne urétrale
+C79.1	tumeur secondaire de l'urètre
+C79.1	tumeur secondaire urétrale
+C79.1	tumeur métastatique urétrale
+C79.1	tumeur métastatique de l'urètre
+C68.1	tumeur maligne des glandes urétrales
+C79.1	tumeur secondaire des glandes urétrales
+C79.1	tumeur métastatique des glandes urétrales
+C67.9	tumeur maligne de la vessie urinaire
+C67.9	tumeur maligne vésicale
+C79.1	tumeur secondaire de la vessie urinaire
+C79.1	tumeur secondaire vésicale
+C79.1	tumeur métastatique vésicale
+C79.1	tumeur métastatique de la vessie urinaire
+C67.8	tumeur maligne à localisations contiguës de la vessie urinaire
+C67.8	tumeur maligne vésicale à localisations contiguës
+C67.0	tumeur maligne du trigone vésical
+C79.1	tumeur secondaire du trigone vésical
+C79.1	tumeur métastatique du trigone vésical
+C67.1	tumeur maligne du dôme vésical
+C67.1	tumeur maligne du sommet de la vessie urinaire
+C79.1	tumeur secondaire du dôme vésical
+C79.1	tumeur métastatique du dôme vésical
+C79.1	tumeur secondaire du sommet de la vessie urinaire
+C79.1	tumeur métastatique du sommet de la vessie urinaire
+C67.2	tumeur maligne de la paroi latérale de la vessie urinaire
+C67.2	tumeur maligne de la face latérale de la vessie urinaire
+C79.1	tumeur secondaire de la paroi latérale de la vessie urinaire
+C79.1	tumeur secondaire de la face latérale de la vessie urinaire
+C79.1	tumeur métastatique de la face latérale de la vessie urinaire
+C79.1	tumeur métastatique de la paroi latérale de la vessie urinaire
+C67.3	tumeur maligne de la paroi antérieure de la vessie urinaire
+C67.3	tumeur maligne de la face antérieure de la vessie urinaire
+C79.1	tumeur secondaire de la paroi antérieure de la vessie urinaire
+C79.1	tumeur secondaire de la face antérieure de la vessie urinaire
+C79.1	tumeur métastatique de la face antérieure de la vessie urinaire
+C79.1	tumeur métastatique de la paroi antérieure de la vessie urinaire
+C67.4	tumeur maligne de la paroi postérieure de la vessie urinaire
+C67.4	tumeur maligne de la face postérieure de la vessie urinaire
+C79.1	tumeur secondaire de la paroi postérieure de la vessie urinaire
+C79.1	tumeur secondaire de la face postérieure de la vessie urinaire
+C79.1	tumeur métastatique de la face postérieure de la vessie urinaire
+C79.1	tumeur métastatique de la paroi postérieure de la vessie urinaire
+C67.5	tumeur maligne du col de la vessie urinaire
+C67.5	tumeur maligne du col vésical
+C79.1	tumeur secondaire du col de la vessie urinaire
+C79.1	tumeur secondaire du col vésical
+C79.1	tumeur métastatique du col vésical
+C79.1	tumeur métastatique du col de la vessie urinaire
+C67.6	tumeur maligne de l'orifice urétéral de la vessie urinaire
+C67.6	tumeur maligne du méat urétéral de la vessie urinaire
+C79.1	tumeur secondaire de l'orifice urétéral de la vessie urinaire
+C79.1	tumeur secondaire du méat urétéral de la vessie urinaire
+C79.1	tumeur métastatique du méat urétéral de la vessie urinaire
+C79.1	tumeur métastatique de l'orifice urétéral de la vessie urinaire
+C67.7	tumeur maligne de l'ouraque
+C79.1	tumeur secondaire de l'ouraque
+C79.1	tumeur métastatique de l'ouraque
+C63.9	tumeur maligne de l'appareil génital masculin
+C79.8	tumeur secondaire de l'appareil génital masculin
+C79.8	tumeur métastatique de l'appareil génital masculin
+C63.8	tumeur maligne à localisations contiguës de l'appareil génital masculin
+C60.9	tumeur maligne de la verge
+C60.9	tumeur maligne du pénis
+C79.8	tumeur secondaire de la verge
+C79.8	tumeur secondaire du pénis
+C79.8	tumeur métastatique de la verge
+C79.8	tumeur métastatique du pénis
+C60.8	tumeur maligne à localisations contiguës de la verge
+C60.8	tumeur maligne à localisations contiguës du pénis
+C60.0	tumeur maligne du prépuce
+C79.8	tumeur secondaire du prépuce
+C79.8	tumeur métastatique du prépuce
+C60.1	tumeur maligne du gland
+C79.8	tumeur secondaire du gland
+C79.8	tumeur métastatique du gland
+C60.2	tumeur maligne du corps de la verge
+C60.2	tumeur maligne du corps du pénis
+C79.8	tumeur secondaire du corps de la verge
+C79.8	tumeur secondaire du corps du pénis
+C79.8	tumeur métastatique du corps de la verge
+C79.8	tumeur métastatique du corps du pénis
+C62.9	tumeur maligne d'un testicule
+C62.9	tumeur maligne testiculaire
+C79.8	tumeur secondaire d'un testicule
+C79.8	tumeur secondaire testiculaire
+C79.8	tumeur métastatique testiculaire
+C79.8	tumeur métastatique d'un testicule
+C62.0	tumeur maligne d'un testicule non descendu
+C62.0	tumeur maligne d'un testicule cryptorchide
+C62.0	tumeur maligne d'un testicule retenu
+C62.0	tumeur maligne d'un testicule ectopique
+C79.8	tumeur secondaire d'un testicule non descendu
+C79.8	tumeur secondaire d'un testicule ectopique
+C79.8	tumeur secondaire d'un testicule cryptorchide
+C79.8	tumeur secondaire d'un testicule retenu
+C79.8	tumeur métastatique d'un testicule ectopique
+C79.8	tumeur métastatique d'un testicule cryptorchide
+C79.8	tumeur métastatique d'un testicule retenu
+C79.8	tumeur métastatique d'un testicule non descendu
+C63.0	tumeur maligne de l'épididyme
+C63.0	tumeur maligne épididymaire
+C79.8	tumeur secondaire de l'épididyme
+C79.8	tumeur secondaire épididymaire
+C79.8	tumeur métastatique épididymaire
+C79.8	tumeur métastatique de l'épididyme
+C63.1	tumeur maligne du canal déférent
+C63.1	tumeur maligne du conduit déférent
+C79.8	tumeur secondaire du canal déférent
+C79.8	tumeur secondaire du conduit déférent
+C79.8	tumeur métastatique du conduit déférent
+C79.8	tumeur métastatique du canal déférent
+C63.1	tumeur maligne du cordon spermatique
+C79.8	tumeur secondaire du cordon spermatique
+C79.8	tumeur métastatique du cordon spermatique
+C63.2	tumeur maligne du scrotum
+C63.2	tumeur maligne scrotale
+C79.8	tumeur secondaire du scrotum
+C79.8	tumeur secondaire scrotale
+C79.8	tumeur métastatique scrotale
+C79.8	tumeur métastatique du scrotum
+C61	tumeur maligne de la prostate
+C61	tumeur maligne prostatique
+C79.8	tumeur secondaire de la prostate
+C79.8	tumeur secondaire prostatique
+C79.8	tumeur métastatique prostatique
+C79.8	tumeur métastatique de la prostate
+C62.1	tumeur maligne d'un testicule descendu
+C63.7	tumeur maligne d'organes génitaux de l'homme précisés
+C63.7	tumeur maligne d'organes génitaux masculins précisés
+C57.9	tumeur maligne de l'appareil génital féminin
+C79.8	tumeur secondaire de l'appareil génital féminin
+C79.8	tumeur métastatique de l'appareil génital féminin
+C57.8	tumeur maligne à localisations contiguës de l'appareil génital féminin
+C55	tumeur maligne de l'utérus
+C55	tumeur maligne utérine
+C79.8	tumeur secondaire de l'utérus
+C79.8	tumeur secondaire utérine
+C79.8	tumeur métastatique utérine
+C79.8	tumeur métastatique de l'utérus
+C54.9	tumeur maligne du corps de l'utérus
+C54.9	tumeur maligne du corps utérin
+C79.8	tumeur secondaire du corps de l'utérus
+C79.8	tumeur secondaire du corps utérin
+C79.8	tumeur métastatique du corps de l'utérus
+C79.8	tumeur métastatique du corps utérin
+C54.8	tumeur maligne à localisations contiguës du corps de l'utérus
+C54.8	tumeur maligne à localisations contiguës du corps utérin
+C54.1	tumeur maligne de l'endomètre
+C54.1	tumeur maligne endométriale
+C79.8	tumeur secondaire de l'endomètre
+C79.8	tumeur secondaire endométriale
+C79.8	tumeur métastatique endométriale
+C79.8	tumeur métastatique de l'endomètre
+C54.2	tumeur maligne du myomètre
+C79.8	tumeur secondaire du myomètre
+C79.8	tumeur métastatique du myomètre
+C54.0	tumeur maligne de l'isthme de l'utérus
+C54.0	tumeur maligne de l'isthme utérin
+C79.8	tumeur secondaire de l'isthme de l'utérus
+C79.8	tumeur secondaire de l'isthme utérin
+C79.8	tumeur métastatique de l'isthme utérin
+C79.8	tumeur métastatique de l'isthme de l'utérus
+C53.9	tumeur maligne du col de l'utérus
+C53.9	tumeur maligne du col utérin
+C79.8	tumeur secondaire du col de l'utérus
+C79.8	tumeur métastatique du col de l'utérus
+C79.8	tumeur secondaire du col utérin
+C79.8	tumeur métastatique du col utérin
+C53.8	tumeur maligne à localisations contiguës du col de l'utérus
+C53.8	tumeur maligne à localisations contiguës du col utérin
+C53.0	tumeur maligne de l'endocol
+C79.8	tumeur secondaire de l'endocol
+C79.8	tumeur métastatique de l'endocol
+C53.1	tumeur maligne de l'exocol
+C79.8	tumeur secondaire de l'exocol
+C79.8	tumeur métastatique de l'exocol
+C54.3	tumeur maligne du fond de l'utérus
+C57.4	tumeur maligne des annexes de l'utérus
+C57.4	tumeur maligne des annexes utérines
+C79.8	tumeur secondaire des annexes de l'utérus
+C79.8	tumeur secondaire des annexes utérines
+C79.8	tumeur métastatique des annexes utérines
+C79.8	tumeur métastatique des annexes de l'utérus
+C56	tumeur maligne d'un ovaire
+C56	tumeur maligne ovarienne
+C79.6	tumeur secondaire d'un ovaire
+C79.6	tumeur secondaire ovarienne
+C79.6	tumeur métastatique ovarienne
+C79.6	tumeur métastatique d'un ovaire
+C57.0	tumeur maligne d'une trompe de Fallope
+C79.8	tumeur secondaire d'une trompe de Fallope
+C79.8	tumeur métastatique d'une trompe de Fallope
+C57.1	tumeur maligne du ligament large de l'utérus
+C79.8	tumeur secondaire du ligament large de l'utérus
+C79.8	tumeur métastatique du ligament large de l'utérus
+C57.3	tumeur maligne du paramètre
+C79.8	tumeur secondaire du paramètre
+C79.8	tumeur métastatique du paramètre
+C57.2	tumeur maligne du ligament rond de l'utérus
+C79.8	tumeur secondaire du ligament rond de l'utérus
+C79.8	tumeur métastatique du ligament rond de l'utérus
+C57.7	tumeur maligne d'autres organes génitaux de la femme précisés
+C57.7	tumeur maligne d'autres organes génitaux féminins précisés
+C58	tumeur maligne du placenta
+C58	tumeur maligne placentaire
+C79.8	tumeur secondaire du placenta
+C79.8	tumeur secondaire placentaire
+C79.8	tumeur métastatique placentaire
+C79.8	tumeur métastatique du placenta
+C52	tumeur maligne du vagin
+C52	tumeur maligne vaginale
+C79.8	tumeur secondaire du vagin
+C79.8	tumeur secondaire vaginale
+C79.8	tumeur métastatique vaginale
+C79.8	tumeur métastatique du vagin
+C51.9	tumeur maligne de la vulve
+C51.9	tumeur maligne vulvaire
+C79.8	tumeur secondaire de la vulve
+C79.8	tumeur secondaire vulvaire
+C79.8	tumeur métastatique vulvaire
+C79.8	tumeur métastatique de la vulve
+C51.8	tumeur maligne à localisations contiguës de la vulve
+C51.8	tumeur maligne vulvaire à localisations contiguës
+C51.0	tumeur maligne des grandes lèvres
+C79.8	tumeur secondaire des grandes lèvres
+C79.8	tumeur métastatique des grandes lèvres
+C51.1	tumeur maligne des petites lèvres
+C79.8	tumeur secondaire des petites lèvres
+C79.8	tumeur métastatique des petites lèvres
+C51.2	tumeur maligne du clitoris
+C79.8	tumeur secondaire du clitoris
+C79.8	tumeur métastatique du clitoris
+C50.9	tumeur maligne du sein de la femme
+C50.9	tumeur maligne du sein féminin
+C79.8	tumeur secondaire du sein de la femme
+C79.8	tumeur secondaire du sein féminin
+C79.8	tumeur métastatique du sein féminin
+C79.8	tumeur métastatique du sein de la femme
+C50.8	tumeur maligne à localisations contiguës du sein de la femme
+C50.8	tumeur maligne à localisations contiguës du sein féminin
+C50.0	tumeur maligne du mamelon du sein de la femme
+C50.0	tumeur maligne du mamelon du sein féminin
+C79.8	tumeur secondaire du mamelon du sein de la femme
+C79.8	tumeur secondaire du mamelon du sein féminin
+C79.8	tumeur métastatique du mamelon du sein féminin
+C79.8	tumeur métastatique du mamelon du sein de la femme
+C50.0	tumeur maligne de l'aréole du sein de la femme
+C50.0	tumeur maligne de l'aréole du sein féminin
+C79.8	tumeur secondaire de l'aréole du sein de la femme
+C79.8	tumeur secondaire de l'aréole du sein féminin
+C79.8	tumeur métastatique de l'aréole du sein féminin
+C79.8	tumeur métastatique de l'aréole du sein de la femme
+C50.1	tumeur maligne de la partie centrale du sein de la femme
+C50.1	tumeur maligne de la partie centrale du sein féminin
+C79.8	tumeur secondaire de la partie centrale du sein de la femme
+C79.8	tumeur secondaire de la partie centrale du sein féminin
+C79.8	tumeur métastatique de la partie centrale du sein féminin
+C79.8	tumeur métastatique de la partie centrale du sein de la femme
+C50.2	tumeur maligne du quadrant supéro-interne du sein de la femme
+C50.2	tumeur maligne du quadrant supéro-interne du sein féminin
+C79.8	tumeur secondaire du quadrant supéro-interne du sein de la femme
+C79.8	tumeur secondaire du quadrant supéro-interne du sein féminin
+C79.8	tumeur métastatique du quadrant supéro-interne du sein féminin
+C79.8	tumeur métastatique du quadrant supéro-interne du sein de la femme
+C50.3	tumeur maligne du quadrant inféro-interne du sein de la femme
+C50.3	tumeur maligne du quadrant inféro-interne du sein féminin
+C79.8	tumeur secondaire du quadrant inféro-interne du sein de la femme
+C79.8	tumeur secondaire du quadrant inféro-interne du sein féminin
+C79.8	tumeur métastatique du quadrant inféro-interne du sein féminin
+C79.8	tumeur métastatique du quadrant inféro-interne du sein de la femme
+C50.4	tumeur maligne du quadrant supéro-externe du sein de la femme
+C50.4	tumeur maligne du quadrant supéro-externe du sein féminin
+C79.8	tumeur secondaire du quadrant supéro-externe du sein de la femme
+C79.8	tumeur secondaire du quadrant supéro-externe du sein féminin
+C79.8	tumeur métastatique du quadrant supéro-externe du sein féminin
+C79.8	tumeur métastatique du quadrant supéro-externe du sein de la femme
+C50.5	tumeur maligne du quadrant inféro-externe du sein de la femme
+C50.5	tumeur maligne du quadrant inféro-externe du sein féminin
+C79.8	tumeur secondaire du quadrant inféro-externe du sein de la femme
+C79.8	tumeur secondaire du quadrant inféro-externe du sein féminin
+C79.8	tumeur métastatique du quadrant inféro-externe du sein féminin
+C79.8	tumeur métastatique du quadrant inféro-externe du sein de la femme
+C50.6	tumeur maligne du prolongement axillaire du sein de la femme
+C50.6	tumeur maligne du prolongement axillaire du sein féminin
+C79.8	tumeur secondaire du prolongement axillaire du sein de la femme
+C79.8	tumeur secondaire du prolongement axillaire du sein féminin
+C79.8	tumeur métastatique du prolongement axillaire du sein féminin
+C79.8	tumeur métastatique du prolongement axillaire du sein de la femme
+C50.9	tumeur maligne des tissus mammaires ectopiques de la femme
+C50.9	tumeur maligne des tissus mammaires ectopiques féminins
+C79.8	tumeur secondaire des tissus mammaires ectopiques de la femme
+C79.8	tumeur secondaire des tissus mammaires ectopiques féminin
+C79.8	tumeur métastatique des tissus mammaires ectopiques féminin
+C79.8	tumeur métastatique des tissus mammaires ectopiques de la femme
+C50.9	tumeur maligne du sein de l'homme
+C50.9	tumeur maligne du sein masculin
+C79.8	tumeur secondaire du sein de l'homme
+C79.8	tumeur secondaire du sein masculin
+C79.8	tumeur métastatique du sein masculin
+C79.8	tumeur métastatique du sein de l'homme
+C50.8	tumeur maligne à localisations contiguës du sein de l'homme
+C50.8	tumeur maligne à localisations contiguës du sein masculin
+C50.0	tumeur maligne du mamelon du sein de l'homme
+C50.0	tumeur maligne du mamelon du sein masculin
+C79.8	tumeur secondaire du mamelon du sein de l'homme
+C79.8	tumeur secondaire du mamelon du sein masculin
+C79.8	tumeur métastatique du mamelon du sein masculin
+C79.8	tumeur métastatique du mamelon du sein de l'homme
+C50.0	tumeur maligne de l'aréole du sein de l'homme
+C50.0	tumeur maligne de l'aréole du sein masculin
+C79.8	tumeur secondaire de l'aréole du sein de l'homme
+C79.8	tumeur secondaire de l'aréole du sein masculin
+C79.8	tumeur métastatique de l'aréole du sein masculin
+C79.8	tumeur métastatique de l'aréole du sein de l'homme
+C50.9	tumeur maligne des tissus mammaires ectopiques de l'homme
+C50.9	tumeur maligne des tissus mammaires ectopiques masculins
+C79.8	tumeur secondaire des tissus mammaires ectopiques de l'homme
+C79.8	tumeur secondaire des tissus mammaires ectopiques masculins
+C79.8	tumeur métastatique des tissus mammaires ectopiques masculins
+C79.8	tumeur métastatique des tissus mammaires ectopiques de l'homme
+C58	grossesse molaire avec choriocarcinome
+C58	grossesse molaire avec chorio-épithéliome
+C85.9	lymphome de l'orbite
+C72.9	tumeur maligne du système nerveux
+C79.4	tumeur secondaire du système nerveux
+C79.4	tumeur métastatique du système nerveux
+C72.9	tumeur maligne du système nerveux central
+C79.3	tumeur secondaire du système nerveux central
+C79.3	tumeur métastatique du système nerveux central
+C72.8	tumeur maligne à localisations contiguës du cerveau et d'autres parties du système nerveux central
+C72.8	tumeur maligne à localisations contiguës de l'encéphale et d'autres parties du système nerveux central
+C71.9	tumeur maligne du cerveau
+C71.9	tumeur maligne cérébrale
+C71.9	tumeur maligne de l'encéphale
+C79.3	tumeur secondaire du cerveau
+C79.3	tumeur secondaire cérébrale
+C79.3	tumeur secondaire de l'encéphale
+C79.3	tumeur métastatique cérébrale
+C79.3	tumeur métastatique de l'encéphale
+C79.3	tumeur métastatique du cerveau
+C71.8	tumeur maligne à localisations contiguës du cerveau
+C71.8	tumeur maligne cérébrale à localisations contiguës
+C71.8	tumeur maligne à localisations contiguës de l'encéphale
+C71.0	tumeur maligne de la portion sus-tentorielle du cerveau
+C71.0	tumeur maligne cérébrale sus-tentorielle
+C79.3	tumeur secondaire de la portion sus-tentorielle du cerveau
+C79.3	tumeur secondaire cérébrale sus-tentorielle
+C79.3	tumeur métastatique cérébrale sus-tentorielle
+C79.3	tumeur métastatique de la portion sus-tentorielle du cerveau
+C71.1	tumeur maligne du lobe frontal
+C79.3	tumeur secondaire du lobe frontal
+C79.3	tumeur métastatique du lobe frontal
+C71.2	tumeur maligne du lobe temporal
+C79.3	tumeur secondaire du lobe temporal
+C79.3	tumeur métastatique du lobe temporal
+C71.3	tumeur maligne du lobe pariétal
+C79.3	tumeur secondaire du lobe pariétal
+C79.3	tumeur métastatique du lobe pariétal
+C71.4	tumeur maligne du lobe occipital
+C79.3	tumeur secondaire du lobe occipital
+C79.3	tumeur métastatique du lobe occipital
+C71.5	tumeur maligne des ventricules cérébraux
+C79.3	tumeur secondaire des ventricules cérébraux
+C79.3	tumeur métastatique des ventricules cérébraux
+C70.0	tumeur maligne des méninges cérébrales
+C79.3	tumeur secondaire des méninges cérébrales
+C79.3	tumeur métastatique des méninges cérébrales
+C71.6	tumeur maligne du cervelet
+C71.6	tumeur maligne cérébelleuse
+C79.3	tumeur secondaire du cervelet
+C79.3	tumeur secondaire cérébelleuse
+C79.3	tumeur métastatique cérébelleuse
+C79.3	tumeur métastatique du cervelet
+C71.7	tumeur maligne du tronc cérébral
+C79.3	tumeur secondaire du tronc cérébral
+C79.3	tumeur métastatique du tronc cérébral
+C72.0	tumeur maligne de la moelle épinière
+C79.4	tumeur secondaire de la moelle épinière
+C79.4	tumeur métastatique de la moelle épinière
+C72.1	tumeur maligne de la queue de cheval
+C79.4	tumeur secondaire de la queue de cheval
+C79.4	tumeur métastatique de la queue de cheval
+C70.1	tumeur maligne des méninges rachidiennes
+C79.4	tumeur secondaire des méninges rachidiennes
+C79.4	tumeur métastatique des méninges rachidiennes
+C70.9	tumeur maligne des méninges
+C72.5	tumeur maligne des nerfs crâniens
+C79.4	tumeur secondaire des nerfs crâniens
+C79.4	tumeur métastatique des nerfs crâniens
+C72.2	tumeur maligne du nerf olfactif
+C79.4	tumeur secondaire du nerf olfactif
+C79.4	tumeur métastatique du nerf olfactif
+C72.3	tumeur maligne du nerf optique
+C79.4	tumeur secondaire du nerf optique
+C79.4	tumeur métastatique du nerf optique
+C72.5	tumeur maligne du nerf oculomoteur
+C79.4	tumeur secondaire du nerf oculomoteur
+C79.4	tumeur métastatique du nerf oculomoteur
+C72.5	tumeur maligne du nerf pathétique
+C72.5	tumeur maligne du nerf trochléaire
+C79.4	tumeur secondaire du nerf pathétique
+C79.4	tumeur secondaire du nerf trochléaire
+C79.4	tumeur métastatique du nerf trochléaire
+C79.4	tumeur métastatique du nerf pathétique
+C72.5	tumeur maligne du nerf trijumeau
+C79.4	tumeur secondaire du nerf trijumeau
+C79.4	tumeur métastatique du nerf trijumeau
+C72.5	tumeur maligne du nerf moteur oculaire externe
+C72.5	tumeur maligne du nerf abducens
+C79.4	tumeur secondaire du nerf moteur oculaire externe
+C79.4	tumeur secondaire du nerf abducens
+C79.4	tumeur métastatique du nerf abducens
+C79.4	tumeur métastatique du nerf moteur oculaire externe
+C72.5	tumeur maligne du nerf facial
+C79.4	tumeur secondaire du nerf facial
+C79.4	tumeur métastatique du nerf facial
+C72.4	tumeur maligne du nerf auditif
+C79.4	tumeur secondaire du nerf auditif
+C79.4	tumeur métastatique du nerf auditif
+C72.5	tumeur maligne du nerf glosso-pharyngien
+C79.4	tumeur secondaire du nerf glosso-pharyngien
+C79.4	tumeur métastatique du nerf glosso-pharyngien
+C72.5	tumeur maligne du nerf pneumogastrique
+C72.5	tumeur maligne du nerf vague
+C79.4	tumeur secondaire du nerf pneumogastrique
+C79.4	tumeur secondaire du nerf vague
+C79.4	tumeur métastatique du nerf vague
+C79.4	tumeur métastatique du nerf pneumogastrique
+C47.9	tumeur maligne du nerf accessoire
+C47.9	tumeur maligne du nerf spinal
+C79.4	tumeur secondaire du nerf accessoire
+C79.4	tumeur secondaire du nerf spinal
+C79.4	tumeur métastatique du nerf spinal
+C79.4	tumeur métastatique du nerf accessoire
+C72.5	tumeur maligne du nerf grand hypoglosse
+C79.4	tumeur secondaire du nerf grand hypoglosse
+C79.4	tumeur métastatique du nerf grand hypoglosse
+C47.9	tumeur maligne des nerfs périphériques et du système nerveux autonome
+C47.8	tumeur maligne à localisations contiguës des nerfs périphériques et du système nerveux autonome
+C47.0	tumeur maligne des nerfs périphériques de la tête, de la face et du cou
+C47.0	tumeur maligne des nerfs périphériques de la tête
+C47.0	tumeur maligne des nerfs périphériques de la face
+C47.0	tumeur maligne des nerfs périphériques faciaux
+C47.0	tumeur maligne des nerfs périphériques du cou
+C47.1	tumeur maligne des nerfs périphériques du membre supérieur et de l'épaule
+C47.1	tumeur maligne des nerfs périphériques du membre supérieur
+C47.1	tumeur maligne des nerfs périphériques de l'épaule
+C47.2	tumeur maligne des nerfs périphériques du membre inférieur et de la hanche
+C47.2	tumeur maligne des nerfs périphériques du membre inférieur
+C47.2	tumeur maligne des nerfs périphériques de la hanche
+C47.3	tumeur maligne des nerfs périphériques du thorax
+C47.3	tumeur maligne des nerfs périphériques thoraciques
+C47.4	tumeur maligne des nerfs périphériques de l'abdomen
+C47.4	tumeur maligne des nerfs périphériques abdominaux
+C47.5	tumeur maligne des nerfs périphériques du bassin
+C47.5	tumeur maligne des nerfs périphériques pelviens
+C47.6	tumeur maligne des nerfs périphériques du tronc
+C69.9	tumeur maligne de l'oeil
+C79.8	tumeur secondaire de l'oeil
+C79.8	tumeur métastatique de l'oeil
+C69.0	tumeur maligne de la conjonctive
+C79.8	tumeur secondaire de la conjonctive
+C79.8	tumeur métastatique de la conjonctive
+C69.1	tumeur maligne de la cornée
+C69.1	tumeur maligne cornéenne
+C79.8	tumeur secondaire de la cornée
+C79.8	tumeur secondaire cornéenne
+C79.8	tumeur métastatique cornéenne
+C79.8	tumeur métastatique de la cornée
+C69.4	tumeur maligne du corps ciliaire
+C79.8	tumeur secondaire du corps ciliaire
+C79.8	tumeur métastatique du corps ciliaire
+C69.4	tumeur maligne de la sclérotique
+C79.8	tumeur secondaire de la sclérotique
+C79.8	tumeur métastatique de la sclérotique
+C69.4	tumeur maligne de l'uvée
+C69.4	tumeur maligne uvéale
+C79.8	tumeur secondaire de l'uvée
+C79.8	tumeur secondaire uvéale
+C79.8	tumeur métastatique uvéale
+C79.8	tumeur métastatique de l'uvée
+C69.3	tumeur maligne de la choroïde de l'oeil
+C79.8	tumeur secondaire de la choroïde de l'oeil
+C79.8	tumeur métastatique de la choroïde de l'oeil
+C69.2	tumeur maligne de la rétine
+C69.2	tumeur maligne rétinienne
+C79.8	tumeur secondaire de la rétine
+C79.8	tumeur secondaire rétinienne
+C79.8	tumeur métastatique rétinienne
+C79.8	tumeur métastatique de la rétine
+C69.6	tumeur maligne de l'orbite
+C79.8	tumeur secondaire de l'orbite
+C79.8	tumeur métastatique de l'orbite
+C69.5	tumeur maligne des glandes lacrymales
+C79.8	tumeur secondaire des glandes lacrymales
+C79.8	tumeur métastatique des glandes lacrymales
+C69.5	tumeur maligne d'un canalicule lacrymal
+C79.8	tumeur secondaire d'un canalicule lacrymal
+C79.8	tumeur métastatique d'un canalicule lacrymal
+C69.8	tumeur maligne à localisations contiguës de l'oeil et de ses annexes
+C30.1	tumeur maligne de l'oreille moyenne
+C78.3	tumeur secondaire de l'oreille moyenne
+C78.3	tumeur métastatique de l'oreille moyenne
+C30.1	tumeur maligne de la trompe d'Eustache
+C78.3	tumeur secondaire de la trompe d'Eustache
+C78.3	tumeur métastatique de la trompe d'Eustache
+C30.1	tumeur maligne des cellules mastoïdiennes
+C78.3	tumeur secondaire des cellules mastoïdiennes
+C78.3	tumeur métastatique des cellules mastoïdiennes
+C75.9	tumeur maligne d'une glande endocrine
+C79.8	tumeur secondaire d'une glande endocrine
+C79.8	tumeur métastatique d'une glande endocrine
+C75.8	tumeur maligne de plusieurs glandes endocrines
+C79.8	tumeur secondaire de plusieurs glandes endocrines
+C79.8	tumeur métastatique de plusieurs glandes endocrines
+C75.8	tumeur maligne à localisations contiguës de plusieurs glandes endocrines
+C73	tumeur maligne de la glande thyroïde
+C73	tumeur maligne thyroïdienne
+C73	tumeur maligne de la thyroïde
+C79.8	tumeur secondaire de la glande thyroïde
+C79.8	tumeur secondaire thyroïdienne
+C79.8	tumeur secondaire de la thyroïde
+C79.8	tumeur métastatique thyroïdienne
+C79.8	tumeur métastatique de la thyroïde
+C79.8	tumeur métastatique de la glande thyroïde
+C73	tumeur maligne du canal thyréoglosse
+C79.8	tumeur secondaire du canal thyréoglosse
+C79.8	tumeur métastatique du canal thyréoglosse
+C75.0	tumeur maligne des glandes parathyroïdes
+C75.0	tumeur maligne parathyroïdienne
+C75.0	tumeur maligne des parathyroïdes
+C79.8	tumeur secondaire des glandes parathyroïdes
+C79.8	tumeur secondaire parathyroïdienne
+C79.8	tumeur secondaire des parathyroïdes
+C79.8	tumeur métastatique parathyroïdienne
+C79.8	tumeur métastatique des parathyroïdes
+C79.8	tumeur métastatique des glandes parathyroïdes
+C74.9	tumeur maligne des glandes surrénales
+C74.9	tumeur maligne surrénalienne
+C79.7	tumeur secondaire des glandes surrénales
+C79.7	tumeur secondaire surrénalienne
+C79.7	tumeur métastatique surrénalienne
+C79.7	tumeur métastatique des glandes surrénales
+C74.0	tumeur maligne du cortex surrénal
+C74.0	tumeur maligne corticosurrénalienne
+C79.7	tumeur secondaire du cortex surrénal
+C79.7	tumeur secondaire cortico-surrénalienne
+C79.7	tumeur métastatique cortico-surrénalienne
+C79.7	tumeur métastatique du cortex surrénal
+C74.1	tumeur maligne de la médullosurrénale
+C74.1	tumeur maligne médullosurrénalienne
+C79.7	tumeur secondaire de la médullosurrénale
+C79.7	tumeur secondaire médullosurrénalienne
+C79.7	tumeur métastatique médullosurrénalienne
+C79.7	tumeur métastatique de la médullosurrénale
+C75.1	tumeur maligne de la glande pituitaire
+C75.1	tumeur maligne de l'hypophyse
+C79.8	tumeur secondaire de la glande pituitaire
+C79.8	tumeur secondaire de l'hypophyse
+C79.8	tumeur métastatique de l'hypophyse
+C79.8	tumeur métastatique de la glande pituitaire
+C75.2	tumeur maligne du canal cranio-pharyngien
+C79.8	tumeur secondaire du canal cranio-pharyngien
+C79.8	tumeur métastatique du canal cranio-pharyngien
+C75.3	tumeur maligne de la glande pinéale
+C75.3	tumeur maligne de l'épiphyse
+C79.8	tumeur secondaire de la glande pinéale
+C79.8	tumeur secondaire de l'épiphyse
+C79.8	tumeur métastatique de l'épiphyse
+C79.8	tumeur métastatique de la glande pinéale
+C75.5	tumeur maligne des paraganglions
+C75.5	tumeur maligne paraganglionnaire
+C79.8	tumeur secondaire des paraganglions
+C79.8	tumeur secondaire paraganglionnaire
+C79.8	tumeur métastatique paraganglionnaire
+C79.8	tumeur métastatique des paraganglions
+C75.4	tumeur maligne du glomus carotidien
+C75.4	tumeur maligne glomique carotidienne
+C75.4	tumeur maligne du corpuscule carotidien
+C79.8	tumeur secondaire du glomus carotidien
+C79.8	tumeur secondaire glomique carotidienne
+C79.8	tumeur secondaire du corpuscule carotidien
+C79.8	tumeur métastatique glomique carotidienne
+C79.8	tumeur métastatique du corpuscule carotidien
+C79.8	tumeur métastatique du glomus carotidien
+C75.5	tumeur maligne du glomus aortique
+C75.5	tumeur maligne glomique aortique
+C79.8	tumeur secondaire du glomus aortique
+C79.8	tumeur secondaire glomique aortique
+C79.8	tumeur métastatique glomique aortique
+C79.8	tumeur métastatique du glomus aortique
+C75.5	tumeur maligne du glomus jugulaire
+C75.5	tumeur maligne glomique jugulaire
+C79.8	tumeur secondaire du glomus jugulaire
+C79.8	tumeur secondaire glomique jugulaire
+C79.8	tumeur métastatique glomique jugulaire
+C79.8	tumeur métastatique du glomus jugulaire
+C75.5	tumeur maligne des paraganglions aortiques
+C75.5	tumeur maligne paraganglionnaire aortique
+C79.8	tumeur secondaire des paraganglions aortiques
+C79.8	tumeur secondaire paraganglionnaire aortique
+C79.8	tumeur métastatique paraganglionnaire aortique
+C79.8	tumeur métastatique des paraganglions aortiques
+C75.5	tumeur maligne du glomus coccygien
+C75.5	tumeur maligne glomique coccygienne
+C79.8	tumeur secondaire du glomus coccygien
+C79.8	tumeur secondaire glomique coccygienne
+C79.8	tumeur métastatique glomique coccygienne
+C79.8	tumeur métastatique du glomus coccygien
+C88.2	maladie des chaînes lourdes
+C88.1	maladie des chaînes lourdes alpha, forme respiratoire
+C88.2	maladie des chaînes lourdes delta
+C88.2	maladie des chaînes lourdes des IgD
+C88.2	maladie des chaînes lourdes epsilon
+C88.2	maladie des chaînes lourdes des IgE
+C90.2	plasmocytome solitaire de l'os
+C96.9	tumeur maligne des tissus lymphoïde et histiocytaire
+C83.3	réticulosarcome de siège non précisé, extra-ganglionnaire ou d'un organe solide
+C83.3	réticulosarcome des ganglions lymphatiques de la tête, de la face et du cou
+C83.3	réticulosarcome des ganglions lymphatiques thoraciques
+C83.3	réticulosarcome des ganglions lymphatiques du thorax
+C83.3	réticulosarcome des ganglions lymphatiques abdominaux
+C83.3	réticulosarcome des ganglions lymphatiques de l'abdomen
+C83.3	réticulosarcome des ganglions lymphatiques de l'aisselle et du membre supérieur
+C83.3	réticulosarcome des ganglions lymphatiques axillaires et du membre supérieur
+C83.3	réticulosarcome des ganglions lymphatiques de la région inguinale et du membre inférieur
+C83.3	réticulosarcome des ganglions lymphatiques inguinaux et du membre inférieur
+C83.3	réticulosarcome des ganglions lymphatiques de la cavité pelvienne
+C83.3	réticulosarcome des ganglions lymphatiques pelviens
+C83.3	réticulosarcome de la rate
+C83.3	réticulosarcome splénique
+C83.3	réticulosarcome des ganglions lymphatiques de sièges multiples
+C85.0	lymphosarcome de siège non précisé, extra-ganglionnaire ou d'un organe solide
+C85.0	lymphosarcome des ganglions lymphatiques de la tête, de la face et du cou
+C85.0	lymphosarcome des ganglions lymphatiques thoraciques
+C85.0	lymphosarcome des ganglions lymphatiques du thorax
+C85.0	lymphosarcome des ganglions lymphatiques abdominaux
+C85.0	lymphosarcome des ganglions lymphatiques de l'abdomen
+C85.0	lymphosarcome des ganglions lymphatiques de l'aisselle et du membre supérieur
+C85.0	lymphosarcome des ganglions lymphatiques axillaires et du membre supérieur
+C85.0	lymphosarcome des ganglions lymphatiques de la région inguinale et du membre inférieur
+C85.0	lymphosarcome des ganglions lymphatiques inguinaux et du membre inférieur
+C85.0	lymphosarcome des ganglions lymphatiques de la cavité pelvienne
+C85.0	lymphosarcome des ganglions lymphatiques pelviens
+C85.0	lymphosarcome de la rate
+C85.0	lymphosarcome splénique
+C85.0	lymphosarcome des ganglions lymphatiques de sièges multiples
+C83.7	tumeur de Burkitt de siège non précisé, extra-ganglionnaire ou d'un organe solide
+C83.7	tumeur de Burkitt des ganglions lymphatiques de la tête, de la face et du cou
+C83.7	tumeur de Burkitt des ganglions lymphatiques thoraciques
+C83.7	tumeur de Burkitt des ganglions lymphatiques du thorax
+C83.7	tumeur de Burkitt des ganglions lymphatiques abdominaux
+C83.7	tumeur de Burkitt des ganglions lymphatiques de l'abdomen
+C83.7	tumeur de Burkitt des ganglions lymphatiques de l'aisselle et du membre supérieur
+C83.7	tumeur de Burkitt des ganglions lymphatiques axillaires et du membre supérieur
+C83.7	tumeur de Burkitt des ganglions lymphatiques de la région inguinale et du membre inférieur
+C83.7	tumeur de Burkitt des ganglions lymphatiques inguinaux et du membre inférieur
+C83.7	tumeur de Burkitt des ganglions lymphatiques de la cavité pelvienne
+C83.7	tumeur de Burkitt des ganglions lymphatiques pelviens
+C83.7	tumeur de Burkitt de la rate
+C83.7	tumeur de Burkitt splénique
+C83.7	tumeur de Burkitt des ganglions lymphatiques de sièges multiples
+C83.2	lymphome malin mixte diffus à petites et grandes cellules de siège non précisé, extra-ganglionnaire ou d'un organe solide
+C83.2	lymphome malin mixte diffus à petites et grandes cellules des ganglions lymphatiques de la tête, de la face et du cou
+C83.2	lymphome malin mixte diffus à petites et grandes cellules des ganglions lymphatiques thoraciques
+C83.2	lymphome malin mixte diffus à petites et grandes cellules des ganglions lymphatiques du thorax
+C83.2	lymphome malin mixte diffus à petites et grandes cellules des ganglions lymphatiques abdominaux
+C83.2	lymphome malin mixte diffus à petites et grandes cellules des ganglions lymphatiques de l'abdomen
+C83.2	lymphome malin mixte diffus à petites et grandes cellules des ganglions lymphatiques de l'aisselle et du membre supérieur
+C83.2	lymphome malin mixte diffus à petites et grandes cellules des ganglions lymphatiques axillaires et du membre supérieur
+C83.2	lymphome malin mixte diffus à petites et grandes cellules des ganglions lymphatiques de la région inguinale et du membre inférieur
+C83.2	lymphome malin mixte diffus à petites et grandes cellules des ganglions lymphatiques inguinaux et du membre inférieur
+C83.2	lymphome malin mixte diffus à petites et grandes cellules des ganglions lymphatiques de la cavité pelvienne
+C83.2	lymphome malin mixte diffus à petites et grandes cellules des ganglions lymphatiques pelviens
+C83.2	lymphome malin mixte diffus à petites et grandes cellules de la rate
+C83.2	lymphome malin mixte diffus à petites et grandes cellules des ganglions lymphatiques de sièges multiples
+C85.9	lymphome malin, de siège non précisé, extra-ganglionnaire ou d'un organe solide
+C85.9	lymphome malin, des ganglions lymphatiques de la tête, de la face et du cou
+C85.9	lymphome malin, des ganglions lymphatiques thoraciques
+C85.9	lymphome malin, des ganglions lymphatiques du thorax
+C85.9	lymphome malin, des ganglions lymphatiques abdominaux
+C85.9	lymphome malin, des ganglions lymphatiques de l'abdomen
+C85.9	lymphome malin, des ganglions lymphatiques de l'aisselle et du membre supérieur
+C85.9	lymphome malin, des ganglions lymphatiques axillaires et du membre supérieur
+C85.9	lymphome malin, des ganglions lymphatiques de la région inguinale et du membre inférieur
+C85.9	lymphome malin, des ganglions lymphatiques inguinaux et du membre inférieur
+C85.9	lymphome malin, des ganglions lymphatiques de la cavité pelvienne
+C85.9	lymphome malin, des ganglions lymphatiques pelviens
+C85.9	lymphome malin, de la rate
+C85.9	lymphome malin, splénique
+C85.9	lymphome malin, des ganglions lymphatiques de sièges multiples
+C82.9	lymphome malin nodulaire de siège non précisé, extra-ganglionnaire ou d'un organe solide
+C82.9	lymphome malin folliculaire de siège non précisé, extra-ganglionnaire ou d'un organe solide
+C82.9	lymphome malin nodulaire des ganglions lymphatiques de la tête, de la face et du cou
+C82.9	lymphome malin folliculaire des ganglions lymphatiques de la tête, de la face et du cou
+C82.9	lymphome malin nodulaire des ganglions lymphatiques thoraciques
+C82.9	lymphome malin folliculaire des ganglions lymphatiques thoraciques
+C82.9	lymphome malin folliculaire des ganglions lymphatiques du thorax
+C82.9	lymphome malin nodulaire des ganglions lymphatiques du thorax
+C82.9	lymphome malin nodulaire des ganglions lymphatiques abdominaux
+C82.9	lymphome malin folliculaire des ganglions lymphatiques abdominaux
+C82.9	lymphome malin folliculaire des ganglions lymphatiques de l'abdomen
+C82.9	lymphome malin nodulaire des ganglions lymphatiques de l'abdomen
+C82.9	lymphome malin nodulaire des ganglions lymphatiques de l'aisselle et du membre supérieur
+C82.9	lymphome malin folliculaire des ganglions lymphatiques de l'aisselle et du membre supérieur
+C82.9	lymphome malin folliculaire des ganglions lymphatiques axillaires et du membre supérieur
+C82.9	lymphome malin nodulaire des ganglions lymphatiques axillaires et du membre supérieur
+C82.9	lymphome malin nodulaire des ganglions lymphatiques de la région inguinale et du membre inférieur
+C82.9	lymphome malin folliculaire des ganglions lymphatiques de la région inguinale et du membre inférieur
+C82.9	lymphome malin folliculaire des ganglions lymphatiques inguinaux et du membre inférieur
+C82.9	lymphome malin nodulaire des ganglions lymphatiques inguinaux et du membre inférieur
+C82.9	lymphome malin nodulaire des ganglions lymphatiques de la cavité pelvienne
+C82.9	lymphome malin folliculaire des ganglions lymphatiques de la cavité pelvienne
+C82.9	lymphome malin folliculaire des ganglions lymphatiques pelviens
+C82.9	lymphome malin nodulaire des ganglions lymphatiques pelviens
+C82.9	lymphome malin nodulaire de la rate
+C82.9	lymphome malin folliculaire de la rate
+C82.9	lymphome malin folliculaire splénique
+C82.9	lymphome malin nodulaire splénique
+C82.9	lymphome malin nodulaire des ganglions lymphatiques de sièges multiples
+C82.9	lymphome malin folliculaire des ganglions lymphatiques de sièges multiples
+C81.9	maladie de Hodgkin, de siège non précisé, extra-ganglionnaire ou d'un organe solide
+C81.9	maladie de Hodgkin, des ganglions lymphatiques de la tête, de la face et du cou
+C81.9	maladie de Hodgkin, des ganglions lymphatiques thoraciques
+C81.9	maladie de Hodgkin, des ganglions lymphatiques du thorax
+C81.9	maladie de Hodgkin, des ganglions lymphatiques abdominaux
+C81.9	maladie de Hodgkin, des ganglions lymphatiques de l'abdomen
+C81.9	maladie de Hodgkin, des ganglions lymphatiques de l'aisselle et du membre supérieur
+C81.9	maladie de Hodgkin, des ganglions lymphatiques axillaires et du membre supérieur
+C81.9	maladie de Hodgkin, des ganglions lymphatiques de la région inguinale et du membre inférieur
+C81.9	maladie de Hodgkin, des ganglions lymphatiques inguinaux et du membre inférieur
+C81.9	maladie de Hodgkin, des ganglions lymphatiques de la cavité pelvienne
+C81.9	maladie de Hodgkin, des ganglions lymphatiques pelviens
+C81.9	maladie de Hodgkin, de la rate
+C81.9	maladie de Hodgkin, splénique
+C81.9	maladie de Hodgkin, des ganglions lymphatiques de sièges multiples
+C81.7	paragranulome hodgkinien de siège non précisé, extra-ganglionnaire ou d'un organe solide
+C81.7	paragranulome hodgkinien des ganglions lymphatiques de la tête, de la face et du cou
+C81.7	paragranulome hodgkinien des ganglions lymphatiques thoraciques
+C81.7	paragranulome hodgkinien des ganglions lymphatiques du thorax
+C81.7	paragranulome hodgkinien des ganglions lymphatiques abdominaux
+C81.7	paragranulome hodgkinien des ganglions lymphatiques de l'abdomen
+C81.7	paragranulome hodgkinien des ganglions lymphatiques de l'aisselle et du membre supérieur
+C81.7	paragranulome hodgkinien des ganglions lymphatiques axillaires et du membre supérieur
+C81.7	paragranulome hodgkinien des ganglions lymphatiques de la région inguinale et du membre inférieur
+C81.7	paragranulome hodgkinien des ganglions lymphatiques inguinaux et du membre inférieur
+C81.7	paragranulome hodgkinien des ganglions lymphatiques de la cavité pelvienne
+C81.7	paragranulome hodgkinien des ganglions lymphatiques pelviens
+C81.7	paragranulome hodgkinien de la rate
+C81.7	paragranulome hodgkinien splénique
+C81.7	paragranulome hodgkinien des ganglions lymphatiques de sièges multiples
+C81.7	granulome hodgkinien de siège non précisé, extra-ganglionnaire ou d'un organe solide
+C81.7	granulome hodgkinien des ganglions lymphatiques de la tête, de la face et du cou
+C81.7	granulome hodgkinien des ganglions lymphatiques thoraciques
+C81.7	granulome hodgkinien des ganglions lymphatiques du thorax
+C81.7	granulome hodgkinien des ganglions lymphatiques abdominaux
+C81.7	granulome hodgkinien des ganglions lymphatiques de l'abdomen
+C81.7	granulome hodgkinien des ganglions lymphatiques de l'aisselle et du membre supérieur
+C81.7	granulome hodgkinien des ganglions lymphatiques axillaires et du membre supérieur
+C81.7	granulome hodgkinien des ganglions lymphatiques de la région inguinale et du membre inférieur
+C81.7	granulome hodgkinien des ganglions lymphatiques inguinaux et du membre inférieur
+C81.7	granulome hodgkinien des ganglions lymphatiques de la cavité pelvienne
+C81.7	granulome hodgkinien des ganglions lymphatiques pelviens
+C81.7	granulome hodgkinien de la rate
+C81.7	granulome hodgkinien splénique
+C81.7	granulome hodgkinien des ganglions lymphatiques de sièges multiples
+C81.7	sarcome hodgkinien de siège non précisé, extra-ganglionnaire ou d'un organe solide
+C81.7	sarcome hodgkinien des ganglions lymphatiques de la tête, de la face et du cou
+C81.7	sarcome hodgkinien des ganglions lymphatiques thoraciques
+C81.7	sarcome hodgkinien des ganglions lymphatiques du thorax
+C81.7	sarcome hodgkinien des ganglions lymphatiques abdominaux
+C81.7	sarcome hodgkinien des ganglions lymphatiques de l'abdomen
+C81.7	sarcome hodgkinien des ganglions lymphatiques de l'aisselle et du membre supérieur
+C81.7	sarcome hodgkinien des ganglions lymphatiques axillaires et du membre supérieur
+C81.7	sarcome hodgkinien des ganglions lymphatiques de la région inguinale et du membre inférieur
+C81.7	sarcome hodgkinien des ganglions lymphatiques inguinaux et du membre inférieur
+C81.7	sarcome hodgkinien des ganglions lymphatiques de la cavité pelvienne
+C81.7	sarcome hodgkinien des ganglions lymphatiques pelviens
+C81.7	sarcome hodgkinien de la rate
+C81.7	sarcome hodgkinien splénique
+C81.7	sarcome hodgkinien des ganglions lymphatiques de sièges multiples
+C81.0	maladie de Hodgkin à prédominance lymphocytaire de siège non précisé, extra-ganglionnaire ou d'un organe solide
+C81.0	maladie de Hodgkin à prédominance lymphocytaire des ganglions lymphatiques de la tête, de la face et du cou
+C81.0	maladie de Hodgkin à prédominance lymphocytaire des ganglions lymphatiques thoraciques
+C81.0	maladie de Hodgkin à prédominance lymphocytaire des ganglions lymphatiques du thorax
+C81.0	maladie de Hodgkin à prédominance lymphocytaire des ganglions lymphatiques abdominaux
+C81.0	maladie de Hodgkin à prédominance lymphocytaire des ganglions lymphatiques de l'abdomen
+C81.0	maladie de Hodgkin à prédominance lymphocytaire des ganglions lymphatiques de l'aisselle et du membre supérieur
+C81.0	maladie de Hodgkin à prédominance lymphocytaire des ganglions lymphatiques axillaires et du membre supérieur
+C81.0	maladie de Hodgkin à prédominance lymphocytaire des ganglions lymphatiques de la région inguinale et du membre inférieur
+C81.0	maladie de Hodgkin à prédominance lymphocytaire des ganglions lymphatiques inguinaux et du membre inférieur
+C81.0	maladie de Hodgkin à prédominance lymphocytaire des ganglions lymphatiques de la cavité pelvienne
+C81.0	maladie de Hodgkin à prédominance lymphocytaire des ganglions lymphatiques pelviens
+C81.0	maladie de Hodgkin à prédominance lymphocytaire de la rate
+C81.0	maladie de Hodgkin splénique, à prédominance lymphocytaire
+C81.0	maladie de Hodgkin à prédominance lymphocytaire des ganglions lymphatiques de sièges multiples
+C81.1	maladie de Hodgkin, sclérose nodulaire, de siège non précisé, extra-ganglionnaire ou d'un organe solide
+C81.1	maladie de Hodgkin, sclérose nodulaire, des ganglions lymphatiques de la tête, de la face et du cou
+C81.1	maladie de Hodgkin, sclérose nodulaire, des ganglions lymphatiques thoraciques
+C81.1	maladie de Hodgkin, sclérose nodulaire, des ganglions lymphatiques du thorax
+C81.1	maladie de Hodgkin, sclérose nodulaire, des ganglions lymphatiques abdominaux
+C81.1	maladie de Hodgkin, sclérose nodulaire, des ganglions lymphatiques de l'abdomen
+C81.1	maladie de Hodgkin, sclérose nodulaire, des ganglions lymphatiques de l'aisselle et du membre supérieur
+C81.1	maladie de Hodgkin, sclérose nodulaire, des ganglions lymphatiques axillaires et du membre supérieur
+C81.1	maladie de Hodgkin, sclérose nodulaire, des ganglions lymphatiques de la région inguinale et du membre inférieur
+C81.1	maladie de Hodgkin, sclérose nodulaire, des ganglions lymphatiques inguinaux et du membre inférieur
+C81.1	maladie de Hodgkin, sclérose nodulaire, des ganglions lymphatiques de la cavité pelvienne
+C81.1	maladie de Hodgkin, sclérose nodulaire, des ganglions lymphatiques pelviens
+C81.1	maladie de Hodgkin, sclérose nodulaire, de la rate
+C81.1	maladie de Hodgkin, sclérose nodulaire, des ganglions lymphatiques de sièges multiples
+C81.2	maladie de Hodgkin, cellularité mixte, de siège non précisé, extra-ganglionnaire ou d'un organe solide
+C81.2	maladie de Hodgkin, cellularité mixte, des ganglions lymphatiques de la tête, de la face et du cou
+C81.2	maladie de Hodgkin, cellularité mixte, des ganglions lymphatiques thoraciques
+C81.2	maladie de Hodgkin, cellularité mixte, des ganglions lymphatiques du thorax
+C81.2	maladie de Hodgkin, cellularité mixte, des ganglions lymphatiques abdominaux
+C81.2	maladie de Hodgkin, cellularité mixte, des ganglions lymphatiques de l'abdomen
+C81.2	maladie de Hodgkin, cellularité mixte, des ganglions lymphatiques de l'aisselle et du membre supérieur
+C81.2	maladie de Hodgkin, cellularité mixte, des ganglions lymphatiques axillaires et du membre supérieur
+C81.2	maladie de Hodgkin, cellularité mixte, des ganglions lymphatiques de la région inguinale et du membre inférieur
+C81.2	maladie de Hodgkin, cellularité mixte, des ganglions lymphatiques inguinaux et du membre inférieur
+C81.2	maladie de Hodgkin, cellularité mixte, des ganglions lymphatiques de la cavité pelvienne
+C81.2	maladie de Hodgkin, cellularité mixte, des ganglions lymphatiques pelviens
+C81.2	maladie de Hodgkin, cellularité mixte, de la rate
+C81.2	maladie de Hodgkin, cellularité mixte, des ganglions lymphatiques de sièges multiples
+C81.3	maladie de Hodgkin, déplétion lymphocytaire, de siège non précisé, extra-ganglionnaire ou d'un organe solide
+C81.3	maladie de Hodgkin, déplétion lymphocytaire, des ganglions lymphatiques de la tête, de la face et du cou
+C81.3	maladie de Hodgkin, déplétion lymphocytaire, des ganglions lymphatiques thoraciques
+C81.3	maladie de Hodgkin, déplétion lymphocytaire, des ganglions lymphatiques du thorax
+C81.3	maladie de Hodgkin, déplétion lymphocytaire, des ganglions lymphatiques abdominaux
+C81.3	maladie de Hodgkin, déplétion lymphocytaire, des ganglions lymphatiques de l'abdomen
+C81.3	maladie de Hodgkin, déplétion lymphocytaire, des ganglions lymphatiques de l'aisselle et du membre supérieur
+C81.3	maladie de Hodgkin, déplétion lymphocytaire, des ganglions lymphatiques axillaires et du membre supérieur
+C81.3	maladie de Hodgkin, déplétion lymphocytaire, des ganglions lymphatiques de la région inguinale et du membre inférieur
+C81.3	maladie de Hodgkin, déplétion lymphocytaire, des ganglions lymphatiques inguinaux et du membre inférieur
+C81.3	maladie de Hodgkin, déplétion lymphocytaire, des ganglions lymphatiques de la cavité pelvienne
+C81.3	maladie de Hodgkin, déplétion lymphocytaire, des ganglions lymphatiques pelviens
+C81.3	maladie de Hodgkin, déplétion lymphocytaire, de la rate
+C81.3	maladie de Hodgkin, déplétion lymphocytaire, des ganglions lymphatiques de sièges multiples
+C84.0	mycosis fongoïde de siège non précisé, extra-ganglionnaire ou d'un organe solide
+C84.0	mycosis fongoïde des ganglions lymphatiques de la tête, de la face et du cou
+C84.0	mycosis fongoïde des ganglions lymphatiques thoraciques
+C84.0	mycosis fongoïde des ganglions lymphatiques du thorax
+C84.0	mycosis fongoïde des ganglions lymphatiques abdominaux
+C84.0	mycosis fongoïde des ganglions lymphatiques de l'abdomen
+C84.0	mycosis fongoïde des ganglions lymphatiques de l'aisselle et du membre supérieur
+C84.0	mycosis fongoïde des ganglions lymphatiques axillaires et du membre supérieur
+C84.0	mycosis fongoïde des ganglions lymphatiques de la région inguinale et du membre inférieur
+C84.0	mycosis fongoïde des ganglions lymphatiques inguinaux et du membre inférieur
+C84.0	mycosis fongoïde des ganglions lymphatiques de la cavité pelvienne
+C84.0	mycosis fongoïde des ganglions lymphatiques pelviens
+C84.0	mycosis fongoïde de la rate
+C84.0	mycosis fongoïde splénique
+C84.0	mycosis fongoïde des ganglions lymphatiques de sièges multiples
+C84.1	maladie de Sézary de siège non précisé, extra-ganglionnaire ou d'un organe solide
+C84.1	réticulose de Sézary de siège non précisé, extra-ganglionnaire ou d'un organe solide
+C84.1	maladie de Sézary des ganglions lymphatiques de la tête, de la face et du cou
+C84.1	réticulose de Sézary des ganglions lymphatiques de la tête, de la face et du cou
+C84.1	maladie de Sézary des ganglions lymphatiques thoraciques
+C84.1	réticulose de Sézary des ganglions lymphatiques thoraciques
+C84.1	réticulose de Sézary des ganglions lymphatiques du thorax
+C84.1	maladie de Sézary des ganglions lymphatiques du thorax
+C84.1	maladie de Sézary des ganglions lymphatiques abdominaux
+C84.1	réticulose de Sézary des ganglions lymphatiques abdominaux
+C84.1	réticulose de Sézary des ganglions lymphatiques de l'abdomen
+C84.1	maladie de Sézary des ganglions lymphatiques de l'abdomen
+C84.1	maladie de Sézary des ganglions lymphatiques de l'aisselle et du membre supérieur
+C84.1	réticulose de Sézary des ganglions lymphatiques de l'aisselle et du membre supérieur
+C84.1	réticulose de Sézary des ganglions lymphatiques axillaires et du membre supérieur
+C84.1	maladie de Sézary des ganglions lymphatiques axillaires et du membre supérieur
+C84.1	maladie de Sézary des ganglions lymphatiques de la région inguinale et du membre inférieur
+C84.1	réticulose de Sézary des ganglions lymphatiques de la région inguinale et du membre inférieur
+C84.1	réticulose de Sézary des ganglions lymphatiques inguinaux et du membre inférieur
+C84.1	maladie de Sézary des ganglions lymphatiques inguinaux et du membre inférieur
+C84.1	maladie de Sézary des ganglions lymphatiques de la cavité pelvienne
+C84.1	réticulose de Sézary des ganglions lymphatiques de la cavité pelvienne
+C84.1	réticulose de Sézary des ganglions lymphatiques pelviens
+C84.1	maladie de Sézary des ganglions lymphatiques pelviens
+C84.1	maladie de Sézary de la rate
+C84.1	réticulose de Sézary de la rate
+C84.1	maladie de Sézary des ganglions lymphatiques de sièges multiples
+C84.1	réticulose de Sézary des ganglions lymphatiques de sièges multiples
+C96.1	histiocytose maligne de siège non précisé, extra-ganglionnaire ou d'un organe solide
+C96.1	histiocytose maligne des ganglions lymphatiques de la tête, de la face et du cou
+C96.1	histiocytose maligne des ganglions lymphatiques thoraciques
+C96.1	histiocytose maligne des ganglions lymphatiques du thorax
+C96.1	histiocytose maligne des ganglions lymphatiques abdominaux
+C96.1	histiocytose maligne des ganglions lymphatiques de l'abdomen
+C96.1	histiocytose maligne des ganglions lymphatiques de l'aisselle et du membre supérieur
+C96.1	histiocytose maligne des ganglions lymphatiques axillaires et du membre supérieur
+C96.1	histiocytose maligne des ganglions lymphatiques de la région inguinale et du membre inférieur
+C96.1	histiocytose maligne des ganglions lymphatiques inguinaux et du membre inférieur
+C96.1	histiocytose maligne des ganglions lymphatiques de la cavité pelvienne
+C96.1	histiocytose maligne des ganglions lymphatiques pelviens
+C96.1	histiocytose maligne de la rate
+C96.1	histiocytose maligne splénique
+C96.1	histiocytose maligne des ganglions lymphatiques de sièges multiples
+C91.4	réticulo-endothéliose leucémique de siège non précisé, extra-ganglionnaire ou d'un organe solide
+C91.4	leucémie à tricholeucocytes (clinique)
+C91.4	tricholeucémie
+C91.4	réticulo-endothéliose leucémique des ganglions lymphatiques de la tête, de la face et du cou
+C91.4	réticulo-endothéliose leucémique des ganglions lymphatiques thoraciques
+C91.4	réticulo-endothéliose leucémique des ganglions lymphatiques du thorax
+C91.4	réticulo-endothéliose leucémique des ganglions lymphatiques abdominaux
+C91.4	réticulo-endothéliose leucémique des ganglions lymphatiques de l'abdomen
+C91.4	réticulo-endothéliose leucémique des ganglions lymphatiques de l'aisselle et du membre supérieur
+C91.4	réticulo-endothéliose leucémique des ganglions lymphatiques axillaires et du membre supérieur
+C91.4	réticulo-endothéliose leucémique des ganglions lymphatiques de la région inguinale et du membre inférieur
+C91.4	réticulo-endothéliose leucémique des ganglions lymphatiques inguinaux et du membre inférieur
+C91.4	réticulo-endothéliose leucémique des ganglions lymphatiques de la cavité pelvienne
+C91.4	réticulo-endothéliose leucémique des ganglions lymphatiques pelviens
+C91.4	réticulo-endothéliose leucémique de la rate
+C91.4	réticulo-endothéliose leucémique splénique
+C91.4	réticulo-endothéliose leucémique des ganglions lymphatiques de sièges multiples
+C96.0	maladie de Letterer-Siwe de siège non précisé, extra-ganglionnaire ou d'un organe solide
+C96.0	maladie de Letterer-Siwe des ganglions lymphatiques de la tête, de la face et du cou
+C96.0	maladie de Letterer-Siwe des ganglions lymphatiques thoraciques
+C96.0	maladie de Letterer-Siwe des ganglions lymphatiques du thorax
+C96.0	maladie de Letterer-Siwe des ganglions lymphatiques abdominaux
+C96.0	maladie de Letterer-Siwe des ganglions lymphatiques de l'abdomen
+C96.0	maladie de Letterer-Siwe des ganglions lymphatiques de l'aisselle et du membre supérieur
+C96.0	maladie de Letterer-Siwe des ganglions lymphatiques axillaires et du membre supérieur
+C96.0	maladie de Letterer-Siwe des ganglions lymphatiques de la région inguinale et du membre inférieur
+C96.0	maladie de Letterer-Siwe des ganglions lymphatiques inguinaux et du membre inférieur
+C96.0	maladie de Letterer-Siwe des ganglions lymphatiques de la cavité pelvienne
+C96.0	maladie de Letterer-Siwe des ganglions lymphatiques pelviens
+C96.0	maladie de Letterer-Siwe de la rate
+C96.0	maladie de Letterer-Siwe splénique
+C96.0	maladie de Letterer-Siwe des ganglions lymphatiques de sièges multiples
+C96.7	tumeur maligne de type précisé des tissus lymphoïde, hématopoïétique et apparentés
+C96.2	tumeur maligne à mastocytes de siège non précisé, extra-ganglionnaire ou d'un organe solide
+C96.2	tumeur maligne à mastocytes des ganglions lymphatiques de la tête, de la face et du cou
+C96.2	tumeur maligne à mastocytes des ganglions lymphatiques thoraciques
+C96.2	tumeur maligne à mastocytes des ganglions lymphatiques du thorax
+C96.2	tumeur maligne à mastocytes des ganglions lymphatiques abdominaux
+C96.2	tumeur maligne à mastocytes des ganglions lymphatiques de l'abdomen
+C96.2	tumeur maligne à mastocytes des ganglions lymphatiques de l'aisselle et du membre supérieur
+C96.2	tumeur maligne à mastocytes des ganglions lymphatiques axillaires et du membre supérieur
+C96.2	tumeur maligne à mastocytes des ganglions lymphatiques de la région inguinale et du membre inférieur
+C96.2	tumeur maligne à mastocytes des ganglions lymphatiques inguinaux et du membre inférieur
+C96.2	tumeur maligne à mastocytes des ganglions lymphatiques de la cavité pelvienne
+C96.2	tumeur maligne à mastocytes des ganglions lymphatiques pelviens
+C96.2	tumeur maligne à mastocytes de la rate
+C96.2	tumeur maligne splénique à mastocytes
+C96.2	tumeur maligne à mastocytes des ganglions lymphatiques de sièges multiples
+C83.9	lymphome malin diffus non hodgkinien
+C83.8	lymphome malin diffus non hodgkinien de forme précisée
+C83.8	autre forme de lymphome malin diffus non hodgkinien
+C83.6	lymphome malin diffus indifférencié
+C83.5	lymphome malin diffus lymphoblastique (clinique)
+C83.4	lymphome malin diffus immunoblastique (clinique)
+C83.1	lymphome malin diffus à petites cellules encochées (clinique)
+C83.0	lymphome malin diffus à petites cellules (clinique)
+C83.3	lymphome malin diffus à grandes cellules (clinique)
+C82.0	lymphome malin folliculaire à petites cellules encochées (clinique)
+C82.1	lymphome malin mixte folliculaire à petites cellules encochées et à grandes cellules (clinique)
+C82.2	lymphome malin folliculaire à grandes cellules (clinique)
+C82.7	lymphome malin folliculaire de forme précisée (clinique)
+C85.7	lymphome malin non hodgkinien de type précisé (clinique)
+C84.2	lymphome de la zone T (clinique)
+C84.3	lymphome lympho-épithélioïde (clinique)
+C84.3	lymphome de Lennert (clinique)
+C84.4	lymphome périphérique à cellules T (clinique)
+C84.5	lymphome à cellules T, non précisé (clinique)
+C85.1	lymphome malin à cellules B (clinique)
+C88.9	maladie immunoproliférative maligne (clinique)
+C88.0	macroglobulinémie de Waldenström (clinique)
+C88.1	maladie des chaînes lourdes alpha (clinique)
+C88.2	maladie des chaînes lourdes gamma (clinique)
+C88.2	maladie de Franklin (clinique)
+C88.3	maladie immunoproliférative de l'intestin grêle (clinique)
+C88.3	lymphome méditerranéen (clinique)
+C88.7	maladie immunoproliférative maligne précisée (clinique)
+C90.2	tumeur maligne à plasmocytes (clinique)
+C90.2	plasmocytome extramédullaire (clinique)
+C90.2	plasmocytosarcome (clinique)
+C90.2	sarcome plasmocytaire (clinique)
+C96.3	lymphome histiocytaire vrai, siège non précisé (clinique)
+C96.9	tumeur maligne de la moelle osseuse
+C79.5	tumeur secondaire de la moelle osseuse
+C79.5	tumeur métastatique de la moelle osseuse
+C95.9	leucémie, en rémission
+C95.9	leucémie, sans mention de rémission
+C95.0	leucémie aiguë, en rémission
+C95.0	leucémie aiguë, sans mention de rémission
+C95.1	leucémie chronique, sans mention de rémission
+C95.1	leucémie chronique, en rémission
+C95.2	leucémie subaiguë, sans mention de rémission
+C95.2	leucémie subaiguë, en rémission
+C92.9	leucémie myéloïde, sans mention de rémission
+C92.9	leucémie myéloïde, en rémission
+C92.0	leucémie myéloïde aiguë sans mention de rémission
+C92.0	leucémie myéloïde aiguë en rémission
+C92.1	leucémie myéloïde chronique sans mention de rémission
+C92.1	leucémie myéloïde chronique en rémission
+C92.2	leucémie myéloïde subaiguë sans mention de rémission
+C92.2	leucémie myéloïde subaiguë en rémission
+C92.3	sarcome myélocytaire sans mention de rémission
+C92.3	sarcome myéloïde sans mention de rémission
+C92.3	chlorome sans mention de rémission
+C92.3	sarcome granulocytaire sans mention de rémission
+C92.3	sarcome myélocytaire en rémission
+C92.3	sarcome myéloïde en rémission
+C92.3	chlorome en rémission
+C92.3	sarcome granulocytaire en rémission
+C93.9	leucémie monocytaire, sans mention de rémission
+C93.9	leucémie monocytaire, en rémission
+C93.0	leucémie monocytaire aiguë sans mention de rémission
+C93.0	leucémie monocytaire aiguë en rémission
+C93.1	leucémie monocytaire chronique sans mention de rémission
+C93.1	leucémie monocytaire chronique en rémission
+C93.2	leucémie monocytaire subaiguë sans mention de rémission
+C93.2	leucémie monocytaire subaiguë en rémission
+C91.9	leucémie lymphoïde, sans mention de rémission
+C91.9	leucémie lymphoïde, en rémission
+C91.0	leucémie lymphoblastique aiguë sans mention de rémission
+C91.0	leucémie lymphoblastique aiguë en rémission
+C91.1	leucémie lymphoïde chronique sans mention de rémission
+C91.1	leucémie lymphoïde chronique en rémission
+C91.2	leucémie lymphoïde subaiguë sans mention de rémission
+C91.2	leucémie lymphoïde subaiguë en rémission
+C90.0	myélome multiple sans mention de rémission
+C90.0	maladie de Kahler sans mention de rémission
+C90.0	myélome multiple en rémission
+C90.0	maladie de Kahler en rémission
+C90.1	leucémie à plasmocytes sans mention de rémission
+C90.1	leucémie à plasmocytes en rémission
+C90.0	myélome multiple (clinique)
+C94.0	érythrémie aiguë sans mention de rémission
+C94.0	polyglobulie primitive aiguë sans mention de rémission
+C94.0	érythrémie aiguë en rémission
+C94.0	polyglobulie primitive aiguë en rémission
+C94.0	érythroleucémie sans mention de rémission
+C94.0	érythroleucose sans mention de rémission
+C94.0	érythroleucémie en rémission
+C94.0	érythroleucose en rémission
+C94.1	érythrémie chronique sans mention de rémission
+C94.1	polyglobulie primitive chronique sans mention de rémission
+C94.1	érythrémie chronique en rémission
+C94.1	polyglobulie primitive chronique en rémission
+C94.2	leucémie à mégacaryocytes sans mention de rémission
+C94.2	leucémie à mégacaryocytes en rémission
+C94.4	panmyélose aiguë (clinique)
+C94.5	myélofibrose aiguë (clinique)
+C94.3	leucémie à mastocytes (clinique)
+C94.7	leucémie à cellules lymphosarcomateuses (clinique)
+C94.7	leucosarcomatose (clinique)
+C92.4	leucémie promyélocytaire aiguë (clinique)
+C92.5	leucémie myélomonocytaire aiguë (clinique)
+C91.3	leucémie prolymphocytaire (clinique)
+C91.3	leucémie à prolymphocytes (clinique)
+C91.5	leucémie de l'adulte à cellules T (clinique)
+C91.5	leucémie à cellules T, type adulte (clinique)
+C92.7	leucémie myéloïde précisée (clinique)
+C93.7	leucémie monocytaire précisée (clinique)
+C91.7	leucémie lymphoïde précisée (clinique)
+C94.7	leucémie de type précisé (clinique)
+C95.7	leucémie à cellules non précisées
+C14.2	tumeur maligne de l'anneau lymphatique de Waldeyer
+C79.8	tumeur secondaire de l'anneau lymphatique de Waldeyer
+C79.8	tumeur métastatique de l'anneau lymphatique de Waldeyer
+C09.9	tumeur maligne de l'amygdale
+C09.9	tumeur maligne de l'amygdale palatine
+C79.8	tumeur secondaire de l'amygdale
+C79.8	tumeur métastatique de l'amygdale
+C79.8	tumeur métastatique de l'amygdale palatine
+C79.8	tumeur secondaire de l'amygdale palatine
+C09.8	tumeur maligne à localisations contiguës des amygdales
+C09.8	tumeur maligne à localisations contiguës des amygdales palatines
+C11.1	tumeur maligne de l'amygdale pharyngienne
+C79.8	tumeur secondaire de l'amygdale pharyngienne
+C79.8	tumeur métastatique de l'amygdale pharyngienne
+C02.4	tumeur maligne de l'amygdale linguale
+C79.8	tumeur secondaire de l'amygdale linguale
+C79.8	tumeur métastatique de l'amygdale linguale
+C26.1	tumeur maligne de la rate
+C26.1	tumeur maligne splénique
+C78.8	tumeur secondaire de la rate
+C78.8	tumeur secondaire splénique
+C78.8	tumeur métastatique splénique
+C78.8	tumeur métastatique de la rate
+C37	tumeur maligne du thymus
+C37	tumeur maligne thymique
+C79.8	tumeur secondaire du thymus
+C79.8	tumeur secondaire thymique
+C79.8	tumeur métastatique thymique
+C79.8	tumeur métastatique du thymus
+C77.9	tumeur secondaire des ganglions lymphatiques
+C77.9	tumeur secondaire ganglionnaire lymphatique
+C77.9	tumeur métastatique ganglionnaire lymphatique
+C77.9	tumeur métastatique des ganglions lymphatiques
+C77.0	tumeur secondaire des ganglions lymphatiques de la tête
+C77.0	tumeur métastatique des ganglions lymphatiques de la tête
+C77.0	tumeur secondaire des ganglions lymphatiques de la face
+C77.0	tumeur métastatique des ganglions lymphatiques de la face
+C77.0	tumeur secondaire des ganglions lymphatiques du cou
+C77.0	tumeur métastatique des ganglions lymphatiques du cou
+C77.0	tumeur secondaire des ganglions lymphatiques occipitaux
+C77.0	tumeur métastatique des ganglions lymphatiques occipitaux
+C77.0	tumeur secondaire des ganglions lymphatiques parotidiens
+C77.0	tumeur métastatique des ganglions lymphatiques parotidiens
+C77.0	tumeur secondaire des ganglions lymphatiques préauriculaires
+C77.0	tumeur métastatique des ganglions lymphatiques préauriculaires
+C77.0	tumeur secondaire des ganglions lymphatiques sous-maxillaires
+C77.0	tumeur métastatique des ganglions lymphatiques sous-maxillaires
+C77.0	tumeur secondaire des ganglions lymphatiques sous-mentonniers
+C77.0	tumeur métastatique des ganglions lymphatiques sous-mentonniers
+C77.0	tumeur secondaire des ganglions lymphatiques sus-claviculaires
+C77.0	tumeur métastatique des ganglions lymphatiques sus-claviculaires
+C77.0	tumeur secondaire des ganglions lymphatiques rétropharyngiens
+C77.0	tumeur métastatique des ganglions lymphatiques rétropharyngiens
+C77.0	tumeur secondaire des ganglions lymphatiques sous-claviculaires
+C77.0	tumeur métastatique des ganglions lymphatiques sous-claviculaires
+C77.0	tumeur secondaire des ganglions lymphatiques scalènes
+C77.0	tumeur métastatique des ganglions lymphatiques scalènes
+C77.1	tumeur secondaire des ganglions lymphatiques thoraciques
+C77.1	tumeur métastatique des ganglions lymphatiques thoraciques
+C77.1	tumeur secondaire des ganglions lymphatiques broncho-pulmonaires
+C77.1	tumeur métastatique des ganglions lymphatiques broncho-pulmonaires
+C77.1	tumeur métastatique des ganglions lymphatiques du hile pulmonaire
+C77.1	tumeur secondaire des ganglions lymphatiques du hile pulmonaire
+C77.1	tumeur secondaire des ganglions lymphatiques trachéo-bronchiques
+C77.1	tumeur métastatique des ganglions lymphatiques trachéo-bronchiques
+C77.1	tumeur secondaire des ganglions lymphatiques médiastinaux
+C77.1	tumeur métastatique des ganglions lymphatiques médiastinaux
+C77.1	tumeur secondaire des ganglions lymphatiques intercostaux
+C77.1	tumeur métastatique des ganglions lymphatiques intercostaux
+C77.2	tumeur secondaire des ganglions lymphatiques abdominaux
+C77.2	tumeur métastatique des ganglions lymphatiques abdominaux
+C77.2	tumeur secondaire des ganglions lymphatiques intestinaux
+C77.2	tumeur métastatique des ganglions lymphatiques intestinaux
+C77.2	tumeur secondaire des ganglions lymphatiques mésentériques
+C77.2	tumeur métastatique des ganglions lymphatiques mésentériques
+C77.2	tumeur secondaire des ganglions lymphatiques rétropéritonéaux
+C77.2	tumeur métastatique des ganglions lymphatiques rétropéritonéaux
+C77.3	tumeur secondaire des ganglions lymphatiques du membre supérieur
+C77.3	tumeur métastatique des ganglions lymphatiques du membre supérieur
+C77.3	tumeur secondaire des ganglions lymphatiques axillaires
+C77.3	tumeur métastatique des ganglions lymphatiques axillaires
+C77.3	tumeur secondaire des ganglions lymphatiques axillaires latéraux
+C77.3	tumeur métastatique des ganglions lymphatiques axillaires latéraux
+C77.3	tumeur métastatique des ganglions lymphatiques brachiaux
+C77.3	tumeur secondaire des ganglions lymphatiques brachiaux
+C77.3	tumeur secondaire des ganglions lymphatiques axillaires pectoraux
+C77.3	tumeur métastatique des ganglions lymphatiques axillaires pectoraux
+C77.3	tumeur secondaire des ganglions lymphatiques de la chaîne mammaime externe
+C77.3	tumeur secondaire de la chaîne ganglionnaire mammaire externe
+C77.3	tumeur métastatique de la chaîne ganglionnaire mammaire externe
+C77.3	tumeur métastatique des ganglions lymphatiques de la chaîne mammaire externe
+C77.3	tumeur secondaire des ganglions lymphatiques cubitaux
+C77.3	tumeur métastatique des ganglions lymphatiques cubitaux
+C77.3	tumeur secondaire des ganglions lymphatiques épitrochléens
+C77.3	tumeur métastatique des ganglions lymphatiques épitrochléens
+C77.4	tumeur secondaire des ganglions lymphatiques du membre inférieur
+C77.4	tumeur métastatique des ganglions lymphatiques du membre inférieur
+C77.4	tumeur secondaire des ganglions lymphatiques inguinaux
+C77.4	tumeur métastatique des ganglions lymphatiques inguinaux
+C77.4	tumeur secondaire des ganglions lymphatiques inguinaux superficiels
+C77.4	tumeur métastatique des ganglions lymphatiques inguinaux superficiels
+C77.4	tumeur secondaire des ganglions lymphatiques fémoraux
+C77.4	tumeur métastatique des ganglions lymphatiques fémoraux
+C77.4	tumeur secondaire des ganglions lymphatiques poplités
+C77.4	tumeur métastatique des ganglions lymphatiques poplités
+C77.4	tumeur secondaire des ganglions lymphatiques tibiaux
+C77.4	tumeur métastatique des ganglions lymphatiques tibiaux
+C77.5	tumeur secondaire des ganglions lymphatiques de la cavité pelvienne
+C77.5	tumeur secondaire des ganglions lymphatiques intrapelviens
+C77.5	tumeur métastatique des ganglions lymphatiques intrapelviens
+C77.5	tumeur métastatique des ganglions lymphatiques de la cavité pelvienne
+C77.5	tumeur secondaire des ganglions lymphatiques iliaques
+C77.5	tumeur métastatique des ganglions lymphatiques iliaques
+C77.5	tumeur secondaire des ganglions lymphatiques obturateurs
+C77.5	tumeur métastatique des ganglions lymphatiques obturateurs
+C77.5	tumeur secondaire des ganglions lymphatiques hypogastriques
+C77.5	tumeur métastatique des ganglions lymphatiques hypogastriques
+C77.5	tumeur secondaire des ganglions lymphatiques du paramètre
+C77.5	tumeur métastatique des ganglions lymphatiques du paramètre
+C77.5	tumeur secondaire des ganglions lymphatiques paravaginaux
+C77.5	tumeur métastatique des ganglions lymphatiques paravaginaux
+C77.5	tumeur secondaire des ganglions lymphatiques pararectaux
+C77.5	tumeur métastatique des ganglions lymphatiques pararectaux
+C77.8	tumeur secondaire des ganglions lymphatiques de sièges multiples
+C77.8	tumeur métastatique des ganglions lymphatiques de sièges multiples
+C80	maladie néoplasique
+C80	syndrome néoplasique
+C80	maladie néoplasique maligne
+C80	maladie néoplasique familiale
+C80	syndrome paranéoplasique

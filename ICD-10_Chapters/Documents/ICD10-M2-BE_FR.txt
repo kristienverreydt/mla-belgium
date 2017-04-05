@@ -1,0 +1,1520 @@
+M1A.4621	autre goutte chronique secondaire, genou gauche, avec tophus 
+M1A.4690	autre goutte chronique secondaire, genou non spécifié, sans tophus 
+M1A.4691	autre goutte chronique secondaire, genou non spécifié, avec tophus 
+M1A.4710	autre goutte chronique secondaire, cheville et pied droits, sans tophus 
+M1A.4711	autre goutte chronique secondaire, cheville et pied droits, avec tophus 
+M1A.4720	autre goutte chronique secondaire, cheville et pied gauches, sans tophus 
+M1A.4721	autre goutte chronique secondaire, cheville et pied gauches, avec tophus 
+M1A.4790	autre goutte chronique secondaire, cheville et pied non spécifiés, sans tophus 
+M1A.4791	autre goutte chronique secondaire, cheville et pied non spécifiés, avec tophus 
+M1A.48X0	autre goutte chronique secondaire, vertèbres, sans tophus 
+M1A.48X1	autre goutte chronique secondaire, vertèbres, avec tophus 
+M1A.49X0	autre goutte chronique secondaire, multiples sites, sans tophus 
+M1A.49X1	autre goutte chronique secondaire, multiples sites, avec tophus 
+M1A.9XX0	goutte chronique, sans précision, sans tophus 
+M1A.9XX1	goutte chronique, sans précision, avec tophus 
+M20.1	déformation non spécifiée de doigt(s) droit(s)
+M20.2	déformation non spécifiée de doigt(s) gauche(s)
+M20.9	déformation non spécifiée de doigt(s) non précisé(s)
+M20.11	déformation en maillet, doigt(s) droit(s)
+M20.12	déformation en maillet, doigt(s) gauche(s)
+M20.19	déformation en maillet, doigt(s) non spécifié(s)
+M20.21	déformation en boutonnière de doigt(s) droit(s)
+M20.22	déformation en boutonnière de doigt(s) gauche(s)
+M20.29	déformation en boutonnière de doigt(s) non spécifié(s)
+M20.31	déformation en col de cygne de doigt(s) droit(s)
+M20.32	déformation en col de cygne de doigt(s) gauche(s)
+M20.39	déformation en col de cygne de doigt(s) non spécifié(s)
+M20.91	autre déformation de doigt(s) droit(s)
+M20.92	autre déformation de doigt(s) gauche(s)
+M20.99	autre déformation de doigt(s) non spécifié(s)
+M20.10	hallux valgus (acquis), pied non spécifié
+M20.11	hallux valgus (acquis), pied droit
+M20.12	hallux valgus (acquis), pied gauche
+M20.20	hallux rigidus, pied non spécifié
+M20.21	hallux rigidus, pied droit
+M20.22	hallux rigidus, pied gauche
+M20.30	hallux varus (acquis), pied non spécifié
+M20.31	hallux varus (acquis), pied droit
+M20.32	hallux varus (acquis), pied gauche
+M20.40	autre orteil(s) en marteau (acquis), pied non spécifié
+M20.41	autre orteil(s) en marteau (acquis), pied droit
+M20.42	autre orteil(s) en marteau (acquis), pied gauche
+M20.5X1	d'autres déformations d'orteil(s) (acquises), pied droit
+M20.5X2	d'autres déformations d'orteil(s) (acquises), pied gauche
+M20.5X9	d'autres déformations d'orteil(s) (acquises), pied non spécifié
+M20.60	déformations d'orteil(s) (acquises), pied non spécifié
+M20.61	déformations d'orteil(s) (acquises), pied non spécifié
+M20.62	déformations d'orteil(s) (acquises), pied non spécifié
+M21.0	déformation en valgus, non classée ailleurs, site non spécifié
+M21.21	déformation en valgus, non classée ailleurs, coude droit
+M21.22	déformation en valgus, non classée ailleurs, coude gauche
+M21.29	déformation en valgus, non classée ailleurs, coude non spécifié
+M21.51	déformation en valgus, non classée ailleurs, hanche droite
+M21.52	déformation en valgus, non classée ailleurs, hanche gauche
+M21.59	déformation en valgus, non classée ailleurs, hanche non spécifiée
+M21.61	déformation en valgus, non classée ailleurs, genou droit
+M21.62	déformation en valgus, non classée ailleurs, genou gauche
+M21.69	déformation en valgus, non classée ailleurs, genou non spécifié
+M21.71	déformation en valgus, non classée ailleurs, cheville droite
+M21.72	déformation en valgus, non classée ailleurs, cheville gauche
+M21.79	déformation en valgus, non classée ailleurs, cheville non spécifiée
+M21.10	déformation en varus, non classée ailleurs, site non spécifié
+M21.121	déformation en varus, non classée ailleurs, coude droit
+M21.122	déformation en varus, non classée ailleurs, coude gauche
+M21.129	déformation en varus, non classée ailleurs, coude non spécifié
+M21.151	déformation en varus, non classée ailleurs, hanche droite
+M21.152	déformation en varus, non classée ailleurs, hanche gauche
+M21.159	déformation en varus, non classée ailleurs, hanche non spécifiée
+M21.161	déformation en varus, non classée ailleurs, genou droit
+M21.162	déformation en varus, non classée ailleurs, genou gauche
+M21.169	déformation en varus, non classée ailleurs, genou non spécifié
+M21.171	déformation en varus, non classée ailleurs, cheville droite
+M21.172	déformation en varus, non classée ailleurs, cheville gauche
+M21.179	déformation en varus, non classée ailleurs, cheville non spécifiée
+M21.20	déformation en flexion, site non spécifié
+M21.211	déformation en flexion, épaule droite
+M21.212	déformation en flexion, épaule gauche
+M21.219	déformation en flexion, épaule non spécifiée
+M21.221	déformation en flexion, coude droit
+M21.222	déformation en flexion, coude gauche
+M21.229	déformation en flexion, coude non spécifié
+M21.231	déformation en flexion, poignet droit
+M21.232	déformation en flexion, poignet gauche
+M21.239	déformation en flexion, poignet non spécifié
+M21.241	déformation en flexion, articulations du doigt droites
+M21.242	déformation en flexion, articulations du doigt gauches
+M21.249	déformation en flexion, articulations d'un doigt non spécifiés
+M21.251	déformation en flexion, hanche droite
+M21.252	déformation en flexion, hanche gauche
+M21.259	déformation en flexion, hanche non spécifiée
+M21.261	déformation en flexion, genou droit
+M21.262	déformation en flexion, genou gauche
+M21.269	déformation en flexion, genou non spécifié
+M21.271	déformation en flexion, cheville et orteils droits
+M21.272	déformation en flexion, cheville et orteils gauches
+M21.279	déformation en flexion, cheville et orteils non spécifiés
+M21.331	poignet tombant, poignet droit
+M21.332	poignet tombant, poignet gauche
+M21.339	poignet tombant, poignet non spécifié
+M21.371	pied tombant, pied droit
+M21.372	pied tombant, pied gauche
+M21.379	pied tombant, pied non spécifié
+M21.40	pied plat, pied non spécifié
+M21.41	pied plat, pied droit
+M21.42	pied plat, pied gauche
+M21.511	main en griffe acquise, main droite
+M21.512	main en griffe acquise, main gauche
+M21.519	main en griffe acquise, main non spécifiée
+M21.521	main botte acquise, main droite
+M21.522	main botte acquise, main gauche
+M21.529	main botte acquise, main non spécifiée
+M21.531	pied en griffe acquis, pied droit
+M21.532	pied en griffe acquis, pied gauche
+M21.539	pied en griffe acquis, pied non spécifié
+M21.541	pied bot acquis, pied droit
+M21.542	pied bot acquis, pied gauche
+M21.549	pied bot acquis, pied non spécifié
+M21.6X1	d'autres déformations acquises du pied droit
+M21.6X2	d'autres déformations acquises du pied gauche
+M21.6X9	d'autres déformations acquises d'un pied non spécifié
+M21.70	inégalité d'un membre (acquise), site non spécifié
+M21.721	inégalité d'un membre (acquise), humérus droit
+M21.722	inégalité d'un membre (acquise), humérus gauche
+M21.729	inégalité d'un membre (acquise), humérus non spécifié
+M21.731	inégalité d'un membre (acquise), cubitus droit
+M21.732	inégalité d'un membre (acquise), cubitus gauche
+M21.733	inégalité d'un membre (acquise), radius droit
+M21.734	inégalité d'un membre (acquise), radius gauche
+M21.739	inégalité d'un membre (acquise), cubitus et radius non spécifiés
+M21.751	inégalité d'un membre (acquise), fémur droit
+M21.752	inégalité d'un membre (acquise), fémur gauche
+M21.759	inégalité d'un membre (acquise), fémur non spécifié
+M21.761	inégalité d'un membre (acquise), tibia droit
+M21.762	inégalité d'un membre (acquise), tibia gauche
+M21.763	inégalité d'un membre (acquise), péroné droit
+M21.764	inégalité d'un membre (acquise), péroné gauche
+M21.769	inégalité d'un membre (acquise), tibia et péroné non spécifiés
+M21.80	d'autres déformations acquises spécifiées d'un membre non précisé
+M21.821	d'autres déformations acquises spécifiées du bras droit
+M21.822	d'autres déformations acquises spécifiées du bras gauche
+M21.829	d'autres déformations acquises spécifiées d'un bras non précisé
+M21.831	d'autres déformations acquises spécifiées de l'avant-bras droit
+M21.832	d'autres déformations acquises spécifiées de l'avant-bras gauche
+M21.839	d'autres déformations acquises spécifiées d'un avant-bras non précisé
+M21.851	d'autres déformations acquises spécifiées de la cuisse droite
+M21.852	d'autres déformations acquises spécifiées de la cuisse gauche
+M21.859	d'autres déformations acquises spécifiées d'une cuisse non précisée
+M21.861	d'autres déformations acquises spécifiées de la jambe droite
+M21.862	d'autres déformations acquises spécifiées de la jambe gauche
+M21.869	d'autres déformations acquises spécifiées d'une jambe non précisée
+M21.90	déformation acquise non spécifiée d'un membre non précisé
+M21.921	déformation acquise non spécifiée du bras droit
+M21.922	déformation acquise non spécifiée du bras gauche
+M21.929	déformation acquise non spécifiée d'un bras non précisé
+M21.931	déformation acquise non spécifiée de l'avant-bras droit
+M21.932	déformation acquise non spécifiée de l'avant-bras gauche
+M21.939	déformation acquise non spécifiée d'un avant-bras non précisé
+M21.941	déformation acquise non spécifiée de la main, main droite
+M21.942	déformation acquise non spécifiée de la main, main gauche
+M21.949	déformation acquise non spécifiée de la main, main non précisée
+M21.951	déformation acquise non spécifiée de la cuisse droite
+M21.952	déformation acquise non spécifiée de la cuisse gauche
+M21.959	déformation acquise non spécifiée d'une cuisse non précisée
+M21.961	déformation acquise non spécifiée de la jambe droite
+M21.962	déformation acquise non spécifiée de la jambe gauche
+M21.969	déformation acquise non spécifiée d'une jambe non précisée
+M22.0	luxation récidivante de la rotule, genou non spécifié
+M22.1	luxation récidivante de la rotule, genou droit
+M22.2	luxation récidivante de la rotule, genou gauche
+M22.10	subluxation récidivante de la rotule, genou non spécifié
+M22.11	subluxation récidivante de la rotule, genou droit
+M22.12	subluxation récidivante de la rotule, genou gauche
+M22.2X1	troubles fémoro-patellaires, genou droit
+M22.2X2	troubles fémoro-patellaires, genou gauche
+M22.2X9	troubles fémoro-patellaires, genou non spécifié
+M22.3X1	d'autres dérangements de la rotule, genou droit
+M22.3X2	d'autres dérangements de la rotule, genou gauche
+M22.3X9	d'autres dérangements de la rotule, genou non spécifié
+M22.40	rotule chondromalacique, genou non spécifié
+M22.41	rotule chondromalacique, genou droit
+M22.42	rotule chondromalacique, genou gauche
+M22.8X1	d'autres troubles de la rotule, genou droit
+M22.8X2	d'autres troubles de la rotule, genou gauche
+M22.8X9	d'autres troubles de la rotule, genou non spécifié
+M22.90	trouble non spécifié de la rotule, genou non précisé
+M22.91	trouble non spécifié de la rotule, genou droit
+M22.92	trouble non spécifié de la rotule, genou gauche
+M23.0	kyste du ménisque externe, site non spécifié, genou droit
+M23.1	kyste du ménisque externe, site non spécifié, genou gauche
+M23.2	kyste du ménisque externe, site non spécifié, genou non précisé
+M23.3	kyste du ménisque interne, site non spécifié, genou droit
+M23.4	kyste du ménisque interne, site non spécifié, genou gauche
+M23.5	kyste du ménisque interne, site non spécifié, genou non précisé
+M23.6	kyste du ménisque, ménisque non spécifié, genou droit
+M23.7	kyste du ménisque, ménisque non spécifié, genou gauche
+M23.9	kyste du ménisque, ménisque non spécifié, genou non précisé
+M23.11	kyste de la corne antérieure du ménisque interne, genou droit
+M23.12	kyste de la corne antérieure du ménisque interne, genou gauche
+M23.19	kyste de la corne antérieure du ménisque interne, genou non spécifié
+M23.21	kyste de de la corne potérieure du ménisque interne, genou droit
+M23.22	kyste de la corne postérieure du ménisque interne, genou gauche
+M23.29	kyste de la corne postérieure du ménisque interne, genou non spécifié
+M23.31	autre kyste du ménisque interne, genou droit
+M23.32	autre kyste du ménisque interne, genou gauche
+M23.39	autre kyste du ménisque interne, genou non spécifié
+M23.41	kyste de la corne antérieure du ménisque externe, genou droit
+M23.42	kyste de la corne antérieure du ménisque externe, genou gauche
+M23.49	kyste de la corne antérieure du ménisque externe, genou non spécifié
+M23.51	kyste de la corne postérieure du ménisque externe, genou droit
+M23.52	kyste de la corne postérieure du ménisque externe, genou gauche
+M23.59	kyste de la corne postérieure du ménisque externe, genou non spécifié
+M23.61	autre kyste du ménisque externe, genou droit
+M23.62	autre kyste du ménisque externe, genou gauche
+M23.69	autre kyste du ménisque externe, genou non spécifié
+M23.200	lésion du ménisque externe, site non spécifié, due à une déchirure ou un traumatisme ancien(ne), genou droit
+M23.201	lésion du ménisque externe, site non spécifié, due à une déchirure ou un traumatisme ancien(ne), genou gauche
+M23.202	lésion du ménisque externe, site non spécifié, due à une déchirure ou un traumatisme ancien(ne), genou non précisé
+M23.203	lésion du ménisque interne, site non spécifié, due à une déchirure ou un traumatisme ancien(ne), genou droit
+M23.204	lésion du ménisque interne, site non spécifié, due à une déchirure ou un traumatisme ancien(ne), genou gauche
+M23.205	lésion du ménisque interne, site non spécifié, due à une déchirure ou un traumatisme ancien(ne), genou non précisé
+M23.206	lésion d'un ménisque non spécifié due à une déchirure ou un traumatisme ancien(ne), genou droit
+M23.207	lésion d'un ménisque non spécifié due à une déchirure ou un traumatisme ancien(ne), genou gauche
+M23.209	lésion d'un ménisque non spécifié due à une déchirure ou un traumatisme ancien(ne), genou non précisé
+M23.211	lésion de la corne antérieure du ménisque interne due à une déchirure ou un traumatisme ancien(ne), genou droit
+M23.212	lésion de la corne antérieure du ménisque interne due à une déchirure ou un traumatisme ancien(ne), genou gauche
+M23.219	lésion de la corne antérieure du ménisque interne due à une déchirure ou un traumatisme ancien(ne), genou non spécifié
+M23.221	lésion de la corne postérieure du ménisque interne due à une déchirure ou un traumatisme ancien(ne), genou droit
+M23.222	lésion de la corne postérieure du ménisque interne due à une déchirure ou un traumatisme ancien(ne), genou gauche
+M23.229	lésion de la corne postérieure du ménisque interne due à une déchirure ou un traumatisme ancien(ne), genou non spécifié
+M23.231	lésion d'autres zones du interne due à une déchirure ou un traumatisme ancien(ne), genou droit
+M23.232	lésion d'autres zones du interne due à une déchirure ou un traumatisme ancien(ne), genou gauche
+M23.239	lésion d'autres zones du interne due à une déchirure ou un traumatisme ancien(ne), genou non spécifié
+M23.241	lésion de la corne antérieure du ménisque externe due à une déchirure ou un traumatisme ancien(ne), genou droit
+M23.242	lésion de la corne antérieure du ménisque externe due à une déchirure ou un traumatisme ancien(ne), genou gauche
+M23.249	lésion de la corne antérieure du ménisque externe due à une déchirure ou un traumatisme ancien(ne), genou non spécifié
+M23.251	lésion de la corne postérieure du ménisque externe due à une déchirure ou un traumatisme ancien(ne), genou droit
+M23.252	lésion de la corne postérieure du ménisque externe due à une déchirure ou un traumatisme ancien(ne), genou gauche
+M23.259	lésion de la corne postérieure du ménisque externe due à une déchirure ou un traumatisme ancien(ne), genou non spécifié
+M23.261	autre lésion du ménisque externe due à une déchirure ou un traumatisme ancien(ne), genou droit
+M23.262	autre lésion du ménisque externe due à une déchirure ou un traumatisme ancien(ne), genou gauche
+M23.269	autre lésion du ménisque externe due à une déchirure ou un traumatisme ancien(ne), genou non spécifié
+M23.300	d'autres lésions du ménisque externe, site non spécifié, genou droit
+M23.301	d'autres lésions du ménisque externe, site non spécifié, genou gauche
+M23.302	d'autres lésions du ménisque externe, site non spécifié,genou non précisé
+M23.303	d'autres lésions du ménisque interne, site non spécifié, genou droit
+M23.304	d'autres lésions du ménisque interne, site non spécifié, genou gauche
+M23.305	d'autres lésions du ménisque interne, site non spécifié, genou non précisé
+M23.306	d'autres lésions d'un ménisque, non spécifié, genou droit
+M23.307	d'autres lésions d'un ménisque,  non spécifié, genou gauche
+M23.309	d'autres lésions d'un ménisque,  non spécifié, genou non précisé
+M23.311	d'autres lésions de la corne antérieure du ménisque interne, genou droit
+M23.312	d'autres lésions de la corne antérieure du ménisque interne, genou gauche
+M23.319	d'autres lésions de la corne antérieure du ménisque interne, genou non spécifié
+M23.321	d'autres lésions de la corne postérieure du ménisque interne, genou droit
+M23.322	d'autres lésions de la corne postérieure du ménisque interne, genou gauche
+M23.329	d'autres lésions de la corne postérieure du ménisque interne, genou non spécifié
+M23.331	d'autres lésions du ménisque interne, genou droit
+M23.332	d'autres lésions du ménisque interne, genou gauche
+M23.339	d'autres lésions du ménisque interne, genou non spécifié
+M23.341	d'autres lésions de la corne antérieure du ménisque externe, genou droit
+M23.342	d'autres lésions de la corne antérieure du ménisque externe, genou gauche
+M23.349	d'autres lésions de la corne antérieure du ménisque externe, genou non spécifié
+M23.351	d'autres lésions de la corne postérieure du ménisque externe, genou droit
+M23.352	d'autres lésions de la corne postérieure du ménisque externe, genou gauche
+M23.359	d'autres lésions de la corne postérieure du ménisque externe, genou non spécifié
+M23.361	d'autres lésions du ménisque externe, genou droit
+M23.362	d'autres lésions du ménisque externe, genou gauche
+M23.369	d'autres lésions du ménisque externe, genou non spécifié
+M23.40	souris intra-articulaire du genou, genou non spécifié
+M23.41	souris intra-articulaire du genou, genou droit
+M23.42	souris intra-articulaire du genou, genou gauche
+M23.50	instabilité chronique du genou, genou non spécifié
+M23.51	instabilité chronique du genou, genou droit
+M23.52	instabilité chronique du genou, genou gauche
+M23.601	autre rupture spontanée d'un ligament non spécifié du genou droit
+M23.602	autre rupture spontanée d'un ligament non spécifié du genou gauche
+M23.609	autre rupture spontanée d'un ligament non spécifié d'un genou non précisé
+M23.611	autre rupture spontanée du ligament croisé antérieur du genou droit
+M23.612	autre rupture spontanée du ligament croisé antérieur du genou gauche
+M23.619	autre rupture spontanée du ligament croisé antérieur d'un genou non spécifié
+M23.621	autre rupture spontanée du ligament croisé postérieur du genou droit
+M23.622	autre rupture spontanée du ligament croisé postérieur du genou gauche
+M23.629	autre rupture spontanée du ligament croisé postérieur d'un genou non spécifié
+M23.631	autre rupture spontanée du ligament collatéral interne du genou droit
+M23.632	autre rupture spontanée du ligament collatéral interne du genou gauche
+M23.639	autre rupture spontanée du ligament collatéral interne d'un genou non spécifié
+M23.641	autre rupture spontanée du ligament collatéral externe du genou droit
+M23.642	autre rupture spontanée du ligament collatéral externe du genou gauche
+M23.649	autre rupture spontanée du ligament collatéral externe d'un genou non spécifié
+M23.671	autre rupture spontanée du ligament articulaire du genou droit
+M23.672	autre rupture spontanée du ligament articulaire du genou gauche
+M23.679	autre rupture spontanée du ligament articulaire d'un genou non spécifié
+M23.8X1	d'autres lésions internes du genou droit
+M23.8X2	d'autres lésions internes du genou gauche
+M23.8X9	d'autres lésions internes d'un genou non spécifié
+M23.90	lésion interne non spécifiée du genou non précisé
+M23.91	lésion interne non spécifiée du genou droit
+M23.92	lésion interne non spécifiée du genou gauche
+M24.0	souris intra-articulaire d'une articulation non spécifiée
+M24.11	souris intra-articulaire de l'épaule droite
+M24.12	souris intra-articulaire de l'épaule gauche
+M24.19	souris intra-articulaire d'une épaule non spécifiée
+M24.21	souris intra-articulaire du coude droit
+M24.22	souris intra-articulaire du coude gauche
+M24.29	souris intra-articulaire d'un coude non spécifié
+M24.31	souris intra-articulaire du poignet droit
+M24.32	souris intra-articulaire du poignet gauche
+M24.39	souris intra-articulaire d'un poignet non spécifié
+M24.41	souris intra-articulaire d'articulation(s) d'un doigt droit
+M24.42	souris intra-articulaire d'articulation(s) d'un doigt gauche
+M24.49	souris intra-articulaire d'articulation(s) d'un doigt non spécifié
+M24.51	souris intra-articulaire de la hanche droite
+M24.52	souris intra-articulaire de la hanche gauche
+M24.59	souris intra-articulaire d'une hanche non spécifiée
+M24.71	souris intra-articulaire de la cheville droite
+M24.72	souris intra-articulaire de la cheville gauche
+M24.73	souris intra-articulaire d'une cheville non spécifiée
+M24.74	souris intra-articulaire d'articulation(s) de l'orteil droit
+M24.75	souris intra-articulaire d'articulation(s) de l'orteil gauche
+M24.76	souris intra-articulaire d'articulation(s) d'un orteil non spécifié
+M24.8	souris intra-articulaire, autre site
+M24.10	d'autres atteintes du cartilage articulaire, site non spécifié
+M24.111	d'autres atteintes du cartilage articulaire, épaule droite
+M24.112	d'autres atteintes du cartilage articulaire, épaule gauche
+M24.119	d'autres atteintes du cartilage articulaire, épaule non spécifiée
+M24.121	d'autres atteintes du cartilage articulaire, coude droit
+M24.122	d'autres atteintes du cartilage articulaire, coude gauche
+M24.129	d'autres atteintes du cartilage articulaire, coude non spécifié
+M24.131	d'autres atteintes du cartilage articulaire, poignet droit
+M24.132	d'autres atteintes du cartilage articulaire, poignet gauche
+M24.139	d'autres atteintes du cartilage articulaire, poignet non spécifié
+M24.141	d'autres atteintes du cartilage articulaire, main droite
+M24.142	d'autres atteintes du cartilage articulaire, main gauche
+M24.149	d'autres atteintes du cartilage articulaire, main non spécifiée
+M24.151	d'autres atteintes du cartilage articulaire, hanche droite
+M24.152	d'autres atteintes du cartilage articulaire, hanche gauche
+M24.159	d'autres atteintes du cartilage articulaire, hanche non spécifiée
+M24.171	d'autres atteintes du cartilage articulaire, cheville droite
+M24.172	d'autres atteintes du cartilage articulaire, cheville gauche
+M24.173	d'autres atteintes du cartilage articulaire, cheville non spécifiée
+M24.174	d'autres atteintes du cartilage articulaire, pied droit
+M24.175	d'autres atteintes du cartilage articulaire, pied gauche
+M24.176	d'autres atteintes du cartilage articulaire, pied non spécifié
+M24.20	lésion ligamentaire, site non spécifié
+M24.211	lésion ligamentaire, épaule droite
+M24.212	lésion ligamentaire, épaule gauche
+M24.219	lésion ligamentaire, épaule non spécifiée
+M24.221	lésion ligamentaire, coude droit
+M24.222	lésion ligamentaire, coude gauche
+M24.229	lésion ligamentaire, coude non spécifié
+M24.231	lésion ligamentaire, poignet droit
+M24.232	lésion ligamentaire, poignet gauche
+M24.239	lésion ligamentaire, poignet non spécifié
+M24.241	lésion ligamentaire, main droite
+M24.242	lésion ligamentaire, main gauche
+M24.249	lésion ligamentaire, main non spécifiée
+M24.251	lésion ligamentaire, hanche droite
+M24.252	lésion ligamentaire, hanche gauche
+M24.259	lésion ligamentaire, hanche non spécifiée
+M24.271	lésion ligamentaire, cheville droite
+M24.272	lésion ligamentaire, cheville gauche
+M24.273	lésion ligamentaire, cheville non spécifiée
+M24.274	lésion ligamentaire, pied droit
+M24.275	lésion ligamentaire, pied gauche
+M24.276	lésion ligamentaire, pied non spécifié
+M24.28	lésion ligamentaire, vertèbres
+M24.30	luxation pathologique d'une articulation non spécifiée, non classée ailleurs
+M24.311	luxation pathologique de l'épaule droite, non classée ailleurs
+M24.312	luxation pathologique de l'épaule gauche, non classée ailleurs
+M24.319	luxation pathologique d'une épaule non spécifiée, non classée ailleurs
+M24.321	luxation pathologique du coude droit, non classée ailleurs
+M24.322	luxation pathologique du coude gauche, non classée ailleurs
+M24.329	luxation pathologique d'un coude non spécifié, non classée ailleurs
+M24.331	luxation pathologique du poignet droit, non classée ailleurs
+M24.332	luxation pathologique du poignet gauche, non classée ailleurs
+M24.339	luxation pathologique d'un poignet non spécifié, non classée ailleurs
+M24.341	luxation pathologique de la main droite, non classée ailleurs
+M24.342	luxation pathologique de la main gauche, non classée ailleurs
+M24.349	luxation pathologique d'une main non spécifiée, non classée ailleurs
+M24.351	luxation pathologique de la hanche droite, non classée ailleurs
+M24.352	luxation pathologique de la hanche gauche, non classée ailleurs
+M24.359	luxation pathologique d'une hanche non spécifiée, non classée ailleurs
+M24.361	luxation pathologique du genou droit, non classée ailleurs
+M24.362	luxation pathologique du genou gauche, non classée ailleurs
+M24.369	luxation pathologique du genou non spécifié, non classée ailleurs
+M24.371	luxation pathologique de la cheville droite, non classée ailleurs
+M24.372	luxation pathologique de la cheville gauche, non classée ailleurs
+M24.373	luxation pathologique d'une cheville non spécifiée, non classée ailleurs
+M24.374	luxation pathologique du pied droit, non classée ailleurs
+M24.375	luxation pathologique du pied gauche, non classée ailleurs
+M24.376	luxation pathologique d'un pied non spécifié, non classée ailleurs
+M24.40	luxation récidivante, articulation non spécifiée
+M24.411	luxation récidivante, épaule droite
+M24.412	luxation récidivante, épaule gauche
+M24.419	luxation récidivante, épaule non spécifiée
+M24.421	luxation récidivante, coude droit
+M24.422	luxation récidivante, coude gauche
+M24.429	luxation récidivante, coude non spécifié
+M24.431	luxation récidivante, poignet droit
+M24.432	luxation récidivante, poignet gauche
+M24.439	luxation récidivante, poignet non spécifié
+M24.441	luxation récidivante, main droite
+M24.442	luxation récidivante, main gauche
+M24.443	luxation récidivante, main non spécifiée
+M24.444	luxation récidivante, doigt droit
+M24.445	luxation récidivante, doigt gauche
+M24.446	luxation récidivante, doigt non spécifié
+M24.451	luxation récidivante, hanche droite
+M24.452	luxation récidivante, hanche gauche
+M24.459	luxation récidivante, hanche non spécifiée
+M24.461	luxation récidivante, genou droit
+M24.462	luxation récidivante, genou gauche
+M24.469	luxation récidivante, genou non spécifié
+M24.471	luxation récidivante, cheville droite
+M24.472	luxation récidivante, cheville gauche
+M24.473	luxation récidivante, cheville non spécifiée
+M24.474	luxation récidivante, pied droit
+M24.475	luxation récidivante, pied gauche
+M24.476	luxation récidivante, pied non spécifié
+M24.477	luxation récidivante, orteil(s) droit(s)
+M24.478	luxation récidivante, orteil(s) gauche(s)
+M24.479	luxation récidivante, orteil(s) non spécifié(s)
+M24.50	raideur articulaire par contracture, articulation non spécifiée
+M24.511	raideur articulaire par contracture, épaule droite
+M24.512	raideur articulaire par contracture, épaule gauche
+M24.519	raideur articulaire par contracture, épaule non spécifiée
+M24.521	raideur articulaire par contracture, coude droit
+M24.522	raideur articulaire par contracture, coude gauche
+M24.529	raideur articulaire par contracture, coude non spécifié
+M24.531	raideur articulaire par contracture, poignet droit
+M24.532	raideur articulaire par contracture, poignet gauche
+M24.539	raideur articulaire par contracture, poignet non spécifié
+M24.541	raideur articulaire par contracture, main droite
+M24.542	raideur articulaire par contracture, main gauche
+M24.549	raideur articulaire par contracture, main non spécifiée
+M24.551	raideur articulaire par contracture, hanche droite
+M24.552	raideur articulaire par contracture, hanche gauche
+M24.559	raideur articulaire par contracture, hanche non spécifiée
+M24.561	raideur articulaire par contracture, genou droit
+M24.562	raideur articulaire par contracture, genou gauche
+M24.569	raideur articulaire par contracture, genou non spécifié
+M24.571	raideur articulaire par contracture, cheville droite
+M24.572	raideur articulaire par contracture, cheville gauche
+M24.573	raideur articulaire par contracture, cheville non spécifiée
+M24.574	raideur articulaire par contracture, pied droit
+M24.575	raideur articulaire par contracture, pied gauche
+M24.576	raideur articulaire par contracture, pied non spécifié
+M24.60	ankylose, articulation non spécifiée
+M24.611	ankylose, épaule droite
+M24.612	ankylose, épaule gauche
+M24.619	ankylose, épaule non spécifiée
+M24.621	ankylose, coude droit
+M24.622	ankylose, coude gauche
+M24.629	ankylose, coude non spécifié
+M24.631	ankylose, poignet droit
+M24.632	ankylose, poignet gauche
+M24.639	ankylose, poignet non spécifié
+M24.641	ankylose, main droite
+M24.642	ankylose, main gauche
+M24.649	ankylose, main non spécifiée
+M24.651	ankylose, hanche droite
+M24.652	ankylose, hanche gauche
+M24.659	ankylose, hanche non spécifiée
+M24.661	ankylose, genou droit
+M24.662	ankylose, genou gauche
+M24.669	ankylose, genou non spécifié
+M24.671	ankylose, cheville droite
+M24.672	ankylose, cheville gauche
+M24.673	ankylose, cheville non spécifiée
+M24.674	ankylose, pied droit
+M24.675	ankylose, pied gauche
+M24.676	ankylose, pied non spécifié
+M24.7	protrusion acétabulaire
+M24.80	d'autres lésions articulaires spécifiques d'une articulation non spécifiée, non classée ailleurs
+M24.811	d'autres lésions articulaires spécifiques de l'épaule droite, non classée ailleurs
+M24.812	d'autres lésions articulaires spécifiques de l'épaule gauche, non classée ailleurs
+M24.819	d'autres lésions articulaires spécifiques d'une épaule non spécifiée, non classée ailleurs
+M24.821	d'autres lésions articulaires spécifiques du coude droit, non classée ailleurs
+M24.822	d'autres lésions articulaires spécifiques du coude gauche, non classée ailleurs
+M24.829	d'autres lésions articulaires spécifiés d'un coude non spécifié, non classée ailleurs
+M24.831	d'autres lésions articulaires spécifiques du poignet droit, non classée ailleurs
+M24.832	d'autres lésions articulaires spécifiques du poignet gauche, non classée ailleurs
+M24.839	d'autres lésions articulaires spécifiques d'un poignet non spécifié, non classée ailleurs
+M24.841	d'autres lésions articulaires spécifiques de la main droite, non classée ailleurs
+M24.842	d'autres lésions articulaires spécifiques de la main gauche, non classée ailleurs
+M24.849	d'autres lésions articulaires spécifiques d'une main non spécifiée, non classée ailleurs
+M24.851	d'autres lésions articulaires spécifiques de la hanche droite, non classée ailleurs
+M24.852	d'autres lésions articulaires spécifiques de la hanche gauche, non classée ailleurs
+M24.859	d'autres lésions articulaires spécifiques d'une hanche non spécifiée, non classée ailleurs
+M24.871	d'autres lésions articulaires spécifiques de la cheville droite, non classée ailleurs
+M24.872	d'autres lésions articulaires spécifiques de la cheville gauche, non classée ailleurs
+M24.873	d'autres lésions articulaires spécifques d'une cheville non spécifiée, non classée ailleurs
+M24.874	d'autres lésions articulaires spécifiques du pied droite, non classée ailleurs
+M24.875	d'autres lésions articulaires spécifiques du pied gauche, non classée ailleurs
+M24.876	d'autres lésions articulaires spécifques d'un pied non spécifié, non classée ailleurs
+M24.9	lésion articulaire, sans précision
+M25.0	hémarthrose, articulation non spécifiée
+M25.11	hémarthrose, épaule droite
+M25.12	hémarthrose, épaule gauche
+M25.19	hémarthrose, épaule non spécifiée
+M25.21	hémarthrose, coude droit
+M25.22	hémarthrose, coude gauche
+M25.29	hémarthrose, coude non spécifié
+M25.31	hémarthrose, poignet droit
+M25.32	hémarthrose, poignet gauche
+M25.39	hémarthrose, poignet non spécifié
+M25.41	hémarthrose, main droite
+M25.42	hémarthrose, main gauche
+M25.49	hémarthrose, main non spécifiée
+M25.51	hémarthrose, hanche droite
+M25.52	hémarthrose, hanche gauche
+M25.59	hémarthrose, hanche non spécifiée
+M25.61	hémarthrose, genou droit
+M25.62	hémarthrose, genou gauche
+M25.69	hémarthrose, genou non spécifié
+M25.71	hémarthrose, cheville droite
+M25.72	hémarthrose, cheville gauche
+M25.73	hémarthrose, cheville non spécifiée
+M25.74	hémarthrose, pied droit
+M25.75	hémarthrose, pied gauche
+M25.76	hémarthrose, pied non spécifié
+M25.8	hémarthrose, autre site non spécifié
+M25.10	fistule articulaire, articulation non spécifiée
+M25.111	fistule articulaire, épaule droite
+M25.112	fistule articulaire, épaule gauche
+M25.119	fistule articulaire, épaule non spécifiée
+M25.121	fistule articulaire, coude droit
+M25.122	fistule articulaire, coude gauche
+M25.129	fistule articulaire, coude non spécifié
+M25.131	fistule articulaire, poignet droit
+M25.132	fistule articulaire, poignet gauche
+M25.139	fistule articulaire, poignet non spécifié
+M25.141	fistule articulaire, main droite
+M25.142	fistule articulaire, main gauche
+M25.149	fistule articulaire, main non spécifiée
+M25.151	fistule articulaire, hanche droite
+M25.152	fistule articulaire, hanche gauche
+M25.159	fistule articulaire, hanche non spécifiée
+M25.161	fistule articulaire, genou droit
+M25.162	fistule articulaire, genou gauche
+M25.169	fistule articulaire, genou non spécifié
+M25.171	fistule articulaire, cheville droite
+M25.172	fistule articulaire, cheville gauche
+M25.173	fistule articulaire, cheville non spécifiée
+M25.174	fistule articulaire, pied droit
+M25.175	fistule articulaire, pied gauche
+M25.176	fistule articulaire, pied non spécifié
+M25.18	fistule articulaire, autre site non spécifié
+M25.20	hyperlaxité articulaire, articulation non spécifié
+M25.211	hyperlaxité articulaire, épaule droite
+M25.212	hyperlaxité articulaire, épaule gauche
+M25.219	hyperlaxité articulaire, épaule non spécifiée
+M25.221	hyperlaxité articulaire, coude droit
+M25.222	hyperlaxité articulaire, coude gauche
+M25.229	hyperlaxité articulaire, coude non spécifié
+M25.231	hyperlaxité articulaire, poignet droit
+M25.232	hyperlaxité articulaire, poignet gauche
+M25.239	hyperlaxité articulaire, poignet non spécifié
+M25.241	hyperlaxité articulaire, main droite
+M25.242	hyperlaxité articulaire, main gauche
+M25.249	hyperlaxité articulaire, main non spécifiée
+M25.251	hyperlaxité articulaire, hanche droite
+M25.252	hyperlaxité articulaire, hanche gauche
+M25.259	hyperlaxité articulaire, hanche non spécifiée
+M25.261	hyperlaxité articulaire, genou droit
+M25.262	hyperlaxité articulaire, genou gauche
+M25.269	hyperlaxité articulaire, genou non spécifié
+M25.271	hyperlaxité articulaire, cheville et pied droits
+M25.272	hyperlaxité articulaire, cheville et pied gauches
+M25.279	hyperlaxité articulaire, cheville et pied non spécifiés
+M25.28	hyperlaxité articulaire, autre site
+M25.30	autre instabilité, articulation non spécifiée
+M25.311	autre instabilité, épaule droite
+M25.312	autre instabilité, épaule gauche
+M25.319	autre instabilité, épaule non spécifiée
+M25.321	autre instabilité, coude droit
+M25.322	autre instabilité, coude gauche
+M25.329	autre instabilité, coude non spécifié
+M25.331	autre instabilité, poignet droit
+M25.332	autre instabilité, poignet gauche
+M25.339	autre instabilité, poignet non spécifié
+M25.341	autre instabilité, main droite
+M25.342	autre instabilité, main gauche
+M25.349	autre instabilité, main non spécifiée
+M25.351	autre instabilité, hanche droite
+M25.352	autre instabilité, hanche gauche
+M25.359	autre instabilité, hanche non spécifiée
+M25.361	autre instabilité, genou droit
+M25.362	autre instabilité, genou gauche
+M25.369	autre instabilité, genou non spécifié
+M25.371	autre instabilité, cheville droite
+M25.372	autre instabilité, cheville gauche
+M25.373	autre instabilité, cheville non spécifiée
+M25.374	autre instabilité, pied droit
+M25.375	autre instabilité, pied gauche
+M25.376	autre instabilité, pied non spécifié
+M25.40	épanchement articulaire, articulation non spécifiée
+M25.411	effusion, épaule droite
+M25.412	effusion, épaule gauche
+M25.419	épanchement articulaire, épaule non spécifiée
+M25.421	effusion, coude droit
+M25.422	effusion, coude gauche
+M25.429	épanchement articulaire, coude non spécifié
+M25.431	effusion, poignet droit
+M25.432	effusion, poignet gauche
+M25.439	épanchement articulaire, poignet non spécifié
+M25.441	effusion, main droite
+M25.442	effusion, main gauche
+M25.449	épanchement articulaire, main non spécifiée
+M25.451	effusion, hanche droite
+M25.452	épanchement articulaire, hanche gauche
+M25.459	épanchement articulaire, hanche non spécifiée
+M25.461	effusion, genou droit
+M25.462	effusion, genou gauche
+M25.469	épanchement articulaire, genou non spécifié
+M25.471	effusion, cheville droite
+M25.472	effusion, cheville gauche
+M25.473	épanchement articulaire, cheville non spécifiée
+M25.474	effusion, pied droit
+M25.475	effusion, pied gauche
+M25.476	épanchement articulaire, pied non spécifié
+M25.48	épanchement articulaire, autre site
+M25.50	douleur articulaire, articulation non spécifiée
+M25.511	douleur de l'épaule droite
+M25.512	douleur de l'épaule gauche
+M25.519	douleur d'une épaule non spécifiée
+M25.521	douleur du coude droit
+M25.522	douleur du coude gauche
+M25.529	douleur d'un coude non spécifié
+M25.531	douleur du poignet droit
+M25.532	douleur du poignet gauche
+M25.539	douleur d'un poignet non spécifié
+M25.551	douleur de la hanche droite
+M25.552	douleur de la hanche gauche
+M25.559	douleur d'une hanche non spécifiée
+M25.561	douleur du genou droit
+M25.562	douleur du genou gauche
+M25.569	douleur du genou non spécifié
+M25.571	douleur de la cheville droite et articulations du pied droit
+M25.572	douleur de la cheville gauche et articulations du pied gauche
+M25.579	douleur d'une cheville non spécifiée et articulations du pied non spécifié
+M25.60	raideur d'une articulation non spécifiée, non classée ailleurs
+M25.611	raideur de l'épaule droite, non classée ailleurs
+M25.612	raideur de l'épaule gauche, non classée ailleurs
+M25.619	raideur d'une épaule non spécifiée, non classée ailleurs
+M25.621	raideur du coude droit, non classée ailleurs
+M25.622	raideur du coude gauche, non classée ailleurs
+M25.629	raideur d'un coude non spécifié, non classée ailleurs
+M25.631	raideur du poignet droit, non classée ailleurs
+M25.632	raideur du poignet gauche, non classée ailleurs
+M25.639	raideur d'un poignet non spécifié, non classée ailleurs
+M25.641	raideur de la main droite, non classée ailleurs
+M25.642	raideur de la main gauche, non classée ailleurs
+M25.649	raideur d'une main non spécifiée, non classée ailleurs
+M25.651	raideur de la hanche droite, non classée ailleurs
+M25.652	raideur de la hanche gauche, non classée ailleurs
+M25.659	raideur d'une hanche non spécifiée, non classée ailleurs
+M25.661	raideur du genou droit, non classée ailleurs
+M25.662	raideur du genou gauche, non classée ailleurs
+M25.669	raideur du genou non spécifié, non classée ailleurs
+M25.671	raideur de la cheville droite, non classée ailleurs
+M25.672	raideur de la cheville gauche, non classée ailleurs
+M25.673	raideur d'une cheville non spécifiée, non classée ailleurs
+M25.674	raideur du pied droit, non classée ailleurs
+M25.675	raideur du pied gauche, non classée ailleurs
+M25.676	raideur d'un pied non spécifié, non classée ailleurs
+M25.70	ostéophyte, articulation non spécifiée
+M25.711	ostéophyte, épaule droite
+M25.712	ostéophyte, épaule gauche
+M25.719	ostéophyte, épaule non spécifiée
+M25.721	ostéophyte, coude droit
+M25.722	ostéophyte, coude gauche
+M25.729	ostéophyte, coude non spécifié
+M25.731	ostéophyte, poignet droit
+M25.732	ostéophyte, poignet gauche
+M25.739	ostéophyte, poignet non spécifié
+M25.741	ostéophyte, main droite
+M25.742	ostéophyte, main gauche
+M25.749	ostéophyte, main non spécifiée
+M25.751	ostéophyte, hanche droite
+M25.752	ostéophyte, hanche gauche
+M25.759	ostéophyte, hanche non spécifiée
+M25.761	ostéophyte, genou droit
+M25.762	ostéophyte, genou gauche
+M25.769	ostéophyte, genou non spécifié
+M25.771	ostéophyte, cheville droite
+M25.772	ostéophyte, cheville gauche
+M25.773	ostéophyte, cheville non spécifiée
+M25.774	ostéophyte, pied droit
+M25.775	ostéophyte, pied gauche
+M25.776	ostéophyte, pied non spécifié
+M25.78	ostéophyte, vertèbres
+M25.80	d'autres affections articulaires spécifiées, articulation non précisée
+M25.811	d'autres affections articulaires spécifiées, épaule droite
+M25.812	d'autres affections articulaires spécifiées, épaule gauche
+M25.819	d'autres affections articulaires spécifiées, épaule non précisée
+M25.821	d'autres affections articulaires spécifiées, coude droit
+M25.822	d'autres affections articulaires spécifiées, coude gauche
+M25.829	d'autres affections articulaires spécifiées, coude non précisé
+M25.831	d'autres affections articulaires spécifiées, poignet droit
+M25.832	d'autres affections articulaires spécifiées, poignet gauche
+M25.839	d'autres affections articulaires spécifiées, poignet non précisé
+M25.841	d'autres affections articulaires spécifiées, main droite
+M25.842	d'autres affections articulaires spécifiées, main gauche
+M25.849	d'autres affections articulaires spécifiées, main non précisée
+M25.851	d'autres affections articulaires spécifiées, hanche droite
+M25.852	d'autres affections articulaires spécifiées, hanche gauche
+M25.859	d'autres affections articulaires spécifiées, hanche non précisée
+M25.861	d'autres affections articulaires spécifiées, genou droit
+M25.862	d'autres affections articulaires spécifiées, genou gauche
+M25.869	d'autres affections articulaires spécifiées, genou non précisé
+M25.871	d'autres affections articulaires spécifiées, cheville et pied droits
+M25.872	d'autres affections articulaires spécifiées, cheville et pied gauches
+M25.879	d'autres affections articulaires spécifiées, cheville et pied non précisés
+M25.9	affection articulaire, sans précision
+M26.0	anomalie non précisiée de la taille de la mâchoire
+M26.1	hyperplasie maxillaire
+M26.2	hypoplasie maxillaire
+M26.3	hyperplasie mandibulaire
+M26.4	hypoplasie mandibulaire
+M26.5	macrognathie
+M26.6	micrognathie
+M26.7	tubérosité excessive de la mâchoire
+M26.9	d'autres anomalies spécifiques de la taille de la mâchoire
+M26.10	anomalie non spécifiée du rapport entre la mâchoire et la base crânienne
+M26.11	asymétrie maxillaire
+M26.12	autre asymétrie de la mâchoire
+M26.19	d'autres anomalies spécifiées du rapport entre la mâchoire et la base du crâne
+M26.20	anomalie du rapport entre les arcs dentaires non spécifique
+M26.211	malocclusion, classe d'Angle I
+M26.212	malocclusion, classe d'Angle II
+M26.213	malocclusion, classe d'Angle III
+M26.219	malocclusion, classe d'Angle non spécifiée
+M26.220	relation occlusale antérieure ouverte
+M26.221	relation occlusale postérieure ouverte
+M26.23	chevauchement horizontal excessif
+M26.24	articulation inversée
+M26.25	anomalie de la distance entre les arcs
+M26.29	d'autres anomalies du rapport des arcs dentaires
+M26.30	anomalie non spécifique de la position des dents ou d'une dent totalement extériorisée(s)
+M26.31	chevauchement de dents totalement extériorisées
+M26.32	espacement excessif de dent(s) totalement extériorisée(s)
+M26.33	déplacement horizontal de dent(s) totalement extériorisée(s)
+M26.34	déplacement vertical de dent(s) totalement extériorisée(s)
+M26.35	rotation de dent(s) totalement extériorisée(s)
+M26.36	distance interocclusale insuffisante de dents (crête) totalement extériorisées
+M26.37	distance interocclusale excessive de dents (crête) totalement extériorisées
+M26.39	d'autres anomalies de la position dentaire de dents totalement extériorisées
+M26.4	malocclusion, sans précision
+M26.50	anormalités dento-faciales fonctionnelles, non spécifiques
+M26.51	fermeture anormale de la mâchoire
+M26.52	mobilité réduite de la mandibule
+M26.53	déviation lors de l'ouverture et de la fermeture de la mandibule
+M26.54	guidance antérieure insuffisante
+M26.55	divergence occlusive centrique 
+M26.55	intercuspidation maximale
+M26.56	interférence d'un côté non actif
+M26.57	manque de support occlusal postérieur
+M26.59	d'autres anormalies dento-faciales fonctionnelles
+M26.60	trouble articulaire temporo-mandibulaire, sans précision
+M26.61	raideur et ankylose de l'articulation temporo-mandibulaire
+M26.62	arthralgie de l'articulation temporo-mandibulaire
+M26.63	affection du disque articulaire de l'articulation temporo-mandibulaire
+M26.69	d'autres atteintes spécifiques de l'articulation temporo-mandibulaire
+M26.70	anomalie alvéolaire non spécifique
+M26.71	hyperplasie alvéolaire du maxillaire
+M26.72	hypoplasie alvéolaire du maxillaire
+M26.73	hyperplasie alvéolaire mandibulaire
+M26.74	hypoplasie alvéolaire mandibulaire
+M26.79	d'autres anomalies alvéolaires spécifiques
+M26.81	empiètement antérieur du tissu mou
+M26.82	empiètement postérieur du tissu mou
+M26.89	autre anomalies dento-faciales
+M26.9	anomalie dento-faciale, non spécifique
+M27.0	troubles du développement des mâchoires
+M27.1	granulome à cellules géantes, central
+M27.2	atteintes inflammatoires des mâchoires
+M27.3	alvéolite des mâchoires
+M27.40	kyste non spécifié de la mâchoire
+M27.49	autre kyste de la mâchoire
+M27.51	perforation du canal radiculaire due à un traitement endodontique
+M27.52	plombage endodontique excessif
+M27.53	plombage endodontique insuffisant
+M27.59	autre pathologie périradiculaire associée à un traitement endodontique précédent
+M27.61	échec d'osséo-intégration d'un implant dentaire
+M27.62	échec biologique après osséo-intégration d'un implant dentaire
+M27.63	échec mécanique après osséo-intégration d'un implant dentaire
+M27.69	autre échec des implants dentaires endo-osseux
+M27.8	d'autres maladies spécifiques des mâchoires
+M27.9	maladies des mâchoires, non spécifiques
+M30.0	polyartérite noueuse
+M30.1	périartérite allergique avec une atteinte pulmonaire 
+M30.2	périartérite juvénile
+M30.3	syndrome adéno-cutanéo-muqueux 
+M30.8	d'autres affections apparentées à la polyartérite noueuse
+M31.0	angéite d'hypersensibilité
+M31.1	microangiopathie thrombotique
+M31.2	granulome léthal de la ligne médiane
+M31.30	granulomatose de Wegener sans implication rénale
+M31.31	granulomatose de Wegener avec une implication rénale
+M31.4	syndrome de la crosse aortique
+M31.5	artérite à cellules géantes avec polymyalgie rhumatismale
+M31.6	d'autres artérites à cellules géantes
+M31.7	polyangéite microscopique
+M31.8	d'autres vasculopathies nécrosantes spécifiées
+M31.9	vasculopathie nécrosante, sans précision
+M32.0	lupus érythémateux disséminé induit par des médicaments
+M32.10	lupus érythémateux disséminé, avec l'atteinte d'un organe ou d'un système non spécifié
+M32.11	endocardite lupique (lupus érythémateux disséminé)
+M32.12	péricardite lupique (lupus érythémateux disséminé)
+M32.13	atteinte pulmonaire au cours d'un lupus érythémateux disséminé (pneumonie lupique)
+M32.14	maladie glomérulaire au cours d'un lupus érythémateux disséminé
+M32.15	néphropathie tubulo-interstitielle au cours d'un lupus érythémateux disséminé
+M32.19	implication d'autre organe ou système au cours d'un lupus érythémateux disséminé
+M32.8	d'autres formes de lupus érythémateux disséminé
+M32.9	lupus érythémateux disséminé, sans précision
+M33.0	dermatopolymyosite juvénile, atteinte d'un organe non spécifiée
+M33.1	dermatopolymyosite juvénile avec une atteinte respiratoire
+M33.2	dermatopolymyosite juvénile avec myopathie
+M33.9	dermatopolymyosite juvénile avec une atteinte d'un autre organe
+M33.10	autre dermatopolymyosite, atteinte d'un organe non spécifié
+M33.11	autre dermatopolymyosite avec une atteinte respiratoire
+M33.12	autre dermatopolymyosite avec myopathie
+M33.19	autre dermatopolymyosite avec une atteinte d'un autre organe
+M33.20	polymyosite, atteinte d'un organe non spécifiée
+M33.21	polymyosite avec une atteinte respiratoire
+M33.22	polymyosite avec myopathie
+M33.29	polymyosite avec une atteinte d'un autre organe
+M33.90	dermatopolymyosite non spécifiée, atteinte d'un organe non précisée
+M33.91	dermatopolymyosite non spécifiée avec une atteinte respiratoire
+M33.92	dermatopolymyosite non spécifiée avec myopathie
+M33.99	dermatopolymyosite non spécifiée avec une atteinte d'un autre organe
+M34.0	sclérose systémique progressive (sclérodermie)
+M34.1	syndrome CREST
+M34.2	sclérose systémique due à des médicaments et des produits chimiques
+M34.81	sclérose systémique avec une atteinte pulmonaire
+M34.82	sclérose systémique avec myopathie
+M34.83	sclérose systémique avec polynévrite
+M34.89	autre sclérose systémique
+M34.9	sclérose systémique, sans précision
+M35.0	syndrome sec, non spécifié
+M35.1	syndrome sec avec kératoconjonctivite
+M35.2	syndrome sec avec une atteinte pulmonaire
+M35.3	syndrome sec avec myopathie
+M35.4	syndrome sec avec néphropathie
+M35.9	syndrome sec avec une atteinte d'un autre organe
+M35.0	Gougerot-Sjögren, non spécifié
+M35.1	Gougerot-Sjögren avec kératoconjonctivite
+M35.2	Gougerot-Sjögren avec une atteinte pulmonaire
+M35.3	Gougerot-Sjögren avec myopathie
+M35.4	Gougerot-Sjögren avec néphropathie
+M35.9	Gougerot-Sjögren avec une atteinte d'un autre organe
+M35.1	d'autres syndromes de chevauchement 
+M35.2	maladie de Behçet
+M35.3	polymyalgie rhumatismale
+M35.4	fasciite disséminée 
+M35.5	fibrosclérose multiple
+M35.6	panniculite récidivante 
+M35.7	syndrome d'hypermobilité
+M35.8	d'autres atteintes systémiques spécifiées du tissu conjonctif
+M35.9	atteinte systémique du tissu conjonctif, sans précisison
+M36.0	dermato myosite au cours de maladies tumorales
+M36.0	dermato polymyosite au cours de maladies tumorales
+M36.1	arthropathie au cours d'une maladie tumorale
+M36.2	arthropathie hémophilique
+M36.3	arthropathie au cours d'autres maladies du sang
+M36.4	arthropathie au cours de réactions d'hypersensibilité classées ailleurs
+M36.8	atteintes systémiques du tissu conjonctif au cours d'autres maladies classées ailleurs
+M40.0	cyphose posturale, site non spécifié
+M40.3	cyphose posturale, région cervico-thoracique
+M40.4	cyphose posturale, région thoracique
+M40.5	cyphose posturale, région thoraco-lombaire
+M40.10	autre cyphose secondaire, site non spécifié
+M40.12	autre cyphose secondaire, région cervicale
+M40.13	autre cyphose secondaire, région cervico-thoracique
+M40.14	autre cyphose secondaire, région thoracique
+M40.15	autre cyphose secondaire, région thoraco-lombaire
+M40.202	cyphose non spécifiée, région cervicale
+M40.203	cyphose non spécifiée, région cervico-thoracique
+M40.204	cyphose non spécifiée, région thoracique
+M40.205	cyphose non spécifiée, région thoraco-lombaire
+M40.209	cyphose non spécifiée, site non précisé
+M40.292	autre cyphose, région cervicale
+M40.293	autre cyphose, région cervico-thoracique
+M40.294	autre cyphose, région thoracique
+M40.295	autre cyphose, région thoraco-lombaire
+M40.299	autre cyphose, site non spécifié
+M40.30	syndrome du dos plat, site non spécifié
+M40.35	syndrome du dos plat, région thoraco-lombaire
+M40.36	syndrome du dos plat, région lombaire
+M40.37	syndrome du dos plat, région lombo-sacrée
+M40.40	lordose posturale, site non spécifié
+M40.45	lordose posturale, région thoraco-lombaire
+M40.46	lordose posturale, région lombaire
+M40.47	lordose posturale, région lombo-sacrée
+M40.50	lordose, non spécifique, site non spécifié
+M40.55	lordose, non spécifique, région thoraco-lombaire
+M40.56	lordose, non spécifique, région lombaire
+M40.57	lordose, non spécifique, région lombo-sacrée
+M41.0	scoliose idiopathique infantile, site non spécifié
+M41.2	scoliose idiopathique infantile, région cervicale
+M41.3	scoliose idiopathique infantile, région cervico-thoracique
+M41.4	scoliose idiopathique infantile, région thoracique
+M41.5	scoliose idiopathique infantile, région thoraco-lombaire
+M41.6	scoliose idiopathique infantile, région lombaire
+M41.7	scoliose idiopathique infantile, région lombo-sacrée
+M41.8	scoliose idiopathique infantile, région sacrée et sacro-coccygienne
+M41.112	scoliose idiopathique juvénile, région cervicale
+M41.113	scoliose idiopathique juvénile, région cervico-thoracique
+M41.114	scoliose idiopathique juvénile, région thoracique
+M41.115	scoliose idiopathique juvénile, région thoraco-lombaire
+M41.116	scoliose idiopathique juvénile, région lombaire
+M41.117	scoliose idiopathique juvénile, région lombo-sacrée
+M41.119	scoliose idiopathique juvénile, site non spécifié
+M41.122	scoliose idiopathique de l'adolescent, région cervicale
+M41.123	scoliose idiopathique de l'adolescent, région cervico-thoracique
+M41.124	scoliose idiopathique de l'adolescent, région thoracique
+M41.125	scoliose idiopathique de l'adolescent, région thoraco-lombaire
+M41.126	scoliose idiopathique de l'adolescent, région lombaire
+M41.127	scoliose idiopathique de l'adolescent, région lombo-sacrée
+M41.129	scoliose idiopathique de l'adolescent, site non spécifié
+M41.20	autre scoliose idiopathique, site non spécifié
+M41.22	autre scoliose idiopathique, région cervicale
+M41.23	autre scoliose idiopathique, région cervico-thoracique
+M41.24	autre scoliose idiopathique, région thoracique
+M41.25	autre scoliose idiopathique, région thoraco-lombaire
+M41.26	autre scoliose idiopathique, région lombaire
+M41.27	autre scoliose idiopathique, région lombo-sacrée
+M41.30	scoliose par anomalie dorsale, site non spécifié
+M41.34	scoliose par anomalie dorsale, région thoracique
+M41.35	scoliose par anomalie dorsale, région thoraco-lombaire
+M41.40	scoliose neuromusculaire, site non spécifié
+M41.41	scoliose neuromusculaire, région occipito-atloïdo-axoïdienne
+M41.42	scoliose neuromusculaire, région cervicale
+M41.43	scoliose neuromusculaire, région cervico-thoracique
+M41.44	scoliose neuromusculaire, région thoracique
+M41.45	scoliose neuromusculaire, région thoraco-lombaire
+M41.46	scoliose neuromusculaire, région lombaire
+M41.47	scoliose neuromusculaire, région lombo-sacrée
+M41.50	d'autres formes de scoliose secondaire, site non précisié
+M41.52	d'autres formes de scoliose secondaire, région cervicale
+M41.53	d'autres formes de scoliose secondaire, région cervico-thoracique
+M41.54	d'autres formes de scoliose secondaire, région thoracique
+M41.55	d'autres formes de scoliose secondaire, région thoraco-lombaire
+M41.56	d'autres formes de scoliose secondaire, région lombaire
+M41.57	d'autres formes de scoliose secondaire, région lombo-sacrée
+M41.80	d'autres formes de scoliose, site non spécifié
+M41.82	d'autres formes de scoliose, région cervicale
+M41.83	d'autres formes de scoliose, région cervico-thoracique
+M41.84	d'autres formes de scoliose, région thoracique
+M41.85	d'autres formes de scoliose, région thoraco-lombaire
+M41.86	d'autres formes de scoliose, région lombaire
+M41.87	d'autres formes de scoliose, région lombo-sacrée
+M41.9	scoliose, sans précision
+M42.0	ostéochondrite vertébrale juvénile, site non spécifié
+M42.1	ostéochondrite vertébrale juvénile, région occipito-atloïdo-axoïdienne
+M42.2	ostéochondrite vertébrale juvénile, région cervicale
+M42.3	ostéochondrite vertébrale juvénile, région cervico-thoracique
+M42.4	ostéochondrite vertébrale juvénile, région thoracique
+M42.5	ostéochondrite vertébrale juvénile, région thoraco-lombaire
+M42.6	ostéochondrite vertébrale juvénile, région lombaire
+M42.7	ostéochondrite vertébrale juvénile, région lombo-sacrée
+M42.8	ostéochondrite vertébrale juvénile, région sacrée et sacro-coccygienne
+M42.9	ostéochondrite vertébrale juvénile, multiples sites vertébraux
+M42.10	ostéochondrite vertébrale d'un adulte, site non spécifié
+M42.11	ostéochondrite vertébrale d'un adulte, région occipito-atloïdo-axoïdienne
+M42.12	ostéochondrite vertébrale d'un adulte, région cervicale
+M42.13	ostéochondrite vertébrale d'un adulte, région cervico-thoracique
+M42.14	ostéochondrite vertébrale d'un adulte, région thoracique
+M42.15	ostéochondrite vertébrale d'un adulte, région thoraco-lombaire
+M42.16	ostéochondrite vertébrale d'un adulte, région lombaire
+M42.17	ostéochondrite vertébrale d'un adulte, région lombo-sacrée
+M42.18	ostéochondrite vertébrale d'un adulte, région sacrée et sacro-coccygienne
+M42.19	ostéochondrite vertébrale d'un adulte, multiples sites vertébraux
+M42.9	ostéochondrite vertébrale, non spécifiée
+M43.0	spondylolyse, site non spécifié
+M43.1	spondylolyse, région occipito-atloïdo-axoïdienne
+M43.2	spondylolyse, région cervicale
+M43.3	spondylolyse, région cervico-thoracique
+M43.4	spondylolyse, région thoracique
+M43.5	spondylolyse, région thoraco-lombaire
+M43.6	spondylolyse, région lombaire
+M43.7	spondylolyse, région lombo-sacrée
+M43.8	spondylolyse, région sacrée et sacro-coccygienne
+M43.9	spondylolyse, multiples sites vertébraux
+M43.10	spondylolisthésis, site non spécifié
+M43.11	spondylolisthésis, région occipito-atloïdo-axoïdienne
+M43.12	spondylolisthésis, région cervicale
+M43.13	spondylolisthésis, région cervico-thoracique
+M43.14	spondylolisthésis, région thoracique
+M43.15	spondylolisthésis, région thoraco-lombaire
+M43.16	spondylolisthésis, région lombaire
+M43.17	spondylolisthésis, région lombo-sacrée
+M43.18	spondylolisthésis, région sacrée et sacro-coccygienne
+M43.19	spondylolisthésis, multiples sites vertébraux
+M43.20	fusion vertébrale, site non spécifié
+M43.21	fusion vertébrale, région occipito-atloïdo-axoïdienne
+M43.22	fusion vertébrale, région cervicale
+M43.23	fusion vertébrale, région cervico-thoracique
+M43.24	fusion vertébrale, région thoracique
+M43.25	fusion vertébrale, région thoraco-lombaire
+M43.26	fusion vertébrale, région lombaire
+M43.27	fusion vertébrale, région lombo-sacrée
+M43.28	fusion vertébrale, région sacrée et sacro-coccygienne
+M43.3	subluxation atloïdo-axoïdienne récidivante avec myélopathie
+M43.4	autre subluxation atloïdo-axoïdienne récidivante
+M43.5X2	autre subluxation récidivante, région cervicale
+M43.5X3	autre subluxation récidivante, région cervico-thoracique
+M43.5X4	autre subluxation récidivante, région thoracique
+M43.5X5	autre subluxation récidivante, région thoraco-lombaire
+M43.5X6	autre subluxation récidivante, région lombaire
+M43.5X7	autre subluxation récidivante, région lombo-sacrée
+M43.5X8	autre subluxation récidivante, région sacrée et sacro-coccygienne
+M43.5X9	autre subluxation récidivante, site non spécifié
+M43.6	torticolis
+M43.8X1	d'autres dorsopathies avec déformation spécifiées, région occipito-atloïdo-axoïdienne
+M43.8X2	d'autres dorsopathies avec déformation spécifiées, région cervicale
+M43.8X3	d'autres dorsopathies avec déformation spécifiées, région cervico-thoracique
+M43.8X4	d'autres dorsopathies avec déformation spécifiées, région thoracique
+M43.8X5	d'autres dorsopathies avec déformation spécifiées, région thoraco-lombaire
+M43.8X6	d'autres dorsopathies avec déformation spécifiées, région lombaire
+M43.8X7	d'autres dorsopathies avec déformation spécifiées, région lombo-sacrée
+M43.8X8	d'autres dorsopathies avec déformation spécifiées, région sacrée et sacro-coccygienne
+M43.8X9	d'autres dorsopathies avec déformation spécifique, site non spécifié
+M43.9	dorsopathie avec déformation, sans précision
+M45.0	spondylarthrite ankylosante, multiples sites vertébraux
+M45.1	spondylarthrite ankylosante, région occipito-atloïdo-axoïdienne
+M45.2	spondylarthrite ankylosante, région cervicale
+M45.3	spondylarthrite ankylosante, région cervico-thoracique
+M45.4	spondylarthrite ankylosante, région thoracique
+M45.5	spondylarthrite ankylosante, région thoraco-lombaire
+M45.6	spondylarthrite ankylosante, région lombaire
+M45.7	spondylarthrite ankylosante, région lombo-sacrée
+M45.8	spondylarthrite ankylosante, région sacrée et sacro-coccygienne
+M45.9	spondylarthrite ankylosante de sites vertébraux non spécifiés
+M46.0	enthésopathie spinale, site non spécifié
+M46.1	enthésopathie spinale, région occipito-atloïdo-axoïdienne
+M46.2	enthésopathie spinale, région cervicale
+M46.3	enthésopathie spinale, région cervico-thoracique
+M46.4	enthésopathie spinale, région thoracique
+M46.5	enthésopathie spinale, région thoraco-lombaire
+M46.6	enthésopathie spinale, région lombaire
+M46.7	enthésopathie spinale, région lombo-sacrée
+M46.8	enthésopathie spinale, région sacrée et sacro-coccygienne
+M46.9	enthésopathie spinale, multiples sites vertébraux
+M46.1	sacro-iléite, non classée ailleurs
+M46.20	ostéomyélite vertébrale, site non spécifié
+M46.21	ostéomyélite vertébrale, région occipito-atloïdo-axoïdienne
+M46.22	ostéomyélite vertébrale, région cervicale
+M46.23	ostéomyélite vertébrale, région cervico-thoracique
+M46.24	ostéomyélite vertébrale, région thoracique
+M46.25	ostéomyélite vertébrale, région thoraco-lombaire
+M46.26	ostéomyélite vertébrale, région lombaire
+M46.27	ostéomyélite vertébrale, région lombo-sacrée
+M46.28	ostéomyélite vertébrale, région sacrée et sacro-coccygienne
+M46.30	infection (pyogène) d'un disque intervertébral, site non spécifié
+M46.31	infection (pyogène) d'un disque intervertébral, région occipito-atloïdo-axoïdienne
+M46.32	infection (pyogène) d'un disque intervertébral, région cervicale
+M46.33	infection (pyogène) d'un disque intervertébral, région cervico-thoracique
+M46.34	infection (pyogène) d'un disque intervertébral, région thoracique
+M46.35	infection (pyogène) d'un disque intervertébral, région thoraco-lombaire
+M46.36	infection (pyogène) d'un disque intervertébral, région lombaire
+M46.37	infection (pyogène) d'un disque intervertébral, région lombo-sacrée
+M46.38	infection (pyogène) d'un disque intervertébral, région sacrée et sacro-coccygienne
+M46.39	infection (pyogène) d'un disque intervertébral, multiples sites vertébraux
+M46.40	discite,sans précision, site non spécifié
+M46.41	discite, sans précision, région occipito-atloïdo-axoïdienne
+M46.42	discite, sans précision, région cervicale
+M46.43	discite, sans précision, région cervico-thoracique
+M46.44	discite, sans précision, région thoracique
+M46.45	discite, sans précision, région thoraco-lombaire
+M46.46	discite, sans précision, région lombaire
+M46.47	discite, sans précision, région lombo-sacrée
+M46.48	discite, sans précision, région sacrée et sacro-coccygienne
+M46.49	discite, sans précision, multiples sites vertébraux
+M46.50	d'autres spondylopathies infectieuses, site non spécifié
+M46.51	d'autres spondylopathies infectieuses, région occipito-atloïdo-axoïdienne
+M46.52	d'autres spondylopathies infectieuses, région cervicale
+M46.53	d'autres spondylopathies infectieuses, région cervico-thoracique
+M46.54	d'autres spondylopathies infectieuses, région thoracique
+M46.55	d'autres spondylopathies infectieuses, région thoraco-lombaire
+M46.56	d'autres spondylopathies infectieuses, région lombaire
+M46.57	d'autres spondylopathies infectieuses, région lombo-sacrée
+M46.58	d'autres spondylopathies infectieuses, région sacrée et sacro-coccygienne
+M46.59	d'autres spondylopathies infectieuses, multiples sites vertébraux
+M46.80	d'autres spondylopathies inflammatoires spécifiques, site non spécifié
+M46.81	d'autres spondylopathies inflammatoires spécifiques, région occipito-atloïdo-axoïdienne
+M46.82	d'autres spondylopathies inflammatoires spécifiques, région cervicale
+M46.83	d'autres spondylopathies inflammatoires spécifiques, région cervico-thoracique
+M46.84	d'autres spondylopathies inflammatoires spécifiques, région thoracique
+M46.85	d'autres spondylopathies inflammatoires spécifiques, région thoraco-lombaire
+M46.86	d'autres spondylopathies inflammatoires spécifiques, région lombaire
+M46.87	d'autres spondylopathies inflammatoires spécifiques, région lombo-sacrée
+M46.88	d'autres spondylopathies inflammatoires spécifiques, région sacrée et sacro-coccygienne
+M46.89	d'autres spondylopathies inflammatoires spécifiques, multiples sites vertébraux
+M46.90	spondylopathie inflammatoire, non spécifique, site non précisié
+M46.91	spondylopathie inflammatoire, non spécifique, région occipito-atloïdo-axoïdienne
+M46.92	spondylopathie inflammatoire, non spécifique, région cervicale
+M46.93	spondylopathie inflammatoire, non spécifique, région cervico-thoracique
+M46.94	spondylopathie inflammatoire, non spécifique, région thoracique
+M46.95	spondylopathie inflammatoire, non spécifique, région thoraco-lombaire
+M46.96	spondylopathie inflammatoire, non spécifique, région lombaire
+M46.97	spondylopathie inflammatoire, non spécifique, région lombo-sacrée
+M46.98	spondylopathie inflammatoire, non spécifique, région sacrée et sacro-coccygienne
+M46.99	spondylopathie inflammatoire, non spécifque, multiples sites vertébraux
+M47.11	syndrome de compression de l'artère spinale antérieure, région occipito-atloïdo-axoïdienne
+M47.12	syndrome de compression de l'artère spinale antérieure, région cervicale
+M47.13	syndrome de compression de l'artère spinale antérieure, région cervico-thoracique
+M47.14	syndrome de compression de l'artère spinale antérieure, région thoracique
+M47.15	syndrome de compression de l'artère spinale antérieure, région thoraco-lombaire
+M47.16	syndrome de compression de l'artère spinale antérieure, région lombaire
+M47.19	syndrome de compression de l'artère spinale antérieure, site non spécifié
+M47.21	syndrome de compression de l'artère vertébrale, région occipito-atloïdo-axoïdienne
+M47.22	syndrome de compression de l'artère vertébrale, région cervicale
+M47.29	syndrome de compression de l'artère vertébrale, site non spécifié
+M47.10	d'autres spondylarthroses avec myélopathie, site non spécifié
+M47.11	d'autres spondylarthroses avec myélopathie, région occipito-atloïdo-axoïdienne
+M47.12	d'autres spondylarthroses avec myélopathie, région cervicale
+M47.13	d'autres spondylarthroses avec myélopathie, région cervico-thoracique
+M47.14	d'autres spondylarthroses avec myélopathie, région thoracique
+M47.15	d'autres spondylarthroses avec myélopathie, région thoraco-lombaire
+M47.16	d'autres spondylarthroses avec myélopathie, région lombaire
+M47.20	d'autres spondylarthroses avec radiculopathie, site non spécifié
+M47.21	d'autres spondylarthroses avec radiculopathie, région occipito-atloïdo-axoïdienne
+M47.22	d'autres spondylarthroses avec radiculopathie, région cervicale
+M47.23	d'autres spondylarthroses avec radiculopathie, région cervico-thoracique
+M47.24	d'autres spondylarthroses avec radiculopathie, région thoracique
+M47.25	d'autres spondylarthroses avec radiculopathie, région thoraco-lombaire
+M47.26	d'autres spondylarthroses avec radiculopathie, région lombaire
+M47.27	d'autres spondylarthroses avec radiculopathie, région lombo-sacrée
+M47.28	d'autres spondylarthroses avec radiculopathie, région sacrée et sacro-coccygienne
+M47.811	spondylarthrose sans myélopathie ou radiculopathie, région occipito-atloïdo-axoïdienne
+M47.812	spondylarthrose sans myélopathie ou radiculopathie, région cervicale
+M47.813	spondylarthrose sans myélopathie ou radiculopathie, région cervico-thoracique
+M47.814	spondylarthrose sans myélopathie ou radiculopathie, région thoracique
+M47.815	spondylarthrose sans myélopathie ou radiculopathie, région thoraco-lombaire
+M47.816	spondylarthrose sans myélopathie ou radiculopathie, région lombaire
+M47.817	spondylarthrose sans myélopathie ou radiculopathie, région lombo-sacrée
+M47.818	spondylose-spondylarthrose sans myélopathie ou radiculopathie, région sacrée et sacro-coccygienne
+M47.819	spondylose-spondylarthrose sans myélopathie ou radiculopathie, site non spécifié
+M47.891	autre spondylose-spondylarthrose, région occipito-atloïdo-axoïdienne
+M47.892	autre spondylose-spondylarthrose, région cervicale
+M47.893	autre spondylose-spondylarthrose, région cervico-thoracique
+M47.894	autre spondylose-spondylarthrose, région thoracique
+M47.895	autre spondylose-spondylarthrose, région thoraco-lombaire
+M47.896	autre spondylose-spondylarthrose, région lombaire
+M47.897	autre spondylose-spondylarthrose, région lombo-sacrée
+M47.898	autre spondylose-spondylarthrose, région sacrée et sacro-coccygienne
+M47.899	autre spondylose-spondylarthrose, site non spécifié
+M47.9	spondylose-spondylarthrose, non spécifiée
+M48.0	rétrécissement du canal médulaire, site non spécifié
+M48.1	rétrécissement du canal médulaire, région occipito-atloïdo-axoïdienne
+M48.2	rétrécissement du canal médulaire, région cervicale
+M48.3	rétrécissement du canal médulaire, région cervico-thoracique
+M48.4	rétrécissement du canal médulaire, région thoracique
+M48.5	rétrécissement du canal médulaire, région thoraco-lombaire
+M48.6	rétrécissement du canal médulaire, région lombaire
+M48.7	rétrécissement du canal médulaire, région lombo-sacrée
+M48.8	rétrécissement du canal médulaire, région sacrée et sacro-coccygienne
+M48.10	hyperostose ankylosante, site non spécifié
+M48.11	hyperostose ankylosante, région occipito-atloïdo-axoïdienne
+M48.12	hyperostose ankylosante, région cervicale
+M48.13	hyperostose ankylosante, région cervico-thoracique
+M48.14	hyperostose ankylosante, région thoracique
+M48.15	hyperostose ankylosante, région thoraco-lombaire
+M48.16	hyperostose ankylosante, région lombaire
+M48.17	hyperostose ankylosante, région lombo-sacrée
+M48.18	hyperostose ankylosante, région sacrée et sacro-coccygienne
+M48.19	hyperostose ankylosante, multiples sites vertébraux
+M48.10	Forestier, site non spécifié
+M48.11	Forestier, région occipito-atloïdo-axoïdienne
+M48.12	Forestier, région cervicale
+M48.13	Forestier, région cervico-thoracique
+M48.14	Forestier, région thoracique
+M48.15	Forestier, région thoraco-lombaire
+M48.16	Forestier, région lombaire
+M48.17	Forestier, région lombo-sacrée
+M48.18	Forestier, région sacrée et sacro-coccygienne
+M48.19	Forestier, multiples sites vertébraux
+M48.20	arthrose interépineuse, site non spécifié
+M48.21	arthrose interépineuse, région occipito-atloïdo-axoïdienne
+M48.22	arthrose interépineuse, région cervicale
+M48.23	arthrose interépineuse, région cervico-thoracique
+M48.24	arthrose interépineuse, région thoracique
+M48.25	arthrose interépineuse, région thoraco-lombaire
+M48.26	arthrose interépineuse, région lombaire
+M48.27	arthrose interépineuse, région lombo-sacrée
+M48.30	spondylopathie traumatique, site non spécifié
+M48.31	spondylopathie traumatique, région occipito-atloïdo-axoïdienne
+M48.32	spondylopathie traumatique, région cervicale
+M48.33	spondylopathie traumatique, région cervico-thoracique
+M48.34	spondylopathie traumatique, région thoracique
+M48.35	spondylopathie traumatique, région thoraco-lombaire
+M48.36	spondylopathie traumatique, région lombaire
+M48.37	spondylopathie traumatique, région lombo-sacrée
+M48.38	spondylopathie traumatique, région sacrée et sacro-coccygienne
+M48.40XA	fracture de fatigue d'une vertèbre, site non spécifié, contact initial pour une fracture
+M48.40XD	fracture de fatigue d'une vertèbre, site non spécifié, contact subséquent pour une fracture avec une cicatrisation normale
+M48.40XG	fracture de fatigue d'une vertèbre, site non spécifié, contact subséquent pour une fracture avec une cicatrisation retardée
+M48.40XS	fracture de fatigue d'une vertèbre, site non spécifié, séquelle d'une fracture
+M48.41XA	fracture de fatigue d'une vertèbre, région occipito-atloïdo-axoïdienne, contact initial pour une fracture
+M48.41XD	fracture de fatigue d'une vertèbre, région occipito-atloïdo-axoïdienne, contact subséquent pour une fracture avec une cicatrisation normale
+M48.41XG	fracture de fatigue d'une vertèbre, région occipito-atloïdo-axoïdienne, contact subséquent pour une fracture avec une cicatrisation retardée
+M48.41XS	fracture de fatigue d'une vertèbre, région occipito-atloïdo-axoïdienne, séquelle d'une fracture
+M48.42XA	fracture de fatigue d'une vertèbre, région cervicale, contact initial pour une fracture
+M48.42XD	fracture de fatigue d'une vertèbre, région cervicale, contact subséquent pour une fracture avec une cicatrisation normale
+M48.42XG	fracture de fatigue d'une vertèbre, région cervicale, contact subséquent pour une fracture avec une cicatrisation retardée
+M48.42XS	fracture de fatigue d'une vertèbre, région cervicale, séquelle d'une fracture
+M48.43XA	fracture de fatigue d'une vertèbre, région cervico-thoracique, contact initial pour une fracture
+M48.43XD	fracture de fatigue d'une vertèbre, région cervico-thoracique, contact subséquent pour une fracture avec une cicatrisation normale
+M48.43XG	fracture de fatigue d'une vertèbre, région cervico-thoracique, contact subséquent pour une fracture avec une cicatrisation retardée
+M48.43XS	fracture de fatigue d'une vertèbre, région cervico-thoracique, séquelle d'une fracture
+M48.44XA	fracture de fatigue d'une vertèbre, région thoracique, contact initial pour une fracture
+M48.44XD	fracture de fatigue d'une vertèbre, région thoracique, contact subséquent pour une fracture avec une cicatrisation normale
+M48.44XG	fracture de fatigue d'une vertèbre, région thoracique, contact subséquent pour une fracture avec une cicatrisation retardée
+M48.44XS	fracture de fatigue d'une vertèbre, région thoracique, séquelle d'une fracture
+M48.45XA	fracture de fatigue d'une vertèbre, région thoraco-lombaire, contact initial pour une fracture
+M48.45XD	fracture de fatigue d'une vertèbre, région thoraco-lombaire, contact subséquent pour une fracture avec une cicatrisation normale
+M48.45XG	fracture de fatigue d'une vertèbre, région thoraco-lombaire, contact subséquent pour une fracture avec une cicatrisation retardée
+M48.45XS	fracture de fatigue d'une vertèbre, région thoraco-lombaire, séquelle d'une fracture
+M48.46XA	fracture de fatigue d'une vertèbre, région lombaire, contact initial pour une fracture
+M48.46XD	fracture de fatigue d'une vertèbre, région lombaire, contact subséquent pour une fracture avec une cicatrisation normale
+M48.46XG	fracture de fatigue d'une vertèbre, région lombaire, contact subséquent pour une fracture avec une cicatrisation retardée
+M48.46XS	fracture de fatigue d'une vertèbre, région lombaire, séquelle d'une fracture
+M48.47XA	fracture de fatigue d'une vertèbre, région lombo-sacrée, contact initial pour une fracture
+M48.47XD	fracture de fatigue d'une vertèbre, région lombo-sacrée, contact subséquent pour une fracture avec une cicatrisation normale
+M48.47XG	fracture de fatigue d'une vertèbre, région lombo-sacrée, contact subséquent pour une fracture avec une cicatrisation retardée
+M48.47XS	fracture de fatigue d'une vertèbre, région lombo-sacrée, séquelle d'une fracture
+M48.48XA	fracture de fatigue d'une vertèbre, région sacrée et sacro-coccygienne, contact initial pour une fracture
+M48.48XD	fracture de fatigue d'une vertèbre, région sacrée et sacro-coccygienne, contact subséquent pour une fracture avec une cicatrisation normale
+M48.48XG	fracture de fatigue d'une vertèbre, région sacrée et sacro-coccygienne, contact subséquent pour une fracture avec une cicatrisation retardée
+M48.48XS	fracture de fatigue d'une vertèbre, région sacrée et sacro-coccygienne, séquelle d'une fracture
+M48.50XA	tassement vertébral, non classé ailleurs, site non spécifié, contact initial pour une fracture
+M48.50XD	tassement vertébral, non classé ailleurs, site non spécifié, contact subséquent pour une fracture avec une cicatrisation normale
+M48.50XG	tassement vertébral, non classé ailleurs, site non spécifié, contact subséquent pour une fracture avec une cicatrisation retardée
+M48.50XS	tassement vertébral, non classé ailleurs, site non spécifié, séquelle d'une fracture
+M48.51XA	tassement vertébral, non classé ailleurs, région occipito-atloïdo-axoïdienne, contact initial pour une fracture
+M48.51XD	tassement vertébral, non classé ailleurs, région occipito-atloïdo-axoïdienne, contact subséquent pour une fracture avec une cicatrisation normale
+M48.51XG	tassement vertébral, non classé ailleurs, région occipito-atloïdo-axoïdienne, contact subséquent pour une fracture avec une cicatrisation retardée
+M48.51XS	tassement vertébral, non classé ailleurs, région occipito-atloïdo-axoïdienne, séquelle d'une fracture
+M48.52XA	tassement vertébral, non classé ailleurs, région cervicale, contact initial pour une fracture
+M48.52XD	tassement vertébral, non classé ailleurs, région cervicale, contact subséquent pour une fracture avec une cicatrisation normale
+M48.52XG	tassement vertébral, non classé ailleurs, région cervicale, contact subséquent pour une fracture avec une cicatrisation retardée
+M48.52XS	tassement vertébral, non classé ailleurs, région cervicale, séquelle d'une fracture
+M48.53XA	tassement vertébral, non classé ailleurs, région cervico-thoracique, contact initial pour une fracture
+M48.53XD	tassement vertébral, non classé ailleurs, région cervico-thoracique, contact subséquent pour une fracture avec une cicatrisation normale
+M48.53XG	tassement vertébral, non classé ailleurs, région cervico-thoracique, contact subséquent pour une fracture avec une cicatrisation retardée
+M48.53XS	tassement vertébral, non classé ailleurs, région cervico-thoracique, séquelle d'une fracture
+M48.54XA	tassement vertébral, non classé ailleurs, région thoracique, contact initial pour une fracture
+M48.54XD	tassement vertébral, non classé ailleurs, région thoracique, contact subséquent pour une fracture avec une cicatrisation normale
+M48.54XG	tassement vertébral, non classé ailleurs, région thoracique, contact subséquent pour une fracture avec une cicatrisation retardée
+M48.54XS	tassement vertébral, non classé ailleurs, région thoracique, séquelle d'une fracture
+M48.55XA	tassement vertébral, non classé ailleurs, région thoraco-lombaire, contact initial pour une fracture
+M48.55XD	tassement vertébral, non classé ailleurs, région thoraco-lombaire, contact subséquent pour une fracture avec une cicatrisation normale
+M48.55XG	tassement vertébral, non classé ailleurs, région thoraco-lombaire, contact subséquent pour une fracture avec une cicatrisation retardée
+M48.55XS	tassement vertébral, non classé ailleurs, région thoraco-lombaire, séquelle d'une fracture
+M48.56XA	tassement vertébral, non classé ailleurs, région lombaire, contact initial pour une fracture
+M48.56XD	tassement vertébral, non classé ailleurs, région lombaire, contact subséquent pour une fracture avec une cicatrisation normale
+M48.56XG	tassement vertébral, non classé ailleurs, région lombaire, contact subséquent pour une fracture avec une cicatrisation retardée
+M48.56XS	tassement vertébral, non classé ailleurs, région lombaire, séquelle d'une fracture
+M48.57XA	tassement vertébral, non classé ailleurs, région lombo-sacrée, contact initial pour une fracture
+M48.57XD	tassement vertébral, non classé ailleurs, région lombo-sacrée, contact subséquent pour une fracture avec une cicatrisation normale
+M48.57XG	tassement vertébral, non classé ailleurs, région lombo-sacrée, contact subséquent pour une fracture avec une cicatrisation retardée
+M48.57XS	tassement vertébral, non classé ailleurs, région lombo-sacrée, séquelle d'une fracture
+M48.58XA	tassement vertébral, non classé ailleurs, région sacrée et sacro-coccygienne, contact initial pour une fracture
+M48.58XD	tassement vertébral, non classé ailleurs, région sacrée et sacro-coccygienne, contact subséquent pour une fracture avec une cicatrisation normale
+M48.58XG	tassement vertébral, non classé ailleurs, région sacrée et sacro-coccygienne, contact subséquent pour une fracture avec une cicatrisation retardée
+M48.58XS	tassement vertébral, non classé ailleurs, région sacrée et sacro-coccygienne, séquelle d'une fracture
+M48.8X1	d'autres spondylopathies spécifiées, région occipito-atloïdo-axoïdienne
+M48.8X2	d'autres spondylopathies spécifiées, région cervicale
+M48.8X3	d'autres spondylopathies spécifiées, région cervico-thoracique
+M48.8X4	d'autres spondylopathies spécifiées, région thoracique
+M48.8X5	d'autres spondylopathies spécifiées, région thoraco-lombaire
+M48.8X6	d'autres spondylopathies spécifiées, région lombaire
+M48.8X7	d'autres spondylopathies spécifiées, région lombo-sacrée
+M48.8X8	d'autres spondylopathies spécifiées, région sacrée et sacro-coccygienne
+M48.8X9	d'autres spondylopathies , site non spécifié
+M48.9	spondylopathie, non spécifié
+M49.80	spondylopathie au cours de maladies classées ailleurs, site non spécifié
+M49.81	spondylopathie au cours de maladies classées ailleurs, région occipito-atloïdo-axoïdienne
+M49.82	spondylopathie au cours de maladies classées ailleurs, région cervicale
+M49.83	spondylopathie au cours de maladies classées ailleurs, région cervico-thoracique
+M49.84	spondylopathie au cours de maladies classées ailleurs, région thoracique
+M49.85	spondylopathie au cours de maladies classées ailleurs, région thoraco-lombaire
+M49.86	spondylopathie au cours de maladies classées ailleurs, région lombaire
+M49.87	spondylopathie au cours de maladies classées ailleurs, région lombo-sacrée
+M49.88	spondylopathie au cours de maladies classées ailleurs, région sacrée et sacro-coccygienne
+M49.89	spondylopathie au cours de maladies classées ailleurs, multiples sites vertébraux
+M50.0	trouble d'un disque cervical avec myélopathie, région cervicale non spécifiée
+M50.1	atteinte d'un disque cervical avec myélopathie, région cervicale haute
+M50.2	atteinte d'un disque cervical avec myélopathie, région cervicale moyenne
+M50.3	atteinte d'un disque cervical avec myélopathie, région cervico-thoracique
+M50.10	atteinte d'un disque cervical avec radiculopathie, région cervicale non spécifiée
+M50.11	atteinte d'un disque cervical avec radiculopathie,  région cervicale haute
+M50.12	atteinte d'un disque cervical avec radiculopathie, région cervicale moyenne
+M50.13	atteinte d'un disque cervical avec radiculopathie, région cervico-thoracique
+M50.20	autre hernie d'un disque cervical, région cervicale non spécifiée
+M50.21	autre hernie d'un disque cervical, région cervicale haute
+M50.22	autre hernie d'un disque cervical, région cervicale moyenne
+M50.23	autre hernie d'un disque cervical, région cervico-thoracique
+M50.30	autre dégénéresence d'un disque cervical, région cervicale non spécifiée
+M50.31	autre dégénéresence d'un disque cervical, région cervicale haute
+M50.32	autre dégénéresence d'un disque cervical, région cervicale moyenne
+M50.33	autre dégénéresence d'un disque cervical, région cervico-thoracique
+M50.80	d'autres atteintes d'un disque cervical, région cervicale non spécifiée
+M50.81	d'autres atteintes d'un disque cervical, région cervicale haute
+M50.82	d'autres atteintes d'un disque cervical, région cervicale moyenne
+M50.83	d'autres atteintes d'un disque cervical, région cervico-thoracique
+M50.90	atteinte d'un disque cervical, non spécifié, région cervicale non spécifiée
+M50.91	atteinte d'un disque cervical, non spécifié, région cervicale haute
+M50.92	atteinte d'un disque cervical, non spécifié, région cervicale moyenne
+M50.93	atteinte d'un disque cervical, non spécifié, région cervico-thoracique
+M51.4	atteintes  d'un disque intervertébral avec myélopathie, région thoracique
+M51.5	atteintes  d'un disque intervertébral avec myélopathie, région thoraco-lombaire
+M51.6	atteintes  d'un disque intervertébral avec myélopathie, région lombaire
+M51.14	atteintes  d'un disque intervertébral avec radiculopathie, région thoracique
+M51.15	atteintes  d'un disque intervertébral avec radiculopathie, région thoraco-lombaire
+M51.16	atteintes  d'un disque intervertébral avec radiculopathie, région lombaire
+M51.17	atteintes  d'un disque intervertébral avec radiculopathie, région lombo-sacrée
+M51.24	autre hernie d'un disque vertébral, région thoracique
+M51.25	autre hernie d'un disque vertébral, région thoraco-lombaire
+M51.26	autre hernie d'un disque vertébral, région lombaire
+M51.27	autre hernie d'un disque vertébral, région lombo-sacrée
+M51.34	autre dégénéresence d'un disque vertébral, région thoracique
+M51.35	autre dégénéresence d'un disque vertébral, région thoraco-lombaire
+M51.36	autre dégénéresence d'un disque vertébral, région lombaire
+M51.37	autre dégénéresence d'un disque vertébral, région lombo-sacrée
+M51.44	nodules de Schmorl, région thoracique
+M51.45	nodules de Schmorl, région thoraco-lombaire
+M51.46	nodules de Schmorl, région lombaire
+M51.47	nodules de Schmorl, région lombo-sacréeé
+M51.84	d'autres atteintes d'un disque intervertébral, région thoracique
+M51.85	d'autres atteintes d'un disque intervertébral, région thoraco-lombaire
+M51.86	d'autres atteintes d'un disque intervertébral, région lombaire
+M51.87	d'autres atteintes d'un disque intervertébral, région lombo-sacrée
+M51.9	atteinte thoracique, thoraco-lombaire et lombo-sacré d'un disque intervertébral, non spécifiée
+M53.0	syndrome cervico-céphalique
+M53.1	syndrome cervico-brachial
+M53.2X1	instabilités spinales, région occipito-atloïdo-axoïdienne
+M53.2X2	instabilités spinales, région cervicale
+M53.2X3	instabilités spinales, région cervico-thoracique
+M53.2X4	instabilités spinales, région thoracique
+M53.2X5	instabilités spinales, région thoraco-lombaire
+M53.2X6	instabilités spinales, région lombaire
+M53.2X7	instabilités spinales, région lombo-sacrée
+M53.2X8	instabilités spinales, région sacrée et sacro-coccygienne
+M53.2X9	instabilités spinales, site non spécifié
+M53.3	atteintes sacro-coccygiennes, non classés ailleurs
+M53.80	d'autres dorsopathies spécifques, site non spécifié
+M53.81	d'autres dorsopathies spécifiques, région occipito-atloïdo-axoïdienne
+M53.82	d'autres dorsopathies spécifiques, région cervicale
+M53.83	d'autres dorsopathies spécifiques, région cervico-thoracique
+M53.84	d'autres dorsopathies spécifiques, région thoracique
+M53.85	d'autres dorsopathies spécifiques, région thoraco-lombaire
+M53.86	d'autres dorsopathies spécifiques, région lombaire
+M53.87	d'autres dorsopathies spécifiques, région lombo-sacrée
+M53.88	d'autres dorsopathies spécifiques, région sacrée et sacro-coccygienne
+M53.9	dorsopathie, non spécifique
+M54.0	panniculite affectant le cou et le dos, site non spécifié
+M54.1	panniculite affectant le cou et le dos, région occipito-atloïdo-axoïdienne
+M54.2	panniculite affectant le cou et le dos, région cervicale
+M54.3	panniculite affectant le cou et le dos, région cervico-thoracique
+M54.4	panniculite affectant le cou et le dos, région thoracique
+M54.5	panniculite affectant le cou et le dos, région thoraco-lombaire
+M54.6	panniculite affectant le cou et le dos, région lombaire
+M54.7	panniculite affectant le cou et le dos, région lombo-sacrée
+M54.8	panniculite affectant le cou et le dos, région sacrée et sacro-coccygienne
+M54.9	panniculite affectant le cou et le dos, multiples sites vertébraux
+M54.10	radiculopathie, site non spécifié
+M54.11	radiculopathie, région occipito-atloïdo-axoïdienne
+M54.12	radiculopathie, région cervicale
+M54.13	radiculopathie, région cervico-thoracique
+M54.14	radiculopathie, région thoracique
+M54.15	radiculopathie, région thoraco-lombaire
+M54.16	radiculopathie, région lombaire
+M54.17	radiculopathie, région lombo-sacrée
+M54.18	radiculopathie, région sacrée et sacro-coccygienne
+M54.2	cervicalgie
+M54.30	sciatique, côté non spécifié
+M54.31	sciatique, côté droit
+M54.32	sciatique, côté gauche
+M54.40	lumbago avec sciatique, côté non spécifié
+M54.41	lumbago avec sciatique, côté droit
+M54.42	lumbago avec sciatique, côté gauche
+M54.5	lombalgie basse
+M54.6	rachialgies dorsales
+M54.81	névralgie occipitale
+M54.89	autre dorsalgie
+M54.9	dorsalgie, sans précision
+M60.0	myosite infectieuse, membre supérieur droit sans précision
+M60.1	myosite infectieuse, membre supérieur gauche sans précision
+M60.2	myosite infectieuse, membre supérieur sans précision
+M60.3	myosite infectieuse, membre inférieur droit sans précision
+M60.4	myosite infectieuse, membre inférieur gauche sans précision
+M60.5	myosite infectieuse, membre inférieur sans précision
+M60.9	myosite infectieuse, site sans précision
+M60.11	myosite infectieuse, épaule droite
+M60.12	myosite infectieuse, épaule gauche
+M60.19	myosite infectieuse, épaule non spécifiée
+M60.21	myosite infectieuse, bras droit
+M60.22	myosite infectieuse, bras gauche
+M60.29	myosite infectieuse, bras non spécifié
+M60.31	myosite infectieuse, avant-bras droit
+M60.32	myosite infectieuse, avant-bras gauche
+M60.39	myosite infectieuse, avant-bras non spécifié
+M60.41	myosite infectieuse, main droite
+M60.42	myosite infectieuse, main gauche
+M60.43	myosite infectieuse, main non spécifiée
+M60.44	myosite infectieuse, doigt(s) droit(s)
+M60.45	myosite infectieuse, doigt(s) gauche(s)
+M60.46	myosite infectieuse, doigt(s) non spécifié(s)
+M60.51	myosite infectieuse, cuisse droite
+M60.52	myosite infectieuse, cuisse gauche
+M60.59	myosite infectieuse, cuisse non spécifiée
+M60.61	myosite infectieuse, jambe droite
+M60.62	myosite infectieuse, jambe gauche
+M60.69	myosite infectieuse, jambe non spécifiée
+M60.70	myosite infectieuse, cheville droite
+M60.71	myosite infectieuse, cheville gauche
+M60.72	myosite infectieuse, cheville non spécifiée
+M60.73	myosite infectieuse, pied droit
+M60.74	myosite infectieuse, pied gauche
+M60.75	myosite infectieuse, pied non spécifié
+M60.76	myosite infectieuse, orteil(s) droit(s)
+M60.77	myosite infectieuse, orteil(s) gauche(s)
+M60.78	myosite infectieuse, orteil(s) non spécifiés
+M60.8	myosite infectieuse, autre site
+M60.9	myosite infectieuse, multiples sites
+M60.10	myosite interstitielle, sans précision
+M60.111	myosite interstitielle, épaule droite
+M60.112	myosite interstitielle, épaule gauche
+M60.119	myosite interstitielle, épaule non spécifiée
+M60.121	myosite interstitielle, bras droit
+M60.122	myosite interstitielle, bras gauche
+M60.129	myosite interstitielle, bras non spécifié
+M60.131	myosite interstitielle, avant-bras droit
+M60.132	myosite interstitielle, avant-bras gauche
+M60.139	myosite interstitielle, avant-bras non spécifié
+M60.141	myosite interstitielle, main droite
+M60.142	myosite interstitielle, main gauche
+M60.149	myosite interstitielle, main non spécifiée
+M60.151	myosite interstitielle, cuisse droite
+M60.152	myosite interstitielle, cuisse gauche
+M60.159	myosite interstitielle, cuisse non spécifiée
+M60.161	myosite interstitielle, jambe droite
+M60.162	myosite interstitielle, jambe gauche
+M60.169	myosite interstitielle, jambe non spécifiée
+M60.171	myosite interstitielle, cheville et pied droits
+M60.172	myosite interstitielle, cheville et pied gauches
+M60.179	myosite interstitielle, cheville et pied non spécifiés
+M60.18	myosite interstitielle, autre site
+M60.19	myosite interstitielle, multiples sites
+M60.20	granulome du tissu mou dû à la présence d'un corps étranger, non classé ailleurs, site non spécifié
+M60.211	granulome du tissu mou dû à la présence d'un corps étranger, non classé ailleurs, épaule droite
+M60.212	granulome du tissu mou dû à la présence d'un corps étranger, non classé ailleurs, épaule gauche
+M60.219	granulome du tissu mou dû à la présence d'un corps étranger, non classé ailleurs, épaule non spécifiée
+M60.221	granulome du tissu mou dû à la présence d'un corps étranger, non classé ailleurs, bras droit
+M60.222	granulome du tissu mou dû à la présence d'un corps étranger, non classé ailleurs, bras gauche
+M60.229	granulome du tissu mou dû à la présence d'un corps étranger, non classé ailleurs, bras non spécifié
+M60.231	granulome du tissu mou dû à la présence d'un corps étranger, non classé ailleurs, avant-bras droit
+M60.232	granulome du tissu mou dû à la présence d'un corps étranger, non classé ailleurs, avant-bras gauche
+M60.239	granulome du tissu mou dû à la présence d'un corps étranger, non classé ailleurs, avant-bras non spécifié
+M60.241	granulome du tissu mou dû à la présence d'un corps étranger, non classé ailleurs, main droite
+M60.242	granulome du tissu mou dû à la présence d'un corps étranger, non classé ailleurs, main gauche
+M60.249	granulome du tissu mou dû à la présence d'un corps étranger, non classé ailleurs, main non spécifiée
+M60.251	granulome du tissu mou dû à la présence d'un corps étranger, non classé ailleurs, cuisse droite
+M60.252	granulome du tissu mou dû à la présence d'un corps étranger, non classé ailleurs, cuisse gauche
+M60.259	granulome du tissu mou dû à la présence d'un corps étranger, non classé ailleurs, cuisse non spécifiée
+M60.261	granulome du tissu mou dû à la présence d'un corps étranger, non classé ailleurs, jambe droite
+M60.262	granulome du tissu mou dû à la présence d'un corps étranger, non classé ailleurs, jambe gauche
+M60.269	granulome du tissu mou dû à la présence d'un corps étranger, non classé ailleurs, jambe non spécifiée
+M60.271	granulome du tissu mou dû à la présence d'un corps étranger, non classé ailleurs, cheville et pied droits
+M60.272	granulome du tissu mou dû à la présence d'un corps étranger, non classé ailleurs, cheville et pied gauches
+M60.279	granulome du tissu mou dû à la présence d'un corps étranger, non classé ailleurs, cheville et pied non spécifiés
+M60.28	granulome du tissu mou dû à la présence d'un corps étranger, non classé ailleurs, autre site
+M60.80	autre myosite, site non spécifié
+M60.811	autre myosite, épaule droite
+M60.812	autre myosite, épaule gauche
+M60.819	autre myosite, épaule non spécifiée
+M60.821	autre myosite, bras droit
+M60.822	autre myosite, bras gauche
+M60.829	autre myosite, bras non spécifié
+M60.831	autre myosite, avant-bras droit
+M60.832	autre myosite, avant-bras gauche
+M60.839	autre myosite, avant-bras non spécifié
+M60.841	autre myosite, main droite
+M60.842	autre myosite, main gauche
+M60.849	autre myosite, main non spécifiée
+M60.851	autre myosite, cuisse droite
+M60.852	autre myosite, cuisse gauche
+M60.859	autre myosite, cuisse non spécifiée
+M60.861	autre myosite, jambe droite
+M60.862	autre myosite, jambe gauche
+M60.869	autre myosite, jambe non spécifiée
+M60.871	autre myosite, cheville et pied droits
+M60.872	autre myosite, cheville et pied gauches
+M60.879	autre myosite, cheville et pied non spécifiés
+M60.88	autre myosite, autre site
+M60.89	autre myosite, multiples sites
+M60.9	myosite, non spécifiée
+M61.0	myosite ossifiante traumatique, site non spécifié
+M61.11	myosite ossifiante traumatique, épaule droite
+M61.12	myosite ossifiante traumatique, épaule gauche
+M61.19	myosite ossifiante traumatique, épaule non spécifiée
+M61.21	myosite ossifiante traumatique, bras droit
+M61.22	myosite ossifiante traumatique, bras gauche
+M61.29	myosite ossifiante traumatique, bras non spécifié
+M61.31	myosite ossifiante traumatique, avant-bras droit
+M61.32	myosite ossifiante traumatique, avant-bras gauche
+M61.39	myosite ossifiante traumatique, avant-bras non spécifié
+M61.41	myosite ossifiante traumatique, main droite
+M61.42	myosite ossifiante traumatique, main gauche
+M61.49	myosite ossifiante traumatique, main non spécifiée
+M61.51	myosite ossifiante traumatique, cuisse droite
+M61.52	myosite ossifiante traumatique, cuisse gauche
+M61.59	myosite ossifiante traumatique, cuisse non spécifiée
+M61.61	myosite ossifiante traumatique, jambe droite
+M61.62	myosite ossifiante traumatique, jambe gauche
+M61.69	myosite ossifiante traumatique, jambe non spécifiée
+M61.71	myosite ossifiante traumatique, cheville et pied droits

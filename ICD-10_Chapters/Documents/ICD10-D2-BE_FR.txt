@@ -1,0 +1,268 @@
+D50.0	anémie par carence en fer secondaire à une perte de sang
+D50.0	anémie par carence en fer secondaire à une perte de sang chronique
+D50.1	dysphagie sidéropénique
+D50.8	d'autres anémies par carence en fer
+D50.9	anémie par carence en fer, non spécifiée
+D51.0	anémie par carence en vitamine B12 due à une carence en facteur intrinsèque
+D51.1	anémie par carence en vitamine B12 due à une malabsorption sélective de vitamine B12, avec protéinurie
+D51.2	carence en transcobalamine II
+D51.3	d'autres anémies par carence alimentaire en vitamine B12
+D51.8	d'autres anémies par carence en vitamine B12
+D51.9	anémie par carence en vitamine B12, non spécifiée
+D52.0	anémie par carence alimentaire en acide folique
+D52.1	anémie par carence en acide folique due à des médicaments
+D52.8	d'autres anémies par carence en acide folique
+D52.9	anémie par carence en acide folique, non spécifiée
+D53.0	anémie par carence en protéines
+D53.1	d'autres anémies mégaloblastiques, non classées ailleurs
+D53.2	anémie scorbutique
+D53.8	d'autres anémies nutritionnelles spécifiées
+D53.9	anémie nutritionnelle, non spécifiée
+D55.0	anémie due à une carence en glucose-6-phosphate déshydrogénase
+D55.0	anémie due à une carence en G6PD
+D55.1	anémie due à d'autres troubles du métabolisme du glutathion
+D55.2	anémie due à des troubles des enzymes glycolytiques
+D55.3	anémie due à des troubles du métabolisme des nucléotides
+D55.8	d'autres anémies dues à des troubles enzymatiques
+D55.9	anémie due à des troubles enzymatiques, non spécifiés
+D56.0	alpha-thalassémie
+D56.1	bêta-thalassémie
+D56.2	delta-bêta-thalassémie
+D56.3	thalassémie mineure
+D56.4	persistance héréditaire d'hémoglobine foetale
+D56.4	persistance héréditaire de HbF
+D56.5	hémoglobine E-bèta-thalassémie
+D56.8	d'autres thalassémies
+D56.9	thalassémie, non spécifiée
+D57.00	drépanocytose manifeste avec une crise, non spécifiée
+D57.01	drépanocytose manifeste avec syndrome thoracique aigu
+D57.02	drépanocytose manifeste avec séquestration splénique
+D57.00	Hb-SS avec une crise, non spécifiée
+D57.01	Hb-SS avec syndrome thoracique aigu
+D57.02	Hb-SS avec séquestration splénique
+D57.1	drépanocytose, sans crise
+D57.20	drépanocytose et hémoglobinose C sans crise
+D57.211	drépanocytose et hémoglobinose C avec syndrome thoracique aigu
+D57.212	drépanocytose et hémoglobinose C avec séquestration splénique
+D57.219	drépanocytose et hémoglobinose C avec une crise, non spécifiée
+D57.3	drépanocytose latente
+D57.3	Hb-S latente
+D57.40	thalassémie drépanocytaire sans crise
+D57.411	thalassémie drépanocytaire avec syndrome thoracique aigu
+D57.412	thalassémie drépanocytaire avec séquestration splénique
+D57.419	thalassémie drépanocytaire avec une crise, non spécifiée
+D57.40	Hb-s sans crise
+D57.411	Hb-s avec syndrome thoracique aigu
+D57.412	Hb-s avec séquestration splénique
+D57.419	Hb-s avec une crise, non spécifiée
+D57.80	autre drépanocytose, sans crise
+D57.811	autre drépanocytose, avec syndrome thoracique aigu
+D57.812	autre drépanocytose, avec séquestration splénique
+D57.819	autre drépanocytose, avec une crise, non spécifiée
+D58.0	sphérocytose héréditaire
+D58.1	elliptocytose héréditaire
+D58.2	d'autres hémoglobinopathies
+D58.8	d'autres anémies hémolytiques héréditaires spécifiées
+D58.9	anémie hémolytique héréditaire, non spécifiée
+D59.0	anémie hémolytique auto-immune, due à des médicaments
+D59.1	d'autres anémies hémolytiques auto-immunes
+D59.2	anémie hémolytique non auto-immune, due à des médicaments
+D59.3	syndrome hémolytique urémique
+D59.4	d'autres anémies hémolytiques non auto-immunes
+D59.5	hémoglobinurie paroxystique nocturne
+D59.5	syndrome de Marchiafava-Micheli
+D59.6	hémoglobinurie due à une hémolyse relevant d'autres causes externes
+D59.8	d'autres anémies hémolytiques acquises
+D59.9	anémie hémolytique acquise, non spécifiée
+D60.0	aplasie pure des globules rouges acquise, chronique
+D60.1	aplasie pure des globules rouges acquise, transitoire
+D60.8	d'autres aplasies pures des globules rouges acquises
+D60.9	aplasie pure des globules rouges acquise, non spécifiée
+D61.01	Aplasie constitutionnelle des globules rouges
+D61.09	autre anémie aplasique constitutionnelle
+D61.1	anémie aplasique médicamenteuse
+D61.2	anémie aplasique due à d'autres agents externes
+D61.3	anémie aplasique idiopathique
+D61.810	pancytopénie due à la chimiothérapie antinéoplasique
+D61.811	pancytopénie médicamenteuse
+D61.818	autre pancytopénie
+D61.82	myélophtysie
+D61.89	d'autres anémies aplasiques spécifiées et d'autres syndromes de faillite médullaire
+D61.9	anémie aplasique, non spécifiée
+D62	anémie posthémorragique aiguë
+D63.0	anémie liée à une maladie néoplasique
+D63.1	anémie liée à une maladie rénale chronique
+D63.8	anémie au cours d'autres maladies chroniques classées ailleurs
+D64.0	anémie sidéroblastique héréditaire
+D64.1	anémie sidéroblastique secondaire, due à une maladie
+D64.2	anémie sidéroblastique secondaire, due à des médicaments et des toxines
+D64.3	d'autres anémies sidéroblastiques
+D64.4	anémie dysérythropoïétique congénitale
+D64.81	anémie due à la chimiothérapie antinéoplasique
+D64.89	autre anémie spécifiée
+D64.9	anémie, non spécifiée
+D65	coagulation intravasculaire disséminée
+D65	syndrome de défibrination
+D66	carence héréditaire en facteur VIII
+D67	carence héréditaire en facteur IX
+D68.0	maladie de von Willebrand
+D68.1	carence héréditaire en facteur XI
+D68.2	carence héréditaire en d'autres facteurs de la coagulation
+D68.311	hémophilie acquise
+D68.312	anticorps antiphospholipides avec trouble hémorragique
+D68.318	trouble hémorragique dû à des anticoagulants
+D68.318	trouble hémorragique dû à des  anticorps
+D68.318	trouble hémorragique dû à des inhibiteurs circulants intrinsèques
+D68.32	trouble hémorragique dû à des anticoagulants circulants extrinsèques
+D68.4	carence acquise en facteur de la coagulation
+D68.51	résistance à la protéine C activée
+D68.52	mutation du gène de la prothrombine
+D68.59	autre forme d'une thrombophilie primaire
+D68.61	syndrome antiphospholipides
+D68.62	présence d'anticoagulant lupique
+D68.69	autre forme d'une thrombophilie primaire
+D68.8	d'autres déficits spécifiés de la coagulation
+D68.9	déficit de la coagulation, non spécifié
+D69.0	purpura allergique
+D69.1	déficits qualitatifs des plaquettes
+D69.2	autre purpura non thrombocytopénique
+D69.3	purpura thrombocytopénique idiopathique
+D69.41	syndrome d'Evans
+D69.42	purpura thrombocytopénique congénital et héréditaire
+D69.49	autre thrombocytopénie primaire
+D69.51	purpura post-transfusionnel
+D69.59	autre thrombocytopénie secondaire
+D69.6	thrombocytopénie, non spécifiée
+D69.8	d'autres affections hémorragiques spécifiées
+D69.9	affection hémorragique, non spécifiée
+D70.0	agranulocytose congénitale
+D70.1	agranulocytose secondaire à la chimiothérapie anti-cancéreuse
+D70.2	autre agranulocytose induite par des médicaments
+D70.3	neutropénie due à une infection
+D70.4	neutropénie cyclique
+D70.8	autre neutropénie
+D70.9	neutropénie, non spécifiée
+D71		troubles fonctionnels de polynucléaires neutrophiles
+D72.0	anomalies génétiques des leucocytes
+D72.1	éosinophilie
+D72.810	lymphocytopénie
+D72.818	autre diminution du nombre de globules blancs
+D72.819	diminution du nombre de globules blancs, non spécifiée
+D72.820	lymphocytose
+D72.821	monocytose
+D72.820	lymphocytose symptomatique
+D72.821	monocytose symptomatique
+D72.822	plasmocytose
+D72.823	réaction leucémoïde
+D72.824	basophilie
+D72.825	bandémie
+D72.828	autre élévation du nombre de globules blancs
+D72.829	élévation du nombre de globules blancs, non spécifiée
+D72.89	d'autres troubles spécifiés des globules blancs
+D72.9	trouble des globules blancs, non spécifié
+D73.0	hyposplénisme
+D73.1	hypersplénisme
+D73.2	splénomégalie congestive chronique
+D73.3	abcès de la rate
+D73.4	kyste de la rate
+D73.5	infarctus de la rate
+-D73.81	splénomégalie neutropénique
+D73.89	d'autres maladies de la rate
+D73.9	maladie de la rate, non spécifiée
+D74.0	méthémoglobinémie congénitale
+D74.8	d'autres méthémoglobinémies
+D74.9	méthémoglobinémie, non spécifiée
+D75.0	érythrocytose familiale
+D75.1	polycythémie secondaire
+D75.81	myélofibrose
+D75.82	thrombocytopénie induite par l'héparine
+D75.82	HIT
+D75.89	d'autres maladies spécifiées du sang et des organes hématopoïétiques
+D75.9	maladie du sang et des organes hématopoïétiques, non spécifiée
+D76.1	lymphohistiocytose hémophagocytaire
+D76.2	syndrome hémophagocytaire associé à une infection
+D76.3	d'autres syndromes histiocytaires
+D77	d'autres troubles du sang et des organes hématopoïétiques dans des maladies classées ailleurs
+D78.01	hémorragie peropératoire et hématome de la rate compliquant une procédure sur la rate
+D78.02	hémorragie peropératoire et hématome de la rate compliquant une autre procédure
+D78.11	ponction accidentelle et lacération pendant une procédure sur la rate
+D78.12	ponction accidentelle et lacération de la rate pendant une autre procédure
+D78.21	hémorragie après une procédure et hématome de la rate suite à une procédure sur la rate
+D78.22	hémorragie après une procédure et hématome de la rate suite à une autre procédure
+D78.81	d'autres complications peropératoires de la rate
+D78.89	d'autres complications de la rate après une procédure
+D80.0	hypogammaglobulinémie héréditaire
+D80.1	hypogammaglobulinémie non familiale
+D80.2	déficience sélective en immunoglobuline A
+D80.2	déficience sélective en IgA
+D80.3	déficience sélective en sous-classes d'immunoglobulines G
+D80.3	déficience sélective en sous-classes d'IgG
+D80.4	déficience sélective en immunoglobuline M
+D80.4	déficience sélective en IgM
+D80.5	déficience immunitaire avec une augmentation d'immunoglobuline M
+D80.5	déficience immunitaire avec une augmentation d'IgM
+D80.6	déficience en anticorps avec immunoglobulines presque normales ou avec hyperimmunoglobulinémie
+D80.7	hypogammaglobulinémie transitoire du nourrisson
+D80.8	d'autres déficiences immunitaires avec un déficit prédominant de la production d'anticorps
+D80.9	déficience immunitaire avec un déficit prédominant de la production d'anticorps, non spécifiée
+D81.0	déficit immunitaire combiné sévère avec dysgénésie réticulaire
+D81.1	déficit immunitaire combiné sévère avec un nombre faible de cellules B et T
+D81.2	déficit immunitaire combiné sévère avec un nombre faible ou normal de cellules B
+D81.3	déficit en adénosine désaminase
+D81.0	DICS avec dysgénésie réticulaire
+D81.1	DICS avec un nombre faible de cellules B et T
+D81.2	DICS avec un nombre faible ou normal de cellules B
+D81.3	déficit en ADA
+D81.4	syndrome de Nézelof
+D81.5	déficit en purine nucléoside phosphorylase
+D81.5	déficit en PNP
+D81.6	déficit en complexe majeur d'histocompatibilité de classe I
+D81.7	déficit en complexe majeur d'histocompatibilité de classe II
+D81.810	déficit en biotinidase
+D81.818	autre déficit en carboxylase biotine-dépendante
+D81.819	déficit en carboxylase biotine-dépendante, non spécifié
+D81.89	d'autres déficiences immunitaires combinées
+D81.9	déficience immunitaire combinée, non spécifiée
+D82.0	syndrome de Wiskott-Aldrich
+D82.1	syndrome de Di George
+D82.2	déficience immunitaire avec micromélie
+D82.3	déficience immunitaire avec une réponse héréditaire anormale au virus d'Epstein-Barr
+D82.4	syndrome d'hyperimmunoglobuline E
+D82.4	syndrome d'IgE
+D82.8	déficience immunitaire associée à d'autres défauts majeurs spécifiés
+D82.9	déficience immunitaire associée à un défaut majeur, non spécifié
+D83.0	déficience immunitaire commune variable avec des anomalies prédominantes du nombre et de la fonction des lymphocytes B
+D83.1	déficience immunitaire commune variable avec des anomalies prédominantes des lymphocytes T immunorégulateurs
+D83.2	déficience immunitaire commune variable avec des auto-anticorps anti-lymphocytes B ou T
+D83.8	d'autres déficiences immunitaires communes variables
+D83.9	déficience immunitaire commune variable, non spécifiée
+D84	Other immunodeficiencies
+D84.0	défaut de la fonction lymphocytaire antigène-1
+D84.0	défaut de LFA-1
+D84.1	défaut du complément
+D84.8	d'autres déficiences immunitaires spécifiées
+D84.9	déficience immunitaire, non spécifiée
+D86.0	sarcoïdose pulmonaire
+D86.1	sarcoïdose des ganglions lymphatiques
+D86.2	sarcoïdose pulmonaire avec sarcoïdose des ganglions lymphatiques
+D86.3	sarcoïdose cutanée
+D86.81	méningite sarcoïdosique
+D86.82	paralysie sarcoïdosique multiple des nerfs crâniens
+D86.83	iridocyclite sarcoïdosique
+D86.84	pyélonéphrite sarcoïdosique
+D86.85	myocardite sarcoïdosique
+D86.86	arthropathie sarcoïdosique
+D86.87	myosite sarcoïdosique
+D86.89	sarcoïdose d'autres sites
+D86.9	sarcoïdose, non spécifiée
+D89.0	hypergammaglobulinémie polyclonale
+D89.1	cryoglobulinémie
+D89.2	hypergammaglobulinémie, non spécifiée
+D89.3	syndrome de reconstitution immunitaire
+D89.810	maladie du greffon contre l'hôte, aiguë
+D89.811	maladie du greffon contre l'hôte, chronique
+D89.812	maladie du greffon contre l'hôte, aiguë sur chronique
+D89.813	maladie du greffon contre l'hôte, non spécifiée
+D89.82	syndrome lymphoprolifératif avec auto-immunité
+D89.89	d'autres troubles spécifiés impliquant le système immunitaire, non classés ailleurs
+D89.9	trouble impliquant le système immunitaire, non spécifié

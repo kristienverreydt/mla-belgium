@@ -1,0 +1,749 @@
+R00.0	tachycardie, non spécifiée
+R00.1	bradycardie, non spécifiée
+R00.2	palpitations
+R00.8	d'autres anomalies du rythme cardiaque
+R00.9	anomalies non spécifiées du rythme cardiaque
+R01.0	souffle cardiaque physiologique bénin
+R01.1	souffle cardiaque, non spécifié
+R01.2	d'autres bruits cardiaques
+R03.0	tension artérielle élevée, sans hypertension
+R03.1	tension artérielle basse non spécifique
+R04.0	épistaxis
+R04.1	hémorragie de la gorge
+R04.2	hémoptysie
+R04.81	hémorragie pulmonaire aigue idiopathique de l'enfant
+R04.81	hémorragie pulmonaire aigue idiopathique du bébé
+R04.89	autre hémorragie du système respiratoire
+R04.9	hémorragie du système respiratoire, non spécifiée
+R05	toux
+R06.0	dyspnée, non spécifiée
+R06.1	orthopnée
+R06.2	courtesse de l'haleine
+R06.9	d'autres formes de dyspnée
+R06.1	stridor
+R06.2	sifflement respiratoire
+R06.3	respiration périodique
+R06.3	respiration périodique de Cheynes-Stokes
+R06.3	respiration de Cheynes-Stokes
+R06.4	hyperventilation
+R06.5	respiration buccale
+R06.6	hoquet
+R06.7	éternuement
+R06.81	apnée, non classée ailleurs
+R06.82	tachypnée, non classée ailleurs
+R06.83	ronflement
+R06.89	d'autres anormalités de la respiration
+R06.9	anormalités de la respiration non spécifiées
+R07.0	douleur de la gorge
+R07.1	douleur thoracique respiro-dépendante
+R07.2	douleur précordiale
+R07.81	pleurodynie
+R07.82	douleur intercostale
+R07.89	autre douleur thoracique
+R07.9	douleur thoracique, non spécifiée
+R09.1	asphyxie
+R09.2	hypoxémie
+R09.1	pleurésie
+R09.2	arrêt respiratoire
+R09.3	expectoration anormale
+R09.81	congestion nasale
+R09.82	écoulement nasal postérieur
+R09.89	d'autres symptômes et signes spécifiés impliquant le système circulatoir et le système respiratoire
+R10.0	syndrome abdominal aigu
+R10.10	douleur abdominale supérieure, non spécifiée
+R10.11	douleur abdominale, quadrant supérieur droit
+R10.12	douleur abdominale, quadrant supérieur gauche
+R10.13	douleur abdominale épigastrique
+R10.2	douleur pelvienne et périnéale
+R10.30	douleur abdominale inférieure, non spécifiée
+R10.31	douleur abdominale, quadrant inférieur droit
+R10.32	douleur abdominale, quadrant inférieur gauche
+R10.33	douleur abdominale périombilicale
+R10.811	sensibilité abdominale, quadrant supérieur droit
+R10.812	sensibilité abdominale, quadrant supérieur gauche
+R10.813	sensibilité abdominale, quadrant inférieur droit
+R10.814	sensibilité abdominale, quadrant inférieur gauche
+R10.815	sensibilité abdominale périombilicale
+R10.816	sensibilité abdominale épigastrique
+R10.817	sensibilité abdominale généralisée
+R10.819	sensibilité abdominale, localisation non spécifiée
+R10.821	sensibilité abdominale avec un signe du rebond, quadrant supérieur droit
+R10.822	sensibilité abdominale avec un signe du rebond, quadrant supérieur gauche
+R10.823	sensibilité abdominale avec un signe du rebond, quadrant inférieur droit
+R10.824	sensibilité abdominale avec un signe du rebond, quadrant inférieur gauche
+R10.825	sensibilité abdominale avec un signe du rebond, péri-ombilicale
+R10.826	sensibilité abdominale avec un signe du rebond, épigastrique
+R10.827	sensibilité abdominale avec un signe du rebond, généralisée
+R10.829	sensibilité abdominale avec un signe du rebond, localisation non spécifiée
+R10.83	coliques abdominales
+R10.84	douleur abdominale généralisée
+R10.9	douleur abdominale non spécifiée
+R11.0	nausée
+R11.10	vomissement, non spécifié
+R11.11	vomissement sans nausée
+R11.12	vomissement en jet
+R11.13	vomissement fécaloïde
+R11.14	vomissement bilieux
+R11.2	nausée avec vomissement, non spécifiée
+R12	pyrosis
+R13.0	aphagie
+R13.10	dysphagie, non spécifiée
+R13.11	dysphagie, phase orale
+R13.12	dysphagie, phase oro-pharyngée
+R13.13	dysphagie, phase pharyngée
+R13.14	dysphagie, phase pharyngo-oesophagienne
+R13.19	autre dysphagie
+R14.0	distension abdominale
+R14.0	distension abdominale gazeux
+R14.1	douleur abdominale due au météorisme
+R14.2	éructation
+R14.3	flatulence
+R15.0	défécation incomplète
+R15.1	souillage par des matières fécales
+R15.2	besoin pressant de déféquer
+R15.9	incontinence fécale totale
+R16.0	hépatomégalie, non classée ailleurs
+R16.1	splénomégalie, non classée ailleurs
+R16.2	hépatosplénomégalie, non classée ailleurs
+R17	ictère, non spécifié
+R18.0	ascite néoplasique maligne
+R18.8	autres ascites
+R19.0	tuméfaction et masse intra-abdominale et pelvienne, localisation non spécifiée
+R19.1	tuméfaction et masse abdominale, quadrant supérieur droit
+R19.2	tuméfaction et masse abdominale, quadrant supérieur gauche
+R19.3	tuméfaction et masse abdominale, quadrant inférieur droit
+R19.4	tuméfaction et masse abdominale, quadrant inférieur gauche
+R19.5	tuméfaction et masse abdominale, péri-ombilicale
+R19.6	tuméfaction et masse abdominale, épigastrique
+R19.7	tuméfaction et masse abdominale, généralisée
+R19.9	tuméfaction et masse intra-abdominale et pelvienne, autre
+R19.11	silence intestinal
+R19.12	bruits intestinaux hyperactifs
+R19.15	d'autres bruits intestinaux anormaux
+R19.2	péristaltisme apparent
+R19.30	ventre de bois, localisation non spécifiée
+R19.31	ventre de bois, quadrant supérieur droit
+R19.32	ventre de bois, quadrant supérieur gauche
+R19.33	ventre de bois, quadrant inférieur droit
+R19.34	ventre de bois, quadrant inférieur gauche
+R19.35	ventre de bois, péri-ombilicale
+R19.36	ventre de bois, épigastrique
+R19.37	ventre de bois, généralisée
+R19.30	contracture musculaire abdominale, localisation non spécifiée
+R19.31	contracture musculaire abdominale, quadrant supérieur droit
+R19.32	contracture musculaire abdominale, quadrant supérieur gauche
+R19.33	contracture musculaire abdominale, quadrant inférieur droit
+R19.34	contracture musculaire abdominale, quadrant inférieur gauche
+R19.35	contracture musculaire abdominale, péri-ombilicale
+R19.36	contracture musculaire abdominale, épigastrique
+R19.37	contracture musculaire abdominale, généralisée
+R19.4	modification du transit intestinal
+R19.5	d'autres anomalies de la matière fécale
+R19.6	halitose
+R19.7	diarrhée, non spécifiée
+R19.8	d'autres symptômes et signes spécifiés impliquant le système digestif et l'abdomen
+R20.0	anesthésie cutanée
+R20.1	hypoesthésie cutanée
+R20.2	paresthésie cutanée
+R20.3	hyperesthésie cutanée
+R20.8	d'autres troubles de la sensibilité cutanée
+R20.9	troubles non spécifiés de la sensibilité cutanée
+R21	rash et une autre éruption cutanée, non spécifiés
+R22.0	tuméfaction et masse localisée, tête
+R22.1	tuméfaction et masse localisée, cou
+R22.2	tuméfaction et masse localisée, tronc
+R22.30	tuméfaction et masse localisée, membre supérieur non spécifié
+R22.31	tuméfaction et masse localisée, membre supérieur droit
+R22.32	tuméfaction et masse localisée, membre supérieur gauche
+R22.33	tuméfaction et masse localisée, membre supérieur, bilatéral
+R22.40	tuméfaction et masse localisée, membre inférieur non spécifié
+R22.41	tuméfaction et masse localisée, membre inférieur droit
+R22.42	tuméfaction et masse localisée, membre inférieur gauche
+R22.43	tuméfaction et masse localisée, membre inférieur, bilatéral
+R22.9	tuméfaction et masse localisée, non spécifiée
+R23.0	cyanose
+R23.1	pâleur
+R23.2	bouffée vasomotrice
+R23.2	flush
+R23.3	ecchymoses spontanées
+R23.4	modifications de la texture de la peau
+R23.8	d'autres modifications de la peau
+R23.9	modifications non spécifiées de la peau
+R25.0	mouvements anormaux de la tête
+R25.1	tremblement, non spécifié
+R25.2	crampe et spasme
+R25.3	fasciculation
+R25.8	d'autres mouvements involontaires anormaux
+R25.9	mouvements involontaires anormaux, non spécifiés
+R26.0	démarche ataxique
+R26.1	démarche paralytique
+R26.2	difficulté à marcher, non classée ailleurs
+R26.81	instabilité sur les pieds
+R26.89	d'autres anormalités de la démarche et de la mobilité
+R26.9	anormalités de la démarche et de la mobilité, non spécifiées
+R27.0	ataxie, non spécifiée
+R27.8	autre manque de coordination
+R27.9	manque de coordination, non spécifiée
+R29.0	tétanie
+R29.1	méningisme
+R29.2	réflexe anormal
+R29.3	posture anormale
+R29.4	hanche à ressaut
+R29.5	paralysie transitoire
+R29.6	chutes répétées
+R29.810	faiblesse faciale
+R29.818	d'autres symptômes et signes impliquant le système nerveux
+R29.890	perte de la taille
+R29.891	torticolis oculaire
+R29.898	d'autres symptômes et signes impliquant le système musculosquelettique
+R29.90	symptômes et signes non spécifiés impliquant le système nerveux
+R29.91	symptômes et signes non spécifiés impliquant le système musculosquelettique
+R30.0	dysurie
+R30.1	ténesme vésical
+R30.9	miction douloureuse, non spécifiée
+R31.0	hématurie macroscopique
+R31.1	hématurie essentielle bénigne microscopique
+R31.2	autre hématurie microscopique
+R31.9	hématurie non spécifiée
+R32	incontinence urinaire, non spécifiée
+R33.0	rétention urinaire induite par des médicaments
+R33.8	autre rétention urinaire
+R33.9	rétention urinaire, non spécifiée
+R34	anurie et oligurie
+R35.0	pollakiurie
+R35.1	nycturie
+R35.8	autre polyurie
+R36.0	écoulement urétral, non sanglant
+R36.1	hematospermie
+R36.9	écoulement urétral, non spécifié
+R37	dysfonctionnement sexuel, non spécifié
+R39.0	extravasation de l'urine
+R39.11	difficulté de déclencher la miction
+R39.12	faible jet urinaire
+R39.13	jet urinaire fragmenté
+R39.14	impression de vidange incomplète de la vessie
+R39.15	besoin pressant de l'uriner
+R39.16	effort du vidange de la vessie
+R39.19	d'autres difficultés mictionnelles
+R39.2	urémie extrarénale
+R39.81	incontinence urinaire fonctionnelle
+R39.89	d'autres symptômes et signes impliquant le système génito-urinaire
+R39.9	symptômes et signes non spécifiés impliquant le système génito-urinaire
+R40.0	somnolence
+R40.1	stupeur
+R40.20	coma, non spécifié
+R40.2110	échelle de coma, ouverture des yeux nulle, moment non spécifié
+R40.2111	échelle de coma, ouverture des yeux nulle, sur site
+R40.2111	échelle de coma, ouverture des yeux nulle, transport urgent
+R40.2111	échelle de coma, ouverture des yeux nulle, ambulance
+R40.2112	échelle de coma, ouverture des yeux nulle, à l'arrivée au service d'urgence
+R40.2113	échelle de coma, ouverture des yeux nulle, à l'admission hospitalière
+R40.2114	échelle de coma, ouverture des yeux nulle, 24 heures ou plus après l'admission hospitalière
+R40.2120	échelle de coma, ouverture des yeux à la douleur, moment non spécifié
+R40.2121	échelle de coma, ouverture des yeux à la douleur, sur site
+R40.2121	échelle de coma, ouverture des yeux à la douleur, transport urgent
+R40.2121	échelle de coma, ouverture des yeux à la douleur, ambulance
+R40.2122	échelle de coma, ouverture des yeux à la douleur, à l'arrivée au service d'urgence
+R40.2123	échelle de coma, ouverture des yeux à la douleur, à l'admission hospitalière
+R40.2124	échelle de coma, ouverture des yeux à la douleur, 24 heures ou plus après l'admission hospitalière
+R40.2130	échelle de coma, ouverture des yeux au bruit, moment non spécifié
+R40.2131	échelle de coma, ouverture des yeux au bruit, sur site
+R40.2131	échelle de coma, ouverture des yeux au bruit, transport urgent
+R40.2131	échelle de coma, ouverture des yeux au bruit, ambulance
+R40.2132	échelle de coma, ouverture des yeux au bruit, à l'arrivée au service d'urgence
+R40.2133	échelle de coma, ouverture des yeux au bruit, à l'admission hospitalière
+R40.2134	échelle de coma, ouverture des yeux au bruit, 24 heures ou plus après l'admission hospitalière
+R40.2130	échelle de coma, ouverture des yeux au son, moment non spécifié
+R40.2131	échelle de coma, ouverture des yeux au son, sur site
+R40.2131	échelle de coma, ouverture des yeux au son, transport urgent
+R40.2131	échelle de coma, ouverture des yeux au son, ambulance
+R40.2132	échelle de coma, ouverture des yeux au son, à l'arrivée au service d'urgence
+R40.2133	échelle de coma, ouverture des yeux au son, à l'admission hospitalière
+R40.2134	échelle de coma, ouverture des yeux au son, 24 heures ou plus après l'admission hospitalière
+R40.2140	échelle de coma, ouverture spontanée des yeux, moment non spécifié
+R40.2141	échelle de coma, ouverture spontanée des yeux, sur site
+R40.2141	échelle de coma, ouverture spontanée des yeux, transport urgent
+R40.2141	échelle de coma, ouverture spontanée des yeux, ambulance
+R40.2142	échelle de coma, ouverture spontanée des yeux, à l'arrivée au service d'urgence
+R40.2143	échelle de coma, ouverture spontanée des yeux, à l'admission hospitalière
+R40.2144	échelle de coma, ouverture spontanée des yeux, 24 heures ou plus après l'admission hospitalière
+R40.2210	échelle de coma, meilleure réponse verbale nulle, moment non spécifié
+R40.2211	échelle de coma, meilleure réponse verbale nulle, sur site
+R40.2211	échelle de coma, meilleure réponse verbale nulle, transport urgent
+R40.2211	échelle de coma, meilleure réponse verbale nulle, ambulance
+R40.2212	échelle de coma, meilleure réponse verbale nulle, à l'arrivée au service d'urgence
+R40.2213	échelle de coma, meilleure réponse verbale nulle, à l'admission hospitalière
+R40.2214	échelle de coma, meilleure réponse verbale nulle, 24 heures ou plus après l'admission hospitalière
+R40.2220	échelle de coma, meilleure réponse verbale incompréhensible, moment non spécifié
+R40.2221	échelle de coma, meilleure réponse verbale incompréhensible, sur site 
+R40.2221	échelle de coma, meilleure réponse verbale incompréhensible, transport urgent
+R40.2221	échelle de coma, meilleure réponse verbale incompréhensible, ambulance
+R40.2222	échelle de coma, meilleure réponse verbale incompréhensible, à l'arrivée au service d'urgence
+R40.2223	échelle de coma, meilleure réponse verbale incompréhensible, à l'admission hospitalière
+R40.2224	échelle de coma, meilleure réponse verbale incompréhensible, 24 heures ou plus après l'admission hospitalière
+R40.2230	échelle de coma, meilleure réponse verbale inadéquate, moment non spécifié
+R40.2231	échelle de coma, meilleure réponse verbale inadéquate, sur site
+R40.2231	échelle de coma, meilleure réponse verbale inadéquate, transport urgent
+R40.2231	échelle de coma, meilleure réponse verbale inadéquate, ambulance
+R40.2232	échelle de coma, meilleure réponse verbale inadéquate, à l'arrivée au service d'urgence
+R40.2233	échelle de coma, meilleure réponse verbale inadéquate, à l'admission hospitalière
+R40.2234	échelle de coma, meilleure réponse verbale inadéquate, 24 heures ou plus après l'admission hospitalière
+R40.2240	échelle de coma, meilleure réponse verbale confuse, moment non spécifié
+R40.2241	échelle de coma, meilleure réponse verbale confuse, sur site
+R40.2241	échelle de coma, meilleure réponse verbale confuse, transport urgent
+R40.2241	échelle de coma, meilleure réponse verbale confuse, ambulance
+R40.2240	échelle de coma, meilleure conversation confuse, moment non spécifié
+R40.2241	échelle de coma, meilleure conversation confuse, sur site
+R40.2241	échelle de coma, meilleure conversation confuse, transport urgent
+R40.2241	échelle de coma, meilleure conversation confuse, ambulance
+R40.2242	échelle de coma, meilleure réponse verbale confuse, à l'arrivée au service d'urgence
+R40.2243	échelle de coma, meilleure réponse verbale confuse, à l'admission hospitalière
+R40.2244	échelle de coma, meilleure réponse verbale confuse, 24 heures ou plus après l'admission hospitalière
+R40.2242	échelle de coma, meilleure conversation confuse, à l'arrivée au service d'urgence
+R40.2243	échelle de coma, meilleure conversation confuse, à l'admission hospitalière
+R40.2244	échelle de coma, meilleure conversation confuse, 24 heures ou plus après l'admission hospitalière
+R40.2250	échelle de coma, meilleure réponse verbale orientée, moment non spécifié
+R40.2251	échelle de coma, meilleure réponse verbale orientée, sur site
+R40.2251	échelle de coma, meilleure réponse verbale orientée, transport urgent
+R40.2251	échelle de coma, meilleure réponse verbale orientée, ambulance
+R40.2252	échelle de coma, meilleure réponse verbale orientée, à l'arrivée au service d'urgence
+R40.2253	échelle de coma, meilleure réponse verbale orientée, à l'admission hospitalière
+R40.2254	échelle de coma, meilleure réponse verbale orientée, 24 heures ou plus après l'admission hospitalière
+R40.2310	échelle de coma, meilleure réponse motrice nulle, moment non spécifié
+R40.2311	échelle de coma, meilleure réponse motrice nulle, sur site
+R40.2311	échelle de coma, meilleure réponse motrice nulle, transport urgent
+R40.2311	échelle de coma, meilleure réponse motrice nulle, ambulance
+R40.2312	échelle de coma, meilleure réponse motrice nulle, à l'arrivée au service d'urgence
+R40.2313	échelle de coma, meilleure réponse motrice nulle, à l'admission hospitalière
+R40.2314	échelle de coma, meilleure réponse motrice nulle, 24 heures ou plus après l'admission hospitalière
+R40.2320	échelle de coma, meilleure réponse motrice en extension, moment non spécifié
+R40.2321	échelle de coma, meilleure réponse motrice en extension, sur site
+R40.2321	échelle de coma, meilleure réponse motrice en extension, transport urgent
+R40.2321	échelle de coma, meilleure réponse motrice en extension, ambulance
+R40.2322	échelle de coma, meilleure réponse motrice en extension, à l'arrivée au service d'urgence
+R40.2323	échelle de coma, meilleure réponse motrice en extension, à l'admission hospitalière
+R40.2324	échelle de coma, meilleure réponse motrice en extension, 24 heures ou plus après l'admission hospitalière
+R40.2330	échelle de coma, meilleure réponse motrice anormale, moment non spécifié
+R40.2331	échelle de coma, meilleure réponse motrice anormale, sur site [transport urgent ou ambulance]
+R40.2332	échelle de coma, meilleure réponse motrice anormale, à l'arrivée au service d'urgence
+R40.2333	échelle de coma, meilleure réponse motrice anormale, à l'admission hospitalière
+R40.2334	échelle de coma, meilleure réponse motrice anormale, 24 heures ou plus après l'admission hospitalière
+R40.2340	échelle de coma, meilleure réponse motrice en flexion, moment non spécifié
+R40.2341	échelle de coma, meilleure réponse motrice en flexion, sur site
+R40.2341	échelle de coma, meilleure réponse motrice en flexion, transport urgent
+R40.2341	échelle de coma, meilleure réponse motrice en flexion, ambulance
+R40.2342	échelle de coma, meilleure réponse motrice en flexion, à l'arrivée au service d'urgence
+R40.2343	échelle de coma, meilleure réponse motrice en flexion, à l'admission hospitalière
+R40.2344	échelle de coma, meilleure réponse motrice en flexion, 24 heures ou plus après l'admission hospitalière
+R40.2350	échelle de coma, meilleure réponse motrice à la douleur, moment non spécifié
+R40.2351	échelle de coma, meilleure réponse motrice à la douleur, sur site
+R40.2351	échelle de coma, meilleure réponse motrice à la douleur, transport urgent
+R40.2351	échelle de coma, meilleure réponse motrice à la douleur, ambulance
+R40.2352	échelle de coma, meilleure réponse motrice à la douleur, à l'arrivée au service d'urgence
+R40.2353	échelle de coma, meilleure réponse motrice à la douleur, à l'admission hospitalière
+R40.2354	échelle de coma, meilleure réponse motrice à la douleur, 24 heures ou plus après l'admission hospitalière
+R40.2360	échelle de coma, meilleure réponse motrice aux ordres, moment non spécifié
+R40.2361	échelle de coma, meilleure réponse motrice aux ordres, sur site
+R40.2361	échelle de coma, meilleure réponse motrice aux ordres, transport urgent
+R40.2361	échelle de coma, meilleure réponse motrice aux ordres, ambulance
+R40.2362	échelle de coma, meilleure réponse motrice aux ordres, à l'arrivée aux services d'urgence
+R40.2363	échelle de coma, meilleure réponse motrice aux ordres, à l'admission hospitalière
+R40.2364	échelle de coma, meilleure réponse motrice aux ordres, 24 heures ou plus après l'admission hospitalière
+R40.241	échelle de coma de Glasgow score 13
+R40.241	échelle de coma de Glasgow score 14
+R40.241	échelle de coma de Glasgow score 15
+R40.242	échelle de coma de Glasgow score 9
+R40.242	échelle de coma de Glasgow score 10
+R40.242	échelle de coma de Glasgow score 11
+R40.242	échelle de coma de Glasgow score 12
+R40.243	échelle de coma de Glasgow score 3
+R40.243	échelle de coma de Glasgow score 4
+R40.243	échelle de coma de Glasgow score 5
+R40.243	échelle de coma de Glasgow score 6
+R40.243	échelle de coma de Glasgow score 7
+R40.243	échelle de coma de Glasgow score 8
+R40.244	autres coma, sans échelle de coma de Glasgow documentée, ou documenté avec un score partielle signalé
+R40.3	état végétatif persistant
+R40.4	altération transitoire de la conscience
+R41.0	désorientation, non spécifiée
+R41.1	amnésie antérograde
+R41.2	amnésie rétrograde
+R41.3	autre amnésie
+R41.4	syndrome de négligence neurologique
+R41.81	altération de la fonction cognitive liée à l'âge
+R41.82	altération de l'état mental, non spécifiée
+R41.83	fonctionnement intellectuel psychopathique
+R41.840	déficit de l'attention et de la concentration
+R41.841	déficit de la communication cognitive
+R41.842	déficit visuo-spatial
+R41.843	déficit psychomoteur
+R41.844	déficit du lobe frontal et de la fonction exécutive
+R41.89	d'autres symptômes et signes impliquant les fonctions cognitives et la conscience
+R41.9	symptômes et signes non spécifiés impliquant les fonctions cognitives et la conscience
+R42	étourdissements et éblouissements
+R43.0	anosmie
+R43.1	parosmie
+R43.2	paragueusie
+R43.8	d'autres troubles de l'odorat et du goût
+R43.9	troubles de l'odorat et du goût, non spécifiés
+R44.0	hallucinations auditives
+R44.1	hallucinations visuelles
+R44.2	d'autres hallucinations
+R44.3	hallucinations, non spécifiées
+R44.8	autres symptômes et signes impliquant les sensations et les perceptions générales
+R44.9	symptômes et signes non spécifiés impliquant les sensations et les perceptions générales
+R45.0	nervosité
+R45.1	agitation
+R45.2	tristesse
+R45.3	découragement et apathie
+R45.4	irritabilité et colère
+R45.5	hostilité
+R45.6	comportement violent
+R45.7	état de choc émotionnel et stress non spécifié
+R45.81	faible estime de soi
+R45.82	inquiétudes
+R45.83	pleurs excessifs d'un enfant, d'un adolescent, d'un adulte
+R45.84	anhédonie
+R45.850	idées d'homicide
+R45.851	idées de suicide
+R45.86	labilité émotionnelle
+R45.87	impulsivité
+R45.89	autres symptômes et signes impliquant l'état émotionnel
+R46.0	hygiène personnelle très faible
+R46.1	apparence personnelle bizarre
+R46.2	comportement étrange et inexplicable
+R46.3	suractivité
+R46.4	lenteur et faible réactivité
+R46.5	méfiance et comportement évasif prononcé
+R46.6	inquiétude et préoccupation excessives pour des événements stressants
+R46.7	verbosité et détails circonstanciels masquant la raison du contact
+R46.81	comportement obsessionnel-compulsif
+R46.89	d'autres symptômes et signes impliquant l'apparence et le comportement
+R47.1	aphasie
+R47.2	dysphasie
+R47.1	dysarthrie et anarthrie
+R47.1	dysarthrie
+R47.1	anarthrie
+R47.81	langage inarticulé
+R47.82	trouble du flot de la parole dans des affections classées ailleurs
+R47.89	d'autres troubles de la parole
+R47.9	trouble de la parole non spécifié
+R48.0	dyslexie et alexie
+R48.0	dyslexie
+R48.0	alexie
+R48.1	agnosie
+R48.2	apraxie
+R48.3	agnosie visuelle
+R48.8	d'autres dysfonctionnements symboliques
+R48.9	dysfonctionnements symboliques, non spécifiés
+R49.0	dysphonie
+R49.1	aphonie
+R49.21	hypernasalité
+R49.22	hyponasalité
+R49.8	autres troubles de la voix et de la sonorité
+R49.9	trouble de la voix et de la sonorité, non spécifié
+R50.2	fièvre induite par des médicaments
+R50.81	fièvre accompagnant les affections classées ailleurs
+R50.82	fièvre postprocédurale
+R50.83	fièvre suite à une vaccination
+R50.84	réaction fébrile non hémolytique due à une transfusion
+R50.9	fièvre, non spécifiée
+R51	céphalée
+R52	douleur, non spécifiée
+R53.0	fatigue liée à un néoplasme
+R53.0	fatigue liée à un néoplasme malin
+R53.1	faiblesse
+R53.2	quadriplégie fonctionnelle
+R53.81	autre malaise
+R53.82	fatigue chronique, non spécifiée
+R53.83	autre fatigue
+R54	sénilité
+R55	syncope et collapsus
+R56.0	convulsions fébriles simples
+R56.1	convulsions fébriles complexes
+R56.1	crises convulsives post-traumatiques
+R56.9	convulsions, non spécifiées
+R57.0	choc cardiogénique
+R57.1	choc hypovolémique
+R57.8	d'autres chocs
+R57.9	choc, non spécifié
+R58	hémorragie, non classée ailleurs
+R59.0	adénopathies localisées
+R59.1	adénopathies généralisées
+R59.9	adénopathies non spécifiées
+R60.0	oedème localisé
+R60.1	oedème généralisé
+R60.9	oedème, non spécifié
+R61	hyperhidrose généralisée
+R62.0	maturation retardée durant l'enfance
+R62.50	retard non spécifié du développement physiologique normal et attendu dans l'enfance
+R62.51	retard de la croissance
+R62.52	petite stature
+R62.51	retard de la croissance de l'enfant
+R62.52	petite stature de l'enfant
+R62.59	autre retard du développement physiologique normal et attendu dans l'enfance
+R62.7	retard de la croissance d'un adulte
+R63.0	anorexie
+R63.1	polydipsie
+R63.2	polyphagie
+R63.3	difficultés nutritionnelles
+R63.4	perte de poids anormale
+R63.5	prise de poids anormale
+R63.6	poids insuffisant
+R63.8	autres symptômes et signes concernant l'absorption d'aliments et de liquides
+R64	cachexie
+R65.10	syndrome de réponse inflammatoire systémique d'origine non infectieuse sans dysfonctionnement aigu d'organes
+R65.11	syndrome de réponse inflammatoire systémique d'origine non infectieuse avec un dysfonctionnement aigu d'organes
+R65.10	SIRS d'origine non infectieuse sans dysfonctionnement aigu d'organes
+R65.11	SIRS d'origine non infectieuse avec un dysfonctionnement aigu d'organes
+R65.20	sepsis sévère sans choc septique
+R65.21	sepsis sévère avec un choc septique
+R68.0	hypothermie, non associée à une température environnementale basse
+R68.11	pleurs excessifs d'un bébé
+R68.12	bébé grincheux
+R68.13	événement apparent menaçant la vie chez le bébé
+R68.13	événement apparent menaçant chez le bébé
+R68.19	autres symptômes non spécifiques particuliers au bébé
+R68.11	pleurs excessifs d'un enfant
+R68.12	enfant grincheux
+R68.13	événement apparent menaçant la vie chez l'enfant
+R68.13	ALTE chez l'enfant
+R68.19	autres symptômes non spécifiques particuliers au bébé
+R68.2	sécheresse de la bouche, non spécifiée
+R68.3	doigts en baguette de tambour
+R68.81	satiété précoce
+R68.82	diminution du libido
+R68.83	frissons
+R68.83	frissons sans fièvre
+R68.84	douleur de la mâchoire
+R68.89	d'autres symptômes et signes généraux
+R69	maladie non spécifiée
+R70.0	accélération de la vitesse de sédimentation d'érythrocytes
+R70.1	viscosité plasmatique anormale
+R71.0	chute brutale de l'hématocrite
+R71.8	autre anomalie des globules rouges
+R73.1	glycémie à jeun élevée
+R73.2	test de tolérance au glucose élevé
+R73.2	test oral de tolérance au glucose élevé
+R73.9	autre glucose anormal
+R73.9	hyperglycémie, non spécifiée
+R74.0	augmentation du taux de transaminase et d'acide lactique déshydrogénase
+R74.0	augmentation du taux de transaminase et de LDH
+R74.8	taux anormaux d'autres enzymes sériques
+R74.9	taux anormal d'un enzyme sérique, non spécifié
+R75	examen de laboratoire non concluant pour le virus d'immunodéficience humaine
+R75	examen de laboratoire non concluant pour HIV
+R76.0	augmentation du taux d'anticorps
+R76.11	réaction non spécifique sur un test à tuberculine sans tuberculose active
+R76.12	réaction non spécifique à la mesure de l'immunité à médiation cellulaire de la réponsé à lantigène interféron gamma sans tuberculose active
+R76.8	autres anomalies des résultats immunologiques sériques
+R76.9	résultat immunologique sérique anormal, non spécifié
+R77.0	anomalie de l'albumine
+R77.1	anomalie de la globuline
+R77.2	anomalie de l'alpha-foetoprotéine
+R77.8	d'autres anomalies spécifiées des protéines plasmatiques
+R77.9	anomalie des protéines plasmatiques, non spécifiée
+R78.0	présence d'alcool dans le sang
+R78.1	présence d'un opiacé dans le sang
+R78.2	présence de cocaïne dans le sang
+R78.3	présence d'un hallucinogène dans le sang
+R78.4	présence d'autres substances à potentiel addictif dans le sang
+R78.5	présence d'une autre substance psychotrope dans le sang
+R78.6	présence d'un agent stéroïdien dans le sang
+R78.71	taux anormal de plomb dans le sang
+R78.79	taux anormal de métaux lourds dans le sang
+R78.81	bactériémie
+R78.89	présence d'autres substances spécifiées, non attendues dans le sang
+R78.9	présence d'une substance non spécifiée, non attendue dans le sang
+R79.0	taux anormal de minéraux dans le sang
+R79.1	profil d'une coagulation anormal
+R79.81	taux anormal de gaz sanguin
+R79.82	élévation de protéine C-reactive
+R79.82	élévation de CRP
+R79.89	autres résultats anormaux spécifiés lors de l'examen chimique sanguin
+R79.9	résultat anormal lors de l'examen chimique sanguin, non spécifié
+R80.0	protéinurie isolée
+R80.1	protéinurie persistante, non spécifiée
+R80.2	protéinurie orthostatique, non spécifiée
+R80.3	protéinurie Bence Jones
+R80.8	autre protéinurie
+R80.9	protéinurie non spécifiée
+R81	glycosurie
+R82.0	chylurie
+R82.1	myoglobinurie
+R82.2	biliurie
+R82.3	hémoglobinurie
+R82.4	acétonurie
+R82.5	élévation du taux de drogues, médicaments et de substances biologiques dans l'urine
+R82.6	taux anormal de substances d'origine principalement non médicinale dans l'urine
+R82.7	examen microbiologique de l'urine anormal
+R82.8	examen cytologique et histologique de l'urine anormal
+R82.90	examen de l'urine anormal, non spécifié
+R82.91	autre chromoanomalie urinaire
+R82.99	d'autres examens urinaires anormaux
+R83.0	taux anormal d'enzymes dans le liquide céphalo-rachidien
+R83.1	taux anormal de hormones dans le liquide céphalo-rachidien
+R83.2	taux anormal d'autres drogues, médicaments et substances biologiques dans le liquide céphalo-rachidien
+R83.3	taux anormal de substances d'origine principalement non médicinale dans le liquide céphalo-rachidien
+R83.4	résultats immunologiques anormaux du liquide céphalo-rachidien
+R83.5	résultats microbiologiques anormaux du liquide céphalo-rachidien
+R83.6	résultats cytologiques anormaux du liquide céphalo-rachidien
+R83.8	d'autres résultats anormaux du liquide céphalo-rachidien
+R83.9	résultat anormal non spécifié du liquide céphalo-rachidien
+R84.0	taux anormal d'enzymes dans les prélèvements des organes respiratoires et du thorax
+R84.1	taux anormal d'hormones dans les prélèvements des organes respiratoires et du thorax
+R84.2	taux anormal d'autres drogues, médicaments et substances biologiques dans les prélèvements des organes respiratoires et du thorax
+R84.3	taux anormal de substances d'origine principalement non médicinale dans les prélèvements des organes respiratoires et du thorax
+R84.4	résultats immunologiques anormaux dans les prélèvements des organes respiratoires et du thorax
+R84.5	résultats microbiologiques anormaux dans les prélèvements des organes respiratoires et du thorax
+R84.6	résultats cytologiques anormaux dans les prélèvements des organes respiratoires et du thorax
+R84.7	résultats histologiques anormaux dans les prélèvements des organes respiratoires et du thorax
+R84.8	autres résultats anormaux dans les prélèvements des organes respiratoires et du thorax
+R84.9	résultat anormal non spécifié dans les prélèvements des organes respiratoires et du thorax
+R85.0	taux anormal d'enzymes dans les prélèvements des organes digestifs et de la cavité abdominale
+R85.1	taux anormal d'hormones dans les prélèvements des organes digestifs et de la cavité abdominale
+R85.2	taux anormal d'autres drogues, médicaments et substances biologiques dans les prélèvements des organes digestifs et de la cavité abdominale
+R85.3	taux anormal de substances d'origine principalement non médicinale dans les prélèvements des organes digestifs et de la cavité abdominale
+R85.4	résultats immunologiques anormaux dans les prélèvements des organes digestifs et de la cavité abdominale
+R85.5	résultats microbiologiques anormaux dans les prélèvements des organes digestifs et de la cavité abdominale
+R85.610	cellules squameuses atypiques d'une signification indéterminée au frottis anal
+R85.611	cellules squameuses atypiques ne permettant pas d'exclure une lésion squameuse intraépithéliale de haut grade au frottis anal
+R85.612	lésion squameuse intraépithéliale de bas grade au frottis anal
+R85.613	lésion squameuse intraépithéliale de haut grade au frottis anal
+R85.610	ASC-US au frottis anal
+R85.611	ASC-H au frottis anal
+R85.612	LGSIL au frottis anal
+R85.613	HGSIL au frottis anal
+R85.614	évidence cytologique de malignité dans un frottis anal
+R85.615	frottis cytologique anal non satisfaisant
+R85.616	frottis anal satisfaisant mais sans cellules de la zone de transformation
+R85.618	d'autres résultats cytologiques anormaux dans les prélèvements anaux
+R85.619	résultats cytologiques anormaux non spécifiés dans les prélèvements anaux
+R85.69	résultats cytologiques anormaux des prélèvements d'autres organes digestifs et de la cavité abdominale
+R85.7	résultats histologiques anormaux des prélèvements des organes digestifs et de la cavité abdominale
+R85.81	test d'ADN positif pour le papillomavirus humain anal à haut risque
+R85.82	test d'ADN positif pour le papillomavirus humain anal à bas risque
+R85.89	d'autres résultats anormaux des prélèvements des organes digestifs et de la cavité abdominale
+R85.9	résultats anormaux non spécifiés des prélèvements des organes digestifs et de la cavité abdominale
+R86.0	taux anormal d'enzymes dans les prélèvements des organes génitaux masculins
+R86.1	taux anormal de hormones dans les prélèvements des organes génitaux masculins
+R86.2	taux anormal d'autres drogues, médicaments et substances biologiques dans les prélèvements des organes génitaux masculins
+R86.3	taux anormal de substances d'origine principalement non médicinale dans les prélèvements des organes génitaux masculins
+R86.4	résultats immunologiques anormaux des prélèvements des organes génitaux masculins
+R86.5	résultats microbiologiques anormaux des prélèvements des organes génitaux masculins
+R86.6	résultats cytologiques anormaux des prélèvements des organes génitaux masculins
+R86.7	résultats histologiques anormaux des prélèvements des organes génitaux masculins
+R86.8	autres résultats anormaux des prélèvements des organes génitaux masculins
+R86.9	résultats anormaux non spécifiés des prélèvements des organes génitaux masculins
+R87.0	taux anormal d'enzymes dans les prélèvements des organes génitaux féminins
+R87.1	taux anormal de hormones dans les prélèvements des organes génitaux féminins
+R87.2	taux anormal d'autres drogues, médicaments et substances biologiques dans les prélèvements des organes génitaux féminins
+R87.3	taux anormal de substances d'origine principalement non médicinale dans les prélèvements des organes génitaux féminins
+R87.4	résultats immunologiques anormaux des prélèvements des organes génitaux masculins
+R87.5	résultats microbiologiques anormaux des prélèvements des organes génitaux masculins
+R87.610	cellules squameuses atypiques de signification indéterminée au frottis cervical utérin
+R87.611	cellules squameuses atypiques ne permettant pas d'exclure une lésion squameuse intraépithéliale de haut grade au frottis cervical utérin
+R87.612	lésion squameuse intraépithéliale de bas grade au frottis cervical utérin
+R87.613	lésion squameuse intraépithéliale de haut grade au frottis cervical utérin
+R87.610	ASC-US au frottis cervical utérin
+R87.611	ASC-H au frottis cervical utérin
+R87.612	LGSIL au frottis cervical utérin
+R87.613	HGSIL au frottis cervical utérin
+R87.614	évidence cytologique de malignité au frottis cervical utérin
+R87.615	frottis cytologique cervical utérin non satisfaisant
+R87.616	frottis cervical utérin satisfaisant mais sans cellules de la zone de transformation
+R87.618	d'autres résultats cytologiques anormaux dans les prélèvements cervicaux utérins
+R87.619	résultats cytologiques anormaux non spécifiés dans les prélèvements cervicaux utérins
+R87.620	cellules squameuses atypiques de signification indéterminée au frottis vaginal
+R87.621	cellules squameuses atypiques ne permettant pas d'exclure une lésion squameuse intraépithéliale de haut grade au frottis vaginal
+R87.622	lésion squameuse intraépithéliale de bas grade au frottis vaginal
+R87.623	lésion squameuse intraépithéliale de haut grade au frottis vaginal
+R87.620	ASC-US au frottis vaginal
+R87.621	ASC-H au frottis vaginal
+R87.622	LGSIL au frottis vaginal
+R87.623	HGSIL au frottis vaginal
+R87.624	évidence cytologique de malignité dans un frottis du vagin
+R87.625	frottis cytologique vaginal non satisfaisant
+R87.628	autres résultats cytologiques anormaux dans les prélèvements vaginaux
+R87.629	résultats cytologiques anormaux non spécifiés dans les prélèvements vaginaux
+R87.69	résultats cytologiques anormaux des prélèvements d'autres organes génitaux féminins
+R87.7	résultats histologiques anormaux dans les prélèvements d'un organe génital féminin
+R87.810	test d'ADN positif pour le papillomavirus humain cervical utérin à haut risque
+R87.811	test d'ADN positif pour le papillomavirus humain vaginal à haut risque
+R87.820	test d'ADN positif pour le papillomavirus humain cervical utérin à bas risque
+R87.821	test d'ADN positif pour le papillomavirus humain vaginal à bas risque
+R87.89	d'autres résultats anormaux des prélèvements des organes génitaux féminins
+R87.9	résultats anormaux non spécifiés des prélèvements des organes génitaux féminins
+R88.0	exsudat trouble de dialyse
+R88.0	exsudat trouble de dialyse péritonéale
+R88.0	exsudat trouble de hémodialyse
+R88.0	exsudat trouble de hémodialyse péritonéale
+R88.8	résultats anormaux de l'examen d'autres liquides et substances corporelles
+R89.0	taux anormal d'enzymes dans les prélèvements d'autres organes, systèmes et tissus
+R89.1	taux anormal de hormones dans les prélèvements d'autres organes, systèmes et tissus
+R89.2	taux anormal d'autres drogues, médicaments et substances biologiques dans les prélèvements d'autres organes, systèmes et tissus
+R89.3	taux anormal de substances d'origine principalement non médicinale dans les prélèvements d'autres organes, systèmes et tissus
+R89.4	résultats immunologiques anormaux des prélèvements d'autres organes, systèmes et tissus
+R89.5	résultats microbiologiques anormaux des prélèvements d'autres organes, systèmes et tissus
+R89.6	résultats cytologiques anormaux des prélèvements d'autres organes, systèmes et tissus
+R89.7	résultats histologiques anormaux des prélèvements d'autres organes, systèmes et tissus
+R89.8	d'autres résultats anormaux des prélèvements d'autres organes, systèmes et tissus
+R89.9	résultats anormaux non spécifiés des prélèvements d'autres organes, systèmes et tissus
+R90.0	lésion intracrânienne expansive détectée par une imagerie diagnostique du système nerveux central
+R90.81	échoencéphalogramme anormal
+R90.82	maladie de la substance blanche cérébrale, non spécifiée
+R90.89	d'autres résultats anormaux d'une imagerie diagnostique du système nerveux central
+R91.1	nodule pulmonaire solitaire
+R91.8	autres résultats anormaux aspécifiques d'un champ pulmonaire
+R92.0	microcalcifications mammaires détectées par une imagerie diagnostique du sein
+R92.1	calcifications mammaires détectées par une imagerie diagnostique du sein
+R92.2	mammographie ininterprétable
+R92.8	d'autres résultats anormaux et ininterprétables d'une imagerie diagnostique du sein
+R93.0	résultats anormaux d'une imagerie diagnostique du crâne et de la tête, non classés ailleurs
+R93.1	résultats anormaux d'une imagerie diagnostique du coeur et de la circulation coronaire
+R93.2	résultats anormaux d'une imagerie diagnostique du foie et du tractus biliaire
+R93.3	résultats anormaux d'une imagerie diagnostique d'autres parties du système digestif
+R93.4	résultats anormaux d'une imagerie diagnostique des organes urinaires
+R93.5	résultats anormaux d'une imagerie diagnostique d'autres régions abdominales, y compris le rétropéritoine
+R93.6	résultats anormaux d'une imagerie diagnostique des membres
+R93.7	résultats anormaux d'une imagerie diagnostique d'autres parties du système musculosquelettique
+R93.8	résultats anormaux d'une imagerie diagnostique d'autres structures du corps spécifiées
+R93.9	imagerie diagnostique ininterprétable due à un excès du panicule adipeux du patient
+R94.1	électroencéphalogramme anormal
+R94.1	EEG anormal
+R94.2	scanner cérébral anormal
+R94.9	résultats anormaux d'autres explorations fonctionnelles du système central nerveux
+R94.110	électro-oculogramme anormal
+R94.111	électrorétinogramme anormal
+R94.112	potentiel évoqué visuel anormal
+R94.110	EOG anormal
+R94.111	ERG anormal
+R94.112	PEV anormal
+R94.113	exploration fonctionnelle oculomotrice anormale
+R94.118	résultats anormaux d'autres explorations fonctionnelles de l'oeil
+R94.120	exploration fonctionnelle auditive anormale
+R94.121	exploration fonctionnelle vestibulaire anormale
+R94.128	résultats anormaux d'autres explorations fonctionnelles de l'oreille et d'autres sens
+R94.130	réponse anormale à stimulation du nerf, non spécifiée
+R94.131	électromyogramme anormal
+R94.131	EMG anormal
+R94.138	résultats anormaux d'autres explorations fonctionnelles du système nerveux périphérique
+R94.2	résultats anormaux d'explorations fonctionnelles pulmonaires
+R94.30	résultat d'exploration fonctionnelle cardiovasculaire, non spécifié
+R94.31	électro-cardiogramme anormal
+R94.31	ECG anormal
+R94.39	résultat anormal d'une autre exploration fonctionnelle cardiovasculaire
+R94.4	résultats anormaux d'explorations fonctionnelles rénales
+R94.5	résultats anormaux d'explorations fonctionnelles hépatiques
+R94.6	résultats anormaux d'explorations fonctionnelles thyroïdiennes
+R94.7	résultats anormaux d'autres explorations fonctionnelles endocriniennes
+R94.8	résultats anormaux d'explorations fonctionnelles d'autres organes et systèmes
+R97.0	élévation de CEA
+R97.0	élévation de l'antigène carcino-embryonnaire
+R97.1	élévation de CA125
+R97.2	élévation des PSA
+R97.0	élévation de l'antigène carcinoembryonnaire
+R97.1	élévation de l'antigène 125
+R97.2	élévation des antigènes prostatiques spécifiques
+R97.8	d'autres marqueurs tumoraux anormaux
+R99	cause de mortalité mal définie et non précisée

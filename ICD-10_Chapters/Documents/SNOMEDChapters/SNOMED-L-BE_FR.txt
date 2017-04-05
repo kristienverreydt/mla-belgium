@@ -1,0 +1,1582 @@
+L02.0	anthrax de la face
+L02.0	furoncle de la face
+L02.0	abcès de la face
+L02.0	abcès aigu de la face
+L02.0	abcès de la partie externe de la joue
+L02.0	abcès du menton
+L02.0	abcès du front
+L02.0	abcès de la paroi abdominale
+L02.0	abcès du dos, à l'exclusion des fesses
+L02.0	abcès de la paroi thoracique
+L02.0	abcès du flanc
+L02.0	abcès de l'aine
+L02.0	abcès de la région pectorale
+L02.0	abcès du périnée
+L02.0	abcès de l'ombilic
+L02.0	abcès sous-mentonnier
+L02.1	anthrax du cou
+L02.1	furoncle du cou
+L02.1	abcès du cou
+L02.2	anthrax du tronc
+L02.2	anthrax de la paroi abdominale
+L02.2	anthrax du dos, à l'exclusion des fesses
+L02.2	anthrax de la paroi thoracique
+L02.2	anthrax du flanc
+L02.2	anthrax de la région pectorale
+L02.2	anthrax du périnée
+L02.2	anthrax de l'ombilic
+L02.2	anthrax de l'aine
+L02.2	furoncle du tronc
+L02.2	furoncle de la paroi abdominale
+L02.2	furoncle du dos, à l'exclusion des fesses
+L02.2	furoncle de la paroi thoracique
+L02.2	furoncle du flanc
+L02.2	furoncle de l'aine
+L02.2	furoncle de la région pectorale
+L02.2	furoncle du périnée
+L02.2	furoncle de l'ombilic
+L02.2	abcès du tronc
+L02.3	anthrax de la fesse
+L02.3	anthrax de la région fessière
+L02.3	furoncle de la fesse
+L02.3	furoncle de la région fessière
+L02.3	abcès de la fesse
+L02.3	abcès de la région fessière
+L02.4	anthrax du bras
+L02.4	anthrax de l'avant-bras
+L02.4	anthrax de l'aisselle
+L02.4	anthrax de l'épaule
+L02.4	anthrax de la main
+L02.4	anthrax d'un doigt
+L02.4	anthrax du pouce
+L02.4	anthrax du poignet
+L02.4	anthrax de la jambe, à l'exclusion du pied
+L02.4	anthrax de la hanche
+L02.4	anthrax de la cuisse
+L02.4	anthrax du genou
+L02.4	anthrax de la cheville
+L02.4	anthrax du pied
+L02.4	anthrax du talon
+L02.4	anthrax d'un orteil
+L02.4	furoncle du bras
+L02.4	furoncle de l'avant-bras
+L02.4	furoncle de l'aisselle
+L02.4	furoncle de l'épaule
+L02.4	furoncle de la main
+L02.4	furoncle d'un doigt
+L02.4	furoncle du pouce
+L02.4	furoncle du poignet
+L02.4	furoncle de la jambe, à l'exclusion du pied
+L02.4	furoncle de la hanche
+L02.4	furoncle de la cuisse
+L02.4	furoncle du genou
+L02.4	furoncle de la cheville
+L02.4	furoncle du pied
+L02.4	furoncle du talon
+L02.4	furoncle d'un orteil
+L02.4	abcès d'un doigt/orteil
+L02.4	abcès d'un doigt
+L02.4	abcès d'un orteil
+L02.4	abcès du bras
+L02.4	abcès de l'avant-bras
+L02.4	abcès de l'aisselle
+L02.4	abcès de l'épaule
+L02.4	abcès de la main
+L02.4	abcès du poignet
+L02.4	abcès de la jambe, à l'exclusion du pied
+L02.4	abcès de la hanche
+L02.4	abcès de la cuisse
+L02.4	abcès du genou
+L02.4	abcès de la cheville
+L02.4	abcès du pied, à l'exclusion des orteils
+L02.4	abcès du talon
+L02.4	abcès de la peau avec lymphangite d'un doigt/orteil
+L02.8	anthrax de la région temporale
+L02.8	anthrax de la tête, à l'exclusion de la face
+L02.8	anthrax du cuir chevelu
+L02.8	anthrax d'autres localisations précisées
+L02.8	furoncle de la région temporale
+L02.8	furoncle de la tête, à l'exclusion de la face
+L02.8	furoncle du cuir chevelu
+L02.8	furoncle d'autres localisations précisées
+L02.8	abcès de la région temporale
+L02.8	abcès de la tête, à l'exclusion de la face
+L02.8	abcès du cuir chevelu
+L02.8	abcès périorbitaire
+L02.8	abcès sous-temporal
+L02.8	abcès d'autres localisations précisées du tissu sous-cutané
+L02.9	anthrax de la peau et du tissu sous-cutané
+L02.9	furoncle de la peau et du tissu sous-cutané
+L02.9	clou de la peau et du tissu sous-cutané
+L02.9	furonculose de la peau et du tissu sous-cutané
+L02.9	furoncles cutanés récurrents
+L02.9	clous cutanés récurrents
+L02.9	abcès de la peau et du tissu sous-cutané
+L02.9	abcès de la peau avec lymphangite
+L03.0	panaris
+L03.0	panaris pulpaire
+L03.0	dactylite
+L03.0	phlegmon d'un doigt/orteil
+L03.0	phlegmon d'un doigt
+L03.0	onyxis d'un doigt
+L03.0	paronychie d'un doigt
+L03.0	périonyxis d'un doigt
+L03.0	panaris d'un doigt
+L03.0	phlegmon d'un orteil
+L03.0	onyxis d'un orteil
+L03.0	paronychie d'un orteil
+L03.0	périonyxis d'un orteil
+L03.0	panaris d'un orteil
+L03.0	phlegmon avec lymphangite d'un doigt/orteil
+L03.0	paronychie
+L03.0	périonyxis
+L03.0	périonyxis suppurée
+L03.1	phlegmon du bras
+L03.1	phlegmon de l'avant-bras
+L03.1	phlegmon de l'aisselle
+L03.1	phlegmon de l'épaule
+L03.1	phlegmon de la main
+L03.1	phlegmon du poignet
+L03.1	phlegmon de la jambe, à l'exclusion du pied
+L03.1	phlegmon de la hanche
+L03.1	phlegmon de la cuisse
+L03.1	phlegmon du genou
+L03.1	phlegmon de la cheville
+L03.1	phlegmon du pied, à l'exclusion des orteils
+L03.1	phlegmon du talon
+L03.1	lymphangite aiguë du bras
+L03.1	lymphangite aiguë de l'avant-bras
+L03.1	lymphangite aiguë de l'aisselle
+L03.1	lymphangite aiguë de l'épaule
+L03.1	lymphangite aiguë de la main
+L03.1	lymphangite aiguë du poignet
+L03.1	lymphangite aiguë de la jambe, à l'exclusion du pied
+L03.1	lymphangite aiguë de la hanche
+L03.1	lymphangite aiguë de la cuisse
+L03.1	lymphangite aiguë du genou
+L03.1	lymphangite aiguë de la cheville
+L03.1	lymphangite aiguë du pied, à l'exclusion des orteils
+L03.1	lymphangite aiguë du talon
+L03.2	phlegmon de la face
+L03.2	phlegmon diffus de la face
+L03.2	phlegmon de la partie externe de la joue
+L03.2	phlegmon du menton
+L03.2	phlegmon du front
+L03.2	lymphangite aiguë de la face
+L03.2	lymphangite aiguë de la région externe de la joue
+L03.2	lymphangite aiguë du menton
+L03.2	lymphangite aiguë du front
+L03.2	lymphangite aiguë de la partie externe du nez
+L03.2	lymphangite aiguë de la région temporale
+L03.3	phlegmon du tronc
+L03.3	phlegmon de la paroi abdominale
+L03.3	phlegmon du dos, à l'exclusion des fesses
+L03.3	phlegmon de la paroi thoracique
+L03.3	phlegmon du flanc
+L03.3	phlegmon de l'aine
+L03.3	phlegmon de la région pectorale
+L03.3	phlegmon du périnée
+L03.3	phlegmon de l'ombilic
+L03.3	phlegmon de la fesse
+L03.3	phlegmon de la région fessière
+L03.3	lymphangite aiguë du tronc
+L03.3	lymphangite aiguë de la paroi abdominale
+L03.3	lymphangite aiguë du dos, à l'exclusion des fesses
+L03.3	lymphangite aiguë de la paroi thoracique
+L03.3	lymphangite aiguë du flanc
+L03.3	lymphangite aiguë de l'aine
+L03.3	lymphangite aiguë de la région pectorale
+L03.3	lymphangite aiguë du périnée
+L03.3	lymphangite aiguë de l'ombilic
+L03.3	lymphangite aiguë de la fesse
+L03.3	lymphangite aiguë de la région fessière
+L03.8	phlegmon de la région périorbitaire
+L03.8	phlegmon périorbitaire
+L03.8	phlegmon de la région temporale
+L03.8	phlegmon sous-mentonnier
+L03.8	phlegmon de la fosse ptérygo-maxillaire
+L03.8	phlegmon du cou
+L03.8	phlegmon de la tête, à l'exclusion de la face
+L03.8	phlegmon du cuir chevelu
+L03.8	phlegmon d'autres localisations précisées
+L03.8	lymphangite aiguë de la région sous-maxillaire
+L03.8	lymphangite aiguë du cou
+L03.8	lymphangite aiguë de la tête, à l'exclusion de la face
+L03.8	lymphangite aiguë du cuir chevelu
+L03.8	lymphangite aiguë d'autres localisations précisées
+L03.9	phlegmon de la peau avec lymphangite
+L03.9	lymphangite aiguë
+L05.9	kyste pilonidal du barbier
+L05.9	sinus pilonidal du barbier
+L05.9	sinus pilonidal interdigital
+L08.0	pyodermie
+L08.0	pyodermite
+L08.0	dermite pyogène
+L08.0	dermite purulente
+L08.0	dermite suppurée
+L08.0	dermite septique
+L08.0	dermatite purulente
+L08.0	dermatite suppurée
+L08.0	dermatite septique
+L08.0	dermatite pyogène
+L08.0	pyodermite ulcéreuse
+L08.0	pyodermite ulcéreuse de la face
+L08.0	pyodermite faciale
+L08.0	pyodermite maligne
+L08.0	pyodermite simulant une blastomycose
+L08.9	infection de la peau et du tissu sous-cutané
+L10.0	pemphigus vulgaire
+L10.1	pyodermite végétante
+L10.1	pemphigus végétant de Hallopeau
+L10.1	pemphigus végétant
+L10.2	pemphigus foliacé
+L10.3	pemphigus brésilien
+L10.3	fogo selvagem
+L10.4	pemphigus érythémateux
+L10.4	syndrome de Senear-Usher
+L10.8	pemphigus fébrile grave
+L10.8	pemphigus malin
+L10.9	pemphigus
+L11.1	dermatose acantholytique transitoire
+L11.1	dermatose acantholytique transitoire de Grover
+L11.1	maladie de Grover
+L12.0	dermatite herpétiforme sénile
+L12.0	dermite herpétiforme sénile
+L12.0	pemphigoïde bulleux
+L12.1	pemphigus bénin
+L12.1	pemphigus bénin des muqueuses
+L12.1	pemphigoïde muqueux bénin
+L12.1	dermite bulleuse mucosynéchiante et atrophiante
+L12.1	pemphigoïde cicatriciel
+L12.1	dermatite bulleuse mucosynéchiante et atrophiante
+L12.1	pemphigus bénin des muqueuses sans atteinte oculaire
+L12.1	pemphigus bénin des muqueuses avec atteinte oculaire
+L12.2	éruption bulleuse de l'enfance
+L12.2	dermatose bulleuse chronique de l'enfance
+L12.2	maladie bulleuse linéaire à dépôts d'IgA de l'enfant
+L12.2	dermatite herpétiforme juvénile
+L12.2	dermite herpétiforme juvénile
+L12.2	pemphigoïde infantile
+L12.3	épidermolyse bulleuse acquise
+L12.9	pemphigoïde
+L13.0	dermatose à IgA linéaire
+L13.0	dermatite herpétiforme
+L13.0	dermite herpétiforme
+L13.0	dermatose herpétiforme
+L13.0	maladie de Duhring-Brocq
+L13.0	hydroa herpétiforme
+L13.1	dermatose pustuleuse sous-cornée
+L13.1	pustulose sous-cornée
+L13.1	maladie de Sneddon-Wilkinson
+L13.1	syndrome de Sneddon et Wilkinson
+L13.8	dermatose bulleuse précisée, NCA
+L13.9	dermatite vésiculaire aiguë
+L13.9	dermite vésiculaire aiguë
+L13.9	dermite bulleuse aiguë
+L13.9	dermatite bulleuse aiguë
+L13.9	dermatose bulleuse
+L13.9	dermite bulleuse
+L14*	bullose du diabétique
+L20.0	prurigo de Besnier
+L20.8	névrodermite diffuse de Brocq
+L20.8	névrodermite disséminée
+L20.8	névrodermite diffuse
+L20.8	eczéma des plis de flexion
+L20.8	ezcéma infantile
+L20.8	eczéma infantile aigu
+L20.8	eczéma infantile chronique
+L20.8	eczéma allergique intrinsèque
+L20.9	dermatite atopique
+L20.9	dermatite allergique
+L20.9	eczéma atopique
+L20.9	eczéma allergique
+L20.9	eczéma constitutionnel
+L20.9	dermite allergique
+L21.0	séborrhée sèche
+L21.0	pityriasis séborrhéique du cuir chevelu
+L21.0	pityriasis capitis
+L21.0	pellicules
+L21.0	pityriasis sèche
+L21.0	casque séborrhéique
+L21.0	calotte séborrhéique
+L21.0	croûte de lait
+L21.0	séborrhée de la tête
+L21.0	séborrhée du cuir chevelu
+L21.1	dermatite séborrhéique généralisée des nourrissons
+L21.1	dermite séborrhéique généralisée des nourrissons
+L21.1	dermatite séborrhéique généralisée infantile
+L21.1	dermite séborrhéique généralisée infantile
+L21.1	érythrodermie desquamative infantile
+L21.1	maladie de Leiner-Moussous
+L21.1	érythrodermie desquamative des nourrissons
+L21.1	érythrodermie de Leiner-Moussous
+L21.8	séborrhée graisseuse
+L21.8	séborrhée huileuse
+L21.8	séborrhée
+L21.8	hypersécrétion des glandes sébacées
+L21.8	hyperséborrhée
+L21.9	dermatite séborrhéique
+L21.9	dermite séborrhéique
+L21.9	eczéma séborrhéique
+L21.9	eczéma figuré
+L21.9	eczéma circiné
+L21.9	dermatose érythématosquameuse
+L22	érythème fessier du nourrisson
+L22	érythème papulo-érosif
+L22	dermite papulo-érosive de Sevestre et Jacquet
+L22	rougeur des fesses
+L22	dermite fessière du nourrisson
+L22	érythème du siège du nourrisson
+L22	dermatite papulo-érosive de Sevestre et Jacquet
+L22	érythème papulo-érosif de Sevestre et Jacquet
+L22	rash fessier psoriasiforme
+L23.3	dermatite allergique de contact due à l'arnica
+L23.3	dermite allergique de contact due à l'arnica
+L23.5	dermatite allergique de contact due à d'autres produits chimiques
+L23.5	dermite allergique de contact due à d'autres produits chimiques
+L23.7	dermatite allergique de contact due à la laque de Chine
+L23.7	dermatite allergique de contact due au Rhus verniciflua
+L23.7	dermite allergique de contact due à la laque de Chine
+L23.7	dermite allergique de contact due au Rhus verniciflua
+L23.7	dermatite allergique de contact due au lierre vénéneux
+L23.7	dermite allergique de contact due au lierre toxique
+L23.7	dermatite allergique de contact due au Rhus toxicodendron
+L23.7	dermite allergique de contact due au lierre vénéneux
+L23.7	dermite allergique de contact due au Rhus toxicodendron
+L23.7	dermatite allergique de contact due au chêne vénéneux
+L23.7	dermatite allergique de contact due au Rhus diversiloba
+L23.7	dermite allergique de contact due au chêne vénéneux
+L23.7	dermite allergique de contact due au Rhus diversiloba
+L23.7	dermatite allergique de contact due au sumac vénéneux
+L23.7	dermatite allergique de contact due au Rhus venenata
+L23.7	dermite allergique de contact due au sumac vénéneux
+L23.7	dermite allergique de contact due au Rhus venenata
+L23.7	dermatite allergique de contact due à la vigne vénéneuse
+L23.7	dermatite allergique de contact due au Rhus radicans
+L23.7	dermite allergique de contact due à la vigne vénéneuse
+L23.7	dermite allergique de contact due au Rhus radicans
+L23.7	dermatite allergique de contact due à la primevère
+L23.7	dermatite allergique de contact due à la Primula
+L23.7	dermite allergique de contact due à la primevère
+L23.7	dermite allergique de contact due à Primula
+L23.7	dermatite allergique de contact due à l'herbe à poux
+L23.7	dermatite allergique de contact due au Senecio jacobae
+L23.7	dermite allergique de contact due à l'herbe à poux
+L23.7	dermite allergique de contact due au Senecio jacobae
+L23.7	dermatite allergique de contact due à des végétaux non alimentaires
+L23.7	dermite allergique de contact due à des végétaux non alimentaires
+L23.7	dermatite des prés
+L23.7	dermite des prés d'Oppenheim
+L23.7	photophytodermatose
+L23.7	dermite des prés
+L23.8	dermatite allergique de contact due à des sécrétions
+L23.8	dermite allergique de contact due à des sécrétions
+L23.8	dermatite allergique de contact due à des excrétions
+L23.8	dermite allergique de contact due à des excrétions
+L23.8	éruption cutanée due au contact d'une toxine animale
+L23.8	éruption cutanée due aux larves d'anémone de mer
+L23.8	éruption cutanée due à une toxine provenant de larves d'anémone de mer
+L24.9	dermatite irritante primaire
+L24.9	dermite irritante primaire
+L24.9	dermatite de contact non allergique
+L24.9	dermite de contact non allergique
+L25.0	dermatite de contact due aux cosmétiques
+L25.0	dermite de contact due aux cosmétiques
+L25.1	dermatite de contact due à des médicaments en contact avec la peau
+L25.1	dermite de contact due à des médicaments en contact avec la peau
+L25.1	dermatite de contact due aux fongicides
+L25.1	dermite de contact due aux fongicides
+L25.1	dermatite de contact due à l'iode
+L25.1	dermite de contact due à l'iode
+L25.1	dermatite de contact due à des produits kératolytiques
+L25.1	dermite de contact due à des produits kératolytiques
+L25.1	dermatite de contact due au mercure
+L25.1	dermite de contact due au mercure
+L25.1	dermatite de contact due à la néomycine
+L25.1	dermite de contact due à la néomycine
+L25.1	dermatite de contact due aux pédiculicides
+L25.1	dermite de contact due aux pédiculicides
+L25.1	dermatite de contact due au phénol
+L25.1	dermite de contact due au phénol
+L25.1	dermatite de contact due aux scabicides
+L25.1	dermite de contact due aux scabicides
+L25.1	dermatite de contact due à d'autres médicaments, NCA
+L25.1	dermite de contact due à d'autres médicaments, NCA
+L25.2	dermatite de contact due aux teintures
+L25.2	dermite de contact due aux teintures
+L25.3	dermatite de contact due aux détergents
+L25.3	dermite de contact due aux détergents
+L25.3	dermatite de contact due aux huiles
+L25.3	dermite de contact due aux huiles
+L25.3	dermatite de contact due aux graisses
+L25.3	dermite de contact due aux graisses
+L25.3	dermatite de contact due aux solvants
+L25.3	dermite de contact due aux solvants
+L25.3	dermatite de contact due aux composés chlorés
+L25.3	dermite de contact due aux composés chlorés
+L25.3	dermatite de contact due aux cyclohexanes
+L25.3	dermite de contact due aux cyclohexanes
+L25.3	dermatite de contact due aux esters
+L25.3	dermite de contact due aux esters
+L25.3	dermatite de contact due aux glycols
+L25.3	dermite de contact due aux glycols
+L25.3	dermatite de contact due aux hydrocarbures
+L25.3	dermite de contact due aux hydrocarbures
+L25.3	dermatite de contact due aux cétones
+L25.3	dermite de contact due aux cétones
+L25.3	dermatite de contact due à l'acide
+L25.3	dermite de contact due à l'acide
+L25.3	dermatite de contact due au sparadrap
+L25.3	dermite de contact due au sparadrap
+L25.3	dermatite de contact due aux alcali
+L25.3	dermite de contact due aux alcali
+L25.3	dermatite de contact due à un agent caustique
+L25.3	dermite de contact due à un agent caustique
+L25.3	dermatite de contact due aux bichromates
+L25.3	dermite de contact due aux bichromates
+L25.3	dermatite de contact due aux insecticides
+L25.3	dermite de contact due aux insecticides
+L25.3	dermatite de contact due au nylon
+L25.3	dermite de contact due au nylon
+L25.3	dermatite de contact due au plastique
+L25.3	dermite de contact due au plastique
+L25.4	dermatite de contact due à des aliments en contact avec la peau
+L25.4	dermite de contact due à des aliments en contact avec la peau
+L25.4	dermatite de contact due aux céréales
+L25.4	dermite de contact due aux céréales
+L25.4	dermatite de contact due au poisson
+L25.4	dermite de contact due au poisson
+L25.4	dermatite de contact due à la farine
+L25.4	dermite de contact due à la farine
+L25.4	dermatite de contact due aux fruits
+L25.4	dermite de contact due aux fruits
+L25.4	dermatite de contact due à la viande
+L25.4	dermite de contact due à la viande
+L25.4	dermatite de contact due au lait
+L25.4	dermite de contact due au lait
+L25.5	dermatite de contact due aux végétaux non alimentaires
+L25.5	dermite de contact due aux végétaux non alimentaires
+L25.8	dermatite de contact due au caoutchouc
+L25.8	dermite de contact due au caoutchouc
+L25.8	dermatite périfistuleuse
+L25.8	dermite des stomisés
+L25.8	dermatite de contact due à d'autres agents précisés
+L25.8	dermite de contact due à d'autres agents précisés
+L25.8	dermatite de contact due à la fourrure
+L25.8	dermite de contact due à la fourrure
+L25.8	dermatite de contact due aux bijoux
+L25.8	dermite de contact due aux bijoux
+L25.8	dermatite de contact due aux métaux
+L25.8	dermite de contact due aux métaux
+L25.8	dermatite de contact due aux agents de conservation
+L25.8	dermite de contact due aux agents de conservation
+L25.8	dermatite de contact due au chrome
+L25.8	dermite de contact due au chrome
+L25.8	dermatite de contact due au nickel
+L25.8	dermite de contact due au nickel
+L25.9	eczéma professionnel
+L25.9	dermite professionnelle
+L25.9	dermatite professionnelle
+L25.9	dermatite de contact
+L25.9	dermite de contact
+L25.9	eczéma de contact
+L25.9	dermite artificielle
+L25.9	dermatite artificielle
+L25.9	dermatite de contact aiguë
+L25.9	dermite de contact aiguë
+L25.9	dermatite de contact subaiguë
+L25.9	dermite de contact subaiguë
+L25.9	dermatite de contact chronique
+L25.9	dermite de contact chronique
+L25.9	dermatite de contact exfoliatrice généralisée
+L25.9	dermite de contact exfoliatrice généralisée
+L25.9	inflammation de contact des muqueuses
+L25.9	mucite de contact
+L25.9	mucite de contact aiguë
+L25.9	mucite de contact subaiguë
+L25.9	mucite de contact chronique
+L26	dermatite exfoliatrice généralisée
+L26	dermite exfoliatrice généralisée
+L26	érythrodermie généralisée
+L26	pityriasis rubra de Hebra
+L26	dermatite exfoliatrice généralisée subaiguë
+L26	dermite exfoliatrice généralisée subaiguë
+L26	dermatite exfoliatrice généralisée chronique
+L26	dermite exfoliatrice généralisée chronique
+L27.0	toxicodermie
+L27.0	dermatose d'origine toxique
+L27.0	toxidermie
+L27.0	toxidermite
+L27.0	dermite d'origine toxique
+L27.0	dermatite due à des médicaments pris par voie interne
+L27.0	dermite due à des médicaments pris par voie interne
+L27.0	dermite due à des médicaments pris per os
+L27.0	dermatite due à des médicaments pris per os
+L27.0	dermite due à l'ingestion de médicaments
+L27.0	dermatite due à l'ingestion de médicaments
+L27.0	éruption due à des médicaments
+L27.0	dermite médicamenteuse
+L27.0	rash médicamenteux
+L27.0	dermatite médicamenteuse
+L27.0	dermatite médicamenteuse fixe
+L27.0	dermite médicamenteuse fixe
+L27.0	dermatite médicamenteuse fixe due à la phénolphtaléine
+L27.0	dermite médicamenteuse fixe due à la phénolphtaléine
+L27.1	éruption médicamenteuse lichénoïde
+L27.2	dermatite due à l'ingestion d'aliments
+L27.2	dermite due à l'ingestion d'aliments
+L27.8	dermatite due à une substance précisée prise par voie interne
+L27.8	dermite due à une substance précisée prise par voie interne
+L27.8	dermatite due à une substance précisée prise per os
+L27.8	pigmentation médicamenteuse
+L27.8	halogénide
+L27.8	bromodermie
+L27.8	iodide
+L27.9	dermatite due à une substance prise par voie interne
+L27.9	dermite due à une substance prise par voie interne
+L28.0	eczéma lichénifié
+L28.0	lichen
+L28.0	lichen simplex chronicus
+L28.0	lichen simplex chronique
+L28.0	névrodermite circonscrite
+L28.0	névrodermite localisée
+L28.0	dermatite exsudative discoïde et lichénoïde chronique de Sulzberger et Garbe
+L28.0	dermatite lichénoïde
+L28.1	prurigo nodulaire de Hyde
+L28.1	lichen obtusus corné
+L28.2	prurigo
+L28.2	éruption cutanée prurigineuse
+L28.2	rash prurigineux
+L28.2	papule prurigineuse
+L28.2	prurigo simplex aigu
+L28.2	strophulus
+L28.2	lichen urticatus
+L28.2	prurigo mitis
+L28.2	prurigo de Hebra
+L28.2	urticaire papuleuse
+L29.0	prurit anal
+L29.0	démangeaison anale
+L29.0	démangeaison périanale
+L29.3	prurit génital
+L29.8	prurit sénile
+L29.8	prurit solaire des coudes
+L29.8	prurit estival brachio-radial
+L29.9	prurit cutané
+L29.9	dermite prurigineuse
+L29.9	démangeaison cutanée
+L29.9	dermatite prurigineuse
+L30.0	eczéma nummulaire
+L30.0	dermatite nummulaire
+L30.0	dermite nummulaire
+L30.0	névrodermite nummulaire
+L30.0	névrodermite exsudative
+L30.1	dyshidrose
+L30.1	eczéma dysidrosique
+L30.1	eczéma dyshidrosique
+L30.1	cheiropompholyx
+L30.1	pompholyx
+L30.1	dysidrose
+L30.2	réaction cutanée seconde
+L30.2	dermatite d'autosensibilisation
+L30.2	dermite d'autosensibilisation
+L30.3	dermatite infectieuse eczématoïde
+L30.3	dermite infectieuse eczématoïde
+L30.4	intertrigo
+L30.4	intertrigo érythémateux
+L30.4	intertrigo eczématisé
+L30.5	pityriasis
+L30.5	pityriasis alba
+L30.5	pityriasis simplex
+L30.5	eczématide pityriasiforme
+L30.8	acrodermatite
+L30.8	dermatite aiguë
+L30.8	dermite aiguë
+L30.8	dermatite subaiguë
+L30.8	dermite subaiguë
+L30.8	dermite chronique et aiguë
+L30.8	dermatite chronique et aiguë
+L30.8	dermatite chronique
+L30.8	dermite chronique
+L30.8	dermatite du nouveau-né
+L30.8	dermite du nouveau-né
+L30.8	dermite néonatale
+L30.8	dermatite néonatale
+L30.8	dermite toxique
+L30.8	dermatite périvasculaire superficielle
+L30.8	dermite périvasculaire superficielle
+L30.8	dermatite d'interface
+L30.8	dermite d'interface
+L30.8	dermatite d'interface, type vacuolaire
+L30.8	dermite d'interface, type vacuolaire
+L30.8	dermatite d'interface, type lichénoïde
+L30.8	dermite d'interface, type lichénoïde
+L30.8	dermatite spongiotique
+L30.8	dermite spongiotique
+L30.8	dermatite psoriasiforme
+L30.8	dermite psoriasiforme
+L30.8	dermatite psoriasiforme spongiotique
+L30.8	dermite psoriasiforme spongiotique
+L30.8	dermatite périvasculaire superficielle et profonde
+L30.8	dermite périvasculaire superficielle et profonde
+L30.8	dermatite diffuse et nodulaire
+L30.8	dermite diffuse et nodulaire
+L30.8	dermatite nodulaire
+L30.8	dermite nodulaire
+L30.8	dermatite diffuse
+L30.8	dermite diffuse
+L30.8	dermatite intra-épidermique vésiculaire et pustuleuse
+L30.8	dermite intra-épidermique vésiculaire et pustuleuse
+L30.8	dermatite vésiculaire spongiotique
+L30.8	dermite vésiculaire spongiotique
+L30.8	dermatite vésiculaire ballonnisante
+L30.8	dermite vésiculaire ballonnisante
+L30.8	dermatite vésiculaire acantholytique
+L30.8	dermite vésiculaire acantholytique
+L30.8	dermatite vésiculaire intragranuleuse
+L30.8	dermite vésiculaire de la couche granuleuse
+L30.8	dermatite vésiculaire intrabasale
+L30.8	dermite vésiculaire intrabasale
+L30.8	dermatite vésiculaire intra-épidermique
+L30.8	dermite vésiculaire intra-épidermique
+L30.8	dermatite pustuleuse intra-épidermique
+L30.8	dermite pustuleuse intra-épidermique
+L30.8	dermatite vésiculaire sous-épidermique
+L30.8	dermite vésiculaire sous-épidermique
+L30.8	eczéma aigu
+L30.8	eczéma de Willan
+L30.8	eczéma érythémateux
+L30.8	eczéma chronique
+L30.8	eczéma vésiculeux
+L30.8	eczéma suintant
+L30.8	eczéma pustuleux
+L30.8	eczéma croûteux
+L30.8	eczéma squameux
+L30.8	eczéma excorié
+L30.8	dermatite de contact due au froid
+L30.8	dermite de contact due au froid
+L30.9	dermatite
+L30.9	dermite
+L30.9	inflammation de la peau
+L30.9	irritation de la peau
+L30.9	eczéma
+L30.9	inflammation des muqueuses
+L30.9	mucite
+L30.9	mucosite
+L30.9	mucite aiguë
+L30.9	mucite chronique
+L40.0	psoriasis vulgaris
+L40.0	psoriasis en plaques
+L40.0	psoriasis nummulaire
+L40.0	psoriasis érythrodermique
+L40.0	psoriasis exfoliatif
+L40.1	impétigo herpétiforme
+L40.1	psoriasis pustuleux généralisé de von Zumbusch
+L40.1	psoriasis pustuleux généralisé
+L40.1	syndrome de von Zumbusch
+L40.1	psoriasis pustuleux généralisé, type exanthémateux
+L40.1	psoriasis pustulaire généralisé exanthémateux
+L40.1	psoriasis pustuleux localisé
+L40.1	psoriasis avec pustules
+L40.2	acrodermatite continue de Hallopeau
+L40.2	dermatite serpigineuse
+L40.2	acrodermatite continue de Hallopeau localisée
+L40.3	bactéride
+L40.3	bactéride pustuleuse d'Andrews
+L40.3	bactéride pustuleuse
+L40.3	pustulose palmoplantaire
+L40.3	éruption palmoplantaire pustuleuse récalcitrante
+L40.3	pustulose palmaire et plantaire
+L40.3	acropustulose
+L40.4	psoriasis en goutte
+L40.4	psoriasis guttata
+L40.5+	psoriasis arthropathique
+L40.5+	rhumatisme psoriasique
+L40.8	psoriasis séborrhéique
+L40.8	psoriasis interverti
+L40.8	séborrhiasis
+L40.8	dermatite séborrhéique psoriasiforme
+L40.9	psoriasis
+L41.0	pityriasis lichenoïde aigu
+L41.0	maladie de Mucha-Habermann
+L41.0	parapsoriasis varioliforme de Mucha
+L41.0	pityriasis lichenoides et varioliformis acuta de Mucha-Habermann
+L41.0	parapsoriasis varioliformis de Wise
+L41.1	pityriasis lichénoïdes chronica
+L41.1	parapsoriasis en gouttes
+L41.1	pityriasis lichénoïde chronique
+L41.3	parapsoriasis en plaques
+L41.3	parapsoriasis à petites plaques
+L41.3	lichen psoriasis
+L41.4	parapsoriasis à grandes plaques
+L41.5	parapsoriasis lichénoïde
+L41.5	parapsoriasis rétiforme
+L41.5	parakératose variegata
+L41.5	parapsoriasis poïkilodermique
+L41.9	parapsoriasis
+L42	pityriasis rosé de Gibert
+L42	pityriasis circiné et marginé de Duhring
+L43.0	lichen plan hypertrophique
+L43.1	lichen plan bulleux
+L43.8	lichen plan atrophique
+L43.8	lichen plan linéaire
+L43.8	lichen spinulosus
+L43.9	lichen plan
+L43.9	lichen ruber planus
+L44.0	pityriasis rubra pilaire
+L44.0	lichen ruber acuminatus de Kaposi
+L44.0	maladie de Devergie
+L44.1	lichen nitidus
+L44.1	maladie de Pinkus
+L44.2	lichen strié
+L44.3	lichen ruber moniliforme
+L44.8	affection lichénoïde précisée, NCA
+L44.9	dermatose papulo-squameuse
+L50.0	urticaire allergique
+L50.0	urticaire médicamenteuse
+L50.0	urticaire d'origine médicamenteuse
+L50.1	urticaire idiopathique
+L50.2	urticaire provoquée par le froid
+L50.2	urticaire provoquée par la chaleur
+L50.2	urticaire thermique
+L50.3	dermographisme
+L50.3	urticaire physique
+L50.3	dermographie
+L50.3	autographisme
+L50.3	dermatose stéréographique
+L50.3	urticaire factice
+L50.4	urticaire provoquée par vibration
+L50.5	urticaire cholinergique
+L50.6	urticaire de contact
+L50.8	urticaire aquagénique
+L50.8	urticaire provoquée par un traumatisme
+L50.8	urticaire immunologique
+L50.8	urticaire immunologique aiguë
+L50.8	urticaire à la pression
+L50.8	urticaire chronique
+L50.8	urticaire récidivante périodique
+L50.8	urticaria perstans
+L50.8	urticaire bulleuse
+L50.8	urticaire vésiculeuse
+L50.8	urticaire précisée, NCA
+L51.1	syndrome de Stevens-Johnson
+L51.1	ectodermose érosive pluri-orificielle
+L51.1	érythème polymorphe bulleux
+L51.1	érythème polymorphe exsudatif
+L51.1	syndrome de Baader
+L51.1	syndrome muco-cutanéo-oculaire
+L51.1	syndrome oculo-muco-cutané
+L51.1	syndrome muco-oculo-cutané de Fuchs
+L51.1	érythème iris
+L51.1	herpès iris de Bateman
+L51.2	nécrolyse épidermique toxique de Lyell, sous-épidermique
+L51.2	épidermolyse nécrosante suraiguë
+L51.2	syndrome de Lyell
+L51.8	érythème polymorphe dermique
+L51.8	érythème polymorphe dermique et épidermique
+L51.8	érythème polymorphe épidermique
+L51.9	érythème polymorphe
+L52	érythème noueux
+L52	érythème noueux aigu
+L52	érythème noueux chronique
+L52	syndrome de Vilanova-Pinol-Aguadé
+L52	hypodermite subaiguë nodulaire migratrice
+L52	érythème induré
+L52	vasculite nodulaire
+L53.0	érythème toxique
+L53.1	érythème annulaire centrifuge
+L53.1	erythema gyratum perstans
+L53.1	érythème annulaire familial
+L53.2	eczéma marginé discoïde de Besnier
+L53.2	érythème annulaire rhumatismal
+L53.3	érythème circiné
+L53.3	érythème figuré
+L53.3	erythema gyratum repens
+L53.3	syndrome de Gammel
+L53.3	érythème chronique migrateur
+L53.8	érythème scarlatiniforme
+L53.8	éruption scarlatiniforme
+L53.8	érythème palmaire
+L53.8	érythrose palmaire
+L53.8	erythema dyschromicum perstans
+L53.8	érythème migratoire nécrolytique
+L53.8	forme précisée d'érythème, NCA
+L53.8	erythema simplex
+L53.8	érythème simple
+L53.8	infiltration lymphocytaire bénigne de Jessner
+L53.8	infiltration lymphocytaire de la peau de Jessner-Kanoff
+L53.9	affection érythémateuse
+L54.8*	rash érythémateux du lupus érythémateux systémique
+L54.8*	vespertilio du lupus érythémateux systémique
+L54.8*	érythème en papillon du lupus érythémateux systémique
+L55.0	coup de soleil au premier degré
+L55.0	érythème solaire
+L55.1	coup de soleil au deuxième degré
+L55.2	coup de soleil au troisième degré
+L55.9	coup de soleil
+L56.0	photosensibilisation d'origine médicamenteuse
+L56.0	dermatite médicamenteuse phototoxique
+L56.0	dermite médicamenteuse phototoxique
+L56.0	éruption phototoxique d'origine médicamenteuse
+L56.0	réaction phototoxique à un médicament
+L56.1	dermatite médicamenteuse photoallergique
+L56.1	dermite médicamenteuse photoallergique
+L56.2	dermatite photoallergique
+L56.2	dermite de photocontact
+L56.2	dermite photoallergique
+L56.2	dermatite de contact photoallergique
+L56.3	urticaire solaire
+L56.4	hydroa estival
+L56.4	hydroa vacciniforme
+L56.4	dermatite de contact due à la lumière, à l'exclusion du soleil
+L56.4	dermite de contact due à la lumière, à l'exclusion du soleil
+L56.4	lucite polymorphe
+L56.4	photodermite polymorphe
+L56.4	photodermatose due au soleil
+L56.4	photosensibilité au soleil
+L56.4	actinite solaire
+L56.4	lucite polymorphe papuleuse
+L56.4	lucite polymorphe papulo-vésiculeuse
+L56.4	lucite polymorphe eczémateuse
+L56.4	lucite polymorphe en plaques
+L56.4	lucite polymorphe érythémateuse diffuse
+L56.4	dermatite actinique
+L56.4	dermite actinique
+L56.4	actinodermatose
+L56.4	actinite
+L56.8	dermatite de contact due aux rayons ultraviolets, à l'exclusion du soleil
+L56.8	dermite de contact due aux rayons ultraviolets, à l'exclusion du soleil
+L56.8	photodermite
+L56.8	photodermatose
+L56.8	dermatite phototoxique
+L56.8	dermite phototoxique
+L56.8	dermatite phototoxique aiguë
+L56.8	dermite phototoxique aiguë
+L56.8	dermatite phototoxique chronique
+L56.8	dermite phototoxique chronique
+L56.8	phytophotodermatite
+L56.8	phytophotodermite
+L56.8	phytophotodermatite aiguë
+L56.8	phytophotodermite aiguë
+L56.8	phytophotodermatite chronique
+L56.8	phytophotodermite chronique
+L56.9	photosensibilité d'origine alimentaire
+L56.9	dermatite photoallergique aiguë
+L56.9	dermite photoallergique aiguë
+L57.1	actinoréticulose
+L57.2	nuque rhomboïdale
+L57.2	cutis rhomboidalis
+L57.3	poïkilodermie de Civatte
+L57.4	cutis laxa acquise
+L57.4	cutis laxa senilis
+L57.4	élastose sénile
+L57.5	granulome actinique
+L57.8	dermatite de contact due au rayonnement solaire
+L57.8	dermite de contact due au rayonnement solaire
+L57.8	dégénérescence solaire
+L57.8	peau de marin
+L57.8	peau de cultivateur
+L57.8	élastose solaire
+L57.8	dermite solaire
+L57.8	dégénérescence actinique
+L58.0	radiodermite précoce
+L58.0	radiodermite aiguë
+L58.1	radiodermite tardive
+L58.1	radiodermite chronique
+L58.9	dermatite de contact due aux rayons X
+L58.9	dermite de contact due aux rayons X
+L58.9	radiodermite
+L59.0	dermatite de contact due à la chaleur
+L59.0	dermite de contact due à la chaleur
+L59.8	dermatite de contact due aux rayons infrarouges
+L59.8	dermite de contact due aux rayons infrarouges
+L59.8	dermatite de contact due à l'irradiation
+L59.8	dermite de contact due à l'irradiation
+L60.0	ongle incarné
+L60.0	onychocryptose
+L60.0	onyxis
+L60.0	onyxis latérale
+L60.0	ongle incarné avec infection
+L60.1	onycholyse
+L60.1	séparation de la pulpe unguéale
+L60.1	photo-onycholyse
+L60.2	hypertrophie des ongles
+L60.2	hypertrophie des ongles d'orteils
+L60.2	onychauxis
+L60.2	hypertrophie régulière des ongles
+L60.2	onychogrypose
+L60.2	ongles en bec de perroquet
+L60.2	ongles en griffe
+L60.2	onychogryphose
+L60.3	onychodystrophie médiane
+L60.3	onychodystrophie médiane canaliforme
+L60.3	dystrophie des ongles
+L60.3	onychodystrophie
+L60.3	dystrophie unguéale totale
+L60.3	fragilité des ongles
+L60.3	ongles cassants
+L60.3	dystrophie unguéale partielle
+L60.3	ongles en coquille d'oeuf
+L60.3	hapalonychie
+L60.3	ongles plus larges que longs
+L60.3	onychorrhexis
+L60.3	fissures longitudinales des ongles
+L60.3	onychoschizie
+L60.3	ongles fissurés ou décollés
+L60.3	ongles ponctués
+L60.3	ongle de couturière
+L60.3	koïlonychie
+L60.3	coelonychie
+L60.3	leuconychie
+L60.3	leuconychie ponctuée
+L60.3	leuconychie striée
+L60.3	onychomalacie
+L60.3	ongles mous
+L60.3	atrophie des ongles
+L60.3	onychatrophie
+L60.4	sillons unguéaux
+L60.4	lignes de Beau
+L60.4	sillons transversaux des ongles
+L60.4	bandes de Mée
+L60.4	stries transversales blanches ou grises des ongles
+L60.4	lignes de Muehrcke
+L60.4	raies blanches transversales parallèles des ongles
+L60.5	syndrome des ongles jaunes
+L60.8	macronychie
+L60.8	micronychie
+L60.8	lambeau cuticulaire
+L60.8	infection du lit d'un ongle
+L60.8	pterygium unguis
+L60.8	séparation du repli cutané de l'ongle
+L60.8	onychomadésis
+L60.8	perte complète des ongles
+L60.8	onychopathie azotémique
+L60.9	maladie des ongles
+L63.0	alopécie totale
+L63.0	pelade décalvante
+L63.1	pelade diffuse
+L63.2	ophiase
+L63.2	pelade ophiasique
+L63.8	pelade concentrique
+L63.8	cheveux en point d'exclamation
+L63.9	pelade
+L63.9	alopécie en aires
+L63.9	alopecia areate
+L64.0	alopécie médicamenteuse
+L64.8	alopécie androgénique masculine
+L64.8	alopécie héréditaire
+L64.8	calvitie hippocratique
+L64.8	calvitie commune
+L64.8	calvitie féminine
+L64.8	alopécie androgénique féminine
+L65.0	effluvium télogène
+L65.1	effluvium anagène
+L65.2	alopécie mucineuse de Pinkus
+L65.2	mucinose folliculaire
+L65.8	alopécie généralisée
+L65.8	alopécie liminaire frontale
+L65.8	alopécie marginale
+L65.8	alopécie endocrine
+L65.8	alopécie post-partum
+L65.8	alopécie psychogène
+L65.8	alopécie nutritionelle
+L65.8	alopécie par irradiation
+L65.8	alopécie par brûlure thermique
+L65.8	alopécie par engelures
+L65.9	alopécie
+L65.9	perte des poils/cheveux
+L65.9	atrichie
+L65.9	atrichose
+L65.9	hypotrichose
+L65.9	hypotrichose post-infectieuse
+L65.9	atrophie du système pileux
+L66.0	alopécie cicatricielle
+L66.0	pseudopelade
+L66.0	pseudopelade de Brocq
+L66.0	état pseudopeladique
+L66.0	pseudo-pelade
+L66.1	lichen planopilaris
+L66.1	lichen plano-pilaire
+L66.1	lichen plan folliculaire
+L66.2	folliculite décalvante
+L66.3	périfolliculite capitis abscedens
+L66.3	cellulite disséquante du cuir chevelu
+L66.3	abcès multiples du cuir chevelu
+L66.3	périfolliculite du cuir chevelu
+L66.4	ulérythème
+L66.4	ulérythème des joues
+L66.4	ulérythème des sourcils
+L66.4	kératose pilaire de la face
+L66.4	ulérythème ophryogène
+L66.4	atrophodermie vermiculée
+L66.4	acné vermoulante
+L66.4	folliculite ulérythémateuse réticulée
+L66.8	alopécie traumatique
+L66.8	alopécie de traction
+L67.0	trichorrhexie
+L67.0	trichorrhexis nodosa
+L67.0	trichoclasie
+L67.0	clastothrix
+L67.0	trichorrhexie noueuse
+L67.0	cheveux en bambou
+L67.1	variation de la couleur des cheveux
+L67.1	canitie prématurée
+L67.1	cheveux gris prématurés
+L67.1	grisonnement prématuré des cheveux
+L67.1	achromotrichie
+L67.1	hétérochromie des cheveux
+L67.1	poliose
+L67.1	poliose circonscrite acquise
+L67.1	coloration anormale des cheveux
+L67.8	dystrophie du système pileux
+L67.8	dystrophie primaire du système pileux
+L67.8	dystrophie secondaire du système pileux
+L67.8	dystrophie idiopathique du système pileux
+L67.8	cheveux crépus acquis progressivement
+L67.8	fragilité des cheveux
+L67.8	cheveux cassants
+L67.8	incarnation pileuse
+L67.8	poil incarné
+L67.8	trichonodosis
+L68.0	hirsutisme
+L68.0	virilisme pilaire
+L68.1	hypertrichose lanugineuse acquise
+L68.1	hypertrichose ayant l'aspect de lanugo
+L68.1	cheveux laineux
+L68.3	hypertrichose
+L68.3	pilosité excessive
+L68.3	polytrichie
+L68.3	trichauxis
+L68.3	polytrichose
+L68.8	caroncule lacrymale ciliée
+L68.8	hypertrichose du pavillon de l'oreille
+L68.8	hypertrichose des oreilles
+L68.8	cheveux feutrés et emmêlés
+L70.0	acné atrophique
+L70.0	acné vulgaire
+L70.0	acné juvénile polymorphe
+L70.0	acné pustuleuse
+L70.0	acné indurée
+L70.0	acné kystique
+L70.1	acné conglobata
+L70.2	acné nécrotique miliaire
+L70.2	acné miliaire nécrosante
+L70.2	acné varioliforme
+L70.2	acné pilaire
+L70.2	acné frontale
+L70.2	acné frontalis
+L70.3	acné tropicale
+L70.4	acné néonatale
+L70.4	acné infantile
+L70.5	acné excoriée des jeunes filles
+L70.8	éruptions acnéiformes
+L70.8	acné prémenstruelle de l'adulte
+L70.8	acné fulminante
+L70.8	acné d'origine chimique externe
+L70.8	acné halogénique
+L70.8	acné bromique
+L70.8	acné chlorique
+L70.8	acné iodique
+L70.8	acné venenata
+L70.8	acné de contact
+L70.8	acné cosmétique
+L70.8	acné aux détergents
+L70.8	acné par détersion
+L70.8	acné estivale
+L70.8	acné mécanique
+L70.9	acné
+L71.0	dermatite périorale
+L71.0	dermite périorale
+L71.0	éruption papuleuse du menton
+L71.0	érythrose péribuccale pigmentée de Brocq
+L71.0	érythrose pigmentée faciale
+L71.1	rhinophyma
+L71.1	acné éléphantiasique
+L71.1	acné hypertrophique de Vidal et Leloir
+L71.8	rosacée télangiectasique érythémateuse
+L71.8	rosacée glandulaire hyperplasique
+L71.8	acné rosacée papuleuse
+L71.8	syndrome de Haber
+L71.8	acné rosacée avec carcinome intra-épithélial cutané du tronc
+L71.9	acné rosacée
+L71.9	couperose
+L71.9	acné érythémateuse
+L72.1	kyste pilosébacé prolifératif du cuir chevelu
+L72.1	tumeur pilaire du cuir chevelu
+L73.0	acné chéloïde
+L73.0	acné chéloïdienne
+L73.2	hidradénite suppurée
+L73.2	maladie de Verneuil
+L73.2	hidrosadénite suppurée
+L73.2	hidrosadénite axillaire
+L73.8	folliculite et périfolliculite
+L73.8	périfolliculite
+L73.8	folliculite
+L73.8	folliculite pustuleuse à éosinophiles
+L73.8	maladie de Ofuji
+L73.8	affection des glandes sébacées
+L73.8	hyperplasie sénile des glandes sébacées
+L73.8	autre affection précisée des glandes sébacées, NCA
+L73.8	folliculite disséminée
+L73.8	sycosis
+L73.8	sycosis lupoïde
+L73.8	ulérythème sycosiforme
+L73.8	folliculitis nares perforans
+L73.8	folliculite perforante
+L73.8	fibrofolliculomes multiples
+L73.8	syndrome de Birt-Hogg-Dubé
+L73.9	folliculite aiguë
+L73.9	folliculite chronique
+L73.9	maladie des poils et des follicules pileux
+L73.9	folliculite en amas
+L73.9	folliculite pustuleuse
+L74.0	miliaire jaune
+L74.0	miliaire pustuleuse
+L74.0	bourbouille
+L74.0	prurigo simplex
+L74.0	impétigo miliaire
+L74.0	gale bédouine
+L74.0	miliaire sudorale
+L74.0	miliaire rouge
+L74.0	lichen tropicus
+L74.1	miliaire blanche
+L74.1	miliaire cristalline
+L74.1	sudamina
+L74.2	miliaire profonde
+L74.3	miliaire
+L74.4	anhidrose
+L74.4	anidrose
+L74.4	asthénie anhidrotique tropicale
+L74.4	anhidrose thermogène
+L74.4	hypohidrose
+L74.8	dilatation d'un canal sébacé
+L74.8	granulosis rubra nasi
+L74.8	urhidrose
+L74.8	uridrose
+L74.8	dilatation d'un canal sudoripare
+L74.8	kyste des glandes sudoripares
+L74.8	kyste sudoripare
+L74.8	affection précisée des glandes sudoripares, NCA
+L74.8	fermeture d'un pore sudoripare
+L74.9	affection des glandes sudoripares
+L74.9	maladie des glandes sudoripares
+L75.0	bromhidrose
+L75.0	bromidrose
+L75.0	osmidrose
+L75.0	osmhidrose
+L75.1	chromhidrose
+L75.1	sécrétion de sueur colorée
+L75.1	chromidrose
+L75.1	pseudochromhidrose plantaire
+L75.1	pseudochromidrose plantaire
+L75.2	maladie de Fox et Fordyce
+L75.2	maladie de Fox-Fordyce
+L75.2	miliaire apocrine
+L75.8	kyste d'une glande apocrine
+L75.8	kyste apocrine
+L75.8	hidrosadénite
+L75.8	hidradénite
+L80	vitiligo
+L81.0	hyperpigmentation postinflammatoire
+L81.1	chloasma
+L81.1	mélasme
+L81.1	masque de grossesse
+L81.1	masque des femmes enceintes
+L81.1	chloasma gravidique
+L81.1	chloasma idiopathique
+L81.1	chloasma symptomatique
+L81.2	éphélides
+L81.2	taches de rousseur
+L81.2	macule mélanotique
+L81.3	taches café au lait
+L81.4	hyperpigmentation de la peau
+L81.4	lentigo
+L81.4	lentigine
+L81.4	grain de beauté
+L81.4	naevus pigmentaire commun
+L81.4	lentigo sénile
+L81.4	taches chamois des sujets âgés
+L81.4	mélanodermie
+L81.4	mélanodermie phtiriasique
+L81.4	mélanodermie des vagabonds
+L81.4	maladie des vagabonds
+L81.4	mélanodermie sénile
+L81.4	mélanodermie cachectique
+L81.4	poïkilodermie réticulée pigmentaire de la face et du cou
+L81.4	mélanose de Riehl
+L81.4	mélanodermite toxique lichénoïde et bulleuse
+L81.4	mélanodermite toxique d'Haberman-Hoffmann
+L81.4	mélanose due au goudron
+L81.5	leucodermie
+L81.6	achromie de la peau
+L81.6	achromie cutanée
+L81.6	dépigmentation cutanée
+L81.6	dépigmentation de la peau
+L81.6	hypopigmentation de la peau
+L81.6	hypomélanose idiopathique en goutte
+L81.7	maladie de Schamberg
+L81.7	dermatose pigmentaire progressive
+L81.7	dermatite lichénoïde purpurique et pigmentée de Gougerot et Blum
+L81.7	angiome serpigineux
+L81.7	angioma serpiginosum d'Hutchinson-Crocker
+L81.8	tatouage
+L81.8	argyrie de la peau
+L81.8	pigmentation de la peau par sels d'argent
+L81.8	pigmentation de la peau par le mercure
+L81.8	chrysocyanose
+L81.8	chrysodermie
+L81.8	pigmentation de la peau par sels d'or
+L81.9	pigmentation anormale de la peau
+L81.9	anomalie de la pigmentation de la peau
+L81.9	dyschromie
+L83	acanthosis nigricans
+L83	dystrophie papillaire et pigmentaire
+L83	papillomatose confluente et réticulée de Gougerot-Carteaud
+L83	papillomatose confluente et réticulée
+L84	cor d'un orteil
+L84	cor
+L84	oeil-de-perdrix
+L84	cor mou
+L84	durillon
+L84	nodosités des surfeurs
+L84	nodosités du poignet
+L84	nodosités des cueilleurs
+L84	pseudo-hélodermie
+L85.0	xérodermie
+L85.0	ichtyose acquise
+L85.0	ichtyose sénile
+L85.1	kératodermie acquise
+L85.1	hyperkératose de la peau
+L85.1	kératodermie palmo-plantaire acquise
+L85.1	kératose palmaire et plantaire acquise
+L85.1	kératodermie climatérique
+L85.1	kératodermie palmo-plantaire climatérique
+L85.1	acrokératose
+L85.1	kératodermie fissuraire plantaire
+L85.1	kératodermie fissuraire plantaire observée aux Indes
+L85.1	kératose palmo-plantaire arsenicale
+L85.1	kératodermie palmo-plantaire arsenicale
+L85.1	kératose palmo-plantaire secondaire à une intoxication à l'arsenic
+L85.3	prurit hiémal
+L85.3	gerçure
+L85.3	peau gercée
+L85.3	démangeaison hivernale
+L85.3	eczéma craquelé
+L85.3	astéatose cutanée
+L85.3	dermite avec peau sèche
+L85.3	xérose cutané
+L85.8	dermatose hyperkératosique inflammatoire
+L85.8	dermatose hyperkératosique inflammatoire aiguë
+L85.8	dermatose hyperkératosique inflammatoire chronique
+L85.8	dermatose hyperkératosique inflammatoire isomorphe
+L85.8	dermatose hyperkératosique inflammatoire intertrigineuse
+L85.8	dermatose hyperkératosique inflammatoire annulaire
+L85.8	dermatose hyperkératosique inflammatoire en plaques
+L85.8	dermatose hyperkératosique inflammatoire rupioïde
+L85.8	dermatose hyperkératosique inflammatoire goutteuse
+L85.8	dermatose hyperkératosique inflammatoire exfoliative généralisée
+L85.8	kératose pilaire
+L85.8	lichen pilaire
+L85.8	xérodermie pilaire
+L85.8	kératodermie tylodes progressive
+L85.8	hyperkératose lenticulaire persistante
+L85.8	hyperkeratosis lenticularis perstans
+L85.8	maladie de Flegel
+L85.8	hyperkératose sous-unguéale
+L85.9	épaississement de la peau
+L85.9	hyperplasie épithéliale de la peau
+L85.9	hypertrophie papillaire dermique
+L85.9	hyperplasie des muqueuses
+L86*	kératodermie blennorragique dans le syndrome de Reiter
+L86*	kératodermie blennorragique
+L86*	kératose blennorragique
+L87.0	hyperkératose folliculaire pénétrante
+L87.0	hyperkératose folliculaire pénétrant dans la peau
+L87.0	maladie de Kyrle
+L87.1	collagénome perforant verruciforme
+L87.2	élastome perforant verruciforme
+L87.2	élastome perforant serpigineux
+L87.2	élastome intrapapillaire perforant verruciforme de Miescher
+L87.2	kératose serpigineuse de Lutz
+L88	pyodermite gangréneuse
+L88	dermatite gangréneuse infantile
+L88	dermite gangréneuse infantile
+L89	ulcère cutané de décubitus
+L89	ulcère de décubitus
+L89	ulcère de pression
+L89	plaie de lit
+L89	plaie de décubitus
+L89	escarre de décubitus
+L89	ulcère causé par un plâtre
+L90.0	lichen scléreux et atrophique
+L90.0	lichen scléreux
+L90.0	lichen scléreux et atrophique de type bulleux
+L90.1	anétodermie de Schweninger et Buzzi
+L90.2	anétodermie de Jadassohn-Pellizzari
+L90.3	peau lustrée
+L90.3	syndrome de Pasini-Pierini
+L90.3	atrophodermie idiopathique
+L90.3	atrophodermie idiopathique de Pasini-Pierini
+L90.4	acrodermatite chronique atrophiante
+L90.5	dermatite fibrosante
+L90.5	dermite fibrosante
+L90.5	fibrose cutanée
+L90.5	sclérose cutanée
+L90.5	prolifération fibro-histiocytaire de la peau
+L90.5	cicatrice de la peau
+L90.5	cicatrice cutanée
+L90.5	cicatrice adhérente
+L90.5	défiguration due à des cicatrices
+L90.5	ankylodactylie
+L90.5	adhérence des doigts
+L90.8	atrophie cutanée sénile
+L90.8	maladie de Pick-Herxheimer
+L90.8	dermite chronique atrophiante
+L90.8	dermite atrophiante maculeuse
+L90.8	anétodermie
+L90.8	taches atrophiques cutanées
+L90.8	dermatite atrophiante maculeuse
+L90.8	anétodermie érythémateuse
+L90.8	atrophie colloïde dégénérative
+L90.8	atrophie dégénérative sénile
+L90.9	atrophie de la peau
+L90.9	atrophie cutanée
+L90.9	atrophodermie
+L91.0	cicatrice chéloïdienne de la peau
+L91.0	chéloïde de la peau
+L91.0	chéloïde cutanée
+L91.0	cicatrice hypertrophique de la peau
+L91.8	cutis verticis gyrata
+L91.8	pachydermie vorticellée du cuir chevelu
+L91.8	pachydermie plicaturée
+L91.8	élastéïdose cutanée nodulaire à kystes et à comédons
+L91.8	maladie de Favre et Racouchot
+L91.9	affection hypertrophique de la peau
+L92.0	granulome annulaire
+L92.1	nécrobiose lipoïdique
+L92.1	nécrobiose lipoïdique de type nécrobiotique
+L92.1	nécrobiose lipoïdique de type granulomateux
+L92.1	granulomatose discoïde et progressive
+L92.3	granulome à corps étranger de la peau
+L92.3	réaction cellulaire à corps étranger de la peau
+L92.3	corps étranger dans la peau
+L92.3	granulome à corps étranger du tissu sous-cutané
+L92.3	granulome sous-cutané dû à la présence d'un corps étranger
+L92.3	corps étranger sous-cutané
+L92.3	réaction cellulaire due à une substance huileuse
+L92.3	paraffinome de la peau
+L92.3	granulome lipidique de la peau dû à l'huile de paraffine
+L92.3	granulome cutané à la silice
+L92.3	granulome cutané à l'amidon
+L92.3	granulome cutané au zirconium
+L92.3	granulome cutané au béryllium
+L92.3	granulome cutané sur tatouage
+L92.3	réaction cellulaire aux colorants de tatouage
+L92.8	tissu de granulation anormal
+L92.8	bourgeonnement excessif
+L93.0	lupus érythémateux cutané
+L93.2	lupus érythémateux discoïde
+L93.2	lupus érythémateux chronique discoïde
+L93.2	lupus pernio
+L93.2	lupus érythémateux profond
+L93.2	lupus érythémateux d'origine médicamenteuse
+L93.2	lupus érythémateux dû à la procaïnamide
+L93.2	lupus érythémateux dû à l'hydralazine
+L93.2	lupus érythémateux dû à la diphénylhydantoïne
+L94.0	sclérodermie circonscrite
+L94.0	sclérodermie en plaques
+L94.0	sclérodermie localisée
+L94.0	dermatosclérose localisée
+L94.0	morphée
+L94.0	lipodermatosclérose
+L94.0	lipodermatosclérose localisée
+L94.0	lipodermatosclérose étendue
+L94.1	sclérodermie linéaire
+L94.1	sclérodermie en bandes
+L94.1	sclérodermie en coup de sabre
+L94.2	calcinose cutanée
+L94.2	calcification sous-cutanée
+L94.2	calcinose localisée
+L94.2	calcinose tumorale
+L94.2	lipo-calcino-granulomatose symétrique progressive
+L94.5	poïkilodermie atrophique vasculaire
+L94.5	poïkilodermie généralisée type Petges-Cléjat
+L94.8	sclérème
+L94.8	induration adipeuse sous-cutanée
+L95.0	vasculite hyalinisante segmentaire
+L95.0	livédo réticulaire avec ulcération
+L95.0	livedo reticularis avec ulcération
+L95.0	livedo reticularis sans ulcération
+L95.0	livédo réticulaire sans ulcération
+L95.0	livédo racémeux
+L95.0	livedo racemosa
+L95.0	livédo réticulaire
+L95.0	livedo reticularis
+L95.0	livedo permanent dû à des anomalies des capillaires cutanés
+L95.0	livédo télangiectasique
+L95.0	atrophie blanche de Milian
+L95.0	atrophie blanche en plaques
+L95.1	erythema elevatum diutinum
+L95.8	vasculite neutrophile de la peau
+L95.8	vascularite neutrophile cutanée
+L95.8	vasculite lymphocytaire de la peau
+L95.8	vascularite lymphocytaire cutanée
+L95.8	vasculite histiocytaire de la peau
+L95.8	vascularite histiocytaire cutanée
+L95.8	vascularite granulomateuse cutanée
+L95.8	vasculite granulomateuse de la peau
+L95.8	purpura eczématiforme de Doucas et Kapetanakis
+L95.8	eczématide purpurique de Doucas et Kapetanakis
+L95.9	vasculite de la peau
+L95.9	vascularite cutanée
+L95.9	affection vasculaire de la peau
+L95.9	affection vasculaire cutanée
+L97	ulcère chronique du membre inférieur
+L97	ulcère chronique de la jambe
+L97	ulcère neurotrophique chronique du membre inférieur
+L97	ulcère neurotrophique chronique de la jambe
+L97	mal perforant plantaire
+L97	ulcère trophique chronique du membre inférieur
+L97	ulcère trophique chronique de la jambe
+L97	ulcère de la jambe
+L97	ulcère du pied
+L98.0	granulome pyogénique de la peau
+L98.0	botryomycome cutané
+L98.0	tumeur framboisiforme bénigne de la peau
+L98.0	granulome télangiectasique cutané
+L98.1	dermatite factice
+L98.1	artéfacts cutanés
+L98.1	dermite factice
+L98.1	excoriation névrotique
+L98.2	dermatose aiguë fébrile neutrophilique
+L98.2	dermatose neutrophile fébrile
+L98.2	syndrome de Sweet
+L98.4	ulcère cutané
+L98.4	ulcère de la peau
+L98.4	ulcère infecté de la peau
+L98.4	ulcère cutané infecté
+L98.4	ulcère chronique de la peau
+L98.4	ulcération chronique de la peau
+L98.4	ulcère trophique
+L98.4	ulcère ischémique
+L98.4	ulcère phagédénique des pays chauds
+L98.4	ulcère de Gabon
+L98.4	ulcère tropical
+L98.4	phagédénisme tropical
+L98.4	plaie annamite
+L98.4	ulcère annamite
+L98.4	ulcère ischémique chez un hypertendu
+L98.4	ulcère hypertensif de Martorell
+L98.4	exulcération de la peau
+L98.4	érosion de la peau
+L98.4	ulcère chronique d'autres sièges précisés
+L98.4	ulcère neurotrophique chronique d'autres sièges précisés
+L98.4	ulcère trophique chronique d'autres sièges précisés
+L98.4	ulcère des muqueuses
+L98.5	lichen myxoedémateux
+L98.5	scléromyxoedème
+L98.5	myxoedème lichénoïde
+L98.5	mucinose papuleuse
+L98.5	mucinose cutanée en foyer
+L98.8	affection précisée de la peau, NCA
+L98.8	fistule de la peau
+L98.8	dermatose menstruelle
+L98.8	phénomène de Koebner
+L98.8	réaction isomorphique
+L98.8	dermatose croûteuse péripilaire du cuir chevelu
+L98.8	néovascularisation sous-épidermique
+L98.8	affection dégénérative de la peau
+L98.8	dégénérescence de la peau
+L98.8	dermatose sénile
+L98.8	fibrokératome digital acquis
+L98.8	dépôts cutanés
+L98.8	leucokératose de la peau
+L98.8	leucoplasie de la peau
+L98.8	végétations cutanées
+L98.8	pseudolymphome cutané
+L98.8	lymphocytome cutané bénin
+L98.8	lymphadénome cutané bénin
+L98.8	sarcoïde de Spiegler-Fendt
+L98.8	réticulose lymphocytaire bénigne de Degos
+L98.8	hyperplasie lymphoïde cutanée bénigne
+L98.8	panniculite due au froid
+L98.8	mucite post-thérapie
+L98.8	mucite post-traitement
+L98.8	mucite post-chimiothérapie
+L98.8	mucite post-radique
+L98.9	maladie de la peau et du tissu sous-cutané
+L98.9	maladie de la peau
+L98.9	dermatose
+L98.9	affection de la peau
+L98.9	lésion cutanée
+L98.9	maladie des muqueuses
+L99.8	nodule d'Osler
+L99.8	faux panaris d'Osler
+L99.8	pseudo-panaris d'Osler
+L99.8	ulcère cutanéo-muqueux
+L99.8*	plaques pigmentaires prétibiales du diabète
+L99.8*	nécrobiose lipoïdique des diabétiques
+L99.8*	dermatite atrophiante lipoïdique
+L99.8*	maladie d'Oppenheim-Urbach
+L72.2	stéatokystose multiple
+L05.9	kyste pilonidal
+L05.9	maladie pilonidale
+L05.9	sinus pilonidal
+L05.9	maladie sacro-coccygienne
+L05.9	fistule sacro-coccygienne
+L05.9	fistule pilonidale
+L05.9	kyste pilonidal sans abcès
+L05.0	kyste pilonidal avec abcès
+L05.0	abcès pilonidal
+L05.0	kyste pilonidal infecté
+L05.0	sinus pilonidal infecté
+L99.0*	amyloïdose cutanée maculaire
+L29.1	prurit scrotal
+L29.1	démangeaisons du scrotum
+L29.3	prurit des organes génitaux féminins
+L29.3	démangeaisons des organes génitaux féminins
+L29.3	prurit génital féminin
+L29.3	prurit du vagin
+L29.3	démangeaisons vaginales
+L29.2	prurit vulvaire
+L29.2	démangeaisons de la vulve
+L04.9	adénite aiguë à l'exclusion de l'adénite mésentérique
+L04.9	abcès d'un ganglion lymphatique
+L04.9	lymphadénopathie suppurée
+L04.9	lymphadénite suppurée
+L04.0	lymphadénite sous-mandibulaire
+L04.0	lymphadénite sous-maxillaire
+L01.0	impétigo
+L01.0	impétigo contagieux
+L01.0	impétigo bulleux
+L01.0	impétigo géant phlyténulaire
+L00	impétigo du nouveau-né
+L01.0	impétigo contagieux bulleux
+L01.0	impétigo circiné
+L01.0	impétigo à Staphylococcus aureus
+L00	pemphigus du nouveau-né
+L01.0	impétigo de Bockhart
+L01.0	impétigo circumpilaire
+L01.0	ostiofolliculite staphylococcique
+L73.8	sycosis staphylococcique
+L73.8	sycosis de la barbe
+L73.1	pseudo-folliculite de la barbe
+L73.8	sycosis staphylococcique de la barbe
+L73.8	folliculite bactérienne
+L51.2	nécrolyse épidermique toxique sous-cornée
+L00	syndrome de Ritter von Rittershain
+L00	nécroépidermolyse bulleuse aiguë staphylococcique
+L00	syndrome des enfants ébouillantés
+L00	syndrome de Ritter-Lyell
+L00	dermatite exfoliatrice staphylococcique du nourrisson
+L08.8	ecthyma
+L98.4	ulcère tropical phagédénique
+L98.4	ulcère à Bacteroides
+L88	ecthyma gangréneux
+L44.4	syndrome de Gianotti-Crosti
+L44.4	acrodermatite érythémato-papuleuse infantile
+L44.4	acrodermatite papuleuse infantile
+L30.2	syndrome de réaction allergique aux champignons parasites
+L30.2	dermatophytide
+L94.6	aïnhum
+L94.6	dactylolyse spontanée
+L52	syndrome de Löfgren

@@ -1,0 +1,4 @@
+W77	suffocation par éboulement
+W83	suffocation par sac de plastique
+W87	mort par électrocution
+W87	électrocution

@@ -1,0 +1,2083 @@
+T14.0	phlyctènes par frottement
+T14.0	hématome sous-cutané
+T30.0	brûlure électrique de la peau
+T78.3	oedème angioneurotique
+T78.3	urticaire géante
+T78.3	oedème de Quincke
+T79.7	emphysème sous-cutané
+T80.1	thrombose d'un point d'injection
+T80.2	infection d'un point d'injection
+T80.2	abcès d'un point d'injection
+T80.2	abcès stérile d'un point d'injection
+T80.8	affection d'un point d'injection ou d'une zone d'application
+T80.8	affection d'un point d'injection
+T80.8	réaction d'un point d'injection
+T80.8	hypersensibilité d'un point d'injection
+T80.8	irritation d'un point d'injection
+T80.8	modification de la pigmentation d'un point d'injection
+T80.8	extravasation d'un point d'injection
+T80.8	hémorragie d'un point d'injection
+T80.8	malabsorption d'un point d'injection
+T80.8	douleur d'un point d'injection
+T80.8	brûlure d'un point d'injection
+T80.8	lésion nerveuse d'un point d'injection
+T80.8	inflammation d'un point d'injection
+T80.8	oedème d'un point d'injection
+T80.8	dermatite d'un point d'injection
+T80.8	dermite d'un point d'injection
+T80.8	urticaire d'un point d'injection
+T80.8	tuméfaction d'un point d'injection
+T80.8	kyste d'un point d'injection
+T80.8	nécrose d'un point d'injection
+T80.8	anesthésie d'un point d'injection
+T80.8	paresthésie d'un point d'injection
+T80.8	ulcère d'un point d'injection
+T80.8	ecchymose d'un point d'injection
+T80.8	induration d'un point d'injection
+T80.8	fibrose d'un point d'injection
+T80.8	atrophie d'un point d'injection
+T81.4	infection d'une zone d'application
+T81.8	affection d'une zone d'application
+T81.8	réaction d'une zone d'application
+T81.8	irritation d'une zone d'application
+T81.8	douleur d'une zone d'application
+T81.8	ulcère d'une zone d'application
+T81.8	nécrose d'une zone d'application
+T81.8	modification de la pigmentation d'une zone d'application
+T81.8	éruption d'une zone d'application
+T81.8	oedème d'une zone d'application
+T81.8	anesthésie d'une zone d'application
+T81.8	atrophie d'une zone d'application
+T85.7	inflammation liée au perçage volontaire du corps
+T85.7	inflammation liée au tatouage volontaire du corps
+T85.9	réaction d'un point d'implantation
+T85.9	réaction autour d'un dispositif implantable
+T85.9	rejet d'un dispositif implantable
+T88.7	toxidermie bulleuse et sudoripare au cours d'un coma d'origine médicamenteuse
+T88.7	pigmentation due à la chlorpromazine
+T79.6	contracture de Volkmann
+T79.6	syndrome de Volkmann
+T81.2	perforation iatrogénique de la trachée
+T59.9	inhalation de fumée
+T79.4	choc des brûlés
+T78.0	anaphylaxie alimentaire
+T78.0	réaction anaphylactique alimentaire
+T78.4	allergie à tout type de noix
+T78.4	allergie aux arachides
+T78.4	allergie aux noix
+T78.4	allergie aux fruits de mer
+T78.4	allergie aux fruits
+T78.4	allergie aux fraises
+T78.4	allergie aux oeufs
+T28.6	brûlure caustique de l'oesophage
+T28.6	oesophagite caustique
+T18.2	corps étranger dans l'estomac
+T18.2	phytobézoard après gastrectomie
+T18.2	concrétion gastrique
+T18.2	corps étranger gastrique
+T73.0	famine
+T73.0	effets de la faim
+T73.0	famine due à un manque de nourriture
+T73.0	inanition due à un manque de nourriture
+T73.0	carence nutritionnelle due à une insuffisance de nourriture
+T73.0	privation de nourriture
+T73.0	semi-famine
+T73.0	syndrome de castration par malnutrition
+T73.0	syndrome des camps de concentration
+T73.0	syndrome d'impuissance des prisonniers de guerre
+T73.0	syndrome de castration par inanition
+T73.1	privation d'eau
+T73.1	effets de la soif
+T46.7	intoxication à la nicotinamide
+T45.2	intoxication à la pyridoxine
+T45.2	intoxication à l'acide ascorbique
+T56.1	myoglobinurie épidémique
+T56.1	maladie du Haff
+T56.1	myoglobinurie après ingestion d'anguille
+T66	néphrite d'irradiation
+T56.1	myoglobinurie toxique
+T74.3	syndrome de carence affective
+T41.5	narcose provoquée par le dioxyde de carbone
+T41.5	narcose provoquée par le CO>2<
+T41.5	encéphalopathie hypoxique-hypercapnique
+T41.5	encéphalopathie respiratoire
+T79.6	syndrome compartimental
+T79.6	syndrome de compression des loges musculaires
+T56.1	acrodynie
+T56.1	trophodermatoneurose
+T56.1	maladie de Selter-Swift-Feer
+T56.1	polynévrite pellagroïde
+T56.1	érythroedème épidémique
+T56.1	acrodynie due au mercure
+T56.1	maladie de Swift-Feer
+T86.8	rejet de greffe cornéenne
+T16	rétention d'un corps étranger dans l'oreille moyenne
+T66	lésion par irradiation de la moelle osseuse
+T66	lésion radique de la moelle osseuse
+T58	carboxyhémoglobinémie
+T86.0	maladie du greffon contre l'hôte
+T86.0	syndrome des rabougris
+T86.9	maladie homologue
+T86.9	maladie allogénique
+T78.2	anaphylaxie généralisée
+T78.2	choc anaphylactique
+T88.9	effets de l'immunothérapie
+T88.9	effets de la thérapie immunosuppressive
+T14.6	lésion traumatique d'un muscle
+T14.6	traumatisme musculaire
+T06.8	lésion traumatique de la face et du cou
+T09.9	lésion traumatique du tronc
+T02.8	fracture du cou et du tronc
+T08	fracture de la colonne vertébrale
+T08	fracture rachidienne
+T08	fracture du rachis
+T08	fracture par tassement de la colonne vertébrale
+T08	fracture par tassement du rachis
+T08.0	fracture fermée de la colonne vertébrale
+T08.1	fracture ouverte de la colonne vertébrale
+T08	fracture de la colonne vertébrale sans lésion traumatique de la moelle épinière
+T08.0	fracture fermée de la colonne vertébrale sans lésion traumatique de la moelle épinière
+T08.1	fracture ouverte de la colonne vertébrale sans lésion traumatique de la moelle épinière
+T08	fracture d'un arc neural
+T08	fracture de l'apophyse épineuse d'une vertèbre
+T08	fracture de l'apophyse transverse d'une vertèbre
+T08	fracture de la colonne vertébrale avec lésion traumatique de la moelle épinière
+T08.0	fracture fermée de la colonne vertébrale avec lésion traumatique de la moelle épinière
+T08.1	fracture ouverte de la colonne vertébrale avec lésion traumatique de la moelle épinière
+T10	fracture du membre supérieur
+T02.2	fracture de plusieurs os du membre supérieur
+T02.4	fractures multiples des deux membres supérieurs
+T02.4	fractures multiples des deux bras
+T02.7	fractures multiples du membre supérieur et des côtes
+T02.7	fractures multiples du membre supérieur et du sternum
+T02.7	fractures multiples du membre supérieur, du sternum et des côtes
+T10.0	fracture fermée du membre supérieur
+T02.20	fracture fermée de plusieurs os du membre supérieur
+T02.40	fractures multiples fermées des deux membres supérieurs
+T02.40	fractures multiples fermées des deux bras
+T02.70	fractures multiples fermées du membre supérieur et des côtes
+T02.70	fractures multiples fermées du membre supérieur et du sternum
+T02.70	fractures multiples fermées du membre supérieur, du sternum et des côtes
+T10.1	fracture ouverte du membre supérieur
+T02.41	fracture ouverte de plusieurs os des membres supérieurs
+T02.41	fractures multiples ouvertes des deux membres supérieurs
+T02.41	fractures multiples ouvertes des deux bras
+T02.71	fractures multiples ouvertes du membre supérieur et des côtes
+T02.71	fractures multiples ouvertes du membre supérieur et du sternum
+T02.71	fractures multiples ouvertes du membre supérieur, du sternum et des côtes
+T10	fracture métaphysaire d'un os du membre supérieur
+T12	fracture du membre inférieur
+T12	fracture d'un os non précisé du membre inférieur
+T12.0	fracture fermée d'un os non précisé du membre inférieur
+T12.1	fracture ouverte d'un os non précisé du membre inférieur
+T12	fracture de plusieurs os du membre inférieur
+T02.5	fractures multiples des deux membres inférieurs
+T02.5	fractures multiples des deux jambes
+T02.6	fractures multiples des membres supérieurs et inférieurs
+T02.7	fractures multiples du membre inférieur et des côtes
+T02.7	fractures multiples du membre inférieur et du sternum
+T02.7	fractures multiples du membre inférieur, des côtes et du sternum
+T12.0	fracture fermée du membre inférieur
+T02.30	fractures fermées de plusieurs os du membre inférieur
+T02.50	fractures multiples fermées des deux membres inférieurs
+T02.50	fractures multiples fermées des deux jambes
+T02.60	fractures multiples fermées des membres supérieurs et inférieurs
+T02.70	fractures multiples fermées du membre inférieur et des côtes
+T02.70	fractures multiples fermées du membre inférieur et du sternum
+T02.70	fractures multiples fermées du membre inférieur, des côtes et du sternum
+T12.1	fracture ouverte du membre inférieur
+T02.31	fracture ouverte de plusieurs os du membre inférieur
+T02.51	fractures multiples ouvertes des deux membres inférieurs
+T02.51	fractures multiples ouvertes des deux jambes
+T02.61	fractures multiples ouvertes des membres supérieurs et inférieurs
+T02.71	fractures multiples ouvertes du membre inférieur et des côtes
+T02.71	fractures multiples ouvertes du membre inférieur et du sternum
+T02.71	fractures multiples ouvertes du membre inférieur, des côtes et du sternum
+T12	fracture métaphysaire d'un os du membre inférieur
+T09.2	luxation fermée d'une vertèbre
+T09.2	luxation fermée de la colonne vertébrale
+T09.2	luxation fermée du rachis
+T09.2	luxation ouverte d'une vertèbre
+T09.2	luxation ouverte de la colonne vertébrale
+T09.2	luxation ouverte du rachis
+T03.2	luxations multiples fermées du membre supérieur
+T09.2	luxations multiples fermées du dos
+T03.2	luxations multiples fermées de la main
+T03.2	luxations multiples ouvertes du bras
+T09.2	luxations multiples ouvertes du dos
+T03.2	luxations multiples ouvertes de la main
+T13.2	entorse du membre inférieur
+T14.1	plaie ouverte de localisation non précisée sans complication
+T14.1	plaie ouverte de localisation non précisée avec complication
+T01.9	plaies ouvertes multiples sans complication
+T01.9	plaies ouvertes multiples avec complication
+T09.1	plaie ouverte du tronc sans complication
+T09.1	plaie ouverte du tronc avec complication
+T09.1	plaie ouverte du dos sans complication
+T09.1	plaie ouverte du dos avec complication
+T11.1	plaie ouverte du membre supérieur
+T11.1	plaie ouverte du membre supérieur sans complication
+T11.1	plaie ouverte du membre supérieur avec complication
+T11.1	plaie ouverte du membre supérieur avec atteinte des tendons
+T01.2	plaies ouvertes multiples d'un membre supérieur
+T01.2	plaies ouvertes multiples d'un membre supérieur sans complication
+T01.2	plaies ouvertes multiples d'un membre supérieur avec complication
+T01.2	plaies ouvertes multiples d'un membre supérieur avec atteinte des tendons
+T05.2	amputation traumatique bilatérale des bras, tout niveau, sans complication
+T05.2	amputation traumatique bilatérale des bras, tout niveau, avec complication
+T13.1	plaie ouverte du membre inférieur
+T13.1	plaie ouverte du membre inférieur sans complication
+T13.1	plaie ouverte du membre inférieur avec complication
+T13.1	plaie ouverte du membre inférieur avec atteinte des tendons
+T01.3	plaies ouvertes multiples d'un membre inférieur incluant la cuisse
+T01.3	plaies ouvertes multiples d'un membre inférieur incluant la cuisse sans complication
+T01.3	plaies ouvertes multiples d'un membre inférieur incluant la cuisse avec complication
+T01.3	plaies ouvertes multiples d'un membre inférieur incluant la cuisse avec atteinte des tendons
+T05.3	amputation traumatique bilatérale des pieds sans complication
+T05.3	amputation traumatique bilatérale des pieds avec complication
+T05.5	amputation traumatique bilatérale des jambes, tout niveau, sans complication
+T05.5	amputation traumatique bilatérale des jambes, tout niveau, avec complication
+T04.9	écrasements multiples
+T04.1	écrasement du tronc
+T04.1	écrasement du dos
+T04.1	écrasements multiples du tronc
+T04.2	écrasement d'un membre supérieur
+T04.2	écrasements multiples d'un membre supérieur
+T04.2	écrasement de l'épaule et du bras
+T04.2	écrasements multiples de l'épaule et du bras
+T04.2	écrasement du coude et de l'avant-bras
+T04.3	écrasement d'un membre inférieur
+T04.3	écrasements multiples d'un membre inférieur
+T04.3	écrasement du genou et de la jambe
+T14.5	lésion traumatique d'un vaisseau sanguin
+T14.5	lésion traumatique d'une artère
+T14.5	lésion traumatique artérielle
+T14.5	lésion traumatique d'une veine
+T14.5	lésion traumatique veineuse
+T79.2	hémorragie traumatique
+T06.3	lésion traumatique des vaisseaux sanguins de la tête et du cou
+T06.3	lésions traumatiques de multiples vaisseaux sanguins de la tête et du cou
+T11.4	lésion traumatique des vaisseaux sanguins du membre supérieur
+T11.4	lésion traumatique de multiples vaisseaux sanguins du membre supérieur
+T13.4	lésion traumatique des vaisseaux sanguins du membre inférieur
+T13.4	lésion traumatique de multiples vaisseaux sanguins du membre inférieur
+T14.4	lésion traumatique d'un nerf
+T14.4	lésion nerveuse traumatique
+T14.4	lésion traumatique de multiples nerfs
+T14.4	compression traumatique d'un nerf
+T14.4	nerf écrasé
+T14.4	névrite par compression traumatique
+T14.4	lésion traumatique d'un nerf périphérique
+T09.3	lésion traumatique de la moelle épinière
+T09.3	lésion traumatique de la moelle épinière sans lésion vertébrale
+T09.3	lésions traumatiques multiples de la moelle épinière sans lésion vertébrale
+T09.3	commotion de la moelle épinière
+T09.3	compression traumatique de la moelle épinière
+T06.2	lésion traumatique des racines nerveuses et des plexus rachidiens
+T06.2	lésion traumatique des racines nerveuses et des plexus rachidiens de localisations multiples
+T09.4	lésion traumatique d'un nerf du tronc
+T14.0	lésion traumatique superficielle non précisée sans infection
+T14.0	lésion traumatique superficielle non précisée avec infection
+T14.0	abrasion ou brûlure par frottement d'une localisation non précisée sans infection
+T14.0	abrasion et brûlure par frottement d'une localisation non précisée avec infection
+T14.0	phlyctène par frottement d'une localisation non précisée sans infection
+T14.0	phlyctène par frottement d'une localisation non précisée avec infection
+T14.0	piqûre d'insecte non venimeux d'une localisation non précisée sans infection
+T14.0	piqûre d'insecte non venimeux d'une localisation non précisée avec infection
+T14.0	lésion due à un corps étranger superficiel d'une localisation non précisée sans plaie ouverte importante ni infection
+T14.0	lésion due à un corps étranger superficiel d'une localisation précisée sans plaie ouverte importante, avec infection
+T18.0	lésion due à un corps étranger superficiel de la gencive sans plaie ouverte importante ni infection
+T18.0	lésion due à un corps étranger superficiel de la gencive sans plaie ouverte importante, avec infection
+T17.1	lésion due à un corps étranger superficiel du nez sans plaie ouverte importante ni infection
+T17.1	lésion due à un corps étranger superficiel du nez sans plaie ouverte importante, avec infection
+T09.9	lésion traumatique superficielle du tronc sans infection
+T09.9	lésion traumatique superficielle du tronc avec infection
+T09.8	abrasion ou brûlure par frottement du tronc sans infection
+T09.8	abrasion ou brûlure par frottement du tronc avec infection
+T09.8	phlyctène du tronc sans infection
+T09.8	phlyctène du tronc avec infection
+T09.8	piqûre d'insecte non venimeux du tronc sans infection
+T09.8	piqûre d'insecte non venimeux du tronc avec infection
+T09.8	lésion due à un corps étranger superficiel du tronc sans plaie ouverte importante ni infection
+T09.8	lésion due à un corps étranger superficiel du tronc sans plaie ouverte importante, avec infection
+T18.5	lésion due à un corps étranger superficiel de l'anus sans plaie ouverte importante ni infection
+T18.5	lésion due à un corps étranger superficiel de l'anus sans plaie ouverte importante, avec infection
+T19.2	lésion due à un corps étranger superficiel de la vulve sans plaie ouverte importante ni infection
+T19.2	lésion due à un corps étranger superficiel de la vulve sans plaie ouverte importante, avec infection
+T19.2	lésion due à un corps étranger superficiel du vagin sans plaie ouverte importante ni infection
+T19.2	lésion due à un corps étranger superficiel du vagin sans plaie ouverte importante, avec infection
+T30.3	brûlure avec nécrose profonde des tissus sous-jacents de siège non précisé sans perte corporelle
+T30.3	brûlure au troisième degré, profonde, de siège non précisé sans perte corporelle
+T30.3	brûlure avec nécrose profonde des tissus sous-jacents de siège non précisé avec perte corporelle
+T30.3	brûlure au troisième degré, profonde, de siège non précisé avec perte corporelle partielle
+T31.0	brûlure de n'importe quel degré couvrant moins de 10 % de la surface du corps
+T31.1	brûlure de n'importe quel degré couvrant entre 10 et 19 % de la surface du corps
+T31.2	brûlure de n'importe quel degré couvrant entre 20 et 29 % de la surface du corps
+T31.3	brûlure de n'importe quel degré couvrant entre 30 et 39 % de la surface du corps
+T31.4	brûlure de n'importe quel degré couvrant entre 40 et 49 % de la surface du corps
+T31.5	brûlure de n'importe quel degré couvrant entre 50 et 59 % de la surface du corps
+T31.6	brûlure de n'importe quel degré couvrant entre 60 et 69 % de la surface du corps
+T31.7	brûlure de n'importe quel degré couvrant entre 70 et 79 % de la surface du corps
+T31.8	brûlure de n'importe quel degré couvrant entre 80 et 89 % de la surface du corps
+T31.9	brûlure de n'importe quel degré couvrant 90 % ou plus de la surface du corps
+T26.4	brûlure d'un oeil et ses annexes
+T26.5	brûlure chimique de la paupière et de la région périoculaire
+T26.0	autres brûlures de la paupière et de la région périoculaire
+T26.6	brûlure chimique alcaline de la cornée et du sac conjonctival
+T26.6	brûlure chimique acide de la cornée et du sac conjonctival
+T26.6	autres brûlures de la cornée et du sac conjonctival
+T26.2	brûlure provoquant la rupture et la destruction du globe oculaire
+T20.0	brûlure de la face, de la tête et du cou
+T20.1	brûlure avec érythème de la face, de la tête et du cou
+T20.1	brûlure au premier degré de la face, de la tête et du cou
+T20.2	brûlure au deuxième degré de la face, de la tête et du cou
+T20.3	brûlure au troisième degré de la face, de la tête et du cou
+T20.3	brûlure profonde au troisième degré de la face, de la tête et du cou
+T20.3	brûlure profonde au troisième degré de la face, de la tête et du cou avec perte corporelle
+T26.0	brûlure de la région périorbitaire
+T20.1	brûlure avec érythème de la région périorbitaire
+T20.1	brûlure au premier degré de la région périorbitaire
+T20.2	brûlure au deuxième degré de la région périorbitaire
+T20.3	brûlure au troisième degré de la région périorbitaire
+T20.0	brûlure de la face et de la tête
+T20.1	brûlure avec érythème de la face et de la tête
+T20.1	brûlure au premier degré de la face et de la tête
+T20.2	brûlure au deuxième degré de la face et de la tête
+T20.3	brûlure au troisième degré de la face et de la tête
+T20.3	brûlure profonde au troisième degré de la face et de la tête
+T20.3	brûlure profonde au troisième degré de la face et de la tête avec perte corporelle partielle
+T20.0	brûlure de l'oreille
+T20.1	brûlure avec érythème de l'oreille
+T20.1	brûlure au premier degré de l'oreille
+T20.2	brûlure au deuxième degré de l'oreille
+T20.3	brûlure au troisième degré de l'oreille
+T20.3	brûlure profonde au troisième degré de l'oreille
+T20.3	brûlure profonde au troisième degré avec perte corporelle
+T20.0	brûlure de la région préauriculaire de la face
+T20.1	brûlure avec érythème de la région préauriculaire de la face
+T20.1	brûlure au premier degré de la région préauriculaire de la face
+T20.2	brûlure au deuxième degré de la région préauriculaire de la face
+T20.3	brûlure au troisième degré de la région préauriculaire de la face
+T20.0	brûlure de la lèvre
+T20.1	brûlure avec érythème de la lèvre
+T20.1	brûlure au premier degré de la lèvre
+T20.2	brûlure au deuxième degré de la lèvre
+T20.3	brûlure au troisième degré de la lèvre
+T20.3	brûlure profonde au troisième degré de la lèvre
+T20.3	brûlure profonde au troisième degré avec perte partielle de la lèvre
+T20.0	brûlure de la région péribuccale
+T20.0	brûlure de la région périorale
+T20.1	brûlure avec érythème de la région péribuccale
+T20.1	brûlure avec érythème de la région périorale
+T20.1	brûlure au premier degré de la région péribuccale
+T20.1	brûlure au premier degré de la région périorale
+T20.2	brûlure au deuxième degré de la région péribuccale
+T20.2	brûlure au deuxième degré de la région périorale
+T20.3	brûlure au troisième degré de la région péribuccale
+T20.3	brûlure au troisième degré de la région périorale
+T20.0	brûlure du menton
+T20.1	brûlure avec érythème du menton
+T20.1	brûlure au premier degré du menton
+T20.2	brûlure au deuxième degré du menton
+T20.3	brûlure au troisième degré du menton
+T20.3	brûlure profonde au troisième degré du menton
+T20.3	brûlure profonde au troisième degré avec perte partielle du menton
+T20.0	brûlure du nez
+T20.1	brûlure avec érythème du nez
+T20.1	brûlure au premier degré du nez
+T20.2	brûlure au deuxième degré du nez
+T20.3	brûlure au troisième degré du nez
+T20.3	brûlure profonde au troisième degré du nez
+T20.3	brûlure profonde au troisième degré avec perte partielle du nez
+T20.0	brûlure du cuir chevelu
+T20.1	brûlure avec érythème du cuir chevelu
+T20.1	brûlure au premier degré du cuir chevelu
+T20.2	brûlure au deuxième degré du cuir chevelu
+T20.3	brûlure au troisième degré du cuir chevelu
+T20.3	brûlure profonde au troisième degré du cuir chevelu
+T20.3	brûlure profonde au troisième degré avec perte partielle du cuir chevelu
+T20.0	brûlure du front et de la joue
+T20.1	brûlure avec érythème du front et de la joue
+T20.1	brûlure au premier degré du front et de la joue
+T20.2	brûlure au deuxième degré du front et de la joue
+T20.3	brûlure au troisième degré du front et de la joue
+T20.3	brûlure profonde au troisième degré du front et de la joue
+T20.3	brûlure profonde au troisième degré du front et de la joue avec perte corporelle
+T20.0	brûlure du front
+T20.1	brûlure avec érythème du front
+T20.1	brûlure au premier degré du front
+T20.2	brûlure au deuxième degré du front
+T20.3	brûlure au troisième degré du front
+T20.0	brûlure de la joue
+T20.1	brûlure avec érythème de la joue
+T20.1	brûlure au premier degré de la joue
+T20.2	brûlure au deuxième degré de la joue
+T20.3	brûlure au troisième degré de la joue
+T20.0	brûlure du cou
+T20.1	brûlure avec érythème du cou
+T20.1	brûlure au premier degré du cou
+T20.2	brûlure au deuxième degré du cou
+T20.3	brûlure au troisième degré du cou
+T20.3	brûlure profonde au troisième degré du cou
+T20.3	brûlure profonde au troisième degré avec perte partielle du cou
+T21.0	brûlure du tronc
+T21.1	brûlure avec érythème du tronc
+T21.1	brûlure au premier degré du tronc
+T21.2	brûlure au deuxième degré du tronc
+T21.3	brûlure au troisième degré du tronc
+T21.3	brûlure profonde au troisième degré du tronc
+T21.3	brûlure profonde au troisième degré avec perte partielle du tronc
+T21.0	brûlure du sein
+T21.1	brûlure avec érythème du sein
+T21.1	brûlure au premier degré du sein
+T21.2	brûlure au deuxième degré du sein
+T21.3	brûlure au troisième degré du sein
+T21.3	brûlure profonde au troisième degré du sein
+T21.3	brûlure profonde au troisième degré avec perte partielle du sein
+T21.0	brûlure de la paroi thoracique
+T21.1	brûlure avec érythème de la paroi thoracique
+T21.1	brûlure au premier degré de la paroi thoracique
+T21.1	brûlure au deuxième degré de la paroi thoracique
+T21.3	brûlure au troisième degré de la paroi thoracique
+T21.3	brûlure profonde au troisième degré de la paroi thoracique
+T21.3	brûlure profonde au troisième degré avec perte partielle de la paroi thoracique
+T21.0	brûlure de la paroi abdominale
+T21.1	brûlure avec érythème de la paroi abdominale
+T21.1	brûlure au premier degré de la paroi abdominale
+T21.2	brûlure au deuxième degré de la paroi abdominale
+T21.3	brûlure au troisième degré de la paroi abdominale
+T21.3	brûlure profonde au troisième degré de la paroi abdominale
+T21.3	brûlure profonde au troisième degré avec perte partielle de la paroi abdominale
+T21.0	brûlure du dos
+T21.1	brûlure avec érythème du dos
+T21.1	brûlure au premier degré du dos
+T21.2	brûlure au deuxième degré du dos
+T21.3	brûlure au troisième degré du dos
+T21.3	brûlure profonde au troisième degré du dos
+T21.3	brûlure profonde au troisième degré avec perte partielle du dos
+T21.0	brûlure des organes génitaux masculins
+T21.1	brûlure avec érythème des organes génitaux masculins
+T21.1	brûlure au premier degré des organes génitaux masculins
+T21.2	brûlure au deuxième degré des organes génitaux masculins
+T21.3	brûlure au troisième degré des organes génitaux masculins
+T21.3	brûlure profonde au troisième degré des organes génitaux masculins
+T21.3	brûlure profonde au troisième degré avec perte partielle des organes génitaux masculins
+T21.0	brûlure des organes génitaux féminins
+T21.1	brûlure avec érythème des organes génitaux féminins
+T21.1	brûlure au premier degré des organes génitaux féminins
+T21.2	brûlure au deuxième degré des organes génitaux féminins
+T21.3	brûlure au troisième degré des organes génitaux féminins
+T21.3	brûlure profonde au troisième degré des organes génitaux féminins
+T21.3	brûlure profonde au troisième degré avec perte partielle des organes génitaux féminins
+T21.0	brûlures multiples du tronc
+T21.1	brûlures multiples avec érythèmes du tronc
+T21.1	brûlures multiples au premier degré du tronc
+T21.2	brûlures multiples au deuxième degré du tronc
+T21.3	brûlures multiples au troisième degré du tronc
+T21.3	brûlures multiples profondes au troisième degré du tronc
+T21.3	brûlures multiples profondes au troisième degré avec perte corporelle partielle
+T22.0	brûlure du membre supérieur
+T22.1	brûlure avec érythème du membre supérieur
+T22.1	brûlure au premier degré du membre supérieur
+T22.2	brûlure au deuxième degré du membre supérieur
+T22.3	brûlure au troisième degré du membre supérieur
+T22.3	brûlure profonde au troisième degré du membre supérieur
+T22.3	brûlure profonde au troisième degré avec perte partielle du membre supérieur
+T22.0	brûlure de l'épaule
+T22.1	brûlure avec érythème de l'épaule
+T22.1	brûlure au premier degré de l'épaule
+T22.2	brûlure au deuxième degré de l'épaule
+T22.3	brûlure au troisième degré de l'épaule
+T22.3	brûlure profonde au troisième degré de l'épaule
+T22.3	brûlure profonde au troisième degré avec perte partielle de l'épaule
+T22.0	brûlure de la région scapulaire
+T22.1	brûlure avec érythème de la région scapulaire
+T22.1	brûlure au premier degré de la région scapulaire
+T22.2	brûlure au deuxième degré de la région scapulaire
+T22.3	brûlure au troisième degré de la région scapulaire
+T22.3	brûlure profonde au troisième degré de la région scapulaire
+T22.3	brûlure profonde au troisième degré avec perte partielle de la région scapulaire
+T22.0	brûlure de l'aisselle
+T22.1	brûlure avec érythème de l'aisselle
+T22.1	brûlure au premier degré de l'aisselle
+T22.2	brûlure au deuxième degré de l'aisselle
+T22.3	brûlure au troisième degré de l'aisselle
+T22.3	brûlure profonde au troisième degré de l'aisselle
+T22.3	brûlure profonde au troisième degré avec perte partielle de l'aisselle
+T22.0	brûlure du bras
+T22.1	brûlure avec érythème du bras
+T22.1	brûlure au premier degré du bras
+T22.2	brûlure au deuxième degré du bras
+T22.3	brûlure au troisième degré du bras
+T22.3	brûlure profonde au troisième degré du bras
+T22.3	brûlure profonde au troisième degré avec perte partielle du bras
+T22.0	brûlure du coude
+T22.1	brûlure avec érythème du coude
+T22.1	brûlure au premier degré du coude
+T22.2	brûlure au deuxième degré du coude
+T22.3	brûlure au troisième degré du coude
+T22.3	brûlure profonde au troisième degré du coude
+T22.3	brûlure profonde au troisième degré avec perte partielle du coude
+T22.0	brûlure de l'avant-bras
+T22.1	brûlure avec érythème de l'avant-bras
+T22.1	brûlure au premier degré de l'avant-bras
+T22.2	brûlure au deuxième degré de l'avant-bras
+T22.3	brûlure au troisième degré de l'avant-bras
+T22.3	brûlure profonde au troisième degré de l'avant-bras
+T22.3	brûlure profonde au troisième degré avec perte partielle de l'avant-bras
+T22.0	brûlures multiples du membre supérieur
+T22.1	brûlures multiples avec érythèmes du membre supérieur
+T22.1	brûlures multiples au premier degré du membre supérieur
+T22.2	brûlures multiples au deuxième degré du membre supérieur
+T22.3	brûlures multiples au troisième degré du membre supérieur
+T22.3	brûlures multiples profondes au troisième degré du membre supérieur
+T22.3	brûlures multiples profondes au troisième degré avec perte partielle du membre supérieur
+T23.0	brûlure du poignet
+T23.1	brûlure avec érythème du poignet
+T23.1	brûlure au premier degré du poignet
+T23.3	brûlure au troisième degré du poignet
+T23.3	brûlure profonde au troisième degré du poignet
+T23.3	brûlure profonde au troisième degré avec perte partielle du poignet
+T23.0	brûlure de la main
+T23.1	brûlure avec érythème de la main
+T23.1	brûlure au premier degré de la main
+T23.2	brûlure au deuxième degré de la main
+T23.3	brûlure au troisième degré de la main
+T23.3	brûlure profonde au troisième degré de la main
+T23.3	brûlure profonde au troisième degré avec perte partielle de la main
+T23.0	brûlure de la paume
+T23.1	brûlure avec érythème de la paume
+T23.1	brûlure au premier degré de la paume
+T23.2	brûlure au deuxième degré de la paume
+T23.3	brûlure au troisième degré de la paume
+T23.3	brûlure profonde au troisième degré de la paume
+T23.3	brûlure profonde au troisième degré avec perte partielle de la paume
+T23.0	brûlure du dos de la main
+T23.1	brûlure avec érythème du dos de la main
+T23.1	brûlure au premier degré du dos de la main
+T23.2	brûlure au deuxième degré du dos de la main
+T23.3	brûlure au troisième degré du dos de la main
+T23.3	brûlure profonde au troisième degré du dos de la main
+T23.3	brûlure profonde au troisième degré avec perte partielle du dos de la main
+T23.0	brûlure d'un doigt, à l'exclusion du pouce
+T23.1	brûlure avec érythème d'un doigt, à l'exclusion du pouce
+T23.1	brûlure au premier degré d'un doigt, à l'exclusion du pouce
+T23.2	brûlure au deuxième degré d'un doigt, à l'exclusion du pouce
+T23.3	brûlure au troisième degré d'un doigt, à l'exclusion du pouce
+T23.3	brûlure profonde au troisième degré d'un doigt, à l'exclusion du pouce
+T23.3	brûlure profonde au troisième degré avec perte partielle d'un doigt, à l'exclusion du pouce
+T23.0	brûlure de deux doigts ou plus, à l'exclusion du pouce
+T23.1	brûlure avec érythème de deux doigts ou plus, à l'exclusion du pouce
+T23.1	brûlure au premier degré de deux doigts ou plus, à l'exclusion du pouce
+T23.2	brûlure au deuxième degré de deux doigts ou plus, à l'exclusion du pouce
+T23.3	brûlure au troisième degré de deux doigts ou plus, à l'exclusion du pouce
+T23.3	brûlure profonde au troisième degré de deux doigts ou plus, à l'exclusion du pouce
+T23.3	brûlure profonde au troisième degré avec perte partielle de deux doigts ou plus, à l'exclusion du pouce
+T23.0	brûlure de deux doigts ou plus incluant le pouce
+T23.1	brûlure avec érythème de deux doigts ou plus incluant le pouce
+T23.1	brûlure au premier degré de deux doigts ou plus incluant le pouce
+T23.2	brûlure au deuxième degré de deux doigts ou plus incluant le pouce
+T23.3	brûlure au troisième degré de deux doigts ou plus incluant le pouce
+T23.3	brûlure profonde au troisième degré de deux doigts ou plus incluant le pouce
+T23.3	brûlure profonde au troisième degré avec perte partielle de deux doigts ou plus incluant le pouce
+T23.0	brûlure du pouce
+T23.1	brûlure avec érythème du pouce
+T23.1	brûlure au premier degré du pouce
+T23.2	brûlure au deuxième degré du pouce
+T23.3	brûlure au troisième degré du pouce
+T23.3	brûlure profonde au troisième degré du pouce
+T23.3	brûlure profonde au troisième degré avec perte partielle du pouce
+T23.0	brûlures multiples du poignet et de la main
+T23.1	brûlures et érythèmes multiples du poignet et de la main
+T23.1	brûlures multiples au premier degré du poignet et de la main
+T23.2	brûlures multiples au deuxième degré du poignet et de la main
+T23.3	brûlures multiples au troisième degré du poignet et de la main
+T23.3	brûlures multiples profondes au troisième degré du poignet et de la main
+T23.3	brûlures multiples profondes au troisième degré du poignet et de la main avec perte corporelle partielle
+T24.0	brûlure du membre inférieur
+T24.1	brûlure avec érythème du membre inférieur
+T24.1	brûlure au premier degré du membre inférieur
+T24.2	brûlure au deuxième degré du membre inférieur
+T24.3	brûlure au troisième degré du membre inférieur
+T24.3	brûlure profonde au troisième degré du membre inférieur
+T24.3	brûlure profonde au troisième degré avec perte partielle du membre inférieur
+T24.0	brûlure de la cuisse
+T24.1	brûlure avec érythème de la cuisse
+T24.1	brûlure au premier degré de la cuisse
+T24.2	brûlure au deuxième degré de la cuisse
+T24.3	brûlure au troisième degré de la cuisse
+T24.3	brûlure profonde au troisième degré de la cuisse
+T24.3	brûlure profonde au troisième degré avec perte partielle de la cuisse
+T24.0	brûlure du genou
+T24.1	brûlure avec érythème du genou
+T24.1	brûlure au premier degré du genou
+T24.2	brûlure au deuxième degré du genou
+T24.3	brûlure au troisième degré du genou
+T24.3	brûlure profonde au troisième degré du genou
+T24.3	brûlure profonde au troisième degré avec perte partielle du genou
+T24.0	brûlure de la jambe
+T24.1	brûlure avec érythème de la jambe
+T24.1	brûlure au premier degré de la jambe
+T24.2	brûlure au deuxième degré de la jambe
+T24.3	brûlure au troisième degré de la jambe
+T24.3	brûlure profonde au troisième degré de la jambe
+T24.3	brûlure profonde au troisième degré avec perte partielle de la jambe
+T25.0	brûlure de la cheville
+T25.1	brûlure avec érythème de la cheville
+T25.1	brûlure au premier degré de la cheville
+T25.2	brûlure au deuxième degré de la cheville
+T25.3	brûlure au troisième degré de la cheville
+T25.3	brûlure profonde au troisième degré de la cheville
+T25.3	brûlure profonde au troisième degré avec perte partielle de la cheville
+T25.0	brûlure du pied
+T25.1	brûlure avec érythème du pied
+T25.1	brûlure au premier degré du pied
+T25.2	brûlure au deuxième degré du pied
+T25.3	brûlure au troisième degré du pied
+T25.3	brûlure profonde au troisième degré du pied
+T25.3	brûlure profonde au troisième degré avec perte partielle du pied
+T25.0	brûlure d'un orteil
+T25.1	brûlure avec érythème d'un orteil
+T25.1	brûlure au premier degré d'un orteil
+T25.2	brûlure au deuxième degré d'un orteil
+T25.3	brûlure au troisième degré d'un orteil
+T25.3	brûlure profonde au troisième degré d'un orteil
+T25.3	brûlure profonde au troisième degré avec perte partielle d'un orteil
+T25.0	brûlures multiples du membre inférieur
+T25.1	brûlures multiples avec érythèmes du membre inférieur
+T25.1	brûlures multiples au premier degré du membre inférieur
+T25.2	brûlures multiples au deuxième degré du membre inférieur
+T25.3	brûlures multiples au troisième degré du membre inférieur
+T25.3	brûlures multiples au troisième degré, profondes, du membre inférieur
+T25.3	brûlures multiples au troisième degré, profondes, avec perte partielle du membre inférieur
+T29.0	brûlures multiples de localisations précisées
+T29.1	brûlures multiples avec érythèmes de localisations précisées
+T29.1	brûlures multiples au premier degré de localisations précisées
+T29.2	brûlures multiples au deuxième degré de localisations précisées
+T29.3	brûlures multiples au troisième degré de localisations précisées
+T29.3	brûlures multiples au troisième degré, profondes, de localisations précisées
+T29.3	brûlures multiples au troisième degré, profondes, de localisations précisées avec perte corporelle
+T28.0	brûlure de la muqueuse buccale
+T28.0	brûlure avec érythème de la muqueuse buccale
+T28.0	brûlure au premier degré de la muqueuse buccale
+T28.0	brûlure au deuxième degré de la muqueuse buccale
+T28.0	brûlure au troisième degré de la muqueuse buccale
+T28.0	brûlure de la muqueuse labiale
+T28.0	brûlure avec érythème de la muqueuse labiale
+T28.0	brûlure au premier degré de la muqueuse labiale
+T28.0	brûlure au deuxième degré de la muqueuse labiale
+T28.0	brûlure au troisième degré de la muqueuse labiale
+T28.0	brûlure du vestibule maxillaire
+T28.0	brûlure avec érythème du vestibule maxillaire
+T28.0	brûlure au premier degré du vestibule maxillaire
+T28.0	brûlure au deuxième degré du vestibule maxillaire
+T28.0	brûlure au troisième degré du vestibule maxillaire
+T28.0	brûlure du vestibule mandibulaire
+T28.0	brûlure avec érythème du vestibule mandibulaire
+T28.0	brûlure au premier degré du vestibule mandibulaire
+T28.0	brûlure au deuxième degré du vestibule mandibulaire
+T28.0	brûlure au troisième degré du vestibule mandibulaire
+T28.0	brûlure de l'attache gingivo-maxillaire
+T28.0	brûlure avec érythème de l'attache gingivo-maxillaire
+T28.0	brûlure au premier degré de l'attache gingivo-maxillaire
+T28.0	brûlure au deuxième degré de l'attache gingivo-maxillaire
+T28.0	brûlure au troisième degré de l'attache gingivo-maxillaire
+T28.0	brûlure de l'attache gingivo-mandibulaire
+T28.0	brûlure avec érythème de l'attache gingivo-mandibulaire
+T28.0	brûlure au premier degré de l'attache gingivo-mandibulaire
+T28.0	brûlure au deuxième degré de l'attache gingivo-mandibulaire
+T28.0	brûlure au troisième degré de l'attache gingivo-mandibulaire
+T28.0	brûlure du plancher de la bouche
+T28.0	brûlure avec érythème du plancher de la bouche
+T28.0	brûlure au premier degré du plancher de la bouche
+T28.0	brûlure au deuxième degré du plancher de la bouche
+T28.0	brûlure au troisième degré du plancher de la bouche
+T28.0	brûlure du palais dur
+T28.0	brûlure avec érythème du palais dur
+T28.0	brûlure au premier degré du palais dur
+T28.0	brûlure au deuxième degré du palais dur
+T28.0	brûlure au troisième degré du palais dur
+T28.0	brûlure du palais mou
+T28.0	brûlure avec érythème du palais mou
+T28.0	brûlure au premier degré du palais mou
+T28.0	brûlure au deuxième degré du palais mou
+T28.0	brûlure au troisième degré du palais mou
+T28.0	brûlure de l'oropharynx
+T28.0	brûlure avec érythème de l'oropharynx
+T28.0	brûlure au premier degré de l'oropharynx
+T28.0	brûlure au deuxième degré de l'oropharynx
+T28.0	brûlure au troisième degré de l'oropharynx
+T28.0	brûlure de la région amygdalienne
+T28.0	brûlure avec érythème de la région amygdalienne
+T28.0	brûlure au premier degré de la région amygdalienne
+T28.0	brûlure au deuxième degré de la région amygdalienne
+T28.0	brûlure au troisième degré de la région amygdalienne
+T28.4	brûlure des organes internes
+T28.9	brûlure chimique des organes internes
+T28.0	brûlure de la bouche et du pharynx
+T28.0	brûlure de la bouche
+T28.0	brûlure du pharynx
+T28.0	brûlure de la gencive
+T28.0	brûlure de la langue
+T28.0	brûlure avec érythème de la langue
+T28.0	brûlure au premier degré de la langue
+T28.0	brûlure au deuxième degré de la langue
+T28.0	brûlure au troisième degré de la langue
+T27.1	brûlure du larynx, de la trachée et des poumons
+T27.0	brûlure du larynx
+T27.0	brûlure de la trachée
+T27.1	brûlure des poumons
+T28.1	brûlure de l'oesophage
+T28.2	brûlure du tractus gastro-intestinal
+T28.2	brûlure de l'estomac
+T28.2	brûlure de l'intestin grêle
+T28.2	brûlure du côlon
+T28.2	brûlure du rectum
+T28.3	brûlure du vagin et de l'utérus
+T28.3	brûlure du vagin
+T28.3	brûlure du col de l'utérus
+T28.3	brûlure de l'utérus
+T28.4	brûlure d'un autre organe interne
+T00.9	contusions de localisations multiples
+T09.0	contusion du tronc
+T09.0	contusion de localisations multiples du tronc
+T11.0	contusion du membre supérieur
+T00.2	contusions de localisations multiples du membre supérieur
+T13.0	contusion du membre inférieur
+T14.0	contusion de localisations multiples du membre inférieur
+T15.9	corps étranger dans la partie externe de l'oeil
+T15.0	corps étranger dans la cornée
+T15.1	corps étranger dans le sac conjonctival
+T15.8	corps étranger dans le point lacrymal
+T16	corps étranger dans l'oreille
+T16	corps étranger dans le conduit auditif
+T16	corps étranger dans l'auricule
+T17.1	corps étranger dans le nez
+T17.1	corps étranger dans la narine
+T17.0	corps étranger dans un sinus nasal
+T17.2	corps étranger dans l'hypopharynx
+T17.2 T17.3	corps étranger dans le pharynx et le larynx
+T17.2	corps étranger dans le pharynx
+T17.2	corps étranger dans la gorge
+T17.2	corps étranger dans le rhinopharynx
+T17.3	corps étranger dans le larynx
+T17.3	asphyxie due à corps étranger dans le larynx
+T17.3	suffocation due à de la nourriture dans le larynx
+T17.3	suffocation due à du mucus dans le larynx
+T17.9	corps étranger dans l'appareil respiratoire
+T17.8	corps étranger dans la trachée, les bronches et les poumons
+T17.4	corps étranger dans la trachée
+T17.5	corps étranger dans une bronche souche
+T17.8	corps étranger dans les bronchioles
+T17.8	corps étranger dans le poumon
+T17.9	inhalation de liquide dans les voies respiratoires inférieures
+T17.9	inhalation de vomissures dans les voies respiratoires inférieures
+T18.9	corps étranger dans l'appareil digestif
+T18.9	corps étranger dans le tube digestif
+T18.9	corps étranger avalé
+T18.0	corps étranger dans la bouche
+T18.1	corps étranger dans l'oesophage
+T18.8	corps étranger dans l'intestin
+T18.8	corps étranger dans le tractus intestinal
+T18.4	corps étranger dans le côlon
+T18.5	corps étranger dans le rectum
+T18.5	corps étranger dans la jonction recto-sigmoïdienne
+T18.5	corps étranger dans l'anus
+T19.9	corps étranger dans l'appareil génito-urinaire
+T19.8	corps étranger dans la vessie et l'urètre
+T19.3	corps étranger dans l'utérus, toute partie
+T19.2	corps étranger dans la vulve
+T19.2	corps étranger dans la vagin
+T19.8	corps étranger dans le pénis
+T79.9	complication d'une lésion traumatique de localisation non précisée
+T79.9	complication précoce d'un traumatisme d'une localisation non précisée
+T79.0	embolie gazeuse traumatique précoce
+T79.1	embolie graisseuse traumatique précoce
+T79.2	hémorragie secondaire ou récidivante post-traumatique précoce
+T79.3	infection post-traumatique d'une plaie
+T79.4	choc traumatique
+T79.4	choc provoqué par lésion traumatique
+T79.5	anurie traumatique
+T79.5	syndrome d'écrasement
+T79.5	néphropathie myoglobinurique
+T79.5	syndrome de nécrose musculaire ischémique
+T79.5	syndrome de Bywaters
+T79.5	insuffisance rénale consécutive à un écrasement
+T90.9	vertige post-traumatique
+T90.9	vertige consécutif à une lésion traumatique de la tête
+T91.9	vertige cervical
+T91.9	vertige consécutif à un coup du lapin
+T79.6	contracture ischémique de Volkmann consécutive à une lésion traumatique
+T79.6	syndrome de Volkmann consécutif à une lésion traumatique
+T79.6	rétraction musculaire ischémique de Volkmann consécutive à une lésion traumatique
+T79.7	emphysème sous-cutané traumatique
+T79.8	autre complication précoce d'une lésion traumatique
+T94.1	séquelles des lésions traumatiques
+T94.0	séquelles des lésions traumatiques des tissus musculaire, osseux et conjonctif
+T94.1	périostéome post-traumatique
+T94.1	périostéite ossifiante traumatique
+T90.2	séquelles des fractures des os du crâne et de la face
+T91.8	séquelles des fractures de la colonne vertébrale et du tronc sans lésion de la moelle épinière
+T92.1	séquelles des fractures des membres supérieurs
+T93.1	séquelles des fractures du col du fémur
+T93.2	séquelles des fractures des membres inférieurs
+T94.0	séquelles de fractures, multiples et non précisées, des os
+T94.1	séquelles des luxations
+T94.1	séquelles des entorses et foulures sans lésion traumatique des tendons
+T94.1	séquelles des lésions traumatiques des tendons
+T94.1	séquelles d'amputation traumatique
+T94.1	séquelles des lésions traumatiques de la peau et du tissu sous-cutané
+T90.1	séquelles des plaies ouvertes de la tête, du cou et du tronc
+T92.0	séquelles des plaies ouvertes du membre supérieur sans lésion traumatique des tendons
+T93.0	séquelles des plaies ouvertes du membre inférieur sans lésion traumatique des tendons
+T94.1	séquelles des lésions traumatiques superficielles
+T94.1	séquelles des contusions
+T94.1	séquelles des écrasements
+T95.0	séquelles des brûlures de l'oeil, de la face, de la tête et du cou
+T95.2	séquelles des brûlures du poignet et de la main
+T95.8	séquelles des brûlures des autres parties des membres
+T95.8	séquelles des brûlures d'autres localisations précisées
+T95.9	séquelles des brûlures de localisations non précisées
+T94.1	séquelles des lésions traumatiques du système nerveux
+T90.5	séquelles des lésions traumatiques intracrâniennes sans fracture du crâne
+T90.3	séquelles des lésions traumatiques des nerfs crâniens
+T91.3	séquelles des lésions traumatiques de la moelle épinière
+T91.9	séquelles des lésions traumatiques des racines et des plexus des nerfs rachidiens et des autres nerfs du tronc
+T92.4	séquelles des lésions traumatiques des nerfs périphériques de la ceinture scapulaire et du membre supérieur
+T93.4	séquelles des lésions traumatiques des nerfs périphériques de la ceinture pelvienne et du membre inférieur
+T94.1	séquelles des lésions traumatiques des nerfs, autres et non précisés
+T91.4	séquelles des lésions traumatiques internes du thorax
+T91.5	séquelles des lésions traumatiques internes de l'abdomen
+T91.8	séquelles des lésions traumatiques d'autres organes internes
+T94.0	séquelles des lésions traumatiques des vaisseaux sanguins de la tête, du cou et des membres
+T94.0	séquelles des lésions traumatiques des vaisseaux sanguins du thorax, de l'abdomen et du bassin
+T98.0	séquelles de la pénétration d'un corps étranger par un orifice naturel
+T98.2	séquelles de certaines complications de lésions traumatiques
+T98.1	séquelles d'autres atteintes externes non précisées
+T96	séquelles des intoxications par médicaments et produits biologiques
+T97	séquelles des effets toxiques des substances non médicinales
+T98.1	effets tardifs des radiations
+T98.1	effets tardifs des rayonnements
+T98.3	séquelles des complications des soins médicaux et chirurgicaux
+T98.1	séquelles d'autres atteintes externes, non classées ailleurs
+T75.8	effets de l'exposition à un agent externe
+T75.8	exposition
+T75.8	effets d'une exposition accidentelle à un agent externe
+T75.8	exposition accidentelle
+T78.8	effet nocif d'un agent physique
+T78.8	effet nocif d'un facteur physique
+T66	effets des radiations
+T66	effets d'une radiothérapie
+T66	mal des rayons post-radiothérapie
+T81.8	complication d'une photothérapie
+T69.9	effets d'une baisse de température
+T69.9	effets de la congélation ou du froid excessif
+T35.2	gelure de la face
+T35.4	gelure de la main
+T35.5	gelure du pied
+T35.7	gelure d'une autre localisation
+T69.0	pied d'immersion
+T69.0	syndrome de White
+T69.0	pied de tranchée
+T69.1	engelures
+T69.1	érythème pernio
+T69.1	perniose
+T68	hypothermie due au froid
+T68	hypothermie accidentelle
+T67.9	effets de la chaleur ou de la lumière
+T67.0	coup de chaleur
+T67.0	apoplexie due à la chaleur
+T67.0	thermoplégie
+T67.5	épuisement dû à la chaleur
+T67.5	prostration due à la chaleur
+T67.0	pyrexie due à la chaleur
+T67.1	syncope due à la chaleur
+T67.2	crampes dues à la chaleur
+T67.6	fatigue transitoire due à la chaleur
+T67.7	oedème dû à la chaleur
+T67.0	insolation
+T67.3	épuisement dû à une chaleur anhidrotique
+T67.3	prostation dû à la chaleur et à la perte hydrique
+T67.4	épuisement dû à la chaleur et à la perte saline
+T67.8	autre effet de la chaleur
+T70.9	effets de la pression atmosphérique
+T70.9	barotraumatisme
+T70.9	dysbarisme
+T70.2	barotraumatisme pulmonaire
+T70.8	vertige alternobarique
+T70.8	vertige dû à de fortes et brusques variations de la pression barométrique
+T70.0	otite barotraumatique
+T70.0	effets de haute altitude sur les oreilles
+T70.1	sinusite barotraumatique
+T70.1	barosinusite
+T70.1	aérosinusite
+T70.2	aérodontalgie
+T70.2	barodontalgie
+T70.2	aérodontodynie
+T70.1	effets de haute altitude sur les sinus
+T70.2	effets de haute altitude
+T70.2	hypobaropathie
+T70.2	anoxie due à une altitude élevée
+T70.2	mal d'altitude
+T70.2	mal des montagnes
+T70.2	mal aigu des montagnes
+T70.2	syndrome d'Acosta
+T70.2	soroche
+T70.2	mal subaigu des montagnes
+T70.2	mal chronique des montagnes
+T70.2	maladie des Andes
+T70.2	maladie de Monge
+T70.3	narcose à l'azote
+T70.3	extase des profondeurs
+T70.3	maladie des caissons
+T70.3	maladie de l'air comprimé
+T70.3	maladie de la décompression
+T70.3	paralysie des plongeurs
+T70.8	syndrome dû au souffle d'une explosion
+T70.8	autre effet de la pression de l'air
+T75.0	effets de la foudre
+T75.0	frappé par la foudre
+T75.0	choc par la foudre
+T75.1	submersion non fatale
+T75.1	quasi-noyade
+T75.1	crampes des nageurs
+T75.1	immersion
+T73.2	épuisement dû aux intempéries
+T73.3	épuisement dû à un effort excessif
+T73.3	surmenage
+T75.3	mal des transports
+T75.3	cinépathie
+T75.3	mal des voyages
+T75.3	mal de l'air
+T75.3	mal de mer
+T75.3	mal d'auto
+T75.3	mal des astronautes
+T75.4	effet non fatal du courant électrique
+T75.4	choc dû au courant électrique
+T75.4	choc électrique
+T75.8	effets d'une force de gravité anormale
+T75.8	effets de l'apesanteur
+T88.7	effet nocif provoqué par une substance médicinale appropriée correctement administrée
+T88.7	réaction allergique provoquée par une substance médicinale appropriée correctement administrée
+T88.7	hypersensibilité provoquée par une substance médicinale appropriée correctement administrée
+T88.7	hypersensibilité médicamenteuse provoquée par une substance médicinale appropriée correctement administrée
+T88.7	réaction médicamenteuse provoquée par une substance médicinale appropriée correctement administrée
+T88.7	idiosyncrasie provoquée par une substance médicinale appropriée correctement administrée
+T88.6	choc anaphylactique dû à l'effet nocif d'une substance médicinale appropriée correctement administrée
+T88.6	choc allergique dû à l'effet nocif d'une substance médicinale appropriée correctement administrée
+T88.6	réaction anaphylactique due à l'effet nocif d'une substance médicinale appropriée correctement administrée
+T88.6	anaphylaxie due à l'effet nocif d'une substance médicinale appropriée correctement administrée
+T78.2	anaphylaxie localisée
+T78.2	anaphylaxie cutanée
+T88.2	choc dû à une anesthésie
+T88.2	choc anesthésique
+T88.7	effets de la chimiothérapie
+T88.3	hyperthermie maligne due à une anesthésie
+T88.3	hyperthermie maligne peranesthésique
+T88.5	hypothermie maligne due à une anesthésie
+T81.9	complication d'une intervention chirurgicale
+T81.9	complication d'une opération chirurgicale
+T85.9	complication d'un transplant
+T85.9	complication d'une greffe
+T82.3	complication d'un pontage
+T85.9	effet nocif d'une prothèse
+T85.9	complication d'un implant
+T87.2	complication d'une réimplantation
+T85.9	complication d'une anastomose interne
+T85.9	complication d'un appareil interne
+T85.9	complication d'un cathéter
+T85.9	complication d'un appareil électronique interne
+T85.9	complication d'une prothèse de fixation interne
+T85.9	complication d'une prothèse interne
+T81.8	complication particulière de certaines interventions précisées
+T82.5	complication mécanique de prothèse, implant ou greffe cardiaque
+T82.5	rupture mécanique d'une prothèse cardiaque
+T82.5	déplacement d'une prothèse cardiaque
+T82.5	fuite d'une prothèse cardiaque
+T82.5	obstruction mécanique d'une prothèse cardiaque
+T82.5	perforation d'une prothèse cardiaque
+T82.5	protrusion d'une prothèse cardiaque
+T82.1	complication mécanique due à un stimulateur cardiaque (électrode)
+T82.0	complication mécanique due à une prothèse valvulaire cardiaque
+T82.2	complication mécanique due à un pontage coronarien
+T82.5	complication mécanique de prothèse, implant ou greffe vasculaire sans précision
+T82.3	complication mécanique d'une greffe aortique
+T82.5	complication mécanique d'une fistule artérioveineuse créée chirurgicalement
+T82.5	complication mécanique d'un shunt artério-veineux créé chirurgicalement
+T82.5	complication mécanique d'un ballonnet intra-aortique
+T82.3	complication mécanique d'un pontage carotidien
+T82.4	complication mécanique d'un cathéter vasculaire de dialyse
+T82.5	complication mécanique d'un filtre-parapluie de la veine cave
+T85.6	complication mécanique de prothèse, implant ou greffe du système nerveux
+T84.3	complication mécanique d'un stimulateur de la colonne dorsale
+T85.1	complication mécanique d'électrodes implantées dans le cerveau
+T85.6	complication mécanique d'une greffe de nerf périphérique
+T85.6	complication mécanique d'un pontage ventriculaire
+T83.1	complication mécanique de prothèse, implant ou greffe urinaire
+T83.0	complication mécanique due à une sonde urinaire à demeure
+T83.3	complication mécanique due à un dispositif contraceptif intra-utérin
+T83.3	complication mécanique due à un stérilet
+T83.0	complication mécanique due à une sonde après cystostomie
+T83.4	complication mécanique due à une prothèse du canal déférent
+T83.1	complication mécanique due à une réfection chirurgicale de l'uretère sans résection
+T84.4	complication mécanique de prothèse, implant ou greffe orthopédique interne
+T84.3	complication mécanique d'une greffe d'os ou de cartilage
+T84.4	complication mécanique d'une greffe de muscle ou de tendon
+T84.2	complication mécanique d'une prothèse de fixation interne tel qu'un clou, une plaque ou une tige
+T85.9	complication mécanique spécifiée d'autres prothèses, implants ou greffes
+T85.3	complication mécanique due à une greffe de cornée
+T86.8	complication mécanique due à un échec ou un rejet de greffe cutanée
+T85.2	complication mécanique due à des lentilles intra-oculaires
+T85.4	complication mécanique due à une prothèse mammaire
+T85.4	complication mécanique due à un implant mammaire
+T85.9	complication mécanique due à des implants ou prothèses internes sans précision
+T85.5	complication mécanique d'un implant prothétique dans le canal biliaire
+T84.3	complication mécanique d'un implant prothétique dans le menton
+T84.3	complication mécanique d'un implant prothétique dans l'orbite
+T85.7	infection ou réaction inflammatoire provoquée par une prothèse, un implant ou une greffe interne
+T85.8	thrombus dû à une prothèse, un implant ou une greffe
+T85.8	embolie due à une prothèse, un implant ou une greffe
+T85.8	sténose due à une prothèse, un implant ou une greffe
+T85.8	fibrose due à une prothèse, un implant ou une greffe
+T85.8	hémorragie due à une prothèse, un implant ou une greffe
+T85.8	douleur due à une prothèse, un implant ou une greffe
+T86.9	complication de transplantation d'organe
+T86.9	rejet de transplant
+T86.9	échec de la transplantation due à un rejet
+T86.1	complication d'une transplantation de rein
+T86.4	complication d'une transplantation du foie
+T86.2	complication d'une transplantation du coeur
+T86.8	complication d'une transplantation de poumon
+T86.8	complication d'une transplantation du pancréas
+T86.8	complication d'une transplantation d'intestins
+T85.8	complication d'une transplantation d'ovule
+T85.8	complication d'une transplantation d'embryon
+T85.8	complication d'une transplantation d'organe précisé
+T87.2	complication de la réimplantation d'un membre ou d'une partie du corps
+T87.0	complication de la réimplantation de l'avant-bras
+T87.0	complication de la réimplantation de la main
+T87.0	complication de la réimplantation d'un doigt
+T87.0	complication de la réimplantation du membre supérieur
+T87.1	complication de la réimplantation du pied et des orteils
+T87.1	complication de la réimplantation du membre inférieur
+T87.2	complication de la réimplantation d'une partie du corps précisée
+T81.8	insuffisance cardiaque pendant ou après une intervention
+T81.8	défaillance cardiaque pendant ou après une intervention
+T81.7	complication vasculaire périphérique
+T87.6	complication tardive sur un moignon d'amputation
+T87.3	névrome sur moignon d'amputation
+T87.3	névrome d'amputation
+T87.4	amputation compliquée d'une infection chronique
+T88.9	complication d'une intervention
+T81.9	complication d'une démarche diagnostique
+T81.1	choc postopératoire
+T81.1	choc pendant ou après une intervention chirurgicale
+T81.0	hémorragie ou hématome compliquant une intervention
+T81.2	perforation ou déchirure accidentelle au cours d'une intervention
+T81.2	perforation ou déchirure accidentelle au cours d'une intervention sur un vaisseau sanguin
+T81.2	perforation ou déchirure accidentelle au cours d'une intervention sur un nerf
+T81.2	perforation ou déchirure accidentelle au cours d'une intervention sur un organe
+T81.3	désunion des sutures d'une plaie opératoire
+T81.3	déhiscence d'une plaie opératoire
+T81.3	rupture d'une plaie opératoire
+T81.5	corps étranger laissé accidentellement lors d'une intervention
+T81.5	adhérences dues à un corps étranger laissé accidentellement dans une plaie opératoire ou une cavité du corps au cours d'une intervention
+T81.5	obstruction due à un corps étranger laissé accidentellement dans une plaie opératoire ou une cavité du corps au cours d'une intervention
+T81.5	perforation due à un corps étranger laissé accidentellement dans une plaie opératoire ou une cavité du corps au cours d'une intervention
+T81.4	infection post-opératoire
+T81.4	abcès intra-abdominal post-opératoire
+T81.4	abcès de points de suture post-opératoire
+T81.4	abcès de points de suture
+T81.4	abcès sous-phrénique post-opératoire
+T81.4	abcès d'une plaie post-opératoire
+T81.4	infection d'une plaie post-opératoire
+T81.4	plaie chirurgicale infectée
+T81.8	granulome sur matériel de suture
+T81.0	hémorragie post-opératoire
+T81.0	saignement post-opératoire
+T81.0	hémorragie post-chirurgicale
+T81.4	septicémie post-opératoire
+T81.8	fistule post-opératoire persistante
+T81.6	réaction tissulaire aiguë à une substance étrangère laissée accidentellement au cours d'une intervention
+T81.6	péritonite aseptique après une intervention
+T81.6	péritonite chimique après une intervention
+T81.8	emphysème sous-cutané après une intervention
+T81.9	complication post-opératoire
+T88.5	complication d'une anesthésie
+T88.5	réveil tardif après une anesthésie
+T88.5	bloc neuro-musculaire prolongé
+T88.9	complication de soins médicaux
+T88.9	complication d'une sismothérapie par électrochocs
+T88.9	complication d'une inhalothérapie
+T88.9	complication d'une ultrasonothérapie
+T88.9	complication d'une ventilation thérapeutique
+T80.9	complication d'une dialyse
+T80.9	complication d'une hémodialyse
+T85.9	complication d'une dialyse péritonéale
+T80.9	complication d'une dialyse rénale
+T80.9	complication d'une circulation extracorporelle
+T81.7	complication vasculaire de soins médicaux
+T81.7	phlébite consécutive à une injection, une perfusion ou une transfusion
+T81.7	thrombophlébite consécutive à une injection, une perfusion ou une transfusion
+T81.7	thrombo-embolie consécutive à une injection, une perfusion ou une transfusion
+T80.9	complication d'une injection
+T80.9	complication d'une infusion
+T80.9	complication d'une perfusion
+T81.7	embolie gazeuse consécutive à une injection
+T81.8	fuite de produit de contraste
+T88.1	complication d'une immunisation
+T88.1	complication d'une vaccination
+T88.1	complication d'une inoculation
+T88.1	échec de vaccination
+T88.1	échec d'inoculation
+T88.8	complication consécutive à une intervention médicale préventive
+T81.4	infection consécutive à des soins médicaux
+T81.4	septicémie consécutive à une infusion, à une injection, à une transfusion ou à une vaccination
+T81.4	infection consécutive à une infusion, injection, transfusion ou vaccination
+T80.9	réaction à une transfusion sanguine
+T80.9	complication due à une transfusion sanguine
+T80.9	réaction tranfusionnelle
+T80.8	accident hémolytique post-transfusionnel
+T80.8	réaction transfusionnelle hémolytique
+T80.8	accident hémolytique post-transfusionnel immédiat
+T80.8	réaction transfusionnelle hémolytique immédiate
+T80.8	accident hémolytique post-transfusionnel tardif
+T80.8	réaction transfusionnelle hémolytique tardive
+T80.8	réaction transfusionnelle fébrile
+T80.8	réaction transfusionnelle de type fièvre et frisson
+T80.3	réaction transfusionnelle due aux leuco-agglutinines
+T80.3	réaction transfusionnelle à médiation par anticorps HLA
+T80.3	réaction transfusionnelle due à des anticorps plaquettaires
+T80.6	réaction transfusionnelle urticarienne
+T80.6	réaction transfusionnelle allergique
+T80.6	réaction transfusionnelle due à des allergènes sanguins
+T80.5	réaction transfusionnelle anaphylactique
+T80.5	choc anaphylactique dû à l'administration de sérum
+T80.6	réaction transfusionnelle due à une séroréaction protéinique
+T80.6	séroréaction
+T80.6	intoxication sérique
+T80.6	protéino-sensibilité
+T80.6	éruption sérique
+T80.6	maladie sérique
+T80.6	urticaire sérique
+T80.6	réaction transfusionnelle due aux IgA
+T80.8	réaction transfusionnelle due à un volume excessif
+T80.8	réaction transfusionnelle due à l'effet toxique d'anticoagulants
+T80.8	réaction transfusionnelle due à des produits du métabolisme cellulaire
+T80.0	réaction transfusionnelle due à une embolie gazeuse
+T80.8	réaction transfusionnelle due à un mauvais entreposage du sang
+T80.8	réaction transfusionnelle due à une substance toxique dans le sang
+T80.8	réaction de transfusion due à une contamination sanguine
+T80.2	choc septique dû à une transfusion
+T80.8	réaction transfusionnelle due à une erreur d'écriture
+T80.3	réaction transfusionnelle due à des isoanticorps
+T80.3	réaction transfusionnelle due à des isoanticorps spécifiques
+T80.3	réaction transfusionnelle due à une incompatibilité mineure
+T80.3	réaction due à une incompatibilité ABO
+T80.3	transfusion de sang incompatible
+T80.3	réaction transfusionnelle par incompatibilité des groupes sanguins
+T80.3	réaction transfusionnelle due aux anti A
+T80.3	réaction transfusionnelle due aux anti B
+T80.4	réaction due à une incompatibilité Rh
+T80.4	réaction transfusionnelle due au facteur Rh
+T65.9	intoxication
+T65.9	empoisonnement
+T65.9	intoxication par
+T65.9	toxicose
+T65.9	effet toxique
+T65.9	toxicité
+T65.9	effet toxique de
+T41.5	intoxication par l'oxygène
+T41.5	empoisonnement par l'oxygène
+T37.9	intoxication par un anti-infectieux non antibiotique
+T37.0	intoxication par les sulfamides
+T37.0	intoxication par la sulfadiazine
+T37.0	intoxication par le sulfafurazol
+T37.0	intoxication par le sulfisoxazole
+T37.0	intoxication par le sulfaméthoxazole
+T37.8	intoxication par un métal lourd anti-infectieux
+T57.0	intoxication par un anti-infectieux arsenical
+T56.8	intoxication par un composé d'antimoine anti-infectieux
+T37.9	intoxication par un composé de bismuth anti-infectieux
+T37.8	intoxication par un composé de plomb anti-infectieux
+T37.8	intoxication par un composé de mercure anti-infectieux
+T37.8	intoxication par des dérivés de la quinoléine et de l'hydroxyquinoline
+T37.8	intoxication par le chiniofon
+T37.8	intoxication par la diiodohydroxyquinoléine
+T37.3	intoxication par un médicament antiprotozoaire
+T37.2	intoxication par un médicament antipaludéen
+T37.2	intoxication par la chloroquine
+T37.2	intoxication par le cycloguanil
+T37.2	intoxication par la primaquine
+T37.2	intoxication par le proguanil
+T37.2	intoxication par le chlorguanide
+T37.2	intoxication par la quinine
+T37.2	intoxication par la pyriméthamine
+T37.3	intoxication par l'émétine
+T37.2	cinchonisme
+T37.4	intoxication par un anthelmintique
+T52.2	intoxication par l'hexylrésorcinol
+T37.4	intoxication par la pipérazine
+T37.4	intoxication par le thiabendazole
+T37.5	intoxication par un médicament antiviral
+T37.5	intoxication par la méthisazone
+T37.1	intoxication par un médicament antimycobactérien
+T37.1	intoxication par l'étambutol
+T37.1	intoxication par l'éthionamide
+T37.1	intoxication par l'isoniazide
+T37.8	intoxication par un dérivé d'acide para-aminosalicylique
+T37.0	intoxication par les sulfones
+T37.8	intoxication par la flucytosine
+T37.8	intoxication par la nitrofurantoïne
+T37.9	intoxication par un anti-infectieux non précisé
+T36.9	intoxication par un antibiotique
+T36.0	intoxication par la pénicilline
+T36.0	intoxication par l'ampicilline
+T36.0	intoxication par la carbénicilline
+T36.0	intoxication par la cloxacilline
+T36.0	intoxication par la pénicilline G
+T36.0	intoxication par la benzylpénicilline
+T36.7	intoxication par un antibiotique antifongique
+T36.7	intoxication par l'amphotéricine B
+T36.7	intoxication par la griséofulvine
+T36.7	intoxication par la nystatine
+T36.7	intoxication par la trichomycine
+T36.2	intoxication par un antibiotique du groupe du chloramphénicol
+T36.2	intoxication par le chloramphénicol
+T36.2	intoxication par la thiamphénicol
+T36.3	intoxication par l'érythromycine ou autre macrolide
+T36.3	intoxication par l'oléandomycine
+T36.3	intoxication par la spiramycine
+T36.4	intoxication par un antibiotique du groupe de la tétracycline
+T36.4	intoxication par la doxycycline
+T36.4	intoxication par la minocycline
+T36.4	intoxication par l'oxytétracycline
+T36.1	intoxication par un antibiotique du groupe de la céphalosporine
+T36.1	intoxication par la céphalosporine
+T36.1	intoxication par la céphaloglycine
+T36.1	intoxication par la céphaloridine
+T36.1	intoxication par la céphalotine
+T37.1	intoxication par un antibiotique antimycobactérien
+T37.1	intoxication par la cyclosérine
+T36.5	intoxication par la kanamycine
+T36.6	intoxication par la rifampine
+T36.6	toxicité de la rifampine
+T36.6	surdosage de rifampine
+T36.6	syndrome de l'homme rouge
+T36.6	toxicité de la rifampicine
+T36.5	intoxication par la streptomycine
+T45.1	intoxication par un antibiotique antinéoplasique
+T45.1	intoxication par l'actynomycine
+T45.1	intoxication par la dactinomycine
+T45.1	intoxication par la cactinomycine
+T45.1	intoxication par la bléomycine
+T45.1	intoxication par la daunorubicine
+T45.1	intoxication par la mitomycine
+T36.8	intoxication par un antibiotique précisé
+T38.8	intoxication par une hormone ou un substitut synthétique
+T50.0	intoxication par les corticostéroïdes
+T38.0	intoxication par un dérivé de la cortisone
+T50.0	intoxication par un dérivé de la désoxycorticostérone
+T38.0	intoxication par corticostéroïdes fluorés
+T38.7	intoxication par un androgène ou une substance anabolisante apparentée
+T38.7	intoxication par le méthandriol
+T38.7	intoxication par la nandrolone
+T38.7	intoxication par l'oxymétholone
+T38.7	intoxication par la testostérone
+T38.5	intoxication par une hormone ovarienne ou un substitut synthétique
+T38.4	intoxication par un contraceptif oral
+T38.5	intoxication par l'oestrogène
+T38.5	empoisonnement par l'oestrogène
+T38.5	toxicité oestrogénique
+T38.5	toxicité de l'oestrogène
+T38.5	intoxication par la progestérone
+T38.5	intoxication par l'oestrogène et la progestérone combinés
+T38.5	intoxication par le diéthylstilboestrol
+T38.3	intoxication par l'insuline ou un agent antidiabétique
+T38.3	intoxication par l'acétohexamide
+T38.3	intoxication par un dérivé oral du biguanide
+T38.3	intoxication par le chlorpropamide
+T38.3	intoxication par le glucagon
+T38.3	intoxication par l'insuline
+T38.3	intoxication par la phenformine
+T38.3	intoxication par un dérivé oral de la sulfonylurée
+T38.3	intoxication par le tolbutamide
+T38.8	intoxication par une hormone hypophysaire
+T38.8	intoxication par une hormone antéhypophysaire
+T38.8	intoxication par la corticotrophine
+T38.8	intoxication par la gonadotropine
+T38.8	intoxication par la gonadotrophine
+T38.8	intoxication par la somatotrophine
+T38.8	intoxication par l'hormone de croissance
+T38.8	intoxication par une hormone posthypophysaire
+T38.8	intoxication par la vasopressine
+T50.9	intoxication par une hormone ou un dérivé parathyroïdien
+T38.1	intoxication par une hormone ou un dérivé thyroïdien
+T38.1	intoxication par la dextrothyroxine
+T38.1	intoxication par la lévothyroxine sodique
+T38.1	intoxication par la liothyronine
+T38.1	intoxication par la thyroglobuline
+T38.2	intoxication par un agent antithyroïdien
+T38.2	intoxication par l'iodide
+T38.2	iodisme
+T38.2	intoxication par l'iode
+T38.2	intoxication par le thiouracile
+T38.2	intoxication par la thiourée
+T45.9	intoxication par un agent essentiellement systémique
+T45.9	intoxication par un agent systémique non précisé
+T45.0	intoxication par un médicament antiallergique ou antiémétique
+T45.0	intoxication par un antihistaminique
+T45.0	intoxication par chlorphéniramine
+T45.0	intoxication par la diphénhydramine
+T45.0	intoxication par la diphénylpyraline
+T45.0	intoxication par la thonzylamine
+T45.0	intoxication par la tripélennamine
+T45.1	intoxication par un médicament antinéoplasique ou un immunosuppresseur
+T45.1	intoxication par l'azathioprine
+T45.1	intoxication par le busulfan
+T45.1	intoxication par le chlorambucil
+T45.1	intoxication par la cyclophosphamide
+T45.1	intoxication par la cytarabine
+T45.1	intoxication par le fluorouracil
+T45.1	neurotoxicité due au fluoro-5 uracile
+T45.1	intoxication par la mercaptopurine
+T45.1	intoxication par le thiotépa
+T45.1	intoxication par la moutarde azotée
+T45.1	intoxication par la chlormétine
+T45.1	neurotoxicité due à la chlorméthine
+T45.1	neurotoxicité due à la moutarde azotée
+T45.1	intoxication par la procarbazine
+T45.1	neurotoxicité due à la procarbazine
+T45.1	intoxication par la vincristine
+T45.1	neurotoxicité due à la vincristine
+T45.1	intoxication par la vinblastine
+T45.1	neurotoxicité due à la vinblastine
+T45.1	intoxication par la L-asparaginase
+T45.1	neurotoxicité due à la L-asparaginase
+T45.1	intoxication par le méthotrexate
+T45.1	neurotoxicité due au méthotrexate
+T50.9	intoxication par un acidifiant
+T50.9	intoxication par un alcalinisant
+T45.3	intoxication par une enzyme
+T45.3	intoxication par la pénicillinase
+T45.2	intoxication par une vitamine
+T45.2	intoxication par la vitamine A
+T45.2	toxicité de la vitamine A
+T45.2	intoxication par la vitamine D
+T45.2	toxicité de la vitamine D
+T45.8	intoxication par un antagoniste de métal lourd
+T45.9	intoxication par un agent affectant essentiellement un constituant du sang
+T45.4	intoxication par le fer et ses composés
+T45.4	intoxication par le sel ferrique
+T45.4	intoxication par le sel ferreux
+T45.4	intoxication par le sulfate ferreux
+T45.8	intoxication par un extrait hépatique ou un agent antianémique
+T45.8	intoxication par l'acide folique
+T45.5	intoxication par un anticoagulant
+T45.5	intoxication par la coumarine
+T45.5	intoxication par l'héparine
+T45.5	intoxication par la phénindione
+T60.4	intoxication par la warfarine sodique
+T45.5	toxicité de la warfarine
+T45.7	intoxication par la vitamine K
+T45.7	intoxication par la phytonadione
+T45.7	toxicité de la vitamine K
+T45.7	hypervitaminose K
+T45.6	intoxication par un médicament affectant la fibrinolyse
+T45.6	intoxication par l'acide aminocaproïque
+T45.3	intoxication par la streptodornase
+T45.6	intoxication par la streptokinase
+T45.6	intoxication par l'urokinase
+T45.7	intoxication par un antagoniste des anticoagulants
+T45.7	intoxication par l'hexadiméthrine
+T45.7	intoxication par le sulfate de protamine
+T45.8	intoxication par le sang naturel ou ses constituants
+T45.8	intoxication par le plasma sanguin
+T45.8	intoxication par le fibrinogène humain
+T45.8	intoxication par des globules rouges concentrés
+T45.8	intoxication par le sang total
+T50.9	intoxication par gammaglobuline
+T45.8	intoxication par substitut sanguin macromoléculaire
+T45.8	intoxication par un substitut du plasma
+T39.9	intoxication par un analgésique ou un antipyrétique
+T40.6	intoxication par un opiacé ou un narcotique apparenté
+T40.2	intoxication par un opiacé
+T40.0	intoxication par un alcaloïde de l'opium
+T40.1	intoxication par l'héroïne
+T40.1	intoxication par la diacétylmorphine
+T40.3	intoxication par la méthadone
+T40.2	intoxication par la codéine
+T40.2	intoxication par la méthylmorphine
+T40.4	intoxication par la mépéridine
+T40.4	intoxication par la péthidine
+T40.2	intoxication par la morphine
+T39.0	intoxication par le salicylate
+T39.0	salicylisme
+T39.0	intoxication par l'acide acétylsalicylique
+T39.0	intoxication par l'aspirine
+T39.0	intoxication par sel d'acide salicylique
+T39.1	intoxication par un analgésique aromatique
+T39.1	intoxication par l'acétanilide
+T39.1	intoxication par le paracétamol
+T39.1	intoxication par l'acétaminophène
+T39.1	intoxication par la phénacétine
+T39.1	intoxication par l'acétophénétidine
+T39.2	intoxication par un dérivé pyrazolé
+T39.2	intoxication par l'aminophénazone
+T39.2	intoxication par l'aminopyrine
+T39.2	intoxication par la phénylbutazone
+T39.4	intoxication par un antirhumatismal
+T39.4	intoxication par un antiphlogistique
+T39.4	intoxication par sel d'or
+T39.3	intoxication par l'indométacine
+T40.4	intoxication par la pentazocine
+T42.6	intoxication par un anticonvulsivant
+T42.2	intoxication par un dérivé de l'oxazolidine
+T42.2	intoxication par la paraméthadione
+T42.2	intoxication par la triméthadione
+T42.0	intoxication par un dérivé de l'hydantoïne
+T42.0	intoxication par la phénytoïne
+T42.2	intoxication par le succinimide
+T42.2	intoxication par l'éthosuximide
+T42.2	intoxication par le phensuximide
+T42.6	intoxication par la primidone
+T42.8	intoxication par un médicament antiparkinsonien
+T42.8	intoxication par l'amantadine
+T44.3	intoxication par l'éthopropazine
+T44.3	intoxication par la profénamine
+T42.8	intoxication par la lévodopa
+T42.8	intoxication par la L-dopa
+T42.7	intoxication par un sédatif ou un hypnotique
+T42.7	intoxication par un hypnotique
+T42.7	intoxication par un somnifère
+T42.3	intoxication par un barbiturique
+T42.3	intoxication par l'amobarbital
+T42.3	intoxication par l'amylobarbitone
+T42.3	intoxication par le barbital
+T42.3	intoxication par la barbitone
+T42.3	intoxication par le secbutabarbital
+T42.3	intoxication par la butabarbitone
+T42.3	intoxication par le pentobarbital
+T42.3	intoxication par la pentobarbitone
+T42.3	intoxication par le phénobarbital
+T42.3	intoxication par la phénobarbitone
+T42.3	intoxication par le sécobarbital
+T42.3	intoxication par la quinalbarbitone
+T42.6	intoxication par un médicament du groupe de l'hydrate de chloral
+T42.6	intoxication par le paraldéhyde
+T42.6	intoxication par un composé bromé
+T42.6	intoxication chronique par le brome
+T42.6	bromisme
+T42.6	intoxication par le bromure
+T42.6	intoxication par un dérivé du carbromal
+T42.6	intoxication par un composé de la méthaqualone
+T42.6	intoxication par un médicament du groupe du glutéthimide
+T42.6	intoxication par un sédatif mixte
+T42.6	intoxication par un autre sédatif ou hypnotique
+T42.8	intoxication par un anesthésique ou un dépresseur central du tonus musculaire
+T41.0	intoxication par un gaz anesthésique
+T41.0	empoisonnement par un gaz anesthésique
+T41.0	intoxication par l'éther
+T53.9	intoxication par un dérivé halogéné d'hydrocarbure
+T41.0	intoxication par l'oxyde nitreux
+T41.0	intoxication par l'halothane
+T41.1	intoxication par un anesthésique intraveineux
+T41.1	empoisonnement par un anesthésique intraveineux
+T41.2	intoxication par la kétamine
+T41.1	intoxication par le méthohexital
+T41.1	intoxication par la méthohexitone
+T41.1	intoxication par le thiobarbiturate
+T41.1	intoxication par le thiopental sodique
+T41.3	intoxication par un anesthésique de surface ou utilisé en infiltration locale
+T41.3	empoisonnement par un anesthésique de surface ou utilisé en infiltration locale
+T40.5	empoisonnement par la cocaïne
+T41.3	intoxication par la lidocaïne
+T41.3	intoxication par la lignocaïne
+T41.3	intoxication par la procaïne
+T41.3	intoxication par la tétracaïne
+T41.3	intoxication par un anesthésique agissant sur les plexus nerveux et les nerfs périphériques
+T41.3	empoisonnement par un anesthésique agissant sur les plexus nerveux et les nerfs périphériques
+T41.3	intoxication par un anesthésique spinal
+T41.3	empoisonnement par un anesthésique spinal
+T41.3	intoxication par un anesthésique local
+T41.3	empoisonnement par un anesthésique local
+T42.8	intoxication par un dépresseur du système nerveux central agissant sur le tonus musculaire
+T42.8	intoxication par le carbamate de chlorphénésine
+T42.8	intoxication par la méphénésine
+T42.8	intoxication par le méthocarbamol
+T43.9	intoxication par un agent psychotrope
+T43.0	intoxication par un antidépresseur
+T43.0	intoxication par l'amitriptyline
+T43.0	intoxication par l'imipramine
+T43.1	intoxication par l'inhibiteur de la monoamine-oxydase
+T43.1	intoxication par IMAO
+T43.3	intoxication par un tranquillisant à base de phénothiazine
+T43.3	intoxication par la chlorpromazine
+T43.3	intoxication par la fluphénazine
+T43.3	intoxication par la prochlorpérazine
+T43.3	intoxication par la promazine
+T43.4	intoxication par un tranquillisant à base de butyrophénone
+T43.4	intoxication par l'halopéridol
+T43.4	intoxication par la spipérone
+T43.4	intoxication par le triflupéridol
+T42.4	intoxication par un tranquillisant à base de benzodiazépine
+T42.4	intoxication par le chlordiazépoxide
+T42.4	intoxication par le diazépam
+T42.4	intoxication par le flurazépam
+T42.4	intoxication par le lorazépam
+T42.4	intoxication par le médazépam
+T42.4	intoxication par le nitrazépam
+T43.5	intoxication par un tranquillisant
+T43.5	intoxication par l'hydroxyzine
+T43.5	intoxication par le méprobamate
+T40.9	intoxication par un psychodysleptique
+T40.9	intoxication par un hallucinogène
+T40.7	intoxication par un dérivé du cannabis
+T40.7	intoxication par un dérivé de la marihuana
+T40.8	intoxication par le lysergide
+T40.8	intoxication par le LSD
+T40.9	intoxication par la mescaline
+T40.9	intoxication par la psilocine
+T40.9	intoxication par la psilocybine
+T43.6	intoxication par un psychostimulant
+T43.6	empoisonnement par l'amphétamine
+T43.6	empoisonnement par la caféine
+T50.9	intoxication par un stimulant du système nerveux central
+T50.7	intoxication par un analeptique
+T50.7	intoxication par la lobéline
+T50.7	intoxication par le nicéthamide
+T50.7	intoxication par un antagoniste des opiacés
+T50.7	intoxication par la lévallorphane
+T50.7	intoxication par la nalorphine
+T50.7	intoxication par la naloxone
+T44.9	intoxication par un médicament agissant sur le système nerveux autonome
+T44.1	intoxication par un médicament parasympathomimétique
+T44.1	syndrome cholinergique
+T44.1	intoxication par un médicament cholinergique
+T44.1	intoxication par l'acétylcholine
+T44.0	intoxication par un anticholinestérasique
+T44.0	intoxication par un anticholinestérasique organophosphoré
+T44.0	intoxication par un anticholinestérasique réversible
+T44.1	intoxication par la pilocarpine
+T44.3	intoxication par un médicament parasympatholytique
+T44.3	syndrome anticholinergique
+T44.3	intoxication par un médicament anticholinergique
+T44.3	intoxication par un médicament antimuscarinique
+T44.3	intoxication par un médicament spasmolytique
+T44.3	intoxication par l'atropine
+T44.3	intoxication par l'homatropine
+T44.3	intoxication par l'hyoscine
+T44.3	intoxication par la scopolamine
+T44.3	intoxication par un dérivé de l'ammonium quaternaire
+T44.1	intoxication par un médicament sympathomimétique
+T44.1	syndrome adrénergique
+T44.1	intoxication par un médicament adrénergique
+T44.5	intoxication par l'épinéphrine
+T44.5	intoxication par l'adrénaline
+T44.4	intoxication par le lévartérénol
+T44.4	intoxication par la noradrénaline
+T44.8	intoxication par un médicament antiadrénergique
+T44.8	syndrome adrénolytique
+T44.8	intoxication par un médicament sympatholytique
+T46.7	intoxication par la phénoxybenzamine
+T46.7	intoxication par le chlorhydrate de tolazoline
+T46.9	intoxication par un médicament agissant sur l'appareil cardio-vasculaire
+T46.2	intoxication par un régulateur du rythme cardiaque
+T44.7	intoxication par le practolol
+T46.2	intoxication par le procaïnamide
+T44.7	intoxication par le propranolol
+T37.2	intoxication par la quinidine
+T46.0	intoxication par le glucoside cardiotonique
+T46.0	intoxication par les digitaliques
+T46.0	surdosage digitalique
+T46.0	intoxication digitalique
+T46.0	intoxication par la digoxine
+T46.0	toxicité de la digoxine
+T46.0	intoxication par la strophantine
+T46.6	intoxication par un médicament antiartériosclérotique ou antilipémiant
+T46.6	intoxication par le clofibrate
+T46.7	intoxication par un dérivé de l'acide nicotinique
+T44.2	intoxication ganglioplégique
+T44.2	intoxication par le bromure de pentaméthonium
+T46.3	intoxication par un vasodilatateur coronarien
+T46.3	intoxication par le dipyridamole
+T46.3	intoxication par les nitrates
+T46.3	intoxication par la nitroglycérine
+T46.3	intoxication par les nitrites
+T46.7	intoxication par un vasodilatateur
+T46.7	intoxication par le cyclandélate
+T46.5	intoxication par le diazoxide
+T44.3	intoxication par la papavérine
+T46.5	intoxication par un médicament antihypertensif
+T46.5	intoxication par la clonidine
+T46.5	intoxication par la guanéthidine
+T46.5	intoxication par un alcaloïde de la Rauwolfia
+T46.5	intoxication par la réserpine
+T46.8	intoxication par un médicament antivariqueux ou un agent sclérosant
+T46.8	intoxication par le sodium morrhuate
+T56.5	intoxication par le sel de zinc
+T46.9	intoxication par un médicament agissant sur les capillaires
+T46.9	intoxication par un dérivé de l'adrénochrome
+T44.4	intoxication par le métaraminol
+T47.9	intoxication par un médicament agissant sur l'appareil gastro-intestinal
+T47.1	intoxication par un médicament antiacide ou inhibant la sécrétion gastrique
+T47.1	intoxication par l'hydroxyde d'aluminium
+T47.1	intoxication par le trisilicate de magnésium
+T47.2	intoxication par un laxatif irritant
+T47.2	intoxication par le bisacodyl
+T47.2	intoxication par l'huile de ricin
+T47.2	intoxication par la phénolphtaléine
+T47.3	intoxication par un laxatif émollient
+T47.4	intoxication par le dioctylsulfosuccinate
+T47.4	intoxication par le sulfate de magnésium
+T47.5	intoxication par un faciliteur de la digestion
+T47.5	intoxication par la pancréatine
+T47.5	intoxication par la papaïne
+T47.5	intoxication par la pepsine
+T47.6	intoxication par un médicament antidiarrhéique
+T47.6	intoxication par le kaolin
+T47.6	intoxication par la pectine
+T47.7	intoxication par un émétique
+T50.9	intoxication par un médicament agissant sur le métabolisme hydrique et minéral
+T50.2	intoxication par un diurétique mercuriel
+T50.2	intoxication par la chlormérodrine
+T50.2	intoxication par la mercaptomérine
+T50.2	intoxication par le mersalyl
+T50.2	intoxication par un dérivé diurétique de la purine
+T50.2	intoxication par la théobromine
+T48.6	intoxication par la théophylline
+T50.2	intoxication par les inhibiteurs de l'anhydrase carbonique
+T50.2	intoxication par l'acétazolamide
+T50.2	intoxication par un salidiurétique
+T50.2	intoxication par le benzothiadiazide
+T50.2	intoxication par le groupe des chlorothiazides
+T50.2	intoxication par un diurétique
+T50.1	intoxication par l'acide étacrynique
+T50.1	intoxication par le furosémide
+T50.3	intoxication par des produits agissant sur l'équilibre électrolytique, calorique et hydrique
+T50.4	intoxication par un médicament agissant sur le métabolisme de l'acide urique
+T50.4	intoxication par l'allopurinol
+T50.4	intoxication par la colchicine
+T50.4	intoxication par le probénécide
+T48.2	intoxication par un médicament agissant sur les muscles lisses et striés
+T48.0	intoxication par un produit ocytocique
+T48.0	intoxication par l'alcaloïde de l'ergot de seigle
+T48.0	intoxication par l'ocytocine
+T44.5	intoxication par la prostaglandine
+T44.3	intoxication par un relaxant agissant sur les muscles lisses
+T44.3	intoxication par l'adiphénine
+T48.2	intoxication par le métaprotérénol
+T48.2	intoxication par l'orciprénaline
+T48.1	intoxication par un relaxant agissant sur les muscles striés
+T48.7	intoxication par un médicament agissant sur l'appareil respiratoire
+T48.3	intoxication par un antitussif
+T48.3	intoxication par le dextrométhorphane
+T48.3	intoxication par la pipazétate
+T48.4	intoxication par un expectorant
+T48.4	intoxication par l'acétylcystéine
+T48.4	intoxication par l'hydrate de terpine
+T48.5	intoxication par un médicament contre le coryza
+T48.6	intoxication par un antiasthmatique
+T48.6	intoxication par l'aminophylline
+T48.6	intoxication par l'éthylènediamine théophylline
+T49.8	intoxication par un médicament agissant sur la peau et les muqueuses
+T49.0	intoxication par un anti-infectieux local
+T49.0	intoxication par un médicament anti-inflammatoire local
+T49.1	intoxication par un antiprurigineux local
+T49.2	intoxication par un astringent local
+T49.2	intoxication par un détergent local
+T49.3	intoxication par un émollient
+T49.3	intoxication par un calmant
+T49.3	intoxication par une substance protectrice
+T49.4	intoxication par un médicament kératolytique
+T49.4	intoxication par un médicament kératoplastique
+T49.4	intoxication par un médicament ou une préparation pour le traitement des cheveux
+T49.6	intoxication par un anti-infectieux otique
+T49.6	intoxication par un anti-infectieux nasal
+T49.6	intoxication par un anti-infectieux pharyngé
+T49.7	intoxication par un médicament dentaire à usage topique
+T49.5	intoxication par un anti-infectieux oculaire
+T37.5	intoxication par l'idoxuridine
+T49.8	intoxication par un agent agissant sur la peau et les muqueuses
+T49.8	intoxication par un contraceptif vaginal
+T49.8	intoxication par un spermicide
+T50.9	intoxication par un médicament ou une substance médicinale
+T50.9	toxicité d'un médicament
+T50.9	toxicité d'un agent thérapeutique
+T50.9	intoxication médicamenteuse
+T50.9	intoxication pathologique par un médicament
+T50.9	intoxication pathologique médicamenteuse
+T50.9	intoxication par un produit diététique
+T50.5	intoxication par un dépresseur central de l'appétit
+T50.9	intoxication par un médicament lipotrope
+T50.6	intoxication par un antidote ou un chélateur
+T50.6	intoxication par un produit de désintoxication alcoolique
+T50.9	intoxication par un excipient pharmaceutique
+T50.9	intoxication par un traitement pharmaceutique d'appoint
+T50.8	intoxication par une substance de contraste utilisée en radiologie
+T50.8	intoxication par un agent ou une trousse diagnostique
+T50.9	intoxication par un vaccin ou une substance biologique
+T50.9	intoxication par un vaccin antivariolique
+T50.9	intoxication par un vaccin antirabique
+T50.9	intoxication par un vaccin antityphique
+T50.9	intoxication par un vaccin contre la fièvre jaune
+T50.9	intoxication par un vaccin antirougeoleux
+T50.9	intoxication par un vaccin antipoliomyélitique
+T50.9	intoxication par un vaccin antiourlien
+T50.9	intoxication par un vaccin antiviral-rickettsie
+T50.9	intoxication par un vaccin mixte antiviral-rickettsie et anti-bactérien
+T50.9	intoxication par un vaccin antibactérien
+T50.9	intoxication par le vaccin BCG
+T50.9	intoxication par un vaccin antityphoïdique et paratyphoïdique
+T50.9	intoxication par un vaccin anticholérique
+T50.9	intoxication par un vaccin antipesteux
+T50.9	intoxication par un vaccin antitétanique
+T50.9	intoxication par un vaccin antidiphtérique
+T50.9	intoxication par un vaccin anticoquelucheux, y compris les associations vaccinales à composante coquelucheuse
+T50.9	intoxication par une association vaccinale antibactérienne, excepté à composante coquelucheuse
+T65.9	effet toxique d'une substance essentiellement non médicinale
+T65.9	effet toxique d'une substance chimique
+T65.9	effet toxique d'un produit chimique
+T65.9	intoxication par une substance chimique
+T51.9	effet toxique de l'alcool
+T51.0	effet toxique de l'alcool éthylique
+T51.0	effet toxique de l'éthanol
+T51.0	effet toxique de l'alcool de grain
+T51.0	intoxication par l'alcool éthylique
+T51.0	intoxication par l'éthanol
+T51.0	effet toxique de l'alcool dénaturé
+T51.1	effet toxique de l'alcool méthylique
+T51.1	effet toxique du méthanol
+T51.1	intoxication par l'alcool méthylique
+T51.1	intoxication par le méthanol
+T51.2	effet toxique de l'alcool isopropylique
+T51.2	effet toxique du diméthyl carbinol
+T51.2	effet toxique de l'isopropanol
+T51.2	effet toxique de l'alcool à friction
+T51.2	intoxication par l'alcool isopropylique
+T51.3	effet toxique de l'huile de fusel
+T51.3	effet toxique de l'alcool amylique
+T51.3	effet toxique de l'alcool butylique
+T51.3	effet toxique de l'alcool propylique
+T51.8	effet toxique d'un alcool
+T52.8	intoxication par l'éthylène glycol
+T52.8	intoxication par un antigel
+T52.0	effet toxique d'un produit dérivé du pétrole
+T52.0	effet toxique de la benzine de pétrole
+T52.0	effet toxique de l'essence
+T52.0	effet toxique du kérosène
+T52.0	effet toxique de la cire de paraffine
+T52.0	effet toxique de l'éther de pétrole
+T52.0	intoxication par du distillat de pétrole
+T52.0	effet toxique du naphte de pétrole
+T52.0	effet toxique du white spirit
+T60.1	effet toxique de la naphtaline
+T60.1	intoxication par le naphtalène
+T60.1	intoxication par boule de naphtaline
+T52.9	effet toxique d'un solvant non dérivé du pétrole
+T52.1	effet toxique du benzène ou homologue
+T53.0	effet toxique du tétrachlorure de carbone
+T53.0	intoxication par le tétrachlorure de carbone
+T65.4	effet toxique du sulfure de carbone
+T65.4	intoxication par le sulfure de carbone
+T53.9	effet toxique d'un autre hydrocarbure chloré utilisé comme solvant
+T53.3	effet toxique du tétrachloroéthylène
+T53.2	effet toxique du trichloroéthylène
+T52.3	effet toxique du nitroglycol
+T52.4	effet toxique de l'acétone
+T52.4	intoxication par l'acétone
+T54.9	effet toxique d'un produit caustique
+T54.1	effet toxique d'un corrosif aromatique
+T54.0	effet toxique de l'acide carbolique
+T54.0	effet toxique du phénol
+T49.0	effet toxique du crésol
+T54.2	effet toxique d'un acide
+T54.2	intoxication par un acide
+T54.2	effet toxique de l'acide chlorhydrique
+T54.2	effet toxique de l'acide nitrique
+T54.2	effet toxique de l'acide sulfurique
+T54.3	effet toxique d'une base caustique
+T54.3	intoxication alcaline
+T54.3	effet toxique de la lessive
+T54.3	effet toxique de l'hydroxyde de sodium
+T54.3	effet toxique de l'hydroxyde de potassium
+T56.0	effet toxique d'un composé à base de plomb
+T56.0	intoxication par le plomb
+T56.0	saturnisme
+T56.0	intoxication saturnine
+T56.0	effet toxique d'un composé inorganique de plomb
+T56.0	effet toxique du dioxyde de plomb
+T56.0	effet toxique du sel de plomb
+T56.0	effet toxique d'un composé organique du plomb
+T49.2	effet toxique de l'acétate de plomb
+T56.0	effet toxique du plomb tétraéthylique
+T56.8	effet toxique d'un métal
+T56.8	intoxication par un métal
+T56.1	effet toxique du mercure et ses composés
+T56.1	hydrargyrose
+T56.1	mercurialisme
+T56.1	hydrargyrie
+T56.1	hydrargyrisme
+T56.1	intoxication par le mercure
+T56.1	intoxication par le mercure inorganique
+T56.1	intoxication par le mercure organique
+T56.1	maladie de Minamata
+T56.1	effet toxique de composés alkylés du mercure
+T56.1	exposition au mercure
+T57.0	effet toxique de l'arsenic et ses composés
+T57.0	intoxication par l'arsenic
+T57.0	toxicité arsenicale
+T57.0	intoxication par l'arsenic inorganique
+T57.0	intoxication par l'arsenic organique
+T57.0	intoxication par l'acide arsénique
+T57.2	effet toxique du manganèse et ses composés
+T56.7	effet toxique du béryllium et ses composés
+T56.8	effet toxique de l'antimoine et ses composés
+T56.8	stibialisme
+T56.8	intoxication par l'antimoine
+T56.8	antimoniose
+T56.3	effet toxique du cadmium et ses composés
+T56.2	effet toxique du chrome
+T56.4	effet toxique des fumées de laiton
+T56.4	effet toxique du sel de cuivre
+T45.4	effet toxique d'un composé du fer
+T56.8	effet toxique d'un composé du nickel
+T56.8	effet toxique d'un composé du sélénium
+T56.9	effet toxique d'un métal lourd
+T56.9	intoxication par un métal lourd
+T56.9	toxicose due à un métal lourd
+T59.9	effet toxique de gaz, de fumées ou de vapeurs
+T59.9	intoxication par un gaz
+T59.8	effet toxique d'un gaz liquéfié du pétrole
+T59.8	effet toxique du butane
+T59.8	effet toxique du propane
+T59.8	effet toxique d'un hydrocarbure gazeux
+T59.0	effet toxique de l'oxyde d'azote
+T59.0	effet toxique du bioxyde d'azote
+T59.0	effet toxique de vapeurs nitreuses
+T59.1	effet toxique du bioxyde de soufre
+T53.5	effet toxique du fréon
+T53.5	effet toxique de la dichloromonofluorométhane
+T59.3	effet toxique du gaz lacrymogène
+T59.3	effet toxique du cyanure de bromobenzyle
+T52.4	effet toxique de l'acétophénone chloré
+T59.3	effet toxique de l'éthyliodoacétate
+T59.4	effet toxique du chlore gazeux
+T65.0	effet toxique du gaz de l'acide cyanhydrique
+T59.8	effet toxique du phosgène
+T59.8	effet toxique des vapeurs de polyester
+T58	effet toxique de monoxyde de carbone
+T58	intoxication par le monoxyde de carbone
+T58	intoxication par le monoxyde de carbone provenant du tuyau d'échappement d'un véhicule à moteur
+T58	intoxication par le monoxyde de carbone provenant d'un fourneau ou d'un appareil de chauffage défectueux
+T58	intoxication par le monoxyde de carbone provenant d'un feu
+T58	exposition au monoxyde de carbone
+T62.9	effet toxique d'une substance nocive absorbée par le biais d'aliments
+T61.2	effet toxique de poisson ingéré
+T61.2	effet toxique de mollusques ou crustacés ingérés
+T61.2	intoxication par des mollusques ou crustacés
+T61.2	intoxication par des mollusques ou crustacés contaminés ingérés
+T62.0	effet toxique de champignons ingérés
+T62.0	intoxication par des champignons
+T62.0	intoxication par des espèces d'amanites
+T62.0	intoxication par les amanites phalloïdes
+T62.1	effet toxique de baies et autres plantes ingérées
+T62.1	intoxication par les fruits de l'ackee
+T65.0	effet toxique de l'acide cyanhydrique
+T65.0	effet toxique du cyanure
+T65.0	intoxication par le cyanure
+T65.0	effet toxique du cyanure de potassium
+T65.0	effet toxique du cyanure de sodium
+T65.1	effet toxique de la strychnine
+T65.1	intoxication par la strychnine
+T65.1	toxicité de la strychnine
+T53.9	effet toxique d'un pesticide d'hydrocarbure chloré
+T60.0	effet toxique de l'aldrine
+T60.0	intoxication par l'aldrine
+T60.1	effet toxique du chlordane
+T60.1	intoxication par le chlordane
+T60.1	effet toxique du DDT
+T60.1	intoxication par le dichloro-diphényl-trichloréthane
+T60.1	toxicité du DDT
+T60.1	effet toxique de la dieldrine
+T60.1	intoxication par la dieldrine
+T60.0	effet toxique d'un pesticide organo-phosphoré ou du groupe des carbamates
+T60.0	toxicité d'un insecticide du groupe des carbamates
+T60.0	toxicité d'un organophosphate
+T60.0	effet toxique du carbaryl
+T60.0	intoxication par le carbaryl
+T60.0	effet toxique du dichlorvos
+T60.0	intoxication par le dichlorvos
+T60.0	effet toxique du malathion
+T60.0	intoxication par le malathion
+T60.0	effet toxique du parathion
+T60.0	intoxication par le parathion
+T60.0	effet toxique du phorate
+T60.0	intoxication par le phorate
+T60.0	effet toxique de la phosdrine
+T60.9	effet toxique d'un mélange d'insecticides
+T63.9	effet toxique du venin
+T63.0	effet toxique d'une morsure de serpent venimeux
+T63.1	effet toxique d'une morsure de lézard venimeux
+T63.3	effet toxique d'une piqûre d'araignée venimeuse
+T55	effet toxique d'un savon ou d'un détergent
+T64	effet toxique d'un contaminant alimentaire
+T64	effet toxique d'une mycotoxine
+T64	syndrome toxique des poussières organiques
+T64	mycotoxicose
+T64	intoxication fongique
+T64	intoxication par les champignons
+T64	effet toxique de l'aflatoxine
+T65.9	intoxication par l'effet synergique de produits chimiques multiples
+T65.9	syndrome de la guerre du Golfe
+T60.1	intoxication chronique par le fluoride
+T60.1	fluorose
+T49.0	intoxication par l'hexachlorophène
+T62.2	paralysie due à l'ingestion de gingembre jamaïcain
+T60.4	intoxication par le pindone
+T52.0	intoxication par le pétrole
+T52.0	intoxication par un produit du pétrole
+T54.0	intoxication par le phénol
+T54.0	intoxication par l'acide carbolique
+T54.0	intoxication par désinfectant phénolique
+T54.0	intoxication par un produit phénolique
+T60.2	intoxication par la phénothiazine
+T60.0	intoxication par le sel de phosphate
+T60.0	intoxication par le phosphate organique
+T60.0	intoxication par le phosphore
+T60.0	phosphorisme
+T60.4	intoxication par la scille rouge
+T56.8	intoxication par le sélénium
+T56.8	empoisonnement par le sélénium
+T56.8	intoxication aiguë par le sélénium
+T56.8	intoxication chronique par le sélénium
+T56.8	intoxication par l'argent
+T49.2	intoxication par l'acide tannique
+T53.3	intoxication par le tétrachloréthylène
+T60.4	intoxication par le thallium
+T45.1	intoxication par la thalidomide
+T52.8	intoxication par l'essence de térébenthine
+T47.3	intoxication par l'urée
+T56.5	intoxication par le zinc
+T56.5	zincisme
+T60.4	intoxication par le phosphure de zinc
+T60.4	toxicité du phosphure de zinc
+T60.3	intoxication par un herbicide
+T60.3	toxicité d'un herbicide
+T60.3	intoxication par le sulfamate d'ammonium
+T55	toxicité du borax
+T60.3	toxicité du glyphosate
+T60.3	intoxication par le paraquat
+T60.3	intoxication par le pentachlorophénol
+T60.3	intoxication par l'acide 2,4-dichlorophénoxyacétique
+T60.3	intoxication par 2,4-D
+T60.3	toxicité du chlorate de sodium
+T60.0	toxicité d'un composé de thiocarbamate
+T60.3	toxicité d'un composé de triazine
+T60.9	intoxication par un pesticide
+T60.9	toxicité d'un pesticide
+T60.9	intoxication par un insecticide
+T60.9	toxicité d'un insecticide
+T57.8	toxicité du borate
+T60.0	intoxication par le propoxure
+T53.9	toxicité des hydrocarbures chlorés
+T53.9	toxicité organochlorée
+T60.1	intoxication par l'endrine
+T60.1	intoxication par l'heptachlore
+T53.7	intoxication par le méthoxychlore
+T53.6	intoxication par le lindane
+T60.1	intoxication par le strobane
+T60.2	intoxication par la pyréthrine
+T60.0	intoxication par l'azinphos-méthyle
+T60.0	intoxication par l'azinphos-éthyle
+T60.0	intoxication par le carbophénothion
+T60.0	intoxication par le chlorfenvinphos
+T60.0	intoxication par le coumaphos
+T60.0	intoxication par le déméton
+T60.0	intoxication par le diméthoate
+T60.0	intoxication par le dioxathion
+T60.0	intoxication par le disulfoton
+T60.0	intoxication par EPN
+T60.0	intoxication par le fenthion
+T60.0	intoxication par le méthyl parathion
+T60.0	intoxication par le mévinphos
+T60.0	intoxication par le turbufos
+T60.0	intoxication par le tétra-éthyl-pyrophosphate
+T60.0	intoxication par le TEPP
+T60.0	intoxication par le métrifonate
+T52.9	intoxication par solvant et émulsifiant
+T60.4	intoxication par le rodenticide
+T60.4	toxicité de l'alpha-naphthylthiourée
+T60.4	toxicité de l'ANTU
+T45.2	intoxication par le cholécalciférol
+T60.4	toxicité de la crimidine
+T60.4	toxicité du fluoroacétate
+T60.4	toxicité du norbromide
+T60.4	toxicité du pyriminil
+T60.4	toxicité du fluoroacétate de sodium
+T63.4	paralysie par morsure de tique
+T66	maladie des irradiations
+T66	mal des rayons
+T66	syndrome aigu d'irradiation
+T66	mal des rayons subaigu
+T66	mal des rayons chronique
+T66	syndrome de rémanence actinique
+T88.7	effet majoré d'un médicament
+T88.7	effet médicamenteux augmenté
+T88.7	effet diminué d'un médicament
+T88.7	effet médicamenteux diminué
+T88.7	absence de l'effet d'un médicament
+T88.7	inefficacité d'un médicament
+T88.7	action prolongée d'un médicament
+T88.7	effet médicamenteux prolongé
+T88.7	effet abrégé d'un médicament
+T88.7	effet médicamenteux abrégé
+T88.7	réaction indésirable à un médicament
+T88.7	effet médicamenteux indésirable
+T88.7	effet indésirable d'un médicament
+T88.7	effet idiosyncrasique d'un médicament
+T88.7	effet médicamenteux idiosyncrasique
+T88.7	interaction médicamenteuse
+T88.7	interaction médicamenteuse potentialisée
+T88.7	interaction médicamenteuse inhibée
+T88.7	interaction d'un médicament avec l'alcool
+T88.7	interaction de l'alcool avec un médicament
+T88.7	interaction d'un médicament avec les aliments
+T88.7	interaction des aliments avec un médicament
+T88.7	réaction allergique à un médicament
+T88.7	allergie à un médicament
+T88.7	allergie aux agents anti-infectieux
+T88.7	allergie aux sulfamides
+T88.7	allergie aux sulfonamides
+T88.7	allergie à la pénicilline
+T88.7	allergie aux macrolides
+T88.7	allergie aux érythromycines
+T50.9	surdosage médicamenteux
+T50.9	surdose
+T50.9	overdose
+T50.9	surdosage aigu
+T50.9	surdosage chronique
+T78.8	intolérance médicamenteuse
+T78.8	intolérance aux contraceptifs oraux
+T78.8	chimiorésistance
+T78.8	chimiorésistance à l'insuline
+T78.8	insulinorésistance
+T78.8	chimiorésistance augmentée
+T78.8	chimiorésistance diminuée
+T78.8	chimiorésistance aux corticoïdes
+T78.8	chimiorésistance aux corticostéroïdes
+T78.8	corticorésistance
+T88.7	effet d'un médicament mal administré
+T88.7	mauvaise administration d'un médicament
+T88.7	lésion d'origine médicamenteuse
+T88.7	embolie d'origine médicamenteuse
+T88.7	embolie médicamenteuse
+T88.7	pigmentation d'origine médicamenteuse
+T88.7	ulcération d'origine médicamenteuse
+T88.2	mort pendant l'induction anesthésique
+T88.2	mort au cours d'une anesthésie
+T71	asphyxie traumatique
+T71	état d'asphyxie traumatique
+T71	étouffement
+T71	asphyxie par pendaison
+T71	pendaison

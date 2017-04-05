@@ -1,0 +1,2791 @@
+E03.9	myxoedème prétibial
+E03.9	myxoedème circonscrit
+E03.9	maladie de Keining-Cohen
+E67.1	caroténodermie
+E67.1	carotinodermie
+E67.1	carotinose cutanée
+E78.8	syndrome de Rothmann-Makaï
+E78.8	panniculite de Rothmann-Makaï
+E78.8	lipogranulomatose sous-cutanée disséminée spontanément résolutive
+E83.5	calcinose généralisée
+E83.5	calcinose diffuse
+E88.2	adipose douloureuse
+E88.2	neurolipomatose douloureuse
+E88.2	maladie de Dercum
+E88.2	obésité douloureuse
+E88.2	lipomatose nodulaire multiple de la ceinture et des membres
+E88.2	lipomatose mésosomatique
+E88.2	lipomatosis gigantea
+E88.2	maladie d'Anders
+E88.2	adiposis tuberosa simplex
+E88.8	maladie de Madelung
+E88.8	lipomatose cervicale symétrique
+E88.8	cou adipeux de Madelung
+E75.5	xanthome tendineux
+E88.9	maladie métabolique des os
+E55.0	chapelet costal
+E55.0	chapelet rachitique
+E54	chapelet scorbutique
+E34.8	progérie
+E34.8	syndrome d'Hutchinson-Gilford
+E34.8	infantilisme avec sénilisme de Gilford
+E34.8	syndrome de Werner
+E34.8	pangéria de l'adulte
+E76.2	dysplasie spondylo-épiphysaire génotypique
+E76.2	chondrodysplasie spondylo-épiphysaire
+E34.8	lepréchaunisme
+E34.8	syndrome de Donohue
+E03.1	syndrome d'athyroïdie
+E03.1	syndrome d'athyréose
+E00.9	crétinisme
+E00.9	hypothyroïdisme congénital
+E03.0	goitre congénital
+E00.9	syndrome d'insuffisance thyroïdienne congénitale
+E00.9	hypothyroïdie congénitale
+E00.9	nanisme hypothyroïdien
+E00.0	crétinisme de forme neurologique
+E00.1	idiotie myxoedémateuse
+E00.1	myxoedème congénital
+E00.9	crétinisme endémique
+E00.9	crétinisme sporadique
+E23.6	kyste de la poche de Rathke
+E25.0	macrogénitosomie précoce
+E25.0	syndrome pinéal
+E25.0	syndrome épiphysaire
+E00.9	infantilisme type Brissaud
+E83.1	cirrhose pigmentaire
+E88.8	déficit congénital en lipase pancréatique
+E88.8	déficit congénital en trypsine pancréatique
+E88.8	déficit congénital en entérokinase pancréatique
+E88.9	maladie métabolique
+E88.9	trouble du métabolisme
+E88.9	maladie métabolique localisée
+E88.9	maladie métabolique généralisée
+E88.9	enzymopathie
+E88.9	maladie enzymatique
+E88.9	erreur innée du métabolisme
+E88.9	maladie de surcharge
+E88.9	thésaurose
+E88.9	déséquilibre physiologique
+E63.9	trouble de nutrition
+E63.9	maladie nutritionnelle
+E46	maladie protéinique
+E46	affection protéinique
+E88.0	bisalbuminémie
+E63.9	carence nutritionnelle
+E63.9	maladie par carence nutritionnelle
+E61.9	carence nutritionnelle due à certains aliments
+E46	sous-alimentation
+E46	syndrome de sous-alimentation
+E43	émaciation
+E88.0	hypoprotéinémie
+E88.0	hypoprotidémie
+E46	malnutrition protéino-calorique
+E46	malnutrition protéino-énergétique
+E46	malnutrition en calories
+E46	dystrophie due à la malnutrition
+E44.1	malnutrition légère, selon la classification de Gomez (poids compris entre 75 et 90% du poids standard)
+E44.0	malnutrition modérée, selon la classification de Gomez (poids compris entre 60 & 75% du poids standard)
+E45	retard de développement après malnutrition protéino-calorique
+E45	nanisme nutritionnel
+E45	retard de développement physique dû à la malnutrition
+E43	malnutrition protéino-calorique sévère, selon la classification de Gomez (poids inférieur à 60% du poids standard)
+E43	oedème d'alimentation
+E43	oedème de famine
+E43	oedème nutritionnel sans dépigmentation de la peau et des cheveux
+E41	marasme nutritionnel
+E41	malnutrition grave avec marasme
+E41	atrophie nutritionnelle
+E41	malnutrition sévère
+E41	algidité progressive des nouveau-nés
+E41	athrepsie
+E41	marasme infantile
+E42	kwashiorkor
+E42	oedème nutritionnel avec dépigmentation de la peau et des cheveux
+E42	stéatocirrhose carentielle du sevrage
+E42	hépatite tropicale infantile d'Indochine
+E42	pellagre infantile d'Afrique noire
+E88.0	hyperprotéinémie
+E66.9	obésité
+E66.9	adipose
+E66.9	adiposité
+E66.9	obésité simple
+E66.8	obésité durant toute la vie
+E66.8	obésité hypertrophique-hyperplasique
+E66.8	obésité de l'adulte
+E66.8	obésité hypertrophique
+E66.8	obésité constitutionnelle
+E66.9	obésité exogène
+E66.8	obésité familiale
+E66.9	obésité alimentaire
+E66.2	syndrome pickwickien
+E66.2	syndrome de Pickwick
+E66.2	syndrome d'obésité extrême avec hypoventilation alvéolaire
+E66.8	obésité d'origine endocrinienne
+E66.8	obésité endogène
+E66.8	obésité faciotrunculaire
+E66.8	obésité tronculaire
+E66.8	bosse de bison
+E65	adiposité localisée
+E65	masse graisseuse
+E65	hyperplasie du tissu adipeux
+E65	bourrelet adipeux
+E65	stéatopygie
+E87.8	trouble du métabolisme de l'eau et des électrolytes
+E87.8	anomalie du volume liquidien organique
+E86	hypovolémie
+E86	déplétion du volume du liquide organique
+E86	déplétion volumique
+E86	déplétion du volume du plasma ou du liquide extracellulaire
+E86	hypovolémie rénale due à une perte d'effecteur (déficit hormonal)
+E86	hypovolémie rénale due à une perte de rendement (déficience rénale)
+E86	hypovolémie par perte extrarénale
+E86	hypovolémie par perte digestive
+E87.7	hypervolémie
+E87.7	augmentation du volume du liquide organique
+E87.7	surcharge liquidienne
+E87.7	excès de liquide organique
+E87.7	rétention hydrique
+E87.7	hypervolémie, perturbation du schéma de Starling
+E87.7	hypervolémie, surcharge hormonale primaire
+E87.7	hypervolémie, rétention sodique rénale primaire
+E87.8	trouble de l'osmolalité
+E87.1	hypo-osmolalité
+E87.1	syndrome d'hypo-osmolalité
+E87.1	hyponatrémie
+E87.1	déficit en sodium (Na)
+E87.1	hyponatrémie aiguë
+E87.1	syndrome de déplétion sodique aiguë
+E87.1	syndrome de Schroeder de type I
+E87.1	hyponatrémie chronique
+E87.1	syndrome d'intoxication par l'eau
+E87.1	intoxication hydrique
+E87.8	trouble du sodium
+E87.0	hyperosmolalité
+E87.0	syndrome d'hyperosmolalité
+E87.0	hypernatrémie
+E87.0	rétention sodique
+E87.0	surcharge en sodium (Na)
+E87.0	excès de sodium (Na)
+E87.0	hypernatrémie aiguë
+E87.0	hypernatrémie chronique
+E87.0	hypernatrémie essentielle
+E87.0	hypernatrémie idiopathique
+E86	déshydratation
+E87.8	trouble du potassium
+E87.6	hypokaliémie
+E87.6	hypopotassémie
+E87.6	kaliopénie
+E87.6	déplétion potassique
+E87.6	déficit en potassium (K)
+E87.6	syndrome d'hypopotassémie
+E87.6	syndrome hypokaliémique
+E87.6	hypokaliémie aiguë
+E87.6	hypopotassémie aiguë
+E87.6	hypokaliémie chronique
+E87.6	kaliopénie aiguë
+E87.6	hypopotassémie chronique
+E87.6	hypokaliémie, ingestion insuffisante
+E87.6	hypopotassémie, ingestion insuffisante
+E87.6	hypokaliémie, pertes excessives d'origine rénale
+E87.6	hypopotassémie, pertes excessives d'origine rénale
+E87.6	hypokaliémie, pertes digestives
+E87.6	hypokaliémie, pertes par voie digestive
+E87.6	hypokaliémie, déplacement du liquide extracellulaire vers le liquide intracellulaire
+E87.6	hypokaliémie, déplacement du LEC dans le LIC
+E87.5	hyperkaliémie
+E87.5	hyperpotassiémie
+E87.5	hyperpotassémie
+E87.5	syndrome hyperkaliémique
+E87.5	surcharge en potassium (K)
+E87.5	excès de potassium (K)
+E87.5	intoxication au potassium
+E87.5	hyperkaliémie aiguë
+E87.5	hyperpotassémie aiguë
+E87.5	hyperkaliémie chronique
+E87.5	hyperpotassémie chronique
+E87.5	hyperkaliémie, diminution de l'excrétion rénale
+E87.5	hyperpotassémie, diminution de l'excrétion rénale
+E87.5	hyperkaliémie, échanges transcellulaires
+E87.5	hyperpotassémie, échanges transcellulaires
+E87.8	trouble des chlorures
+E87.8	hypochlorémie
+E87.8	hyperchlorémie
+E87.8	trouble hydro-électrolytique
+E87.8	déséquilibre électrolytique
+E87.8	syndrome de McKittrick-Wheelock
+E87.8	déplétion électrolytique
+E87.8	déplétion ionique
+E87.4	trouble de l'équilibre acido-basique
+E87.4	déséquilibre acido-basique
+E87.2	acidose
+E87.2	acidémie
+E87.2	acidose compensée
+E87.2	acidose métabolique
+E87.2	acidose métabolique compensée
+E87.2	acidose métabolique avec trou anionique normal
+E87.2	acidose métabolique avec trou anionique normal et pertes de bicarbonates
+E87.2	acidose métabolique avec trou anionique normal et défaut de régénération des bicarbonates
+E87.2	acidose métabolique avec trou anionique normal et sels acidifiants
+E87.2	acidose hyperchlorémique
+E87.2	acidose métabolique avec augmentation du trou anionique
+E87.2	acidose métabolique avec trou anionique élevé et excrétion réduite des acides inorganiques
+E87.2	acidose métabolique avec trou anionique élevé et accumulation des acides organiques
+E87.2	acidose lactique
+E87.2	acidocétose
+E87.2	cétoacidose
+E87.2	acidocétose alcoolique
+E87.2	acidocétose de la famine
+E87.2	acidose métabolique due à l'ingestion de médicaments ou de produits chimiques
+E87.2	acidose métabolique due aux salicylates
+E87.2	acidose métabolique due au paraldéhyde
+E87.2	acidose métabolique due au méthanol
+E87.2	acidose métabolique due à l'éthylène glycol
+E87.2	acidose respiratoire
+E87.2	acidose respiratoire compensée
+E87.2	acidose respiratoire aiguë
+E87.2	acidose respiratoire chronique
+E87.3	alcalose
+E87.3	alcalémie
+E87.3	alcalose compensée
+E87.3	alcalose d'altitude
+E87.3	alcalose métabolique
+E87.3	alcalose métabolique compensée
+E87.3	alcalose hypokaliémique
+E87.3	alcalose hypochlorémique
+E87.3	alcalose respiratoire
+E87.3	alcalose respiratoire compensée
+E87.3	alcalose respiratoire aiguë
+E87.3	syndrome d'hyperventilation aiguë
+E87.3	hyperventilation aiguë
+E87.3	alcalose respiratoire chronique
+E87.3	syndrome d'hyperventilation chronique
+E87.3	hyperventilation chronique
+E87.4	anomalie mixte de l'équilibre acido-basique
+E87.4	déséquilibre acido-basique mixte
+E87.4	hypercapnie avec anomalie mixte acido-basique
+E83.9	trouble du métabolisme des minéraux
+E61.8	carence en minéraux
+E83.8	autres anomalies du métabolisme des minéraux
+E83.1	trouble du métabolisme du fer
+E61.1	carence en fer
+E83.1	surcharge en fer
+E83.1	excès de fer
+E83.1	hémochromatose
+E83.1	cirrhose bronzée
+E83.1	syndrome de von Recklinghausen-Applebaum
+E83.1	hémochromatose primitive familiale
+E83.1	hémochromatose primitive idiopathique
+E83.1	hémochromatose primitive
+E83.1	hémochromatose héréditaire
+E83.1	hémochromatose néonatale
+E83.1	hémochromatose juvénile
+E83.1	hémochromatose précirrhotique
+E83.1	hémochromatose latente
+E83.1	hémochromatose secondaire
+E83.1	hémochromatose érythropoïétique
+E83.1	hémochromatose secondaire à un trouble érythropoïétique
+E83.1	hémochromatose africaine
+E83.1	hémosidérose des bantous
+E83.1	hémosidérose
+E83.1	hypersidérose
+E83.1	hémosidérose transfusionnelle
+E83.1	hémosidérose post-transfusionnelle
+E83.1	hémosidérose focale
+E83.1+	hémosidérose pulmonaire idiopathique
+E83.1+	hémosidérose pulmonaire
+E83.1+	maladie de Ceelen
+E83.1	hémosidérose hépatique
+E83.1	hémosidérose rénale
+E83.1	hémosidérose secondaire
+E83.1	hémosidérose de dérivation
+E83.0	trouble du métabolisme du cuivre
+E83.0	hypocuprémie
+E83.0	carence chronique en cuivre
+E83.0	syndrome de Menkes
+E83.0	carence héréditaire en cuivre
+E83.0	carence en cuivre lié à l'X
+E83.0	maladie de Menkes
+E83.0	hypercuprémie
+E83.0	hypercuprurie
+E83.0	maladie de Wilson
+E83.0	dégénérescence hépato-lenticulaire
+E83.0	syndrome de Westphal-Strümpell
+E83.0	pseudo-sclérose en plaques de Westphal-Strümpell
+E83.0	maladie de surcharge du cuivre
+E83.0	hypocéruloplasminémie familiale
+E83.4	trouble du métabolisme du magnésium
+E83.4	hypomagnésiémie
+E83.4	hypomagnésémie
+E61.2	syndrome de carence en magnésium
+E83.4	hypomagnésiémie néonatale
+E83.4	hypomagnésémie néonatale
+E83.4	hypermagnésiémie
+E83.4	hypermagnésémie
+E83.3	trouble du métabolisme du phosphore
+E83.3	hypophosphatémie
+E83.3	hypophosphorémie
+E83.3	rachitisme vitamino-résistant familial hypophosphatémique de Fanconi
+E83.3	hypophosphatémie familiale
+E83.3	diabète phosphaté familial chronique
+E83.3	ostéomalacie vitamino-résistante essentielle
+E83.3	rachitisme résistant à la vitamine D
+E83.3	rachitisme hypophosphatémique familial
+E83.3	syndrome d'Albright-Butler-Bloomberg
+E83.3	hypophosphatémie liée à l'X
+E83.3	rachitisme vitamino-résistant familial hypophosphatémique autosomique
+E83.3	maladie osseuse hypophosphatémique autosomique
+E83.3	hyperphosphatémie
+E83.3	hyperphosphorémie
+E83.5	trouble du métabolisme du calcium
+E83.5	hypocalcémie
+E83.5	syndrome hypocalcémique
+E83.5	syndrome d'hypocalcémie
+E83.5	hypercalcémie
+E83.5	syndrome hypercalcémique
+E83.5	syndrome d'hypercalcémie
+E83.5	hypercalcémie idiopathique de l'enfance
+E83.5	hypercalcémie idiopathique
+E83.5	hypercalciurie
+E83.5	calcinose
+E83.5	néphrocalcinose
+E83.5	pseudo-goutte
+E72.1	trouble du métabolisme du soufre
+E72.1	sulfatémie
+E72.1	sulfatidurie
+E83.8	trouble du métabolisme des oligo-éléments
+E83.2	trouble du métabolisme du zinc
+E83.2	carence aiguë en zinc
+E83.2	carence chronique en zinc
+E83.2	acrodermatite entéropathique héréditaire
+E83.2	syndrome de malabsorption primaire du zinc
+E83.2	syndrome de Danbolt et Closs
+E83.2	acrodermatite entéropathique acquise
+E83.2	excès de zinc
+E61.3	carence en manganèse
+E83.8	trouble du métabolisme du chrome
+E61.4	carence en chrome
+E83.8	trouble du métabolisme du sélénium
+E59	carence en sélénium
+E59	maladie de Keshan
+E59	cardiomyopathie de Keshan
+E61.8	maladie par carence en cobalt
+E83.8	trouble du métabolisme du strontium
+E83.8	déficit en strontium
+E83.8	excès de strontium
+E83.8	strontiurèse
+E79.9	trouble du métabolisme de la purine
+E79.0	hyperuricémie
+E79.0	hyperuricurie
+E79.8	déficit en hypoxanthine-guanine-phospho-ribosyl-transférase
+E79.8	déficit en HGPRT
+E79.1	syndrome de Lesch-Nyhan
+E79.1	déficit complet en HGPRT
+E79.8	encéphalopathie hyperuricémique
+E79.8	hyperuricémie congénitale
+E79.8	hyperuricémie liée au chromosome X
+E79.8	déficit partiel en HGPRT
+E79.8	xanthinurie héréditaire
+E79.8	déficit isolé en xanthine-oxydase
+E79.8	xanthinurie héréditaire de type 1
+E79.8	xanthinurie
+E79.8	déficit en enzyme molybdoflavoprotéique
+E79.8	xanthinurie héréditaire de type 2
+E79.8	déficit en cofacteur molybdène
+E79.8	déficit en xanthine-oxydase et en sulfite-oxydase
+E79.8	déficit en adénine-phosphoriboxyl transférase
+E79.8	déficit en APRT
+E79.8	2,8-dihydroxyadénine urolithiase
+E79.8	déficit en APRT de type japonais
+E79.8	hyperactivité de la ribose-phosphate pyrophosphokinase
+E79.8	hyperactivité de la PRPS
+E79.8	hyperactivité de la PRPPS
+E79.8	hyperactivité de la phosphoribosyl pyrophosphate synthétase
+E79.8	déficit en adénosine monophosphate désaminase musculaire
+E79.8	déficit en myoadénylate désaminase
+E79.8	myopathie par déficit en myoadénylate désaminase
+E79.8	déficit en adénylate désaminase musculaire
+E79.8	déficit en adénosine-désaminase
+E79.8	déficit en ADA
+E79.8	déficit en adénosine-aminohydrolase
+E79.8	déficit en purine-nucléoside phosphorylase
+E79.8	déficit en PNP
+E79.8	déficit en nucléoside phosphorylase
+E79.8	déficit en NP
+E79.8	déficit en adénylosuccinate-lyase
+E79.8	succinyladénosinurie
+E79.8	déficit en adénylosuccinate
+E79.8	autisme succinylpurinémique
+E79.8	trouble du métabolisme de la pyrimidine
+E79.8	oroticurie
+E79.8	oroticurie secondaire
+E79.8	oroticurie héréditaire
+E79.8	oroticurie héréditaire de type 1
+E79.8	déficit en urédine monophosphate synthase
+E79.8	déficit en OPRT et OMP décarboxylase
+E79.8	déficit en pyrophosphorylase et décarboxylase orotidiques
+E79.8	oroticurie héréditaire de type 2
+E79.8	déficit en ornithine monophosphate décarboxylase
+E79.8	déficit en orotidine 5-phosphate décarboxylase
+E79.8	déficit en (NADP^+^) dihydrouracile déshydrogénase
+E79.8	déficit en dihydropyrimidine déshydrogénase
+E79.8	déficit en dihydrothymine déshydrogénase
+E79.8	déficit en désoxypyridoxine
+E79.8	pyrimidinémie familiale
+E79.8	thymine-uracilurie héréditaire
+E79.8	sensibilité à la toxicité du fluorouracile
+E79.8	bêta-amino-isobutyricacidurie
+E79.8	défaut de la réparation de l'ADN
+E74.9	trouble du métabolisme des hydrates de carbone
+E74.0	maladie glycogénique
+E74.0	glycogénose
+E74.0	glycogénose, forme hépatique
+E74.0	glycogénose de type I
+E74.0	hépato-néphromégalie glycogénique
+E74.0	déficit en glucose-6-phosphatase
+E74.0	maladie de von Gierke
+E74.0	maladie de Van Creveld
+E74.0	anomalie de transport du glucose-6-phosphate
+E74.0	glycogénose de type III
+E74.0	maladie de Cori
+E74.0	déficit en amylo-1-6-glucosidase
+E74.0	maladie de Forbes
+E74.0	glycogénose de type IV
+E74.0	déficit en 1,4,alpha-glucan 6-alpha-glucosyltransférase
+E74.0	déficit en enzyme branchante
+E74.0	amylopectinose
+E74.0	maladie d'Andersen
+E74.0	glycogénose de type VI
+E74.0	déficit en phosphorylase hépatique
+E74.0	maladie de Hers
+E74.0	glycogénose de type IX
+E74.0	déficit en phophorylase-kinase hépatique
+E74.0	glycogénose de type VIII
+E74.0	glycogénose due à l'inactivité de la phosphorylase
+E74.0	glycogénose due à l'inactivité de la phosphorylase hépatique
+E74.0	glycogénose, forme musculaire
+E74.0	glycogénose de type II
+E74.0	déficit en alpha 1-4 glucosidase
+E74.0	syndrome de Pompe
+E74.0	cardiomégalie glycogénique des nourrissons
+E74.0	maladie de Pompe
+E74.0	cardiomégalie glycogénique
+E74.0	glycogénose de type V
+E74.0	glycogénose par déficit en phosphorylase musculaire
+E74.0	maladie de McArdle
+E74.0	déficit en phosphorylase musculaire
+E74.0	glycogénose de type VII
+E74.0	déficit en phosphofructokinase musculaire
+E74.0	maladie de Tarui
+E74.0	glycogénose de type X
+E74.0	glycogénose due à l'inactivité de la phosphorylase kinase
+E74.0	glycogénose avec diabète phospho-gluco-aminé
+E74.0	glycogénose hépato-rénale avec tubulopathie complexe
+E74.0	glycogénose hépatique avec syndrome de De Toni-Debré-Fanconi
+E74.0	syndrome de Bickel-Fanconi
+E74.2	galactosémie
+E74.2	galactosémie congénitale
+E74.2	galactosémie classique
+E74.2	galactosémie par déficit en galactose-1-phosphate-uridyl-transférase
+E74.2	diabète galactosique
+E74.2	déficit en galactose-1-phosphate-uridyl-transférase
+E74.2	galactosémie par déficit en transférase
+E74.2	galactosurie du nourrisson
+E74.2	maladie du galactose
+E74.2	galactosémie classique homozygote de type Duarte
+E74.2	galactosémie classique homozygote de type Negro
+E74.2	galactosémie classique hétérozygote
+E74.2	galactosémie par déficit en galactokinase
+E74.2	galactosémie type II
+E74.2	déficit en UDP galactose 4-épimérase
+E74.2	déficit en galactose épimérase
+E74.2	galactosémie type III
+E74.2	galactosurie
+E74.1	trouble du fructose
+E74.1	fructosémie
+E74.1	intolérance au fructose
+E74.1	fructosurie
+E74.1	fructosurie héréditaire bénigne
+E74.1	fructosurie essentielle
+E74.1	déficit en fructokinase hépatique
+E74.1	déficit en fructokinase
+E74.1	fructosémie bénigne
+E74.1	fructosémie essentielle
+E74.1	fructosémie congénitale
+E74.1	déficit héréditaire en fructose-1-phosphate aldolase
+E74.1	intolérance héréditaire au fructose
+E74.1	déficit en aldolase B
+E74.1	idiosyncrasie au fructose
+E74.1	déficit en fructose-biphosphatase
+E74.1	déficit en fructose-1,6-diphosphatase
+E74.1	déficit héréditaire en fructose-1,6-phosphatase
+E74.8	trouble du pentose
+E74.8	pentosurie héréditaire bénigne
+E74.8	pentosurie
+E74.8	déficit en xylitol-déshydrogénase
+E74.8	déficit en L-xylulose-réductase
+E74.8	xylosurie
+E74.8	hyperoxalurie primitive
+E74.8	oxalose primitive
+E74.8	hyperoxalurie primitive de type I
+E74.8	acidurie glycolique
+E74.8	déficit en alanine-glyoxylate-aminotransférase
+E74.8	hyperoxalurie primitive de type II
+E74.8	déficit en glyoxylate-réductase
+E74.8	déficit en glycérate-déshydrogénase
+E74.8	acidurie L-glycérique
+E74.8	hyperoxalurie secondaire
+E74.8	hyperoxalurie acquise
+E74.8	hyperoxalurie intestinale
+E74.8	oxalose due à l'ingestion d'antigel
+E88.0	déficit en alpha-amylase pancréatique
+E88.0	déficit en phosphoglycérate mutase musculaire
+E88.0	déficit en phosphoglucomutase
+E88.0	déficit en D-lactate déshydrogénase musculaire
+E88.0	déficit en acide lactique déshydrogénase
+E88.0	déficit en L-lactate déshydrogénase musculaire
+E74.8	trouble du transport des hydrates de carbone
+E74.8	syndrome d'intolérance aux hydrates de carbone
+E74.8	malabsorption acquise de monosaccharides
+E74.8	malabsorption secondaire des monosaccharides
+E74.8	méliturie non glycosurique
+E74.8	méliturie non glucosique
+E74.3	déficit en disaccharidase intestinale
+E74.3	malabsorption des disaccharides
+E74.3	disaccharidurie
+E73.0	déficit congénital en lactase
+E73.0	intolérance congénitale au lactose
+E73.0	malabsorption congénitale du lactose
+E73.0	syndrome d'alactasie congénitale
+E73.0	intolérance aux disaccharides de type II
+E73.0	intolérance gastrogène héréditaire au lactose
+E73.8	intolérance familiale sévère au lactose
+E73.8	lactase intestinale non persistante
+E73.0	déficit isolé en lactase à manifestation tardive
+E73.0	hypolactasie primaire
+E73.0	intolérance aux disaccharides de type III
+E73.8	manifestation tardive de l'intolérance au lactose
+E73.8	intolérance au lactose chez l'enfant sans déficit en lactase
+E73.1	déficit acquis en lactase
+E73.1	intolérance acquise au lactose
+E73.1	intolérance secondaire au lactose
+E73.1	déficit secondaire en lactase
+E73.1	déficit en lactase dans les maladies autres que celles de l'intestin grêle
+E74.8	déficit en sucrase-isomaltase
+E74.8	intolérance congénitale au sucrose
+E74.8	malabsorption congénitale du sucrose
+E74.8	déficit intestinal en a-dextrinase-sucrase
+E74.8	déficit en invertase
+E74.8	intolérance aux disaccharides de type I
+E74.8	malabsorption congénitale du glucose-galactose
+E74.8	intolérance congénitale au glucose-galactose
+E74.8	déficit en alpha, alpha-tréhalase
+E74.8	intolérance au tréhalose
+E74.8	glucosurie rénale
+E74.8	glycosurie rénale
+E74.8	diabète rénal héréditaire
+E74.8	diabète rénal de type A
+E74.8	diabète rénal de type B
+E74.8	diabète rénal de type O
+E74.8	autres anomalies du métabolisme ou du transport des hydrates de carbone
+E74.4	erreur innée du métabolisme du pyruvate
+E74.4	déficit en pyruvate-déshydrogénase
+E74.4	déficit en PDH
+E74.4	ataxie avec acidose lactique de type I
+E74.4	déficit en pyruvate-carboxylase
+E74.4	ataxie avec acidose lactique de type II
+E71.0	déficit en dihydrolipoamide-déshydrogénase
+E71.0	maladie des urines à odeur de sirop d'érable avec acidose lactique
+E71.0	acidose lactique infantile congénitale due à un déficit en lipoamide-déshydrogénase
+E74.4	déficit en carboxykinase phosphoénol pyruvate
+E78.9	trouble du métabolisme des lipides et des lipoprotéines
+E78.9	trouble du métabolisme du cholestérol
+E78.5	hyperlipidémie
+E78.5	hyperlipémie
+E78.1	hyperlipidémie endogène
+E78.1	hyperlipémie endogène
+E78.4	hyperlipidémie exogène
+E78.4	hyperlipémie exogène
+E78.5	hyperlipoprotéinémie
+E78.5	hypercholestérolémie
+E78.2	xanthomatose
+E78.6	hypocholestérolémie
+E78.8	erreur innée du métabolisme des lipoprotéines
+E78.6	déficit familial en lipoprotéines
+E78.6	hypolipoprotéinémie familiale
+E78.6	abêtalipoprotéinémie
+E78.6	maladie de Bassen-Kornzweig
+E78.6	acanthocytose
+E78.6	déficit en apolipoprotéines B
+E78.6	a-bêta-lipoprotéinémie
+E78.6	hypobêtalipoprotéinémie familiale
+E78.6	hypoalphalipoprotéinémie familiale
+E78.6	analphalipoprotéinémie
+E78.6	maladie de Tangier
+E78.6	déficit familial en lipoprotéines de haute densité
+E78.6	déficit familial en lipoprotéines HDL
+E78.6	neuropathie alphalipoprotéinémique
+E78.6	thésaurismose choléstérolique
+E78.1	déficit familial en lipoprotéine-lipase
+E78.1	hyperlipidémie de type 1
+E78.1	syndrome de Buerger-Gruetz
+E78.1	hyperlipémie essentielle primitive
+E78.1	hyperlipémie essentielle idiopathique
+E78.1	syndrome de Bürger et Grütz
+E78.1	xanthomatose par hyperlipémie essentielle
+E78.1	hyperchylomicronémie familiale
+E78.1	hypertriglycéridémie endogène
+E78.1	déficit familial en apolipoprotéine C-II
+E78.1	anapolipoprotéinémie
+E78.1	déficit en apolipoprotéine C-II
+E78.0	hypercholestérolémie familiale
+E78.0	hyperlipoprotéinémie essentielle
+E78.0	hyperlipoprotéinémie, type IIa de Fredrickson
+E78.0	hyperlipidémie, groupe A
+E78.0	hyperbêtalipoprotéinémie familiale
+E78.0	hyperlipoprotéinémie à lipoprotéines de basse densité
+E78.0	hypercholestérolémie essentielle
+E78.0	trouble des récepteurs des lipoprotéines de basse densité
+E78.2	hypercholestérolémie et hypertriglycéridémie mixte
+E78.4	hyperlipidémie mixte familiale
+E78.2	hyperlipoprotéinémie familiale de type III
+E78.2	hyperlipoprotéinémie de type III
+E78.2	hyperlipoprotéinémie de Fredrickson, type III
+E78.2	xanthome tubéro-éruptif
+E78.2	xanthome tubéreux
+E78.2	dysbêtalipoprotéinémie familiale
+E78.4	hypertriglycéridémie familiale
+E78.3	hyperlipoprotéinémie familiale de type V
+E78.3	hyperlipidémie type V
+E78.8	maladie familiale de surcharge en stérols (autre que le cholestérol)
+E75.5	maladie de surcharge en cholestanol
+E75.5	xanthomatose cérébro-tendineuse
+E75.5	cholestrinose cérébro-tendineuse
+E75.5	maladie de van Bogaert-Scherrer-Epstein
+E75.5	bêta-sitostérolémie avec xanthomatose
+E75.5	xanthomatose sitostérolémique
+E75.5	bêta-sitostérolémie
+E75.5	xanthomes disséminés
+E88.8	maladie de Hoffa
+E88.8	lipome arborescent de la synoviale du genou
+E88.8	maladie de Launois-Bensaude
+E88.8	dermato-arthrite lipoïde
+E88.8	réticulo-histiocytose multicentrique
+E78.8	lipoïdo-protéinose de la peau et des muqueuses
+E78.8	maladie de Wiethe
+E78.8	lipoprotéinose de la peau et des muqueuses
+E78.8	maladie d'Urbach-Wiethe
+E78.8	lipidoprotéinose de la peau et des muqueuses
+E77.0	trouble des enzymes lysosomiaux
+E77.9	mucolipidose
+E76.0	mucopolysaccharidose
+E76.0	mucopolysaccharidose, MPS-I
+E76.0	mucopolysaccharidose de type I
+E76.0	déficit en alpha-L-iduronidase
+E76.0	mucopolysaccharidose, MPS-I-H
+E76.0	maladie de Hurler
+E76.0	déficit en alpha-L-iduronidase de type Hurler
+E76.0	gargoylisme
+E76.0	lipochondrodystrophie
+E76.0	syndrome de dysostosis multiplex
+E76.0	syndrome de Hurler-Pfaundler
+E76.0	mucopolysaccharidose, MPS-I-S
+E76.0	maladie de Scheie
+E76.0	déficit en alpha-L-iduronidase de type Scheie
+E76.0	mucopolysaccharidose, MPS-I-H/S
+E76.0	maladie de Hurler-Scheie
+E76.0	déficit en L-iduronidase de type Hurler-Scheie
+E76.1	mucopolysaccharidose, MPS-II
+E76.1	déficit en iduronate-sulfate sulfatase
+E76.1	maladie de Hunter
+E76.1	mucopolysaccharidose de type II
+E76.1	maladie de Hunter, forme sévère
+E76.1	maladie de Hunter, forme légère
+E76.2	maladie de Sanfilippo
+E76.2	mucopolysaccharidose, MPS-III-A
+E76.2	maladie de Sanfilippo de type A
+E76.2	déficit en héparane-sulfate sulfatase
+E76.2	oligophrénie polydystrophique, groupe A
+E76.2	mucopolysaccharidose, MPS-III-B
+E76.2	maladie de Sanfilippo de type B
+E76.2	déficit en alpha-N-acétylglucosaminidase
+E76.2	mucopolysaccharidose, MPS-III-C
+E76.2	maladie de Sanfilippo de type C
+E76.2	déficit en acétyl-CoA: héparane-alpha-D-glucosaminide N-acétyltransférase
+E76.2	oligophrénie polydystrophique, groupe C
+E76.2	mucopolysaccharidose, MPS-III-D
+E76.2	déficit en N-acétylglucosamine-6-sulfatase
+E76.2	maladie de Sanfilippo de type D
+E76.2	maladie de Morquio
+E76.2	kératane sulfaturie
+E76.2	mucopolysaccharidose de type IV
+E76.2	chondrodystrophie atypique
+E76.2	ostéochondrodysplasie de type Morquio
+E76.2	maladie de Brailsford-Morquio
+E76.2	ostéochondrodystrophie familiale
+E76.2	dysostosis enchondralis metaepiphysaria
+E76.2	dystrophie osseuse familiale de Morquio
+E76.2	dysostose enchondrale héréditaire
+E76.2	ostéochondrodystrophie
+E76.2	maladie de Morquio-Ullrich
+E76.2	mucopolysaccharidose, MPS-IV-A
+E76.2	syndrome de Morquio, forme classique
+E76.2	déficit en N-acétyl galactosamine-6-sulfatase
+E76.2	syndrome de Morquio, type A
+E76.2	mucopolysaccharidose, MPS-IV-B
+E76.2	déficit en bêta-galactosidase
+E76.2	syndrome de Morquio, type B
+E76.2	syndrome de Maroteaux-Lamy
+E76.2	mucopolysaccharidose, MPS-VI
+E76.2	déficit en N-acétyl galactosamine-4-sulfatase
+E76.2	nanisme polydystrophique
+E76.2	déficit en arylsulfatase B
+E76.2	dysostose avec élimination exclusive de chondroïtine-sulfate B
+E76.2	syndrome de Maroteaux et Lamy
+E76.2	mucopolysaccharidose CSB
+E76.2	syndrome de Maroteaux-Lamy, forme sévère
+E76.2	syndrome de Maroteaux-Lamy, forme intermédiaire
+E76.2	syndrome de Maroteaux-Lamy, forme légère
+E76.2	mucopolysaccharidose, MPS-VII
+E76.2	syndrome de Sly
+E76.2	déficit en bêta-glucuronidase
+E76.2	muchopolysaccharidose de Sly
+E76.2	mucopolysaccharidose de type VII
+E75.6	maladie de surcharge lipidique
+E75.6	lipidose
+E75.6	lipoïdose
+E75.6	lipidose chimiquement induite
+E77.8	anomalie de stockage des glycoprotéines
+E77.0	maladie des cellules à inclusions
+E77.0	mucolipidose de type II
+E77.0	déficit en N-acétylglucosamine-1-phosphotransférase
+E77.0	pseudo-polydystrophie de Hurler
+E77.0	mucolipidose de type III
+E77.0	polydystrophie de type Hurler
+E77.1	fucosidose
+E77.1	déficit en alpha-fucosidase
+E77.1	déficit en alpha-L-fucosidase
+E77.1	fucosidose infantile
+E77.1	fucosidose infantile fatale
+E77.1	fucosidose de type I
+E77.1	fucosidose juvénile
+E77.1	fucosidose, forme juvénile
+E77.1	fucosidose de type II
+E77.1	fucosidose de l'adulte
+E77.1	fucosidose de l'enfant
+E77.1	mannosidose
+E77.1	déficit en alpha-mannosidase
+E77.1	mannosidose de type I
+E77.1	mannosidose infantile
+E77.1	mannosidose, forme sévère
+E77.1	mannosidose de type II
+E77.1	mannosidose juvénile-adulte
+E77.1	mannosidose, forme légère
+E77.1	aspartyl-glucosaminurie
+E77.1	déficit en aspartyl-glucosaminidase
+E88.0	déficit en alpha-1-antitrypsine
+E88.0	déficit de l'inhibiteur de l'alpha-1-protéinase
+E77.1	sialidose
+E77.1	déficit en neuraminidase
+E77.1	mucolipidose de type I
+E77.1	déficit en sialidase
+E77.1	sialidose normomorphique
+E77.1	syndrome de myoclonie et taches rétiniennes rouge cerise
+E77.1	sialidose de type I
+E77.1	sialidose dysmorphique
+E77.1	sialidose de type II
+E77.1	sialidose dysmorphique, forme juvénile
+E77.1	sialidose dysmorphique, forme infantile
+E77.1	sialidose dysmorphique congénitale
+E77.1	sialidose dysmorphique avec néphropathie
+E77.1	néphrosialidose
+E77.1	déficit combiné en sialidase et en bêta-galactosidase
+E77.1	galactosialidose
+E77.1	syndrome de Goldberg
+E77.1	déficit en neuraminidase-bêta-galactosidase
+E77.1	maladie de Salla
+E77.1	sialurie de type finlandais
+E77.1	maladie de surcharge d'acide sialique, forme infantile sévère
+E77.1	sialurie, forme infantile
+E77.1	sialurie de type français
+E75.5	déficit en lipase acide
+E75.5	maladie de Wolman
+E75.5	lipoïdose familiale primitive avec calcifications surrénales
+E75.5	xanthomatose familiale primitive
+E75.5	déficit en lipase acide lysosomiale
+E75.5	cholestérolose hépatique
+E75.5	déficit en cytochrome-c-oxydase
+E75.5	maladie de surcharge en triglycérides avec ichthyose
+E75.5	syndrome de Chanarin-Miranda
+E75.5	érythrodermie ichtyosiforme avec vacuolisation leucocytaire
+E75.5	maladie de surcharge en graisses neutres avec ichthyose
+E75.5	maladie de surcharge en triglycérides avec ichtyose congénitale
+E75.5	maladie de surcharge en graisses neutres
+E75.5	maladie de Chanarin-Dorfman
+E78.6	déficit congénital en lécithine cholestérol acyl transférase
+E78.6	déficit familial en lécithine cholestérol acyl transférase
+E78.6	déficit en LCAT
+E78.6	maladie de Norum
+E88.8	déficit en triacylglycérol lipase pancréatique
+E88.8	absence congénitale de la lipase pancréatique
+E88.8	déficit isolé en lipase
+E88.8	déficit en colipase pancréatique
+E75.2	histiocytose lipoïdique essentielle
+E75.2	sphingolipidose
+E75.2	déficit en sphingomyélinase
+E75.2	lipidose à sphingomyéline
+E75.2	maladie de Niemann-Pick
+E75.2	sphingomyélinose
+E75.2	maladie de Niemann-Pick de type A
+E75.2	maladie de Niemann-Pick, forme neurologique aiguë
+E75.2	maladie de Niemann-Pick classique
+E75.2	maladie de Niemann-Pick, forme neuroviscérale aiguë
+E75.2	maladie de Niemann-Pick de type B
+E75.2	maladie de Niemann-Pick, forme chronique non neurologique
+E75.2	maladie de Niemann-Pick de type C
+E75.2	maladie de Niemann-Pick de type C, forme aiguë
+E75.2	maladie de Niemann-Pick de type C, forme subaiguë
+E75.2	maladie de Niemann-Pick de type C, forme chronique
+E75.2	maladie de Niemann-Pick de type D
+E75.2	maladie de Niemann-Pick de type Nouvelle-Ecosse
+E75.2	maladie de Niemann-Pick de type E
+E75.2	maladie de Niemann-Pick, forme non neuronopathique de l'adulte
+E75.2	maladie de Gaucher
+E75.2	déficit en glucocérébrosidase
+E75.2	lipoïdose à cérébrosides
+E75.2	glucosylcérébrosidose
+E75.2	lipidose à cérébrosides
+E75.2	maladie de Gaucher, forme chronique non neurologique de l'adulte
+E75.2	maladie de Gaucher de type I
+E75.2	déficit en glucosyl-céramidase, forme chronique
+E75.2	maladie de Gaucher, forme chronique non neurologique juvénile
+E75.2	maladie de Gaucher, forme aiguë neurologique infantile
+E75.2	maladie de Gaucher de type II
+E75.2	déficit en glucosyl-céramidase, forme aiguë
+E75.2	glucosylcérébrosidose, forme aiguë neurologique infantile
+E75.2	maladie de Gaucher, forme juvénile
+E75.2	maladie de Gaucher de type III
+E75.2	déficit en glucosyl-céramidase, forme subaiguë
+E75.2	leucodystrophie à cellules globoïdes, à début précoce
+E75.2	lipoïdose à galactosyl-céramide
+E75.2	maladie de Krabbe
+E75.2	déficit en galactocéréboside bêta-galactosidase
+E75.2	leucodystrophie de Krabbe
+E75.2	leucodystrophie à cellules globoïdes, forme tardive
+E75.2	maladie de Krabbe, forme adulte
+E75.2	leucodystrophie à cellules globoïdes de l'adulte
+E75.2	maladie de Pelizaeus-Merzbacher
+E75.2	leucodystrophie soudanophile de Pelizaeus-Merzbacher
+E75.2	maladie de Pelizaeus-Merzbacher, forme classique
+E75.2	maladie de Pelizaeus-Merzbacher, variante connatale
+E75.2	leucodystrophie
+E75.2	lipogranulomatose disséminée de Farber
+E75.2	déficit en céramidase acide
+E75.2	maladie de Farber
+E75.2	lipogranulomatose disséminée
+E75.2	déficit en acylsphingosine déacylase
+E75.2	leucodystrophie métachromatique infantile familiale
+E75.2	sulfatidose
+E75.2	déficit en arylsulfatase A
+E75.2	maladie de Greenfield
+E75.2	maladie de Scholz-Greenfield
+E75.2	syndrome de Scholz-Bielschowski-Henneberg
+E75.2	maladie de Van Bogaert-Nyssen
+E75.2	déficit sévère en arylsulfatase
+E75.2	leucodystrophie métachromatique congénitale
+E75.2	leucodystrophie métachromatique, forme infantile tardive
+E75.2	leucodystrophie métachromatique, forme juvénile
+E75.2	leucodystrophie métachromatique, forme adulte
+E75.2	leucodystrophie métachromatique sans déficit en arylsulfatase
+E75.2	déficit en arylsulfatse sans leucodystrophie métachromatique
+E75.2	déficit en sphingolipides activateurs de la protéine 1
+E75.2	déficit multiple en sulfatases
+E75.2	mucosulfatidose
+E75.2	sulfatidose juvénile de type Austin
+E75.2	déficit en cérébroside sulfatase
+E75.2	déficit en iduronate-2-sulfatase
+E75.2	maladie de Fabry
+E75.2	thésaurismose lipoïdique héréditaire
+E75.2	thésaurismose lipoïdique
+E75.2	purpura hémorragique nodulaire
+E75.2	déficit en alpha-galactosidase A
+E75.2	angiokeratoma corporis diffusum de Fabry
+E75.2	syndrome cardiovasorénal
+E75.2	syndrome de Ruiter-Pompen-Wyers
+E75.2	maladie de Sweeley-Klionsky
+E75.2	angiokératose de Fabry
+E75.2	déficit en céramide-trihexosidase
+E75.1	gangliosidose
+E75.1	maladie de surcharge en gangliosides
+E75.1	accumulation de gangliosides dans les lysosomes tissulaires nerveux
+E75.1	gangliosidose à GM>1<
+E75.1	déficit en isoenzyme de la bêta-galactosidase
+E75.1	gangliosidose à GM>1< infantile
+E75.1	gangliosidose à GM>1<, type 1
+E75.1	gangliosidose généralisée
+E75.1	lipidose infantile tardive généralisée
+E75.1	déficit en isoenzymes bêta-galactosidase A, B et C
+E75.1	maladie de Norman-Landing
+E75.1	gangliosidose à GM>1< juvénile
+E75.1	gangliosidose à GM>1<, type 2
+E75.1	maladie de Derry
+E75.1	gangliosidose à GM>1< adulte
+E75.1	gangliosidose à GM>1<, type 3
+E75.1	déficit en ganglioside sialidase
+E75.1	mucolipidose de type IV
+E75.0	gangliosidose à GM>2<
+E75.0	déficit en isoenzymes de la bêta-N-acétylhexosaminidase
+E75.0	maladie de Sandhoff
+E75.0	déficit en hexosaminidase A et B
+E75.0	gangliosidose à GM>2<, type 2
+E75.0	maladie de Tay-Sachs
+E75.0	déficit sévère en hexosaminidase A
+E75.0	gangliosidose à GM>2<, type 1
+E75.0	idiotie amaurotique familiale infantile
+E75.0	idiotie amaurotique familiale, forme infantile
+E75.0	maladie de Tay-Sachs, variante AB
+E75.0	déficit en activateur hexosaminidase
+E75.0	gangliosidose à GM>2<, type AB
+E75.0	gangliosidose à GM>2< juvénile
+E75.0	gangliosidose à GM>2<, type 3
+E75.0	gangliosidose à GM>2< chronique
+E75.0	gangliosidose à GM>2< infantile
+E75.4	lipofuchsinose
+E75.4	lipofuchsinose intestinale
+E75.4	syndrome de l'intestin brun
+E75.4	céroïde-lipofuchsinose neuronale
+E75.4	dégénérescence cérébro-maculaire
+E75.4	dystrophie cérébro-maculaire
+E75.4	hérédodégénérescence neuronale lipoïdique rétinienne pigmentaire
+E75.4	céroïde-lipofuchsinose neuronale infantile
+E75.4	maladie de Santavuori-Hagberg
+E75.4	maladie de Santavuori
+E75.4	céroïde-lipofuchsinose neuronale, type infantile finnois
+E75.4	lipidose acide poly-insaturée
+E75.4	céroïde-lipofuchsinose neuronale infantile tardive
+E75.4	idiotie amaurotique de type Jansky-Bielschowski
+E75.4	idiotie amaurotique familiale infantile tardive
+E75.4	idiotie amaurotique de type Dollinger-Bielschowski
+E75.4	syndrome de Dollinger-Bielschowsky
+E75.4	céroïde-lipofuchsinose neuronale juvénile
+E75.4	maladie de Batten-Mayou
+E75.4	maladie de Spielmeyer-Vogt
+E75.4	idiotie amaurotique familiale juvénile
+E75.4	idiotie amaurotique familiale, variante myoclonique
+E75.4	idiotie amaurotique de type Batten-Mayou
+E75.4	céroïde-lipofuchsinose neuronale adulte
+E75.4	maladie de Mayer-Kufs
+E75.4	idiotie amaurotique familiale adulte
+E75.4	idiotie amaurotique familiale tardive
+E75.4	idiotie amaurotique familiale
+E25.9	trouble du métabolisme des stéroïdes
+E25.0	hyperplasie surrénale congénitale
+E25.0	syndrome adréno-génital
+E25.9	virilisme surrénal
+E25.9	syndrome génito-surrénalien
+E25.0	syndrome d'Apert et Gallais
+E25.0	maladie de Wilkins
+E25.0	syndrome de Prader et Gurtner
+E25.0	déficit en cholestérol-desmolase
+E25.0	déficit en 20/22-desmolase
+E25.0	hyperplasie lipoïde des surrénales
+E25.0	syndrome de Biglieri
+E25.0	déficit en 17-hydroxylase
+E25.0	syndrome adréno-génital dû à un déficit en 17-hydroxylase
+E25.0	déficit en 3-bêta-hydroxycorticostéroïde déshydrogénase
+E25.0	déficit en 3-bêta-OH déshydrogénase
+E25.0	syndrome de Bongiovanni
+E25.0	déficit en 21-hydroxylase, forme virilisante
+E25.0	déficit en 21-hydroxylase
+E25.0	hyperplasie surrénale congénitale, forme virilisante
+E25.0	syndrome adréno-génital dû à un déficit en 21-hydroxylase
+E25.0	déficit en 21-hydroxylase, forme légère
+E25.0	déficit en 21-hydroxylase, forme modérée
+E25.0	déficit en 21-hydroxylase, forme sévère
+E25.0	déficit en 21-hydroxylase, forme avec perte de sel
+E25.0	syndrome de Debré-Fibiger
+E25.0	déficit en 11-hydroxylase
+E25.0	hyperplasie surrénale congénitale de type 3
+E25.0	syndrome adréno-génital dû à un déficit en 11-hydroxylase
+E25.0	hyperplasie surrénale congénitale hypertensive
+E25.0	déficit en 18-hydroxylase
+E25.0	déficit en aldostérone dû à un défaut d'enzyme 18-hydroxylase
+E25.0	déficit en corticostérone méthyloxydase de type I
+E25.0	déficit en 18-hydroxycorticostérone déshydrogénase
+E25.0	déficit en aldostérone dû à un déficit en 18-hydroxycorticostérone déshydrogénase
+E25.0	déficit en corticostérone méthyloxydase de type II
+E25.0	déficit en 17-alpha-hydroxyprogestérone aldolase
+E25.0	déficit en stéroïdes 17/20-lyase
+E25.0	pseudo-hermaphrodisme masculin dû à un déficit en 17/20-desmolase testiculaire
+E25.0	déficit en 17-bêta-hydroxystéroïde-déshydrogénase
+E25.0	déficit en 17-bêta-hydroxycorticostéroïde déshydrogénase
+E25.0	déficit en 17-cétostéroïde réductase
+E25.0	déficit en 17-bêta-hydroxystéroïde-oxydoréductase neutre
+E25.0	syndrome d'insensibilité aux androgènes
+E25.0	déficit en 3-oxo-5 alpha-stéroïde delta 4-déshydrogénase
+E25.0	déficit en 5-alpha-réductase
+E34.5	hypospadias périnéo-scrotal pseudo-vaginal
+E34.5	pseudo-hermaphrodisme masculin incomplet familial de type 2
+E34.5	trouble des récepteurs androgéniques
+E34.5	testicule féminisant
+E34.5	syndrome du testicule féminisant
+E34.5	syndrome de Morris
+E34.5	syndrome du testicule non virilisant
+E34.5	testicule féminisant complet
+E34.5	testicule féminisant incomplet
+E34.5	syndrome de Reifenstein
+E34.5	syndrome de Lubs
+E34.5	syndrome de Gilbert-Dreyfus, Sebaoun et Belaisch
+E34.5	syndrome de Rosewater
+E34.5	pseudo-hermaphrodisme masculin incomplet familial de type 1
+E34.5	syndrome de stérilité masculine
+E34.5	syndrome de résistance aux androgènes
+E80.7	anomalie du métabolisme de la bilirubine
+E80.4	ictère hémolytique
+E80.4	hyperbilirubinémie obstructive
+E80.4	ictère par obstruction
+E80.6	hyperbilirubinémie non conjuguée prémenstruelle cyclique
+E80.6	hyperbilirubinémie acquise
+E80.6	anomalie héréditaire du métabolisme de la bilirubine
+E80.4	syndrome de Gilbert
+E80.4	maladie de Gilbert
+E80.4	dysfonctionnement hépatique constitutionnel
+E80.4	hyperbilirubinémie de type indirect bénin
+E80.4	subictère chronique intermittent
+E80.4	cholémie familiale congénitale
+E80.4	syndrome de Meulengracht
+E80.4	cholémie familiale
+E80.4	syndrome d'hyperbilirubinémie chronique, forme atténuée
+E80.5	maladie de Crigler et Najjar
+E80.5	syndrome de Crigler et Najjar de type I
+E80.5	déficit en glycuronyl-transférase
+E80.5	syndrome de Crigler et Najjar de type II
+E80.6	maladie de Dubin-Johnson
+E80.6	ictère de Dubin-Johnson
+E80.6	ictère chronique idiopathique avec foie pigmenté
+E80.6	syndrome de Dubin-Johnson
+E80.6	syndrome de pigmentation hépatique ictérique
+E80.6	syndrome de Rotor, Manahan et Florentin
+E80.6	cholostase intrahépatique progressive
+E80.6	maladie de Byler
+E80.6	cholostase intrahépatique familiale
+E80.6	cholostase intrahépatique fatale
+E80.6	cholestase intra-hépatique des Indiens d'Amérique du Nord
+E80.6	cholestase intra-hépatique récidivante bénigne
+E80.6	cholestase récurrente bénigne
+E80.6	ictère cholestatique récidivant
+E80.6	syndrome d'oedème cholestatique de type Norvégien
+E80.6	lymphoedème héréditaire avec ictère cholestatique
+E80.6	syndrome de Aagenaes
+E80.6	syndrome de lymphoedème cholestatique
+E80.6	cholostase de type Norvégien
+E80.2	trouble du métabolisme de la porphyrine
+E80.2	porphyrie
+E80.2	porphyrinopathie
+E80.0	porphyrie érythropoïétique
+E80.0	porphyrie érythropoïétique congénitale
+E80.0	maladie de Günther
+E80.0	porphyrie photosensible congénitale
+E80.0	porphyrie congénitale
+E80.0	protoporphyrie érythropoïétique
+E80.0	PPE
+E80.0	protoporphyrie érythrohépatique
+E80.0	déficit en ferrochélatase
+E80.0	syndrome de Magnus
+E80.2	porphyrie hépatique
+E80.2	porphyrie intermittente aiguë
+E80.2	pyrroloporphyrie
+E80.2	syndrome de porphyrie aiguë intermittente
+E80.2	déficit en PBG désaminase
+E80.2	déficit en porphobilinogène déaminase
+E80.2	déficit en uroporphyrinogène synthétase
+E80.2	porphyrie suédoise
+E80.2	coproporphyrie héréditaire
+E80.2	syndrome de Berger et Goldberg
+E80.2	déficit en coproporphyrinogène oxydase
+E80.2	porphyrie hépatique de type II
+E80.2	syndrome de Watson
+E80.2	coproporphyrie érythropoïétique
+E80.2	porphyrie variegata
+E80.2	porphyrie génétique Sud-Africaine
+E80.2	protocoproporphyrie
+E80.2	maladie royale
+E80.2	porphyrie mixte
+E80.2	porphyrie de type Chester
+E80.1	porphyrie cutanée tardive
+E80.1	porphyrie symptomatique
+E80.1	porphyrie hépatique cutanée
+E80.1	PCT
+E80.1	porphyrie cutanée symptomatique
+E80.1	porphyrie de type hépato-cutané
+E80.1	urocoproporphyrie
+E80.1	déficit en uroporphyrinogène décarboxylase
+E80.1	porphyrie cutanée tardive familiale
+E80.1	porphyrie cutanée tardive héréditaire
+E80.1	PCT de type II
+E80.1	porphyrie cutanée tardive homozygote
+E80.1	porphyrie hépato-érythropoïétique
+E80.2	porphyrie secondaire
+E80.2	porphyrie toxique
+E80.2	porphyrie d'origine médicamenteuse
+E80.2	pseudo-porphyrie
+E80.2	porphyrinurie
+E80.2	hématoporphyrinurie
+E80.2	uroporphyrinurie
+E80.2	uroporphyrie
+E80.2	coproporphyrinurie
+E80.0	protoporphyrinurie
+E80.2	déficit en porphobilinogène synthase
+E80.2	porphyrie liée à un déficit en ALA déshydratase
+E80.2	déficit en acide delta-aminolévulinique déshydratase
+E80.2	déficit en ALA déshydratase
+E80.2	déficit en delta-aminolévulinate déshydrase
+E80.2	acidurie delta-aminolévulinique héréditaire
+E88.8	anomalie de la cholinestérase sérique
+E88.8	déficit en pseudocholinestérase
+E88.8	paralysie due au suxaméthonium
+E88.8	sensibilité au suxaméthonium
+E85.0	maladie périodique
+E85.0	épanalepsie méditerranéenne
+E85.0	polysérite familiale paroxystique
+E85.0	polysérite familiale récidivante
+E85.0	maladie des Arméniens
+E85.0	fièvre méditerranéenne familiale
+E85.0	monoarthrite aiguë récidivante et paroxysmes abdominaux
+E85.0	amyloïdose
+E85.0	maladie amyloïde
+E85.0	amyloïdose systématisée
+E85.0	amyloïdose type AA
+E85.0	amyloïdose secondaire
+E85.0	amyloïdose systémique réactionnelle
+E85.0	amyloïde de la fièvre méditérranéenne familiale
+E85.0	amyloïdose type AL
+E85.0	amyloïdose primitive
+E85.0	amyloïdose idiopathique
+E85.0	amyloïdose associée au myélome
+E85.0	néphropathie amyloïde
+E85.0	rein lardacé
+E85.0	rein amyloïde
+E85.0	rein cireux
+E85.0	amyloïdose rénale
+E85.1	polyneuropathie amyloïde familiale
+E85.1	amyloïdose type AF
+E85.1	amyloïdose héréditaire
+E85.1	polyneuropathie amyloïde familiale de type VI
+E85.1	polyneuropathie amyloïde familiale, 60 Ala-Thr
+E85.1	polyneuropathie amyloïde familiale des Appalaches
+E85.1	amyloïdose type I
+E85.1	polyneuropathie amyloïde familiale, 30 Met-Val
+E85.1	maladie de Corino Andrade
+E85.1	paramyloïdose de Corino Andrade
+E85.1	neuropathie amyloïde familiale portugaise
+E85.1	neuropathie amyloïde familiale de type I
+E85.1	neuropathie amyloïde portugaise
+E85.1	neuropathie amyloïde héréditaire de type I
+E85.1	neuropathie amyloïde familiale de type Corino Andrade
+E85.1	polyneuropathie amyloïde héréditaire portugaise
+E85.1	polyneuropathie amyloïde familiale de type juif
+E85.1	polyneuropathie amyloïde familiale, 33 Ile-Phe
+E85.1	polyneuropathie amyloïde familiale de type II
+E85.1	polyneuropathie amyloïde familiale, 84 Ser-Ile
+E85.1	maladie de Rukavina
+E85.1	amyloïdose de type Indiana-Maryland
+E85.1	neuropathie amyloïde héréditaire de type II
+E85.1	polyneuropathie amyloïde familiale de type Iowa
+E85.1	amyloïdose de type Iowa
+E85.1	syndrome de Van Allen
+E85.1	neuropathie amyloïde familiale finlandaise
+E85.1	amyloïdose finlandaise
+E85.1	amyloïdose de type Meretoja
+E85.0	amyloïdose viscérale familiale de type Ostertag
+E85.0	néphropathie amyloïde d'Ostertag
+E85.0	amyloïdose type VIII
+E85.0	amyloïdose rénale familiale
+E85.0	amyloïdose de type allemand
+E85.0	néphropathie amyloïde familiale avec urticaire et surdité
+E85.0	syndrome de Mückle et Wells
+E85.0	amyloïdose de Mückle et Wells
+E85.0	cardiomyopathie amyloïde familiale de type danois
+E85.0	cardiopathie amyloïde familiale
+E85.0	amyloïdose danoise
+E85.0	amyloïdose de type danois
+E85.4	amyloïdose localisée
+E85.0	angiopathie amyloïde cérébrale héréditaire de type islandais
+E85.0	amyloïdose de type VI
+E85.0	amyloïdose cérébro-vasculaire autosomique dominante
+E85.0	amyloïdose islandaise
+E85.0	hémorragie cérébrale familiale de type amyloïde
+E85.0	hémorragie cérébrale héréditaire avec amyloïdose
+E85.0	amyloïdose angiopathique cérébrale héréditaire
+E85.0	angiopathie amyloïde cérébrale héréditaire de type hollandais
+E85.4	amyloïdose cérébro-vasculaire
+E85.0	angiopathie amyloïde oculo-lepto-méningée héréditaire
+E85.0	amyloïdose de type VII
+E85.0	amyloïdose de type Ohio
+E85.4	amyloïdose auriculaire isolée
+E85.4+	amyloïdose cutanée type Gutmann-Freudenthal
+E85.4+	amyloïdose de Gutmann-Freudenthal
+E85.4+	amylose lichéniforme
+E85.4+	amylose cutanée
+E85.4+	amyloïdose cutanée
+E85.4+	lichen amyloïde
+E85.4+	amyloïdose cutanée primitive
+E85.4+	amyloïdose de la peau
+E85.4+	amyloïdose type AD
+E85.0+	amyloïdose cutanée localisée primitive dominante
+E85.0+	amyloïdose de type IX
+E85.0+	amyloïdose cutanée familiale
+E85.0+	lichen amyloïde familial
+E85.0+	amyloïdose cutanée dyschromique généralisée familiale
+E85.4+	amyloïdose cutanée bulleuse
+E85.4	dépôt amyloïde oculaire
+E85.4	amyloïdose cornéenne isolée
+E85.4	amyloïdose conjonctivale
+E85.4	dépôts amyloïdes localisés
+E85.4	amyloïdose gingivale
+E85.3	amyloïdose associée à l'hémodialyse
+E85.3	amyloïdose par dépôts de bêta-2-microglobuline
+E85.3	amyloïdose type AH
+E85.8	amyloïdose liée à l'âge
+E85.8	amyloïdose type AS
+E85.8	amyloïdose sénile
+E85.4	amyloïdose cardiaque sénile
+E85.4	amyloïdose cardiaque
+E85.4	amyloïdose type AS par dépôts de transthyrétine
+E85.4	amyloïdose cérébrale sénile
+E85.4	amyloïdose type AS par dépôts de bêta-protéine
+E85.1	polyneuropathie amyloïde
+E85.4	syndrome canalaire dû à l'amyloïde
+E84.9	fibrose kystique
+E84.9	mucoviscidose
+E84.8	maladie fibrokystique du pancréas
+E84.9	fibrose kystique sans iléus méconial
+E84.1+	fibrose kystique avec iléus méconial
+E84.1+	iléus méconial
+E84.1+	iléus méconial du nouveau-né
+E84.1+	occlusion méconiale intestinale de la mucoviscidose
+E84.0	fibrose kystique du poumon
+E84.0	fibrose kystique pulmonaire
+E84.0	mucoviscidose avec atteinte pulmonaire
+E83.3	déficit en phosphatase acide
+E83.3	hypophosphatasie
+E83.3	déficit en phosphatases alcalines
+E83.3	syndrome de Rathbun
+E83.3	hypophosphatasie infantile
+E83.3	hypophosphatasie, forme infantile
+E83.3	hypophosphatasie congénitale
+E83.3	hypophosphatasie foetale
+E83.3	hypophosphatasie de l'enfant
+E83.3	hypophosphatasie, forme juvénile
+E83.3	hypophosphatasie juvénile
+E83.3	hypophosphatasie adulte
+E83.3	hypophosphatasie, forme adulte
+E83.3	hyperphosphatasémie avec maladie osseuse
+E83.3	hyperphosphatasie chronique idiopathique
+E83.3	hyperostose corticale déformante juvénile
+E83.3	syndrome de Bakwin-Eiger
+E83.3	hyperphosphatasie tardive
+E83.3	leontiasis ossea generalisata
+E83.3	hyperostose endostale
+E83.3	hyperostose corticale généralisée
+E83.3	maladie de Van Buchem
+E83.3	hyperphosphatasémie avec retard mental
+E88.0	déficit en entéropeptidase
+E88.0	déficit en entérokinase intestinale
+E88.0	déficit en pseudo-trypsinogène intestinal
+E88.0	déficit en trypsinogène pancréatique
+E88.0	déficit congénital en trypsinogène
+E88.0	déficit en glycérol-kinase
+E88.0	hyperglycérolémie familiale
+E88.0	hyperglycérolémie
+E80.3	acatalasie
+E80.3	maladie de Takahara
+E80.3	acatalasémie
+E78.8	protéinose
+E72.8	éthanolaminose
+E72.8	déficit en éthanolamine kinase
+E72.8	éthanolaminurie
+E83.3	pseudo-hypophosphatasie
+E72.8	syndrome de Rowley-Rosenberg
+E72.0	syndrome de De Toni-Debré-Fanconi
+E72.0	diabète rénal gluco-phospho-aminé
+E72.0	malabsorption tubulaire rénale du glucose et des acides aminés
+E72.0	syndrome de Luder-Sheldon
+E72.0	gluco-amino-phosphaturie avec rachitisme
+E72.0	syndrome de Fanconi
+E72.0+	diabète insipide néphrogénique héréditaire
+E72.0+	diabète insipide néphrogénique familial
+E72.0+	diabète insipide rénal
+E72.0+	diabète insipide résistant à l'hormone antidiurétique
+E72.0+	diabète insipide résistant à l'adiurétine
+E72.0+	diabète insipide pitresso-résistant
+E72.0+	diabète insipide résistant à la vasopressine
+E72.0+	hyposthénurie résistant à la vasopressine
+E72.0+	diabète insipide néphrogénique secondaire
+E72.0+	diabète insipide néphrogénique acquis
+E72.0+	diabète insipide néphrogénique
+E87.6	alcalose hypokaliémique familiale de Gullner
+E87.6	hypopotassémie familiale
+E87.6	syndrome de Gullner
+E87.6	hypokaliémie familiale
+E83.4	hypomagnésémie primitive
+E83.4	hypomagnésiémie primitive
+E83.4	hypomagnésémie rénale familiale isolée
+E83.4	hypomagnésiémie rénale familiale isolée
+E83.8	hypomagnésémie-hypokaliémie familiale
+E83.8	hypomagnésiémie-hypokaliémie familiale
+E83.8	syndrome de Gitelman
+E83.8	hypercalciurie-hypomagnésémie familiale
+E83.8	hypercalciurie-hypomagnésiémie familiale
+E83.4	hypomagnésémie intestinale familiale isolée
+E83.4	hypomagnésiémie intestinale familiale isolée
+E83.4	malabsorption du magnésium
+E72.9	trouble du métabolisme des acides aminés
+E72.9	amino-acidopathie
+E72.9	trouble des acides aminés
+E72.8	déficit en acides aminés
+E72.8	erreur innée du métabolisme des acides aminés
+E70.9	trouble du métabolisme de la phénylalanine
+E70.1	hyperphénylalaninémie
+E70.0	phénylcétonurie classique
+E70.0	phénylcétonurie
+E70.0	maladie de Fölling
+E70.0	déficit en phénylalanine hydroxylase
+E70.0	PCU
+E70.0	idiotie phénylpyruvique
+E70.0	imbécilité phénylpyruvique
+E70.0	oligophrénie phénylpyruvique
+E70.1	hyperphénylalaninémie persistante
+E70.1	hyperphénylalaninémie essentielle
+E70.1	hyperphénylalaninémie de type II
+E70.1	déficit en dihydroptéridine réductase
+E70.1	phénylcétonurie atypique
+E70.1	hyperphénylalaninémie de type IV
+E70.1	phénylcétonurie de type II
+E70.1	défaut de synthèse de la tétrahydrobioptérine
+E70.1	hyperphénylalaninémie de type V
+E70.1	déficit en guanosine triphosphate-cyclohydrolase I
+E70.1	hyperphénylalaninémie avec déficit en néoptérine
+E70.1	déficit en sépiaptérine réductase
+E70.1	déficit en bioptérine
+E70.1	déficit en 7,8-dihydrobioptérine synthétase
+E70.1	hyperphénylalaninémie persistante et tyrosinémie
+E70.1	hyperphénylalaninémie de type VI
+E70.8	trouble du métabolisme du tryptophane
+E70.8	tryptophanurie
+E70.8	tryptophanurie avec nanisme
+E70.8	hydroxykynuréninurie
+E70.8	acidurie xanthurénique
+E70.8	déficit en cynuréninase
+E70.8	indicanurie
+E70.8	malabsorption isolée du tryptophane
+E70.8	malabsorption du tryptophane
+E78.6	syndrome de Hooft
+E78.6	syndrome d'hypolipidémie
+E78.6	hypolipidémie familiale
+E70.2	trouble du métabolisme de la tyrosine
+E70.2	hypertyrosinémie
+E70.2	taux élevé de tyrosine dans le sang
+E70.2	tyrosinose
+E70.2	excès de tyrosine dans les tissus
+E70.2	hypertyrosinémie héréditaire
+E70.2	syndrome de tyrosinémie-tyrosinurie héréditaire
+E70.2	hypertyrosinémie de type Richner-Hanhart
+E70.2	tyrosinémie de type II
+E70.2	syndrome de Richner-Hanhart
+E70.2	hypertyrosinémie héréditaire de type II
+E70.2	kératose palmo-plantaire et dystrophie cornéenne
+E70.2	tyrosinose sans altération hépato-rénale
+E70.2	déficit en tyrosine amino-transférase
+E70.2	maladie de Richner-Hanhart
+E70.2	tyrosinose oculo-cutanée
+E70.2	hypertyrosinémie persistante
+E70.2	déficit en fumarylacétoacétase, forme aiguë
+E70.2	tyrosinémie de type I
+E70.2	tyrosinose subaiguë
+E70.2	déficit en fumarylacétoacétase, forme chronique
+E70.2	tyrosinose chronique
+E70.2	tyrosinémie avec dysfonctionnement hépato-rénal
+E70.2	hypertyrosinémie héréditaire de type I
+E70.2	tyrosinurie
+E70.2	alcaptonurie
+E70.2	homogentisinurie
+E70.2	déficit en homogentisine oxydase
+E70.2	ochronose
+E70.2	ochronose alcaptonurique
+E70.2+	arthrite de l'ochronose
+E70.3	albinisme
+E70.3	albinisme oculo-cutané
+E70.3	albinisme cutanéo-oculaire
+E70.3	albinisme total
+E70.3	albinisme universel
+E70.3	albinisme universel complet
+E70.3	albinisme oculo-cutané tyrosinase-négatif
+E70.3	albinisme oculo-cutané tyrosinase-positif
+E70.3	syndrome d'Hermansky-Pudlak
+E70.3	albinisme avec déficit important en granules denses plaquettaires
+E70.3	albinisme hémorragique
+E70.3	maladie du pool vide
+E70.3	maladie de Chédiak-Steinbrink-Higashi
+E70.3	gigantisme congénital des lysosomes
+E70.3	anomalie de granulation des leucocytes
+E70.3	gigantisme héréditaire des organites cytoplasmiques
+E70.3	maladie de Chédiak-Higashi
+E70.3	syndrome de Chediak-Steinbrinck-Higashi
+E70.3	leucomélanopathie héréditaire
+E70.3	syndrome de Cross
+E70.3	syndrome oculo-cérébral d'hypopigmentation
+E70.3	hypopigmentation et microphtalmie
+E70.3	fibromatose gingivale, hypopigmentation, microphtalmie, oligophrénie et athétose
+E70.3	albinisme oculo-cutané brun
+E70.3	albinisme brun
+E70.3	albinisme rouge
+E70.3	albinisme à peau rouge
+E70.3	albinisme oculo-cutané autosomique dominant
+E70.3	albinisme oculo-cutané jaune
+E70.3	albinisme des Amisch
+E70.3	xantho-albinisme
+E70.3	albinisme jaune
+E70.3	albinisme oculo-cutané avec surdité neurosensorielle
+E70.3	syndrome de Margolis
+E70.3	albinisme oculaire
+E70.3	albinisme oculaire lié à l'X, de type Nettleship
+E70.3	albinisme oculaire récessif autosomique
+E70.3	albinisme total récessif avec surdité
+E70.3	syndrome de Ziprkowski-Adam
+E70.3	albinisme oculaire avec surdité et lentigo
+E70.3	syndrome de Forsius-Eriksson
+E70.3	albinisme oculaire d'Aland
+E70.3	albinoïdisme
+E70.3	albinoïdisme oculo-cutané
+E70.3	albinoïdisme oculo-cutané ponctué
+E70.3	albinisme associé à un déficit immunitaire
+E70.3	syndrome de Griscelli
+E70.3	albinisme partiel
+E70.3	piébaldisme
+E70.3	albinisme partiel avec surdité
+E70.3	syndrome de Woolf
+E70.3	piébaldisme généralisé et surdité nerveuse
+E70.3	syndrome de Tietz-Reed
+E70.3	syndrome de Waardenburg-Klein
+E70.3	syndrome de Van der Hoeve-Halberstsma-Waardenburg
+E70.8	trouble du métabolisme de l'histidine
+E70.8	déficit en histidine ammonio-lyase
+E70.8	histidinémie
+E70.8	déficit en urocanate hydratase
+E70.8	déficit en urocanase
+E70.8	acidurie urocanique
+E70.8	déficit en aminoacyl-histidine dipeptidase
+E70.8	carnosinurie
+E70.8	déficit en carnosinase sérique
+E70.8	déficit en carnosinase
+E70.8	hyper-bêta-carnosinémie
+E70.8	carnosinémie
+E70.8	amino-acidurie imidazolique
+E72.8	trouble du cycle gamma-glutamyl
+E72.8	erreur innée du métabolisme du glutathion
+E72.8	glutathionémie
+E72.8	déficit en glutathion synthase avec 5-oxoprolinurie
+E72.8	5-oxoprolinurie
+E72.8	acidurie pyroglutamique
+E72.8	déficit en glutathion synthase sans 5-oxoprolinurie
+E72.8	déficit en glutathion S-transférase
+E72.8	déficit en glutamate-cystéine ligase
+E72.8	déficit en gamma-glutamyl-cystéine synthétase
+E72.8	déficit en gamma-glutamyl-transférase
+E72.8	déficit en gamma-glutamyl-transpeptidase
+E72.8	glutathioninurie
+E72.8	déficit en 5-oxoprolinase
+E72.8	déficit en pyroglutamate hydrolase
+E72.5	trouble du métabolisme de la proline et de l'hydroxyproline
+E72.5	iminoacidopathie
+E72.5	hyperprolinémie
+E72.5	déficit en proline déshydrogénase
+E72.5	prolinémie de type I
+E72.5	déficit en proline oxydase
+E72.5	déficit en delta'-pyrroline-5-carboxylate déshydrogénase
+E72.5	prolinémie de type II
+E72.5	hyperhydroxyprolinémie
+E72.5	hydroxyprolinémie
+E72.5	déficit en proline dipeptidase
+E72.5	déficit en prolidase avec hyperimidodipeptidurie
+E72.5	déficit en prolidase
+E72.5	iminodipeptidurie
+E72.5	hyperimidodipeptidurie
+E72.5	hyperaminoacidurie dicarboxylique et hyperprolinémie
+E72.5	prolinurie
+E72.5	glycoprolinurie
+E72.5	glycoglycinurie
+E71.3	acidémie pipécolique
+E72.2	trouble du cycle métabolique de l'urée
+E72.4	hyperornithinémie
+E72.4	atrophie circinée de la choroïde et de la rétine
+E72.4	déficit en ornithine-delta-transaminase
+E72.4	déficit en ornithine-oxo-transaminase
+E72.4	déficit en ornithine-amino-transférase
+E72.4	déficit en ornithine-céto-acide-transaminase
+E72.4	ornithinémie avec atrophie circinée
+E72.4	déficit en ornithine-céto-acide transaminase
+E72.2	syndrome d'hyperornithinémie, d'hyperammoniémie et d'homocitrullinurie
+E72.2	hyperammoniémie
+E72.2	hyperammoniémie congénitale de type I
+E72.2	déficit en carbamyl-phosphate synthétase
+E72.2	déficit en carbamyl-phosphate synthétase de type I
+E72.4	déficit en ornithine-carbamyl-transférase
+E72.4	déficit en ornithine-transcarbamylase
+E72.4	déficit en ornithinecarbamyl-transférase
+E72.4	hyperammoniémie de type II
+E72.2	hyperammoniémie de type III
+E72.2	déficit en N-acétylglutamate synthétase
+E72.2	déficit en aminoacide acétyltransférase
+E72.2	déficit congénital en AGA
+E72.2	déficit en N-acétylglutamate transférase
+E72.2	citrullinémie
+E72.2	déficit en arginosuccinate synthétase
+E72.2	déficit en arginosuccinase
+E72.2	déficit en acide arginosuccinique synthétase
+E72.2	citrullinurie
+E72.2	citrullinémie, forme subaiguë
+E72.2	citrullinémie, forme tardive
+E72.2	déficit en argininosuccinate lyase
+E72.2	acidurie argininosuccinique
+E72.2	déficit en arginase
+E72.2	argininémie
+E72.2	hyperargininémie
+E72.3	trouble du métabolisme de la lysine et de l'hydroxylysine
+E72.3	hyperlysinémie
+E72.3	hyperlysinémie persistante
+E72.3	hyperlysinémie persistante sans hyperammoniémie
+E72.3	hyperlysinémie périodique
+E72.3	hyperlysinémie périodique avec hyperammoniémie
+E72.3	hyperlysinurie avec hyperammoniémie
+E72.3	intolérance à la lysine
+E72.3	saccharopinurie
+E72.5	trouble du métabolisme de la glycine
+E72.5	hyperglycinémie
+E72.5	déficit en glycine-déshydrogénase (décarboxylante)
+E72.5	hyperglycinémie non cétosique de type I
+E72.5	déficit en glycine-décarboxylase
+E72.5	déficit en protéine P
+E72.5	déficit en méthyl-transaminase
+E72.5	déficit en protéine T
+E72.5	déficit en tétrahydrofolate méthyl-transaminase
+E72.5	hyperglycinémie non cétosique de type II
+E72.5	déficit en sarcosine-déshydrogénase
+E72.5	hypersarcosinémie
+E72.5	sarcosinurie
+E72.5	sarcosinémie
+E72.5	défaut de déméthylation de la N-méthylglycine
+E72.0	glycinurie rénale familiale
+E72.0	glycinurie rénale de type Kaiser
+E71.2	trouble du métabolisme des acides aminés à chaîne ramifiée et des acides organiques
+E71.2	hyperaminoacidémie à chaîne ramifiée
+E71.1	cétonurie à chaîne ramifiée intermittente
+E71.0	maladie des urines à odeur de sirop d'érable
+E71.0	déficit en alpha cétodécarboxylases des acides aminés ramifiés
+E71.0	cétoacidurie ramifiée
+E71.0	déficit en céto-acides décarboxylase
+E71.0	maladie des urines à odeur de sirop d'érable, forme classique
+E71.0	maladie des urines à odeur de sirop d'érable, forme intermittente
+E71.0	cétoacidurie ramifiée, forme intermittente
+E71.0	maladie des urines à odeur de sirop d'érable, forme légère
+E71.0	maladie des urines à odeur de sirop d'érable, forme répondant à la thiamine
+E71.0	maladie des urines à odeur de sirop d'érable, déficit multiple en déshydrogénase
+E71.0	maladie des urines à odeur de sirop d'érable, avec déficit en E3
+E71.1	hypervalinémie
+E71.1	déficit en valine aminotransférase
+E71.1	valinémie
+E71.1	hyperleucine-isoleucinémie
+E71.1	déficit en isovaléryl-coenzyme A-déshydrogénase
+E71.1	acidémie isovalérique
+E71.1	déficit en isovaléryl CoA déshydrogénase
+E71.1	hyperleucinémie
+E71.1	leucinose
+E71.1	trouble du métabolisme du propionate et du méthylmalonate
+E71.1	acidémie propionique
+E71.1	déficit en propionyl-coenzyme A-carboxylase
+E71.1	acidémie propionique de type I
+E71.1	acidémie propionique de type II
+E71.1	hyperglycinémie avec cétose et leucopénie, types I et II
+E71.1	glycinémie cétosique, types I et II
+E71.1	déficit en biotine-(propionyl CoA carboxylase) ligase
+E71.1	déficit néonatal multiple en carboxylase
+E71.1	déficit néonatal en carboxylases biotine-dépendantes
+E71.1	déficit en holocarboxylase synthétase
+E71.1	acidémie méthylmalonique
+E71.1	déficit en méthylmalonyl CoA mutase
+E71.1	défaut de synthèse de l'adénosylcobalamine
+E71.1	acidurie méthylmalonique de type II
+E71.1	maladie de la cobalamine A
+E71.1	maladie de la cobalamine B
+E71.1	défaut de synthèse de la méthylcobalamine et de l'adénosylcobalamine
+E71.1	maladie de la cobalamine C
+E71.1	maladie de la cobalamine D
+E71.1	acidémie méthylmalonique et homocystinurie héréditaire
+E72.9	acidurie et acidémie organiques non aminées
+E72.3	acidurie glutarique
+E72.3	acidurie glutarique de type 1
+E72.3	acidémie glutarique de type 1
+E72.3	acidurie glutarique de type 2
+E72.3	éthylmalonique-adipicacidurie
+E72.3	acidémie glutarique de type 2
+E72.3	acidurie glutarique liée à l'X, type 2
+E72.3	acidémie glutarique de type 2 A
+E72.3	acidurie glutarique récessive autosomique, type 2
+E72.3	acidémie glutarique de type 2 B
+E72.3	acidurie méthylcrotonique
+E72.3	déficit en méthylcrotonyl-CoA-carboxylase
+E72.3	3-méthylcrotonylglycinurie, type 1
+E72.3	déficit en biotinidase
+E72.3	déficit juvénile multiple en carboxylase
+E72.3	déficit tardif multiple en carboxylase
+E72.3	déficit en hydroxyméthylglutaryl-CoA-lyase
+E72.3	acidurie hydroxyméthylglutarique
+E72.3	déficit en acétyl-coenzyme A: acyltransférase
+E72.3	déficit en 3-cétothiolase
+E72.3	acidurie alpha-méthylacétoacétique
+E72.3	acidémie 3-méthylhydroxybutyrique
+E72.3	déficit en acétyl-CoA-carboxylase
+E72.3	déficit en ACC
+E72.8	trouble héréditaire du métabolisme du folate
+E72.8	déficit en dihydrofolate réductase
+E72.8	déficit en glutamate formiminotransférase
+E72.8	acidurie formiminoglutamique
+E72.8	déficit en méthylène tétrahydrofolate réductase et homocystinurie
+E72.8	déficit en tétrahydrofolate méthyltransférase
+E72.1	trouble du métabolisme des acides aminés soufrés
+E72.1	amino-acidémie sulfurique
+E72.1	trouble de transsulfuration
+E72.1	homocystinurie
+E72.1	déficit en cystathionine bêta-synthase
+E72.1	déficit en 5,10-méthyltétrahydrofolate réductase
+E72.1	déficit en cystathionine gamma-lyase
+E72.1	déficit en gamma-cystathioninase
+E72.1	homocystinémie
+E72.1	cystathioninurie
+E72.1	cystathioninémie
+E72.1	hyperméthioninémie
+E72.1	déficit en méthionine adénosyltransférase hépatique
+E72.1	déficit en méthionine adénosyltransférase
+E72.1	malabsorption familiale de la méthionine
+E72.1	maladie des urines à odeur de houblon
+E72.1	syndrome de malabsorption de la méthionine
+E72.1	maladie de Smith et Strang
+E72.1	maladie du houblon
+E72.1	acidurie hydroxybutyrique congénitale
+E72.1	déficit en 4-hydroxyphénylpyruvate dioxygénase
+E72.1	hawkinsinurie
+E72.1	déficit en sulfite oxydase
+E72.1	sulfocystéinurie
+E72.0	cystinose
+E72.0	syndrome de Lignac
+E72.0	maladie de Lignac-Fanconi
+E72.0	cystinose néphropathique infantile
+E72.0	cystinose néphropathique
+E72.0	cystinose néphropathique juvénile
+E72.0	cystinose intermédiaire
+E72.0	cystinose tardive
+E72.0	cystinose de l'adolescent
+E72.0	cystinose juvénile
+E72.0	cystinose de type II
+E72.0	cystinose bénigne de l'adulte
+E72.0	cystinose bénigne
+E70.8	trouble du métabolisme de la bêta alanine, de la carnosine et de l'homocarnosine
+E70.8	hyper-bêta-alaninémie
+E70.8	hyperalaninémie
+E70.8	déficit en succinate-semialdéhyde déshydrogénase
+E70.8	acidurie gamma-hydroxybutyrique
+E70.8	anomalie métabolique de l'acide gamma-hydroxybutyrique
+E70.8	déficit en homocarnosinase
+E70.8	homocarnosinose
+E71.3	trouble du métabolisme des acides gras
+E71.3	déficit en carnitine musculaire
+E71.3	défaut du transport de la carnitine rénale
+E71.3	déficit en carnitine systémique
+E71.3	déficit en carnitine palmityltransférase musculaire
+E72.0	trouble du transport des acides aminés
+E72.0	anomalie du transport des acides aminés
+E72.0	défaut du transport de l'histidine
+E72.0	histidinurie
+E72.0	hyperhistidinurie
+E72.0	histidinurie rénale
+E72.0	cystinurie
+E72.0	cystinurie de type 1
+E72.0	cystinurie récessive
+E72.0	cystinurie de type 2
+E72.0	cystinurie de type 3
+E72.0	cystinurie isolée
+E72.0	hypercystinurie
+E72.3	intolérance aux protéines lysinuriques
+E72.3	amino-acidurie dibasique
+E72.3	lysinurie congénitale
+E72.3	intolérance aux protéines lysinuriques de type 1
+E72.3	intolérance aux protéines lysinuriques de type 2
+E72.0	défaut du transport des acides aminés neutres
+E72.0	maladie de Hartnup
+E72.0	maladie de Hartnup, type rénal
+E72.0	maladie de Hartnup, type rénal/jéjunal
+E72.8	iminoglycinurie
+E72.8	iminoglycinurie familiale
+E56.9	vitaminose
+E56.9	carence en vitamines
+E56.9	avitaminose
+E56.9	hypovitaminose
+E56.9	maladie par carence en multiples vitamines
+E56.9	hypovitaminose, vitamines multiples
+E67.8	hypervitaminose
+E67.8	maladie par surcharge en vitamines multiples
+E67.8	hypervitaminose, vitamines multiples
+E50.9	carence en vitamine A
+E50.9	hypovitaminose A
+E50.0+	avitaminose A avec xérosis conjonctival
+E50.1+	avitaminose A avec taches de Bitot et xérosis conjonctival
+E50.2+	avitaminose A avec xérosis cornéen
+E50.3+	avitaminose A avec xérosis et ulcération de la cornée
+E50.4+	avitaminose A avec kératomalacie
+E50.5+	avitaminose A avec héméralopie
+E50.7+	xérophtalmie due à l'avitaminose A
+E50.7+	xérophtalmie
+E50.6+	avitaminose A avec cicatrices xérophtalmiques de la cornée
+E50.8+	xérodermie due à l'avitaminose A
+E50.8+	kératose folliculaire due à l'avitaminose A
+E50.7	autres manifestations oculaires de l'avitaminose A
+E67.0	hypervitaminose A
+E67.1	hypercaroténémie
+E67.1	aurantiase cutanée
+E67.1	lycopénémie
+E53.9	carence en vitamine B
+E53.9	carence en complexe vitaminique B
+E67.8	hypervitaminose B
+E51.9	carence en thiamine
+E51.9	carence en vitamine B1
+E51.1	béribéri
+E51.1	shoshin béribéri
+E51.1	béribéri humide
+E51.1	béribéri sec
+E51.2	maladie de Gayet-Wernicke
+E51.2	encéphalopathie de Gayet-Wernicke
+E52	pellagre
+E52	carence en niacine
+E52	carence en nicotinamide
+E52	carence en vitamine antipellagreuse
+E52	carence en vitamine PP
+E52	pellagre alcoolique
+E53.1	carence en vitamine B6, non anémique
+E53.1	carence en pyridoxine
+E53.1	carence en pyridoxamine
+E53.1	carence pyridoxale
+E53.0	ariboflavinose
+E53.0	carence en riboflavine
+E53.0	carence en vitamine B2
+E53.0	syndrome de Gopalan
+E53.8	carence en acide folique, non anémique
+E53.8	carence en vitamine B12, non anémique
+E53.8	carence en cyanocobalamine, non anémique
+E53.9	autres carences en vitamines du groupe B
+E53.8	maladie par carence en biotine
+E54	carence en acide ascorbique
+E54	carence en vitamine C
+E54	scorbut
+E54	scorbut infantile
+E54	maladie de Barlow
+E54	carence en acide ascorbique avec hémorragie
+E54	hémorragie par carence en vitamine C
+E54	purpura par carence en vitamine C
+E54	hémorragie par carence en acide ascorbique
+E56.1	carence en vitamine K
+E56.0	carence en vitamine E
+E67.8	hypervitaminose E
+E56.8	carence en vitamine P
+E55.9	carence en vitamine D
+E55.9	avitaminose D
+E55.0	rachitisme vitamino-dépendant
+E55.0	rachitisme évolutif
+E55.0	rachitisme vitamine D-dépendant
+E55.0	rachitisme vitamino-dépendant de type I
+E55.0	défaut en 1-mono-oxygénase du calcitriol
+E55.0	rachitisme par pseudo-carence en vitamine D
+E55.0	rachitisme vitamino-dépendant de type II
+E55.0	défaut des récepteurs du calcitriol
+E64.3	séquelles du rachitisme (un an et plus)
+E55.0	ostéomalacie
+E67.3	hypervitaminose D
+E87.2	acidocétose de dénutrition
+E74.8	malabsorption acquise des oses
+E74.8	malabsorption secondaire des oses
+E74.3	malabsorption des diholosides
+E74.3	diholosidurie
+E73.0	intolérance aux diholosides de type II
+E73.0	intolérance aux diholorides de type III
+E74.8	intolérance aux diholosides de type I
+E74.8	intolérance congénitale au saccharose
+E74.8	malabsorption congénitale du saccharose
+E75.0	gangliosidose à GM>2< adulte
+E25.0	hyperplasie surrénale congénitale avec hypertension
+E83.3	diabète phosphaté
+E83.3	phosphaturie rénale
+E21.2	pseudohyperparathyroïdisme
+E34.8	sécrétion ectopique de rénine
+E83.5	syndrome du lait et des alcalins
+E83.5	syndrome de Burnett
+E83.5	syndrome du lait et des alcalins, forme aiguë
+E83.5	syndrome du lait et des alcalins, forme subaiguë
+E83.5	syndrome du lait et des alcalins, forme chronique
+E23.2	diabète insipide polydipsique
+E23.2	polydipsie primitive
+E87.1	hyponatrémie avec déplétion du volume du liquide extracellulaire
+E87.1	hyponatrémie de déplétion
+E87.1	hyponatrémie avec expansion du volume du liquide extracellulaire
+E87.1	hyponatrémie de dilution
+E87.1	hyponatrémie avec volume du liquide extracellulaire normal
+E87.1	hyponatrémie normovolémique
+E83.5	syndrome des buveurs de lait
+E23.2	diabète insipide dipsogène
+E34.3	nanisme psychosocial
+E75.2	dystrophie neuro-axonale infantile de Seitelberger
+E75.2	maladie de Seitelberger
+E75.2	idiotie spastique amaurotique axonale
+E75.2	sclérose cérébrale spongieuse de Canavan
+E75.2	dégénérescence spongieuse de la substance blanche du cerveau
+E75.2	maladie de Canavan
+E34.9	maladie du système endocrinien
+E34.9	maladie des glandes endocrines
+E34.9	endocrinopathie
+E34.9	affection des glandes endocrines
+E34.9	affection endocrinienne
+E34.9	trouble endocrinien
+E34.9	trouble hormonal
+E34.9	effets de la supplémentation hormonale
+E34.0	syndrome carcinoïde
+E34.0	sécrétion hormonale par tumeur carcinoïde
+E30.8	anomalie endocrinienne de la puberté
+E23.6	obésité génitale
+E25.8	pseudopuberté
+E30.0	puberté et développement sexuel retardés
+E30.0	puberté rétardée
+E30.1	puberté et dévoloppement sexuel précoces
+E30.1	précocité sexuelle
+E30.1	puberté précoce
+E30.1	précocité sexuelle constitutionnelle
+E30.1	précocité sexuelle cryptogénique
+E30.1	précocité sexuelle idiopathique
+E25.8	puberté isosexuelle précoce
+E25.8	précocité isosexuelle
+E25.8	puberté hétérosexuelle précoce
+E25.8	précocité hétérosexuelle
+E25.8	fausse précocité sexuelle
+E34.3	nanisme
+E34.3	nanosomie
+E34.3	nain primordial
+E34.3	nanisme idiopathique
+E34.3	nanisme essentiel
+E34.3	nanisme constitutionnel
+E34.3	nain
+E34.8	dysfonctionnement de la glande pinéale
+E34.3	nanisme infantile
+E34.8	nanisme sénile
+E34.8	affection endocrinienne gonadique complexe
+E34.8	affection endocrinienne précisée
+E34.4	gigantisme
+E34.4	gigantisme primordial
+E34.4	gigantisme génétique
+E34.4	gigantisme constitutionnel
+E34.4	géant
+E31.9	dysfonctionnements pluriglandulaires et troubles apparentés
+E31.8	autres associations de dysfonctionnements endocriniens
+E31.0	polyendocrinopathie auto-immune
+E31.0	syndrome pluriglandulaire auto-immun
+E31.0	SPA
+E31.0	syndrome polyglandulaire auto-immun
+E31.0	polyendocrinopathie auto-immune, type I
+E31.0	association d'hypoparathyroïdie et de candidose cutanéomuqueuse chronique
+E31.0	syndrome de Whitaker
+E31.0	polyendocrinopathie auto-immune juvénile
+E31.0	hypoparathyroïdie, maladie d'Addison et candidose cutanéomuqueuse chronique
+E31.0	syndrome pluriglandulaire auto-immun, type I
+E31.0	polyendocrinopathie auto-immune, type II
+E31.0	syndrome pluriglandulaire auto-immun, type II
+E31.0	maladie d'Addison, goitre toxique diffus et diabète sucré insulinodépendant
+E31.0	syndrome de Schmidt
+E31.0	insuffisances surrénale et thyroïdienne primitives
+E31.0	maladie d'Addison et goitre lymphomateux de Hashimoto
+E31.8	syndrome déficitaire polyendocrinien
+E31.8	dysfonctionnement pluriglandulaire précisé
+E23.7	maladie de l'hypophyse
+E23.7	affection de l'hypophyse
+E23.7	dyspituitarisme
+E23.6	affection endocrinienne hypophysaire complexe
+E23.6	abcès de l'hypophyse
+E23.6	infarctus de l'hypophyse
+E23.6	infarctus hypophysaire
+E23.6	autre affection de l'hypophyse
+E23.6	maladie du lobe antérieur de l'hypophyse
+E23.6	affection adénohypophysaire
+E23.6	affection antéhypophysaire
+E22.9	hyperpituitarisme
+E22.9	hyperfonctionnement hypophysaire
+E22.8	hyperpituitarisme prépubertaire
+E66.8	obésité d'eau et de sel
+E66.8	obésité spongieuse
+E66.9	obésité paradoxale avec rétention d'eau
+E22.0	hypersécrétion de l'hormone de croissance
+E22.0	hypersomatotropisme
+E34.2	sécrétion ectopique de l'hormone de croissance
+E22.0	acromégalie
+E22.0	syndrome d'hypersécrétion de l'hormone de croissance
+E22.0	hyperéosinophilisme hypophysaire
+E22.0	maladie de Pierre Marie
+E22.0	syndrome d'hypersécrétion de l'hormone somatotrope
+E22.0+	arthropathie associée à l'acromégalie
+E22.0	gigantisme hypophysaire
+E22.0	acromégalo-gigantisme
+E23.3	syndrome de Rénon-Delille
+E23.3	acromégalie et déficit thyroïdo-ovarien
+E22.0	gigantisme dû à un déficit en somatostatine
+E05.8	hyperproduction de thyrotrophine
+E05.8	hypersécrétion de thyrotrophine
+E22.1	hyperprolactinémie idiopathique
+E22.1	hyperprolactinémie
+E22.1	hyperprolactinémie transitoire
+E22.1	hyperprolactinémie passagère
+E22.1	hyperprolactinémie secondaire
+E34.2	sécrétion ectopique de prolactine
+E35.8*	hyperprolactinémie secondaire à des tumeurs hypophysaires sécrétant de la prolactine
+E35.8*	syndrome de Forbes-Albright
+E35.8*	syndrome d'aménorrhée-galactorrhée sans rapport avec une grossesse
+E23.0	syndrome d'aménorrhée-hyperprolactinémie
+E23.0	syndrome d'Argonz-Del Castillo
+E23.0	syndrome d'Ahumada-Del Castillo
+E23.0	syndrome d'aménorrhée-galactorrhée
+E23.0	hypopituitarisme
+E23.0	insuffisance hypophysaire
+E23.0	insuffisance de la sécrétion d'une ou de plusieurs hormones hypophysaires
+E23.0	panhypopituitarisme
+E23.0	hypopituitarisme primaire
+E23.0	maladie de Simmonds
+E23.0	insuffisance de la sécrétion de toutes les hormones hypophysaires
+E23.0	panhypopituitarisme prépubertaire
+E23.0	cachexie hypophysaire
+E89.3	hypopituitarisme secondaire
+E23.0	nécrose hypophysaire
+E23.0	nécrose hypophysaire ischémique du post-partum
+E23.0	hypopituitarisme du post-partum
+E23.0	syndrome de Sheehan
+E23.0	infarctus hypophysaire du post-partum
+E23.0	hémorragie intra-hypophysaire du post-partum
+E23.0	nécrose hypophysaire du post-partum
+E35.8*	hypopituitarisme dû à une tumeur hypophysaire
+E23.6	hypopituitarisme lymphocytaire
+E23.6	hypophysite lymphocytaire
+E23.0	déficit en somatotrophine
+E23.0	déficit en TSH
+E23.0	déficit en hormone de croissance
+E23.0	déficit en hormone thyréotrope
+E23.0	déficit transitoire en somatotrophine
+E23.0	déficit isolé en somatotrophine
+E23.0	déficit isolé en hormone de croissance
+E23.0	nanisme hypophysaire
+E23.0	déficit isolé en hormone de croissance chez l'enfant
+E23.0	nanisme dû à un déficit en hormone somatotrope
+E23.0	nanisme pituitaire
+E34.3	nanisme prébubertaire
+E23.0	nanisme par hypopituitarisme
+E34.3	nanisme atéléiotique
+E34.3	atéléiose, forme sexuée
+E34.3	atéliose
+E34.3	nanisme atéléiotique, forme sexuée
+E34.3	nanisme avec développement normal des caractères sexuels
+E23.0	nanisme hypophysaire idiopathique
+E23.0	nanisme par hypopituitarisme avec caractéristiques sexuelles normales
+E23.0	déficit isolé en somatotrophine, forme autosomique récessive
+E23.0	déficit isolé en hormone de croissance, type I
+E23.0	nanisme hypophysaire, type I
+E23.0	déficit isolé en somatotrophine, forme hyperinsulinémique non familiale
+E34.3	nanisme atéléiotique avec hyperinsulinémie
+E23.0	déficit isolé en somatotrophine, forme autosomique dominante
+E23.0	nanisme atéléiotique sans hypo-insulinisme
+E34.3	anomalie génétique du récepteur de la somatotrophine
+E34.3	nanisme type Laron
+E34.3	nanisme de Laron
+E23.0	nanisme hypophysaire avec taux normal de somatotrophine et taux faible de somatomédine
+E23.0	infantilisme type Lorain
+E23.0	infantilisme type Lorain-Lévi
+E23.0	nanisme par hypopituitarisme avec absence du développement des caractères sexuels
+E23.0	syndrome de Gilford-Burnier
+E23.6	infantilisme du syndrome de Babinski-Fröhlich
+E23.0	infantilisme hypophysaire
+E23.0	chétivisme de Bauer
+E34.3	nanisme, forme asexuée non familiale
+E34.3	nanisme, forme asexuée autosomique récessive
+E34.3	nanisme, forme asexuée liée au chromosome X
+E23.6	nanisme hypophysaire avec petite selle turcique
+E23.6	syndrome de la selle turcique vide
+E23.6	absence familiale de la selle turcique
+E23.6	panhypopituitarisme familial avec anomalie de la selle turcique
+E23.6	syndrome de Ferrier-Stone
+E23.6	nanisme hypophysaire avec selle turcique élargie
+E23.6	élargissement familiale de la selle turcique
+E23.6	immunoglobulinémie avec déficit isolé en somatotrophine
+E23.6	déficit en hormone de croissance avec hypogammaglobulinémie
+E23.6	syndrome de Fleischer
+E23.0	déficit isolé en gonadotrophine
+E23.0	insuffisance isolée en gonadotrophine
+E23.0	hypogonadisme
+E28.3	hypogonadisme féminin
+E29.1	hypogonadisme masculin
+E23.0	hypogonadisme hypogonadotrophique
+E23.0	hypogénitalisme secondaire
+E23.0	hypogonadisme avec anosmie
+E23.0	dysplasie olfacto-génitale
+E23.0	syndrome de Kallmann
+E23.0	syndrome olfacto-génital
+E23.0	syndrome de Georges de Morsier
+E23.0	hypogonadisme hypogonadotrophique féminin
+E23.0	syndrome de Kallmann chez la femme
+E28.3	hypogonadisme hypergonadotrophique féminin
+E28.8	syndrome d'hypogonadisme féminin iatrogène
+E29.8	syndrome d'hypogonadisme masculin iatrogène
+E23.0	déficit isolé en gonadotrophine A
+E23.0	insuffisance isolée de l'hormone folliculostimulante
+E23.0	déficit isolé en FSH
+E23.0	déficit isolé en gonadotrophine B
+E23.0	insuffisance isolée de l'hormone lutéinisante
+E23.0	déficit isolé en LH
+E23.0	syndrome d'eunuchoïdisme fertile
+E23.0	syndrome de l'eunuque fertile
+E23.0	déficit isolé en corticotrophine
+E23.0	déficit isolé en hormone adrénocorticotrope
+E23.0	déficit isolé en corticostimuline
+E23.0	déficit spécifique en hormone corticotrope
+E23.0	déficit isolé en ACTH
+E23.0	déficit isolé en thyrotrophine
+E23.0	déficit isolé en thyréostimuline
+E23.0	déficit isolé en hormone thyréotrope
+E23.0	déficit isolé en thyréolibérine
+E23.0	déficit isolé en protiréline
+E23.0	déficit isolé en hormone de libération de la thyréostimuline
+E23.0	déficit isolé en TRH
+E23.0	déficit isolé en prolactine
+E23.0	déficit isolé en hormone lutéotrope
+E23.0	hypoprolactinémie
+E34.8	déficit isolé en hormone autre que l'hormone de croissance humaine
+E34.8	déficit isolé en hormone autre que la somatotrophine
+E23.6	autres affections du lobe antérieur de l'hypophyse
+E23.6	autres affections antéhypophysaires
+E23.6	autres affections adénohypophysaires
+E23.6	affection du lobe postérieur de l'hypophyse
+E23.6	affection posthypophysaire
+E23.6	affection neurohypophysaire
+E23.2	diabète insipide
+E23.2	diabète insipide neurohypophysaire
+E23.2	diabète insipide neurogène
+E23.2	diabète insipide sensible à la vasopressine
+E23.2	diabète insipide primitif d'origine centrale
+E23.2	diabète insipide hypophysaire
+E23.2	diabète insipide idiopathique
+E23.2	diabète insipide familial
+E23.2	diabète insipide secondaire
+E23.2	syndrome du déficit en vasopressine
+E23.2	diabète insipide secondaire à un déficit en vasopressine
+E22.2	syndrome de sécrétion inappropriée d'hormone antidiurétique
+E22.2	SIHAD
+E22.2	syndrome de Schwartz-Bartter
+E34.2	sécrétion ectopique de l'hormone antidiurétique
+E34.2	sécrétion ectopique de l'ADH
+E23.6	syndrome adiposo-génital
+E23.6	syndrome hypophysaire adiposo-génital
+E23.6	syndrome de Launois-Cléret
+E23.6	syndrome de Babinski-Frölich
+E23.6	autre syndrome d'origine diencéphalo-hypophysaire
+E23.6	autre affection neurohypophysaire
+E89.3	trouble iatrogène de l'hypophyse
+E89.3	hypopituitarisme dû aux hormones
+E89.3	hypopituitarisme dû à l'hypophysectomie
+E89.3	hypopituitarisme dû à la radiothérapie
+E28.9	dysfonction de l'ovaire endocrine
+E28.9	dysfonction ovarienne
+E28.0	hyperoestrogénie
+E28.0	hyperfolliculinie
+E28.0	hyperfolliculinisme
+E28.1	hypersécrétion des androgènes ovariens
+E28.1	syndrome de masculinisation des ovaires
+E28.8	autre hyperfonction ovarienne
+E89.4	insuffisance ovarienne iatrogène
+E89.4	insuffisance ovarienne post-opératoire
+E89.4	syndrome de castration féminine
+E89.4	insuffisance ovarienne après ablation
+E89.4	insuffisance ovarienne post-radiothérapique
+E28.3	insuffisance ovarienne primaire
+E28.8	autre insuffisance ovarienne
+E28.3	syndrome d'insuffisance lutéale
+E28.2	ovaires polykystiques
+E28.2	syndrome des ovaires polykystiques
+E28.2	syndrome de Stein-Leventhal
+E28.2	maladie des ovaires polykystiques
+E28.8	virilisation isosexuelle
+E28.8	hirsutisme féminin
+E28.8	hirsutisme non androgène-dépendant
+E28.8	hirsutisme androgène-dépendant
+E28.8	autres dysfonctionnements des ovaires endocrines
+E28.3	syndrome de l'ovaire résistant aux gonadotrophines
+E30.8	anomalie de la puberté féminine
+E30.1	puberté féminine précoce
+E25.0	pseudo-puberté féminine
+E30.0	puberté féminine retardée
+E29.9	dysfonction du testicule endocrine
+E29.9	dysfonctionnement testiculaire
+E29.9	dysfonction testiculaire
+E29.8	trouble de différenciation sexuelle
+E29.8	troubles de différenciation et du développement testiculaires
+E29.0	hyperfonction testiculaire
+E29.0	hypersécrétion d'hormones testiculaires
+E29.1	hypogonadisme testiculaire
+E29.1	insuffisance testiculaire
+E29.1	hypogonadisme masculin primitif
+E29.1	insuffisance testiculaire primitive
+E29.1	insuffisance primitive des testicules
+E89.5	hypofonctionnement testiculaire iatrogène
+E89.5	hypofonctionnement testiculaire post-opératoire
+E89.5	syndrome de castration masculine
+E89.5	hypofonctionnement testiculaire après ablation
+E89.5	hypofonctionnement testiculaire post-radiothérapique
+E29.1	autre hypofonctionnement testiculaire
+E29.1	biosynthèse défectueuse de la testostérone
+E29.1	biosynthèse défectueuse de l'hormone androgène testiculaire
+E29.1	déficit en androgènes
+E29.1	insuffisance leydigienne chez l'adulte
+E29.1	insuffisance des tubes séminifères chez l'adulte
+E29.8	déficit en hormone antimüllérienne
+E29.1	eunuchoïdisme
+E29.1	gigantisme eunuchoïde
+E29.1	géant eunuchoïde
+E29.8	trouble précisé de dysfonctionnement testiculaire
+E29.8	autre dysfonctionnement testiculaire
+E16.9	maladie du pancréas endocrine
+E16.9	affection des îlots de Langerhans
+E16.9	affection des îlots pancréatiques
+E16.9	affection du pancréas endocrine
+E16.9	hyperplasie des cellules des îlots de Langerhans
+E16.9	nésidioblastose
+E14.9	diabète sucré
+E14.9	diabète sucré sans complication
+E10.9	diabète sucré insulino-dépendant
+E10.9	DSID
+E10.9	diabète sucré type I
+E10.9	diabète sucré insulino-dépendant type IA
+E10.9	diabète sucré insulino-dépendant type IB
+E10.9	diabète sucré auto-immun primitif
+E11.9	diabète sucré type II
+E11.9	diabète non insulinodépendant
+E11.9	diabète sucré non insulino-dépendant
+E11.9	DNID
+E11.9	diabète sucré non insulino-dépendant avec obésité
+E11.9	diabète sucré non insulino-dépendant sans obésité
+E14.9	diabète sucré de la maturité chez un sujet jeune
+E14.9	MODY
+E14.9	diabète sucré autosomique dominant
+E13.9	diabète sucré secondaire
+E12.9	diabète sucré de malnutrition
+E13.9	diabète sur pancréas fibro-lithiasique
+E12.9	diabète sucré par carence protéique
+E13.9	diabète sucré associé à une maladie pancréatique
+E13.9	diabète sucré d'origine hormonale
+E13.9	diabète sucré d'origine médicamenteuse
+E13.9	diabète sucré associé à une anomalie génétique
+E13.9	diabète sucré associé à un défaut de récepteur
+E13.9	diabète sucré associé à une affection non précisée
+E13.9	forme rare de diabète sucré
+E78.2	xanthome diabétique
+E78.2	xanthome éruptif
+E10.9	diabète instable
+E14.8	complication diabétique
+E14.3	oculopathie diabétique
+E14.3	maladie oculaire diabétique
+E14.3	manifestations oculaires du diabète
+E14.4+	neuropathie diabétique
+E14.4+	neuropathie diabétique avec complications neurologiques
+E14.4+	neuropathie motrice proximale symétrique diabétique
+E14.4+	neuropathie motrice proximale asymétrique diabétique
+E14.4+	radiculopathie diabétique
+E14.4+	mononeuropathie diabétique simple
+E14.4+	mononeuropathie diabétique multiple
+E14.4+	polyneuropathie diabétique
+E14.4+	pseudotabès diabétique
+E14.4+	amyotrophie diabétique
+E14.4+	neuropathie diabétique autonome
+E13.9	insulinopathie
+E13.9	diabète sucré dû à une anomalie insulinique
+E16.8	biosynthèse défectueuse de l'insuline
+E16.8	défaut des récepteurs de l'insuline
+E13.6	diabète sucré insulino-résistant et acanthosis nigricans
+E13.7	insulino-résistance extrême avec acanthosis nigricans, hirsutisme et défaut des récepteurs de l'insuline
+E13.7	syndrome de résistance à l'insuline type A
+E13.7	insulino-résistance extrême avec acanthosis nigricans, hirsutisme et auto-anticorps dirigés contre les récepteurs de l'insuline
+E13.7	syndrome de résistance à l'insuline type B
+E88.1	lipodystrophie
+E88.1	dystrophie des tissus adipeux
+E88.1	diabète lipodystrophique
+E88.1	diabète lipoatrophique
+E88.1	lipodystrophie généralisée familiale
+E88.1	diabète lipoatrophique congénital
+E88.1	diabète lipodystrophique familial
+E88.1	syndrome de Berardinelli-Seip
+E88.1	lipodystrophie de Berardinelli
+E88.1	lipodystrophie totale et gigantisme acromégaloïde
+E88.1	lipodystrophie congénitale
+E88.1	syndrome de Lawrence
+E88.1	maladie de Berardinelli
+E88.1	lipodystrophie avec hypertrophie musculaire
+E88.1	lipodystrophie généralisée
+E88.1	syndrome de Berardinelli
+E88.1	lipodystrophie généralisée acquise
+E88.1	diabète lipodystrophique acquis
+E88.1	syndrome de Lawrence acquis
+E88.1	lipodystrophie familiale partielle
+E88.1	syndrome de Köbberling-Dunnigan
+E88.1	lipodystrophie partielle épargnant la face
+E88.1	lipodystrophie partielle acquise
+E88.1	diabète lipodystrophique avec lipoatrophie partielle
+E88.1	maladie de Barraquer-Simons
+E88.1	lipodystrophie progressive
+E34.8	syndrome de Pierre Mauriac
+E34.8	syndrome de diabète juvénile-obésité-hépatomégalie-nanisme
+E34.8	syndrome de diabète sucré et d'hypertrophie du corps pinéal
+E34.8	syndrome de Rabson-Mendenhall
+E34.8	diabètes sucré et insipide avec atrophie optique et surdité
+E34.8	syndrome de Wolfram
+E16.9	hypoinsulinisme
+E14.1	diabète avec acidocétose
+E14.1	acidose diabétique
+E14.1	cétoacidose diabétique
+E14.1	cétose diabétique sans coma
+E14.1	acidose diabétique sans coma
+E14.0	diabète avec coma hyperosmolaire
+E14.0	diabète avec coma hyperosmolaire non cétosique
+E14.0	coma diabétique avec acidocétose
+E14.0	coma diabétique
+E14.0	acidose diabétique avec coma
+E14.0	diabète avec autre coma
+E14.2+	diabète avec complications rénales
+E14.2+	néphropathie diabétique
+E14.2+	glomérulopathie diabétique
+E14.2+	syndrome de Kimmelstiel-Wilson
+E14.2+	glomérulosclérose diabétique nodulaire
+E14.2+	glomérulosclérose diabétique diffuse
+E14.2+	syndrome de néphrose avec diabète
+E14.5+	diabète avec complications vasculaires périphériques
+E14.5+	affections vasculaires périphériques diabétiques
+E14.5+	angiopathie périphérique diabétique
+E14.5	gangrène diabétique
+E13.9	diabète sucré par anticorps antirécepteurs à l'insuline
+E15	coma hypoglycémique
+E15	choc hypoglycémique
+E15	coma insulinique
+E15	hyperinsulinisme iatrogène
+E16.1	hypoglycémie factice
+E16.1	hyperinsulinisme
+E16.1	hyperinsulinisme ectopique
+E16.1	hyperinsulinisme fonctionnel
+E66.8	obésité insulinienne
+E16.1	hyperplasie des cellules bêta des îlots de Langerhans
+E16.2	hypoglycémie
+E16.2	syndrome hypoglycémique
+E16.1	hypoglycémie auto-immune
+E16.1	hypoglycémie du jeûne
+E16.1	hypoglycémie postprandiale idiopathique
+E16.1	hypoglycémie alimentaire idiopathique
+E16.1	hypoglycémie réactive
+E16.1	réaction hypoglycémique
+E16.1	hypoglycémie spontanée
+E16.1	hypoglycémie de l'enfance
+E16.1	hypoglycémie infantile
+E16.1	hypoglycémie cétosique
+E16.1	hypoglycémie provoquée par la leucine
+E16.1	hypoglycémie mixte
+E89.1	hypoinsulinémie post-opératoire
+E89.1	hyperglycémie après pancréatectomie
+E16.3	anomalie de la sécrétion du glucagon
+E16.3	hyperplasie des cellules alpha des îlots de Langerhans avec hypersécrétion de glucagon
+E16.8	déficit en glucagon
+E16.8	résistance au glucagon
+E16.3	syndrome du glucagonome
+E16.4	anomalie de la sécrétion de la gastrine
+E16.4	syndrome de Zollinger-Ellison
+E35.8	syndrome de Verner et Morrison
+E35.8	choléra pancréatique
+E35.8	choléra endocrine
+E16.4	hyperplasie des cellules alpha des îlots de Langerhans avec hypersécrétion de gastrine
+E16.8	anomalie précisée de la sécrétion pancréatique interne
+E16.9	syndrome de Houssay
+E27.9	maladie de la glande surrénale
+E27.9	affection de la glande surrénale
+E27.8	maladie du cortex surrénal
+E27.0	maladie adrénocorticale
+E27.0	maladie corticosurrénale
+E27.8	maladie de la médullosurrénale
+E27.8	affection endocrinienne surrénale complexe
+E24.9	hypercortisolisme
+E24.9	hypersécrétion de cortisol
+E24.9	hypercorticisme
+E35.1	hypercortisolisme dû à une tumeur corticosurrénalienne
+E24.0	hypercorticisme hypophyso-dépendant
+E24.0	maladie de Cushing hypophyso-dépendante
+E24.0	hypersécrétion hypophysaire d'ACTH
+E24.0	basophilisme hypophysaire de Cushing
+E24.0	maladie de Cushing
+E35.1	hypercortisolisme dû à un adénome hypophysaire
+E24.1	syndrome de Nelson
+E24.3	hypercortisolisme dû à une tumeur non hypophysaire
+E24.3	syndrome d'ATCH ectopique
+E24.2	syndrome de Cushing iatrogène
+E24.2	syndrome de Cushing médicamenteux
+E26.9	aldostéronisme
+E26.9	syndrome minéralocorticoïde
+E26.9	hypercorticisme minéralotrope
+E26.9	hyperaldostéronisme
+E26.0	hyperaldostéronisme primaire
+E26.0	syndrome de Conn
+E26.0	aldostéronisme primaire
+E26.0	aldostéronisme dû à une tumeur corticosurrénalienne
+E26.8	hyperaldostéronisme pseudo-primaire
+E26.8	hyperaldostéronisme avec hyperplasie corticosurrénalienne
+E26.8	hyperplasie juxtaglomérulaire avec hyperaldostéronisme secondaire
+E26.8	syndrome de Bartter
+E26.8	hyperaldostéronisme avec hyperplasie nodulaire corticosurrénalienne
+E26.8	hyperaldostéronisme primaire répondant aux glucocorticoïdes
+E26.1	hyperaldostéronisme secondaire
+E34.2	sécrétion ectopique d'aldostérone
+E27.4	hypoaldostéronisme
+E27.8	trouble de l'aldostérone
+E25.8	syndrome adréno-génital féminisant
+E25.8	syndrome adréno-génital masculinisant
+E25.0	syndrome d'Achard-Thiers
+E25.0	diabète des femmes à barbe
+E27.0	hyperfonctionnement surrénalien androgénique bénin acquis
+E27.0	hyperfonctionnement corticosurrénalien
+E27.4	hypofonctionnement corticosurrénalien
+E27.4	hypo-adrénocorticisme
+E27.4	insuffisance surrénale
+E27.4	insuffisance corticosurrénalienne
+E27.4	hypocorticisme
+E27.2	crise aiguë d'insuffisance surrénalienne
+E27.2	crise surrénalienne
+E27.2	crise addisonienne
+E27.1	maladie d'Addison
+E27.1	maladie bronzée
+E27.1	insuffisance corticosurrénalienne chronique
+E27.1	insuffisance corticosurrénalienne primaire
+E27.1	maladie d'Addison d'origine auto-immune
+E27.1	atrophie corticosurrénalienne auto-immune
+E27.1	surrénalite auto-immune
+E27.4	hypocorticisme secondaire
+E27.4	insuffisance corticosurrénalienne secondaire
+E27.1	hypoplasie corticosurrénalienne familiale
+E27.1	maladie d'Addison familiale
+E27.1	hypoplasie corticosurrénalienne cytomégalique familiale
+E27.1	hypofonctionnement corticosurrénalien primaire congénital
+E27.1	maladie d'Addison congénitale
+E71.3	adrénoleucodystrophie
+E71.3	adrénomyéloneuropathie
+E71.3	ALD
+E71.3	maladie de Schilder-Addison
+E71.3	syndrome d'Addison-Schilder
+E71.3	syndrome de Siemerling-Creutzfeldt
+E27.4	absence héréditaire de réponse corticosurrénalienne à la corticotrophine
+E27.4	déficit en glucocorticoïdes avec achalasie
+E27.4	syndrome d'Allgrove
+E27.4	syndrome triple A
+E27.4	addisonisme-achalasie-alacrymie
+E27.4	autre hypofonctionnement corticosurrénalien
+E27.4	insuffisance de la médullosurrénale
+E27.8	hypotension orthostatique hyperadrénergique
+E27.8	hypotension orthostatique hypoadrénergique
+E27.8	déficit en épinéphrine
+E27.5	hyperfonctionnement de la médullosurrénale
+E27.5	hypersécrétion de catécholamine due à un phéochromocytome
+E27.5	sécrétion excessive de catécholamine due à un phéochromocytome
+E27.8	anomalie de la transcortine
+E66.8	syndrome de Mach
+E66.8	syndrome d'oedème cyclique idiopathique
+E27.4	calcification de la glande surrénale
+E27.4	hémorragie de la glande surrénale
+E27.4	hémorragie surrénalienne
+E27.4	infarctus de la glande surrénale
+E27.8	hernie capsulaire du cortex surrénal
+E27.8	cortex surrénal nodulaire
+E27.8	nodule du cortex surrénal
+E27.8	dysfonctionnement surrénalien hypothalamique
+E27.8	affection précisée de la glande surrénale
+E07.9	maladie de la glande thyroïde
+E07.9	affection thyroïdienne
+E07.9	affection de la glande thyroïde
+E83.8	trouble du métabolisme de l'iode
+E07.8	affection endocrinienne thyroïdienne complexe
+E04.9	goitre
+E04.9	hypertrophie thyroïdienne
+E04.9	strume
+E01.2	goitre endémique
+E01.2	goitre myxoedémateux
+E04.0	goitre simple
+E01.2	goitre par carence en iode
+E00.9	goitre sporadique
+E04.9	goitre endothoracique
+E04.9	goitre plongeant
+E04.9	goitre rétrosternal
+E04.9	goitre thoracique
+E04.0	goitre colloïde
+E04.0	goitre gélatineux
+E04.9	goitre adénomateux
+E04.9	goitre hyperplasique
+E04.9	goitre non toxique
+E04.9	goitre nodulaire non toxique
+E04.1	goitre uninodulaire non toxique
+E04.1	nodule thyroïdien
+E04.2	goitre multinodulaire non toxique
+E05.9	hyperthyroïdie
+E05.9	hyperthyréose
+E05.9	hyperthyroïdisme
+E05.9	thyrotoxicose
+E05.9	thyréotoxicose
+E05.8	thyrotoxicose T>3<
+E05.9	thyrotoxicose sans mention de goitre ni d'autres causes
+E05.9	thyréotoxicose sans mention de goitre ni d'autres causes
+E05.5	crise thyréotoxique
+E05.5	crise thyrotoxique
+E05.5	basedowisme aigu
+E05.0	goitre toxique diffus
+E05.0	maladie de Flajani
+E05.0	maladie de Basedow
+E05.0	maladie de Graves
+E05.0	maladie de Parry
+E05.0	goitre exophtalmique
+E05.0	goitre toxique diffus avec exophtalmie
+E05.0	maladie de Basedow avec exophtalmie
+E05.0	maladie de Graves avec exophtalmie
+E05.0	goitre toxique diffus avec exophtalmie et basedowisme aigu
+E05.0	goitre toxique diffus avec exophtalmie et crise thyréotoxique
+E05.0	maladie de Graves avec exophtalmie et crise thyrotoxique
+E05.0	goitre toxique diffus avec crise thyrotoxique
+E05.0	goitre toxique diffus avec crise thyréotoxique
+E05.0	maladie de Parry avec basedowisme aigu
+E05.0	goitre toxique diffus avec basedowisme aigu
+E05.0	maladie de Graves avec crise thyréotoxique
+E05.0	maladie de Basedow avec crise thyrotoxique
+E05.1	goitre uninodulaire toxique
+E05.1	nodule thyroïdien toxique
+E05.1	goitre uninodulaire toxique avec crise thyréotoxique
+E05.1	nodule thyroïdien toxique avec crise thyréotoxique
+E05.1	nodule thyroïdien toxique avec basedowisme aigu
+E05.1	goitre uninodulaire toxique avec basedowisme aigu
+E05.2	goitre multinodulaire toxique
+E05.2	hyperplasie thyroïdienne secondaire
+E05.2	goitre multinodulaire toxique avec crise thyréotoxique
+E05.2	goitre multinodulaire toxique avec crise thyrotoxique
+E05.2	goitre multinodulaire toxique avec basedowisme aigu
+E05.2	goitre nodulaire toxique
+E05.2	adénome thyrotoxique
+E05.2	adénome thyréotoxique
+E05.2	adénome thyroïdien toxique
+E05.2	adénome toxique de Plummer
+E05.2	syndrome de Plummer
+E05.2	goitre nodulaire toxique avec crise thyrotoxique
+E05.2	adénome thyroïdien toxique avec basedowisme aigu
+E05.2	goitre nodulaire toxique avec basedowisme aigu
+E05.2	syndrome de Plummer avec crise thyrotoxique
+E05.4	thyréotoxicose factice
+E05.4	hyperthyroïdie factice
+E05.4	hyperthyroïdie factice due à l'ingestion d'une quantité excessive d'extraits thyroïdiens
+E05.4	thyréotoxicose factice avec crise thyréotoxique
+E05.4	thyréotoxicose factice avec basedowisme aigu
+E05.8	hyperthyroïdie due à une môle hydatiforme
+E05.8	hyperthyroïdie due à une môle hydatiforme avec crise thyrotoxique
+E05.8	hyperthyroïdie due à une môle hydatiforme avec basedowisme aigu
+E05.8	hyperthyroïdie due au goitre ovarien
+E05.3	hyperthyroïdie due à des nodules thyroïdiens ectopiques
+E05.8	hyperthyroïdie iodo-induite
+E05.8	hyperthyroïdisme iodo-induit
+E05.8	phénomène de Jod-Basedow
+E05.8	hyperthyroïdie secondaire à des produits de contraste
+E05.8	hyperthyroïdie secondaire à l'iodure de potassium
+E05.8	hyperthyroïdie secondaire à l'amiodarone
+E06.3	hyperthyroïdie au ccours d'une thyroïdite chronique d'Hashimoto
+E06.3	hashitoxicose
+E05.0	goitre toxique diffus avec myxoedème prétibial
+E05.0	maladie de Basedow avec myxoedème prétibial
+E05.0	maladie de Graves avec myxoedème circonscrit
+E05.0	maladie de Graves avec myxoedème prétibial
+E05.0	maladie de Graves avec myxoedème prétibial et crise thyréotoxique
+E05.0	goitre toxique diffus avec myxoedème prétibial et crise thyrotoxique
+E05.0	maladie de Graves avec myxoedème prétibial et basedowisme aigu
+E05.0	maladie de Basedow avec myxoedème prétibial avec crise thyréotoxique
+E05.0	goitre toxique diffus avec ostéo-arthropathie hypertrophiante pneumique
+E05.0	maladie de Basedow avec ostéo-arthropathie hypertrophiante pneumique
+E05.0	maladie de Graves avec ostéo-arthropathie hypertrophiante pneumique
+E05.0	maladie de Graves avec ostéo-arthropathie hypertrophiante pneumique avec crise thyréotoxique
+E05.0	maladie de Basedow avec ostéo-arthropathie hypertrophiante pneumique avec crise thyrotoxique
+E03.9	hypothyroïdie
+E03.9	hypothyroïdisme
+E03.9	hypothyréose
+E03.9	hypothyroïdie acquise
+E03.8	hypothyroïdie primitive
+E03.9	myxoedème
+E03.8	myxoedème de l'adulte
+E00.1	myxoedème juvénile
+E00.1	myxoedème de l'enfance
+E03.8	hypothyroïdie due à la maladie de Riedel-Tailhefer
+E03.8	hypothyroïdie due à une thyroïdite ligneuse diffuse
+E03.8	hypothyroïdie secondaire
+E02	hypothyroïdie par carence inapparente en iode
+E03.8	hypothyroïdie sévère
+E03.9	obésité hypothyroïdienne
+E03.5	coma myxoedémateux
+E89.0	hypothyroïdie après thérapie à l'iode radioactif
+E89.0	hypothyroïdie après radiothérapie externe
+E89.0	hypothyroïdie post-opératoire
+E89.0	hypothyroïdie après chirurgie
+E03.8	hypothyroïdie transitoire
+E03.8	hypothyroïdie due à une maladie infiltrante
+E03.8	hypothyroïdite due à une cystinose
+E03.8	hypothyroïdite due à une amyloïdose
+E03.8	hypothyroïdie due à une sarcoïdose
+E03.8	hypothyroïdie due à un scléroedème
+E03.8	hypothyroïdie centrale
+E03.8	hypothyroïdie secondaire par insuffisance hypophysaire
+E03.8	hypothyroïdie hypothyréotrope
+E03.8	hypothyroïdie secondaire par insuffisance hypothalamique
+E03.8	hypothyroïdie due à une carence en TRH
+E03.2	hypothyroïdie iatrogène
+E03.2	hypothyroïdie par surcharge iodée
+E03.2	hypothyroïdie due à des médicaments
+E03.2	hypothyroïdie médicamenteuse
+E03.2	hypothyroïdie due à des aliments
+E04.8	syndrome goitreux et calcification intrathyroïdienne
+E04.8	goitre avec calcification intrathyroïdienne
+E07.1	goitre dû à un trouble de l'hormonosynthèse avec perte d'iode
+E03.8	diminution transitoire de la production d'hormones thyroïdiennes
+E03.8	diminution de la production d'hormones thyroïdiennes au cours d'une maladie
+E03.8	diminution transitoire de la production de T>3<
+E05.8	diminution transitoire de la production de T>4<
+E06.9	thyroïdite
+E06.9	thyroïdite infectieuse
+E06.9	thyroïdite virale
+E06.0	thyroïdite aiguë suppurée
+E06.0	thyroïdite pyogène
+E06.0	abcès de la glande thyroïde
+E06.1	thyroïdite subaiguë
+E06.1	thyroïdite à cellules géantes
+E06.1	thyroïdite granulomateuse
+E06.1	thyroïdite subaiguë de de Quervain
+E06.1	thyroïdite pseudo-tuberculeuse
+E06.3	thyroïdite auto-immune
+E06.3	thyroïdite chronique de Hashimoto
+E06.3	maladie de Hashimoto
+E06.3	struma lymphomatosa
+E06.3	thyroïdite chronique lymphocytaire auto-immune
+E06.3	goitre lymphomateux
+E06.3	thyroïdite auto-immune fibreuse
+E06.3	thyroïdite fibreuse non invasive
+E06.3	thyroïdite chronique, variante fibreuse
+E06.3	thyroïdite chronique de Hashimoto, variante fibreuse
+E03.4	hypothyroïdie atrophique idiopathique
+E03.4	myxoedème spontané de l'adulte
+E03.4	thyroïdite atrophique
+E03.4	myxoedème atrophique idiopathique
+E03.4	maladie de Gull
+E06.3	thyroïdite auto-immune avec hyperthyroïdie spontanément résolutive et/ou hypothyroïdie transitoire
+E06.3	thyroïdite subaiguë atypique
+E06.3	thyroïdite auto-immune subaiguë
+E06.3	thyroïdite silencieuse
+E06.3	thyroïdite lymphocytaire subaiguë
+E06.5	thyroïdite chronique
+E06.9	thyroïdite focale
+E06.5	maladie de Riedel-Tailhefer
+E06.5	thyroïdite cancériforme de Tailhefer
+E06.5	thyroïdite ligneuse scléreuse
+E06.5	thyroïdite chronique de Riedel
+E06.5	thyroïdite ligneuse diffuse
+E06.5	strumite ligneuse
+E06.5	thyroïdite fibreuse
+E06.5	thyroïdite suppurée chronique
+E06.5	thyroïdite non suppurée chronique
+E06.4	thyroïdite iatrogène
+E03.4	hypoplasie de la glande thyroïde
+E03.4	atrophie du corps thyroïde
+E04.2	kyste de la glande thyroïde
+E07.8	hémorragie de la glande thyroïde
+E07.8	hémorragie du corps thyroïde
+E07.8	infarctus de la glande thyroïde
+E07.0	hypersécrétion de calcitonine
+E07.0	hypersécrétion de thyrocalcitonine
+E34.2	sécrétion ectopique de calcitonine
+E07.9	maladie métabolique héréditaire de la glande thyroïde
+E03.1	hypothyroïdie due à un trouble de l'hormonosynthèse thyroïdienne
+E03.1	hypothyroïdie secondaire à un trouble de l'hormonosynthèse thyroïdienne
+E03.1	anomalie du transport des iodures
+E03.1	hypothyroïdie due à un défaut de concentration des iodures
+E03.1	hypothyroïdie due à un défaut du transport des iodures
+E03.1	trouble génétique de l'hormonosynthèse thyroïdienne, type 1
+E03.1	anomalie du stockage des iodures
+E03.1	anomalie de l'oxydation des iodures
+E03.1	hypothyroïdie due à une anomalie de l'organification de l'iode, type 1
+E03.1	anomalie de l'organification de l'iode, type 1
+E03.1	trouble génétique de l'hormonosynthèse thyroïdienne, type 2 A
+E03.1	anomalie de l'organification hormonale thyroïdienne, type 2 A
+E03.1	activité iodo-péroxydasique défectueuse
+E07.1	syndrome de Pendred
+E07.1	hypothyroïdie avec surdité de perception
+E07.1	trouble génétique de l'hormonosynthèse thyroïdienne, type 2 B
+E07.1	anomalie de l'organification hormonale thyroïdienne, type 2 B
+E07.8	anomalie de la synthèse de la thyroglobuline
+E07.8	hypothyroïdie due à un trouble de la synthèse de la thyroglobuline
+E07.8	trouble génétique de l'hormonosynthèse thyroïdienne, type 5
+E07.8	trouble de couplage des iodotyrosines
+E07.8	trouble de couplage hormonal thyroïdien congénital
+E07.8	trouble de couplage des hormones thyroïdiennes
+E07.8	trouble génétique de l'hormonosynthèse thyroïdienne, type 3
+E07.8	anomalie de la protéolyse de la thyroglobuline
+E07.8	anomalie de désiodation de la iodotyrosine
+E07.8	trouble génétique de l'hormonogenèse thyroïdienne, type 4
+E07.8	hypothyroïdie due à une anomalie de la iodotyrosine désiodase
+E07.8	déficit en iodotyrosine désiodase
+E07.8	déficit en désiodase
+E07.8	déficit en iodotyrosine déshalogénase
+E07.8	anomalie du transport de la thyroxine
+E07.8	absence de globuline liant la thyroxine, liée au chromosome X
+E07.8	réduction de globuline liant la thyroxine, liée au chromosome X
+E07.8	excès de globuline liant la thyroxine, lié au chromosome X
+E07.8	excès de transthyrétine, à transmission autosomique dominante
+E07.8	excès de préalbumine liant la thyroxine, à transmission autosomique dominante
+E07.8	forme variante de globuline liant la thyroxine, liée au chromosome X
+E07.8	forme variante de transthyrétine, à transmission autosomique
+E07.8	forme variante d'albumine, à transmission autosomique dominante
+E07.8	analbuminémie à transmission autosomique dominante
+E07.8	anomalie du transport de la thyroxine dans la membrane plasmatique
+E07.8	anomalie de la réponse hormonale thyroïdienne
+E07.8	syndrome de résistance à l'hormone thyréotrope
+E07.8	absence de réponse congénitale à la thyrotropine
+E07.8	hypothyroïdie due à une insensibilité thyroïdienne à la TSH
+E07.8	résistance générale à la thyrotropine
+E07.8	résistance à la thyrotropine
+E07.8	absence de réponse de la glande thyroïde à la thyrotropine
+E07.8	résistance à la TSH
+E07.8	résistance à l'hormone thyréotrope
+E07.8	absence de réponse à l'hormone thyréotrope
+E07.8	résistance à la thyrotrophine
+E07.8	syndrome de Refetoff
+E21.5	maladie des glandes parathyroïdes
+E21.5	affection des glandes parathyroïdes
+E21.3	hyperparathyroïdie
+E21.0	hyperparathyroïdie primaire
+E21.0	hyperplasie de la glande parathyroïde
+E21.0	hyperplasie à cellules primaires eau de roche
+E83.5	hypercalcémie familiale bénigne
+E83.5	hypercalcémie hypocalciurique familiale
+E21.1	hyperparathyroïdie secondaire
+E21.1	hyperparathyroïdie due à une carence en vitamine D
+E21.1	hyperparathyroïdie due à 1,25 (0H)>2<D>3<
+E21.1	hyperparathyroïdie due à une thérapie au lithium
+E21.1	hypercalcémie secondaire à un traitement au lithium
+E21.1	hypercalcémie due au lithium
+E83.5	hypercalcémie due à une maladie granulomateuse
+E83.5	hypercalcémie due à une sarcoïdose
+E83.5	hypercalcémie due à une hyperthyroïdie
+E83.5	hypercalcémie due à une immobilisation
+E83.5	hypercalcémie d'immobilisation
+E83.5	hypercalcémie due à un médicament
+E83.5	hypercalcémie médicamenteuse
+E83.5	hypercalcémie due à un diurétique thiazidique et à la vitamine A
+E21.1	hyperparathyroïdie due à une malabsorption intestinale
+E83.5	hypercalcémie associée à une dialyse chronique
+E21.2	hyperparathyroïdie tertiaire
+E34.2	hyperparathyroïdie ectopique
+E34.2	production ectopique de parathormone
+E83.5	hypercalcémie humorale maligne
+E83.5	HHM
+E83.5	hypercalcémie des maladies malignes
+E21.0	ostéite fibrokystique généralisée
+E21.0	tumeur brune des os
+E21.0	maladie osseuse de von Recklinghausen
+E21.0	ostéose fibrokystique
+E21.0	ostéodystrophie fibreuse
+E21.0	ostéose parathyroïdienne
+E20.9	hypoparathyroïdie
+E20.9	insuffisance de l'hormone parathyroïdienne
+E20.9	déficit en parathyrine
+E20.9	déficit en parathormone
+E20.9	tétanie hypocalcémique parathyroïdienne
+E20.9	tétanie parathyroïdienne
+E89.2	hypoparathyroïdie après thyroïdectomie
+E89.2	hypoparathyroïdie transitoire
+E20.0	hypoparathyroïdie idiopathique
+E20.0	absence de l'hormone parathyroïdienne
+E20.0	absence de parathormone
+E20.8	hypoparathyroïdie auto-immune
+E20.8	hypoparathyroïdie néonatale persistante isolée
+E20.8	hypoparathyroïdie tardive isolée
+E20.1	pseudohypoparathyroïdie
+E20.1	tétanie chronique multidystrophique d'Albright
+E20.1	syndrome d'Albright
+E20.1	pseudohypoparathyroïdie familiale
+E20.1	tétanie chronique hypophysaire
+E20.1	ostéodystrophie héréditaire d'Albright
+E20.1	pseudohypoparathyroïdie, type I A
+E20.1	ostéodystrophie héréditaire d'Albright classique
+E20.1	pseudohypoparathyroïdie, type I B
+E20.1	pseudohypoparathyroïdie, type II
+E20.1	pseudohypoparathyroïdie normocalcémique
+E20.1	pseudo-pseudohypoparathyroïdie
+E20.1	ostéodystrophie héréditaire d'Albright, type II
+E55.0	rachitisme
+E55.0	rachitisme calcipénique
+E55.0	rachitisme phosphopénique
+E55.0	nain rachitique
+E55.0	rachitisme héréditaire vitaminodépendant
+E55.0	rachitisme héréditaire vitaminodépendant, type I
+E55.9	pseudo-carence en vitamine D, type I
+E55.9	carence autosomique récessive en vitamine D, type I
+E55.9	carence sélective héréditaire en 1 alpha, 25(OH)>2< D
+E55.0	carence autosomique récessive en vitamine D, type II
+E55.0	résistance héréditaire généralisée à 1 alpha, 25(OH)>2< D
+E23.3	syndrome hypothalamique
+E23.3	syndrome infundibulaire
+E23.3	syndrome infundibulo-tubérien
+E23.3	syndrome infundibulo-hypophysaire
+E23.3	syndrome hypothalamo-hypophysaire
+E23.3	syndrome hypophyso-tubérien
+E23.3	trouble du système nerveux central affectant la régulation hydrique
+E87.1	hyponatrémie cérébrale
+E87.0	hypernatrémie cérébrale
+E87.8	trouble de la régulation neuro-métabolique
+E66.8	obésité hypothalamique
+E23.3	pseudopuberté hypothalamique
+E23.3	syndrome d'hyperthermie-hyperphagie-hypothyroïdie
+E23.3	syndrome hypothalamique post-infectieux
+E23.6	syndrome de Grahmann
+E23.6	syndrome de Engel-Aring
+E23.6	syndrome diencéphalo-hypophysaire
+E23.6	syndrome diencéphalique de l'enfance
+E30.1	puberté précoce constitutionnelle
+E30.1	puberté précoce cryptogénique
+E30.1	puberté précoce idiopathique
+E25.8	fausse puberté précoce
+E34.4	géant primordial
+E28.9	dysendocrinie ovarienne
+E29.9	dysendocrinie testiculaire
+E26.8	hyperaldostéronisme pseudo-primitif
+E26.8	hyperaldostéronisme primitif répondant aux glucocorticoïdes
+E27.8	hypotension orthostatique sympathicotonique
+E28.8	hypotension orthostatique asympathicotonique
+E27.8	déficit en adrénaline
+E27.8	nodule corticosurrénalien
+E75.6	syndrome des histiocytes bleu-de-mer
+E32.9	maladie du thymus
+E32.9	affection du thymus
+E32.0	hypertrophie du thymus
+E32.0	défaut d'involution du thymus
+E32.0	hyperplasie persistante du thymus
+E32.1	abcès du thymus
+E32.8	hémorragie du thymus
+E32.8	hémorragie thymique
+E32.8	atrophie du thymus
+E32.8	kyste du thymus

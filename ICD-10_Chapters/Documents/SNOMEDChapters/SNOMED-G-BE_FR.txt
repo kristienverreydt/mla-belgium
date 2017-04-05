@@ -1,0 +1,1248 @@
+G72.8	myopathie éosinophile
+G99.2*	spondylose avec myélopathie
+G99.2*	spondylarthrose avec myélopathie
+G99.2*	compression de la moelle épinière due à une spondylarthrose
+G99.2*	cervicarthrose avec myélopathie
+G99.2*	compression de la moelle épinière cervicale
+G99.2*	compression de la moelle épinière cervicale due à une spondylarthrose
+G99.2*	syndrome de compression de l'artère spinale antérieure
+G99.2*	syndrome de compression de l'artère vertébrale
+G99.2*	spondylarthrose dorsale avec myélopathie
+G99.2*	compression de la moelle épinière dorsale due à une spondylarthrose
+G99.2*	spondylarthrose lombaire avec myélopathie
+G99.2*	compression de la moelle épinière lombaire due à une spondylarthrose
+G55.1*	névrite ou radiculite due à une hernie discale
+G55.1*	névrite ou radiculite due à une rupture d'un disque intervertébral
+G55.1*	névrite brachiale ou radiculite due à une hernie d'un disque intervertébral cercival
+G55.1*	névrite brachiale ou radiculite due à une rupture d'un disque intervertébral cervical
+G55.1*	lumbago ou sciatique dû à une hernie d'un disque intervertébral lombaire
+G55.1*	névrite ou radiculite due à une hernie d'un disque intervertébral lombaire
+G55.1*	névrite ou radiculite due à une rupture d'un disque intervertébral lombaire
+G99.2*	atteinte d'un disque intervertébral avec myélopathie
+G99.2*	atteinte d'un disque intervertébral de la région cervicale avec myélopathie
+G99.2*	atteinte d'un disque intervertébral de la région dorsale avec myélopathie
+G99.2*	atteinte d'un disque intervertébral de la région lombaire avec myélopathie
+G54.0	syndrome de la côte cervicale
+G54.0	syndrome de Naffziger
+G54.0	syndrome du scalène antérieur
+G54.0	syndrome du défilé costo-claviculaire diffus
+G54.0	syndrome du scalène antérieur diffus
+G45.9	ischémie cérébrale transitoire
+G45.9	accident ischémique cérébral transitoire
+G45.9	ischémie spasmodique cérébrale
+G45.9	AIT
+G45.9	accident ischémique cérébral régressif
+G45.9	AICR
+G45.9	spasme des artères cérébrales
+G45.9	spasme artériel cérébral
+G45.0	syndrome vertébro-basilaire
+G45.0	insuffisance vertébro-basilaire
+G46.3*	syndrome rétro-olivaire de Déjerine
+G46.3*	syndrome de Wallenberg
+G95.1	syndrome de l'artère spinale antérieure
+G95.1	ramollissement médullaire antérieur
+G95.1	syndrome Préobraschenski
+G45.0	syndrome de l'artère vertébrale
+G45.8	syndrome de la sous-clavière voleuse
+G46.3*	ischémie du tronc cérébral
+G46.3*	infarctus du tronc cérébral
+G46.4*	infarctus cérébelleux
+G31.0	atrophie granuleuse artériopathique du cortex cérébral
+G08	thrombophlébite d'une veine cérébrale
+G45.8	vol sous-clavier
+G11.3	syndrome d'ataxie-télangiectasie
+G11.3	syndrome de Louis-Bar
+G71.1	dystrophie myopathique myotonique de Steinert
+G71.1	maladie de Steinert
+G71.1	dystrophie myotonique
+G90.1	dysautonomie familiale
+G90.1	neuropathie sensitive héréditaire dominante, type III
+G90.1	syndrome de Riley-Day
+G83.8	parésie du palais
+G83.8	parésie palatine
+G90.8	neuropathie du système nerveux autonome de l'intestin
+G90.8	affection neurovégétative de l'intestin
+G72.3	paralysie périodique familiale
+G72.3	myoplégie familiale
+G72.3	myotonie périodique
+G72.3	maladie de Westphal
+G72.3	paralysie simple intermittente
+G72.3	paralysie périodique de type I
+G72.3	paralysie périodique hypokaliémique familiale
+G72.3	paralysie périodique hypokaliémique
+G72.3	paralysie périodique hyperkaliémique
+G72.3	maladie de Gamstorp
+G72.3	paralysie périodique de type II
+G72.3	adynamie épisodique héréditaire
+G72.3	paralysie périodique normokaliémique familiale
+G72.3	paralysie périodique familiale avec kaliémie normale
+G72.3	paralysie périodique normokaliémique
+G72.3	paralysie périodique de type III
+G72.3	paralysie périodique thyrotoxique
+G72.3	paralysie périodique de Hashimoto
+G72.3	paralysie périodique secondaire
+G60.1	maladie de surcharge en acide phytanique
+G60.1	maladie de Refsum
+G60.1	maladie de Refsum-Thiébaut
+G60.1	hérédopathie ataxique polynévritique
+G60.1	syndrome de Shy-Gonatas
+G92	encéphalopathie des dialysés
+G92	encéphalopathie dialytique
+G30.9	maladie d'Alzheimer
+G47.0	insomnie liée à un facteur organique connu
+G47.1	hypersomnie liée à un facteur organique connu
+G47.3	insomnie avec apnée du sommeil
+G47.3	hypersomnie avec apnée du sommeil
+G47.4	narcolepsie
+G47.4	syndrome de Gélineau
+G47.4	cataplexie
+G47.8	syndrome de Kleine-Levin
+G47.3	trouble du sommeil lié à la respiration
+G47.3	syndrome d'apnée obstructive du sommeil
+G47.3	syndrome d'apnée du sommeil central
+G47.3	syndrome d'hypoventilation alvéolaire centrale
+G25.1	troubles des mouvements induits par un médicament
+G25.1	tremblement d'attitude induit par un médicament
+G24.0	dyskinésie induite par un médicament
+G24.0	dyskinésie médicamenteuse
+G24.0	dyskinésie tardive
+G24.0	dyskinésie médicamenteuse, à début aigu
+G21.0	parkinsonisme induit par les neuroleptiques
+G21.0	syndrome malin des neuroleptiques
+G24.0	dystonie aiguë induite par les neuroleptiques
+G21.1	akathisie aiguë induite par les neuroleptiques
+G24.0	dyskinésie tardive induite par les neuroleptiques
+G96.9	maladie du système nerveux central
+G96.9	maladie du cerveau et de la moelle épinière
+G96.9	encéphalo-myélopathie
+G96.9	encéphalomyélopathie
+G83.9	syndrome pyramidal
+G93.9	affection du cerveau
+G93.4	leucoencéphalopathie
+G93.4	atteinte de la substance blanche cérébrale
+G93.8	polioencéphalopathie
+G93.8	atteinte de la substance grise de l'encéphale
+G93.9	lésion cérébrale
+G93.8	masse intracrânienne
+G93.8	lésion intracrânienne
+G93.6	oedème cérébral
+G93.6	oedème du cerveau
+G93.6	tuméfaction intracrânienne
+G93.9	lésion intracrânienne localisée
+G96.8	déficience du système nerveux central
+G96.8	déficience du SNC
+G96.8	déficience neurologique
+G93.8	maladie du tronc cérébral
+G93.8	affection du tronc cérébral
+G93.8	syndrome mésencéphalique
+G93.8	affection du cerveau moyen
+G93.8	syndrome pédonculaire
+G93.8	pneumoencéphale
+G96.9	syndrome d'épuisement neuro-musculaire généralisé
+G04.9	maladie inflammatoire du système nerveux central
+G04.9	inflammation du système nerveux central
+G03.9	méningite
+G03.0	méningite non purulente
+G03.0	méningite non suppurée
+G03.0	méningite à liquide clair
+G97.8	méningite aseptique due à un médicament
+G03.1	méningite chronique
+G05.2*	méningite à éosinophiles
+G00.9	méningite purulente aiguë
+G03.9	leptoméningite
+G03.9	arachnoïdite
+G03.9	arachnoïdite adhésive
+G03.9	arachnoïdite avec adhérences
+G03.9	pachyméningite
+G03.9	pachyméningite adhésive chronique
+G03.9	pachyméningite cervicale hypertrophique fibreuse
+G04.9	encéphalite
+G92	encéphalite toxique
+G92	encéphalite toxique due au tétrachlorure de carbone
+G92	encéphalite toxique due à l'hydroxyquinoline
+G92	encéphalite toxique due au plomb
+G92	encéphalite toxique due au mercure
+G92	encéphalite toxique due au thallium
+G04.9	épendymite
+G04.9	épendymite granuleuse
+G04.9	encéphalomyélite
+G04.8	encéphalomyélite aiguë disséminée
+G04.9	méningoencéphalite
+G04.9	méningoencéphalite granulomateuse
+G04.9	méningomyélite
+G04.9	méningoencéphalomyélite
+G04.9	myélite
+G04.8	myélite aiguë ascendante
+G04.8	paralysie ascendante aiguë
+G04.8	syndrome de Landry
+G04.8	leucomyélite ascendante aiguë
+G04.8	myélite aiguë diffuse
+G37.3	myélite aiguë transverse
+G06.0	abcès intracrânien
+G06.0	abcès intracrânien embolique
+G06.0	abcès cérébral
+G06.0	abcès du cerveau
+G06.0	abcès cérébelleux
+G06.2	abcès épidural
+G06.2	abcès extra-dural
+G06.2	abcès sous-dural
+G06.2	empyème sous-dural
+G06.0	abcès intracrânien otogène
+G09	séquelles d'un abcès intracrânien pyogène
+G06.1	abcès intrarachidien
+G06.1	abcès intrarachidien embolique
+G06.1	abcès spinal épidural
+G06.1	abcès spinal extra-dural
+G06.1	abcès rachidien épidural
+G06.1	abcès spinal sous-dural
+G04.8	encéphalite allergique
+G04.8	encéphalopathie allergique
+G04.8	encéphalomyélite allergique
+G36.1	leuco-encéphalite aiguë hémorragique
+G05.8	encéphalite auto-immune
+G05.8*	encéphalite au cours d'un lupus érythémateux disséminé
+G05.8*	encéphalite lupique
+G08	thrombose d'un sinus veineux intracrânien
+G08	thrombose du sinus caverneux
+G08	thrombose d'un sinus veineux latéral
+G08	thrombose d'un sinus transverse
+G08	thrombose du sinus sagittal supérieur
+G08	thrombose du sinus longitudinal supérieur
+G08	thrombose du sinus sagittal inférieur
+G08	thrombose du sinus longitudinal inférieur
+G08	thrombose du sinus basilaire
+G08	thrombose du confluent des sinus
+G08	embolie d'un sinus veineux intracrânien
+G08	embolie du sinus caverneux
+G08	embolie d'un sinus veineux latéral
+G08	embolie du sinus sagittal supérieur
+G08	embolie du sinus longitudinal supérieur
+G08	embolie du sinus sagittal inférieur
+G08	embolie du sinus longitudinal inférieur
+G08	embolie du sinus basilaire
+G08	embolie du confluent des sinus
+G08	phlébite d'un sinus veineux intracrânien
+G08	phlébite du sinus caverneux
+G08	phlébite d'un sinus veineux latéral
+G08	phlébite du sinus sagittal supérieur
+G08	phlébite du sinus longitudinal supérieur
+G08	phlébite du sinus sagittal inférieur
+G08	phlébite du sinus longitudinal inférieur
+G08	phlébite du sinus basilaire
+G08	phlébite du confluent des sinus
+G08	endophlébite d'un sinus veineux intracrânien
+G08	endophlébite du sinus caverneux
+G08	endophlébite d'un sinus veineux latéral
+G08	endophlébite du sinus sagittal supérieur
+G08	endophlébite du sinus longitudinal supérieur
+G08	endophlébite du sinus sagittal inférieur
+G08	endophlébite du sinus longitudinal inférieur
+G08	endophlébite du sinus basilaire
+G08	endophlébite du confluent des sinus
+G08	thrombophlébite d'un sinus veineux intracrânien
+G08	thrombophlébite du sinus caverneux
+G08	thrombophlébite d'un sinus veineux latéral
+G08	thrombophlébite du sinus sagittal supérieur
+G08	thrombophlébite du sinus longitudinal supérieur
+G08	thrombophlébite du sinus sagittal inférieur
+G08	thrombophlébite du sinus longitudinal inférieur
+G08	thrombophlébite du sinus basilaire
+G08	thrombophlébite du confluent des sinus
+G93.4	encéphalopathie
+G93.4	syndrome cérébral aigu
+G93.4	encéphalopathie aiguë
+G93.4	syndrome cérébral chronique
+G93.4	encéphalopathie chronique
+G92	encéphalopathie toxique
+G93.4	encéphalopathie métabolique
+G93.0	kyste cérébral
+G93.0	kyste arachnoïdien
+G93.0	kyste porencéphalique
+G93.0	porencéphalie acquise
+G93.0	porencéphalie
+G93.0	pseudoporencéphalie
+G93.1	lésion cérébrale anoxique
+G93.1	encéphalopathie anoxique
+G93.1	lésion cérébrale hypoxique
+G93.1	encéphalopathie anoxique aiguë
+G93.8	encéphalomalacie
+G93.1	encéphalopathie anoxique chronique
+G93.1	anoxie du cerveau
+G93.1	hypoxie du cerveau
+G93.1	anoxie cérébrale
+G93.1	hypoxie cérébrale
+G93.2	syndrome d'hypertension intracrânienne bénigne
+G93.2	syndrome hydrocéphalique otitique
+G93.2	méningite séreuse
+G93.2	syndrome de Symonds
+G93.2	pseudotumeur cérébrale
+G93.2	syndrome de Borries
+G93.5	compression du cerveau
+G93.5	compression du tronc cérébral
+G93.5	hernie du tronc cérébral
+G93.5	syndrome de compression de la fosse cérébrale postérieure
+G93.5	engagement de l'hippocampe
+G93.5	déformité en cone des amygdales cérébelleuses
+G93.5	hernie cérébrale
+G93.5	engagement cérébral
+G93.5	engagement cérébral sous-tentoriel
+G93.5	engagement temporal médian sous-tentoriel
+G93.5	engagement occipital des amygdales cérébelleuses
+G93.5	engagement cérébelleux
+G93.5	engagement sous la faux du cerveau
+G93.8	calcification cérébrale
+G93.5	hernie cérébrale ulcérée
+G96.0	rhinorrhée cérébrospinale
+G96.0	hydrorrhée cérébrospinale
+G96.1	pseudo-méningocèle
+G95.0	syringo-encéphalie
+G95.0	syringo-encéphalomyélie
+G95.0	syringopontie
+G96.1	affection des méninges
+G96.1	kyste des méninges rachidiennes
+G96.1	adhérences méningées cérébrales
+G96.1	adhérences méningées rachidiennes
+G97.8	complications neurologiques dues à un dispositif médical implantable
+G97.1	réaction à une ponction rachidienne
+G97.1	réaction à une ponction spinale
+G97.1	réaction à une ponction lombaire
+G97.1	céphalée secondaire à une ponction lombaire
+G97.1	céphalée rachidienne
+G97.1	céphalée après myélographie
+G97.1	céphalée après ponction lombaire
+G96.1	méningocèle acquise
+G93.8	syndrome de Bristowe
+G93.8	syndrome de déconnexion interhémisphérique
+G93.8	syndrome du corps calleux
+G96.8	syndrome de Bruns
+G96.8	syndrome d'hypothermie-transpiration
+G96.8	syndrome de Hines-Bannick
+G96.8	syndrome d'errance du regard
+G96.8	syndrome de Balint
+G97.8	syndrome comportemental post-lobectomie temporale
+G97.8	syndrome de Klüver-Bucy
+G93.8	syndrome de Bing-Neel
+G93.8	neuropathie macroglobulinémique
+G93.8	syndrome cérébral macroglobulinémique
+G93.8	syndrome de Babinski-Nageotte
+G93.8	syndrome hémibulbaire
+G31.8	atrophie cérébelleuse corticale tardive
+G31.8	atrophie cérébelleuse corticale tardive de Pierre Marie-Foix-Alajouanine
+G31.8	atrophie cérébello-olivaire familiale de Holmes
+G31.9	maladie dégénérative du système nerveux central
+G31.9	dégénérescence cérébrale
+G31.0	maladie de Pick
+G31.0	atrophie cérébrale circonscrite
+G31.0	atrophie circonscrite du cerveau
+G31.1	dégénérescence cérébrale sénile
+G91.9	hydrocéphalie acquise
+G91.1	hydrocéphalie occlusive acquise
+G91.1	hydrocéphalie obstructive acquise
+G91.1	hydrocéphalie non communicante
+G91.0	hydrocéphalie communicante
+G91.0	hydrocéphalie externe
+G91.0	hydrocéphalie non obstructive
+G91.2	hydrocéphalie à pression normale
+G91.2	hydrocéphalie chronique de l'adulte
+G91.2	hydrocéphalie à basse pression
+G91.8	hydrocéphalie stabilisée
+G91.8	syndrome d'hydrocéphalie chronique
+G91.8	syndrome du cocktail
+G91.8	syndrome du moulin à paroles
+G91.8	hydrocéphalie ex vacuo
+G93.7	syndrome de Reye
+G93.7	encéphalopathie de Reye
+G93.7	syndrome de Reye-Johnson
+G93.7	déficit en acétyl-CoA déshydrogénase des acides gras à chaîne moyenne
+G11.9	ataxie cérébrale
+G11.4	ataxie spinale
+G31.8	maladie des Açores
+G31.8	maladie des portugais des Açores
+G31.8	maladie de Machado-Joseph
+G31.8	maladie des Açores, type I
+G31.8	maladie des Açores, type II
+G31.8	maladie des Açores, type III
+G31.8	maladie des Açores, type IV
+G31.9	dégénérescence cérébrale de l'enfance
+G31.8	syndrome d'Alpers
+G31.8	dégénérescence de la substance grise du cerveau
+G31.8	poliodystrophie
+G31.8	maladie d'Alpers
+G31.8	syndrome de Leigh
+G31.8	encéphalomyélopathie nécrosante subaiguë
+G31.8	encéphalopathie nécrosante subaiguë
+G31.8	maladie d'Alexander
+G25.9	syndrome extrapyramidal
+G25.9	affection extrapyramidale
+G20	parkinsonisme
+G20	maladie de Parkinson
+G20	paralysie agitante
+G20	syndrome parkinsonien idiopathique
+G20	syndrome parkinsonien primitif
+G21.9	syndrome parkinsonien secondaire
+G21.1	syndrome parkinsonien dû à des médicaments
+G21.3	syndrome parkinsonien postencéphalitique
+G21.2	syndrome parkinsonien induit par la N-MPTP
+G21.2	syndrome parkinsonien induit par la n-méthyl-1,2,3.4 tétrahydropyridine
+G23.8	atteinte diffuse à corps de Lewy
+G23.8	variante à corps de Lewy de la maladie d'Alzheimer
+G23.8	atteinte diffuse à corps de Lewy avec altération corticale spongiforme
+G20	paralysie agitante juvénile de Hunt
+G20	syndrome parkinsonien juvénile
+G20	syndrome pallidal
+G11.1	dyssynergie cérébelleuse progressive
+G11.1	syndrome de Ramsay Hunt de type II
+G23.8	maladie des noyaux gris centraux
+G23.8	maladie des noyaux basaux
+G23.8	dégénérescence olivo-ponto-cérébelleuse
+G23.8	atrophie olivo-ponto-cérébelleuse
+G23.0	dégénérescence pallidale pigmentaire
+G23.0	syndrome de Hallervorden-Spatz
+G23.0	maladie de Hallervorden-Spatz
+G23.2	dégénérescence striato-nigrique
+G23.2	atrophie striato-nigrique
+G21.8	syndrome parkinsonien associé à une hypotension orthostatique idiopathique
+G21.8	syndrome parkinsonien associé à une hypotension orthostatique symptomatique
+G23.1	ophtalmoplégie supranucléaire progressive
+G23.1	syndrome de Steele-Richardson-Olszewski
+G23.1	paralysie supranucléaire progressive
+G90.3	syndrome de Shy-Drager
+G90.3	hypotension orthostatique neurogène
+G93.8	syndrome d'altération des systèmes pyramidal et extrapyramidal
+G93.8	syndrome de J. Lhermitte-McAlpine
+G93.8	dégénérescence progressive pyramido-pallidale
+G93.8	syndrome de J. Lhermitte, Cornil et Quesnel
+G93.8	syndrome de Fahr
+G93.8	maladie de Fahr
+G93.8	ferrocalcinose cérébrovasculaire
+G25.9	trouble de la motricité
+G25.0	tremblement essentiel bénin
+G25.0	tremblement familial
+G25.0	tremblement essentiel
+G25.0	tremblement héréditaire bénin
+G25.3	myoclonie essentielle familiale
+G25.6	tic d'origine organique
+G10	chorée de Huntington
+G10	chorée héréditaire
+G10	chorée progressive héréditaire de Huntington
+G25.5	syndrome de Birnbaum
+G25.5	syndrome de chorée héréditaire et d'atrophie cérébelleuse
+G25.5	chorée non héréditaire progressive chronique
+G25.5	chorée sénile
+G25.5	hémiballisme
+G25.5	syndrome du corps de Luys
+G25.5	hémichorée
+G25.5	choréo-athétose familiale paroxystique
+G25.5	syndrome de Mount-Reback
+G25.5	choréo-athétose paroxystique kinésogène
+G25.5	choréo-athétose
+G25.5	choréo-acanthocytose
+G25.5	neuro-acanthocytose
+G24.8	dystonie généralisée
+G24.8	dysbasie lordotique progressive
+G24.8	dystonie musculaire déformante
+G24.8	maladie de Ziehen-Oppenheim
+G24.8	dystonie lenticulaire
+G24.8	dystonie de torsion
+G80.3	paralysie cérébrale athétosique
+G80.3	syndrome de Cécile et Oscar Vogt
+G80.3	athétose double
+G80.3	athétose bilatérale
+G24.8	dystonie de torsion localisée
+G24.5	blépharospasme
+G24.4	dyskinésie oro-faciale
+G24.3	torticolis spasmodique
+G25.8	crampe organique des écrivains
+G25.8	graphospasme
+G25.8	crampe des écrivains
+G25.8	syndrome de l'homme raide
+G25.8	syndrome de Moersch-Woltman
+G25.8	syndrome de l'homme rigide
+G25.8	syndrome des jambes sans repos
+G25.8	mérasthénie agitante
+G25.8	paresthésie agitante nocturne des membres inférieurs
+G25.8	syndrome d'Ekbom
+G25.5	chorée électrique
+G25.5	chorée de Bergeron
+G25.5	maladie de Bergeron
+G25.5	chorée électrique de Henoch-Bergeron
+G25.5	chorée de Dubini
+G25.8	syndrome de l'acqueduc de Sylvius
+G25.8	syndrome de Koerber-Salus-Elschnig
+G23.8	dégénérescence cortico-basale
+G23.8	dégénérescence cortico-basale avec achromasie neuronale
+G23.8	dégénérescence optico-cochléo-dentelée
+G23.8	dégénérescence pallido-rubro-subthalamo-dentelée
+G23.8	atrophie pallido-rubro-subthalamo-dentelée
+G23.8	dégénérescence pallido-subthalamique
+G23.8	dégénérescence pallido-nigrale
+G23.8	dégénérescence pallido-nigro-subthalamique
+G23.8	dégénérescence pallido-nigro-spinale
+G23.8	dégénérescence pallido-ponto-nigrale
+G11.1	dégénérescence spino-cérébelleuse
+G11.2	ataxie spinocérébelleuse
+G11.1	ataxie de Friedreich
+G11.1	ataxie héréditaire
+G11.1	tabès héréditaire
+G11.1	maladie de Friedreich
+G25.3	paramyoclonus multiplex
+G60.0	maladie de Roussy-Lévy
+G60.0	syndrome de Roussy-Lévy
+G60.0	dystasie aréflexique héréditaire
+G11.4	paraplégie spastique héréditaire
+G11.4	maladie de Strümpell-Lorrain
+G11.4	paraplégie spasmodique familiale de Strümpell et Lorrain
+G11.9	dégénérescence cérébelleuse primitive
+G11.9	ataxie cérébelleuse
+G11.2	ataxie cérébelleuse de Pierre Marie
+G11.2	hérédo-ataxie cérébelleuse
+G11.2	ataxie cérébelleuse héréditaire
+G11.2	hérédo-ataxie cérébelleuse avec dégénérescence des faisceaux spino-cérébelleux
+G11.8	ataxie labyrinthique
+G11.9	dyssynergie cérébelleuse myoclonique
+G11.9	atrophie dento-rubrique
+G11.9	atrophie olivo-rubro-cérébelleuse
+G11.9	dégénérescence cérébelleuse héréditaire
+G11.9	dégénérescence cérébelleuse sporadique
+G11.1	syndrome de Jervis
+G11.1	syndrome de dégénérescence cérébelleuse familiale précoce
+G11.9	dégénérescence cérébelleuse
+G11.9	syndrome cérébelleux
+G11.9	dégénérescence cérébelleuse évolutive primitive
+G11.9	maladie de Holmes
+G80.3	athétose posthémiplégique
+G80.3	athétose avec rigidité
+G31.8	syndrome de Bailey-Cushing
+G31.8	syndrome du vermis
+G12.2	maladie du neurone moteur
+G12.2	dégénérescence familiale du neurone moteur
+G12.2	dégénérescence héréditaire du neurone moteur
+G12.2	maladie du neurone moteur supérieur
+G12.2	maladie des cellules de la corne antérieure de la moelle
+G12.2	sclérose latérale amyotrophique
+G12.2	maladie de Lou Gehrig
+G12.2	maladie de Charcot
+G12.2	maladie du neurone moteur bulbaire
+G12.2	sclérose latérale primitive
+G12.2	atrophie musculaire progressive
+G12.2	amyotrophie type Aran-Duchenne
+G12.2	atrophie de Cruveilhier
+G12.2	atrophie musculaire primitive spinale type Aran-Duchenne
+G12.2	amyotrophie primitive progressive
+G12.2	paralysie labio-glosso-laryngée
+G12.2	paralysie bulbaire atrophique progressive
+G12.2	paralysie pseudo-bulbaire
+G12.2	maladie du neurone moteur inférieur
+G12.9	amyotrophie spinale
+G12.0	maladie de Werdnig-Hoffmann
+G12.0	poliomyélite antérieure chronique familiale de l'enfant
+G12.0	amyotrophie à forme Werdnig-Hoffmann
+G12.1	maladie de Kugelberg-Welander
+G12.1	syndrome de Kugelberg-Welander
+G12.1	syndrome de Wohlfart-Kugelberg-Welander
+G12.1	amyotrophie neurogène juvénile précoce pseudo-myopathique
+G12.1	amyotrophie neurogène familiale pseudo-myopathique de la seconde enfance
+G12.1	atrophie musculaire juvénile hérédo-familiale simulant une dystrophie musculaire
+G12.1	atrophie musculaire spinale de l'adulte
+G12.1	amyotrophie spinale de l'adulte
+G82.4	syndrome de tétraplégie spastique avec rigidité
+G95.9	myélopathie
+G95.9	maladie de la moelle épinière
+G95.9	myélopathie neurologique
+G95.2	compression de la moelle épinière
+G95.8	myélopathie post-radiothérapie
+G95.8	myélopathie radique
+G37.3	myélopathie transverse
+G37.3	myélite transverse
+G95.8	myélocèle acquise
+G95.8	myélopathie due à un médicament
+G95.0	syringomyélie
+G60.8	syndrome de Morvan
+G95.0	gliomatose médullaire
+G95.0	syringobulbie
+G95.0	syringomyélobulbie
+G95.8	atrophie spinobulbaire
+G95.8	dégénérescence spino-pontine
+G95.8	atrophie spino-pontine
+G95.1	myélopathie vasculaire
+G95.1	infarctus aigu de la moelle épinière
+G95.8	myélomalacie
+G95.1	thrombose artérielle de la moelle épinière
+G95.1	oedème de la moelle épinière
+G95.1	oedème rachidien
+G95.1	hématomyélie
+G95.1	myélopathie nécrotique subaiguë
+G95.1	myélite nécrotique subaiguë
+G37.8	myélite nécrosante aiguë
+G06.1	abcès de la moelle épinière
+G32.0*	dégénérescence combinée subaiguë de la moelle épinière
+G32.0*	myélose funiculaire
+G32.0*	dégénérescence de la moelle épinière associée à une carence en vitamine B12
+G32.0*	syndrome de Lichtheim
+G32.0*	sclérose combinée
+G32.0*	syndrome de Putnam-Dana
+G36.9	neuromyélite
+G83.8	syndrome de Brown-Séquard
+G83.8	hémiparaplégie spinale
+G37.9	maladie démyélinisante du système nerveux central
+G37.9	maladie démyélinisante de la moelle épinière
+G37.9	affection démyélinisante de la moelle épinière
+G35	sclérose en plaques
+G35	sclérose multiloculaire
+G35	sclérose multiple
+G35	sclérose en plaques du tronc cérébral
+G35	sclérose en plaques de la moelle épinière
+G36.0	neuromyélite optique aiguë
+G36.0	neuromyélite subaiguë avec névrite optique
+G36.0	neuropathie sentivomoteur dite SMON
+G36.0	maladie de Devic
+G37.0	maladie de Schilder
+G37.0	sclérose cérébrale de Schilder
+G37.0	encéphalite périaxiale diffuse
+G37.5	sclérose concentrique de Baló
+G37.5	maladie de Baló
+G37.2	myélinolyse centropontine
+G37.1	maladie de Marchiafava-Bignami
+G37.1	démyélinisation centrale du corps calleux
+G37.1	syndrome de Marchiafava-Bignami
+G83.9	syndrome paralytique
+G83.9	attaque de paralysie
+G83.8	syndrome de verrouillage
+G83.8	Locked in syndrome
+G83.8	syndrome de déefférentiation motrice
+G81.9	hémiplégie
+G81.0	hémiplégie flasque
+G81.1	hémiplégie spastique
+G81.1	hémiplégie spasmodique
+G83.8	hémiplégie transitoire
+G81.1	syndrome du cortex prémoteur
+G81.1	syndrome de préhension forcée
+G81.1	syndrome d'Adie-Critchley
+G81.9	hémiparésie
+G82.5	quadriplégie
+G82.5	tétraplégie
+G82.5	quadriparésie
+G83.8	triplégie
+G83.8	triparésie
+G82.2	paraplégie
+G82.2	paralysie des deux membres inférieurs
+G82.2	paraplégie inférieure
+G82.2	paraparésie
+G82.2	paraparésie progressive chronique
+G83.0	diplégie des membres supérieurs
+G83.0	diplégie supérieure
+G83.0	paralysie des deux membres supérieurs
+G83.8	hémiplégie faciale
+G83.8	hémiparésie faciale
+G83.9	diplégie
+G83.9	paralysie bilatérale
+G83.3	monoplégie
+G83.3	monoparésie
+G83.1	monoplégie d'un membre inférieur
+G83.1	paralysie d'un membre inférieur
+G83.2	monoplégie d'un membre supérieur
+G83.2	paralysie d'un membre supérieur
+G83.2	paralysie des amoureux
+G83.8	parésie cérébrale avec ataxie homolatérale
+G83.8	paralysie cérébrale avec ataxie homolatérale
+G83.4	syndrome de la queue de cheval
+G83.4	syndrome de la queue de cheval sans vessie neurogène
+G83.4	vessie neurogène due au syndrome de la queue de cheval
+G95.8	hyperréflexie vésicale
+G95.8	vessie automatique
+G95.8	syndrome de pseudoclaudication
+G80.9	paralysie cérébrale infantile
+G80.9	infirmité motrice cérébrale
+G80.9	syndrome de Little
+G80.9	paralysie spastique congénitale
+G80.9	maladie de Little
+G80.2	hémiplégie infantile
+G80.2	hémiplégie infantile post-natale
+G80.1	paralysie cérébrale infantile diplégique
+G80.1	diplégie congénitale
+G80.1	paraplégie congénitale
+G80.2	paralysie cérébrale infantile hémiplégique
+G80.2	hémiplégie congénitale
+G80.8	paralysie cérébrale infantile quadriplégique
+G80.8	paralysie cérébrale infantile tétraplégique
+G80.8	paralysie cérébrale infantile monoplégique
+G80.8	paralysie flasque congénitale
+G93.8	syndrome thalamique
+G93.8	syndrome de l'artère thalamo-genouillée
+G93.8	syndrome de Déjerine-Roussy
+G03.9	pachyméningite cervicale hypertrophique de Charcot-Joffroy
+G40.9	épilepsie
+G40.9	attaque épileptique
+G40.9	syndrome épileptique
+G40.9	convulsions épileptiques
+G40.9	crises épileptiques
+G40.9	crises d'épilepsie
+G40.2	épilepsie procursive
+G40.2	épilepsie ambulatoire
+G40.2	épilepsie temporale
+G40.3	épilepsie généralisée non convulsive
+G40.7	petit mal
+G40.7	absence épileptique rétropulsive
+G40.8	épilepsie centrale
+G40.8	crise d'épilepsie centrencéphalique
+G40.8	crise de niveau supérieur
+G41.1	état de petit mal
+G41.1	état d'absences épileptiques
+G40.3	épilepsie généralisée convulsive
+G40.6	grand mal
+G40.6	haut mal
+G40.6	comitialité
+G40.6	mal comitial
+G40.6	mal caduc
+G40.6	mal sacré
+G41.0	état de grand mal
+G41.0	état de mal épileptique
+G40.8	épilepsie visuelle
+G40.8	épilepsie viscérale
+G40.5	épilepsie partielle continue
+G40.5	polyclonie de Kojevnikov
+G40.5	syndrome de Kojevnikov
+G40.5	épilepsie post-traumatique
+G40.3	crises épileptiques non classées
+G40.2	crises épileptiques partielles
+G40.1	crises épileptiques partielles simples sans trouble de la conscience
+G40.1	crises épileptiques partielles simples avec manifestations motrices
+G40.1	crises épileptiques partielles simples avec manifestations somato-motrices
+G40.1	attaques épileptiques somato-motrices
+G40.1	crises épileptiques partielles simples avec symptômes somato-sensoriels
+G40.1	crises épileptiques partielles simples avec symptômes somato-sensitifs
+G40.1	attaques épileptiques somato-sensorielles
+G40.1	crises épileptiques partielles simples avec symptômes sensoriels spéciaux
+G40.1	attaques épileptiques sensorielles particulières
+G40.1	crises épileptiques partielles simples avec symptômes neurovégétatifs
+G40.1	absence épileptique neurovégétative
+G40.1	aura partielle de gêne épigastrique
+G40.1	attaques épileptiques abdominales
+G40.1	crises épileptiques partielles simples avec symptômes psychiques
+G40.2	crises épileptiques partielles complexes avec trouble de la conscience
+G40.1	crises épileptiques à début partielle simple suivies de troubles de la conscience
+G40.2	crises épileptiques partielles complexes avec trouble de la conscience au début
+G40.2	crises épileptiques partielles complexes avec automatismes
+G40.2	automatisme épileptique
+G40.2	épilepsie automatique
+G40.1	crises épileptiques secondairement généralisées
+G40.1	crises épileptiques partielles simples évoluant vers des crises tonico-cloniques généralisées
+G40.2	crises épileptiques partielles complexes évoluant vers des crises tonico-cloniques généralisées
+G40.2	crises épileptiques partielles simples évoluant vers des crises partielles complexes, et ensuite vers des crises tonico-cloniques généralisées
+G40.3	crises épileptiques d'emblée généralisées
+G40.7	absences épileptiques
+G40.7	absences épileptiques atypiques
+G40.3	crises épileptiques toniques
+G40.3	crises épileptiques tonico-cloniques
+G40.3	crises épileptiques myocloniques
+G40.3	crises épileptiques atoniques
+G40.8	épilepsie localisée
+G40.1	épilepsie focale motrice
+G40.1	épilepsie jacksonienne
+G40.1	épilepsie corticale
+G40.8	épilepsie focale
+G40.0	épilepsie focale bénigne de l'enfance
+G40.5	épilepsie partielle continue progressive chronique
+G40.2	crise temporale
+G40.2	épilepsie psychomotrice
+G40.2	crise psychomotrice
+G40.0	épilepsie extratemporale
+G40.3	épilepsie généralisée
+G40.3	épilepsie généralisée idiopathique
+G40.3	convulsions néonatales bénignes
+G40.3	épilepsie avec absences de l'enfance
+G40.3	pyknolepsie
+G40.3	épilepsie myoclonique juvénile
+G40.3	petit mal impulsif
+G40.3	épilepsie généralisée symptomatique
+G40.4	syndrome de West
+G40.4	encéphalopathie myoclonique infantile avec hypsarythmie
+G40.4	spasmes infantiles
+G40.4	syndrome des spasmes en flexion
+G40.4	tic de salaam
+G40.4	encéphalopathie myoclonique précoce symptomatique
+G40.4	syndrome de Lennox-Gastaut
+G40.4	variante du petit mal
+G40.4	épilepsie myokinétique grave de la première enfance avec pointes-ondes lentes
+G40.4	encéphalopathie épileptique de l'enfant avec pointes-ondes lentes diffuses
+G40.3	myoclonie épileptique progressive familiale
+G40.3	maladie de Lafora
+G40.3	syndrome d'Unverricht-Lundborg
+G40.3	maladie de Unverricht-Lundborg
+G40.4	épilepsie rolandique bénigne
+G40.8	épilepsie réflexe
+G40.5	épilepsie photogène
+G40.5	épilepsie photo-induite
+G40.5	épilepsie photique
+G43.9	migraine
+G43.1	migraine avec aura
+G43.1	migraine classique
+G43.1	migraine confusionnelle aiguë
+G43.0	migraine sans aura
+G43.0	migraine commune
+G44.0	céphalée vasculaire de Horton
+G44.0	syndrome de vasodilatation hémicéphalique
+G44.0	névralgisme facial
+G44.0	céphalée histaminique
+G44.0	syndrome de Bing-Horton
+G44.0	céphalée par hyperhémie
+G44.0	érythromélalgie céphalique
+G44.0	syndrome de Bing
+G44.0	hémicrânie paroxystique chronique
+G43.8	migraine abdominale
+G43.8	migraine décapitée
+G43.1	migraine de l'étage inférieur
+G43.1	migraine basilaire
+G43.1	migraine de Bickerstaff
+G43.8	migraine rétinienne
+G43.8	migraine ophtalmique
+G43.1	migraine hémiplégique
+G43.1	migraine hémiplégique familiale
+G43.8	maladie de Moebius
+G43.1	migraine hémiplégique-ophtalmoplégique
+G43.8	migraine ophtalmoplégique
+G44.8	céphalée mixte chronique
+G44.8	céphalée due à une toux
+G44.8	céphalée due à une hernie du rhombencéphale
+G44.8	céphalée en coup de tonnerre
+G44.8	céphalée due à une maladie intracrânienne
+G44.8	syndrome de sevrage à l'ergotamine
+G64	affection du système nerveux périphérique
+G64	neuropathie
+G64	neuropathie périphérique
+G64	affection nerveuse périphérique
+G62.9	neuropathie sensitive
+G62.9	neuropathie périphérique sensitive
+G62.9	neuropathie motrice
+G62.9	neuropathie périphérique motrice
+G62.9	névrite périphérique motrice
+G63.8	neuropathie périphérique liée à une maladie
+G62.8	neuropathie périphérique ischémique
+G62.9	polyneuropathie
+G62.9	polyneuropathie acquise
+G62.9	polynévrite
+G52.9	affection des nerfs crâniens
+G52.9	névralgie crânienne
+G52.9	compression d'un nerf crânien
+G52.9	névrite crânienne
+G52.7	syndrome du carrefour pétro-sphénoïdal
+G52.7	syndrome de Jacod
+G50.9	affection du nerf trijumeau
+G50.9	affection du cinquième nerf crânien
+G50.8	syndrome du trou déchiré antérieur
+G50.8	syndrome de P. et Y. Bonnet
+G50.0	névralgie essentielle du trijumeau
+G50.0	maladie de Fothergill
+G50.0	tics douloureux de la face
+G50.0	névralgie faciale
+G50.8	syndrome paratrigéminal
+G50.8	syndrome de Raeder
+G50.8	syndrome sympathique paratrigéminé
+G50.1	névralgie faciale atypique
+G50.8	syndrome de l'auriculo-temporal
+G50.8	syndrome de Lucie Frey
+G50.8	éphidrose parotidienne
+G50.8	névralgie du nerf nasociliaire de Charlin
+G50.8	syndrome du nerf nasal
+G50.8	syndrome de Charlin
+G50.8	névralgie supra-orbitaire
+G51.8	syndrome du nerf vidien
+G51.8	syndrome de Vail
+G50.8	syndrome du nerf nasal interne
+G51.9	affection du nerf facial
+G51.9	affection du septième nerf crânien
+G51.8	névralgie sphéno-palatine
+G51.8	névralgie de Sluder
+G51.8	névralgie du ganglion sphénopalatin
+G51.8	syndrome de Sluder
+G51.0	paralysie faciale
+G52.7	syndrome d'Alajouanine
+G51.1	atteinte du ganglion géniculé
+G51.4	myokymie faciale
+G51.8	paralysie faciale pseudo-bulbaire
+G51.8	paralysie nucléaire du nerf facial
+G51.0	paralysie de Bell
+G51.0	paralysie du septième nerf crânien
+G51.0	paralysie complète du nerf facial
+G51.8	trouble moteur du nerf facial
+G51.8	trouble sensitif du nerf facial
+G51.8	paresthésie faciale
+G51.8	parésie faciale
+G51.8	paralysie légère faciale
+G51.8	parésie faciale unilatérale
+G51.8	paralysie légère faciale unilatérale
+G50.1	algie faciale
+G50.1	douleur de la face
+G52.0	affection du nerf olfactif
+G52.0	affection du premier nerf crânien
+G52.1	affection du nerf glossopharyngien
+G52.1	affection du neuvième nerf crânien
+G52.1	névralgie glossopharyngée
+G52.1	névralgie du glosso-pharyngien
+G52.1	névralgie du plexus tympanique
+G52.1	syndrome de Reichert
+G52.1	tic douloureux du nerf de Jacobson
+G52.2	affection du nerf pneumogastrique
+G52.2	affection du nerf vague
+G52.2	affection du dixième nerf crânien
+G52.2	toux réflexe de la névralgie d'Arnold
+G52.2	paralysie laryngée du nerf vague
+G52.2	paralysie vélopalatine du nerf vague
+G52.2	névralgie laryngée supérieure
+G52.2	raucité vagale
+G52.2	raucité neurologique
+G52.2	bradycardie vagale
+G52.8	affection du nerf spinal
+G52.8	affection du onzième nerf crânien
+G52.8	affection du nerf accessoire de Willis
+G52.3	affection du nerf grand hypoglosse
+G52.3	affection du douxième nerf crânien
+G12.2	hémiplégie alterne de l'hypoglosse
+G12.2	syndrome de Reynold-Révillod et Déjerine
+G12.2	syndrome bulbaire antérieur
+G12.2	syndrome interolivaire de Déjerine
+G52.7	paralysie de plusieurs nerfs crâniens
+G52.7	syndrome de Collet-Sicard
+G52.7	syndrome de l'espace sous-parotidien postérieur
+G52.7	syndrome de Villaret
+G52.7	polynévrite crânienne
+G52.7	syndrome du trou déchiré postérieur
+G52.7	syndrome de Vernet
+G52.7	syndrome de A. Schmidt
+G57.2	paralysie de Jackson
+G57.2	paralysie des nerfs vague, spinal et grand hypoglosse
+G57.3	syndrome de Tapia
+G51.8	névralgie du nerf intermédiaire
+G52.7	syndrome paralytique unilatéral global des nerfs crâniens
+G52.7	syndrome de Garcin
+G54.9	affection des racines nerveuses
+G54.9	radiculopathie
+G54.9	affection d'un plexus nerveux
+G54.0	lésion du plexus brachial
+G54.0	neuropathie du plexus brachial
+G54.0	syndrome costoclaviculaire
+G54.0	syndrome de compression costoclaviculaire
+G54.0	syndrome de Falconer-Weddell
+G54.0	syndrome de traversée thoraco-cervico-brachiale
+G54.0	syndrome d'hyperabduction
+G54.0	neuropathie du plexus brachial supérieur
+G54.0	neuropathie du plexus brachial moyen
+G54.0	neuropathie du plexus brachial inférieur
+G54.1	lésion du plexus lombo-sacré
+G54.4	lésion radiculaire lombo-sacrée
+G54.4	radiculopathie lombaire
+G54.4	radiculopathie lombo-sacrée
+G54.8	kyste du périnèvre
+G54.8	kyste de Tarlov
+G54.8	kyste radiculaire nerveux
+G54.2	lésion radiculaire cervicale
+G54.2	compression radiculaire nerveuse cervicale
+G54.2	compression radiculaire cervicale
+G54.3	lésion radiculaire thoracique
+G54.5	syndrome de la ceinture scapulaire
+G54.5	névralgie amyotrophiante de l'épaule
+G54.5	syndrome de Parsonage et Turner
+G54.6	syndrome douloureux du membre fantôme
+G54.6	algo-hallucinose
+G54.6	membre fantôme
+G54.6	illusions des amputés
+G54.2	paralysie de Duchenne-Erb
+G54.2	syndrome radiculaire supérieur du plexus brachial
+G54.2	syndrome de Duchenne-Erb
+G54.0	syndrome de Déjerine-Klumpke
+G54.0	paralysie de Klumpke
+G54.0	paralysie du sac à dos
+G54.0	paralysie des béquillards
+G54.8	hypoesthésie alterne de la face et du tronc
+G58.9	mononévrite
+G54.8	névralgie périphérique
+G56.4	causalgie
+G58.8	syndrome canalaire
+G58.8	syndrome tunnelaire
+G58.7	mononévrite multiple
+G56.9	mononévrite du membre supérieur
+G56.9	paresthésie d'un membre supérieur
+G56.0	syndrome du tunnel carpien
+G56.0	syndrome du canal carpien
+G56.8	arophie partielle de l'éminence thénar
+G56.1	lésion du nerf médian
+G56.1	névrite du nerf médian
+G56.2	lésion du nerf cubital
+G56.2	syndrome du tunnel cubital
+G56.2	neuropraxie cubitale
+G56.2	névrite cubitale
+G56.2	paralysie lente du nerf cubital
+G56.3	lésion du nerf radial
+G56.3	paralysie radiale aiguë
+G57.9	mononévrite du membre inférieur
+G57.0	lésion du nerf sciatique
+G57.2	lésion du nerf fémoral
+G57.1	méralgie paresthésique
+G57.1	paresthésie de Bernhardt
+G57.1	maladie de Bernhardt
+G57.1	compression du nerf fémoro-cutané latéral
+G57.1	syndrome du nerf fémoro-cutané externe de la cuisse
+G57.3	lésion du nerf sciatique poplité externe
+G57.3	lésion du nerf péronier commun
+G57.4	lésion du nerf sciatique poplité interne
+G57.5	syndrome du canal tarsien
+G57.5	syndrome du tunnel tarsien
+G57.6	lésion du nerf plantaire
+G57.6	métatarsalgie de Morton
+G57.6	névralgie de Morton
+G57.6	pied de Morton
+G57.6	maladie de Morton
+G60.9	neuropathie périphérique héréditaire
+G60.9	neuropathie périphérique idiopathique
+G60.0	maladie de Déjerine-Sottas
+G60.0	névrite hypertrophique familiale
+G60.0	névrite interstitielle hypertrophique progressive
+G60.0	neuropathie héréditaire sensitivo-motrice de type III
+G60.0	amyotrophie péronière
+G60.0	neuropathie héréditaire sensitivo-motrice
+G60.0	syndrome de Charcot-Marie-Tooth
+G60.0	amyotrophie de Charcot-Marie-Tooth
+G60.0	maladie de Charcot-Marie-Tooth de type I
+G60.0	amyotrophie de Charcot-Marie-Tooth, forme hypertrophique
+G60.0	neuropathie héréditaire sensitivo-motrice de type I
+G60.0	NHSM de type I
+G60.0	maladie de Charcot-Marie-Tooth de type IA
+G60.0	maladie de Charcot-Marie-Tooth de type IB
+G60.0	maladie de Charcot-Marie-Tooth de type IC
+G60.0	maladie de Charcot-Marie-Tooth de type II
+G60.0	amyotrophie de Charcot-Marie-Tooth, forme neuronale
+G60.0	neuropathie héréditaire sensitivo-motrice de type II
+G60.0	neuropathie héréditaire sensitivo-motrice de type V
+G60.0	neuropathie sensitivo-motrice hypertrophique avec paraplégie spasmodique, type V
+G60.0	neuropathie sensitive héréditaire
+G60.0	neuropathie radiculaire sensitive postérieure
+G60.8	neuropathie sensitive héréditaire dominante de type I
+G60.8	neuropathie acrodystrophique
+G60.8	neuropathie sensitive héréditaire à transmission dominante de type II
+G60.8	maladie du panaris analgésique
+G60.8	neuropathie sensitive héréditaire récessive de type IV
+G60.8	analgésie congénitale pure avec anhidrose type Swanson
+G60.0	neuropathie interstitielle hypertrophique
+G60.3	polynévrite idiopathique progressive
+G12.2	paralysie supranucléaire
+G62.8	neuropathie axonale
+G62.8	neuropathie démyélinisante
+G62.8	polyneuropathie démyélinisante
+G62.8	neuropathie périphérique secondaire
+G63.3*	polynévrite porphyrique
+G63.8*	neuropathie hépatique
+G63.4*	neuropathie due à une carence vitaminique
+G63.4*	neuropathie ataxique nutritionnelle
+G63.4*	neuropathie dégénérative nigérienne
+G63.4*	neuropathie jamaïcaine
+G63.4*	myéloneuropathie tropicale
+G63.4*	syndrome jamaïcain
+G63.4*	neuropathie due à une carence alimentaire en vitamine B12
+G63.4*	neuropathie pellagreuse
+G63.4*	neuropathie due à une carence en niacine
+G63.4*	neuropathie due à une carence en niacinamide
+G63.4*	neuropathie due à une carence en nicotinamide
+G63.4*	neuropathie du Béribéri
+G63.4*	neuropathie due à une carence en thiamine
+G63.4*	neuropathie due à une carence en vitamine B1
+G62.8	neuropathie allergique
+G13.0*	neuropathie paranéoplasique
+G13.0*	neuropathie périphérique carcinomateuse
+G62.8	neuropathie inflammatoire
+G62.2	neuropathie toxique
+G62.2	polynévrite due à d'autres agents toxiques
+G62.1	polynévrite alcoolique
+G62.0	polynévrite médicamenteuse
+G90.9	affection du système nerveux autonome
+G90.9	dysautonomie
+G90.9	affection du système nerveux autonome périphérique
+G90.9	affection du système neurovégétatif
+G90.9	affection du système nerveux sympathique
+G90.9	affection du système parasympathique
+G90.0	neuropathie périphérique idiopathique du système nerveux autonome
+G90.0	syncope par hyperexcitabilité du sinus carotidien
+G90.0	syndrome du sinus carotidien
+G90.8	céphalée sympathofaciale
+G90.8	carotidodynie
+G90.2	syndrome oculo-sympathique
+G90.2	syndrome de Claude Bernard-Horner
+G90.2	syndrome de Claude Bernard
+G90.2	syndrome de Horner
+G90.2	syndrome oculo-sympathique paralytique
+G90.2	paralysie du sympathique cervical
+G90.8	syndrome du plexus solaire
+G90.8	syndrome du plexus coeliaque
+G70.9	affection neuro-musculaire
+G70.9	maladie neuro-musculaire
+G70.9	neuromyopathie
+G70.0	myasthénie grave
+G70.0	myasthénie grave pseudo-paralytique
+G70.0	paralysie bulbaire asthénique
+G70.0	syndrome d'Erb-Goldflam
+G70.0	myasthénie grave, forme juvénile
+G70.0	myasthénie grave, forme adulte
+G70.0	crise myasthénique
+G70.8	crise cholinergique
+G73.1*	syndrome de Lambert-Eaton
+G73.1*	syndrome pseudo-myasthénique paranéoplasique de Lambert-Eaton
+G70.1	affection neuro-musculaire toxique
+G70.0	myasthénie médicamenteuse
+G70.0	blocage neuro-musculaire dû à un antibiotique
+G70.8	amyotrophie de dénervation
+G70.8	atrophie d'un groupe de fibres musculaires
+G70.8	atrophie musculaire neurogène
+G72.9	myopathie
+G72.9	syndrome myopathique
+G71.0	dystrophie musculaire
+G71.0	syndrome de dystrophie musculaire et de surdi-mutité
+G71.0	syndrome d'Almaric
+G71.2	dystrophie musculaire héréditaire
+G71.2	myopathie congénitale bénigne
+G71.2	dystrophie musculaire progressive héréditaire
+G71.0	myopathie type Gowers
+G71.0	myopathie distale de Gowers
+G71.0	myopathie pseudo-hypertrophique type Duchenne
+G71.0	paralysie musculaire pseudo-hypertrophique
+G71.0	paralysie pseudo-hypertrophique type Duchenne
+G71.0	myopathie pseudo-hypertrophique de Becker
+G71.0	myopathie pseudo-hypertrophique de Duchenne, variété bénigne
+G71.0	myopathie scapulo-humérale d'Erb
+G71.0	dystrophie musculaire facio-scapulo-humérale
+G71.0	maladie de Landouzy-Déjerine
+G71.0	myopathie primitive progressive de Leyden-Moebius
+G71.0	myopathie type Leyden-Möbius
+G71.0	dystrophie musculaire scapulo-péronière
+G71.0	dystrophie musculaire d'Emery-Dreifuss
+G71.0	dystrophie musculaire oculaire
+G71.0	syndrome de Kiloh-Nevin
+G71.0	myopathie oculaire
+G71.0	dystrophie musculaire oculo-pharyngée
+G71.0	dystrophie oculo-pharyngée
+G71.1	paramyotonie congénitale
+G71.1	maladie d'Eulenburg
+G71.1	myotonie congénitale
+G71.1	maladie de Thomsen
+G71.1	myotonie congénitale, forme autosomique dominante
+G71.1	myotonie congénitale, forme autosomique récessive
+G70.2	amyotonie congénitale
+G70.2	amyotonie d'Oppenheim
+G70.2	maladie d'Oppenheim
+G70.2	myatonie congénitale
+G71.0	syndrome de Debré-Sémélaigne
+G71.1	syndrome d'Isaacs
+G71.1	myotonie par atteinte du canal chlore
+G71.2	myopathie congénitale
+G71.2	myopathie à lésions minimes
+G71.2	myopathie à axe central
+G71.2	myopathie à axes multiples
+G71.2	myopathie multi-core
+G71.2	myopathie congénitale avec disproportion des types de fibres
+G71.2	myopathie myotubulaire
+G71.2	myopathie centronucléaire
+G71.2	myopathie myotubulaire avec atrophie des fibres musculaires de type I
+G71.2	myopathie centrolobulaire sévère liée au chromosome X
+G71.2	myopathie némaline
+G71.2	myopathie à bâtonnets
+G71.2	myopathie némaline précoce
+G71.2	myopathie némaline tardive
+G71.3	myopathie mégaconiale
+G71.3	myopathie pléoconiale
+G71.2	myopathie congénitale mixte
+G71.2	myopathie congénitale avec organites intracytoplasmiques anormaux
+G71.2	myopathie à empreintes digitales
+G71.2	myopathie sarcotubulaire
+G71.2	myopathie à corps zébré
+G71.2	myopathie à corps réducteurs
+G71.2	syndrome du bébé mou
+G71.3	myopathie mitochondriale
+G71.3	myopathie à fibres rouges en lambeaux
+G72.8	myopathie juvénile avec acidose lactique
+G72.8	encéphalopathie infantile avec acidose lactique
+G71.3	myopathie juvénile, encéphalopathie, acidose lactique et accident vasculaire cérébral
+G71.3	syndrome MELAS
+G72.8	dégénérescence cérébelleuse juvénile avec myoclonie
+G40.3	syndrome de Fukuhara
+G40.3	épilepsie myoclonique avec myopathie à fibres rouges en lambeaux
+G40.3	syndrome MERRF
+G71.0	syndrome oculo-cranio-somatique
+G71.0	dystrophie oculo-cranio-somatique
+G71.0	syndrome OCS
+G71.3	maladie de Luft
+G73.6*	myopathie par surcharge mitochondriale en glycogène et lipides
+G72.2	myopathie toxique
+G72.2	myopathie aux cailles de Lesbos
+G72.2	myopathie toxique de Lesbos
+G72.2	myopathie aux cailles nourries à la ciguë
+G73.6*	myopathie métabolique
+G72.1	myopathie alcoolique
+G72.1	myopathie due à l'alcool
+G72.1	syndrome myopathique alcoolique
+G73.5*	myopathie thyréotoxique
+G73.5*	myopathie hypothyroïdienne
+G73.5*	myopathie endocrinienne
+G73.5*	myopathie liée à une maladie endocrinienne
+G73.5*	myopathie de la maladie d'Addison
+G73.5*	myopathie du syndrome de Cushing
+G73.5*	myopathie de l'hypopituitarisme
+G72.8	myopathie secondaire
+G73.2*	myopathie paranéoplasique
+G73.5*	myopathie induite par les stéroïdes
+G73.5*	myopathie stéroïdienne
+G45.3	amaurose fugace
+G45.3	cécité temporaire
+G25.6	mouvements faciaux paradoxaux
+G71.9	myopathie des muscles extrinsèques de l'oeil
+G93.8	syndrome de la paroi externe du sinus caverneux
+G93.8	syndrome de la fente sphénoïdale
+G93.8	syndrome de Rochon-Duvigneaud
+G93.8	syndrome de l'apex orbitaire
+G93.8	syndrome de Foix
+G93.8	syndrome de Rollet
+G46.3*	syndrome de Claude
+G46.3*	syndrome inférieur du noyau rouge
+G46.3*	syndrome de Parinaud
+G46.3*	syndrome supérieur de Foville
+G46.3*	syndrome de Millard-Gubler
+G46.3*	syndrome pédonculaire de Foville
+G46.3*	syndrome moyen de Foville
+G46.3*	syndrome protubérantiel inférieur de Foville
+G46.3*	syndrome de Foville-Wilson
+G46.3*	syndrome de Benedikt
+G46.3*	syndrome de Weber-Gubler
+G96.0	otorrhée de liquide céphalorachidien
+G93.4	leucoaraïose
+G25.9	atteinte extrapyramidale
+G21.8	syndrome parkinsonien avec hypotension orthostatique symptomatique
+G12.2	syndrome de la corne antérieure
+G71.2	myopathie myotubulaire sévère liée au chromosome X
+G71.0	myopathie oculaire avec anomalies mitochondriales
+G71.3	myopathie hypermétabolique de Luft
+G99.0*	polyneuropathie sensorielle
+G99.0*	polyneuropathie sensitivo-motrice mixte
+G99.0*	polyneuropathie motrice
+G51.8	hémiatrophie faciale progressive
+G51.8	trophonévrose de la face
+G51.8	maladie de Romberg
+G99.0*	maladie fonctionnelle du SNC avec trouble neuro-endocrinien
+G97.8	anoxie cérébrale pendant ou après une intervention
+G97.8	hypoxie cérébrale pendant ou après une intervention
+G00.9	méningite bactérienne
+G00.1	méningite pneumococcique
+G00.3	méningite staphylococcique
+G93.3	syndrome de fatigue post-virale
+G03.2	méningite endothélio-leucocytaire multirécurrente bénigne
+G03.2	maladie de Mollaret
+G03.2	méningite de Mollaret
+G03.1	méningite lymphocytaire chronique bénigne
+G61.0	syndrome de Fisher
+G61.0	syndrome de Miller-Fisher
+G61.0	syndrome d'ophtalmoplégie, ataxie et aréflexie
+G93.3	maladie d'Islande
+G93.3	syndrome de fatigue chronique
+G93.3	neuromyasthénie épidémique
+G93.3	encéphalopathie myalgique bénigne
+G93.3	maladie d'Akureyri
+G61.0	polyradiculonévrite infectieuse aiguë
+G61.0	syndrome de Guillain-Barré
+G61.0	paralysie ascendante de Landry
+G61.0	polyradiculonévrite démyélinisante inflammatoire aiguë

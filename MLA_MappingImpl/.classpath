@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/generated/java">
+		<attributes>
+			<attribute name="ignore_optional_problems" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="src" path="src/main/resources"/>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java"/>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/resources"/>
+	<classpathentry kind="lib" path="/MLA_Commons/Libraries/MLA_Commons.jar" sourcepath="/MLA_CommonsImpl"/>
+	<classpathentry kind="lib" path="/MLA_Libraries/ProductLibraries/commons-csv-1.1/commons-csv-1.1.jar" sourcepath="/MLA_Libraries/ProductLibraries/commons-csv-1.1/commons-csv-1.1-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resource/MLA_Libraries/ProductLibraries/commons-csv-1.1/commons-csv-1.1-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/MLA_Libraries/ProductLibraries/commons-io-1.4/commons-io-1.4.jar" sourcepath="/MLA_Libraries/ProductLibraries/commons-io-1.4/commons-io-1.4-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resource/MLA_Libraries/ProductLibraries/commons-io-1.4/commons-io-1.4-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/MLA_Libraries/ProductLibraries/commons-lang-2.6/commons-lang-2.6.jar" sourcepath="/MLA_Libraries/ProductLibraries/commons-lang-2.6/commons-lang-2.6-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resource/MLA_Libraries/ProductLibraries/commons-lang-2.6/commons-lang-2.6-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/MLA_Libraries/ThirdPartyLibraries/slf4j-1.7.5/slf4j-api-1.7.5.jar" sourcepath="/MLA_Libraries/ThirdPartyLibraries/slf4j-1.7.5/slf4j-api-1.7.5-sources.jar"/>
+	<classpathentry kind="lib" path="/MLA_Libraries/ProductLibraries/uima-2.8.1/uimaj-core-2.8.1.jar" sourcepath="/MLA_Libraries/ProductLibraries/uima-2.8.1/uimaj-core-2.8.1-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resource/MLA_Libraries/ProductLibraries/uima-2.8.1/uimaj-core-2.8.1-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>

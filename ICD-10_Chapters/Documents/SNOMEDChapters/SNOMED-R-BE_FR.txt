@@ -1,0 +1,411 @@
+R02	nécrose de la peau
+R02	nécrose cutanée
+R02	escarre cutanée
+R20.0	anesthésie des muqueuses
+R20.2	paresthésie des muqueuses
+R20.2	engourdissment des muqueuses
+R20.2	sensation de brûlure des muqueuses
+R22.9	nodule de la peau
+R22.9	nodule cutané
+R22.9	nodule sous-cutané
+R22.9	nodule du tissu sous-cutané
+R22.9	tuméfaction des muqueuses
+R22.9	tumescence des muqueuses
+R23.4	induration de la peau
+R23.4	rhagade
+R23.4	crevasse
+R23.4	parakératose de la peau
+R23.8	éruption vésiculaire de la peau
+R23.8	éruptions vésiculaires cutanées de la région temporale
+R60.0	oedème des muqueuses
+R60.0	vésicule des muqueuses
+R60.9	oedème de la peau
+R60.9	oedème cutané
+R68.2	sécheresse des muqueuses
+R68.3	ongles en verre de montre
+R68.3	ongles hippocratiques
+R68.3	ongles en tête de serpent
+R29.4	hanche à ressaut
+R29.4	hanche à ressort
+R29.4	maladie de Perrin-Ferraton
+R58	hémorragie musculaire
+R68.3	doigts en spatule
+R68.3	hippocratisme digital
+R68.3	doigts en baguette de tambour
+R68.3	doigts en battant de cloche
+R04.8	hémorragie des voies respiratoires
+R04.8	hémorragie des voies aériennes
+R04.0	écoulement nasal hémorragique
+R04.0	épistaxis
+R04.0	saignement de nez
+R04.1	hémorragie du pharynx
+R04.1	hémorragie pharyngée
+R04.1	hémorragie de la gorge
+R09.2	arrêt respiratoire
+R91	syndrome du lobe moyen
+R91	syndrome de Brock
+R04.8	hémorragie pulmonaire
+R04.8	hémorragie du poumon
+R04.8	poumon hémorragique
+R04.8	hémorragie intra-alvéolaire
+R09.1	pleurésie
+R09.1	pleurésie sans épanchement
+R09.1	pleurite
+R22.2	tuméfaction thoracique
+R49.0	trouble de la voix
+R49.0	difficulté de la phonation
+R49.0	trouble de la phonation
+R49.0	dysphonie
+R49.0	altération de la voix
+R49.0	dysphonie spastique
+R49.0	dysphonie spasmodique
+R49.0	dysphonie spastique adductrice
+R49.0	dysphonie spastique adductrice due à la tension musculo-squelettique
+R49.0	dysphonie spastique adductrice neurologique
+R49.0	dysphonie spastique adductrice du tremblement vocal organique
+R49.0	dysphonie spastique adductrice du tremblement vocal essentiel
+R49.0	dysphonie spastique adductrice de la dystonie
+R49.0	dysphonie spastique adductrice idiopathique
+R49.0	dysphonie spastique abductrice
+R49.1	aphonie spastique
+R49.1	aphonie paralytique
+R49.0	trouble neurologique de la voix
+R49.0	dysphonie neurologique
+R49.0	dysphonie flasque
+R49.0	dysphonie pseudobulbaire spastique
+R49.0	dysphonie pseudobulbaire mixte flasque et spastique
+R49.0	dysphonie parkinsonienne hypokinétique
+R49.0	dysphonie ataxique
+R49.0	dysphonie choréique
+R49.0	dysphonie dystonique
+R49.0	dysphonie de la myoclonie palatopharyngolaryngienne
+R49.0	dysphonie du tremblement organique
+R49.0	dysphonie du tremblement essentiel
+R49.1	apraxie de phonation
+R49.1	aphonie apraxique
+R47.0	mutisme akinétique
+R47.0	dysprosodie du dialecte pseudo-étranger
+R49.2	trouble de la résonance nasale
+R49.2	syndrome d'exagération de la perméabilité nasale
+R49.2	rhinolalie ouverte
+R49.2	hypernasalité
+R49.2	rhinophonie ouverte
+R49.2	hypernasalité due à une maladie neurologique
+R49.2	hypernasalité due à une faiblesse vélopharyngienne
+R49.2	hypernasalité due à une incoordination vélopharyngienne
+R49.2	hyponasalité
+R49.2	rhinophonie fermée
+R49.2	rhinolalie fermée
+R49.2	rhinolalie fermée postérieure
+R49.2	rhinolalie fermée antérieure
+R49.2	nasillement
+R49.2	rhinophonie mixte
+R49.2	rhinolalie mixte
+R49.8	abus de la voix chez l'enfant
+R49.0	dysphonie de la corde vocale supérieure
+R49.8	voix de fausset de la puberté
+R49.8	voix de la puberté
+R49.8 / T88.8	trouble de la voix dû à un facteur iatrogène
+R49.8	voix pubère
+R57.0	choc cardiogénique
+R58	hémorragie d'un vaisseau sanguin
+R58	rupture d'un vaisseau sanguin
+R58	hémorragie spontanée
+R57.9	choc
+R57.9	insuffisance cardiovasculaire aiguë
+R57.9	collapsus cardiaque
+R57.9	collapsus circulatoire
+R57.9	insuffisance circulatoire périphérique
+R57.9	collapsus cardiovasculaire
+R57.1	choc hypovolémique
+R57.1	choc hémorragique
+R57.8	choc endotoxique
+R57.8	choc infectieux
+R57.8	choc pyrétique
+R57.8	choc neurogène
+R57.8	collapsus vasculaire périphérique d'origine nerveuse
+R69	polysérite
+R69	maladie de Bamberger
+R10.0	abdomen aigu
+R10.0	syndrome douloureux abdominal
+R19.0	masse abdominale
+R19.0	tuméfaction abdominale
+R19.0	tumeur pulsatile abdominale
+R10.0	colique infantile
+R10.0	colique endémique
+R68.2	sécheresse de la bouche
+R19.8	paresthésie buccale
+R19.8	paresthésie de la bouche
+R19.8	dysesthésie des tissus mous de la bouche
+R19.8	paresthésie des tissus mous de la bouche
+R19.8	hypoesthésie buccale
+R19.8	hypoesthésie de la bouche
+R13	dysphagie
+R13	difficulté de la déglutition
+R13	dysphagie constante à minima
+R13	dysphagie intermittente
+R13	dysphagie oropharyngienne
+R13	dysphagie pharyngienne
+R13	dysphagie de transfert
+R13	dysphagie oesophagienne
+R13	dysphagia lusoria
+R13	odynophagie
+R13	déglutition douloureuse
+R10.1	douleurs d'estomac
+R10.1	maux d'estomac
+R14	tympanisme gastrique
+R11	vomissements acétonémiques
+R11	vomissements cycliques
+R11	vomissements périodiques
+R11	vomissements habituels
+R11	vomissements persistants
+R11	vomissements incoercibles
+R11	vomissements du nourrisson et de l'enfant
+R11	vomissements en jet
+R11	nausée et vomissement provoqués par un médicament
+R19.0	bloc pelvien masculin
+R58	hémorragie rétropéritonéale
+R18	ascite
+R18	liquide ascitique
+R18	hydropéritoine
+R18	ascite pancréatique
+R18	cholépéritoine
+R18	ascite chyleuse
+R18	ascite urinaire
+R18	ascite associée à la dialyse
+R18	ascite hémorragique
+R18	ascite sanglante
+R19.0	bloc pelvien
+R16.0	hépatomégalie
+R16.2	hépatosplénomégalie
+R64	cachexie
+R64	altération de l'état général
+R64	amaigrissement pathologique
+R64	inanition
+R62.0	syndrome du retard de développement
+R63.2	suralimentation
+R63.2	polyphagie
+R63.2	excès d'apport
+R63.2	hyperphagie
+R63.2	gloutonnerie
+R82.6	hyperkaliurie
+R82.6	hypokaliurie
+R79.8	cétonémie
+R79.8	acétonémie
+R79.8	cétose
+R06.4	hypercapnie
+R79.8	hypocapnie
+R82.6	hyperphosphaturie
+R82.6	hypocalciurie
+R77.8	hypo-uricémie
+R79.8	hyperbilirubinémie
+R82.5	bilirubinurie
+R79.8	hyperbilirubinémie non conjuguée
+R79.8	hyperbilirubinémie conjuguée
+R79.8	bilirubinémie
+R82.6	hyperaminoacidurie
+R31	syndrome hématurique
+R31	hématurie essentielle
+R82.1	myoglobinurie idiopathique
+R82.1	myopathie paroxystique avec hémoglobinurie
+R82.1	myohémoglobinurie paroxystique
+R82.1	maladie de Meyer-Betz
+R82.1	myoglobinurie de marche
+R82.1	myoglobinurie d'effort
+R31	hématurie traumatique
+R31	hématurie post-traumatique
+R39.2	urémie extrarénale
+R39.2	azotémie
+R39.2	urémie prérénale
+R39.2	syndrome de Blum
+R39.2	azotémie prérénale
+R80	syndrome protéinurique
+R80	protéinurie isolée non néphrotique
+R30.0	syndrome de dysurie-pollakiurie
+R35	état polyurique
+R19.0	bloc pelvien féminin
+R19.0	masse pelvienne
+R19.0	tuméfaction pelvienne
+R19.0	bosse pelvienne
+R82.1	myohémoglobinurie paroxystique idiopathique
+R68.1	nourrisson irritable
+R68.1	pleurs excessifs du nouveau-né
+R40.0	assoupissement du nouveau-né
+R40.0	assoupissement néonatal
+R40.0	somnolence néonatale
+R40.0	somnolence du nouveau-né
+R69	diagnostic différé sur l'Axe I
+R69	affection différée sur l'Axe I
+R46.8	diagnostic différé sur l'Axe II
+R46.8	affection différée sur l'Axe II
+R69	diagnostic différé sur l'Axe III
+R69	affection différée sur l'Axe III
+R46.8	diagnostic différé sur l'Axe IV
+R46.8	évaluation différée des agents stressants psychosociaux sur l'Axe IV
+R69	diagnostic différé sur l'Axe V
+R69	évaluation globale du fonctionnement différée sur l'Axe V
+R15	encoprésie avec constipation et incontinence par débordement
+R41.3	trouble amnésique
+R41.8	syndrome d'Anton
+R41.8	anosognosie d'une cécité corticale
+R41.8	anosognosie de l'hémiplégie gauche
+R41.8	syndrome d'Anton-Babinski
+R29.1	méningisme
+R29.1	syndrome de Dupré
+R29.1	pseudo-méningite
+R48.8	syndrome d'alexie-aphasie-apraxie
+R48.8	syndrome de Bianchi
+R25.8	athétose avec paraplégie spasmodique
+R27.0	ataxie posthémiplégique
+R20.2	paresthésie juvénile idiopathique des membres inférieurs
+R20.2	paresthésie de Berger
+R22.0	tuméfaction de l'oeil
+R22.0	tuméfaction oculaire
+R22.0	masse oculaire
+R62.8	infantilisme
+R73.0	prédiabète
+R73.0	état prédiabétique
+R73.0	diabète potentiel
+R73.0	tolérance altérée au glucose
+R73.0	diabète chimique
+R73.0	diabète latent
+R73.0	diabète fruste
+R73.0	tolérance altérée au glucose avec obésité
+R73.0	tolérance altérée au glucose sans obésité
+R73.0	tolérance altérée au glucose dans le diabète sucré de la maturité chez un sujet jeune
+R73.0	tolérance altérée au glucose associée à une maladie pancréatique
+R73.0	tolérance altérée au glucose d'origine hormonale
+R73.0	tolérance altérée au glucose associée à des médicaments
+R73.0	tolérance altérée au glucose associée à une anomalie génétique
+R73.0	tolérance altérée au glucose associée à un défaut des récepteurs de l'insuline
+R73.0	tolérance altérée au glucose associée à des affections non précisées
+R73.0	anomalie potentielle de la tolérance au glucose
+R73.0	anomalie possible de la tolérance au glucose
+R73.9	hyperglycémie
+R82.3	hémoglobinurie
+R82.3	méthémoglobinurie
+R23.0	cyanose centrale
+R23.0	cyanose pulmonaire
+R82.5	méthémalbuminurie
+R82.5	sulfhémoglobinurie
+R82.5	carboxyhémoglobinurie
+R77.1	hyperglobulinémie
+R59.9	maladie des ganglions lymphatiques
+R59.9	hypertrophie lymphonodale
+R59.9	lymphadénopathie
+R59.9	adénopathie
+R59.0	lymphadénopathie hilaire
+R59.0	lymphadénopathie médiastinale
+R59.0	lymphadénopathie paratrachéale
+R16.1	splénomégalie
+R16.1	augmentation de volume de la rate
+R68.8	toxémie
+R68.8	hémo-intoxication
+R68.8	neurotoxicité
+R68.8	effet neurotoxique
+R68.8	neurotoxicose
+R68.8	empoisonnement des tissus nerveux
+R68.8	hépatotoxicité
+R68.8	effet toxique sur les cellules du foie
+R68.8	effet hépatotoxique
+R09.1+	pleurésie streptococcique
+R82.7	virurie
+R69	maladie
+R69	syndrome
+R69	affection
+R69	présence de maladie ou de syndrome
+R69	présence de syndrome ou de maladie clinique
+R69	syndrome ou maladie clinique
+R69	maladie aiguë
+R69	maladie subaiguë
+R69	maladie chronique
+R69	maladie mal définie
+R69	affection mal définie
+R69	maladie suspectée mais non confirmée
+R69	maladie suspectée
+R69	présence d'une maladie organique
+R69	présence d'une maladie fonctionnelle
+R69	présence d'un syndrome ou d'une maladie clinique lié à un trouble fonctionnel
+R69	syndrome ou maladie subclinique
+R69	type de maladie inconnu
+R69	présence de syndrome ou de maladie non diagnostiqué
+R69	type ou catégorie de maladie sans objet
+R69	type ou catégorie de maladie non classé dans SNOMED
+R69	maladie systémique
+R69	maladie épizootique
+R69	maladie endémique
+R69	maladie enzootique
+R69	affection sporadique
+R69	maladie idiopathique
+R69	maladie primitive
+R69	maladie secondaire
+R69	maladie récurrente
+R69	maladie intercurrente
+R69	maladie héréditaire
+R69	hérédopathie
+R69	maladie génétique
+R69	maladie familiale
+R69	maladie infantile
+R69	maladie juvénile
+R69	maladie de l'adulte
+R69	maladie liée au sexe
+R69	maladie acquise
+R69	maladie locale
+R69	maladie localisée
+R69	maladie liée au milieu
+R69	maladie liée au milieu social
+R69	maladie liée au milieu naturel
+R69	maladie liée au milieu industriel
+R69	maladie liée au milieu institutionnel
+R69	maladie liée au milieu familial
+R69	maladie iatrogénique
+R69	maladie auto-induite
+R69	mal auto-induit
+R69	défaillance polyviscérale
+R50.9	fièvre d'origine médicamenteuse
+R50.9	fièvre due à l'étiocholanolone
+R99	mort
+R99	mort de cause inconnue
+R96.1	mort survenant moins de 24 heures après les premiers symptômes
+R96.1	mort sans signe de maladie
+R96.0	mort subite
+R96.0	mort instantanée
+R96.0	mort subite inexpliquée
+R96.0	mort inattendue
+R96.0	mort subite inattendue chez l'adulte
+R95	syndrome de la mort subite chez le nourrisson
+R95	mort soudaine du nourrisson
+R95	mort au berceau
+R95	mort subite inattendue du nourrisson
+R98	mort sans témoin
+R98	trouvé mort
+R98	mort sans l'accompagnement d'un médecin
+R99	mort iatrogénique
+R99	mort peropératoire
+R99	mort postopératoire
+R99	mort par le feu
+R99	mort par incinération
+R99	mort par immolation
+R99	immolation
+R99	mort par surmenage
+R99	karoshi
+R99	mort à l'hôpital
+R99	mort à l'arrivée
+R99	mort naturelle
+R99	mort de causes naturelles
+R99	mort naturelle confirmée
+R99	mort naturelle confirmée par autopsie
+R99	mort naturelle confirmée sans autopsie
+R99	mort naturelle avec cause probable suspectée
+R99	mort naturelle de cause suspectée
+R99	mort naturelle de cause inconnue
+R99	mort naturelle à déclaration obligatoire auprès des autorités médico-légales
+R99	mort dans un accident de la circulation
+R99	mort dans un accident de transport en dehors de la circulation
+R99	mort par piétinement
+R99	mort de cause indéterminée
+R99	verdict de décès sans cause déterminée
+R99	mort de cause indéterminée, présumée naturelle
+R99	mort de cause indéterminée, présumée accidentelle
+R99	mort de cause indéterminée, présumée par homicide
+R99	mort de cause indéterminée, présumée par suicide

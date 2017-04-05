@@ -1,0 +1,1302 @@
+O02.0	ovule dégénéré
+O02.0	oeuf clair
+O02.8	embryon nodulaire
+O02.8	embryon cylindrique
+O31.0	foetus papyracé
+O31.0	foetus papyraceus
+O31.0	foetus pain d'épice
+O31.0	foetus momifié
+O02.1	foetus macéré
+O02.1	mort-né macéré
+O02.8	cryptodidyme
+O02.8	foetus in foetu
+O43.9	anomalie du placenta
+O43.9	placenta anormal
+O43.8	placenta immature anormal
+O43.8	placenta prématuré anormal
+O43.8	placenta mature anormal
+O43.8	placenta postmature anormal
+O43.8	placenta ectopique
+O43.8	placenta annulaire
+O43.8	placenta zonaire
+O43.8	placenta gémellaire
+O43.8	placenta gémellaire diamniotique univitellin
+O43.8	placenta gémellaire monoamniotique univitellin
+O43.8	placenta gémellaire diamniotique bivitellin
+O43.8	placenta de multiparité
+O43.1	placenta chorio-allantoïdien
+O43.1	placenta chorio-vitellin
+O43.1	placenta extrachorales
+O43.1	placenta tubaire-cornéen
+O43.1	placenta cirsoïde
+O44.1	placenta praevia
+O44.1	placenta previa marginalis
+O44.1	placenta praevia marginalis
+O44.1	placenta praevia bordé
+O44.1	placenta praevia marginé
+O44.1	placenta previa centralis
+O44.1	placenta praevia central
+O44.1	placenta praevia total
+O44.1	placenta previa partialis
+O44.1	placenta praevia partialis
+O44.1	placenta praevia partiel
+O73.0	placenta accreta
+O73.0	placenta increta
+O73.0	placenta percreta
+O43.1	placenta bipartita
+O43.1	placenta duplex
+O43.1	placenta bilobé
+O43.1	placenta tripartita
+O43.1	placenta trilobé
+O43.1	placenta multipartita
+O43.1	placenta multilobé
+O43.1	placenta circumvallata
+O43.1	placenta bordé
+O43.1	placenta marginalis
+O43.1	placenta circummarginata
+O43.1	placenta marginé
+O43.1	placenta marginata
+O43.8	placenta reflexa
+O43.8	placenta membraneux
+O43.8	placenta diffus
+O43.8	placenta succenturié
+O43.8	placenta accessoire
+O43.8	placenta surnuméraire
+O43.8	placenta spuria
+O43.8	placenta fenêtré
+O43.8	altération placentaire de Tenney
+O43.8	altération placentaire de Tenney-Parker
+O43.8	augmentation des nodosités syncitiales placentaires
+O43.8	placenta bloqué
+O43.8	placenta adhérent
+O43.8	chorion anormal
+O43.8	villosités choriales anormales
+O43.8	chorion mature anormal
+O43.8	villosités chorioniques matures anormales
+O43.8	chorion immature anormal
+O43.8	villosités chorioniques immatures anormales
+O43.8	chorio-angiomes multiples
+O43.8	chorio-angiomatose
+O43.8	hyperplasie capillaire villeuse du placenta
+O43.8	angiomatose chorionique
+O41.9	amnios anormal
+O41.9	liquide amniotique anormal
+O41.8	vésicule ombilicale anormale
+O41.8	bride amniotique
+O41.8	amnios incomplet
+O26.8	gingivite gravidique
+O26.6	cholestase récurrente gravidique
+O26.6	cholostase récurrente gravidique
+O26.8	prurit idiopathique de la grossesse
+O26.6	cholostase intrahépatique récurrente de la grossesse
+O92.5	suppression de la sécrétion lactée
+O92.5	inhibition de la lactation
+O26.9	maladie liée à la grossesse
+O26.9	affection liée à la grossesse
+O02.9	produits de conception anormaux
+O02.0	grossesse molaire
+O02.0	môle de grossesse
+O02.0	môle charnue
+O02.0	môle calcifiée
+O02.1	rétention rétention d'un foetus mort in utero
+O02.1	rétention d'un foetus mort avant 22 semaines de grossesse
+O02.1	mort foetale avant 22 semaines de grossesse avec rétention foetale
+O01.9	grossesse molaire hydatiforme
+O01.9	grossesse molaire vésiculaire
+O45.8	décollement des produits de conception
+O45.8	décollement de villosités choriales
+O45.8	décollement du trophoblaste
+O01.9	maladie trophoblastique
+O02.1	rétention de produits de conception
+O02.1	rétention membrano-placentaire
+O02.1	rétention de produits de conception, non consécutive à un avortement
+O02.1	rétention de tissus foetaux
+O06.4	rétention de produits de conception à la suite d'un avortement
+O72.0	rétention placentaire
+O72.0	rétention placentaire fragmentaire
+O00.9	grossesse ectopique
+O00.9	grossesse extra-utérine
+O00.9	grossesse ectopique rompue
+O00.9	rupture de grossesse extra-utérine
+O00.9	grossesse extra-utérine avortée
+O00.0	grossesse abdominale
+O00.0	grossesse péritonéale
+O00.1	grossesse tubaire
+O00.1	grossesse dans une trompe de Fallope
+O00.1	grossesse tubaire rompue
+O00.1	avortement tubaire
+O00.2	grossesse ovarienne
+O00.8	grossesse cervicale
+O00.8	grossesse angulaire
+O00.8	grossesse interstitielle
+O00.8	grossesse intraligamentaire
+O00.8	grossesse mésométrique
+O00.8	grossesse ectopique de siège précisé
+O00.8	grossesses simultanées intra- et extra-utérines
+O08.9	complication non précisée consécutive à une grossesse ectopique ou molaire
+O08.0	infection de l'appareil génital et des organes pelviens consécutive à une grossesse ectopique ou molaire
+O08.0	endométrite consécutive à une grossesse ectopique ou molaire
+O08.0	paramétrite consécutive à une grossesse ectopique ou molaire
+O08.0	péritonite pelvienne consécutive à une grossesse ectopique ou molaire
+O08.0	salpingite consécutive à une grossesse ectopique ou molaire
+O08.0	salpingo-ovarite consécutive à une grossesse ectopique ou molaire
+O08.0	syndrome infectieux consécutif à une grossesse ectopique ou molaire
+O08.0	septicémie consécutive à une grossesse ectopique ou molaire
+O08.0	septicémie consécutive à une grossesse extra-utérine ou molaire
+O08.1	hémorragie retardée ou sévère consécutive à une grossesse ectopique ou molaire
+O08.1	hémorragie retardée ou sévère consécutive à une grossesse extra-utérine ou molaire
+O08.1	afibrinogénémie consécutive à une grossesse ectopique ou molaire
+O08.1	afibrinémie consécutive à une grossesse extra-utérine ou molaire
+O08.1	syndrome de défibrination consécutif à une grossesse ectopique ou molaire
+O08.1	hémolyse intravasculaire consécutive à une grossesse ectopique ou molaire
+O08.1	hémolyse intravasculaire consécutive à une grossesse extra-utérine ou molaire
+O08.6	lésions des organes pelviens consécutives à une grossesse ectopique ou molaire
+O08.6	lésions de la vessie consécutives à une grossesse ectopique ou molaire
+O08.6	lésions de l'intestin consécutives à une grossesse ectopique ou molaire
+O08.6	lésions du ligament large consécutives à une grossesse ectopique ou molaire
+O08.6	lésions du col de l'utérus consécutives à une grossesse ectopique ou molaire
+O08.6	lésions des tissus périurétraux consécutives à une grossesse ectopique ou molaire
+O08.6	lésions de l'utérus consécutives à une grossesse ectopique ou molaire
+O08.6	lésions du vagin consécutives à une grossesse ectopique ou molaire
+O08.4	insuffisance rénale consécutive à une grossesse ectopique ou molaire
+O08.4	lacération de l'utérus consécutive à une grossesse ectopique ou molaire
+O08.4	insuffisance rénale aiguë consécutive à une grossesse ectopique ou molaire
+O08.4	oligo-anurie consécutive à une grossesse ectopique ou molaire
+O08.4	nécrose tubulaire rénale consécutive à une grossesse ectopique ou molaire
+O08.4	urémie consécutive à une grossesse ectopique ou molaire
+O08.4	urémie consécutive à une grossesse extra-utérine ou molaire
+O08.5	trouble du métabolisme consécutif à une grossesse ectopique ou molaire
+O08.5	déséquilibre électrolytique consécutif à une grossesse ectopique ou molaire
+O08.3	choc consécutif à une grossesse ectopique ou molaire
+O08.3	collapsus cardiovasculaire consécutif à une grossesse ectopique ou molaire
+O08.3	choc post-opératoire consécutif à une grossesse ectopique ou molaire
+O08.0	choc septique consécutif à une grossesse ectopique ou molaire
+O08.2	embolie consécutive à une grossesse ectopique ou molaire
+O08.2	embolie gazeuse consécutive à une grossesse ectopique ou molaire
+O08.2	embolie amniotique consécutive à une grossesse ectopique ou molaire
+O08.2	embolie due à un caillot sanguin consécutive à une grossesse ectopique ou molaire
+O08.2	embolie graisseuse consécutive à une grossesse ectopique ou molaire
+O08.2	embolie pulmonaire consécutive à une grossesse ectopique ou molaire
+O08.2	embolie pyohémique consécutive à une grossesse ectopique ou molaire
+O08.2	embolie septique consécutive à une grossesse ectopique ou molaire
+O08.2	embolie due au savon consécutive à une grossesse ectopique ou molaire
+O08.8	complication précisée consécutive à une grossesse ectopique ou molaire
+O08.8	atrophie jaune aiguë du foie consécutive à une grossesse ectopique ou molaire
+O08.8	hépatite fulminante consécutive à une grossesse ectopique ou molaire
+O08.8	arrêt ou insuffisance cardiaque consécutif à une grossesse ectopique ou molaire
+O08.8	anoxie cérébrale consécutive à une grossesse ectopique ou molaire
+O08.8	infection des voies urinaires consécutive à une grossesse ectopique ou molaire
+O06.9	avortement
+O04.9	avortement provoqué
+O06.9	avortement sans complication
+O06.8	avortement avec complication non précisée
+O06.5	avortement compliqué d'une infection de l'appareil génital et des organes pelviens
+O06.5	avortement avec endométrite
+O06.5	avortement avec paramétrite
+O06.5	avortement avec pelvipéritonite
+O06.5	avortement avec salpingite
+O06.5	avortement avec salpingo-ovarite
+O06.5	avortement avec syndrome infectieux
+O06.5	avortement avec septicémie
+O06.6	avortement compliqué d'une hémorragie retardée ou sévère
+O06.6	avortement avec afibrinogénémie
+O06.6	avortement avec afibrinémie
+O06.6	avortement avec syndrome de défibrination
+O06.6	avortement avec hémolyse intravasculaire
+O06.8	avortement compliqué de lésions des organes et tissus pelviens
+O06.8	avortement avec lacération de la vessie
+O06.8	avortement avec déchirure de la vessie
+O06.8	avortement avec perforation de la vessie
+O06.8	avortement avec lacération de l'intestin
+O06.8	avortement avec déchirure de l'intestin
+O06.8	avortement avec perforation de l'intestin
+O06.8	avortement avec lacération du ligament large
+O06.8	avortement avec déchirure du ligament large
+O06.8	avortement avec perforation du ligament large
+O06.8	avortement avec lacération du col utérin
+O06.8	avortement avec déchirure du col utérin
+O06.8	avortement avec perforation du col utérin
+O06.8	avortement avec lacération des tissus périurétraux
+O06.8	avortement avec déchirure des tissus périurétraux
+O06.8	avortement avec perforation des tissus périurétraux
+O06.8	avortement avec lacération de l'utérus
+O06.8	avortement avec déchirure de l'utérus
+O06.8	avortement avec perforation de l'utérus
+O06.8	avortement avec lacération du vagin
+O06.8	avortement avec déchirure du vagin
+O06.8	avortement avec perforation du vagin
+O06.8	avortement compliqué d'une insuffisance rénale
+O06.8	avortement avec oligurie
+O06.8	avortement avec insuffisance rénale aiguë
+O06.8	avortement avec oligo-anurie
+O06.8	avortement avec nécrose tubulaire rénale
+O06.8	avortement avec urémie
+O06.8	avortement compliqué d'un trouble du métabolisme
+O06.8	avortement avec déséquilibre électrolytique
+O06.8	avortement compliqué d'un choc
+O06.8	avortement avec collapsus cardiovasculaire
+O06.8	avortement avec choc post-opératoire
+O06.8	avortement avec choc septique
+O06.7	avortement compliqué d'une embolie
+O06.7	avortement avec embolie gazeuse
+O06.7	avortement avec embolie amniotique
+O06.7	avortement avec embolie par caillot sanguin
+O06.7	avortement avec embolie graisseuse
+O06.7	avortement avec embolie pulmonaire
+O06.7	avortement avec embolie pyohémique
+O06.7	avortement avec embolie septique
+O06.7	avortement avec embolie due au savon
+O06.8	avortement avec autre complication précisée
+O06.8	avortement avec atrophie jaune aiguë du foie
+O06.8	avortement avec hépatite fulminante
+O06.8	avortement avec arrêt ou insuffisance cardiaque
+O06.8	avortement avec anoxie cérébrale
+O06.8	avortement avec infection des voies urinaires
+O03.9	avortement spontané
+O03.9	fausse couche
+O03.9	avortement spontané au cours du premier trimestre
+O03.9	avortement spontané au cours du second trimestre
+O03.9	avortement spontané au cours du troisième trimestre
+O03.9	avortement spontané sans complication
+O03.8	avortement spontané avec complication non précisée
+O03.5	avortement spontané compliqué d'une infection de l'appareil génital et des organes pelviens
+O03.5	avortement spontané avec endométrite
+O03.5	avortement spontané avec paramétrite
+O03.5	avortement spontané avec pelvipéritonite
+O03.5	avortement spontané avec salpingite
+O03.5	avortement spontané avec salpingo-ovarite
+O03.8	avortement spontané avec syndrome infectieux
+O03.8	avortement spontané avec septicémie
+O03.8	fausse couche avec septicémie
+O03.6	avortement spontané compliqué d'une hémorragie retardée ou sévère
+O03.6	fausse couche compliquée d'une hémorragie retardée ou sévère
+O03.6	avortement spontané avec afibrinogénémie
+O03.6	fausse couche avec afibrinémie
+O03.6	avortement spontané avec syndrome de défibrination
+O03.6	avortement spontané avec hémolyse intravasculaire
+O03.6	fausse couche avec hémolyse intravasculaire
+O03.8	avortement spontané compliqué de lésions des organes et tissus pelviens
+O03.8	avortement spontané avec lacération de la vessie
+O03.8	fausse couche avec déchirure de la vessie
+O03.8	avortement spontané avec perforation de la vessie
+O03.8	avortement spontané avec lacération de l'intestin
+O03.8	fausse couche avec déchirure de l'intestin
+O03.8	avortement spontané avec perforation de l'intestin
+O03.8	avortement spontané avec lacération du ligament large
+O03.8	fausse couche avec déchirure du ligament large
+O03.8	avortement spontané avec perforation du ligament large
+O03.8	avortement spontané avec lacération du col utérin
+O03.8	fausse couche avec déchirure du col utérin
+O03.8	avortement spontané avec perforation du col utérin
+O03.8	avortement spontané avec lacération des tissus périurétraux
+O03.8	fausse couche avec déchirure des tissus périurétraux
+O03.8	avortement spontané avec perforation des tissus périurétraux
+O03.8	avortement spontané avec lacération de l'utérus
+O03.8	fausse couche avec déchirure de l'utérus
+O03.8	avortement spontané avec perforation de l'utérus
+O03.8	avortement spontané avec lacération du vagin
+O03.8	fausse couche avec déchirure du vagin
+O03.8	avortement spontané avec perforation du vagin
+O03.8	avortement spontané compliqué d'une insuffisance rénale
+O03.8	avortement spontané avec oligurie
+O03.8	avortement spontané avec insuffisance rénale aiguë
+O03.8	fausse couche avec oligo-anurie
+O03.8	avortement spontané avec nécrose tubulaire rénale
+O03.8	avortement spontané avec urémie
+O03.8	fausse couche avec urémie
+O03.8	avortement spontané compliqué d'un trouble du métabolisme
+O03.8	avortement spontané avec déséquilibre électrolytique
+O03.8	avortement spontané compliqué d'un choc
+O03.8	fausse couche avec collapsus cardiovasculaire
+O03.8	avortement spontané avec choc post-opératoire
+O03.8	avortement spontané avec choc septique
+O03.7	avortement spontané compliqué d'une embolie
+O03.7	avortement spontané avec embolie gazeuse
+O03.7	avortement spontané avec embolie amniotique
+O03.7	avortement spontané avec embolie due à un caillot sanguin
+O03.7	avortement spontané avec embolie graisseuse
+O03.7	avortement spontané avec embolie pulmonaire
+O03.7	avortement spontané avec embolie pyohémique
+O03.7	avortement spontané avec embolie septique
+O03.7	avortement spontané avec embolie due au savon
+O03.8	avortement spontané avec autre complication précisée
+O03.8	avortement spontané avec atrophie jaune aiguë du foie
+O03.8	fausse couche avec hépatite fulminante
+O03.8	avortement spontané avec arrêt ou insuffisance cardiaque
+O03.8	avortement spontané avec anoxie cérébrale
+O03.8	avortement spontané avec infection des voies urinaires
+O04.-	avortement provoqué légal
+O04.-	avortement légal
+O04.-	interruption volontaire de grossesse
+O04.-	avortement thérapeutique
+O04.9	avortement légal sans complication
+O04.8	avortement légal avec complication non précisée
+O04.5	avortement légal compliqué d'une infection de l'appareil génital et des organes pelviens
+O04.5	avortement légal avec endométrite
+O04.5	avortement légal avec paramétrite
+O04.5	avortement légal avec pelvipéritonite
+O04.5	avortement légal avec salpingite
+O04.5	avortement légal avec salpingo-ovarite
+O04.5	avortement légal avec syndrome infectieux
+O04.5	avortement légal avec septicémie
+O04.5	interruption légale de grossesse avec septicémie
+O04.6	avortement légal compliqué d'une hémorragie retardée ou sévère
+O04.6	interruption légale de grossesse compliquée d'une hémorragie retardée ou sévère
+O04.6	avortement légal avec afibrinogénémie
+O04.6	interruption légale de grossesse avec afibrinémie
+O04.6	avortement légal avec syndrome de défibrination
+O04.6	avortement légal avec hémolyse intravasculaire
+O04.6	interruption légale de grossesse avec hémolyse intravasculaire
+O04.8	avortement légal compliqué de lésions des organes et tissus pelviens
+O04.8	avortement légal avec lacération de la vessie
+O04.8	interruption légale de grossesse avec déchirure de la vessie
+O04.8	avortement légal avec perforation de la vessie
+O04.8	avortement légal avec lacération de l'intestin
+O04.8	interruption légale de grossesse avec déchirure de l'intestin
+O04.8	avortement légal avec perforation de l'intestin
+O04.8	avortement légal avec lacération du ligament large
+O04.8	interruption légale de grossesse avec déchirure du ligament large
+O04.8	avortement légal avec perforation du ligament large
+O04.8	avortement légal avec lacération du col utérin
+O04.8	interruption légale de grossesse avec déchirure du col utérin
+O04.8	avortement légal avec perforation du col utérin
+O04.8	avortement légal avec lacération des tissus périurétraux
+O04.8	interruption légale de grossesse avec déchirure des tissus périurétraux
+O04.8	avortement légal avec perforation des tissus périurétraux
+O04.8	avortement légal avec lacération de l'utérus
+O04.8	interruption légale de grossesse avec déchirure de l'utérus
+O04.8	avortement légal avec perforation de l'utérus
+O04.8	avortement légal avec lacération du vagin
+O04.8	interruption légale de grossesse avec déchirure du vagin
+O04.8	avortement légal avec perforation du vagin
+O04.8	avortement légal compliqué d'une insuffisance rénale
+O04.8	avortement légal avec oligurie
+O04.8	avortement légal avec insuffisance rénale aiguë
+O04.8	interruption légale de grossesse avec oligo-anurie
+O04.8	avortement légal avec nécrose tubulaire rénale
+O04.8	avortement légal avec urémie
+O04.8	interruption légale de grossesse avec urémie
+O04.8	avortement légal compliqué d'un trouble du métabolisme
+O04.8	avortement légal avec déséquilibre électrolytique
+O04.8	avortement légal compliqué d'un choc
+O04.8	avortement légal avec collapsus cardiovasculaire
+O04.8	avortement légal avec choc post-opératoire
+O04.5	avortement légal avec choc septique
+O04.7	avortement légal compliqué d'une embolie
+O04.7	avortement légal avec embolie gazeuse
+O04.7	avortement légal avec embolie amniotique
+O04.7	avortement légal avec embolie due à caillot sanguin
+O04.7	avortement légal avec embolie graisseuse
+O04.7	avortement légal avec embolie pulmonaire
+O04.7	avortement légal avec embolie pyohémique
+O04.7	avortement légal avec embolie septique
+O04.7	avortement légal avec embolie due au savon
+O04.8	avortement légal avec autre complication précisée
+O04.8	avortement légal avec atrophie jaune aiguë du foie
+O04.8	interruption légale de grossesse avec hépatite fulminante
+O04.8	avortement légal avec arrêt ou insuffisance cardiaque
+O04.8	avortement légal avec anoxie cérébrale
+O04.8	avortement légal avec infection des voies urinaires
+O05.9	avortement provoqué illégal
+O05.9	avortement illégal
+O05.9	avortement criminel
+O05.9	avortement par auto-induction
+O05.9	avortement illégal sans complication
+O05.8	avortement illégal avec complication non précisée
+O05.5	avortement illégal compliqué d'une infection de l'appareil génital et des organes pelviens
+O05.5	avortement illégal avec endométrite
+O05.5	avortement illégal avec paramétrite
+O05.5	avortement illégal avec pelvipéritonite
+O05.5	avortement illégal avec salpingite
+O05.5	avortement illégal avec salpingo-ovarite
+O05.5	avortement illégal avec syndrome infectieux
+O05.5	avortement illégal avec septicémie
+O05.5	avortement criminel avec septicémie
+O05.6	avortement illégal compliqué d'une hémorragie retardée ou sévère
+O05.6	avortement criminel compliqué d'une hémorragie retardée ou sévère
+O05.6	avortement illégal avec afibrinogénémie
+O05.6	avortement criminel avec afibrinémie
+O05.6	avortement illégal avec syndrome de défibrination
+O05.6	avortement illégal avec hémolyse intravasculaire
+O05.6	avortement criminel avec hémolyse intravasculaire
+O05.8	avortement illégal compliqué de lésions des organes et tissus pelviens
+O05.8	avortement illégal avec lacération de la vessie
+O05.8	avortement criminel avec déchirure de la vessie
+O05.8	avortement illégal avec perforation de la vessie
+O05.8	avortement illégal avec lacération de l'intestin
+O05.8	avortement criminel avec déchirure de l'intestin
+O05.8	avortement illégal avec perforation de l'intestin
+O05.8	avortement illégal avec lacération du ligament large
+O05.8	avortement criminel avec déchirure du ligament large
+O05.8	avortement illégal avec perforation du ligament large
+O05.8	avortement illégal avec lacération du col utérin
+O05.8	avortement criminel avec déchirure du col utérin
+O05.8	avortement illégal avec perforation du col utérin
+O05.8	avortement illégal avec lacération des tissus périurétraux
+O05.8	avortement criminel avec déchirure des tissus périurétraux
+O05.8	avortement illégal avec perforation des tissus périurétraux
+O05.8	avortement illégal avec lacération de l'utérus
+O05.8	avortement criminel avec déchirure de l'utérus
+O05.8	avortement illégal avec perforation de l'utérus
+O05.8	avortement illégal avec lacération du vagin
+O05.8	avortement criminel avec déchirure du vagin
+O05.8	avortement illégal avec perforation du vagin
+O05.8	avortement illégal compliqué d'une insuffisance rénale
+O05.8	avortement illégal avec oligurie
+O05.8	avortement illégal avec insuffisance rénale aiguë
+O05.8	avortement criminel avec oligo-anurie
+O05.8	avortement illégal avec nécrose tubulaire rénale
+O05.8	avortement illégal avec urémie
+O05.8	avortement criminel avec urémie
+O05.8	avortement illégal compliqué d'un trouble du métabolisme
+O05.8	avortement illégal avec déséquilibre électrolytique
+O05.8	avortement illégal compliqué d'un choc
+O05.8	avortement criminel avec collapsus cardiovasculaire
+O05.8	avortement illégal avec choc post-opératoire
+O05.5	avortement illégal avec choc septique
+O05.7	avortement illégal compliqué d'une embolie
+O05.7	avortement illégal avec embolie gazeuse
+O05.7	avortement illégal avec embolie amniotique
+O05.7	avortement illégal avec embolie due à un caillot sanguin
+O05.7	avortement illégal avec embolie graisseuse
+O05.7	avortement illégal avec embolie pulmonaire
+O05.7	avortement illégal avec embolie pyohémique
+O05.7	avortement illégal avec embolie septique
+O05.7	avortement illégal avec embolie due au savon
+O05.8	avortement illégal avec autre complication précisée
+O05.8	avortement illégal avec atrophie jaune aiguë du foie
+O05.8	avortement criminel avec hépatite fulminante
+O05.8	avortement illégal avec arrêt ou insuffisance cardiaque
+O05.8	avortement illégal avec anoxie cérébrale
+O05.8	avortement illégal avec infection des voies urinaires
+O07.-	échec de tentative d'avortement
+O07.9	échec de tentative d'avortement sans complication
+O07.8	échec de tentative d'avortement avec complication non précisée
+O07.5	échec de tentative d'avortement compliqué d'une infection de l'appareil génital et des organes pelviens
+O07.5	échec de tentative d'avortement avec endométrite
+O07.5	échec de tentative d'avortement avec paramétrite
+O07.5	échec de tentative d'avortement avec pelvipéritonite
+O07.5	échec de tentative d'avortement avec salpingite
+O07.5	échec de tentative d'avortement avec salpingo-ovarite
+O07.5	échec de tentative d'avortement avec syndrome infectieux
+O07.5	échec de tentative d'avortement avec septicémie
+O07.6	échec de tentative d'avortement compliqué d'une hémorragie retardée ou sévère
+O07.6	échec de tentative d'avortement avec afibrinogénémie
+O07.6	échec de tentative d'avortement avec afibrinémie
+O07.6	échec de tentative d'avortement avec syndrome de défibrination
+O07.6	échec de tentative d'avortement avec hémolyse intravasculaire
+O07.8	échec de tentative d'avortement compliqué de lésions des organes et tissus pelviens
+O07.8	échec de tentative d'avortement avec lacération de la vessie
+O07.8	échec de tentative d'avortement avec déchirure de la vessie
+O07.8	échec de tentative d'avortement avec perforation de la vessie
+O07.8	échec de tentative d'avortement avec lacération de l'intestin
+O07.8	échec de tentative d'avortement avec déchirure de l'intestin
+O07.8	échec de tentative d'avortement avec perforation de l'intestin
+O07.8	échec de tentative d'avortement avec lacération du ligament large
+O07.8	échec de tentative d'avortement avec déchirure du ligament large
+O07.8	échec de tentative d'avortement avec perforation du ligament large
+O07.8	échec de tentative d'avortement avec lacération du col utérin
+O07.8	échec de tentative d'avortement avec déchirure du col utérin
+O07.8	échec de tentative d'avortement avec perforation du col utérin
+O07.8	échec de tentative d'avortement avec lacération des tissus périurétraux
+O07.8	échec de tentative d'avortement avec déchirure des tissus périurétraux
+O07.8	échec de tentative d'avortement avec perforation des tissus périurétraux
+O07.8	échec de tentative d'avortement avec lacération de l'utérus
+O07.8	échec de tentative d'avortement avec déchirure de l'utérus
+O07.8	échec de tentative d'avortement avec perforation de l'utérus
+O07.8	échec de tentative d'avortement avec lacération du vagin
+O07.8	échec de tentative d'avortement avec déchirure du vagin
+O07.8	échec de tentative d'avortement avec perforation du vagin
+O07.8	échec de tentative d'avortement compliqué d'une insuffisance rénale
+O07.8	échec de tentative d'avortement avec oligurie
+O07.8	échec de tentative d'avortement avec insuffisance rénale aiguë
+O07.8	échec de tentative d'avortement avec oligo-anurie
+O07.8	échec de tentative d'avortement avec nécrose tubulaire rénale
+O07.8	échec de tentative d'avortement avec urémie
+O07.8	échec de tentative d'avortement compliqué d'un trouble du métabolisme
+O07.8	échec de tentative d'avortement avec déséquilibre électrolytique
+O07.8	échec de tentative d'avortement compliqué d'un choc
+O07.8	échec de tentative d'avortement avec collapsus cardiovasculaire
+O07.8	échec de tentative d'avortement avec choc post-opératoire
+O07.5	échec de tentative d'avortement avec choc septique
+O07.7	échec de tentative d'avortement compliqué d'une embolie
+O07.7	échec de tentative d'avortement avec embolie gazeuse
+O07.7	échec de tentative d'avortement avec embolie amniotique
+O07.7	échec de tentative d'avortement avec embolie due à un caillot sanguin
+O07.7	échec de tentative d'avortement avec embolie graisseuse
+O07.7	échec de tentative d'avortement avec embolie pulmonaire
+O07.7	échec de tentative d'avortement avec embolie pyohémique
+O07.7	échec de tentative d'avortement avec embolie septique
+O07.7	échec de tentative d'avortement avec embolie due au savon
+O07.8	échec de tentative d'avortement avec autre complication précisée
+O07.8	échec de tentative d'avortement avec atrophie jaune aiguë du foie
+O07.8	échec de tentative d'avortement avec hépatite fulminante
+O07.8	échec de tentative d'avortement avec arrêt ou insuffisance cardiaque
+O07.8	échec de tentative d'avortement avec anoxie cérébrale
+O07.8	échec de tentative d'avortement avec infection des voies urinaires
+O26.9	complication liée à la grossesse
+O26.9	grossesse compliquée
+O20.9	hémorragie du début de la grossesse
+O20.9	hémorragie avant 22 semaines de grossesse
+O20.9	hémorragie du début de la grossesse sans précision sur l'épisode de soins
+O20.0	menace d'avortement
+O20.0	avortement imminent
+O20.0	menace d'avortement au cours du premier trimestre
+O20.0	menace d'avortement au cours du second trimestre
+O20.0	menace d'avortement au cours du troisième trimestre
+O20.0	menace d'avortement avec complication ou affection antepartum
+O20.0	menace d'avortement, épisode de soins non précisé
+O20.8	hémorragie précisée du début de la grossesse
+O20.8	autre hémorragie précisée du début de la grossesse, épisode de soins non précisé
+O20.8	autre hémorragie précisée du début de la grossesse, avec complication ou affection antepartum
+O46.9	hémorragie de la grossesse
+O46.9	hémorragie antepartum
+O46.9	hémorragie précédant l'accouchement
+O67.9	hémorragie intrapartum
+O67.9	hémorragie pendant l'accouchement
+O44.0	placenta praevia sans hémorragie
+O44.0	insertion basse du placenta sans hémorragie
+O44.0	implantation basse du placenta sans hémorragie
+O44.0	placenta praevia diagnostiqué pendant la grossesse, sans mention d'hémorragie
+O44.0	placenta praevia diagnostiqué antepartum sans mention d'hémorragie, suivi d'accouchement par césarienne
+O44.1	hémorragie due à un placenta praevia
+O44.1	implantation basse du placenta avec hémorragie intrapartum
+O44.1	insertion basse du placenta avec hémorragie intrapartum
+O44.1	placenta praevia marginal avec hémorragie intrapartum
+O44.1	placenta praevia partiel avec hémorragie intrapartum
+O44.1	placenta praevia incomplet avec hémorragie intrapartum
+O44.1	placenta praevia total avec hémorragie intrapartum
+O44.1	placenta praevia complet avec hémorragie intrapartum
+O45.9	décollement prématuré du placenta
+O46.9	hémorragie accidentelle avant l'accouchement
+O45.9	séparation prématurée du placenta
+O46.9	hémorragie antepartum accidentelle
+O45.9	décollement prématuré du placenta normalement inséré
+O45.9	hématome rétroplacentaire
+O45.8	syndrome de Couvelaire
+O45.8	apoplexie utéro-placentaire
+O46.0	hémorragie antepartum associée à des anomalies de la coagulation
+O46.0	hémorragie précédant l'accouchement associée à des anomalies de la coagulation
+O67.0	hémorragie pendant l'accouchement associée à une afibrinogénémie
+O67.0	hémorragie pendant l'accouchement associée à une afibrinémie
+O67.0	hémorragie pendant l'accouchement associée à une hyperfibrinolyse
+O67.0	hémorragie de la parturiente associée à une hyperfibrinolyse
+O67.0	hémorragie pendant l'accouchement associée à une hypofibrinogénémie
+O67.0	hémorragie pendant l'accouchement associée à une hypofibrinémie
+O99.1	hémorragie antepartum ou intrapartum associée à un traumatisme
+O99.1	hémorragie antepartum ou intrapartum associée à un léiomyome de l'utérus
+O46.8	autre hémorragie antepartum
+O46.8	autre hémorragie précédant l'accouchement
+O16	hypertension dans un contexte obstétrical
+O16	hypertension, sans albuminurie ou oedème, dans un contexte obstétrical
+O16	hypertension, sans albuminurie ou oedème, compliquant la grossesse, l'accouchement ou la puerpéralité
+O16	hypertension, sans précision, compliquant la grossesse, l'accouchement ou la puerpéralité
+O13	hypertension liée à la grossesse
+O10.0	hypertension essentielle bénigne prééxistante dans un contexte obstétrical
+O10.0	hypertension essentielle bénigne prééxistante, compliquant une grossesse ou cause de soins en cours de grossesse
+O10.0	hypertension essentielle bénigne prééxistante, compliquant l'accouchement ou comme cause de soins pendant l'accouchement
+O10.0	hypertension essentielle bénigne prééxistante, compliquant la puerpéralité ou cause de soins pendant la puerpéralité
+O10.9	hypertension préexistante dans un contexte obstétrical
+O10.9	hypertension préexistante, compliquant ou cause de soins obstétricaux pendant la grossesse
+O10.9	hypertension préexistante, compliquant ou cause de soins obstétricaux pendant l'accouchement
+O10.9	hypertension préexistante, compliquant ou cause de soins obstétricaux pendant la puerpéralité
+O10.9	hypertension chronique dans un contexte obstétrical
+O10.9	hypertension chronique compliquant ou cause de soins obstétricaux pendant la grossesse
+O10.9	hypertension chronique compliquant ou cause de soins obstétricaux pendant l'accouchement
+O10.9	hypertension chronique compliquant ou cause de soins obstétricaux pendant la puerpéralité
+O10.0	hypertension essentielle prééxistante dans un contexte obstétrical
+O10.0	hypertension primitive systémique prééxistante dans un contexte obstétrical
+O10.0	hypertension essentielle prééxistante, compliquant la grossesse ou cause de soins obstétricaux pendant la grossesse
+O10.0	hypertension primitive systémique prééxistante, compliquant ou cause de soins obstétricaux pendant la grossesse
+O10.0	hypertension essentielle prééxistante, compliquant l'accouchement ou cause de soins obstétricaux pendant l'accouchement
+O10.0	hypertension primitive systémique prééxistante, compliquant l'accouchement ou cause de soins obstétricaux pendant l'accouchement
+O10.0	hypertension essentielle prééxistante, compliquant la puerpéralité ou cause de soins obstétricaux pendant la puerpéralité
+O10.0	hypertension primitive prééxistante, compliquant la puerpéralité ou cause de soins obstétricaux pendant la puerpéralité
+O10.0	hypertension artérielle maligne prééxistante dans un contexte obstétrical
+O10.0	hypertension artérielle maligne prééxistante, compliquant ou cause de soins obstétricaux pendant la grossesse
+O10.0	hypertension artérielle maligne prééxistante, compliquant ou cause de soins obstétricaux pendant l'accouchement
+O10.0	hypertension artérielle maligne prééxistante, compliquant ou cause de soins obstétricaux pendant la puerpéralité
+O10.3	cardionéphropathie hypertensive préexistante dans un contexte obstétrical
+O10.3	cardionéphropathie hypertensive préexistante compliquant ou cause de soins obstétricaux pendant la grossesse
+O10.3	cardionéphropathie hypertensive préexistante compliquant ou cause de soins obstétricaux pendant l'accouchement
+O10.3	cardionéphropathie hypertensive préexistante compliquant ou cause de soins obstétricaux pendant la puerpéralité
+O10.1	cardiopathie hypertensive préexistante dans un contexte obstétrical
+O10.1	cardiopathie hypertensive préexistante compliquant ou cause de soins obstétricaux pendant la grossesse
+O10.1	cardiopathie hypertensive préexistante compliquant ou cause de soins obstétricaux pendant l'accouchement
+O10.1	cardiopathie hypertensive préexistante compliquant ou cause de soins obstétricaux pendant la puerpéralité
+O10.2	néphropathie hypertensive préexistante dans un contexte obstétrical
+O10.2	néphropathie hypertensive préexistante compliquant ou cause de soins obstétricaux pendant la grossesse
+O10.2	néphropathie hypertensive préexistante compliquant ou cause de soins obstétricaux pendant l'accouchement
+O10.2	néphropathie hypertensive préexistante compliquant ou cause de soins obstétricaux pendant la puerpéralité
+O10.4	hypertension secondaire à une maladie rénale préexistante dans un contexte obstétrical
+O10.4	hypertension secondaire à une maladie rénale préexistante, compliquant ou cause de soins obstétricaux pendant la grossesse
+O10.4	hypertension secondaire à une maladie rénale préexistante, compliquant ou cause de soins obstétricaux pendant l'accouchement
+O10.4	hypertension secondaire à une maladie rénale préexistante, compliquant ou cause de soins obstétricaux pendant la puerpéralité
+O16	hypertension transitoire de la grossesse
+O13	hypertension gestationnelle
+O14.9	toxémie gravidique
+O14.9	hypertension gravidique
+O14.9	prééclampsie
+O14.9	toxémie prééclamptique
+O14.0	prééclampsie légère
+O14.0	toxémie prééclamptique légère
+O14.1	prééclampsie sévère
+O14.9	hypertension avec albuminurie
+O14.1	toxémie prééclamptique sévère
+O14.0	syndrome HELLP
+O15.9	éclampsie
+O15.9	toxémie éclamptique
+O15.9	toxémie avec convulsions
+O11	hypertension préexistante avec prééclampsie surajoutée
+O15.9	hypertension préexistante avec éclampsie surajoutée
+O21.9	vomissements de la grossesse
+O21.9	vomissements entraînant des soins au cours de la grossesse
+O21.9	vomissements incoercibles au cours de la grossesse
+O21.9	hyperémèse au cours de la grossesse
+O21.9	vomissements abondants et prolongés au cours de la grossesse
+O21.0	hyperémèse gravidique
+O21.0	hyperémèse gravidique bénigne
+O21.0	hyperémèse gravidique bénigne, commençant avant la fin de la 22ème semaine de grossesse
+O21.8	hyperémèse gravidique modérée
+O21.8	hyperémèse gravidique sévère
+O21.1	hyperémèse gravidique avec troubles métaboliques
+O21.1	hyperémèse gravidique, commençant avant la fin de la 22ème semaine de grossesse, avec déplétion des hydrates de carbone
+O21.1	hyperémèse gravidique, commençant avant la fin de la 22ème semaine de grossesse, avec déshydratation
+O21.1	hyperémèse gravidique, commençant avant la fin de la 22ème semaine de grossesse, avec déséquilibre électrolytique
+O21.2	vomissements tardifs de la grossesse
+O21.2	vomissements importants commençant après la fin de la 22ème semaine de grossesse
+O21.8	vomissements dus à une maladie organique pendant la grossesse
+O21.8	autres vomissements compliquant la grossesse
+O47.0	menace d'accouchement prématuré
+O47.0	MAP
+O47.0	faux travail entre la 22e et la 37e semaine d'aménorrhée
+O47.0	faux travail, après 22 semaines et avant 37 semaines entières de grossesse
+O47.1	faux travail sans accouchement
+O47.1	faux travail après 37 semaines de grossesse
+O60	début prématuré de l'accouchement avant 37 semaines de grossesse
+O60	accouchement spontané avant la 37e semaine d'aménorrhée
+O60	travail prématuré, début spontané de l'accouchement avant 37 semaines de grossesse
+O48	grossesse prolongée
+O48	grossesse se prolongeant au-delà de 42 semaines
+O26.9	autre complication de la grossesse
+O99.8	complication précisée de la grossesse
+O12.0	oedème au cours de la grossesse sans mention d'hypertension
+O12.0	oedème gestationnel sans mention d'hypertension
+O26.0	syndrome d'obésité maternelle
+O26.0	prise de poids excessive au cours de la grossesse sans hypertension
+O26.8	maladie rénale au cours de la grossesse ou de la puerpéralité sans mention d'hypertension
+O26.8	néphropathie, au cours de la grossesse ou de la puerpéralité, sans mention d'hypertension
+O12.1	protéinurie gestationnelle
+O12.1	albuminurie au cours de la grossesse sans mention d'hypertension
+O26.8	névrite périphérique au cours de la grossesse
+O23.4	bactériurie asymptomatique au cours de la grossesse
+O23.9	infection génito-urinaire au cours de la grossesse
+O26.6	affection hépatique au cours de la grossesse
+O26.6	nécrose hépatique au cours de la grossesse
+O26.6	ictère grave au cours de la grossesse
+O26.6	atrophie jaune aiguë du foie au cours de la grossesse
+O26.8	fatigue au cours de la grossesse
+O26.1	faible prise de poids au cours de la grossesse
+O26.4	herpes gestationis
+O26.4	dermite polymorphe douloureuse récidivante de la grossesse
+O26.4	dermatite polymorphe douloureuse récidivante de la grossesse
+O99.7	dermatite papuleuse au cours de la grossesse
+O99.4	angiectasie au cours de la grossesse
+O99.4	hémangiectasie cutanée au cours de la grossesse
+O99.4	hémangiectasie de la peau au cours de la grossesse
+O24.9	diabète sucré de la mère compliquant la grossesse, l'accouchement ou la puerpéralité
+O99.8	tolérance maternelle anormale au glucose compliquant la grossesse, l'accouchement ou la puerpéralité
+O99.2	maladie thyroïdienne maternelle compliquant la grossesse, l'accouchement ou la puerpéralité
+O99.0	anémie de la mère compliquant la grossesse, l'accouchement ou la puerpéralité
+O99.0	anémie maternelle compliquant la grossesse, l'accouchement ou la puerpéralité
+O99.3	dépendance maternelle aux drogues compliquant la grossesse, l'accouchement ou la puerpéralité
+O99.3	exposition maternelle aux drogues
+O99.3	usage maternel de drogues
+O99.3	troubles mentaux ou émotionnels de la mère compliquant la grossesse, l'accouchement ou la puerpéralité
+O99.4	troubles cardio-vasculaires congénitaux de la mère compliquant la grossesse, l'accouchement ou la puerpéralité
+O99.4	cardiopathie de la mère compliquant la grossesse, l'accouchement ou la puerpéralité
+O99.8	troubles ostéo-articulaires dorsaux de la mère compliquant la grossesse, l'accouchement ou la puerpéralité
+O99.8	dorsalgie compliquant la grossesse
+O99.8	troubles ostéo-articulaires pelviens de la mère compliquant la grossesse, l'accouchement ou la puerpéralité
+O99.8	troubles ostéo-articulaires des membres inférieurs de la mère compliquant la grossesse, l'accouchement ou la puerpéralité
+O45.9	syndrome de Young-Paxson
+O45.9	syndrome d'écrasement gynéco-obstétrical
+O80.0	accouchement tout à fait normal du foetus
+O30.9	gestation multiple
+O30.9	grossesse multiple
+O30.0	grossesse gémellaire
+O30.1	grossesse trigémellaire
+O30.2	grossesse quadrigémellaire
+O30.8	grossesse de quintuplés
+O30.8	grossesse de sextuplés
+O30.8	grossesse de septuplés
+O30.8	grossesse multiple de type précisé
+O64.9	malposition du foetus
+O64.9	malposition foetale
+O64.8	position instable du foetus
+O64.8	position foetale instable
+O64.9	malprésentation du foetus
+O64.9	malprésentation foetale
+O32.9	version céphalique
+O32.1	présentation anormale du siège transformée avec succès en présentation céphalique
+O32.8	autre présentation anormale transformée avec succès en présentation céphalique
+O80.1	accouchement spontané par présentation du siège
+O83.1	accouchement par le siège avec assistance
+O80.1	présentation du siège, sans mention de version
+O64.0	présentation oblique ou transverse du foetus
+O64.0	présentation foetale oblique ou transverse
+O64.0	présentation oblique du foetus
+O64.0	position foetale oblique
+O64.0	présentation transverse du foetus
+O64.0	position foetale transverse
+O64.2	présentation de la face du foetus
+O64.3	présentation du front du foetus
+O64.2	présentation du menton du foetus
+O64.2	présentation foetale du menton
+O32.4	tête haute du foetus à terme
+O32.4	tête foetale haute à terme
+O32.4	non-engagement de la tête du foetus
+O32.5	grossesse multiple avec présentation anormale d'un ou de plusieurs foetus
+O32.5	gestation multiple avec présentation anormale d'un ou de plusieurs foetus
+O64.4	procidence d'un bras foetal
+O64.4	procidence d'un bras du foetus
+O64.5	présentation complexe du foetus
+O64.5	présentation foetale complexe
+O64.8	malposition ou présentation anormale de type précisé du foetus
+O65.4	disproportion entre la tête du foetus et le bassin de la mère
+O65.4	disproportion entre la tête foetale et le bassin maternel
+O33.0	anomalie majeure du bassin osseux
+O33.0	déformation du bassin
+O33.1	bassin rétréci
+O33.1	bassin généralement rétréci
+O33.2	rétrécissement du détroit supérieur du bassin
+O33.3	rétrécissement du détroit inférieur du bassin
+O65.4	disproportion céphalo-pelvienne
+O33.9	disproportion foeto-pelvienne
+O33.4	disproportion d'origine mixte, maternelle et foetale, avec foetus normal
+O33.5	disproportion foetale
+O33.5	disproportion d'origine foetale
+O33.5	foetus anormalement gros entraînant une disproportion
+O33.5	disproportion due à un foetus anormalement gros
+O33.6	disproportion due à un foetus hydrocéphale
+O33.6	foetus hydrocéphale entraînant une disproportion
+O33.7	jumeaux siamois entraînant une disproportion
+O33.7	ascite du foetus entraînant une disproportion
+O33.7	disproportion due à une ascite foetale
+O33.7	hydropisie du foetus entraînant une disproportion
+O33.7	disproportion due à une hydropisie foetale
+O33.7	myéloméningocèle du foetus entraînant une disproportion
+O33.7	disproportion due à une méningomyélocèle foetale
+O33.7	tératome sacro-coccygien du foetus entraînant une disproportion
+O33.7	disproportion due à un tératome sacro-coccygien foetal
+O33.7	tumeur congénitale du foetus entraînant une disproportion
+O33.7	disproportion due à une tumeur congénitale foetale
+O33.8	disproportion d'origine précisée
+O34.9	anomalie des organes et des tissus mous pelviens affectant la grossesse
+O34.9	anomalie d'un organe pelvien affectant la grossesse
+O34.0	anomalie congénitale de l'utérus affectant la grossesse
+O34.0	utérus double affectant la grossesse
+O34.0	utérus bicorne affectant la grossesse
+O34.1	tumeur du corps de l'utérus affectant la grossesse
+O34.1	tumeur du corps utérin affectant la grossesse
+O34.1	fibrome de l'utérus affectant la grossesse
+O26.3	rétention d'un stérilet au cours d'une grossesse
+O26.3	rétention d'un dispositif intra-utérin au cours d'une grossesse
+O34.2	cicatrice utérine due à une intervention chirurgicale antérieure affectant la grossesse
+O34.2	césarienne antérieure
+O34.5	utérus gravide rétroversé
+O34.5	utérus gravide incarcéré
+O34.5	anomalies précisées de la forme ou de la position de l'utérus gravide et des structures adjacentes affectant la grossesse
+O34.8	cystocèle affectant la grossesse
+O34.8	rectocèle affectant la grossesse
+O34.5	prolapsus de l'utérus gravide
+O34.5	protrusion herniaire de l'utérus gravide à travers le muscle grand droit de l'abdomen
+O34.8	abdomen penduleux
+O34.8	plancher pelvien cicatriciel affectant la grossesse
+O34.8	plancher pelvien rigide affectant la grossesse
+O34.3	béance du col utérin (obstétricale)
+O34.3	dilatation anormale du col utérin avant le début du travail
+O34.3	béance du col utérin avant le début du travail
+O34.3	opération de Shirodkar, avec ou sans mention de béance du col utérin
+O34.4	anomalies congénitales ou acquises précisées du col utérin affectant la grossesse
+O34.4	cicatrice du col utérin affectant la grossesse
+O34.4	polype du col utérin affectant la grossesse
+O34.4	intervention chirurgicale antérieure sur le col utérin affectant la grossesse
+O34.4	col utérin rigide affectant la grossesse
+O34.4	sténose ou rétrécissement du col utérin affectant la grossesse
+O34.4	tumeur du col utérin affectant la grossesse
+O34.4	tumeur du col affectant la grossesse
+O34.6	anomalie congénitale ou acquise du vagin affectant la grossesse
+O34.6	intervention chirurgicale antérieure sur le vagin affectant la grossesse
+O34.6	cloisonnement du vagin affectant la grossesse
+O34.6	sténose congénitale du vagin affectant la grossesse
+O34.6	sténose acquise du vagin affectant la grossesse
+O34.6	rétrécissement du vagin affectant la grossesse
+O34.6	tumeur du vagin affectant la grossesse
+O34.6	tumeur vaginale affectant la grossesse
+O34.7	anomalie congénitale ou acquise de la vulve affectant la grossesse
+O34.7	fibrose du périnée affectant la grossesse
+O34.7	persistance de l'hymen affectant la grossesse
+O34.7	intervention chirurgicale antérieure sur la vulve affectant la grossesse
+O34.7	périnée rigide affectant la grossesse
+O34.7	tumeur de la vulve affectant la grossesse
+O34.7	tumeur vulvaire affectant la grossesse
+O35.9	soins maternels liés à des affections foetales connues ou présumées
+O35.0	soins maternels pour malformation du système nerveux central du foetus
+O35.0	soins maternels pour anencéphalie foetale (présumée)
+O35.0	soins maternels pour hydrocéphalie foetale (présumée)
+O35.0	soins maternels pour spina bifida avec myéloméningocèle (présumée)
+O35.1	soins maternels pour anomalie chromosomique foetale
+O35.3	lésion foetale présumée due à une maladie virale maternelle
+O35.3	lésion présumée du foetus due à une maladie virale maternelle
+O35.3	lésion foetale présumée due à une rubéole maternelle
+O35.3	lésion présumée du foetus due à une rubéole maternelle
+O35.5	lésion foetale présumée due à l'usage maternel de drogues
+O35.5	lésion présumée du foetus due à l'usage maternel de drogues
+O35.4	lésion foetale présumée due à l'alcoolisme maternel
+O35.4	lésion présumée du foetus due à l'alcoolisme maternel
+O35.8	lésion foetale présumée due à une toxine environnementale
+O35.8	lésion présumée du foetus due à une toxine environnementale
+O35.8	lésion foetale présumée due à une listériose maternelle
+O35.8	lésion présumée du foetus due à une listériose maternelle
+O35.8	lésion foetale présumée due à une toxoplasmose maternelle
+O35.8	lésion présumée du foetus due à une toxoplasmose maternelle
+O35.7	lésion foetale présumée due à un dispositif intra-utérin
+O35.7	lésion foetale présumée due à un stérilet
+O35.7	lésion présumée du foetus due à un dispositif intra-utérin
+O35.7	lésion présumée du foetus due à un stérilet
+O35.6	lésion foetale présumée due à une irradiation
+O35.6	lésion présumée du foetus due à une irradiation
+O35.8	lésion foetale présumée due à d'autres maladies maternelles
+O35.8	lésion présumée du foetus due à d'autres maladies maternelles
+O35.9	anomalies ou lésions foetales présumées, affectant les soins obstétricaux
+O35.9	anomalies ou lésions présumées du foetus, affectant les soins obstétricaux
+O36.9	soins maternels pour affection du foetus et du placenta
+O36.9	soins maternels pour affection foetale et placentaire
+O36.9	soins maternels pour affection foeto-placentaire
+O36.0	iso-immunisation anti-Rh affectant la grossesse
+O36.0	incompatibilité Rh affectant la grossesse
+O36.1	iso-immunisation ABO affectant la grossesse
+O36.1	iso-immunisation par incompatibilité de groupes sanguins, autres et sans précision, affectant la grossesse
+O36.3	soins maternels pour détresse foetale
+O36.3	soins maternels pour souffrance foetale
+O36.8	soins maternels pour rythme anormal du coeur foetal
+O36.8	soins maternels pour bradycardie foetale
+O36.8	soins maternels pour tachycardie foetale
+O36.8	soins maternels pour anomalie de l'équilibre acido-basique
+O36.8	soins maternels pour acidémie foetale
+O36.8	soins maternels pour acidose foetale
+O36.3	soins maternels pour présence de méconium dans le liquide amniotique
+O36.4	soins maternels pour mort foetale
+O36.4	soins maternels pour mort intra-utérine
+O36.4	soins maternels pour mort foetale après 22 semaines de grossesse
+O36.4	soins maternels pour mort foetale tardive
+O61.9	soins maternels pour échec de l'accouchement
+O36.5	soins maternels pour croissance foetale insuffisante
+O36.5	soins maternels pour foetus léger pour l'âge gestationnel
+O36.5	soins maternels pour insuffisance du placenta
+O36.5	soins maternels pour foetus petit pour l'âge gestationnel
+O36.6	soins maternels pour croissance foetale excessive
+O43.9	soins maternels pour anomalie du placenta
+O43.8	soins maternels pour infarctus placentaire
+O43.8	soins maternels pour anomalie précisée du placenta
+O41.9	trouble de la cavité amniotique ou des membranes
+O40	polyhydramnios
+O40	hydramnios
+O41.0	oligohydramnios
+O41.0	oligoamnios
+O41.0	oligoamnios sans mention de rupture des membranes
+O42.9	rupture de l'amnios
+O42.9	rupture des membranes amniotiques
+O42.9	rupture des membranes foetales
+O42.9	rupture spontanée des membranes foetales
+O42.9	fuite de liquide amniotique
+O42.9	rupture prématurée des membranes
+O42.0	rupture des membranes avec début du travail dans les 24 heures
+O75.6	travail prolongé aprés rupture des membranes
+O75.6	rupture de la cavité amniotique 24 heures ou plus avant le début du travail
+O75.6	accouchement retardé après rupture spontanée ou non précisée des membranes
+O75.5	accouchement retardé après rupture artificielle des membranes
+O41.1	infection de la cavité amniotique
+O41.1	amniotite
+O41.1	chorio-amniotite
+O41.1	membranite
+O41.1	placentite
+O43.8	hémorragie intervilleuse du placenta
+O43.8	oedème placentaire
+O43.8	thrombose intervilleuse
+O43.8	amnion nodosum
+O41.8	kyste amniotique
+O43.8	hémorragie transplacentaire
+O41.1	endométrite déciduale
+O43.8	nécrose du placenta
+O43.8	nécrose placentaire
+O75.8	indication de soins ou d'interventions concernant le travail ou l'accouchement
+O61.9	échec du déclenchement du travail
+O61.1	échec du déclenchement du travail par moyens mécaniques
+O61.1	échec du déclenchement du travail par chirurgie ou autre méthode instrumentale
+O61.0	échec du déclenchement médical du travail
+O61.0	échec du déclenchement du travail par ocytociques
+O61.0	échec du déclenchement du travail par ocytoxiques
+O75.2	pyrexie maternelle pendant le travail
+O75.2	hyperthermie de la mère pendant le travail
+O75.3	infection généralisée pendant le travail
+O75.3	infection généralisée au cours du travail
+O75.3	septicémie pendant le travail
+O75.3	septicémie au cours du travail
+O75.8	action liée au travail ou à l'accouchement
+O75.9	complication du travail et de l'accouchement
+O66.9	dystocie
+O66.9	dystocie d'obstacle
+O66.9	dystocie d'obstacle sans précision
+O66.9	dystocie foetale
+O66.9	dystocie maternelle
+O64.8	dystocie due à une position foetale anormale au début du travail
+O64.8	dystocie due à une position anormale du foetus au début du travail
+O65.8	dystocie osseuse
+O65.5	dystocie par tissus mous anormaux du bassin
+O65.5	prolapsus de la lèvre antérieure du col utérin créant une dystocie
+O64.0	arrêt en profondeur en position transverse
+O64.0	présentation occipito-postérieure persistante
+O66.0	dystocie de la ceinture scapulaire
+O66.0	dystocie des épaules
+O66.0	épaules engagées
+O66.1	dystocie gémellaire
+O66.4	échec de l'épreuve du travail
+O66.5	échec de forceps
+O66.5	échec d'extraction par ventouse
+O66.5	échec de l'application d'une ventouse
+O66.8	cause précisée de dystocie
+O66.8	dystocie de type précisé
+O62.9	anomalie des forces en jeu au cours du travail
+O62.2	inertie utérine
+O62.0	inertie utérine primitive
+O62.0	hypotonie utérine
+O62.0	phase latente prolongée du travail
+O62.0	hypotonie utérine primitive
+O62.0	dilatation insuffisante du col utérin
+O62.1	inertie utérine secondaire
+O62.1	hypotonie utérine secondaire
+O62.1	arrêt de la phase active du travail
+O62.2	inertie utérine de type précisé
+O62.2	atonie de l'utérus
+O62.2	atonie utérine
+O62.2	travail incohérent
+O62.2	travail irrégulier
+O62.2	contractions utérines faibles
+O62.2	faibles contractions utérines
+O63.9	prolongation de la phase active du travail
+O63.9	phase active prolongée du travail
+O62.3	travail trop rapide
+O62.3	accouchement accéléré
+O62.4	contraction utérine anormale
+O62.4	dystocie utérine
+O62.4	spasme du col utérin
+O62.4	dystocie par anneau de contraction
+O62.4	contraction en sablier de l'utérus
+O62.4	travail incoordonné
+O62.4	contractions non coordonnées de l'utérus
+O62.4	dystocie par rétraction de l'anneau de Bandl
+O62.4	dystocie liée à l'anneau de rétraction
+O62.4	anneau de rétraction utérine
+O62.4	contractions tétaniques de l'utérus
+O62.4	contractions tétaniques utérines
+O34.5	spasme utérin
+O62.4	hypertonie de l'utérus
+O62.4	hypertonie utérine
+O63.9	travail prolongé
+O63.9	lenteur du travail
+O63.0	prolongation de la première période du travail
+O63.0	prolongation de la période de dilatation
+O63.1	prolongation de la deuxième période du travail
+O63.1	prolongation de la période d'expulsion
+O63.2	accouchement retardé du deuxième jumeau
+O69.9	complication reliée au cordon ombilical
+O69.0	procidence du cordon ombilical
+O69.0	prolapsus du cordon ombilical
+O69.0	présentation du cordon ombilical
+O69.2	enchevêtrement du cordon ombilical
+O69.2	cordon ombilical autour d'une partie foetale
+O69.1	circulaire du cordon ombilical avec compression
+O69.1	circulaire du cordon ombilical
+O69.1	compression cervicale par le cordon ombilical
+O69.2	noeud du cordon ombilical avec compression
+O69.2	enchevêtrement des cordons de jumeaux dans un sac amniotique unique
+O69.2	enchevêtrement du cordon ombilical sans mention de compression
+O69.8	rupture du cordon ombilical
+O69.4	vasa praevia
+O69.5	lésions vasculaires du cordon
+O69.5	contusion du cordon ombilical
+O69.5	hématome du cordon ombilical
+O69.5	thrombose des vaisseaux ombilicaux
+O69.8	complication reliée au cordon ombilical, de type précisé
+O71.9	lésion traumatique au cours de l'accouchement
+O71.9	traumatisme obstétrical
+O70.9	traumatisme du périnée au cours de l'accouchement
+O70.9	déchirure obstétricale
+O70.0	traumatisme de la vulve au cours de l'accouchement
+O71.8	traumatisme obstétrical par manoeuvre instrumentale
+O70.0	extension traumatique d'une épisiotomie
+O70.0	déchirure périnéale du premier degré
+O70.0	déchirure de l'aponévrose des structures périnéales
+O70.0	déchirure obstétricale du périnée, du premier degré
+O70.0	déchirure obstétricale du périnée intéressant la fourchette
+O70.0	déchirure obstétricale du périnée intéressant l'hymen
+O70.0	déchirure obstétricale du périnée intéressant les lèvres
+O70.0	déchirure obstétricale du périnée intéressant la peau
+O70.0	déchirure obstétricale du périnée intéressant le vagin
+O70.0	déchirure obstétricale du périnée intéressant la vulve
+O70.1	déchirure obstétricale du périnée, du deuxième degré
+O70.1	déchirure obstétricale interne et musculaire des structures périnéales
+O70.1	déchirure obstétricale du deuxième degré
+O70.1	déchirure obstétricale intéressant le plancher pelvien
+O70.1	déchirure obstétricale intéressant les muscles du périnée
+O70.1	déchirure obstétricale intéressant les muscles du vagin
+O70.2	déchirure obstétricale du périnée, du troisième degré
+O70.2	déchirure obstétricale des couches musculaires de la cloison recto-vaginale
+O70.2	déchirure obstétricale du troisième degré
+O70.2	déchirure obstétricale du sphincter anal
+O70.2	déchirure obstétricale de la cloison recto-vaginale
+O70.3	déchirure obstétricale du périnée, du quatrième degré
+O70.3	déchirure obstétricale du quatrième degré
+O70.3	déchirure obstétricale du quatrième degré intéressant la muqueuse anale
+O70.3	déchirure obstétricale du quatrième degré intéressant la muqueuse rectale
+O70.9	déchirure périnéale au cours de l'accouchement
+O70.9	déchirure centrale au cours de l'accouchement
+O71.7	hématome obstétrical de la vulve
+O71.7	hématome périnéal au cours de l'accouchement
+O71.7	hématome obstétrical du périnée
+O71.8	traumatisme précisé du périnée et de la vulve au cours de l'accouchement
+O71.1	rupture obstétricale de l'utérus
+O71.0	rupture de l'utérus avant le début du travail
+O71.0	rupture utérine avant le début du travail
+O71.1	rupture de l'utérus pendant et après le travail
+O71.1	rupture utérine pendant et après le travail
+O71.2	inversion de l'utérus au cours de l'accouchement
+O71.3	déchirure obstétricale du col de l'utérus
+O71.4	déchirure obstétricale vaginale haute
+O71.4	déchirure obstétricale de la paroi vaginale sans mention de déchirure périnéale
+O71.5	traumatisme obstétrical de la vessie
+O71.5	traumatisme obstétrical de l'urètre
+O71.5	lésion obstétricale d'un organe pelvien
+O71.6	lésions obstétricales des articulations et des ligaments pelviens
+O71.6	arrachement obstétrical du cartilage interne de la symphyse pubienne
+O71.6	écartement obstétrical de la symphyse pubienne
+O71.6	écartement traumatique obstétrical de la symphyse pubienne
+O71.6	lésion obstétricale du coccyx
+O71.7	hématome pelvien au cours de l'accouchement
+O71.7	hématome pelvien obstétrical
+O71.7	hématome du vagin au cours de l'accouchement
+O71.7	hématome vaginal obstétrical
+O71.8	traumatisme obstétrical précisé
+O72.1	hémorragie post-partum
+O72.1	hémorragie après expulsion foetale
+O72.1	hémorragie après expulsion du foetus
+O72.0	hémorragie de la troisième période
+O72.0	hémorragie de la délivrance
+O72.0	hémorragie associée à la rétention, l'incarcération ou l'adhérence du placenta
+O72.1	hémorragie du post-partum par atonie utérine
+O72.1	hémorragie immédiate du post-partum
+O72.1	hémorragie du post-partum immédiate
+O72.1	hémorragie dans les 24 heures après l'expulsion du placenta
+O72.2	hémorragie du post-partum, tardive ou secondaire
+O72.2	hémorragie tardive ou secondaire du post-partum
+O72.2	hémorragie après les premières 24 heures suivant l'expulsion du placenta
+O72.2	hémorragie du post-partum, précisée tardive ou secondaire
+O72.2	rétention de produits de conception après l'accouchement, avec hémorragie
+O72.2	hémorragie associée à la rétention partielle du placenta ou des membranes
+O72.3	anomalie de la coagulation du post-partum avec hémorragie
+O72.3	afibrinogénémie du post-partum avec hémorragie
+O72.3	afibrinémie du post-partum avec hémorragie
+O72.3	fibrinolyse du post-partum avec hémorragie
+O73.0	rétention du placenta, sans hémorragie
+O73.0	rétention placentaire, sans hémorragie
+O73.0	rétention placentaire totale sans hémorragie
+O73.0	rétention totale du placenta sans hémorragie
+O73.0	placenta accreta sans hémorragie
+O73.1	rétention de cotylédons placentaires ou de membranes, sans hémorragie
+O73.1	rétention partielle de produits de conception après l'accouchement, sans hémorragie
+O74.9	complication obstétricale due à une anesthésie ou une sédation
+O74.9	complication obstétricale due à l'administration d'un anesthésique ou d'un sédatif
+O74.9	complication obstétricale due à une anesthésie
+O74.9	complicaton obstétricale due à l'administration d'un anesthésique
+O74.9	complication obstétricale due à une anesthésie générale
+O74.9	complication obstétricale due à une anesthésie locale
+O74.9	complication obstétricale due à une sédation
+O74.1	complication pulmonaire obstétricale due à une anesthésie ou une sédation
+O74.1	complication pulmonaire obstétricale due à l'administration d'un anesthésique ou d'un sédatif
+O74.0	inhalation du contenu ou de sécrétions gastriques due à une anesthésie ou une sédation au cours du travail ou de l'accouchement
+O74.0	syndrome de Mendelson dû à l'administration d'un anesthésique ou d'un sédatif au cours du travail ou de l'accouchement
+O74.0	inhalation du contenu ou de sécrétions gastriques due à l'administration d'un anesthésique ou d'un sédatif au cours du travail ou de l'accouchement
+O74.0	pneumopathie par aspiration d'acide gastrique due à l'administration d'un anesthésique ou d'un sédatif au cours du travail ou de l'accouchement
+O74.0	syndrome de Mendelson dû à une anesthésie ou une sédation au cours du travail ou de l'accouchement
+O74.0	pneumopathie par aspiration d'acide gastrique due à une anesthésie ou une sédation,au cours du travail ou de l'accouchement
+O74.1	collapsus pulmonaire par compression dû à une anesthésie ou une sédation au cours du travail ou de l'accouchement
+O74.1	collapsus pulmonaire par compression dû à l'administration d'un anesthésique ou d'un sédatif au cours du travail ou de l'accouchement
+O74.2	complication cardiaque obstétricale due à une anesthésie ou une sédation
+O74.2	complication cardiaque obstétricale due à l'administration d'un anesthésique ou d'un sédatif
+O74.2	complication cardiaque due à l'administration d'un anesthésique ou d'un sédatif au cours du travail et de l'accouchement
+O74.2	complication cardiaque due à une anesthésie ou une sédation au cours du travail et de l'accouchement
+O74.2	arrêt ou insuffisance cardiaque du à une anesthésie ou une sédation au cours du travail ou de l'accouchement
+O74.2	arrêt ou insuffisance cardiaque du à l'administration d'un anesthésique ou d'un sédatif au cours du travail ou de l'accouchement
+O74.3	complication obstétricale du système nerveux central due à une anesthésie ou une sédation
+O74.3	complication obstétricale du système nerveux central due à l'administration d'un anesthésique ou d'un sédatif
+O74.3	anoxie cérébrale due à une anesthésie ou une sédation, au cours du travail et de l'accouchement
+O74.3	anoxie cérébrale due à l'administration d'un anesthésique ou d'un sédatif, au cours du travail et de l'accouchement
+O74.8	complication de type précisé due à une anesthésie ou une sédation au cours du travail et de l'accouchement
+O74.8	complication de type précisé due à l'administration d'un anesthésique ou d'un sédatif au cours du travail et de l'accouchement
+O75.9	autre complication du travail et de l'accouchement
+O75.0	détresse maternelle
+O75.8	trouble métabolique au cours du travail et de l'accouchement
+O75.1	choc pendant ou après le travail et l'accouchement
+O75.1	choc obstétrical
+O26.5	syndrome d'hypotension maternelle
+O90.4	insuffisance rénale aiguë survenant après le travail et l'accouchement
+O90.4	insuffisance rénale aiguë du post-partum
+O75.4	complication d'une chirurgie ou procédure obstétricale
+O75.4	arrêt cardiaque survenant après chirurgie ou autre procédure obstétricale, y compris l'accouchement
+O75.4	insuffisance cardiaque survenant après chirurgie ou autre procédure obstétricale, y compris l'accouchement
+O75.4	anoxie cérébrale après chirurgie ou autre procédure obstétricale, y compris l'accouchement
+O81.5	accouchement par forceps ou extracteur pneumatique (ventouse), sans mention d'indication
+O83.0	extraction par le siège, sans mention d'indication
+O82.9	accouchement par césarienne sans mention d'indication
+O66.8	dystocie par malformation maternelle d'origine hypophysaire
+O66.8	bradytocie
+O90.9	complication puerpérale
+O90.9	complication des suites de couches
+O85	infection puerpérale grave
+O85	endométrite puerpérale
+O86.1	salpingite puerpérale
+O85	phlegmon pelvien puerpéral
+O85	septicémie pelvienne puerpérale
+O85	péritonite puerpérale
+O85	septicémie puerpérale
+O85	fièvre puerpérale
+O22.9	complication veineuse de la grossesse
+O22.0	varices compliquant la grossesse
+O22.0	varices des membres inférieurs compliquant la grossesse
+O22.1	varices de la vulve et du périnée compliquant la grossesse
+O22.4	hémorroïdes compliquant la grossesse
+O87.2	hémorroïdes compliquant la puerpéralité
+O22.9	phlébite compliquant la grossesse
+O87.0	thrombophlébite du post-partum
+O22.2	thrombophlébite superficielle compliquant la grossesse
+O22.9	thrombose compliquant la grossesse
+O87.0	thrombose veineuse superficielle du post-partum
+O22.3	phlébothrombose profonde de l'antepartum
+O22.3	thrombose veineuse profonde avant l'accouchement
+O87.1	phlébothrombose profonde du post-partum
+O87.1	thrombose veineuse profonde du post-partum
+O87.1	thrombophlébite pelvienne du post-partum
+O87.1	phlegmatia alba dolens puerpérale
+O87.1	thrombophlébite ilio-fémorale du post-partum
+O22.5	thrombose veineuse cérébrale au cours de la grossesse
+O22.5	thrombose du sinus veineux cérébral au cours de la grossesse
+O22.9	phlébite ou thrombose compliquant la grossesse ou la puerpéralité
+O22.8	complication veineuse de la grossesse ou de la puerpéralité
+O86.4	pyrexie puerpérale
+O86.4	pyrexie d'origine inconnue au cours de la puerpéralité
+O88.2	embolie pulmonaire obstétricale
+O88.2	embolie pulmonaire au cours de la grossesse, de l'accouchement ou de la puerpéralité
+O88.2	embolie pulmonaire puerpérale
+O88.2	embolie obstétricale par caillot sanguin
+O88.0	embolie gazeuse obstétricale
+O88.1	embolie amniotique
+O88.3	embolie pyohémique ou septique obstétricale
+O88.8	embolie graisseuse pulmonaire obstétricale
+O88.8	autre embolie pulmonaire obstétricale
+O99.4	trouble cérébro-vasculaire au cours de la puerpéralité
+O90.8	complication d'une incision chirurgicale obstétricale
+O90.0	rupture d'une suture de césarienne, au cours de la puerpéralité
+O90.0	rupture puerpérale d'une suture de césarienne
+O90.0	déhiscence ou rupture d'une suture de césarienne, au cours de la puerpéralité
+O90.1	rupture d'une suture du périnée, au cours de la puerpéralité
+O90.1	rupture puerpérale d'une suture du périnée
+O90.1	rupture d'une suture d'épisiotomie, au cours de la puerpéralité
+O90.1	rupture d'une suture de déchirure du périnée, au cours de la puerpéralité
+O90.1	rupture puerpérale d'une suture de déchirure du périnée
+O90.1	déchirure secondaire du périnée, au cours de la puerpéralité
+O90.2	hématome d'une plaie périnéale ou d'une césarienne
+O90.2	hémorragie d'une plaie périnéale ou d'une césarienne
+O90.8	infection d'une plaie périnéale ou d'une césarienne
+O90.8	polype placentaire
+O90.4	syndrome hépato-rénal après l'accouchement
+O90.3	cardiomyopathie du post-partum
+O90.8	subinvolution post-partum de l'utérus
+O90.8	subinvolution utérine puerpérale
+O90.8	hypertrophie utérine post-partum
+O95	mort subite de cause inconnue au cours de la puerpéralité
+O92.2	affection mammaire associée à l'accouchement
+O92.2	mastopathie associée à l'accouchement
+O91.0	infection du sein et du mamelon au cours de l'accouchement
+O91.0	infection du mamelon associée à l'accouchement
+O91.0	abcès du mamelon associé à l'accouchement
+O91.1	abcès du sein associé à l'accouchement
+O91.1	abcès mammaire associé à l'accouchement
+O91.1	abcès subaréolaire associé à l'accouchement
+O91.1	abcès rétromammaire associé à l'accouchement
+O91.1	abcès sous-mammaire associé à l'accouchement
+O91.2	mastite associée à l'accouchement
+O91.2	mastite du post-partum
+O91.2	mastite puerpérale
+O91.1	mastite purulente associée à l'accouchement
+O91.2	mastite non purulente associée à l'accouchement
+O91.2	mastite interstitielle associée à l'accouchement
+O91.2	mastite parenchymateuse associée à l'accouchement
+O91.2	mastite rétromammaire associée à l'accouchement
+O91.2	mastite sous-mammaire associée à l'accouchement
+O91.2	lymphangite du sein associée à l'accouchement
+O91.2	infection précisée du sein et du mamelon associée à l'accouchement
+O92.0	rétraction du mamelon associée à l'accouchement
+O92.1	crevasses du mamelon associées à l'accouchement
+O92.1	fissures du mamelon associées à l'accouchement
+O92.2	engorgement des seins associé à l'accouchement
+O92.7	trouble de la lactation
+O92.5	agalaxie
+O92.5	absence de lactation
+O92.5	agalactie
+O92.5	suppression de la lactation
+O92.6	polygalactie
+O92.6	galactorrhée associée à l'accouchement
+O92.6	sécrétion excessive de lait associée à l'accouchement
+O92.7	galactocèle associée à l'accouchement
+O92.7	galactocèle du post-partum
+O92.7	galactocèle puerpérale
+O67.0	hémorragie de la parturiente associée à une afibrinogémie
+O67.0	hémorragie de la parturiente associée à une hypofibrinogénémie
+O34.8	ventre en besace
+O70.0	déchirure traumatique d'une épisiotomie
+O92.6	syndrome d'aménorrhée-galactorrhée lié à une grossesse
+O92.6	syndrome de Chiari-Frommel
+O92.6	syndrome d'aménorrhée-galactorrhée persistante du post-partum
+O92.6	syndrome d'aménorrhée-galactorrhée post-gravidique
+O24.4	diabète sucré gestationnel
+O24.4	diabète sucré gestationnel, classe A>1<
+O24.4	diabète sucré gestationnel, classe A>2<
+O24.4	diabète sucré gestationnel, classe B>1<
+O24.3	diabète sucré prégestationnel ou tolérance altérée au glucose, classe modifiée de White A
+O24.3	diabète sucré prégestationnel ou tolérance altérée au glucose, classe modifiée de White B
+O24.3	diabète sucré prégestationnel ou tolérance altérée au glucose, classe modifiée de White C
+O24.3	diabète sucré prégestationnel ou tolérance altérée au glucose, classe modifiée de White D
+O24.3	diabète sucré prégestationnel ou tolérance altérée au glucose, classe modifiée de White F
+O24.3	diabète sucré prégestationnel ou tolérance altérée au glucose, classe modifiée de White R
+O24.3	diabète sucré prégestationnel ou tolérance altérée au glucose, classe modifiée de White FR
+O90.5	thyroïdite du post-partum
+O99.0	anémie de grossesse
+O99.0	anémie mégaloblastique de la grossesse
+O98.9	maladie infectieuse de la mère compliquant la grossesse, l'accouchement et la puerpéralité
+O98.3	maladie vénérienne de la mère compliquant la grossesse, l'accouchement ou la puerpéralité
+O98.2	infection gonococcique de la mère compliquant la grossesse, l'accouchement ou la puerpéralité
+O86.8	érysipèle puerpéral grave
+O98.1	syphilis compliquant la grossesse, l'accouchement ou la puerpéralité
+O98.0	tuberculose compliquant la grossesse, l'accouchement ou la puerpéralité
+O23.5	colibacillose gravidique
+O23.5	syndrome de Bar
+O98.5	maladie virale compliquant la grossesse, l'accouchement ou la puerpéralité
+O98.5	rubéole de la mère compliquant la grossesse, l'accouchement ou la puerpéralité
+O98.6	maladie parasitaire de la mère compliquant la grossesse, l'accouchement ou la puerpéralité
+O98.6	paludisme de la mère compliquant la grossesse, l'accouchement ou la puerpéralité
+O95	mort maternelle
+O95	mort maternelle avant l'accouchement
+O95	mort maternelle pendant l'accouchement
+O95	mort maternelle après l'accouchement

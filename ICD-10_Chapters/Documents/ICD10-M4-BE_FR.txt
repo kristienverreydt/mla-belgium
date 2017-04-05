@@ -1,0 +1,1856 @@
+M84.379D	fracture de stress, orteil(s) non spécifié(s), contact subséquent pour une fracture avec une cicatrisation normale
+M84.379G	fracture de stress, orteil(s) non spécifié(s), contact subséquent pour une fracture avec une cicatrisation retardée
+M84.379K	fracture de stress, orteil(s) non spécifié(s), contact subséquent pour une fracture avec pseudarthrose
+M84.379P	fracture de stress, orteil(s) non spécifié(s), contact subséquent pour une fracture avec cal vicieux
+M84.379S	fracture de stress, orteil(s) non spécifié(s), séquelle
+M84.38XA	fracture de stress, autre site, contact initial pour une fracture
+M84.38XD	fracture de stress, autre site, contact subséquent pour une fracture avec une cicatrisation normale
+M84.38XG	fracture de stress, autre site, contact subséquent pour une fracture avec une cicatrisation retardée
+M84.38XK	fracture de stress, autre site, contact subséquent pour une fracture avec pseudarthrose
+M84.38XP	fracture de stress, autre site, contact subséquent pour une fracture avec cal vicieux
+M84.38XS	fracture de stress, autre site, séquelle
+M84.40XA	fracture pathologique, site non spécifié, contact initial pour une fracture
+M84.40XD	fracture pathologique, site non spécifié, contact subséquent pour une fracture avec une cicatrisation normale
+M84.40XG	fracture pathologique, site non spécifié, contact subséquent pour une fracture avec une cicatrisation retardée
+M84.40XK	fracture pathologique, site non spécifié, contact subséquent pour une fracture avec pseudarthrose
+M84.40XP	fracture pathologique, site non spécifié, contact subséquent pour une fracture avec cal vicieux
+M84.40XS	fracture pathologique, site non spécifié, séquelle
+M84.411A	fracture pathologique, épaule droite, contact initial pour une fracture
+M84.411D	fracture pathologique, épaule droite, contact subséquent pour une fracture avec une cicatrisation normale
+M84.411G	fracture pathologique, épaule droite, contact subséquent pour une fracture avec une cicatrisation retardée
+M84.411K	fracture pathologique, épaule droite, contact subséquent pour une fracture avec pseudarthrose
+M84.411P	fracture pathologique, épaule droite, contact subséquent pour une fracture avec cal vicieux
+M84.411S	fracture pathologique, épaule droite, séquelle
+M84.412A	fracture pathologique, épaule gauche, contact initial pour une fracture
+M84.412D	fracture pathologique, épaule gauche, contact subséquent pour une fracture avec une cicatrisation normale
+M84.412G	fracture pathologique, épaule gauche, contact subséquent pour une fracture avec une cicatrisation retardée
+M84.412K	fracture pathologique, épaule gauche, contact subséquent pour une fracture avec pseudarthrose
+M84.412P	fracture pathologique, épaule gauche, contact subséquent pour une fracture avec cal vicieux
+M84.412S	fracture pathologique, épaule gauche, séquelle
+M84.419A	fracture pathologique, épaule non spécifiée, contact initial pour une fracture
+M84.419D	fracture pathologique, épaule non spécifiée, contact subséquent pour une fracture avec une cicatrisation normale
+M84.419G	fracture pathologique, épaule non spécifiée, contact subséquent pour une fracture avec une cicatrisation retardée
+M84.419K	fracture pathologique, épaule non spécifiée, contact subséquent pour une fracture avec pseudarthrose
+M84.419P	fracture pathologique, épaule non spécifiée, contact subséquent pour une fracture avec cal vicieux
+M84.419S	fracture pathologique, épaule non spécifiée, séquelle
+M84.421A	fracture pathologique, humérus droit, contact initial pour une fracture
+M84.421D	fracture pathologique, humérus droit, contact subséquent pour une fracture avec une cicatrisation normale
+M84.421G	fracture pathologique, humérus droit, contact subséquent pour une fracture avec une cicatrisation retardée
+M84.421K	fracture pathologique, humérus droit, contact subséquent pour une fracture avec pseudarthrose
+M84.421P	fracture pathologique, humérus droit, contact subséquent pour une fracture avec cal vicieux
+M84.421S	fracture pathologique, humérus droit, séquelle
+M84.422A	fracture pathologique, humérus gauche, contact initial pour une fracture
+M84.422D	fracture pathologique, humérus gauche, contact subséquent pour une fracture avec une cicatrisation normale
+M84.422G	fracture pathologique, humérus gauche, contact subséquent pour une fracture avec une cicatrisation retardée
+M84.422K	fracture pathologique, humérus gauche, contact subséquent pour une fracture avec pseudarthrose
+M84.422P	fracture pathologique, humérus gauche, contact subséquent pour une fracture avec cal vicieux
+M84.422S	fracture pathologique, humérus gauche, séquelle
+M84.429A	fracture pathologique, humérus non spécifié, contact initial pour une fracture
+M84.429D	fracture pathologique, humérus non spécifié, contact subséquent pour une fracture avec une cicatrisation normale
+M84.429G	fracture pathologique, humérus non spécifié, contact subséquent pour une fracture avec une cicatrisation retardée
+M84.429K	fracture pathologique, humérus non spécifié, contact subséquent pour une fracture avec pseudarthrose
+M84.429P	fracture pathologique, humérus non spécifié, contact subséquent pour une fracture avec cal vicieux
+M84.429S	fracture pathologique, humérus non spécifié, séquelle
+M84.431A	fracture pathologique, cubitus droit, contact initial pour une fracture
+M84.431D	fracture pathologique, cubitus droit, contact subséquent pour une fracture avec une cicatrisation normale
+M84.431G	fracture pathologique, cubitus droit, contact subséquent pour une fracture avec une cicatrisation retardée
+M84.431K	fracture pathologique, cubitus droit, contact subséquent pour une fracture avec pseudarthrose
+M84.431P	fracture pathologique, cubitus droit, contact subséquent pour une fracture avec cal vicieux
+M84.431S	fracture pathologique, cubitus droit, séquelle
+M84.432A	fracture pathologique, cubitus gauche, contact initial pour une fracture
+M84.432D	fracture pathologique, cubitus gauche, contact subséquent pour une fracture avec une cicatrisation normale
+M84.432G	fracture pathologique, cubitus gauche, contact subséquent pour une fracture avec une cicatrisation retardée
+M84.432K	fracture pathologique, cubitus gauche, contact subséquent pour une fracture avec pseudarthrose
+M84.432P	fracture pathologique, cubitus gauche, contact subséquent pour une fracture avec cal vicieux
+M84.432S	fracture pathologique, cubitus gauche, séquelle
+M84.433A	fracture pathologique, radius droit, contact initial pour une fracture
+M84.433D	fracture pathologique, radius droit, contact subséquent pour une fracture avec une cicatrisation normale
+M84.433G	fracture pathologique, radius droit, contact subséquent pour une fracture avec une cicatrisation retardée
+M84.433K	fracture pathologique, radius droit, contact subséquent pour une fracture avec psqeudarthrose
+M84.433P	fracture pathologique, radius droit, contact subséquent pour une fracture avec cal vicieux
+M84.433S	fracture pathologique, radius droit, séquelle
+M84.434A	fracture pathologique, radius gauche, contact initial pour une fracture
+M84.434D	fracture pathologique, radius gauche, contact subséquent pour une fracture avec une cicatrisation normale
+M84.434G	fracture pathologique, radius gauche, contact subséquent pour une fracture avec une cicatrisation retardée
+M84.434K	fracture pathologique, radius gauche, contact subséquent pour une fracture avec pseudarthrose
+M84.434P	fracture pathologique, radius gauche, contact subséquent pour une fracture avec cal vicieux
+M84.434S	fracture pathologique, radius gauche, séquelle
+M84.439A	fracture pathologique, cubitus et radius non spécifiés, contact initial pour une fracture
+M84.439D	fracture pathologique, cubitus et radius non spécifiés, contact subséquent pour une fracture avec une cicatrisation normale
+M84.439G	fracture pathologique, cubitus et radius non spécifiés, contact subséquent pour une fracture avec une cicatrisation retardée
+M84.439K	fracture pathologique, cubitus et radius non spécifiés, contact subséquent pour une fracture avec pseudarthrose
+M84.439P	fracture pathologique, cubitus et radius non spécifiés, contact subséquent pour une fracture avec cal vicieux
+M84.439S	fracture pathologique, cubitus et radius non spécifiés, séquelle
+M84.441A	fracture pathologique, main droite, contact initial pour une fracture
+M84.441D	fracture pathologique, main droite, contact subséquent pour une fracture avec une cicatrisation normale
+M84.441G	fracture pathologique, main droite, contact subséquent pour une fracture avec une cicatrisation retardée
+M84.441K	fracture pathologique, main droite, contact subséquent pour une fracture avec pseudarthrose
+M84.441P	fracture pathologique, main droite, contact subséquent pour une fracture avec cal vicieux
+M84.441S	fracture pathologique, main droite, séquelle
+M84.442A	fracture pathologique, main gauche, contact initial pour une fracture
+M84.442D	fracture pathologique, main gauche, contact subséquent pour une fracture avec une cicatrisation normale
+M84.442G	fracture pathologique, main gauche, contact subséquent pour une fracture avec une cicatrisation retardée
+M84.442K	fracture pathologique, main gauche, contact subséquent pour une fracture avec pseudarthrose
+M84.442P	fracture pathologique, main gauche, contact subséquent pour une fracture avec cal vicieux
+M84.442S	fracture pathologique, main gauche, séquelle
+M84.443A	fracture pathologique, main non spécifiée, contact initial pour une fracture
+M84.443D	fracture pathologique, main non spécifiée, contact subséquent pour une fracture avec une cicatrisation normale
+M84.443G	fracture pathologique, main non spécifiée, contact subséquent pour une fracture avec une cicatrisation retardée
+M84.443K	fracture pathologique, main non spécifiée, contact subséquent pour une fracture avec pseudarthrose
+M84.443P	fracture pathologique, main non spécifiée, contact subséquent pour une fracture avec cal vicieux
+M84.443S	fracture pathologique, main non spécifiée, séquelle
+M84.444A	fracture pathologique, doigt(s) droit(s), contact initial pour une fracture
+M84.444D	fracture pathologique, doigt(s) droit(s), contact subséquent pour une fracture avec une cicatrisation normale
+M84.444G	fracture pathologique, doigt(s) droit(s), contact subséquent pour une fracture avec une cicatrisation retardée
+M84.444K	fracture pathologique, doigt(s) droit(s), contact subséquent pour une fracture avec pseudarthrose
+M84.444P	fracture pathologique, doigt(s) droit(s), contact subséquent pour une fracture avec cal vicieux
+M84.444S	fracture pathologique, doigt(s) droit(s), séquelle
+M84.445A	fracture pathologique, doigt(s) gauche(s), contact initial pour une fracture
+M84.445D	fracture pathologique, doigt(s) gauche(s), contact subséquent pour une fracture avec une cicatrisation normale
+M84.445G	fracture pathologique, doigt(s) gauche(s), contact subséquent pour une fracture avec une cicatrisation retardée
+M84.445K	fracture pathologique, doigt(s) gauche(s), contact subséquent pour une fracture avec pseudarthrose
+M84.445P	fracture pathologique, doigt(s) gauche(s), contact subséquent pour une fracture avec cal vicieux
+M84.445S	fracture pathologique, doigt(s) gauche(s), séquelle
+M84.446A	fracture pathologique, doigt(s) non spécifié(s), contact initial pour une fracture
+M84.446D	fracture pathologique, doigt(s) non spécifié(s), contact subséquent pour une fracture avec une cicatrisation normale
+M84.446G	fracture pathologique, doigt(s) non spécifié(s), contact subséquent pour une fracture avec une cicatrisation retardée
+M84.446K	fracture pathologique, doigt(s) non spécifié(s), contact subséquent pour une fracture avec pseudarthrose
+M84.446P	fracture pathologique, doigt(s) non spécifié(s), contact subséquent pour une fracture avec cal vicieux
+M84.446S	fracture pathologique, doigt(s) non spécifié(s), séquelle
+M84.451A	fracture pathologique, fémur droit, contact initial pour une fracture
+M84.451D	fracture pathologique, fémur droit, contact subséquent pour une fracture avec une cicatrisation normale
+M84.451G	fracture pathologique, fémur droit, contact subséquent pour une fracture avec une cicatrisation retardée
+M84.451K	fracture pathologique, fémur droit, contact subséquent pour une fracture avec pseudarthrose
+M84.451P	fracture pathologique, fémur droit, contact subséquent pour une fracture avec cal vicieux
+M84.451S	fracture pathologique, fémur droit, séquelle
+M84.452A	fracture pathologique, fémur gauche, contact initial pour une fracture
+M84.452D	fracture pathologique, fémur gauche, contact subséquent pour une fracture avec une cicatrisation normale
+M84.452G	fracture pathologique, fémur gauche, contact subséquent pour une fracture avec une cicatrisation retardée
+M84.452K	fracture pathologique, fémur gauche, contact subséquent pour une fracture avec pseudarthrose
+M84.452P	fracture pathologique, fémur gauche, contact subséquent pour une fracture avec cal vicieux
+M84.452S	fracture pathologique, fémur gauche, séquelle
+M84.453A	fracture pathologique, fémur non spécifié, contact initial pour une fracture
+M84.453D	fracture pathologique, fémur non spécifié, contact subséquent pour une fracture avec une cicatrisation normale
+M84.453G	fracture pathologique, fémur non spécifié, contact subséquent pour une fracture avec une cicatrisation retardée
+M84.453K	fracture pathologique, fémur non spécifié, contact subséquent pour une fracture avec pseudarthrose
+M84.453P	fracture pathologique, fémur non spécifié, contact subséquent pour une fracture avec cal vicieux
+M84.453S	fracture pathologique, fémur non spécifié, séquelle
+M84.454A	fracture pathologique, bassin, contact initial pour une fracture
+M84.454D	fracture pathologique, bassin, contact subséquent pour une fracture avec une cicatrisation normale
+M84.454G	fracture pathologique, bassin, contact subséquent pour une fracture avec une cicatrisation retardée
+M84.454K	fracture pathologique, bassin, contact subséquent pour une fracture avec pseudarthrose
+M84.454P	fracture pathologique, bassin, contact subséquent pour une fracture avec cal vicieux
+M84.454S	fracture pathologique, bassin, séquelle
+M84.459A	fracture pathologique, hanche, non spécifiée, contact initial pour une fracture
+M84.459D	fracture pathologique, hanche, non spécifiée, contact subséquent pour une fracture avec une cicatrisation normale
+M84.459G	fracture pathologique, hanche, non spécifiée, contact subséquent pour une fracture avec une cicatrisation retardée
+M84.459K	fracture pathologique, hanche, non spécifiée, contact subséquent pour une fracture avec pseudarthrose
+M84.459P	fracture pathologique, hanche, non spécifiée, contact subséquent pour une fracture avec cal vicieux
+M84.459S	fracture pathologique, hanche, non spécifiée, séquelle
+M84.461A	fracture pathologique, tibia droit, contact initial pour une fracture
+M84.461D	fracture pathologique, tibia droit, contact subséquent pour une fracture avec une cicatrisation normale
+M84.461G	fracture pathologique, tibia droit, contact subséquent pour une fracture avec une cicatrisation retardée
+M84.461K	fracture pathologique, tibia droit, contact subséquent pour une fracture avec pseudarthrose
+M84.461P	fracture pathologique, tibia droit, contact subséquent pour une fracture avec cal vicieux
+M84.461S	fracture pathologique, tibia droit, séquelle
+M84.462A	fracture pathologique, tibia gauche, contact initial pour une fracture
+M84.462D	fracture pathologique, tibia gauche, contact subséquent pour une fracture avec une cicatrisation normale
+M84.462G	fracture pathologique, tibia gauche, contact subséquent pour une fracture avec une cicatrisation retardée
+M84.462K	fracture pathologique, tibia gauche, contact subséquent pour une fracture avec pseudarthrose
+M84.462P	fracture pathologique, tibia gauche, contact subséquent pour une fracture avec cal vicieux
+M84.462S	fracture pathologique, tibia gauche, séquelle
+M84.463A	fracture pathologique, péroné droit, contact initial pour une fracture
+M84.463D	fracture pathologique, péroné droit, contact subséquent pour une fracture avec une cicatrisation normale
+M84.463G	fracture pathologique, péroné droit, contact subséquent pour une fracture avec une cicatrisation retardée
+M84.463K	fracture pathologique, péroné droit, contact subséquent pour une fracture avec pseudarthrose
+M84.463P	fracture pathologique, péroné droit, contact subséquent pour une fracture avec cal vicieux
+M84.463S	fracture pathologique, péroné droit, séquelle
+M84.464A	fracture pathologique, péroné gauche, contact initial pour une fracture
+M84.464D	fracture pathologique, péroné gauche, contact subséquent pour une fracture avec une cicatrisation normale
+M84.464G	fracture pathologique, péroné gauche, contact subséquent pour une fracture avec une cicatrisation retardée
+M84.464K	fracture pathologique, péroné gauche, contact subséquent pour une fracture avec pseudarthrose
+M84.464P	fracture pathologique, péroné gauche, contact subséquent pour une fracture avec cal vicieux
+M84.464S	fracture pathologique, péroné gauche, séquelle
+M84.469A	fracture pathologique, tibia et péroné non spécifiés, contact initial pour une fracture
+M84.469D	fracture pathologique, tibia et péroné non spécifiés, contact subséquent pour une fracture avec une cicatrisation normale
+M84.469G	fracture pathologique, tibia et péroné non spécifiés, contact subséquent pour une fracture avec une cicatrisation retardée
+M84.469K	fracture pathologique, tibia et péroné non spécifiés, contact subséquent pour une fracture avec pseudarthrose
+M84.469P	fracture pathologique, tibia et péroné non spécifiés, contact subséquent pour une fracture avec cal vicieux
+M84.469S	fracture pathologique, tibia et péroné non spécifiés, séquelle
+M84.471A	fracture pathologique, cheville droite, contact initial pour une fracture
+M84.471D	fracture pathologique, cheville droite, contact subséquent pour une fracture avec une cicatrisation normale
+M84.471G	fracture pathologique, cheville droite, contact subséquent pour une fracture avec une cicatrisation retardée
+M84.471K	fracture pathologique, cheville droite, contact subséquent pour une fracture avec pseudarthrose
+M84.471P	fracture pathologique, cheville droite, contact subséquent pour une fracture avec cal vicieux
+M84.471S	fracture pathologique, cheville droite, séquelle
+M84.472A	fracture pathologique, cheville gauche, contact initial pour une fracture
+M84.472D	fracture pathologique, cheville gauche, contact subséquent pour une fracture avec une cicatrisation normale
+M84.472G	fracture pathologique, cheville gauche, contact subséquent pour une fracture avec une cicatrisation retardée
+M84.472K	fracture pathologique, cheville gauche, contact subséquent pour une fracture avec pseudarthrose
+M84.472P	fracture pathologique, cheville gauche, contact subséquent pour une fracture avec cal vicieux
+M84.472S	fracture pathologique, cheville gauche, séquelle
+M84.473A	fracture pathologique, cheville non spécifiée, contact initial pour une fracture
+M84.473D	fracture pathologique, cheville non spécifiée, contact subséquent pour une fracture avec une cicatrisation normale
+M84.473G	fracture pathologique, cheville non spécifiée, contact subséquent pour une fracture avec une cicatrisation retardée
+M84.473K	fracture pathologique, cheville non spécifiée, contact subséquent pour une fracture avec pseudarthrose
+M84.473P	fracture pathologique, cheville non spécifiée, contact subséquent pour une fracture avec cal vicieux
+M84.473S	fracture pathologique, cheville non spécifiée, séquelle
+M84.474A	fracture pathologique, pied droit, contact initial pour une fracture
+M84.474D	fracture pathologique, pied droit, contact subséquent pour une fracture avec une cicatrisation normale
+M84.474G	fracture pathologique, pied droit, contact subséquent pour une fracture avec une cicatrisation retardée
+M84.474K	fracture pathologique, pied droit, contact subséquent pour une fracture avec pseudarthrose
+M84.474P	fracture pathologique, pied droit, contact subséquent pour une fracture avec cal vicieux
+M84.474S	fracture pathologique, pied droit, séquelle
+M84.475A	fracture pathologique, pied gauche, contact initial pour une fracture
+M84.475D	fracture pathologique, pied gauche, contact subséquent pour une fracture avec une cicatrisation normale
+M84.475G	fracture pathologique, pied gauche, contact subséquent pour une fracture avec une cicatrisation retardée
+M84.475K	fracture pathologique, pied gauche, contact subséquent pour une fracture avec pseudarthrose
+M84.475P	fracture pathologique, pied gauche, contact subséquent pour une fracture avec cal vicieux
+M84.475S	fracture pathologique, pied gauche, séquelle
+M84.476A	fracture pathologique, pied non spécifié, contact initial pour une fracture
+M84.476D	fracture pathologique, pied non spécifié, contact subséquent pour une fracture avec une cicatrisation normale
+M84.476G	fracture pathologique, pied non spécifié, contact subséquent pour une fracture avec une cicatrisation retardée
+M84.476K	fracture pathologique, pied non spécifié, contact subséquent pour une fracture avec pseudarthrose
+M84.476P	fracture pathologique, pied non spécifié, contact subséquent pour une fracture avec cal vicieux
+M84.476S	fracture pathologique, pied non spécifié, séquelle
+M84.477A	fracture pathologique, orteil(s) droit(s), contact initial pour une fracture
+M84.477D	fracture pathologique, orteil(s) droit(s), contact subséquent pour une fracture avec une cicatrisation normale
+M84.477G	fracture pathologique, orteil(s) droit(s), contact subséquent pour une fracture avec une cicatrisation retardée
+M84.477K	fracture pathologique, orteil(s) droit(s), contact subséquent pour une fracture avec pseudarthrose
+M84.477P	fracture pathologique, orteil(s) droit(s), contact subséquent pour une fracture avec cal vicieux
+M84.477S	fracture pathologique, orteil(s) droit(s), séquelle
+M84.478A	fracture pathologique, orteil(s) gauche(s), contact initial pour une fracture
+M84.478D	fracture pathologique, orteil(s) gauche(s), contact subséquent pour une fracture avec une cicatrisation normale
+M84.478G	fracture pathologique, orteil(s) gauche(s), contact subséquent pour une fracture avec une cicatrisation retardée
+M84.478K	fracture pathologique, orteil(s) gauche(s), contact subséquent pour une fracture avec pseudarthrose
+M84.478P	fracture pathologique, orteil(s) gauche(s), contact subséquent pour une fracture avec cal vicieux
+M84.478S	fracture pathologique, orteil(s) gauche(s), séquelle
+M84.479A	fracture pathologique, orteil(s) non spécifié(s), contact initial pour une fracture
+M84.479D	fracture pathologique, orteil(s) non spécifié(s), contact subséquent pour une fracture avec une cicatrisation normale
+M84.479G	fracture pathologique, orteil(s) non spécifié(s), contact subséquent pour une fracture avec une cicatrisation retardée
+M84.479K	fracture pathologique, orteil(s) non spécifié(s), contact subséquent pour une fracture avec pseudarthrose
+M84.479P	fracture pathologique, orteil(s) non spécifié(s), contact subséquent pour une fracture avec cal vicieux
+M84.479S	fracture pathologique, orteil(s) non spécifié(s), séquelle
+M84.48XA	fracture pathologique, autre site, contact initial pour une fracture
+M84.48XD	fracture pathologique, autre site, contact subséquent pour une fracture avec une cicatrisation normale
+M84.48XG	fracture pathologique, autre site, contact subséquent pour une fracture avec une cicatrisation retardée
+M84.48XK	fracture pathologique, autre site, contact subséquent pour une fracture avec pseudarthrose
+M84.48XP	fracture pathologique, autre site, contact subséquent pour une fracture avec cal vicieux
+M84.48XS	fracture pathologique, autre site, séquelle
+M84.50XA	fracture pathologique au cours d'une maladie néoplasique, site non spécifié, contact initial pour une fracture
+M84.50XD	fracture pathologique au cours d'une maladie néoplasique, site non spécifié, contact subséquent pour une fracture avec une cicatrisation normale
+M84.50XG	fracture pathologique au cours d'une maladie néoplasique, site non spécifié, contact subséquent pour une fracture avec une cicatrisation retardée
+M84.50XK	fracture pathologique au cours d'une maladie néoplasique, site non spécifié, contact subséquent pour une fracture avec pseudarthrose
+M84.50XP	fracture pathologique au cours d'une maladie néoplasique, site non spécifié, contact subséquent pour une fracture avec cal vicieux
+M84.50XS	fracture pathologique au cours d'une maladie néoplasique, site non spécifié, séquelle
+M84.511A	fracture pathologique au cours d'une maladie néoplasique, épaule droite, contact initial pour une fracture
+M84.511D	fracture pathologique au cours d'une maladie néoplasique, épaule droite, contact subséquent pour une fracture avec une cicatrisation normale
+M84.511G	fracture pathologique au cours d'une maladie néoplasique, épaule droite, contact subséquent pour une fracture avec une cicatrisation retardée
+M84.511K	fracture pathologique au cours d'une maladie néoplasique, épaule droite, contact subséquent pour une fracture avec pseudarthrose
+M84.511P	fracture pathologique au cours d'une maladie néoplasique, épaule droite, contact subséquent pour une fracture avec cal vicieux
+M84.511S	fracture pathologique au cours d'une maladie néoplasique, épaule droite, séquelle
+M84.512A	fracture pathologique au cours d'une maladie néoplasique, épaule gauche, contact initial pour une fracture
+M84.512D	fracture pathologique au cours d'une maladie néoplasique, épaule gauche, contact subséquent pour une fracture avec une cicatrisation normale
+M84.512G	fracture pathologique au cours d'une maladie néoplasique, épaule gauche, contact subséquent pour une fracture avec une cicatrisation retardée
+M84.512K	fracture pathologique au cours d'une maladie néoplasique, épaule gauche, contact subséquent pour une fracture avec pseudarthrose
+M84.512P	fracture pathologique au cours d'une maladie néoplasique, épaule gauche, contact subséquent pour une fracture avec cal vicieux
+M84.512S	fracture pathologique au cours d'une maladie néoplasique, épaule gauche, séquelle
+M84.519A	fracture pathologique au cours d'une maladie néoplasique, épaule non spécifiée, contact initial pour une fracture
+M84.519D	fracture pathologique au cours d'une maladie néoplasique, épaule non spécifiée, contact subséquent pour une fracture avec une cicatrisation normale
+M84.519G	fracture pathologique au cours d'une maladie néoplasique, épaule non spécifiée, contact subséquent pour une fracture avec une cicatrisation retardée
+M84.519K	fracture pathologique au cours d'une maladie néoplasique, épaule non spécifiée, contact subséquent pour une fracture avec pseudarthrose
+M84.519P	fracture pathologique au cours d'une maladie néoplasique, épaule non spécifiée, contact subséquent pour une fracture avec cal vicieux
+M84.519S	fracture pathologique au cours d'une maladie néoplasique, épaule non spécifiée, séquelle
+M84.521A	fracture pathologique au cours d'une maladie néoplasique, humérus droit, contact initial pour une fracture
+M84.521D	fracture pathologique au cours d'une maladie néoplasique, humérus droit, contact subséquent pour une fracture avec une cicatrisation normale
+M84.521G	fracture pathologique au cours d'une maladie néoplasique, humérus droit, contact subséquent pour une fracture avec une cicatrisation retardée
+M84.521K	fracture pathologique au cours d'une maladie néoplasique, humérus droit, contact subséquent pour une fracture avec pseudarthrose
+M84.521P	fracture pathologique au cours d'une maladie néoplasique, humérus droit, contact subséquent pour une fracture avec cal vicieux
+M84.521S	fracture pathologique au cours d'une maladie néoplasique, humérus droit, séquelle
+M84.522A	fracture pathologique au cours d'une maladie néoplasique, humérus gauche, contact initial pour une fracture
+M84.522D	fracture pathologique au cours d'une maladie néoplasique, humérus gauche, contact subséquent pour une fracture avec une cicatrisation normale
+M84.522G	fracture pathologique au cours d'une maladie néoplasique, humérus gauche, contact subséquent pour une fracture avec une cicatrisation retardée
+M84.522K	fracture pathologique au cours d'une maladie néoplasique, humérus gauche, contact subséquent pour une fracture avec pseudarthrose
+M84.522P	fracture pathologique au cours d'une maladie néoplasique, humérus gauche, contact subséquent pour une fracture avec cal vicieux
+M84.522S	fracture pathologique au cours d'une maladie néoplasique, humérus gauche, séquelle
+M84.529A	fracture pathologique au cours d'une maladie néoplasique, humérus non spécifié, contact initial pour une fracture
+M84.529D	fracture pathologique au cours d'une maladie néoplasique, humérus non spécifié, contact subséquent pour une fracture avec une cicatrisation normale
+M84.529G	fracture pathologique au cours d'une maladie néoplasique, humérus non spécifié, contact subséquent pour une fracture avec une cicatrisation retardée
+M84.529K	fracture pathologique au cours d'une maladie néoplasique, humérus non spécifié, contact subséquent pour une fracture avec pseudarthrose
+M84.529P	fracture pathologique au cours d'une maladie néoplasique, humérus non spécifié, contact subséquent pour une fracture avec cal vicieux
+M84.529S	fracture pathologique au cours d'une maladie néoplasique, humérus non spécifié, séquelle
+M84.531A	fracture pathologique au cours d'une maladie néoplasique, cubitus droit, contact initial pour une fracture
+M84.531D	fracture pathologique au cours d'une maladie néoplasique, cubitus droit, contact subséquent pour une fracture avec une cicatrisation normale
+M84.531G	fracture pathologique au cours d'une maladie néoplasique, cubitus droit, contact subséquent pour une fracture avec une cicatrisation retardée
+M84.531K	fracture pathologique au cours d'une maladie néoplasique, cubitus droit, contact subséquent pour une fracture avec pseudarthrose
+M84.531P	fracture pathologique au cours d'une maladie néoplasique, cubitus droit, contact subséquent pour une fracture avec cal vicieux
+M84.531S	fracture pathologique au cours d'une maladie néoplasique, cubitus droit, séquelle
+M84.532A	fracture pathologique au cours d'une maladie néoplasique, cubitus gauche, contact initial pour une fracture
+M84.532D	fracture pathologique au cours d'une maladie néoplasique, cubitus gauche, contact subséquent pour une fracture avec une cicatrisation normale
+M84.532G	fracture pathologique au cours d'une maladie néoplasique, cubitus gauche, contact subséquent pour une fracture avec une cicatrisation retardée
+M84.532K	fracture pathologique au cours d'une maladie néoplasique, cubitus gauche, contact subséquent pour une fracture avec pseudarthrose
+M84.532P	fracture pathologique au cours d'une maladie néoplasique, cubitus gauche, contact subséquent pour une fracture avec cal vicieux
+M84.532S	fracture pathologique au cours d'une maladie néoplasique, cubitus gauche, séquelle
+M84.533A	fracture pathologique au cours d'une maladie néoplasique, radius droit, contact initial pour une fracture
+M84.533D	fracture pathologique au cours d'une maladie néoplasique, radius droit, contact subséquent pour une fracture avec une cicatrisation normale
+M84.533G	fracture pathologique au cours d'une maladie néoplasique, radius droit, contact subséquent pour une fracture avec une cicatrisation retardée
+M84.533K	fracture pathologique au cours d'une maladie néoplasique, radius droit, contact subséquent pour une fracture avec pseudarthrose
+M84.533P	fracture pathologique au cours d'une maladie néoplasique, radius droit, contact subséquent pour une fracture avec cal vicieux
+M84.533S	fracture pathologique au cours d'une maladie néoplasique, radius droit, séquelle
+M84.534A	fracture pathologique au cours d'une maladie néoplasique, radius gauche, contact initial pour une fracture
+M84.534D	fracture pathologique au cours d'une maladie néoplasique, radius gauche, contact subséquent pour une fracture avec une cicatrisation normale
+M84.534G	fracture pathologique au cours d'une maladie néoplasique, radius gauche, contact subséquent pour une fracture avec une cicatrisation retardée
+M84.534K	fracture pathologique au cours d'une maladie néoplasique, radius gauche, contact subséquent pour une fracture avec pseudarthrose
+M84.534P	fracture pathologique au cours d'une maladie néoplasique, radius gauche, contact subséquent pour une fracture avec cal vicieux
+M84.534S	fracture pathologique au cours d'une maladie néoplasique, radius gauche, séquelle
+M84.539A	fracture pathologique au cours d'une maladie néoplasique, cubitus et radius non spécifiés, contact initial pour une fracture
+M84.539D	fracture pathologique au cours d'une maladie néoplasique, cubitus et radius non spécifiés, contact subséquent pour une fracture avec une cicatrisation normale
+M84.539G	fracture pathologique au cours d'une maladie néoplasique, cubitus et radius non spécifiés, contact subséquent pour une fracture avec une cicatrisation retardée
+M84.539K	fracture pathologique au cours d'une maladie néoplasique, cubitus et radius non spécifiés, contact subséquent pour une fracture avec pseudarthrose
+M84.539P	fracture pathologique au cours d'une maladie néoplasique, cubitus et radius non spécifiés, contact subséquent pour une fracture avec cal vicieux
+M84.539S	fracture pathologique au cours d'une maladie néoplasique, cubitus et radius non spécifiés, séquelle
+M84.541A	fracture pathologique au cours d'une maladie néoplasique, main droite, contact initial pour une fracture
+M84.541D	fracture pathologique au cours d'une maladie néoplasique, main droite, contact subséquent pour une fracture avec une cicatrisation normale
+M84.541G	fracture pathologique au cours d'une maladie néoplasique, main droite, contact subséquent pour une fracture avec une cicatrisation retardée
+M84.541K	fracture pathologique au cours d'une maladie néoplasique, main droite, contact subséquent pour une fracture avec pseudarthrose
+M84.541P	fracture pathologique au cours d'une maladie néoplasique, main droite, contact subséquent pour une fracture avec cal vicieux
+M84.541S	fracture pathologique au cours d'une maladie néoplasique, main droite, séquelle
+M84.542A	fracture pathologique au cours d'une maladie néoplasique, main gauche, contact initial pour une fracture
+M84.542D	fracture pathologique au cours d'une maladie néoplasique, main gauche, contact subséquent pour une fracture avec une cicatrisation normale
+M84.542G	fracture pathologique au cours d'une maladie néoplasique, main gauche, contact subséquent pour une fracture avec une cicatrisation retardée
+M84.542K	fracture pathologique au cours d'une maladie néoplasique, main gauche, contact subséquent pour une fracture avec pseudarhtrose
+M84.542P	fracture pathologique au cours d'une maladie néoplasique, main gauche, contact subséquent pour une fracture avec cal vicieux
+M84.542S	fracture pathologique au cours d'une maladie néoplasique, main gauche, séquelle
+M84.549A	fracture pathologique au cours d'une maladie néoplasique, main non spécifiée, contact initial pour une fracture
+M84.549D	fracture pathologique au cours d'une maladie néoplasique, main non spécifiée, contact subséquent pour une fracture avec une cicatrisation normale
+M84.549G	fracture pathologique au cours d'une maladie néoplasique, main non spécifiée, contact subséquent pour une fracture avec une cicatrisation retardée
+M84.549K	fracture pathologique au cours d'une maladie néoplasique, main non spécifiée, contact subséquent pour une fracture avec pseudarthrose
+M84.549P	fracture pathologique au cours d'une maladie néoplasique, main non spécifiée, contact subséquent pour une fracture avec cal vicieux
+M84.549S	fracture pathologique au cours d'une maladie néoplasique, main non spécifiée, séquelle
+M84.550A	fracture pathologique au cours d'une maladie néoplasique, bassin, contact initial pour une fracture
+M84.550D	fracture pathologique au cours d'une maladie néoplasique, bassin, contact subséquent pour une fracture avec une cicatrisation normale
+M84.550G	fracture pathologique au cours d'une maladie néoplasique, bassin, contact subséquent pour une fracture avec une cicatrisation retardée
+M84.550K	fracture pathologique au cours d'une maladie néoplasique, bassin, contact subséquent pour une fracture avec pseudarthrose
+M84.550P	fracture pathologique au cours d'une maladie néoplasique, bassin, contact subséquent pour une fracture avec cal vicieux
+M84.550S	fracture pathologique au cours d'une maladie néoplasique, bassin, séquelle
+M84.551A	fracture pathologique au cours d'une maladie néoplasique, fémur droit, contact initial pour une fracture
+M84.551D	fracture pathologique au cours d'une maladie néoplasique, fémur droit, contact subséquent pour une fracture avec une cicatrisation normale
+M84.551G	fracture pathologique au cours d'une maladie néoplasique, fémur droit, contact subséquent pour une fracture avec une cicatrisation retardée
+M84.551K	fracture pathologique au cours d'une maladie néoplasique, fémur droit, contact subséquent pour une fracture avec pseudarthrose
+M84.551P	fracture pathologique au cours d'une maladie néoplasique, fémur droit, contact subséquent pour une fracture avec cal vicieux
+M84.551S	fracture pathologique au cours d'une maladie néoplasique, fémur droit, séquelle
+M84.552A	fracture pathologique au cours d'une maladie néoplasique, fémur gauche, contact initial pour une fracture
+M84.552D	fracture pathologique au cours d'une maladie néoplasique, fémur gauche, contact subséquent pour une fracture avec une cicatrisation normale
+M84.552G	fracture pathologique au cours d'une maladie néoplasique, fémur gauche, contact subséquent pour une fracture avec une cicatrisation retardée
+M84.552K	fracture pathologique au cours d'une maladie néoplasique, fémur gauche, contact subséquent pour une fracture avec pseudarthrose
+M84.552P	fracture pathologique au cours d'une maladie néoplasique, fémur gauche, contact subséquent pour une fracture avec cal vicieux
+M84.552S	fracture pathologique au cours d'une maladie néoplasique, fémur gauche, séquelle
+M84.553A	fracture pathologique au cours d'une maladie néoplasique, fémur non spécifié, contact initial pour une fracture
+M84.553D	fracture pathologique au cours d'une maladie néoplasique, fémur non spécifié, contact subséquent pour une fracture avec une cicatrisation normale
+M84.553G	fracture pathologique au cours d'une maladie néoplasique, fémur non spécifié, contact subséquent pour une fracture avec une cicatrisation retardée
+M84.553K	fracture pathologique au cours d'une maladie néoplasique, fémur non spécifié, contact subséquent pour une fracture avec pseudarthrose
+M84.553P	fracture pathologique au cours d'une maladie néoplasique, fémur non spécifié, contact subséquent pour une fracture avec cal vicieux
+M84.553S	fracture pathologique au cours d'une maladie néoplasique, fémur non spécifié, séquelle
+M84.559A	fracture pathologique au cours d'une maladie néoplasique, hanche, non spécifiée, contact initial pour une fracture
+M84.559D	fracture pathologique au cours d'une maladie néoplasique, hanche, non spécifiée, contact subséquent pour une fracture avec une cicatrisation normale
+M84.559G	fracture pathologique au cours d'une maladie néoplasique, hanche, non spécifiée, contact subséquent pour une fracture avec une cicatrisation retardée
+M84.559K	fracture pathologique au cours d'une maladie néoplasique, hanche, non spécifiée, contact subséquent pour une fracture avec pseudarthrose
+M84.559P	fracture pathologique au cours d'une maladie néoplasique, hanche, non spécifiée, contact subséquent pour une fracture avec cal vicieux
+M84.559S	fracture pathologique au cours d'une maladie néoplasique, hanche, non spécifiée, séquelle
+M84.561A	fracture pathologique au cours d'une maladie néoplasique, tibia droit, contact initial pour une fracture
+M84.561D	fracture pathologique au cours d'une maladie néoplasique, tibia droit, contact subséquent pour une fracture avec une cicatrisation normale
+M84.561G	fracture pathologique au cours d'une maladie néoplasique, tibia droit, contact subséquent pour une fracture avec une cicatrisation retardée
+M84.561K	fracture pathologique au cours d'une maladie néoplasique, tibia droit, contact subséquent pour une fracture avec pseudarthrose
+M84.561P	fracture pathologique au cours d'une maladie néoplasique, tibia droit, contact subséquent pour une fracture avec cal vicieux
+M84.561S	fracture pathologique au cours d'une maladie néoplasique, tibia droit, séquelle
+M84.562A	fracture pathologique au cours d'une maladie néoplasique, tibia gauche, contact initial pour une fracture
+M84.562D	fracture pathologique au cours d'une maladie néoplasique, tibia gauche, contact subséquent pour une fracture avec une cicatrisation normale
+M84.562G	fracture pathologique au cours d'une maladie néoplasique, tibia gauche, contact subséquent pour une fracture avec une cicatrisation retardée
+M84.562K	fracture pathologique au cours d'une maladie néoplasique, tibia gauche, contact subséquent pour une fracture avec pseudarthrose
+M84.562P	fracture pathologique au cours d'une maladie néoplasique, tibia gauche, contact subséquent pour une fracture avec cal vicieux
+M84.562S	fracture pathologique au cours d'une maladie néoplasique, tibia gauche, séquelle
+M84.563A	fracture pathologique au cours d'une maladie néoplasique, péroné droit, contact initial pour une fracture
+M84.563D	fracture pathologique au cours d'une maladie néoplasique, péroné droit, contact subséquent pour une fracture avec une cicatrisation normale
+M84.563G	fracture pathologique au cours d'une maladie néoplasique, péroné droit, contact subséquent pour une fracture avec une cicatrisation retardée
+M84.563K	fracture pathologique au cours d'une maladie néoplasique, péroné droit, contact subséquent pour une fracture avec pseudarthrose
+M84.563P	fracture pathologique au cours d'une maladie néoplasique, péroné droit, contact subséquent pour une fracture avec cal vicieux
+M84.563S	fracture pathologique au cours d'une maladie néoplasique, péroné droit, séquelle
+M84.564A	fracture pathologique au cours d'une maladie néoplasique, péroné gauche, contact initial pour une fracture
+M84.564D	fracture pathologique au cours d'une maladie néoplasique, péroné gauche, contact subséquent pour une fracture avec une cicatrisation normale
+M84.564G	fracture pathologique au cours d'une maladie néoplasique, péroné gauche, contact subséquent pour une fracture avec une cicatrisation retardée
+M84.564K	fracture pathologique au cours d'une maladie néoplasique, péroné gauche, contact subséquent pour une fracture avec pseudarthrose
+M84.564P	fracture pathologique au cours d'une maladie néoplasique, péroné gauche, contact subséquent pour une fracture avec cal vicieux
+M84.564S	fracture pathologique au cours d'une maladie néoplasique, péroné gauche, séquelle
+M84.569A	fracture pathologique au cours d'une maladie néoplasique, tibia et péroné non spécifiés, contact initial pour une fracture
+M84.569D	fracture pathologique au cours d'une maladie néoplasique, tibia et péroné non spécifiés, contact subséquent pour une fracture avec une cicatrisation normale
+M84.569G	fracture pathologique au cours d'une maladie néoplasique, tibia et péroné non spécifiés, contact subséquent pour une fracture avec une cicatrisation retardée
+M84.569K	fracture pathologique au cours d'une maladie néoplasique, tibia et péroné non spécifiés, contact subséquent pour une fracture avec pseudarthrose
+M84.569P	fracture pathologique au cours d'une maladie néoplasique, tibia et péroné non spécifiés, contact subséquent pour une fracture avec cal vicieux
+M84.569S	fracture pathologique au cours d'une maladie néoplasique, tibia et péroné non spécifiés, séquelle
+M84.571A	fracture pathologique au cours d'une maladie néoplasique, cheville droite, contact initial pour une fracture
+M84.571D	fracture pathologique au cours d'une maladie néoplasique, cheville droite, contact subséquent pour une fracture avec une cicatrisation normale
+M84.571G	fracture pathologique au cours d'une maladie néoplasique, cheville droite, contact subséquent pour une fracture avec une cicatrisation retardée
+M84.571K	fracture pathologique au cours d'une maladie néoplasique, cheville droite, contact subséquent pour une fracture avec pseudarthrose
+M84.571P	fracture pathologique au cours d'une maladie néoplasique, cheville droite, contact subséquent pour une fracture avec cal vicieux
+M84.571S	fracture pathologique au cours d'une maladie néoplasique, cheville droite, séquelle
+M84.572A	fracture pathologique au cours d'une maladie néoplasique, cheville gauche, contact initial pour une fracture
+M84.572D	fracture pathologique au cours d'une maladie néoplasique, cheville gauche, contact subséquent pour une fracture avec une cicatrisation normale
+M84.572G	fracture pathologique au cours d'une maladie néoplasique, cheville gauche, contact subséquent pour une fracture avec une cicatrisation retardée
+M84.572K	fracture pathologique au cours d'une maladie néoplasique, cheville gauche, contact subséquent pour une fracture avec pseudarthrose
+M84.572P	fracture pathologique au cours d'une maladie néoplasique, cheville gauche, contact subséquent pour une fracture avec cal vicieux
+M84.572S	fracture pathologique au cours d'une maladie néoplasique, cheville gauche, séquelle
+M84.573A	fracture pathologique au cours d'une maladie néoplasique, cheville non spécifiée, contact initial pour une fracture
+M84.573D	fracture pathologique au cours d'une maladie néoplasique, cheville non spécifiée, contact subséquent pour une fracture avec une cicatrisation normale
+M84.573G	fracture pathologique au cours d'une maladie néoplasique, cheville non spécifiée, contact subséquent pour une fracture avec une cicatrisation retardée
+M84.573K	fracture pathologique au cours d'une maladie néoplasique, cheville non spécifiée, contact subséquent pour une fracture avec pseudarthrose
+M84.573P	fracture pathologique au cours d'une maladie néoplasique, cheville non spécifiée, contact subséquent pour une fracture avec cal vicieux
+M84.573S	fracture pathologique au cours d'une maladie néoplasique, cheville non spécifiée, séquelle
+M84.574A	fracture pathologique au cours d'une maladie néoplasique, pied droit, contact initial pour une fracture
+M84.574D	fracture pathologique au cours d'une maladie néoplasique, pied droit, contact subséquent pour une fracture avec une cicatrisation normale
+M84.574G	fracture pathologique au cours d'une maladie néoplasique, pied droit, contact subséquent pour une fracture avec une cicatrisation retardée
+M84.574K	fracture pathologique au cours d'une maladie néoplasique, pied droit, contact subséquent pour une fracture avec pseudarthrose
+M84.574P	fracture pathologique au cours d'une maladie néoplasique, pied droit, contact subséquent pour une fracture avec cal vicieux
+M84.574S	fracture pathologique au cours d'une maladie néoplasique, pied droit, séquelle
+M84.575A	fracture pathologique au cours d'une maladie néoplasique, pied gauche, contact initial pour une fracture
+M84.575D	fracture pathologique au cours d'une maladie néoplasique, pied gauche, contact subséquent pour une fracture avec une cicatrisation normale
+M84.575G	fracture pathologique au cours d'une maladie néoplasique, pied gauche, contact subséquent pour une fracture avec une cicatrisation retardée
+M84.575K	fracture pathologique au cours d'une maladie néoplasique, pied gauche, contact subséquent pour une fracture avec pseudarthrose
+M84.575P	fracture pathologique au cours d'une maladie néoplasique, pied gauche, contact subséquent pour une fracture avec cal vicieux
+M84.575S	fracture pathologique au cours d'une maladie néoplasique, pied gauche, séquelle
+M84.576A	fracture pathologique au cours d'une maladie néoplasique, pied non spécifié, contact initial pour une fracture
+M84.576D	fracture pathologique au cours d'une maladie néoplasique, pied non spécifié, contact subséquent pour une fracture avec une cicatrisation normale
+M84.576G	fracture pathologique au cours d'une maladie néoplasique, pied non spécifié, contact subséquent pour une fracture avec une cicatrisation retardée
+M84.576K	fracture pathologique au cours d'une maladie néoplasique, pied non spécifié, contact subséquent pour une fracture avec pseudarthrose
+M84.576P	fracture pathologique au cours d'une maladie néoplasique, pied non spécifié, contact subséquent pour une fracture avec cal vicieux
+M84.576S	fracture pathologique au cours d'une maladie néoplasique, pied non spécifié, séquelle
+M84.58XA	fracture pathologique au cours d'une maladie néoplasique, autre site spécifié, contact initial pour une fracture
+M84.58XD	fracture pathologique au cours d'une maladie néoplasique, autre site spécifié, contact subséquent pour une fracture avec une cicatrisation normale
+M84.58XG	fracture pathologique au cours d'une maladie néoplasique, autre site spécifié, contact subséquent pour une fracture avec une cicatrisation retardée
+M84.58XK	fracture pathologique au cours d'une maladie néoplasique, autre site spécifié, contact subséquent pour une fracture avec pseudarthrose
+M84.58XP	fracture pathologique au cours d'une maladie néoplasique, autre site spécifié, contact subséquent pour une fracture avec cal vicieux
+M84.58XS	fracture pathologique au cours d'une maladie néoplasique, autre site spécifié, séquelle
+M84.60XA	fracture pathologique au cours d'une autre maladie, site non spécifié, contact initial pour une fracture
+M84.60XD	fracture pathologique au cours d'une autre maladie, site non spécifié, contact subséquent pour une fracture avec une cicatrisation normale
+M84.60XG	fracture pathologique au cours d'une autre maladie, site non spécifié, contact subséquent pour une fracture avec une cicatrisation retardée
+M84.60XK	fracture pathologique au cours d'une autre maladie, site non spécifié, contact subséquent pour une fracture avec pseudarthrose
+M84.60XP	fracture pathologique au cours d'une autre maladie, site non spécifié, contact subséquent pour une fracture avec cal vicieux
+M84.60XS	fracture pathologique au cours d'une autre maladie, site non spécifié, séquelle
+M84.611A	fracture pathologique au cours d'une autre maladie, épaule droite, contact initial pour une fracture
+M84.611D	fracture pathologique au cours d'une autre maladie, épaule droite, contact subséquent pour une fracture avec une cicatrisation normale
+M84.611G	fracture pathologique au cours d'une autre maladie, épaule droite, contact subséquent pour une fracture avec une cicatrisation retardée
+M84.611K	fracture pathologique au cours d'une autre maladie, épaule droite, contact subséquent pour une fracture avec pseudarthrose
+M84.611P	fracture pathologique au cours d'une autre maladie, épaule droite, contact subséquent pour une fracture avec cal vicieux
+M84.611S	fracture pathologique au cours d'une autre maladie, épaule droite, séquelle
+M84.612A	fracture pathologique au cours d'une autre maladie, épaule gauche, contact initial pour une fracture
+M84.612D	fracture pathologique au cours d'une autre maladie, épaule gauche, contact subséquent pour une fracture avec une cicatrisation normale
+M84.612G	fracture pathologique au cours d'une autre maladie, épaule gauche, contact subséquent pour une fracture avec une cicatrisation retardée
+M84.612K	fracture pathologique au cours d'une autre maladie, épaule gauche, contact subséquent pour une fracture avec pseudarthrose
+M84.612P	fracture pathologique au cours d'une autre maladie, épaule gauche, contact subséquent pour une fracture avec cal vicieux
+M84.612S	fracture pathologique au cours d'une autre maladie, épaule gauche, séquelle
+M84.619A	fracture pathologique au cours d'une autre maladie, épaule non spécifiée, contact initial pour une fracture
+M84.619D	fracture pathologique au cours d'une autre maladie, épaule non spécifiée, contact subséquent pour une fracture avec une cicatrisation normale
+M84.619G	fracture pathologique au cours d'une autre maladie, épaule non spécifiée, contact subséquent pour une fracture avec une cicatrisation retardée
+M84.619K	fracture pathologique au cours d'une autre maladie, épaule non spécifiée, contact subséquent pour une fracture avec pseudarthrose
+M84.619P	fracture pathologique au cours d'une autre maladie, épaule non spécifiée, contact subséquent pour une fracture avec cal vicieux
+M84.619S	fracture pathologique au cours d'une autre maladie, épaule non spécifiée, séquelle
+M84.621A	fracture pathologique au cours d'une autre maladie, humérus droit, contact initial pour une fracture
+M84.621D	fracture pathologique au cours d'une autre maladie, humérus droit, contact subséquent pour une fracture avec une cicatrisation normale
+M84.621G	fracture pathologique au cours d'une autre maladie, humérus droit, contact subséquent pour une fracture avec une cicatrisation retardée
+M84.621K	fracture pathologique au cours d'une autre maladie, humérus droit, contact subséquent pour une fracture avec pseudarthrose
+M84.621P	fracture pathologique au cours d'une autre maladie, humérus droit, contact subséquent pour une fracture avec cal vicieux
+M84.621S	fracture pathologique au cours d'une autre maladie, humérus droit, séquelle
+M84.622A	fracture pathologique au cours d'une autre maladie, humérus gauche, contact initial pour une fracture
+M84.622D	fracture pathologique au cours d'une autre maladie, humérus gauche, contact subséquent pour une fracture avec une cicatrisation normale
+M84.622G	fracture pathologique au cours d'une autre maladie, humérus gauche, contact subséquent pour une fracture avec une cicatrisation retardée
+M84.622K	fracture pathologique au cours d'une autre maladie, humérus gauche, contact subséquent pour une fracture avec pseudarthrose
+M84.622P	fracture pathologique au cours d'une autre maladie, humérus gauche, contact subséquent pour une fracture avec cal vicieux
+M84.622S	fracture pathologique au cours d'une autre maladie, humérus gauche, séquelle
+M84.629A	fracture pathologique au cours d'une autre maladie, humérus non spécifié, contact initial pour une fracture
+M84.629D	fracture pathologique au cours d'une autre maladie, humérus non spécifié, contact subséquent pour une fracture avec une cicatrisation normale
+M84.629G	fracture pathologique au cours d'une autre maladie, humérus non spécifié, contact subséquent pour une fracture avec une cicatrisation retardée
+M84.629K	fracture pathologique au cours d'une autre maladie, humérus non spécifié, contact subséquent pour une fracture avec pseudarthrose
+M84.629P	fracture pathologique au cours d'une autre maladie, humérus non spécifié, contact subséquent pour une fracture avec cal vicieux
+M84.629S	fracture pathologique au cours d'une autre maladie, humérus non spécifié, séquelle
+M84.631A	fracture pathologique au cours d'une autre maladie, cubitus droit, contact initial pour une fracture
+M84.631D	fracture pathologique au cours d'une autre maladie, cubitus droit, contact subséquent pour une fracture avec une cicatrisation normale
+M84.631G	fracture pathologique au cours d'une autre maladie, cubitus droit, contact subséquent pour une fracture avec une cicatrisation retardée
+M84.631K	fracture pathologique au cours d'une autre maladie, cubitus droit, contact subséquent pour une fracture avec pseudarthrose
+M84.631P	fracture pathologique au cours d'une autre maladie, cubitus droit, contact subséquent pour une fracture avec cal vicieux
+M84.631S	fracture pathologique au cours d'une autre maladie, cubitus droit, séquelle
+M84.632A	fracture pathologique au cours d'une autre maladie, cubitus gauche, contact initial pour une fracture
+M84.632D	fracture pathologique au cours d'une autre maladie, cubitus gauche, contact subséquent pour une fracture avec une cicatrisation normale
+M84.632G	fracture pathologique au cours d'une autre maladie, cubitus gauche, contact subséquent pour une fracture avec une cicatrisation retardée
+M84.632K	fracture pathologique au cours d'une autre maladie, cubitus gauche, contact subséquent pour une fracture avec pseudarthrose
+M84.632P	fracture pathologique au cours d'une autre maladie, cubitus gauche, contact subséquent pour une fracture avec cal vicieux
+M84.632S	fracture pathologique au cours d'une autre maladie, cubitus gauche, séquelle
+M84.633A	fracture pathologique au cours d'une autre maladie, radius droit, contact initial pour une fracture
+M84.633D	fracture pathologique au cours d'une autre maladie, radius droit, contact subséquent pour une fracture avec une cicatrisation normale
+M84.633G	fracture pathologique au cours d'une autre maladie, radius droit, contact subséquent pour une fracture avec une cicatrisation retardée
+M84.633K	fracture pathologique au cours d'une autre maladie, radius droit, contact subséquent pour une fracture avec pseudarthrose
+M84.633P	fracture pathologique au cours d'une autre maladie, radius droit, contact subséquent pour une fracture avec cal vicieux
+M84.633S	fracture pathologique au cours d'une autre maladie, radius droit, séquelle
+M84.634A	fracture pathologique au cours d'une autre maladie, radius gauche, contact initial pour une fracture
+M84.634D	fracture pathologique au cours d'une autre maladie, radius gauche, contact subséquent pour une fracture avec une cicatrisation normale
+M84.634G	fracture pathologique au cours d'une autre maladie, radius gauche, contact subséquent pour une fracture avec une cicatrisation retardée
+M84.634K	fracture pathologique au cours d'une autre maladie, radius gauche, contact subséquent pour une fracture avec pseudarthrose
+M84.634P	fracture pathologique au cours d'une autre maladie, radius gauche, contact subséquent pour une fracture avec cal vicieux
+M84.634S	fracture pathologique au cours d'une autre maladie, radius gauche, séquelle
+M84.639A	fracture pathologique au cours d'une autre maladie, cubitus et radius non spécifiés, contact initial pour une fracture
+M84.639D	fracture pathologique au cours d'une autre maladie, cubitus et radius non spécifiés, contact subséquent pour une fracture avec une cicatrisation normale
+M84.639G	fracture pathologique au cours d'une autre maladie, cubitus et radius non spécifiés, contact subséquent pour une fracture avec une cicatrisation retardée
+M84.639K	fracture pathologique au cours d'une autre maladie, cubitus et radius non spécifiés, contact subséquent pour une fracture avec pseudarthrose
+M84.639P	fracture pathologique au cours d'une autre maladie, cubitus et radius non spécifiés, contact subséquent pour une fracture avec cal vicieux
+M84.639S	fracture pathologique au cours d'une autre maladie, cubitus et radius non spécifiés, séquelle
+M84.641A	fracture pathologique au cours d'une autre maladie, main droite, contact initial pour une fracture
+M84.641D	fracture pathologique au cours d'une autre maladie, main droite, contact subséquent pour une fracture avec une cicatrisation normale
+M84.641G	fracture pathologique au cours d'une autre maladie, main droite, contact subséquent pour une fracture avec une cicatrisation retardée
+M84.641K	fracture pathologique au cours d'une autre maladie, main droite, contact subséquent pour une fracture avec pseudarthrose
+M84.641P	fracture pathologique au cours d'une autre maladie, main droite, contact subséquent pour une fracture avec cal vicieux
+M84.641S	fracture pathologique au cours d'une autre maladie, main droite, séquelle
+M84.642A	fracture pathologique au cours d'une autre maladie, main gauche, contact initial pour une fracture
+M84.642D	fracture pathologique au cours d'une autre maladie, main gauche, contact subséquent pour une fracture avec une cicatrisation normale
+M84.642G	fracture pathologique au cours d'une autre maladie, main gauche, contact subséquent pour une fracture avec une cicatrisation retardée
+M84.642K	fracture pathologique au cours d'une autre maladie, main gauche, contact subséquent pour une fracture avec pseudarthrose
+M84.642P	fracture pathologique au cours d'une autre maladie, main gauche, contact subséquent pour une fracture avec cal vicieux
+M84.642S	fracture pathologique au cours d'une autre maladie, main gauche, séquelle
+M84.649A	fracture pathologique au cours d'une autre maladie, main non spécifiée, contact initial pour une fracture
+M84.649D	fracture pathologique au cours d'une autre maladie, main non spécifiée, contact subséquent pour une fracture avec une cicatrisation normale
+M84.649G	fracture pathologique au cours d'une autre maladie, main non spécifiée, contact subséquent pour une fracture avec une cicatrisation retardée
+M84.649K	fracture pathologique au cours d'une autre maladie, main non spécifiée, contact subséquent pour une fracture avec pseudarthrose
+M84.649P	fracture pathologique au cours d'une autre maladie, main non spécifiée, contact subséquent pour une fracture avec cal vicieux
+M84.649S	fracture pathologique au cours d'une autre maladie, main non spécifiée, séquelle
+M84.650A	fracture pathologique au cours d'une autre maladie, bassin, contact initial pour une fracture
+M84.650D	fracture pathologique au cours d'une autre maladie, bassin, contact subséquent pour une fracture avec une cicatrisation normale
+M84.650G	fracture pathologique au cours d'une autre maladie, bassin, contact subséquent pour une fracture avec une cicatrisation retardée
+M84.650K	fracture pathologique au cours d'une autre maladie, bassin, contact subséquent pour une fracture avec pseudarthrose
+M84.650P	fracture pathologique au cours d'une autre maladie, bassin, contact subséquent pour une fracture avec cal vicieux
+M84.650S	fracture pathologique au cours d'une autre maladie, bassin, séquelle
+M84.651A	fracture pathologique au cours d'une autre maladie, fémur droit, contact initial pour une fracture
+M84.651D	fracture pathologique au cours d'une autre maladie, fémur droit, contact subséquent pour une fracture avec une cicatrisation normale
+M84.651G	fracture pathologique au cours d'une autre maladie, fémur droit, contact subséquent pour une fracture avec une cicatrisation retardée
+M84.651K	fracture pathologique au cours d'une autre maladie, fémur droit, contact subséquent pour une fracture avec pseudarthrose
+M84.651P	fracture pathologique au cours d'une autre maladie, fémur droit, contact subséquent pour une fracture avec cal vicieux
+M84.651S	fracture pathologique au cours d'une autre maladie, fémur droit, séquelle
+M84.652A	fracture pathologique au cours d'une autre maladie, fémur gauche, contact initial pour une fracture
+M84.652D	fracture pathologique au cours d'une autre maladie, fémur gauche, contact subséquent pour une fracture avec une cicatrisation normale
+M84.652G	fracture pathologique au cours d'une autre maladie, fémur gauche, contact subséquent pour une fracture avec une cicatrisation retardée
+M84.652K	fracture pathologique au cours d'une autre maladie, fémur gauche, contact subséquent pour une fracture avec absence de consolidation
+M84.652P	fracture pathologique au cours d'une autre maladie, fémur gauche, contact subséquent pour une fracture avec cal vicieux
+M84.652S	fracture pathologique au cours d'une autre maladie, fémur gauche, séquelle
+M84.653A	fracture pathologique au cours d'une autre maladie, fémur non spécifié, contact initial pour une fracture
+M84.653D	fracture pathologique au cours d'une autre maladie, fémur non spécifié, contact subséquent pour une fracture avec une cicatrisation normale
+M84.653G	fracture pathologique au cours d'une autre maladie, fémur non spécifié, contact subséquent pour une fracture avec une cicatrisation retardée
+M84.653K	fracture pathologique au cours d'une autre maladie, fémur non spécifié, contact subséquent pour une fracture avec pseudarthrose
+M84.653P	fracture pathologique au cours d'une autre maladie, fémur non spécifié, contact subséquent pour une fracture avec cal vicieux
+M84.653S	fracture pathologique au cours d'une autre maladie, fémur non spécifié, séquelle
+M84.659A	fracture pathologique au cours d'une autre maladie, hanche, non spécifiée, contact initial pour une fracture
+M84.659D	fracture pathologique au cours d'une autre maladie, hanche, non spécifiée, contact subséquent pour une fracture avec une cicatrisation normale
+M84.659G	fracture pathologique au cours d'une autre maladie, hanche, non spécifiée, contact subséquent pour une fracture avec une cicatrisation retardée
+M84.659K	fracture pathologique au cours d'une autre maladie, hanche, non spécifiée, contact subséquent pour une fracture avec pseudarthrose
+M84.659P	fracture pathologique au cours d'une autre maladie, hanche, non spécifiée, contact subséquent pour une fracture avec cal vicieux
+M84.659S	fracture pathologique au cours d'une autre maladie, hanche, non spécifiée, séquelle
+M84.661A	fracture pathologique au cours d'une autre maladie, tibia droit, contact initial pour une fracture
+M84.661D	fracture pathologique au cours d'une autre maladie, tibia droit, contact subséquent pour une fracture avec une cicatrisation normale
+M84.661G	fracture pathologique au cours d'une autre maladie, tibia droit, contact subséquent pour une fracture avec une cicatrisation retardée
+M84.661K	fracture pathologique au cours d'une autre maladie, tibia droit, contact subséquent pour une fracture avec pseudarthrose
+M84.661P	fracture pathologique au cours d'une autre maladie, tibia droit, contact subséquent pour une fracture avec cal vicieux
+M84.661S	fracture pathologique au cours d'une autre maladie, tibia droit, séquelle
+M84.662A	fracture pathologique au cours d'une autre maladie, tibia gauche, contact initial pour une fracture
+M84.662D	fracture pathologique au cours d'une autre maladie, tibia gauche, contact subséquent pour une fracture avec une cicatrisation normale
+M84.662G	fracture pathologique au cours d'une autre maladie, tibia gauche, contact subséquent pour une fracture avec une cicatrisation retardée
+M84.662K	fracture pathologique au cours d'une autre maladie, tibia gauche, contact subséquent pour une fracture avec pseudarthrose
+M84.662P	fracture pathologique au cours d'une autre maladie, tibia gauche, contact subséquent pour une fracture avec cal vicieux
+M84.662S	fracture pathologique au cours d'une autre maladie, tibia gauche, séquelle
+M84.663A	fracture pathologique au cours d'une autre maladie, péroné droit, contact initial pour une fracture
+M84.663D	fracture pathologique au cours d'une autre maladie, péroné droit, contact subséquent pour une fracture avec une cicatrisation normale
+M84.663G	fracture pathologique au cours d'une autre maladie, péroné droit, contact subséquent pour une fracture avec une cicatrisation retardée
+M84.663K	fracture pathologique au cours d'une autre maladie, péroné droit, contact subséquent pour une fracture avec pseudarthrose
+M84.663P	fracture pathologique au cours d'une autre maladie, péroné droit, contact subséquent pour une fracture avec cal vicieux
+M84.663S	fracture pathologique au cours d'une autre maladie, péroné droit, séquelle
+M84.664A	fracture pathologique au cours d'une autre maladie, péroné gauche, contact initial pour une fracture
+M84.664D	fracture pathologique au cours d'une autre maladie, péroné gauche, contact subséquent pour une fracture avec une cicatrisation normale
+M84.664G	fracture pathologique au cours d'une autre maladie, péroné gauche, contact subséquent pour une fracture avec une cicatrisation retardée
+M84.664K	fracture pathologique au cours d'une autre maladie, péroné gauche, contact subséquent pour une fracture avec pseudarthrose
+M84.664P	fracture pathologique au cours d'une autre maladie, péroné gauche, contact subséquent pour une fracture avec cal vicieux
+M84.664S	fracture pathologique au cours d'une autre maladie, péroné gauche, séquelle
+M84.669A	fracture pathologique au cours d'une autre maladie, tibia et péroné non spécifiés, contact initial pour une fracture
+M84.669D	fracture pathologique au cours d'une autre maladie, tibia et péroné non spécifiés, contact subséquent pour une fracture avec une cicatrisation normale
+M84.669G	fracture pathologique au cours d'une autre maladie, tibia et péroné non spécifiés, contact subséquent pour une fracture avec une cicatrisation retardée
+M84.669K	fracture pathologique au cours d'une autre maladie, tibia et péroné non spécifiés, contact subséquent pour une fracture avec pseudarthrose
+M84.669P	fracture pathologique au cours d'une autre maladie, tibia et péroné non spécifiés, contact subséquent pour une fracture avec cal vicieux
+M84.669S	fracture pathologique au cours d'une autre maladie, tibia et péroné non spécifiés, séquelle
+M84.671A	fracture pathologique au cours d'une autre maladie, cheville droite, contact initial pour une fracture
+M84.671D	fracture pathologique au cours d'une autre maladie, cheville droite, contact subséquent pour une fracture avec une cicatrisation normale
+M84.671G	fracture pathologique au cours d'une autre maladie, cheville droite, contact subséquent pour une fracture avec une cicatrisation retardée
+M84.671K	fracture pathologique au cours d'une autre maladie, cheville droite, contact subséquent pour une fracture avec pseudarthrose
+M84.671P	fracture pathologique au cours d'une autre maladie, cheville droite, contact subséquent pour une fracture avec cal vicieux
+M84.671S	fracture pathologique au cours d'une autre maladie, cheville droite, séquelle
+M84.672A	fracture pathologique au cours d'une autre maladie, cheville gauche, contact initial pour une fracture
+M84.672D	fracture pathologique au cours d'une autre maladie, cheville gauche, contact subséquent pour une fracture avec une cicatrisation normale
+M84.672G	fracture pathologique au cours d'une autre maladie, cheville gauche, contact subséquent pour une fracture avec une cicatrisation retardée
+M84.672K	fracture pathologique au cours d'une autre maladie, cheville gauche, contact subséquent pour une fracture avec pseudarthrose
+M84.672P	fracture pathologique au cours d'une autre maladie, cheville gauche, contact subséquent pour une fracture avec cal vicieux
+M84.672S	fracture pathologique au cours d'une autre maladie, cheville gauche, séquelle
+M84.673A	fracture pathologique au cours d'une autre maladie, cheville non spécifiée, contact initial pour une fracture
+M84.673D	fracture pathologique au cours d'une autre maladie, cheville non spécifiée, contact subséquent pour une fracture avec une cicatrisation normale
+M84.673G	fracture pathologique au cours d'une autre maladie, cheville non spécifiée, contact subséquent pour une fracture avec une cicatrisation retardée
+M84.673K	fracture pathologique au cours d'une autre maladie, cheville non spécifiée, contact subséquent pour une fracture avec pseudarthrose
+M84.673P	fracture pathologique au cours d'une autre maladie, cheville non spécifiée, contact subséquent pour une fracture avec cal vicieux
+M84.673S	fracture pathologique au cours d'une autre maladie, cheville non spécifiée, séquelle
+M84.674A	fracture pathologique au cours d'une autre maladie, pied droit, contact initial pour une fracture
+M84.674D	fracture pathologique au cours d'une autre maladie, pied droit, contact subséquent pour une fracture avec une cicatrisation normale
+M84.674G	fracture pathologique au cours d'une autre maladie, pied droit, contact subséquent pour une fracture avec une cicatrisation retardée
+M84.674K	fracture pathologique au cours d'une autre maladie, pied droit, contact subséquent pour une fracture avec pseudarthrose
+M84.674P	fracture pathologique au cours d'une autre maladie, pied droit, contact subséquent pour une fracture avec cal vicieux
+M84.674S	fracture pathologique au cours d'une autre maladie, pied droit, séquelle
+M84.675A	fracture pathologique au cours d'une autre maladie, pied gauche, contact initial pour une fracture
+M84.675D	fracture pathologique au cours d'une autre maladie, pied gauche, contact subséquent pour une fracture avec une cicatrisation normale
+M84.675G	fracture pathologique au cours d'une autre maladie, pied gauche, contact subséquent pour une fracture avec une cicatrisation retardée
+M84.675K	fracture pathologique au cours d'une autre maladie, pied gauche, contact subséquent pour une fracture avec pseudarthrose
+M84.675P	fracture pathologique au cours d'une autre maladie, pied gauche, contact subséquent pour une fracture avec cal vicieux
+M84.675S	fracture pathologique au cours d'une autre maladie, pied gauche, séquelle
+M84.676A	fracture pathologique au cours d'une autre maladie, pied non spécifié, contact initial pour une fracture
+M84.676D	fracture pathologique au cours d'une autre maladie, pied non spécifié, contact subséquent pour une fracture avec une cicatrisation normale
+M84.676G	fracture pathologique au cours d'une autre maladie, pied non spécifié, contact subséquent pour une fracture avec une cicatrisation retardée
+M84.676K	fracture pathologique au cours d'une autre maladie, pied non spécifié, contact subséquent pour une fracture avec pseudarthrose
+M84.676P	fracture pathologique au cours d'une autre maladie, pied non spécifié, contact subséquent pour une fracture avec cal vicieux
+M84.676S	fracture pathologique au cours d'une autre maladie, pied non spécifié, séquelle
+M84.68XA	fracture pathologique au cours d'une autre maladie, autre site, contact initial pour une fracture
+M84.68XD	fracture pathologique au cours d'une autre maladie, autre site, contact subséquent pour une fracture avec une cicatrisation normale
+M84.68XG	fracture pathologique au cours d'une autre maladie, autre site, contact subséquent pour une fracture avec une cicatrisation retardée
+M84.68XK	fracture pathologique au cours d'une autre maladie, autre site, contact subséquent pour une fracture avec pseudarthrose
+M84.68XP	fracture pathologique au cours d'une autre maladie, autre site, contact subséquent pour une fracture avec cal vicieux
+M84.68XS	fracture pathologique au cours d'une autre maladie, autre site, séquelle
+M84.80	d'autres anomalies de la continuité osseuse, site non spécifié
+M84.811	d'autres anomalies de la continuité osseuse, épaule droite
+M84.812	d'autres anomalies de la continuité osseuse, épaule gauche
+M84.819	d'autres anomalies de la continuité osseuse, épaule non spécifiée
+M84.821	d'autres anomalies de la continuité osseuse, humérus droit
+M84.822	d'autres anomalies de la continuité osseuse, humérus gauche
+M84.829	d'autres anomalies de la continuité osseuse, humérus non spécifié
+M84.831	d'autres anomalies de la continuité osseuse, cubitus droit
+M84.832	d'autres anomalies de la continuité osseuse, cubitus gauche
+M84.833	d'autres anomalies de la continuité osseuse, radius droit
+M84.834	d'autres anomalies de la continuité osseuse, radius gauche
+M84.839	d'autres anomalies de la continuité osseuse, cubitus et radius non spécifiés
+M84.841	d'autres anomalies de la continuité osseuse, main droite
+M84.842	d'autres anomalies de la continuité osseuse, main gauche
+M84.849	d'autres anomalies de la continuité osseuse, main non spécifiée
+M84.851	d'autres anomalies de la continuité osseuse, région pelvienne et cuisse droites
+M84.852	d'autres anomalies de la continuité osseuse, région pelvienne et cuisse gauches
+M84.859	d'autres anomalies de la continuité osseuse, région pelvienne et cuisse non spécifiées
+M84.861	d'autres anomalies de la continuité osseuse, tibia droite
+M84.862	d'autres anomalies de la continuité osseuse, tibia gauche
+M84.863	d'autres anomalies de la continuité osseuse, péroné droit
+M84.864	d'autres anomalies de la continuité osseuse, péroné gauche
+M84.869	d'autres anomalies de la continuité osseuse, tibia et péroné non spécifiés
+M84.871	d'autres anomalies de la continuité osseuse, cheville et pied droits
+M84.872	d'autres anomalies de la continuité osseuse, cheville et pied gauches
+M84.879	d'autres anomalies de la continuité osseuse, cheville et pied non spécifiés
+M84.88	d'autres anomalies de la continuité osseuse, autre site
+M84.9	anomalie de la continuité de l'os, non spécifié
+M85.0	dysplasie fibreuse (localisée), site non spécifié
+M85.11	dysplasie fibreuse (localisée), épaule droite
+M85.12	dysplasie fibreuse (localisée), épaule gauche
+M85.19	dysplasie fibreuse (localisée), épaule non spécifiée
+M85.21	dysplasie fibreuse (localisée), bras droit
+M85.22	dysplasie fibreuse (localisée), bras gauche
+M85.29	dysplasie fibreuse (localisée), bras non spécifié
+M85.31	dysplasie fibreuse (localisée), avant-bras droit
+M85.32	dysplasie fibreuse (localisée), avant-bras gauche
+M85.39	dysplasie fibreuse (localisée), avant-bras non spécifié
+M85.41	dysplasie fibreuse (localisée), main droite
+M85.42	dysplasie fibreuse (localisée), main gauche
+M85.49	dysplasie fibreuse (localisée), main non spécifiée
+M85.51	dysplasie fibreuse (localisée), cuisse droite
+M85.52	dysplasie fibreuse (localisée), cuisse gauche
+M85.59	dysplasie fibreuse (localisée), cuisse non spécifiée
+M85.61	dysplasie fibreuse (localisée), jambe droite
+M85.62	dysplasie fibreuse (localisée), jambe gauche
+M85.69	dysplasie fibreuse (localisée), jambe non spécifiée
+M85.71	dysplasie fibreuse (localisée), cheville et pied droits
+M85.72	dysplasie fibreuse (localisée), cheville et pied gauches
+M85.79	dysplasie fibreuse (localisée), cheville et pied non spécifiés
+M85.8	dysplasie fibreuse (localisée), autre site
+M85.9	dysplasie fibreuse (localisée), multiples sites
+M85.10	ostéose fluorée, site non spécifié
+M85.111	ostéose fluorée, épaule droite
+M85.112	ostéose fluorée, épaule gauche
+M85.119	ostéose fluorée, épaule non spécifiée
+M85.121	ostéose fluorée, bras droit
+M85.122	ostéose fluorée, bras gauche
+M85.129	ostéose fluorée, bras non spécifié
+M85.131	ostéose fluorée, avant-bras droit
+M85.132	ostéose fluorée, avant-bras gauche
+M85.139	ostéose fluorée, avant-bras non spécifié
+M85.141	ostéose fluorée, main droite
+M85.142	ostéose fluorée, main gauche
+M85.149	ostéose fluorée, main non spécifiée
+M85.151	ostéose fluorée, cuisse droite
+M85.152	ostéose fluorée, cuisse gauche
+M85.159	ostéose fluorée, cuisse non spécifiée
+M85.161	ostéose fluorée, jambe droite
+M85.162	ostéose fluorée, jambe gauche
+M85.169	ostéose fluorée, jambe non spécifiée
+M85.171	ostéose fluorée, cheville et pied droits
+M85.172	ostéose fluorée, cheville et pied gauches
+M85.179	ostéose fluorée, cheville et pied non spécifiés
+M85.18	ostéose fluorée, autre site
+M85.19	ostéose fluorée, multiples sites
+M85.2	hyperostose du crâne
+M85.30	ostéite condensante, site non spécifié
+M85.311	ostéite condensante, épaule droite
+M85.312	ostéite condensante, épaule gauche
+M85.319	ostéite condensante, épaule non spécifiée
+M85.321	ostéite condensante, bras droit
+M85.322	ostéite condensante, bras gauche
+M85.329	ostéite condensante, bras non spécifié
+M85.331	ostéite condensante, avant-bras droit
+M85.332	ostéite condensante, avant-bras gauche
+M85.339	ostéite condensante, avant-bras non spécifié
+M85.341	ostéite condensante, main droite
+M85.342	ostéite condensante, main gauche
+M85.349	ostéite condensante, main non spécifiée
+M85.351	ostéite condensante, cuisse droite
+M85.352	ostéite condensante, cuisse gauche
+M85.359	ostéite condensante, cuisse non spécifiée
+M85.361	ostéite condensante, jambe droite
+M85.362	ostéite condensante, jambe gauche
+M85.369	ostéite condensante, jambe non spécifiée
+M85.371	ostéite condensante, cheville et pied droits
+M85.372	ostéite condensante, cheville et pied gauches
+M85.379	ostéite condensante, cheville et pied non spécifiés
+M85.38	ostéite condensante, autre site spécifié
+M85.39	ostéite condensante, multiples sites
+M85.40	kyste solitaire des os, site non spécifié
+M85.411	kyste solitaire des os, épaule droite
+M85.412	kyste solitaire des os, épaule gauche
+M85.419	kyste solitaire des os, épaule non spécifiée
+M85.421	kyste solitaire des os, humérus droit
+M85.422	kyste solitaire des os, humérus gauche
+M85.429	kyste solitaire des os, humérus non spécifié
+M85.431	kyste solitaire des os, cubitus et radius droits
+M85.432	kyste solitaire des os, cubitus et radius gauches
+M85.439	kyste solitaire des os, cubitus et radius non spécifiés
+M85.441	kyste solitaire des os, main droite
+M85.442	kyste solitaire des os, main gauche
+M85.449	kyste solitaire des os, main non spécifiée
+M85.451	kyste solitaire des os, bassin droit
+M85.452	kyste solitaire des os, bassin gauche
+M85.459	kyste solitaire des os, bassin non spécifié
+M85.461	kyste solitaire des os, tibia et péroné droits
+M85.462	kyste solitaire des os, tibia et péroné gauches
+M85.469	kyste solitaire des os, tibia et péroné non spécifiés
+M85.471	kyste solitaire des os, cheville et pied droits
+M85.472	kyste solitaire des os, cheville et pied gauches
+M85.479	kyste solitaire des os, cheville et pied non spécifiés
+M85.48	kyste solitaire des os, autre site
+M85.50	kyste anévrismal des os, site non spécifié
+M85.511	kyste anévrismal des os, épaule droite
+M85.512	kyste anévrismal des os, épaule gauche
+M85.519	kyste anévrismal des os, épaule non spécifiée
+M85.521	kyste anévrismal des os, bras droit
+M85.522	kyste anévrismal des os, bras gauche
+M85.529	kyste anévrismal des os, bras non spécifié
+M85.531	kyste anévrismal des os, avant-bras droit
+M85.532	kyste anévrismal des os, avant-bras gauche
+M85.539	kyste anévrismal des os, avant-bras non spécifié
+M85.541	kyste anévrismal des os, main droite
+M85.542	kyste anévrismal des os, main gauche
+M85.549	kyste anévrismal des os, main non spécifiée
+M85.551	kyste anévrismal des os, cuisse droite
+M85.552	kyste anévrismal des os, cuisse gauche
+M85.559	kyste anévrismal des os, cuisse non spécifiée
+M85.561	kyste anévrismal des os, jambe droite
+M85.562	kyste anévrismal des os, jambe gauche
+M85.569	kyste anévrismal des os, jambe non spécifiée
+M85.571	kyste anévrismal des os, cheville et pied droits
+M85.572	kyste anévrismal des os, cheville et pied gauches
+M85.579	kyste anévrismal des os, cheville et pied non spécifiés
+M85.58	kyste anévrismal des os, autre site
+M85.59	kyste anévrismal des os, multiples sites
+M85.60	autre kyste osseux, site non spécifié
+M85.611	autre kyste osseux, épaule droite
+M85.612	autre kyste osseux, épaule gauche
+M85.619	autre kyste osseux, épaule non spécifiée
+M85.621	autre kyste osseux, bras droit
+M85.622	autre kyste osseux, bras gauche
+M85.629	autre kyste osseux, bras non spécifié
+M85.631	autre kyste osseux, avant-bras droit
+M85.632	autre kyste osseux, avant-bras gauche
+M85.639	autre kyste osseux, avant-bras non spécifié
+M85.641	autre kyste osseux, main droite
+M85.642	autre kyste osseux, main gauche
+M85.649	autre kyste osseux, main non spécifiée
+M85.651	autre kyste osseux, cuisse droite
+M85.652	autre kyste osseux, cuisse gauche
+M85.659	autre kyste osseux, cuisse non spécifiée
+M85.661	autre kyste osseux, jambe droite
+M85.662	autre kyste osseux, jambe gauche
+M85.669	autre kyste osseux, jambe non spécifiée
+M85.671	autre kyste osseux, cheville et pied droits
+M85.672	autre kyste osseux, cheville et pied gauches
+M85.679	autre kyste osseux, cheville et pied non spécifiés
+M85.68	autre kyste osseux, autre site
+M85.69	autre kyste osseux, multiples sites
+M85.80	d'autres atteintes spécifiées de la densité et structure osseuses, site non précisé
+M85.811	d'autres troubles spécifiés de la densité et structure osseuses, épaule droite
+M85.812	d'autres troubles spécifiés de la densité et structure osseuses, épaule gauche
+M85.819	d'autres atteintes spécifiées de la densité et structure osseuses, épaule non précisée
+M85.821	d'autres troubles spécifiés de la densité et structure osseuses, bras droit
+M85.822	d'autres troubles spécifiés de la densité et structure osseuses, bras gauche
+M85.829	d'autres atteintes spécifiées de la densité et structure osseuses, bras non précisé
+M85.831	d'autres troubles spécifiés de la densité et structure osseuses, avant-bras droit
+M85.832	d'autres troubles spécifiés de la densité et structure osseuses, avant-bras gauche
+M85.839	d'autres atteintes spécifiées de la densité et structure osseuses, avant-bras non précisé
+M85.841	d'autres troubles spécifiés de la densité et structure osseuses, main droite
+M85.842	d'autres troubles spécifiés de la densité et structure osseuses, main gauche
+M85.849	d'autres atteintes spécifiées de la densité et structure osseuses, main non précisée
+M85.851	d'autres troubles spécifiés de la densité et structure osseuses, cuisse droite
+M85.852	d'autres troubles spécifiés de la densité et structure osseuses, cuisse gauche
+M85.859	d'autres atteintes spécifiées de la densité et structure osseuses, cuisse non précisée
+M85.861	d'autres troubles spécifiés de la densité et structure osseuses, jambe droite
+M85.862	d'autres troubles spécifiés de la densité et structure osseuses, jambe gauche
+M85.869	d'autres atteintes spécifiées de la densité et structure osseuses, jambe non précisée
+M85.871	d'autres troubles spécifiés de la densité et structure osseuses, cheville et pied droits
+M85.872	d'autres troubles spécifiés de la densité et structure osseuses, cheville et pied gauches
+M85.879	d'autres atteintes spécifiées de la densité et structure osseuses, cheville et pied non précisés
+M85.88	d'autres troubles spécifiés de la densité et structure osseuses, autre site
+M85.89	d'autres troubles spécifiés de la densité et structure osseuses, multiples sites
+M85.9	anomalie de la densité et structure osseuse, sans précision
+M86.0	ostéomyélite hématogène aiguë, site non spécifié
+M86.11	ostéomyélite hématogène aiguë, épaule droite
+M86.12	ostéomyélite hématogène aiguë, épaule gauche
+M86.19	ostéomyélite hématogène aiguë, épaule non spécifiée
+M86.21	ostéomyélite hématogène aiguë, humérus droit
+M86.22	ostéomyélite hématogène aiguë, humérus gauche
+M86.29	ostéomyélite hématogène aiguë, humérus non spécifié
+M86.31	ostéomyélite hématogène aiguë, radius et cubitus droits
+M86.32	ostéomyélite hématogène aiguë, radius et cubitus gauches
+M86.39	ostéomyélite hématogène aiguë, radius et cubitus non spécifiés
+M86.41	ostéomyélite hématogène aiguë, main droite
+M86.42	ostéomyélite hématogène aiguë, main gauche
+M86.49	ostéomyélite hématogène aiguë, radius et cubitus non spécifiés
+M86.51	ostéomyélite hématogène aiguë, fémur droit
+M86.52	ostéomyélite hématogène aiguë, fémur gauche
+M86.59	ostéomyélite hématogène aiguë, fémur non spécifié
+M86.61	ostéomyélite hématogène aiguë, tibia et péroné droits
+M86.62	ostéomyélite hématogène aiguë, tibia et péroné gauches
+M86.69	ostéomyélite hématogène aiguë, tibia et péroné non spécifiés
+M86.71	ostéomyélite hématogène aiguë, cheville et pied droits
+M86.72	ostéomyélite hématogène aiguë, cheville et pied gauches
+M86.79	ostéomyélite hématogène aiguë, cheville et pied non spécifiés
+M86.8	ostéomyélite hématogène aiguë, autre sites
+M86.9	ostéomyélite hématogène aiguë, multiples sites
+M86.10	autre ostéomyélite aiguë, site non spécifié
+M86.111	autre ostéomyélite aiguë, épaule droite
+M86.112	autre ostéomyélite aiguë, épaule gauche
+M86.119	autre ostéomyélite aiguë, épaule non spécifiée
+M86.121	autre ostéomyélite aiguë, humérus droit
+M86.122	autre ostéomyélite aiguë, humérus gauche
+M86.129	autre ostéomyélite aiguë, humérus non spécifié
+M86.131	autre ostéomyélite aiguë, radius et cubitus droits
+M86.132	autre ostéomyélite aiguë, radius et cubitus gauches
+M86.139	autre ostéomyélite aiguë, radius et cubitus non spécifiés
+M86.141	autre ostéomyélite aiguë, main droite
+M86.142	autre ostéomyélite aiguë, main gauche
+M86.149	autre ostéomyélite aiguë, main non spécifiée
+M86.151	autre ostéomyélite aiguë, fémur droit
+M86.152	autre ostéomyélite aiguë, fémur gauche
+M86.159	autre ostéomyélite aiguë, fémur non spécifié
+M86.161	autre ostéomyélite aiguë, tibia et péroné droits
+M86.162	autre ostéomyélite aiguë, tibia et péroné gauches
+M86.169	autre ostéomyélite aiguë, tibia et péroné non spécifiés
+M86.171	autre ostéomyélite aiguë, cheville et pied droits
+M86.172	autre ostéomyélite aiguë, cheville et pied gauches
+M86.179	autre ostéomyélite aiguë, cheville et pied non spécifiés
+M86.18	autre ostéomyélite aiguë, autre site
+M86.19	autre ostéomyélite aiguë, multiples sites
+M86.20	ostéomyélite subaiguë, site non spécifié
+M86.211	ostéomyélite subaiguë, épaule droite
+M86.212	ostéomyélite subaiguë, épaule gauche
+M86.219	ostéomyélite subaiguë, épaule non spécifiée
+M86.221	ostéomyélite subaiguë, humérus droit
+M86.222	ostéomyélite subaiguë, humérus gauche
+M86.229	ostéomyélite subaiguë, humérus non spécifié
+M86.231	ostéomyélite subaiguë, radius et cubitus droits
+M86.232	ostéomyélite subaiguë, radius et cubitus gauches
+M86.239	ostéomyélite subaiguë, radius et cubitus non spécifiés
+M86.241	ostéomyélite subaiguë, main droite
+M86.242	ostéomyélite subaiguë, main gauche
+M86.249	ostéomyélite subaiguë, main non spécifiée
+M86.251	ostéomyélite subaiguë, fémur droit
+M86.252	ostéomyélite subaiguë, fémur gauche
+M86.259	ostéomyélite subaiguë, fémur non spécifié
+M86.261	ostéomyélite subaiguë, tibia et péroné droits
+M86.262	ostéomyélite subaiguë, tibia et péroné gauches
+M86.269	ostéomyélite subaiguë, tibia et péroné non spécifiés
+M86.271	ostéomyélite subaiguë, cheville et pied droits
+M86.272	ostéomyélite subaiguë, cheville et pied gauches
+M86.279	ostéomyélite subaiguë, cheville et pied non spécifiés
+M86.28	ostéomyélite subaiguë, autre site
+M86.29	ostéomyélite subaiguë, multiples sites
+M86.30	ostéomyélite chronique multifocale, site non spécifié
+M86.311	ostéomyélite chronique multifocale, épaule droite
+M86.312	ostéomyélite chronique multifocale, épaule gauche
+M86.319	ostéomyélite chronique multifocale, épaule non spécifiée
+M86.321	ostéomyélite chronique multifocale, humérus droit
+M86.322	ostéomyélite chronique multifocale, humérus gauche
+M86.329	ostéomyélite chronique multifocale, humérus non spécifié
+M86.331	ostéomyélite chronique multifocale, radius et cubitus droits
+M86.332	ostéomyélite chronique multifocale, radius et cubitus gauches
+M86.339	ostéomyélite chronique multifocale, radius et cubitus non spécifiés
+M86.341	ostéomyélite chronique multifocale, main droite
+M86.342	ostéomyélite chronique multifocale, main gauche
+M86.349	ostéomyélite chronique multifocale, main non spécifiée
+M86.351	ostéomyélite chronique multifocale, fémur droit
+M86.352	ostéomyélite chronique multifocale, fémur gauche
+M86.359	ostéomyélite chronique multifocale, fémur non spécifié
+M86.361	ostéomyélite chronique multifocale, tibia et péroné droits
+M86.362	ostéomyélite chronique multifocale, tibia et péroné gauches
+M86.369	ostéomyélite chronique multifocale, tibia et péroné non spécifiés
+M86.371	ostéomyélite chronique multifocale, cheville et pied droits
+M86.372	ostéomyélite chronique multifocale, cheville et pied gauches
+M86.379	ostéomyélite chronique multifocale, cheville et pied non spécifiés
+M86.38	ostéomyélite chronique multifocale, autre site
+M86.39	ostéomyélite chronique multifocale, multiples sites
+M86.40	ostéomyélite chronique avec une fistule de drainage, site non spécifié
+M86.411	ostéomyélite chronique avec une fistule de drainage, épaule droite
+M86.412	ostéomyélite chronique avec une fistule de drainage, épaule gauche
+M86.419	ostéomyélite chronique avec une fistule de drainage, épaule non spécifiée
+M86.421	ostéomyélite chronique avec une fistule de drainage, humérus droit
+M86.422	ostéomyélite chronique avec une fistule de drainage, humérus gauche
+M86.429	ostéomyélite chronique avec une fistule de drainage, humérus non spécifié
+M86.431	ostéomyélite chronique avec une fistule de drainage, radius et cubitus droits
+M86.432	ostéomyélite chronique avec une fistule de drainage, radius et cubitus gauches
+M86.439	ostéomyélite chronique avec une fistule de drainage, radius et cubitus non spécifiés
+M86.441	ostéomyélite chronique avec une fistule de drainage, main droite
+M86.442	ostéomyélite chronique avec une fistule de drainage, main gauche
+M86.449	ostéomyélite chronique avec une fistule de drainage, main non spécifiée
+M86.451	ostéomyélite chronique avec une fistule de drainage, fémur droit
+M86.452	ostéomyélite chronique avec une fistule de drainage, fémur gauche
+M86.459	ostéomyélite chronique avec une fistule de drainage, fémur non spécifié
+M86.461	ostéomyélite chronique avec une fistule de drainage, tibia et péroné droits
+M86.462	ostéomyélite chronique avec une fistule de drainage, tibia et péroné gauches
+M86.469	ostéomyélite chronique avec une fistule de drainage, tibia et péroné non spécifiés
+M86.471	ostéomyélite chronique avec une fistule de drainage, cheville et pied droits
+M86.472	ostéomyélite chronique avec une fistule de drainage, cheville et pied gauches
+M86.479	ostéomyélite chronique avec une fistule de drainage, cheville et pied non spécifiés
+M86.48	ostéomyélite chronique avec une fistule de drainage, autre site
+M86.49	ostéomyélite chronique avec une fistule de drainage, multiples sites
+M86.50	autre ostéomyélite hématogène chronique, site non spécifié
+M86.511	autre ostéomyélite hématogène chronique, épaule droite
+M86.512	autre ostéomyélite hématogène chronique, épaule gauche
+M86.519	autre ostéomyélite hématogène chronique, épaule non spécifiée
+M86.521	autre ostéomyélite hématogène chronique, humérus droit
+M86.522	autre ostéomyélite hématogène chronique, humérus gauche
+M86.529	autre ostéomyélite hématogène chronique, humérus non spécifié
+M86.531	autre ostéomyélite hématogène chronique, radius et cubitus droits
+M86.532	autre ostéomyélite hématogène chronique, radius et cubitus gauches
+M86.539	autre ostéomyélite hématogène chronique,  radius et cubitus non spécifiés
+M86.541	autre ostéomyélite hématogène chronique, main droite
+M86.542	autre ostéomyélite hématogène chronique, main gauche
+M86.549	autre ostéomyélite hématogène chronique, main non spécifiée
+M86.551	autre ostéomyélite hématogène chronique, fémur droit
+M86.552	autre ostéomyélite hématogène chronique, fémur gauche
+M86.559	autre ostéomyélite hématogène chronique, fémur non spécifié
+M86.561	autre ostéomyélite hématogène chronique, tibia et péroné droits
+M86.562	autre ostéomyélite hématogène chronique, tibia et péroné gauches
+M86.569	autre ostéomyélite hématogène chronique, tibia et péroné non spécifiés
+M86.571	autre ostéomyélite hématogène chronique, cheville et pied droits
+M86.572	autre ostéomyélite hématogène chronique, cheville et pied gauches
+M86.579	autre ostéomyélite hématogène chronique, cheville et pied non spécifiés
+M86.58	autre ostéomyélite hématogène chronique, autre site
+M86.59	autre ostéomyélite hématogène chronique, multiples sites
+M86.60	autre ostéomyélite chronique, site non spécifié
+M86.611	autre ostéomyélite chronique, épaule droite
+M86.612	autre ostéomyélite chronique, épaule gauche
+M86.619	autre ostéomyélite chronique, épaule non spécifiée
+M86.621	autre ostéomyélite chronique, humérus droit
+M86.622	autre ostéomyélite chronique, humérus gauche
+M86.629	autre ostéomyélite chronique, humérus non spécifié
+M86.631	autre ostéomyélite chronique, radius et cubitus droits
+M86.632	autre ostéomyélite chronique, radius et cubitus gauches
+M86.639	autre ostéomyélite chronique,  radius et cubitus non spécifiés
+M86.641	autre ostéomyélite chronique, main droite
+M86.642	autre ostéomyélite chronique, main gauche
+M86.649	autre ostéomyélite chronique, main non spécifiée
+M86.651	autre ostéomyélite chronique, cuisse droite
+M86.652	autre ostéomyélite chronique, cuisse gauche
+M86.659	autre ostéomyélite chronique, cuisse non spécifiée
+M86.661	autre ostéomyélite chronique, tibia et péroné droits
+M86.662	autre ostéomyélite chronique, tibia et péroné gauches
+M86.669	autre ostéomyélite chronique, tibia et péroné non spécifiés
+M86.671	autre ostéomyélite chronique, cheville et pied droits
+M86.672	autre ostéomyélite chronique, cheville et pied gauches
+M86.679	autre ostéomyélite chronique, cheville et pied non spécifiés
+M86.68	autre ostéomyélite chronique, autre site
+M86.69	autre ostéomyélite chronique, multiples sites
+M86.8X0	autre ostéomyélite, multiples sites
+M86.8X1	autre ostéomyélite, épaule
+M86.8X2	autre ostéomyélite, bras
+M86.8X3	autre ostéomyélite, avant-bras
+M86.8X4	autre ostéomyélite, main
+M86.8X5	autre ostéomyélite, cuisse
+M86.8X6	autre ostéomyélite, jambe
+M86.8X7	autre ostéomyélite, cheville et pied
+M86.8X8	autre ostéomyélite, autre site
+M86.8X9	autre ostéomyélite, sites non spécifiés
+M86.9	ostéomyélite, sans précision
+M87.0	ostéonécrose aseptique idiopathique d'un os non spécifié
+M87.11	ostéonécrose aseptique idiopathique de l'épaule droite
+M87.12	ostéonécrose aseptique idiopathique de l'épaule gauche
+M87.19	ostéonécrose aseptique idiopathique d'une épaule non spécifiée
+M87.21	ostéonécrose aseptique idiopathique de l'humérus droit
+M87.22	ostéonécrose aseptique idiopathique de l'humérus gauche
+M87.29	ostéonécrose aseptique idiopathique d'un humérus non spécifié
+M87.31	ostéonécrose aseptique idiopathique du radius droit
+M87.32	ostéonécrose aseptique idiopathique du radius gauche
+M87.33	ostéonécrose aseptique idiopathique d'un radius non spécifié
+M87.34	ostéonécrose aseptique idiopathique du cubitus droit
+M87.35	ostéonécrose aseptique idiopathique du cubitus gauche
+M87.36	ostéonécrose aseptique idiopathique d'un cubitus non spécifié
+M87.37	ostéonécrose aseptique idiopathique au niveau du carpe droit
+M87.38	ostéonécrose aseptique idiopathique au niveau du carpe gauche
+M87.39	ostéonécrose aseptique idiopathique au niveau d'un carpe non spécifié
+M87.41	ostéonécrose aseptique idiopathique de la main droite
+M87.42	ostéonécrose aseptique idiopathique de la main gauche
+M87.43	ostéonécrose aseptique idiopathique d'une main non spécifiée
+M87.44	ostéonécrose aseptique idiopathique de doigt(s) droit(s)
+M87.45	ostéonécrose aseptique idiopathique de doigt(s) gauche(s)
+M87.46	ostéonécrose aseptique idiopathique de doigt(s) non spécifié(s)
+M87.50	ostéonécrose aseptique idiopathique du bassin
+M87.51	ostéonécrose aseptique idiopathique du fémur droit
+M87.52	ostéonécrose aseptique idiopathique du fémur gauche
+M87.59	ostéonécrose aseptique idiopathique d'un fémur non spécifié
+M87.61	ostéonécrose aseptique idiopathique du tibia droit
+M87.62	ostéonécrose aseptique idiopathique du tibia gauche
+M87.63	ostéonécrose aseptique idiopathique d'un tibia non spécifié
+M87.64	ostéonécrose aseptique idiopathique du péroné droit
+M87.65	ostéonécrose aseptique idiopathique du péroné gauche
+M87.66	ostéonécrose aseptique idiopathique d'un péroné non spécifié
+M87.71	ostéonécrose aseptique idiopathique de la cheville droite
+M87.72	ostéonécrose aseptique idiopathique de la cheville gauche
+M87.73	ostéonécrose aseptique idiopathique de la cheville non spécifié
+M87.74	ostéonécrose aseptique idiopathique du pied droit
+M87.75	ostéonécrose aseptique idiopathique du pied gauche
+M87.76	ostéonécrose aseptique idiopathique d'un pied non spécifié
+M87.77	ostéonécrose aseptique idiopathique d'orteil(s) droit(s)
+M87.78	ostéonécrose aseptique idiopathique d'orteil(s) gauche(s)
+M87.79	ostéonécrose aseptique idiopathique d'orteil(s) non spécifié(s)
+M87.8	ostéonécrose aseptique idiopathique de l'os, autre site
+M87.9	ostéonécrose aseptique idiopathique de l'os, multiples sites
+M87.10	ostéonécrose médicamenteuse, os non spécifié
+M87.111	ostéonécrose médicamenteuse, épaule droite
+M87.112	ostéonécrose médicamenteuse, épaule gauche
+M87.119	ostéonécrose médicamenteuse, épaule non spécifiée
+M87.121	ostéonécrose médicamenteuse, humérus droit
+M87.122	ostéonécrose médicamenteuse, humérus gauche
+M87.129	ostéonécrose médicamenteuse, humérus non spécifié
+M87.131	ostéonécrose médicamenteuse, radius droit
+M87.132	ostéonécrose médicamenteuse, radius gauche
+M87.133	ostéonécrose médicamenteuse, radius non spécifié
+M87.134	ostéonécrose médicamenteuse, cubitus droit
+M87.135	ostéonécrose médicamenteuse, cubitus gauche
+M87.136	ostéonécrose médicamenteuse, cubitus non spécifié
+M87.137	ostéonécrose médicamenteuse, carpe droit
+M87.138	ostéonécrose médicamenteuse, carpe gauche
+M87.139	ostéonécrose médicamenteuse, carpe non spécifié
+M87.141	ostéonécrose médicamenteuse, main droite
+M87.142	ostéonécrose médicamenteuse, main gauche
+M87.143	ostéonécrose médicamenteuse, main non spécifiée
+M87.144	ostéonécrose médicamenteuse, doigt(s) droit(s)
+M87.145	ostéonécrose médicamenteuse, doigt(s) gauche(s)
+M87.146	ostéonécrose médicamenteuse, doigt(s) non spécifié(s)
+M87.150	ostéonécrose médicamenteuse, bassin
+M87.151	ostéonécrose médicamenteuse, fémur droit
+M87.152	ostéonécrose médicamenteuse, fémur gauche
+M87.159	ostéonécrose médicamenteuse, fémur non spécifié
+M87.161	ostéonécrose médicamenteuse, tibia droit
+M87.162	ostéonécrose médicamenteuse, tibia gauche
+M87.163	ostéonécrose médicamenteuse, tibia non spécifié
+M87.164	ostéonécrose médicamenteuse, péroné droit
+M87.165	ostéonécrose médicamenteuse, péroné gauche
+M87.166	ostéonécrose médicamenteuse, péroné non spécifié
+M87.171	ostéonécrose médicamenteuse, cheville droite
+M87.172	ostéonécrose médicamenteuse, cheville gauche
+M87.173	ostéonécrose médicamenteuse, cheville non spécifiée
+M87.174	ostéonécrose médicamenteuse, pied droit
+M87.175	ostéonécrose médicamenteuse, pied gauche
+M87.176	ostéonécrose médicamenteuse, pied non spécifié
+M87.177	ostéonécrose médicamenteuse, orteil(s) droit(s)
+M87.178	ostéonécrose médicamenteuse, orteil(s) gauche(s)
+M87.179	ostéonécrose médicamenteuse, orteil(s) non spécifié(s)
+M87.180	ostéonécrose médicamenteuse, mâchoire
+M87.188	ostéonécrose médicamenteuse, autre site
+M87.19	ostéonécrose médicamenteuse, multiples sites
+M87.20	ostéonécrose due à un traumatisme précédent, os non spécifié
+M87.211	ostéonécrose due à un traumatisme précédent, épaule droite
+M87.212	ostéonécrose due à un traumatisme précédent, épaule gauche
+M87.219	ostéonécrose due à un traumatisme précédent, épaule non spécifiée
+M87.221	ostéonécrose due à un traumatisme précédent, humérus droit
+M87.222	ostéonécrose due à un traumatisme précédent, humérus gauche
+M87.229	ostéonécrose due à un traumatisme précédent, humérus non spécifié
+M87.231	ostéonécrose due à un traumatisme précédent, radius droit
+M87.232	ostéonécrose due à un traumatisme précédent, radius gauche
+M87.233	ostéonécrose due à un traumatisme précédent, radius non spécifié
+M87.234	ostéonécrose due à un traumatisme précédent, cubitus droit
+M87.235	ostéonécrose due à un traumatisme précédent, cubitus gauche
+M87.236	ostéonécrose due à un traumatisme précédent, cubitus non spécifié
+M87.237	ostéonécrose due à un traumatisme précédent, carpe droit
+M87.238	ostéonécrose due à un traumatisme précédent, carpe gauche
+M87.239	ostéonécrose due à un traumatisme précédent, carpe non spécifié
+M87.241	ostéonécrose due à un traumatisme précédent, main droite
+M87.242	ostéonécrose due à un traumatisme précédent, main gauche
+M87.243	ostéonécrose due à un traumatisme précédent, main non spécifiée
+M87.244	ostéonécrose due à un traumatisme précédent, doigt(s) droit(s)
+M87.245	ostéonécrose due à un traumatisme précédent, doigt(s) gauche(s)
+M87.246	ostéonécrose due à un traumatisme précédent, doigt(s) non spécifié(s)
+M87.250	ostéonécrose due à un traumatisme précédent, bassin
+M87.251	ostéonécrose due à un traumatisme précédent, fémur droit
+M87.252	ostéonécrose due à un traumatisme précédent, fémur gauche
+M87.256	ostéonécrose due à un traumatisme précédent, fémur non spécifié
+M87.261	ostéonécrose due à un traumatisme précédent, tibia droit
+M87.262	ostéonécrose due à un traumatisme précédent, tibia gauche
+M87.263	ostéonécrose due à un traumatisme précédent, tibia non spécifié
+M87.264	ostéonécrose due à un traumatisme précédent, péroné droit
+M87.265	ostéonécrose due à un traumatisme précédent, péroné gauche
+M87.266	ostéonécrose due à un traumatisme précédent, péroné non spécifié
+M87.271	ostéonécrose due à un traumatisme précédent, cheville droite
+M87.272	ostéonécrose due à un traumatisme précédent, cheville gauche
+M87.273	ostéonécrose due à un traumatisme précédent, cheville non spécifiée
+M87.274	ostéonécrose due à un traumatisme précédent, pied droit
+M87.275	ostéonécrose due à un traumatisme précédent, pied gauche
+M87.276	ostéonécrose due à un traumatisme précédent, pied non spécifié
+M87.277	ostéonécrose due à un traumatisme précédent, orteil(s) droit(s)
+M87.278	ostéonécrose due à un traumatisme précédent, orteil(s) gauche(s)
+M87.279	ostéonécrose due à un traumatisme précédent, orteil(s) non spécifié(s)
+M87.28	ostéonécrose due à un traumatisme précédent, autre site
+M87.29	ostéonécrose due à un traumatisme précédent, multiples sites
+M87.30	autre ostéonécrose secondaire, os non spécifié
+M87.311	autre ostéonécrose secondaire, épaule droite
+M87.312	autre ostéonécrose secondaire, épaule gauche
+M87.319	autre ostéonécrose secondaire, épaule non spécifiée
+M87.321	autre ostéonécrose secondaire, humérus droit
+M87.322	autre ostéonécrose secondaire, humérus gauche
+M87.329	autre ostéonécrose secondaire, humérus non spécifié
+M87.331	autre ostéonécrose secondaire, radius droit
+M87.332	autre ostéonécrose secondaire, radius gauche
+M87.333	autre ostéonécrose secondaire, radius non spécifié
+M87.334	autre ostéonécrose secondaire, cubitus droit
+M87.335	autre ostéonécrose secondaire, cubitus gauche
+M87.336	autre ostéonécrose secondaire, cubitus non spécifié
+M87.337	autre ostéonécrose secondaire, carpe droit
+M87.338	autre ostéonécrose secondaire, carpe gauche
+M87.339	autre ostéonécrose secondaire, carpe non spécifié
+M87.341	autre ostéonécrose secondaire, main droite
+M87.342	autre ostéonécrose secondaire, main gauche
+M87.343	autre ostéonécrose secondaire, main non spécifiée
+M87.344	autre ostéonécrose secondaire, doigt(s) droit(s)
+M87.345	autre ostéonécrose secondaire, doigt(s) gauche(s)
+M87.346	autre ostéonécrose secondaire, doigt(s) non spécifié(s)
+M87.350	autre ostéonécrose secondaire, bassin
+M87.351	autre ostéonécrose secondaire, fémur droit
+M87.352	autre ostéonécrose secondaire, fémur gauche
+M87.353	autre ostéonécrose secondaire, fémur non spécifié
+M87.361	autre ostéonécrose secondaire, tibia droit
+M87.362	autre ostéonécrose secondaire, tibia gauche
+M87.363	autre ostéonécrose secondaire, tibia non spécifié
+M87.364	autre ostéonécrose secondaire, péroné droit
+M87.365	autre ostéonécrose secondaire, péroné gauche
+M87.366	autre ostéonécrose secondaire, péroné non spécifié
+M87.371	autre ostéonécrose secondaire, cheville droite
+M87.372	autre ostéonécrose secondaire, cheville gauche
+M87.373	autre ostéonécrose secondaire, cheville non spécifiée
+M87.374	autre ostéonécrose secondaire, pied droit
+M87.375	autre ostéonécrose secondaire, pied gauche
+M87.376	autre ostéonécrose secondaire, pied non spécifié
+M87.377	autre ostéonécrose secondaire, orteil(s) droit(s)
+M87.378	autre ostéonécrose secondaire, orteil(s) gauche(s)
+M87.379	autre ostéonécrose secondaire, orteil(s) non spécifié(s)
+M87.38	autre ostéonécrose secondaire, autre site
+M87.39	autre ostéonécrose secondaire, multiples sites
+M87.80	autre ostéonécrose, os non spécifié
+M87.811	autre ostéonécrose, épaule droite
+M87.812	autre ostéonécrose, épaule gauche
+M87.819	autre ostéonécrose, épaule non spécifiée
+M87.821	autre ostéonécrose, humérus droit
+M87.822	autre ostéonécrose, humérus gauche
+M87.829	autre ostéonécrose, humérus non spécifié
+M87.831	autre ostéonécrose, radius droit
+M87.832	autre ostéonécrose, radius gauche
+M87.833	autre ostéonécrose, radius non spécifié
+M87.834	autre ostéonécrose, cubitus droit
+M87.835	autre ostéonécrose, cubitus gauche
+M87.836	autre ostéonécrose, cubitus non spécifié
+M87.837	autre ostéonécrose, carpe droit
+M87.838	autre ostéonécrose, carpe gauche
+M87.839	autre ostéonécrose, carpe non spécifié
+M87.841	autre ostéonécrose, main droite
+M87.842	autre ostéonécrose, main gauche
+M87.843	autre ostéonécrose, main non spécifiée
+M87.844	autre ostéonécrose, doigt(s) droit(s)
+M87.845	autre ostéonécrose, doigt(s) gauche(s)
+M87.849	autre ostéonécrose, doigt(s) non spécifié(s)
+M87.850	autre ostéonécrose, bassin
+M87.851	autre ostéonécrose, fémur droit
+M87.852	autre ostéonécrose, fémur gauche
+M87.859	autre ostéonécrose, fémur non spécifié
+M87.861	autre ostéonécrose, tibia droit
+M87.862	autre ostéonécrose, tibia gauche
+M87.863	autre ostéonécrose, tibia non spécifié
+M87.864	autre ostéonécrose, péroné droit
+M87.865	autre ostéonécrose, péroné gauche
+M87.869	autre ostéonécrose, péroné non spécifié
+M87.871	autre ostéonécrose, cheville droite
+M87.872	autre ostéonécrose, cheville gauche
+M87.873	autre ostéonécrose, cheville non spécifiée
+M87.874	autre ostéonécrose, pied droit
+M87.875	autre ostéonécrose, pied gauche
+M87.876	autre ostéonécrose, pied non spécifié
+M87.877	autre ostéonécrose, orteil(s) droit(s)
+M87.878	autre ostéonécrose, orteil(s) gauche(s)
+M87.879	autre ostéonécrose, orteil(s) non spécifié(s)
+M87.88	autre ostéonécrose, autre site
+M87.89	autre ostéonécrose, multiples sites
+M87.9	ostéonécrose, sans précision
+M88.0	ostéite déformante du crâne
+M88.1	ostéite déformante des vertèbres
+M88.811	ostéite déformante de l'épaule droite
+M88.812	ostéite déformante de l'épaule gauche
+M88.819	ostéite déformante d'une épaule non spécifiée
+M88.821	ostéite déformante du bras droit
+M88.822	ostéite déformante du bras gauche
+M88.829	ostéite déformante d'un bras non spécifié
+M88.831	ostéite déformante de l'avant-bras droit
+M88.832	ostéite déformante de l'avant-bras gauche
+M88.839	ostéite déformante d'un avant-bras non spécifié
+M88.841	ostéite déformante de la main droite
+M88.842	ostéite déformante de la main gauche
+M88.849	ostéite déformante d'une main non spécifiée
+M88.851	ostéite déformante de la cuisse droite
+M88.852	ostéite déformante de la cuisse gauche
+M88.859	ostéite déformante d'une cuisse non spécifiée
+M88.861	ostéite déformante de la jambe droite
+M88.862	ostéite déformante de la jambe gauche
+M88.869	ostéite déformante d'une jambe non spécifiée
+M88.871	ostéite déformante de la cheville et du pied droits
+M88.872	ostéite déformante de la cheville et pied gauches
+M88.879	ostéite déformante de la cheville et pied non spécifiés
+M88.88	ostéite déformante d'autre os
+M88.89	ostéite déformante de multiples sites
+M88.9	ostéite déformante d'os non spécifié
+M89.0	algoneurodystrophie, site non spécifié
+M89.11	algoneurodystrophie, épaule droite
+M89.12	algoneurodystrophie, épaule gauche
+M89.19	algoneurodystrophie, épaule non spécifiée
+M89.21	algoneurodystrophie, bras droit
+M89.22	algoneurodystrophie, bras gauche
+M89.29	algoneurodystrophie, bras non spécifié
+M89.31	algoneurodystrophie, avant-bras droit
+M89.32	algoneurodystrophie, avant-bras gauche
+M89.39	algoneurodystrophie, avant-bras non spécifié
+M89.41	algoneurodystrophie, main droite
+M89.42	algoneurodystrophie, main gauche
+M89.49	algoneurodystrophie, main non spécifiée
+M89.51	algoneurodystrophie, cuisse droite
+M89.52	algoneurodystrophie, cuisse gauche
+M89.59	algoneurodystrophie, cuisse non spécifiée
+M89.61	algoneurodystrophie, jambe droite
+M89.62	algoneurodystrophie, jambe gauche
+M89.69	algoneurodystrophie, jambe non spécifiée
+M89.71	algoneurodystrophie, cheville et pied droits
+M89.72	algoneurodystrophie, cheville et pied gauches
+M89.79	algoneurodystrophie, cheville et pied non spécifiés
+M89.8	algoneurodystrophie, autre site
+M89.9	algoneurodystrophie, multiples sites
+M89.121	arrêt épiphysaire complet, humérus proximal droit
+M89.122	arrêt épiphysaire complet, humérus proximal gauche
+M89.123	arrêt épiphysaire partiel, humérus proximal droit
+M89.124	arrêt épiphysaire partiel, humérus proximal gauche
+M89.125	arrêt épiphysaire complet, humérus distal droit
+M89.126	arrêt épiphysaire complet, humérus distal gauche
+M89.127	arrêt épiphysaire partiel, humérus distal droit
+M89.128	arrêt épiphysaire partiel, humérus distal gauche
+M89.129	arrêt épiphysaire, humérus, non spécifié
+M89.131	arrêt épiphysaire complet, radius distal droit
+M89.132	arrêt épiphysaire complet, radius distal gauche
+M89.133	arrêt épiphysaire partiel, radius distal droit
+M89.134	arrêt épiphysaire partiel, radius distal gauche
+M89.138	autre arrêt épiphysaire de l'avant-bras
+M89.139	arrêt épiphysaire, avant-bras, non spécifié
+M89.151	arrêt épiphysaire complet, fémur proximal droit
+M89.152	arrêt épiphysaire complet, fémur proximal gauche
+M89.153	arrêt épiphysaire partiel, fémur proximal droit
+M89.154	arrêt épiphysaire partiel, fémur proximal gauche
+M89.155	arrêt épiphysaire complet, fémur distal droit
+M89.156	arrêt épiphysaire complet, fémur distal gauche
+M89.157	arrêt épiphysaire partiel, fémur distal droit
+M89.158	arrêt épiphysaire partiel, fémur distal gauche
+M89.159	arrêt épiphysaire, fémur, non spécifié
+M89.160	arrêt épiphysaire complet, tibia proximal droit
+M89.161	arrêt épiphysaire complet, tibia proximal gauche
+M89.162	arrêt épiphysaire partiel, tibia proximal droit
+M89.163	arrêt épiphysaire partiel, tibia proximal gauche
+M89.164	arrêt épiphysaire complet, tibia distal droit
+M89.165	arrêt épiphysaire complet, tibia distal gauche
+M89.166	arrêt épiphysaire partiel, tibia distal droit
+M89.167	arrêt épiphysaire partiel, tibia distal gauche
+M89.168	autre arrêt épiphysaire de la jambe
+M89.169	arrêt épiphysaire, jambe, non spécifiée
+M89.18	arrêt épiphysaire, autre site
+M89.20	d'autres troubles du développement et de la croissance osseux, site non spécifié
+M89.211	d'autres troubles du développement et de la croissance osseux, épaule droite
+M89.212	d'autres troubles du développement et de la croissance osseux, épaule gauche
+M89.219	d'autres troubles du développement et de la croissance osseux, épaule non spécifiée
+M89.221	d'autres troubles du développement et de la croissance osseux, humérus droit
+M89.222	d'autres troubles du développement et de la croissance osseux, humérus gauche
+M89.229	d'autres troubles du développement et de la croissance osseux, humérus non spécifié
+M89.231	d'autres troubles du développement et de la croissance osseux, cubitus droit
+M89.232	d'autres troubles du développement et de la croissance osseux, cubitus gauche
+M89.233	d'autres troubles du développement et de la croissance osseux, radius droit
+M89.234	d'autres troubles du développement et de la croissance osseux, radius gauche
+M89.239	d'autres troubles du développement et de la croissance osseux, cubitus et radius non spécifiés
+M89.241	d'autres troubles du développement et de la croissance osseux, main droite
+M89.242	d'autres troubles du développement et de la croissance osseux, main gauche
+M89.249	d'autres troubles du développement et de la croissance osseux, main non spécifiée
+M89.251	d'autres troubles du développement et de la croissance osseux, fémur droit
+M89.252	d'autres troubles du développement et de la croissance osseux, fémur gauche
+M89.259	d'autres troubles du développement et de la croissance osseux, fémur non spécifié
+M89.261	d'autres troubles du développement et de la croissance osseux, tibia droit
+M89.262	d'autres troubles du développement et de la croissance osseux, tibia gauche
+M89.263	d'autres troubles du développement et de la croissance osseux, péroné droit
+M89.264	d'autres troubles du développement et de la croissance osseux, péroné gauche
+M89.269	d'autres troubles du développement et de la croissance osseux, jambe non spécifiée
+M89.271	d'autres troubles du développement et de la croissance osseux, cheville et pied droits
+M89.272	d'autres troubles du développement et de la croissance osseux, cheville et pied gauches
+M89.279	d'autres troubles du développement et de la croissance osseux, cheville et pied non spécifiés
+M89.28	d'autres troubles du développement et de la croissance osseux, autre site
+M89.29	d'autres troubles du développement et de la croissance osseux, multiples sites
+M89.30	hypertrophie osseuse, site non spécifié
+M89.311	hypertrophie osseuse, épaule droite
+M89.312	hypertrophie osseuse, épaule gauche
+M89.319	hypertrophie osseuse, épaule non spécifiée
+M89.321	hypertrophie osseuse, humérus droit
+M89.322	hypertrophie osseuse, humérus gauche
+M89.329	hypertrophie osseuse, humérus non spécifié
+M89.331	hypertrophie osseuse, cubitus droit
+M89.332	hypertrophie osseuse, cubitus gauche
+M89.333	hypertrophie osseuse, radius droit
+M89.334	hypertrophie osseuse, radius gauche
+M89.339	hypertrophie osseuse, cubitus et radius non spécifiés
+M89.341	hypertrophie osseuse, main droite
+M89.342	hypertrophie osseuse, main gauche
+M89.349	hypertrophie osseuse, main non spécifiée
+M89.351	hypertrophie osseuse, fémur droit
+M89.352	hypertrophie osseuse, fémur gauche
+M89.359	hypertrophie osseuse, fémur non spécifié
+M89.361	hypertrophie osseuse, tibia droite
+M89.362	hypertrophie osseuse, tibia gauche
+M89.363	hypertrophie osseuse, péroné droit
+M89.364	hypertrophie osseuse, péroné gauche
+M89.369	hypertrophie osseuse, tibia et péroné non spécifiés
+M89.371	hypertrophie osseuse, cheville et pied droits
+M89.372	hypertrophie osseuse, cheville et pied gauches
+M89.379	hypertrophie osseuse, cheville et pied non spécifiés
+M89.38	hypertrophie osseuse, autre site
+M89.39	hypertrophie osseuse, multiples sites
+M89.40	autre ostéoarthropathie hypertrophiante, site non spécifié
+M89.411	autre ostéoarthropathie hypertrophiante, épaule droite
+M89.412	autre ostéoarthropathie hypertrophiante, épaule gauche
+M89.419	autre ostéoarthropathie hypertrophiante, épaule non spécifiée
+M89.421	autre ostéoarthropathie hypertrophiante, bras droit
+M89.422	autre ostéoarthropathie hypertrophiante, bras gauche
+M89.429	autre ostéoarthropathie hypertrophiante, bras non spécifié
+M89.431	autre ostéoarthropathie hypertrophiante, avant-bras droit
+M89.432	autre ostéoarthropathie hypertrophiante, avant-bras gauche
+M89.439	autre ostéoarthropathie hypertrophiante, avant-bras non spécifié
+M89.441	autre ostéoarthropathie hypertrophiante, main droite
+M89.442	autre ostéoarthropathie hypertrophiante, main gauche
+M89.449	autre ostéoarthropathie hypertrophiante, main non spécifiée
+M89.451	autre ostéoarthropathie hypertrophiante, cuisse droite
+M89.452	autre ostéoarthropathie hypertrophiante, cuisse gauche
+M89.459	autre ostéoarthropathie hypertrophiante, cuisse non spécifiée
+M89.461	autre ostéoarthropathie hypertrophiante, jambe droite
+M89.462	autre ostéoarthropathie hypertrophiante, jambe gauche
+M89.469	autre ostéoarthropathie hypertrophiante, jambe non spécifiée
+M89.471	autre ostéoarthropathie hypertrophiante, cheville et pied droits
+M89.472	autre ostéoarthropathie hypertrophiante, cheville et pied gauches
+M89.479	autre ostéoarthropathie hypertrophiante, cheville et pied non spécifiés
+M89.48	autre ostéoarthropathie hypertrophiante, autre site
+M89.49	autre ostéoarthropathie hypertrophiante, multiples sites
+M89.50	ostéolyse, site non spécifié
+M89.511	ostéolyse, épaule droite
+M89.512	ostéolyse, épaule gauche
+M89.519	ostéolyse, épaule non spécifiée
+M89.521	ostéolyse, bras droit
+M89.522	ostéolyse, bras gauche
+M89.529	ostéolyse, bras non spécifié
+M89.531	ostéolyse, avant-bras droit
+M89.532	ostéolyse, avant-bras gauche
+M89.539	ostéolyse, avant-bras non spécifié
+M89.541	ostéolyse, main droite
+M89.542	ostéolyse, main gauche
+M89.549	ostéolyse, avant-bras non spécifié
+M89.551	ostéolyse, cuisse droite
+M89.552	ostéolyse, cuisse gauche
+M89.559	ostéolyse, cuisse non spécifiée
+M89.561	ostéolyse, jambe droite
+M89.562	ostéolyse, jambe gauche
+M89.569	ostéolyse, jambe non spécifiée
+M89.571	ostéolyse, cheville et pied droits
+M89.572	ostéolyse, cheville et pied gauches
+M89.579	ostéolyse, cheville et pied non spécifiés
+M89.58	ostéolyse, autre site
+M89.59	ostéolyse, multiples sites
+M89.60	ostéopathie consécutive à une poliomyélite, site non spécifié
+M89.611	ostéopathie consécutive à une poliomyélite, épaule droite
+M89.612	ostéopathie consécutive à une poliomyélite, épaule gauche
+M89.619	ostéopathie consécutive à une poliomyélite, épaule non spécifiée
+M89.621	ostéopathie consécutive à une poliomyélite, bras droit
+M89.622	ostéopathie consécutive à une poliomyélite, bras gauche
+M89.629	ostéopathie consécutive à une poliomyélite, bras non spécifié
+M89.631	ostéopathie consécutive à une poliomyélite, avant-bras droit
+M89.632	ostéopathie consécutive à une poliomyélite, avant-bras gauche
+M89.639	ostéopathie consécutive à une poliomyélite, avant-bras non spécifié
+M89.641	ostéopathie consécutive à une poliomyélite, main droite
+M89.642	ostéopathie consécutive à une poliomyélite, main gauche
+M89.649	ostéopathie consécutive à une poliomyélite, main non spécifiée
+M89.651	ostéopathie consécutive à une poliomyélite, cuisse droite
+M89.652	ostéopathie consécutive à une poliomyélite, cuisse gauche
+M89.659	ostéopathie consécutive à une poliomyélite, cuisse non spécifiée
+M89.661	ostéopathie consécutive à une poliomyélite, jambe droite
+M89.662	ostéopathie consécutive à une poliomyélite, jambe gauche
+M89.669	ostéopathie consécutive à une poliomyélite, jambe non spécifiée
+M89.671	ostéopathie consécutive à une poliomyélite, cheville et pied droits
+M89.672	ostéopathie consécutive à une poliomyélite, cheville et pied gauches
+M89.679	ostéopathie consécutive à une poliomyélite, cheville et pied non spécifiés
+M89.68	ostéopathie consécutive à une poliomyélite, autre site
+M89.69	ostéopathie consécutive à une poliomyélite, multiples sites
+M89.70	défaut osseux majeur, site non spécifié
+M89.711	défaut osseux majeur, épaule droite
+M89.712	défaut osseux majeur, épaule gauche
+M89.719	défaut osseux majeur, épaule non spécifiée
+M89.721	défaut osseux majeur, humérus droit
+M89.722	défaut osseux majeur, humérus gauche
+M89.729	défaut osseux majeur, humérus non spécifié
+M89.731	défaut osseux majeur, avant-bras droit
+M89.732	défaut osseux majeur, avant-bras gauche
+M89.739	défaut osseux majeur, avant-bras non spécifié
+M89.741	défaut osseux majeur, main droite
+M89.742	défaut osseux majeur, main gauche
+M89.749	défaut osseux majeur, main non spécifiée
+M89.751	défaut osseux majeur, région pelvienne et cuisse droites
+M89.752	défaut osseux majeur, région pelvienne et cuisse gauches
+M89.759	défaut osseux majeur, région pelvienne et cuisse non spécifiées
+M89.761	défaut osseux majeur, jambe droite
+M89.762	défaut osseux majeur, jambe gauche
+M89.769	défaut osseux majeur, jambe non spécifiée
+M89.771	défaut osseux majeur, cheville et pied droits
+M89.772	défaut osseux majeur, cheville et pied gauches
+M89.779	défaut osseux majeur, cheville et pied non spécifiés
+M89.78	défaut osseux majeur, autre site
+M89.79	défaut osseux majeur, multiples sites
+M89.8X0	d'autres maladies osseuses spécifiées, multiples sites
+M89.8X1	d'autres maladies osseuses spécifiées, épaule
+M89.8X2	d'autres maladies osseuses spécifiées, bras
+M89.8X3	d'autres maladies osseuses spécifiées, avant-bras
+M89.8X4	d'autres maladies osseuses spécifiées, main
+M89.8X5	d'autres maladies osseuses spécifiées, cuisse
+M89.8X6	d'autres maladies osseuses spécifiées, jambe
+M89.8X7	d'autres maladies osseuses spécifiées, cheville et pied
+M89.8X8	d'autres maladies osseuses spécifiées, autre site
+M89.8X9	d'autres maladies osseuses spécifiées, site non précisé
+M89.9	maladie osseuse, sans précision
+M90.50	ostéonécrose au cours de maladies classées ailleurs, site non spécifié
+M90.511	ostéonécrose au cours de maladies classées ailleurs, épaule droite
+M90.512	ostéonécrose au cours de maladies classées ailleurs, épaule gauche
+M90.519	ostéonécrose au cours de maladies classées ailleurs, épaule non spécifiée
+M90.521	ostéonécrose au cours de maladies classées ailleurs, bras droit
+M90.522	ostéonécrose au cours de maladies classées ailleurs, bras gauche
+M90.529	ostéonécrose au cours de maladies classées ailleurs, bras non spécifié
+M90.531	ostéonécrose au cours de maladies classées ailleurs, avant-bras droit
+M90.532	ostéonécrose au cours de maladies classées ailleurs, avant-bras gauche
+M90.539	ostéonécrose au cours de maladies classées ailleurs, avant-bras non spécifié
+M90.541	ostéonécrose au cours de maladies classées ailleurs, main droite
+M90.542	ostéonécrose au cours de maladies classées ailleurs, main gauche
+M90.549	ostéonécrose au cours de maladies classées ailleurs, main non spécifiée
+M90.551	ostéonécrose au cours de maladies classées ailleurs, cuisse droite
+M90.552	ostéonécrose au cours de maladies classées ailleurs, cuisse gauche
+M90.559	ostéonécrose au cours de maladies classées ailleurs, cuisse non spécifiée
+M90.561	ostéonécrose au cours de maladies classées ailleurs, jambe droite
+M90.562	ostéonécrose au cours de maladies classées ailleurs, jambe gauche
+M90.569	ostéonécrose au cours de maladies classées ailleurs, jambe non spécifiée
+M90.571	ostéonécrose au cours de maladies classées ailleurs, cheville et pied droits
+M90.572	ostéonécrose au cours de maladies classées ailleurs, cheville et pied gauches
+M90.579	ostéonécrose au cours de maladies classées ailleurs, cheville et pied non spécifiés
+M90.58	ostéonécrose au cours de maladies classées ailleurs, autre site
+M90.59	ostéonécrose au cours de maladies classées ailleurs, multiples sites
+M90.60	ostéite déformante au cours de maladies néoplasiques, site non spécifié
+M90.611	ostéite déformante au cours de maladies néoplasiques, épaule droite
+M90.612	ostéite déformante au cours de maladies néoplasiques, épaule gauche
+M90.619	ostéite déformante au cours de maladies néoplasiques, épaule non spécifiée
+M90.621	ostéite déformante au cours de maladies néoplasiques, bras droit
+M90.622	ostéite déformante au cours de maladies néoplasiques, bras gauche
+M90.629	ostéite déformante au cours de maladies néoplasiques, bras non spécifié
+M90.631	ostéite déformante au cours de maladies néoplasiques, avant-bras droit
+M90.632	ostéite déformante au cours de maladies néoplasiques, avant-bras gauche
+M90.639	ostéite déformante au cours de maladies néoplasiques, avant-bras non spécifié
+M90.641	ostéite déformante au cours de maladies néoplasiques, main droite
+M90.642	ostéite déformante au cours de maladies néoplasiques, main gauche
+M90.649	ostéite déformante au cours de maladies néoplasiques, main non spécifiée
+M90.651	ostéite déformante au cours de maladies néoplasiques, cuisse droite
+M90.652	ostéite déformante au cours de maladies néoplasiques, cuisse gauche
+M90.659	ostéite déformante au cours de maladies néoplasiques, cuisse non spécifiée
+M90.661	ostéite déformante au cours de maladies néoplasiques, jambe droite
+M90.662	ostéite déformante au cours de maladies néoplasiques, jambe gauche
+M90.669	ostéite déformante au cours de maladies néoplasiques, jambe non spécifiée
+M90.671	ostéite déformante au cours de maladies néoplasiques, cheville et pied droits
+M90.672	ostéite déformante au cours de maladies néoplasiques, cheville et pied gauches
+M90.679	ostéite déformante au cours de maladies néoplasiques, cheville et pied non spécifiés
+M90.68	ostéite déformante au cours de maladies néoplasiques, autre site
+M90.69	ostéite déformante au cours de maladies néoplasiques, multiples sites
+M90.80	ostéopathie au cours de maladies classées ailleurs, site non spécifié
+M90.811	ostéopathie au cours de maladies classées ailleurs, épaule droite
+M90.812	ostéopathie au cours de maladies classées ailleurs, épaule gauche
+M90.819	ostéopathie au cours de maladies classées ailleurs, épaule non spécifiée
+M90.821	ostéopathie au cours de maladies classées ailleurs, bras droit
+M90.822	ostéopathie au cours de maladies classées ailleurs, bras gauche
+M90.829	ostéopathie au cours de maladies classées ailleurs, bras non spécifié
+M90.831	ostéopathie au cours de maladies classées ailleurs, avant-bras droit
+M90.832	ostéopathie au cours de maladies classées ailleurs, avant-bras gauche
+M90.839	ostéopathie au cours de maladies classées ailleurs, avant-bras non spécifié
+M90.841	ostéopathie au cours de maladies classées ailleurs, main droite
+M90.842	ostéopathie au cours de maladies classées ailleurs, main gauche
+M90.849	ostéopathie au cours de maladies classées ailleurs, main non spécifiée
+M90.851	ostéopathie au cours de maladies classées ailleurs, cuisse droite
+M90.852	ostéopathie au cours de maladies classées ailleurs, cuisse gauche
+M90.859	ostéopathie au cours de maladies classées ailleurs, cuisse non spécifiée
+M90.861	ostéopathie au cours de maladies classées ailleurs, jambe droite
+M90.862	ostéopathie au cours de maladies classées ailleurs, jambe gauche
+M90.869	ostéopathie au cours de maladies classées ailleurs, jambe non spécifiée
+M90.871	ostéopathie au cours de maladies classées ailleurs, cheville et pied droits
+M90.872	ostéopathie au cours de maladies classées ailleurs, cheville et pied gauches
+M90.879	ostéopathie au cours de maladies classées ailleurs, cheville et pied non spécifiés
+M90.88	ostéopathie au cours de maladies classées ailleurs, autre site
+M90.89	ostéopathie au cours de maladies classées ailleurs, multiples sites
+M91.0	ostéochondrite juvénile du bassin
+M91.10	ostéochondrite juvénile de la tête du fémur [Legg-Calve-Perthes], membre inférieur non spécifié
+M91.11	ostéochondrite juvénile de la tête du fémur [Legg-Calve-Perthes], membre inférieur droit
+M91.12	ostéochondrite juvénile de la tête du fémur [Legg-Calve-Perthes], membre inférieur gauche
+M91.20	coxa plana, hanche non spécifiée
+M91.21	coxa plana, hanche droite
+M91.22	coxa plana, hanche gauche
+M91.30	pseudocoxalgie, hanche non spécifiée
+M91.31	pseudocoxalgie, hanche droite
+M91.32	pseudocoxalgie, hanche gauche
+M91.40	coxa magna, hanche non spécifiée
+M91.41	coxa magna, hanche droite
+M91.42	coxa magna, hanche gauche
+M91.80	autre ostéochondrite juvénile de la hanche et du bassin, membre inférieur non spécifié
+M91.81	autre ostéochondrite juvénile de la hanche et du bassin, membre inférieur droit
+M91.82	autre ostéochondrite juvénile de la hanche et du bassin, membre inférieur gauche
+M91.90	ostéochondrite juvénile de la hanche et du bassin, non spécifiée, membre inférieur non précisé
+M91.91	ostéochondrite juvénile de la hanche et du bassin, non spécifiée, membre inférieur droit
+M91.92	ostéochondrite juvénile de la hanche et du bassin, non spécifiée, membre inférieur gauche
+M92.0	ostéochondrite juvénile de l'humérus, membre supérieur non spécifié
+M92.1	ostéochondrite juvénile de l'humérus, membre supérieur droit
+M92.2	ostéochondrite juvénile de l'humérus, membre supérieur gauche
+M92.10	ostéochondrite juvénile du radius et du cubitus, membre supérieur non spécifié
+M92.11	ostéochondrite juvénile du radius et du cubitus, membre supérieur droit
+M92.12	ostéochondrite juvénile du radius et du cubitus, membre supérieur gauche
+M92.201	ostéochondrite juvénile non spécifiée, main droite
+M92.202	ostéochondrite juvénile non spécifiée, main droite
+M92.209	ostéochondrite juvénile sans précision, main non spécifiée
+M92.211	ostéochondrite juvénile du semi-lunaire, main droite
+M92.212	ostéochondrite juvénile du semi-lunaire, main gauche
+M92.219	ostéochondrite juvénile du semi-lunaire, main non spécifiée
+M92.221	ostéochondrite juvénile des têtes métacarpiennes, main droite
+M92.222	ostéochondrite juvénile des têtes métacarpiennes, main gauche
+M92.229	ostéochondrite juvénile des têtes métacarpiennes, main non spécifiée
+M92.221	ostéochondrite Mauclaire, main droite
+M92.222	ostéochondrite Mauclaire, main gauche
+M92.229	ostéochondrite Mauclaire, main non spécifiée
+M92.291	autre ostéochondrite juvénile, main droite
+M92.292	autre ostéochondrite juvénile, main gauche
+M92.299	autre ostéochondrite juvénile, main non spécifiée
+M92.30	autre ostéochondrite juvénile, membre supérieur non spécifié
+M92.31	autre ostéochondrite juvénile, membre supérieur droit
+M92.32	autre ostéochondrite juvénile, membre supérieur gauche
+M92.40	ostéochondrite juvénile de la rotule, genou non spécifié
+M92.41	ostéochondrite juvénile de la rotule, genou droit
+M92.42	ostéochondrite juvénile de la rotule, genou gauche
+M92.50	ostéochondrite juvénile du tibia et du péroné, membre inférieur non spécifié
+M92.51	ostéochondrite juvénile du tibia et du péroné, membre inférieur droit
+M92.52	ostéochondrite juvénile du tibia et du péroné, membre inférieur gauche
+M92.60	ostéochondrite juvénile du tarse, cheville non spécifiée
+M92.61	ostéochondrite juvénile du tarse, cheville droite
+M92.62	ostéochondrite juvénile du tarse, cheville gauche
+M92.70	ostéochondrite juvénile du métatarse, pied non spécifié
+M92.71	ostéochondrite juvénile du métatarse, pied droit
+M92.72	ostéochondrite juvénile du métatarse, pied gauche
+M92.8	autre ostéochondrite juvénile spécifiée
+M92.9	ostéochondrite juvénile, sans précision
+M93.1	épiphysiolyse de la tête fémorale non spécifique (non traumatique), hanche droite
+M93.2	épiphysiolyse de la tête fémorale non spécifique (non traumatique), hanche gauche
+M93.3	épiphysiolyse de la tête fémorale non spécifique (non traumatique), hanche non spécifiée
+M93.11	épiphysiolyse de la tête fémorale aiguë (non traumatique), hanche droite
+M93.12	épiphysiolyse de la tête fémorale aiguë (non traumatique), hanche gauche
+M93.13	épiphysiolyse de la tête fémorale aiguë (non traumatique), hanche non spécifiée
+M93.21	épiphysiolyse de la tête fémorale chronique (non traumatique), hanche droite
+M93.22	épiphysiolyse chronique de la tête fémorale (non traumatique), hanche gauche
+M93.23	épiphysiolyse chronique de la tête fémorale (non traumatique), hanche non spécifiée
+M93.31	épisode aigu d'épiphisiolyse chronique de la tête fémorale (non traumatique), hanche droite
+M93.32	épisode aigu d'épiphisiolyse chronique de la tête fémorale (non traumatique), hanche gauche
+M93.33	épisode aigu d'épiphisiolyse chronique de la tête fémorale (non traumatique), hanche non spécifiée
+M93.1	maladie de Kienböck d'un adulte
+M93.20	ostéochondrite disséquante d'un site non spécifié
+M93.211	ostéochondrite disséquante, épaule droite
+M93.212	ostéochondrite disséquante, épaule gauche
+M93.219	ostéochondrite disséquante, épaule non spécifiée
+M93.221	ostéochondrite disséquante, coude droit
+M93.222	ostéochondrite disséquante, coude gauche
+M93.229	ostéochondrite disséquante, coude non spécifié
+M93.231	ostéochondrite disséquante, poignet droit
+M93.232	ostéochondrite disséquante, poignet gauche
+M93.239	ostéochondrite disséquante, poignet non spécifié
+M93.241	ostéochondrite disséquante, articulations de la main droite
+M93.242	ostéochondrite disséquante, articulations de la main gauche
+M93.249	ostéochondrite disséquante, articulations d'une main non spécifiée
+M93.251	ostéochondrite disséquante, hanche droite
+M93.252	ostéochondrite disséquante, hanche gauche
+M93.259	ostéochondrite disséquante, hanche non spécifiée
+M93.261	ostéochondrite disséquante, genou droit
+M93.262	ostéochondrite disséquante, genou gauche
+M93.269	ostéochondrite disséquante, genou non spécifié
+M93.271	ostéochondrite disséquante, cheville droite et articulations du pied droit
+M93.272	ostéochondrite disséquante, cheville gauche et articulations du pied gauche
+M93.279	ostéochondrite disséquante, cheville et articulations d'un pied non spécifiés
+M93.28	ostéochondrite disséquante autre site
+M93.29	ostéochondrite disséquante multiples sites
+M93.80	d'autres ostéochondropathies spécifiques d'un site non spécifié
+M93.811	d'autres ostéochondropathies spécifiques, épaule droite
+M93.812	d'autres ostéochondropathies spécifiées, épaule gauche
+M93.819	d'autres ostéochondropathies spécifiées, épaule non précisée
+M93.821	d'autres ostéochondropathies spécifiées, bras droit
+M93.822	d'autres ostéochondropathies spécifiées, bras gauche
+M93.829	d'autres ostéochondropathies spécifiées, bras non précisé
+M93.831	d'autres ostéochondropathies spécifiées, avant-bras droit
+M93.832	d'autres ostéochondropathies spécifiées, avant-bras gauche
+M93.839	d'autres ostéochondropathies spécifiées, avant-bras non précisé
+M93.841	d'autres ostéochondropathies spécifiées, main droite
+M93.842	d'autres ostéochondropathies spécifiées, main gauche
+M93.849	d'autres ostéochondropathies spécifiées, main non précisée
+M93.851	d'autres ostéochondropathies spécifiées, cuisse droite
+M93.852	d'autres ostéochondropathies spécifiées, cuisse gauche
+M93.859	d'autres ostéochondropathies spécifiées, cuisse non précisée
+M93.861	d'autres ostéochondropathies spécifiées, jambe droite
+M93.862	d'autres ostéochondropathies spécifiées, jambe gauche
+M93.869	d'autres ostéochondropathies spécifiées, jambe non précisée
+M93.871	d'autres ostéochondropathies spécifiées, cheville et pied droits
+M93.872	d'autres ostéochondropathies spécifiées, cheville et pied gauches
+M93.879	d'autres ostéochondropathies spécifiées, cheville et pied non précisés
+M93.88	d'autres ostéochondropathies spécifiées autre
+M93.89	d'autres ostéochondropathies spécifiées multiples sites
+M93.90	ostéochondropathie, non spécifiée d'un site non précisé
+M93.911	ostéochondropathie, non spécifiée, épaule droite
+M93.912	ostéochondropathie, non spécifiée, épaule gauche
+M93.919	ostéochondropathie, non spécifiée, épaule non précisée
+M93.921	ostéochondropathie, non spécifiée, bras droit
+M93.922	ostéochondropathie, non spécifiée, bras gauche
+M93.929	ostéochondropathie, non spécifiée, bras non précisé
+M93.931	ostéochondropathie, non spécifiée, avant-bras droit
+M93.932	ostéochondropathie, non spécifiée, avant-bras gauche
+M93.939	ostéochondropathie, non spécifiée, avant-bras non précisé
+M93.941	ostéochondropathie, non spécifiée, main droite
+M93.942	ostéochondropathie, non spécifiée, main gauche
+M93.949	ostéochondropathie, non spécifiée, main non précisée
+M93.951	ostéochondropathie, non spécifiée, cuisse droite
+M93.952	ostéochondropathie, non spécifiée, cuisse gauche
+M93.959	ostéochondropathie, non spécifiée, cuisse non précisée
+M93.961	ostéochondropathie, non spécifiée, jambe droite
+M93.962	ostéochondropathie, non spécifiée, jambe gauche
+M93.969	ostéochondropathie, non spécifiée, jambe non précisée
+M93.971	ostéochondropathie, non spécifiée, cheville et pied droits
+M93.972	ostéochondropathie, non spécifiée, cheville et pied gauches
+M93.979	ostéochondropathie, non spécifiée, cheville et pied non précisés
+M93.98	ostéochondropathie, non spécifiée autre
+M93.99	ostéochondropathie, non spécifiée, multiples sites
+M94.0	syndrome des articulations chondro-costales [Tietze]
+M94.1	polychondrite récidivante
+M94.20	chondromalacie, site non spécifié
+M94.211	chondromalacie, épaule droite
+M94.212	chondromalacie, épaule gauche
+M94.219	chondromalacie, épaule non spécifiée
+M94.221	chondromalacie, coude droit
+M94.222	chondromalacie, coude gauche
+M94.229	chondromalacie, coude non spécifié
+M94.231	chondromalacie, poignet droit
+M94.232	chondromalacie, poignet gauche
+M94.239	chondromalacie, poignet non spécifié
+M94.241	chondromalacie, articulations de la main droite
+M94.242	chondromalacie, articulations de la main gauche
+M94.249	chondromalacie, articulations d'une main non spécifiée
+M94.251	chondromalacie, hanche droite
+M94.252	chondromalacie, hanche gauche
+M94.259	chondromalacie, hanche non spécifiée
+M94.261	chondromalacie, genou droit
+M94.262	chondromalacie, genou gauche
+M94.269	chondromalacie, genou non spécifié
+M94.271	chondromalacie, cheville droite et articulations du pied droit
+M94.272	chondromalacie, cheville gauche et articulations du pied gauche
+M94.279	chondromalacie, cheville et articulations d'un pied non spécifiés
+M94.28	chondromalacie, autre site
+M94.29	chondromalacie, multiples sites
+M94.351	chondrolyse, hanche droite
+M94.352	chondrolyse, hanche gauche
+M94.359	chondrolyse, hanche non spécifiée
+M94.8X0	d'autres affections spécifiées du cartilage, multiples sites
+M94.8X1	d'autres affections spécifiées du cartilage, épaule
+M94.8X2	d'autres affections spécifiées du cartilage, bras
+M94.8X3	d'autres affections spécifiées du cartilage, avant-bras
+M94.8X4	d'autres affections spécifiées du cartilage, main
+M94.8X5	d'autres affections spécifiées du cartilage, cuisse
+M94.8X6	d'autres affections spécifiées du cartilage, jambe
+M94.8X7	d'autres affections spécifiées du cartilage, cheville et pied
+M94.8X8	d'autres affections spécifiées du cartilage, autre site
+M94.8X9	d'autres affections spécifiées du cartilage , sites non précisés
+M94.9	affection du cartilage, sans précision
+M95.0	déformation acquise du nez
+M95.10	oreille en "chou-fleur", oreille non spécifiée
+M95.11	oreille en "chou-fleur", oreille droite
+M95.12	oreille en "chou-fleur", oreille gauche
+M95.2	d'autres déformations acquises de la tête
+M95.3	déformation acquise du cou
+M95.4	déformation acquise du thorax et des côtes
+M95.5	déformation acquise du bassin
+M95.8	d'autres déformations acquises spécifiée du système musculosquelettique
+M95.9	déformation acquise du système musculosquelettique, non spécifiée
+M96.0	pseudarthrose après fusion ou arthrodèse
+M96.1	syndrome post-laminectomie, non classé ailleurs
+M96.2	cyphose après irradiation
+M96.3	cyphose après laminectomie
+M96.4	lordose après chirurgie
+M96.5	scoliose après irradiation
+M96.621	fracture de l'humérus suite à l'insertion d'un implant orthopédique, d'une prothèse articulaire ou d'une plaque osseuse, membre supérieur droit
+M96.622	fracture de l'humérus suite à l'insertion d'un implant orthopédique, d'une prothèse articulaire ou d'une plaque osseuse, membre supérieur gauche
+M96.629	fracture de l'humérus suite à l'insertion d'un implant orthopédique, d'une prothèse articulaire ou d'une plaque osseuse, membre supérieur non spécifié
+M96.631	fracture du radius ou cubitus suite à l'insertion d'un implant orthopédique, d'une prothèse articulaire ou d'une plaque osseuse, membre supérieur droit
+M96.632	fracture du radius ou cubitus suite à l'insertion d'un implant orthopédique, d'une prothèse articulaire ou d'une plaque osseuse, membre supérieur gauche
+M96.639	fracture du radius ou cubitus suite à l'insertion d'un implant orthopédique, d'une prothèse articulaire ou d'une plaque osseuse, membre supérieur non spécifié
+M96.65	fracture du bassin suite à l'insertion d'un implant orthopédique, d'une prothèse articulaire ou d'une plaque osseuse
+M96.661	fracture du fémur suite à l'insertion d'un implant orthopédique, d'une prothèse articulaire ou d'une plaque osseuse, membre inférieur droit
+M96.662	fracture du fémur suite à l'insertion d'un implant orthopédique, d'une prothèse articulaire ou d'une plaque osseuse, membre inférieur gauche
+M96.669	fracture du fémur suite à l'insertion d'un implant orthopédique, d'une prothèse articulaire ou d'une plaque osseuse, membre inférieur non spécifié
+M96.671	fracture du tibia ou du péroné suite à l'insertion d'un implant orthopédique, d'une prothèse articulaire ou d'une plaque osseuse, membre inférieur droit
+M96.672	fracture du tibia ou du péroné suite à l'insertion d'un implant orthopédique, d'une prothèse articulaire ou d'une plaque osseuse, membre inférieur gauche
+M96.679	fracture du tibia ou du péroné suite à l'insertion d'un implant orthopédique, d'une prothèse articulaire ou d'une plaque osseuse, membre inférieur non précisié
+M96.69	fracture d'autre os suite à l'insertion d'un implant orthopédique, d'une prothèse articulaire ou d'une plaque osseuse
+M96.810	hémorragie et hématome peropératoires de la structure musculosquelettique compliquant une procédure musculosquelettique
+M96.811	hémorragie et hématome peropératoires de la structure musculosquelettique compliquant une autre procédure
+M96.820	ponction et lacération accidentelles de la structure musculosquelettique au cours d'une procédure musculosquelettique
+M96.821	ponction et lacération accidentelles de la structure musculosquelettique au cours d'une autre procédure
+M96.830	hémorragie et hématome postopératoires de la structure musculosquelettique après une procédure musculosquelettique
+M96.831	hémorragie et hématome postopératoires de la structure musculosquelettique après une autre procédure
+M96.89	d'autres complications et troubles peropératoires et postopératoires du système musculosquelettique
+M99.0	dysfonctionnement segmentaire et somatique, tête
+M99.1	dysfonctionnement segmentaire et somatique, région cervicale
+M99.2	dysfonctionnement segmentaire et somatique, région thoracique
+M99.3	dysfonctionnement segmentaire et somatique, région lombaire
+M99.4	dysfonctionnement segmentaire et somatique, région sacrée
+M99.5	dysfonctionnement segmentaire et somatique, région pelvienne
+M99.6	dysfonctionnement segmentaire et somatique, membre inférieur
+M99.7	dysfonctionnement segmentaire et somatique, membre supérieur
+M99.8	dysfonctionnement segmentaire et somatique, cage thoracique
+M99.9	dysfonctionnement segmentaire et somatique, abdomen et d'autres régions
+M99.10	complexe de la subluxation vertébrale, tête
+M99.11	complexe de la subluxation vertébrale, région cervicale
+M99.12	complexe de la subluxation vertébrale, région thoracique
+M99.13	complexe de la subluxation vertébrale, région lombaire
+M99.14	complexe de la subluxation vertébrale, région sacrée
+M99.15	complexe de la subluxation vertébrale, région pelvienne
+M99.16	complexe de la subluxation vertébrale, membre inférieur
+M99.17	complexe de la subluxation vertébrale, membre supérieur
+M99.18	complexe de la subluxation vertébrale, cage thoracique
+M99.19	complexe de la subluxation vertébrale, abdomen et d'autres régions
+M99.10	complexe de la subluxation, tête
+M99.11	complexe de la subluxation, région cervicale
+M99.12	complexe de la subluxation, région thoracique
+M99.13	complexe de la subluxation, région lombaire
+M99.14	complexe de la subluxation, région sacrée
+M99.15	complexe de la subluxation, région pelvienne
+M99.16	complexe de la subluxation, membre inférieur
+M99.17	complexe de la subluxation, membre supérieur
+M99.18	complexe de la subluxation, cage thoracique
+M99.19	complexe de la subluxation, abdomen et d'autres régions
+M99.20	rétrécissement du canal rachidien par subluxation, tête
+M99.21	rétrécissement du canal rachidien par subluxation, région cervicale
+M99.22	rétrécissement du canal rachidien par subluxation, région thoracique
+M99.23	rétrécissement du canal rachidien par subluxation, région lombaire
+M99.24	rétrécissement du canal rachidien par subluxation, région sacrée
+M99.25	rétrécissement du canal rachidien par subluxation, région pelvienne
+M99.26	rétrécissement du canal rachidien par subluxation, extrémité inférieure
+M99.27	rétrécissement du canal rachidien par subluxation, extrémité supérieure
+M99.28	rétrécissement du canal rachidien par subluxation, cage thoracique
+M99.29	sténose du canal rachidien par subluxation, abdomen et d'autres régions
+M99.30	rétrécissement osseux du canal rachidien, tête
+M99.31	rétrécissement osseux du canal rachidien, région cervicale
+M99.32	rétrécissement osseux du canal rachidien, région thoracique
+M99.33	rétrécissement osseux du canal rachidien, région lombaire
+M99.34	rétrécissement osseux du canal rachidien, région sacrée
+M99.35	rétrécissement osseux du canal rachidien, région pelvienne
+M99.36	rétrécissement osseux du canal rachidien, extrémité inférieure
+M99.37	rétrécissement osseux du canal rachidien, extrémité supérieure
+M99.38	rétrécissement osseux du canal rachidien, cage thoracique
+M99.39	rétrécissement osseux du canal rachidien, de l'abdomen et d'autres régions
+M99.40	sténose du canal rachidien par tissu conjonctif , tête
+M99.41	rétrécissement du canal rachidien par tissu conjonctif, région cervicale
+M99.42	rétrécissement du canal rachidien par tissu conjonctif, région thoracique
+M99.43	rétrécissement du canal rachidien par tissu conjonctif, région lombaire
+M99.44	rétrécissement du canal rachidien par tissu conjonctif, région sacrée
+M99.45	rétrécissement du canal rachidien par tissu conjonctif, région pelvienne
+M99.46	rétrécissement du canal rachidien par tissu conjonctif, extrémité inférieure
+M99.47	rétrécissement du canal rachidien par tissu conjonctif, extrémité supérieure
+M99.48	rétrécissement du canal rachidien par tissu conjonctif, cage thoracique
+M99.49	rétrécissement du canal rachidien par tissu conjonctif, de l'abdomen et d'autres régions
+M99.50	rétrécissement du canal rachidien par une lésion des disques intervertébraux, tête
+M99.51	rétrécissement du canal rachidien par une lésion des disques intervertébraux, région cervicale
+M99.52	rétrécissement du canal rachidien par une lésion des disques intervertébraux, région thoracique
+M99.53	rétrécissement du canal rachidien par une lésion des disques intervertébraux, région lombaire
+M99.54	rétrécissement du canal rachidien par une lésion des disques intervertébraux, région sacrée
+M99.55	rétrécissement du canal rachidien par une lésion des disques intervertébraux, région pelvienne
+M99.56	rétrécissement du canal rachidien par une lésion des disques intervertébraux, membre inférieur inférieur
+M99.57	rétrécissement du canal rachidien par une lésion des disques intervertébraux, membre supérieur
+M99.58	rétrécissement du canal rachidien  par une lésion des disques intervertébraux, cage thoracique
+M99.59	rétrécissement du canal rachidien  par une lésion des disques intervertébraux, abdomen et autre régions
+M99.60	rétrécissement des foramens intervertébraux par ossification et subluxation, tête
+M99.61	rétrécissement des foramens intervertébraux par ossification et subluxation, région cervicale
+M99.62	rétrécissement des foramens intervertébraux par ossification et subluxation, région thoracique
+M99.63	rétrécissement des foramens intervertébraux par ossification et subluxation, région lombaire
+M99.64	rétrécissement des foramens intervertébraux par ossification et subluxation, région sacrée
+M99.65	rétrécissement des foramens intervertébraux par ossification et subluxation, région pelvienne
+M99.66	rétrécissement des foramens intervertébraux par ossification et subluxation, membre inférieur
+M99.67	rétrécissement des foramenintervertébraux par ossification et subluxation, membre supérieur
+M99.68	rétrécissement des foramenintervertébraux par ossification et subluxation, cage thoracique
+M99.69	rétrécissement des foramenintervertébraux par ossification et subluxation, abdomen et d'autres régions
+M99.70	rétrécissement des foramens intervertébraux par le tissu conjonctif et une lésion d'un disque, tête
+M99.71	rétrécissement des foramens intervertébraux par le tissu conjonctif et une lésion d'un disque, région cervicale
+M99.72	rétrécissement des foramens intervertébraux par le tissu conjonctif et une lésion d'un disque, région thoracique
+M99.73	rétrécissement des foramens intervertébraux par le tissu conjonctif et une lésion d'un disque, région lombaire
+M99.74	rétrécissement des forameni intervertébraux par le tissu conjonctif et une lésion d'un disque, région sacrée
+M99.75	rétrécissement des foramens intervertébraux par le tissu conjonctif et une lésion d'un disque, région pelvienne
+M99.76	rétrécissement des foramens intervertébraux par le tissu conjonctif et une lésion d'un disque, membre inférieur
+M99.77	rétrécissement des foramens intervertébraux par le tissu conjonctif et une lésion d'un disque, membre supérieur
+M99.78	rétrécissement des foramens intervertébraux par le tissu conjonctif et une lésion d'un disque, cage thoracique
+M99.79	rétrécissement des foramens intervertébraux par le tissu conjonctif et une lésion d'un disque, abdomen et autre régions
+M99.80	d'autres lésions biomécaniques, tête
+M99.81	d'autres lésions biomécaniques, région cervicale
+M99.82	d'autres lésions biomécaniques, région thoracique
+M99.83	d'autres lésions biomécaniques, région lombaire
+M99.84	d'autres lésions biomécaniques, région sacrée
+M99.85	d'autres lésions biomécaniques, région pelvienne
+M99.86	d'autres lésions biomécaniques, membre inférieur
+M99.87	d'autres lésions biomécaniques, membre supérieur
+M99.88	d'autres lésions biomécaniques, cage thoracique
+M99.89	d'autres lésions biomécaniques, abdomen et d'autres régions
+M99.9	lésion biomécanique, sans précision

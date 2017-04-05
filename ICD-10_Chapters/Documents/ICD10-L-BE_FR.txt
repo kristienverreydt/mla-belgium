@@ -1,0 +1,773 @@
+L03.011	cellulite du doigt droit
+L03.012	cellulite du doigt gauche
+L03.019	cellulite d'un doigt non spécifié
+L03.021	lymphangite aiguë du doigt droit
+L03.022	lymphangite aiguë du doigt gauche
+L03.029	lymphangite aiguë d'un doigt non spécifié
+L03.031	cellulite de l'orteil droit
+L03.032	cellulite de l'orteil gauche
+L03.039	cellulite d'un orteil non spécifié
+L03.041	lymphangite aiguë de l'orteil droit
+L03.042	lymphangite aiguë de l'orteil gauche
+L03.049	lymphangite aiguë d'un orteil non spécifié
+L03.111	cellulite du creux axillaire droit
+L74.512	hyperhidrose primaire localisée, paumes des mains
+L74.513	hyperhidrose primaire localisée, plantes des pieds
+L74.519	hyperhidrose primaire localisée, non spécifiée
+L74.52	hyperhidrose secondaire localisée
+L74.8	d'autres troubles des glandes sudoripares eccrines
+L74.9	trouble des glandes sudoripares eccrines, non spécifié
+L75.0	bromhidrose
+L75.1	chromhidrose
+L75.2	miliaire apocrine
+L97.811	ulcère chronique, non dû à la pression, d'une autre partie de la jambe droite, limité au défaut de la peau
+L97.812	ulcère chronique, non dû à la pression, d'une autre partie de la jambe droite, avec l'exposition du tissu graisseux
+L97.813	ulcère chronique, non dû à la pression, d'une autre partie de la jambe droite, avec nécrose du muscle
+L97.814	ulcère chronique, non dû à la pression, d'une autre partie de la jambe droite, avec nécrose de l'os
+L97.819	ulcère chronique, non dû à la pression, d'une autre partie de la jambe droite, avec une sévérité non spécifiée
+L00	syndrome d'épidermolyse staphylococcique aigu
+L01.00	impétigo, non spécifié
+L01.01	impétigo non bulleux
+L01.02	impétigo de Bockhart
+L01.03	impétigo bulleux
+L01.09	autre impétigo
+L01.1	impétiginisation d'autres dermatoses
+L02.01	abcès cutané du visage
+L02.02	furoncle du visage
+L02.03	anthrax du visage
+L02.11	abcès cutané du cou
+L02.12	furoncle du cou
+L02.13	anthrax du cou
+L02.211	abcès cutané de la paroi abdominale
+L02.212	abcès cutané du dos 
+L02.213	abcès cutané de la paroi thoracique
+L02.214	abcès cutané de l'aine
+L02.215	abcès cutané de la périnée
+L02.216	abcès cutané de l'ombilic
+L02.219	abcès cutané du tronc, non spécifié
+L02.221	furoncle de la paroi abdominale
+L02.222	furoncle du dos 
+L02.223	furoncle de la paroi thoracique
+L02.224	furoncle de l'aine
+L02.225	furoncle de la périnée
+L02.226	furoncle de l'ombilic
+L02.229	furoncle du tronc, non spécifié
+L02.231	anthrax de la paroi abdominale
+L02.232	anthrax du dos
+L02.233	anthrax de la paroi thoracique
+L02.234	anthrax de l'aine
+L02.235	anthrax de la périnée
+L02.236	anthrax de l'ombilic
+L02.239	anthrax du tronc, non spécifié
+L02.31	abcès cutané de la fesse
+L02.32	furoncle de la fesse
+L02.33	anthrax de la fesse
+L02.411	abcès cutané du creux axillaire droit
+L02.412	abcès cutané du creux axillaire gauche
+L02.413	abcès cutané du membre supérieur droit
+L02.414	abcès cutané du membre supérieur gauche
+L02.415	abcès cutané du membre inférieur droit
+L02.416	abcès cutané du membre inférieur gauche
+L02.419	abcès cutané d'un membre, non spécifié
+L02.421	furoncle du creux axillaire droit
+L02.422	furoncle du creux axillaire gauche
+L02.423	furoncle du membre supérieur droit
+L02.424	furoncle du membre supérieur gauche
+L02.425	furoncle du membre inférieur droit
+L02.426	furoncle du membre inférieur gauche
+L02.429	furoncle d'un membre, non spécifié
+L02.431	anthrax du creux axillaire droit
+L02.432	anthrax du creux axillaire gauche
+L02.433	anthrax du membre supérieur droit
+L02.434	anthrax du membre supérieur gauche
+L02.435	anthrax du membre inférieur droit
+L02.436	anthrax du membre inférieur gauche
+L02.439	anthrax d'un membre, non spécifié
+L02.511	abcès cutané de la main droite
+L02.512	abcès cutané de la main gauche
+L02.519	abcès cutané d'une main non spécifiée
+L02.521	furoncle de la main droite
+L02.522	furoncle de la main gauche
+L02.529	furoncle d'une main non spécifiée
+L02.531	anthrax de la main droite
+L02.532	anthrax de la main gauche
+L02.539	anthrax d'une main non spécifiée
+L02.611	abcès cutané du pied droit
+L02.612	abcès cutané du pied gauche
+L02.619	abcès cutané d'un pied non spécifié
+L02.621	furoncle du pied droit
+L02.622	furoncle du pied gauche
+L02.629	furoncle d'un pied non spécifié
+L02.631	anthrax du pied droit
+L02.632	anthrax du pied gauche
+L02.639	anthrax d'un pied non spécifié
+L02.811	abcès cutané de la tête, excepté le visage
+L02.818	abcès cutané d'autres localisations
+L02.821	furoncle de la tête, excepté le visage
+L02.828	furoncle d'autres localisations
+L02.831	anthrax de la tête, excepté le visage
+L02.838	anthrax d'autres localisations
+L02.91	abcès cutané, non spécifié
+L02.92	furoncle, non spécifié
+L02.93	anthrax, non spécifié
+L03.112	cellulite du creux axillaire droit
+L03.113	cellulite du membre supérieur droit
+L03.114	cellulite du membre supérieur gauche
+L03.115	cellulite du membre inférieur droit
+L03.116	cellulite du membre inférieur gauche
+L03.119	cellulite d'un membre, partie non spécifiée
+L03.121	lymphangite aiguë du creux axillaire droite
+L03.122	lymphangite aiguë du creux axillaire gauche
+L03.123	lymphangite aiguë du membre supérieur droit
+L03.124	lymphangite aiguë du membre supérieur gauche
+L03.125	lymphangite aiguë du membre inférieur droit
+L03.126	lymphangite aiguë du membre inférieur gauche
+L03.129	lymphangite aiguë d'un membre, partie non spécifiée
+L03.211	cellulite du visage
+L03.212	lymphangite aiguë du visage
+L03.221	cellulite du cou
+L03.222	lymphangite aiguë du cou
+L03.311	cellulite de la paroi abdominale
+L03.312	cellulite du dos, excepté la fesse
+L03.313	cellulite de la paroi thoracique
+L03.314	cellulite de l'aine
+L03.315	cellulite de la périnée
+L03.316	cellulite de l'ombilic
+L03.317	cellulite de la fesse
+L03.319	cellulite du tronc, non spécifié
+L03.321	lymphangite aiguë de la paroi abdominale
+L03.322	lymphangite aiguë du dos, excepté la fesse
+L03.323	lymphangite aiguë de la paroi thoracique
+L03.324	lymphangite aiguë de l'aine
+L03.325	lymphangite aiguë de la périnée
+L03.326	lymphangite aiguë de l'ombilic
+L03.327	lymphangite aiguë de la fesse
+L03.329	lymphangite aiguë du tronc, non spécifié
+L03.811	cellulite de la tête, excepté le visage
+L03.818	cellulite d'autres localisations
+L03.891	lymphangite aiguë de la tête, excepté le visage
+L03.898	lymphangite aiguë d'autres localisations
+L03.90	cellulite, non spécifié
+L03.91	lymphangite aiguë, non spécifié
+L04.0	lymphadénite aiguë du visage, de la tête et du cou
+L04.1	lymphadénite aiguë du tronc
+L04.2	lymphadénite aiguë du membre supérieur
+L04.3	lymphadénite aiguë du membre inférieur
+L04.8	lymphadénite aiguë d'autres localisations
+L04.9	lymphadénite aiguë, non spécifié
+L05.01	kyste pilonidal avec un abcès
+L05.02	sinus pilonidal avec un abcès
+L05.91	kyste pilonidal sans abcès
+L05.92	sinus pilonidal sans abcès
+L08.0	pyodermite
+L08.1	érythrasma
+L08.81	pyodermite végétante
+L08.82	omphalite, pas d'un nouveau-né
+L08.89	d'autres infections localisées spécifiées de la peau et du tissu sous-cutané
+L08.9	infection localisée de la peau et du tissu sous-cutané, non spécifié
+L10.0	pemphigus vulgaire
+L10.1	pemphigus végétant
+L10.2	pemphigus foliacé
+L10.3	pemphigus brésilien
+L10.4	pemphigus érythémateux
+L10.5	pemphigus dû aux médicaments
+L10.81	pemphigus paranéoplasique
+L10.89	autre pemphigus
+L10.9	pemphigus, non spécifié
+L11.0	kératose folliculaire acquise
+L11.1	dermatose acantholytique transitoire 
+L11.8	d'autres troubles acantholytiques spécifiés
+L11.9	trouble acantholytique, non spécifié
+L12.0	pemphigoïde bulleuse
+L12.1	pemphigoïde cicatricielle
+L12.2	maladie chronique bulleuse de l'enfance
+L12.30	épidermolyse bulleuse acquise, non spécifiée
+L12.31	épidermolyse bulleuse due aux médicaments
+L12.35	autre épidermolyse bulleuse acquise
+L12.8	d'autres pemphigoïdes
+L12.9	pemphigoïde, non spécifié
+L13.0	dermatite herpétiforme
+L13.1	dermatose pustuleuse sous-cornée
+L13.8	d'autres troubles bulleux spécifiés
+L13.9	trouble bulleux, non spécifié
+L14	troubles bulleux au cours de maladies classées ailleurs
+L20.0	prurigo de Besnier
+L20.81	névrodermite atopique
+L20.82	eczéma plis de flexion
+L20.83	eczéma infantile (aigu) (chronique)
+L20.84	eczéma intrinsèque (allergique)
+L20.89	autre dermatite atopique
+L20.9	dermatite atopique, non spécifiée
+L21.0	séborrhée du cuir chevelu
+L21.1	dermatite séborrhéique infantile
+L21.8	d'autres dermatites séborrhéiques
+L21.9	dermatite séborrhéique, non spécifiée
+L22	érythème fessier
+L23.0	dermatite allergique de contact due aux métaux
+L23.1	dermatite allergique de contact due aux adhésifs
+L23.2	dermatite allergique de contact due aux cosmétiques
+L23.3	dermatite allergique de contact due aux médicaments en contact avec la peau
+L23.4	dermatite allergique de contact due aux teintures
+L23.5	dermatite allergique de contact due à d'autres produits chimiques
+L23.6	dermatite allergique de contact due aux aliments en contact avec la peau
+L23.7	dermatite allergique de contact due aux plantes, excepté aliments
+L23.81	dermatite allergique due aux squames des animaux
+L23.89	dermatite allergique due à d'autres agents
+L23.9	dermatite allergique de contact, cause non spécifiée
+L24.0	Dermatite de contact d'irritation due aux détergents
+L24.1	Dermatite de contact d'irritation due aux huiles et aux graisses
+L24.2	Dermatite de contact d'irritation due aux solvants
+L24.3	Dermatite de contact d'irritation due aux cosmétiques
+L24.4	Dermatite de contact d'irritation due aux médicaments en contact avec la peau
+L24.5	Dermatite de contact d'irritation due à d'autres produits chimiques
+L24.6	Dermatite de contact d'irritation due aux aliments en contact avec la peau
+L24.7	Dermatite de contact d'irritation due aux plantes, sauf aliments
+L24.81	Dermatite de contact d'irritation due aux métaux
+L24.89	Dermatite de contact d'irritation due à d'autres agents
+L24.9	Dermatite de contact d'irritation, cause non spécifiée
+L25.0	dermatite de contact, non spécifiée, due aux cosmétiques
+L25.1	dermatite de contact, non spécifiée, due aux médicaments en contact avec la peau
+L25.2	dermatite de contact, non spécifiée, due aux teintures
+L25.3	dermatite de contact, non spécifiée, due à d'autres produits chimiques
+L25.4	dermatite de contact, non spécifiée, due aux aliments en contact avec la peau
+L25.5	dermatite de contact, non spécifiée, due aux plantes, sauf aliments
+L25.8	dermatite de contact, non spécifiée, due à d'autres agents
+L25.9	dermatite de contact, non spécifiée, de cause non spécifiée
+L26	dermatite exfoliative
+L27.0	éruption généralisée due à l'ingestion de médicaments
+L27.1	éruption localisée due à l'ingestion de médicaments
+L27.2	dermatite due à l'ingestion d'aliments
+L27.8	dermatite due à d'autres substances prises par la voie interne
+L27.9	dermatite due à une substance non spécifiée prise par la voie interne
+L28.0	lichen simplex chronique
+L28.1	prurigo nodulaire
+L28.2	d'autres formes de prurigo
+L29.0	prurit anal
+L29.1	prurit scrotal
+L29.2	prurit vulvaire
+L29.3	prurit ano-génital, non spécifié
+L29.8	d'autres prurits
+L29.9	prurit, non spécifié
+L30.0	dermatite nummulaire
+L30.1	dyshidrose
+L30.1	pompholyx
+L30.2	autosensibilisation cutanée
+L30.3	dermatite infectieuse
+L30.4	intertrigo érythémateux
+L30.5	pityriasis alba
+L30.8	d'autres dermatites spécifiées
+L30.9	dermatites, non spécifiées
+L40.0	psoriasis vulgaris
+L40.1	psoriasis pustulaire généralisé
+L40.2	acrodermatite continue
+L40.3	pustulose palmo-plantaire
+L40.4	psoriasis en goutte
+L40.50	psoriasis arthropathique, non spécifié
+L40.51	arthropathie psoriasique distale interphalangienne
+L40.52	arthrite mutilante psoriasique
+L40.53	spondylite psoriasique
+L40.54	arthropathies psoriasiques juvéniles
+L40.59	d'autres arthropathies psoriasiques
+L40.8	d'autres psoriasis
+L40.9	psoriasis, non spécifié
+L41.0	pityriasis lichenoides et varioliformis acuta
+L41.0	PLEVA
+L41.1	pityriasis lichenoides chronica
+L41.1	PLC
+L41.3	parapsoriasis à petites plaques
+L41.4	parapsoriasis à grandes plaques
+L41.5	parapsoriasis retiformis
+L41.8	d'autres fomes de parapsoriasis
+L41.9	parapsoriasis, non spécifié
+L42	pityriasis rosé
+L43.0	lichen plan hypertrophique
+L43.1	lichen plan bulleux
+L43.2	réaction lichénoïde médicamenteuse
+L43.3	lichen plan subaigu (actif)
+L43.8	d'autres lichens plans
+L43.9	lichen plan, non spécifié
+L44.0	pityriasis rubra pilaire
+L44.1	lichen nitidus
+L44.2	lichen strié
+L44.3	lichen ruber moniliformis
+L44.4	acrodermatite papuleuse infantile
+L44.4	Giannotti-Crosti
+L44.8	d'autres troubles papulo-squameux spécifiés
+L44.9	trouble papulo-squameux, non spécifié
+L45	troubles papulo-squameux au cours de maladies classées ailleurs
+L49.0	exfoliation due à un érythème couvrant moins de 10% de la surface du corps
+L49.1	exfoliation due à un érythème couvrant 10-19% de la surface du corps
+L49.2	exfoliation due à un érythème  couvrant 20-29% de la surface du corps
+L49.3	exfoliation due à un érythème  couvrant 30-39% de la surface du corps
+L49.4	exfoliation due à un érythème couvrant 40-49% de la surface du corps
+L49.5	exfoliation due à un érythème couvrant 50-59% de la surface du corps
+L49.6	exfoliation due à un érythème couvrant 60-69% de la surface du corps
+L49.7	exfoliationdue à un érythème couvrant 70-79% de la surface du corps
+L49.8	exfoliation due à un érythème couvrant 80-89% de la surface du corps
+L49.9	exfoliation due à un érythème couvrant 90% ou plus de la surface du corps
+L50.0	urticaire allergique
+L50.1	urticaire idiopathique
+L50.2	urticaire provoqué par le froid et la chaleur
+L50.3	dermographisme
+L50.4	urticaire provoqué par vibration
+L50.5	urticaire cholinergique
+L50.6	urticaire de contact
+L50.8	d'autres formes d'urticaire
+L50.9	urticaire, non spécifié
+L51.0	érythème polymorphe non bulleux
+L51.1	syndrome de Stevens-Johnson
+L51.2	syndrome de nécrolyse épidermique toxique
+L51.3	syndrome overlap Stevens-Johnson -Necrolyse épidermique toxique
+L51.8	d'autres formes d'un érythème polymorphe
+L51.9	érythème polymorphe, non spécifié
+L52	érythème noueux
+L53.0	érythème toxique
+L53.1	érythème annulaire centrifuge
+L53.2	érythème marginé
+L53.3	autre érythème figuré chronique
+L53.8	d'autres affections spécifiées érythèmateuses
+L53.9	affections érythèmateuses, non spécifié
+L54	érythèmes au cours de maladies classées ailleurs
+L55.0	Coup de soleil, brûlure du premier degré
+L55.1	Coup de soleil, brûlure du second degré
+L55.2	Coup de soleil, brûlure du troisième degré
+L55.9	coup de soleil, non spécifié
+L56.0	réaction phototoxique due au médicament
+L56.1	réaction photoallergique due au médicament
+L56.2	dermatite de photocontact
+L56.2	dermatite de breloque
+L56.3	urticaire solaire
+L56.4	lucite polymorphe
+L56.5	porokératose actinique superficielle disséminée
+L56.8	d'autres modifications aiguës spécifiées de la peau dues aux rayons ultraviolets
+L56.9	modification aiguë de la peau due aux rayons ultraviolets, non spécifiée
+L57.0	kératose actinique
+L57.1	actinoréticulose
+L57.2	cutis rhomboidalis nuchae
+L57.3	poïkilodermie de Civatte
+L57.4	cutis laxa senilis
+L57.5	granulome actinique
+L57.8	d'autres modifications de la peau dues à une exposition chronique aux rayonnements non ionisants
+L57.9	modification de la peau due à une exposition chronique aux rayonnements non ionisants, non spécifiée
+L58.0	radiodermite aiguë
+L58.1	radiodermite chronique
+L58.9	radiodermite, non spécifiée
+L59.0	érythème ab igne
+L59.8	d'autres troubles spécifiés de la peau et du tissu sous-cutané liés à radiation
+L59.9	trouble de la peau et du tissu sous-cutané lié à radiation, non spécifié
+L60.0	ongle incarné
+L60.1	onycholyse
+L60.2	onychogryphose
+L60.3	dystrophie des ongles
+L60.4	lignes de Beau
+L60.5	syndrome des ongles jaunes
+L60.8	d'autres troubles des ongles
+L60.9	trouble des ongles, non spécifié
+L62	troubles des ongles au cours de maladies classées ailleurs
+L63.0	alopécie totale
+L63.1	alopécie universelle
+L63.2	ophiase
+L63.8	d'autres formes d'alopécie areata
+L63.9	alopécie areata, non spécifiée
+L64.0	alopécie androgénétique médicamenteuse
+L64.8	d'autres formes d'alopécie androgénétique
+L64.9	alopécie androgénétique, non spécifié
+L65.0	effluvium télogène
+L65.1	effluvium anagène
+L65.2	alopécie mucineuse
+L65.8	d'autres formes non cicatricielles spécifiées de perte de cheveux
+L65.9	perte de cheveux non cicatricielle, non spécifiée
+L66.0	pseudopelade
+L66.1	lichen planopilaris
+L66.2	folliculite décalvante
+L66.3	périfolliculite capitis abscedens
+L66.8	d'autres formes d'alopécie cicatricielle
+L66.9	alopécie cicatricielle, non spécifiée
+L67.0	trichorrhexie noueuse
+L67.1	variations du couleur des cheveux
+L67.8	d'autres anormalies de la pigmentation et de la gaine capillaires
+L67.9	anormalie de la pigmentation et de la gaine capillaires, non spécifiée
+L68.0	hirsutisme
+L68.1	hypertrichose lanugineuse acquise
+L68.2	hypertrichose localisée
+L68.3	polytrichie
+L68.8	d'autres formes d'hypertrichose
+L68.9	hypertrichose, non spécifiée
+L70.0	acné vulgaire
+L70.1	acné conglobata
+L70.2	acné varioliforme
+L70.3	acné tropicale
+L70.4	acné infantile
+L70.5	acné excoriée des jeunes filles
+L70.8	d'autres formes d'acné
+L70.9	acné, non spécifiée
+L71.0	dermatite périorale
+L71.1	rhinophyma
+L71.8	d'autres formes de rosacée
+L71.9	rosacée, non spécifiée
+L72.0	kyste épidermique
+L72.11	kyste pilaire
+L72.12	kyste du à Trichoderma
+L72.2	Stéatocystome multiplex
+L72.3	kyste sébacé
+L72.8	d'autres formes d'un kyste folliculaire de la peau et du tissu sous-cutané
+L72.9	kyste folliculaire de la peau et du tissu sous-cutané, non spécifié
+L73.0	acné chéloidienne
+L73.1	pseudofolliculite de la barbe
+L73.2	hidrosadénite suppurée
+L73.8	d'autres formes spécifiées de troubles folliculaires
+L73.9	trouble folliculaire, non spécifié
+L74.0	miliaire rouge
+L74.1	miliaire cristalline
+L74.2	miliaire profonde
+L74.3	miliaire, non spécifiée
+L74.4	anhidrose
+L74.510	hyperhidrose primaire localisée, creux axillaire
+L74.511	hyperhidrose primaire localisée, visage
+L75.8	d'autres troubles des glandes sudoripares apocrines
+L75.9	trouble des glandes sudoripares apocrines, non spécifié
+L76.01	hémorragie peropératoire et hématome de la peau et du tissu sous-cutané compliquant une procédure dermatologique
+L76.02	hémorragie peropératoire et hématome de la peau et du tissu sous-cutané compliquant une autre procédure
+L76.11	ponction et lacération accidentelle de la peau et du tissu sous-cutané au cours d'une procédure dermatologique
+L76.12	ponction et lacération accidentelle de la peau et du tissu sous-cutané au cours d'une autre procédure
+L76.21	hémorragie et hématome de la peau et du tissu sous-cutané après une procédure dermatologique
+L76.22	hémorragie et hématome de la peau et du tissu sous-cutané après une autre procédure
+L76.81	d'autres complications peropératoire de la peau et du tissu sous-cutané
+L76.82	d'autres complications de la peau et du tissu cellulaire sous-cutané après une procédure
+L80	vitiligo
+L81.0	hyperpigmentation postinflammatoire
+L81.1	chloasma
+L81.2	taches de rousseur
+L81.3	taches café au lait
+L81.4	d'autres hyperpigmentations par la mélanine
+L81.5	leucodermie, non classée ailleurs
+L81.6	d'autres troubles liées à une diminution de la formation de mélanine
+L81.7	dermatose purpurique pigmentée
+L81.8	d'autres troubles spécifiées de la pigmentation
+L81.9	trouble de la pigmentation, non spécifié
+L82.0	kératose séborrhéique inflammatoire
+L82.1	autre kératose séborrhéique
+L83	acanthosis nigricans
+L84	cors et callosités
+L85.0	ichtyose acquise
+L85.1	kératose [kératodermie] palmaire et plantaire acquise
+L85.2	Keratosis punctata
+L85.3	xérose cutanée
+L85.8	d'autres formes spécifiées d'un épaississement de l'épiderme
+L85.9	épaississement de l'épiderme, non spécifié
+L86	kératodermie au cours de maladies classées ailleurs
+L87.1	collagénome perforant verruciforme
+L87.2	élastome perforant serpigineux
+L87.8	d'autres troubles d'élimination transépidermique
+L87.9	trouble d'élimination transépidermique, non spécifié
+L88	pyoderma gangrenosum
+L89.00	ulcère de pression d'un coude non spécifié, stade indéterminable
+L89.01	ulcère de pression d'un coude non spécifié, stade 1
+L89.02	ulcère de pression d'un coude non spécifié, stade 2
+L89.03	ulcère de pression d'un coude non spécifié, stade 3
+L89.04	ulcère de pression d'un coude non spécifié, stade 4
+L89.09	ulcère de pression d'un coude non spécifié, stade non spécifié
+L89.010	ulcère de pression du coude droit, stade indéterminable
+L89.011	ulcère de pression du coude droit, stade 1
+L89.012	ulcère de pression du coude droit, stade 2
+L89.013	ulcère de pression du coude droit, stade 3
+L89.014	ulcère de pression du coude droit, stade 4
+L89.019	ulcère de pression du coude droit, stade non spécifié
+L89.020	ulcère de pression du coude gauche, stade indéterminable
+L89.021	ulcère de pression du coude gauche, stade 1
+L89.022	ulcère de pression du coude gauche, stade 2
+L89.023	ulcère de pression du coude gauche, stade 3
+L89.024	ulcère de pression du coude gauche, stade 4
+L89.029	ulcère de pression du coude gauche, stade non spécifié
+L89.10	ulcère de pression d'une partie non spécifiée du dos, stade indéterminable
+L89.11	ulcère de pression d'une partie non spécifiée du dos, stade 1
+L89.12	ulcère de pression d'une partie non spécifiée du dos, stade 2
+L89.13	ulcère de pression d'une partie non spécifiée du dos, stade 3
+L89.14	ulcère de pression d'une partie non spécifiée du dos, stade 4
+L89.19	ulcère de pression d'une partie non spécifiée du dos, stade non spécifié
+L89.110	ulcère de pression de la partie supérieure droite du dos, stade indéterminable
+L89.111	ulcère de pression de la partie supérieure droite du dos, stade 1
+L89.112	ulcère de pression de la partie supérieure droite du dos, stade 2
+L89.113	ulcère de pression de la partie supérieure droite du dos, stade 3
+L89.114	ulcère de pression de la partie supérieure droite du dos, stade 4
+L89.119	ulcère de pression de la partie supérieure droite du dos, stade non spécifié
+L89.120	ulcère de pression de la partie supérieure gauche du dos, stade indéterminable
+L89.121	ulcère de pression de la partie supérieure gauche du dos, stade 1
+L89.122	ulcère de pression de la partie supérieure gauche du dos, stade 2
+L89.123	ulcère de pression de la partie supérieure gauche du dos, stade 3
+L89.124	ulcère de pression de la partie supérieure gauche du dos, stade 4
+L89.129	ulcère de pression de la partie supérieure gauche du dos, stade non spécifié
+L89.130	ulcère de pression de la partie inférieure droite du dos, stade indéterminable
+L89.131	ulcère de pression de la partie inférieure droite du dos, stade 1
+L89.132	ulcère de pression de la partie inférieure droite du dos, stade 2
+L89.133	ulcère de pression de la partie inférieure droite du dos, stade 3
+L89.134	ulcère de pression de la partie inférieure droite du dos, stade 4
+L89.139	ulcère de pression de la partie inférieure droite du dos, stade non spécifié
+L89.140	ulcère de pression de la partie inférieure gauche du dos, stade indéterminable
+L89.141	ulcère de pression de la partie inférieure gauche du dos, stade 1
+L89.142	ulcère de pression de la partie inférieure gauche du dos, stade 2
+L89.143	ulcère de pression de la partie inférieure gauche du dos, stade 3
+L89.144	ulcère de pression de la partie inférieure gauche du dos, stade 4
+L89.149	ulcère de pression de la partie inférieure gauche du dos, stade non spécifié
+L89.150	ulcère de pression de la région sacrée, stade indéterminable
+L89.151	ulcère de pression de la région sacrée, stade 1
+L89.152	ulcère de pression de la région sacrée, stade 2
+L89.153	ulcère de pression de la région sacrée, stade 3
+L89.154	ulcère de pression de la région sacrée, stade 4
+L89.159	ulcère de pression de la région sacrée, stade non spécifié
+L89.20	ulcère de pression d'une hanche non spécifiée, stade indéterminable
+L89.21	ulcère de pression d'une hanche non spécifiée, stade 1
+L89.22	ulcère de pression d'une hanche non spécifiée, stade 2
+L89.23	ulcère de pression d'une hanche non spécifiée, stade 3
+L89.24	ulcère de pression d'une hanche non spécifiée, stade 4
+L89.29	ulcère de pression d'une hanche non spécifiée, stade non spécifié
+L89.210	ulcère de pression de la hanche droite, stade indéterminable
+L89.211	ulcère de pression de la hanche droite, stade 1
+L89.212	ulcère de pression de la hanche droite, stade 2
+L89.213	ulcère de pression de la hanche droite, stade 3
+L89.214	ulcère de pression de la hanche droite, stade 4
+L89.219	ulcère de pression de la hanche droite, stade non spécifié
+L89.220	ulcère de pression de la hanche gauche, stade indéterminable
+L89.221	ulcère de pression de la hanche gauche, stade 1
+L89.222	ulcère de pression de la hanche gauche, stade 2
+L89.223	ulcère de pression de la hanche gauche, stade 3
+L89.224	ulcère de pression de la hanche gauche, stade 4
+L89.229	ulcère de pression de la hanche gauche, stade non spécifié
+L89.30	ulcère de pression d'une fesse non spécifiée, stade indéterminable
+L89.31	ulcère de pression d'une fesse non spécifiée, stade 1
+L89.32	ulcère de pression d'une fesse non spécifiée, stade 2
+L89.33	ulcère de pression d'une fesse non spécifiée, stade 3
+L89.34	ulcère de pression d'une fesse non spécifiée, stade 4
+L89.39	ulcère de pression d'une fesse non spécifiée, stade non spécifié
+L89.310	ulcère de pression de la fesse droite, stade indéterminable
+L89.311	ulcère de pression de la fesse droite, stade 1
+L89.312	ulcère de pression de la fesse droite, stade 2
+L89.313	ulcère de pression de la fesse droite, stade 3
+L89.314	ulcère de pression de la fesse droite, stade 4
+L89.319	ulcère de pression de la fesse droite, stade non spécifié
+L89.320	ulcère de pression de la fesse gauche, stade indéterminable
+L89.321	ulcère de pression de la fesse gauche, stade 1
+L89.322	ulcère de pression de la fesse gauche, stade 2
+L89.323	ulcère de pression de la fesse gauche, stade 3
+L89.324	ulcère de pression de la fesse gauche, stade 4
+L89.329	ulcère de pression de la fesse gauche, stade non spécifié
+L89.40	ulcère de décubitus d'une localisation contiguë du dos, des fesses et de la hanche, stade indéterminable
+L89.41	ulcère de décubitus d'une localisation contiguë du dos, des fesses et de la hanche, stade 1
+L89.42	ulcère de décubitus d'une localisation contiguë du dos, des fesses et de la hanche, stade 2
+L89.43	ulcère de décubitus d'une localisation contiguë du dos, des fesses et de la hanche, stade 3
+L89.44	ulcère de décubitus d'une localisation contiguë du dos, des fesses et de la hanche, stade 4
+L89.45	ulcère de décubitus d'une localisation contiguë du dos, des fesses et de la hanche, stade non spécifié
+L89.50	ulcère de pression d'une cheville non spécifiée, stade indéterminable
+L89.51	ulcère de pression d'une cheville non spécifiée, stade 1
+L89.52	ulcère de pression d'une cheville non spécifiée, stade 2
+L89.53	ulcère de pression d'une cheville non spécifiée, stade 3
+L89.54	ulcère de pression d'une cheville non spécifiée, stade 4
+L89.59	ulcère de pression d'une cheville non spécifiée, stade non spécifié
+L89.510	ulcère de pression de la cheville droite, stade indéterminable
+L89.511	ulcère de pression de la cheville droite, stade 1
+L89.512	ulcère de pression de la cheville droite, stade 2
+L89.513	ulcère de pression de la cheville droite, stade 3
+L89.514	ulcère de pression de la cheville droite, stade 4
+L89.519	ulcère de pression de la cheville droite, stade non spécifié
+L89.520	ulcère de pression de la cheville gauche, stade indéterminable
+L89.521	ulcère de pression de la cheville gauche, stade 1
+L89.522	ulcère de pression de la cheville gauche, stade 2
+L89.523	ulcère de pression de la cheville gauche, stade 3
+L89.524	ulcère de pression de la cheville gauche, stade 4
+L89.529	ulcère de pression de la cheville gauche, stade non spécifié
+L89.60	ulcère de pression d'un talon non spécifié, stade indéterminable
+L89.61	ulcère de pression d'un talon non spécifié, stade 1
+L89.62	ulcère de pression d'un talon non spécifié, stade 2
+L89.63	ulcère de pression d'un talon non spécifié, stade 3
+L89.64	ulcère de pression d'un talon non spécifié, stade 4
+L89.69	ulcère de pression d'un talon non spécifié, stade non spécifié
+L89.610	ulcère de pression du talon droit, stade indéterminable
+L89.611	ulcère de pression du talon droit, stade 1
+L89.612	ulcère de pression du talon droit, stade 2
+L89.613	ulcère de pression du talon droit, stade 3
+L89.614	ulcère de pression du talon droit, stade 4
+L89.619	ulcère de pression du talon droit, stade non spécifié
+L89.620	ulcère de pression du talon gauche, stade indéterminable
+L89.621	ulcère de pression du talon gauche, stade 1
+L89.622	ulcère de pression du talon gauche, stade 2
+L89.623	ulcère de pression du talon gauche, stade 3
+L89.624	ulcère de pression du talon gauche, stade 4
+L89.629	ulcère de pression du talon gauche, stade non spécifié
+L89.810	ulcère de pression de la tête, stade indéterminable
+L89.811	ulcère de pression de la tête, stade 1
+L89.812	ulcère de pression de la tête, stade 2
+L89.813	ulcère de pression de la tête, stade 3
+L89.814	ulcère de pression de la tête, stade 4
+L89.819	ulcère de pression de la tête, stade non spécifié
+L89.890	ulcère de pression d'une autre localisation, stade indéterminable
+L89.891	ulcère de pression d'une autre localisation, stade 1
+L89.892	ulcère de pression d'une autre localisation, stade 2
+L89.893	ulcère de pression d'une autre localisation, stade 3
+L89.894	ulcère de pression d'une autre localisation, stade 4
+L89.899	ulcère de pression d'une autre localisation, stade non spécifié
+L89.90	ulcère de pression d'un site non spécifié, stade indéterminable
+L89.91	ulcère de pression d'un site non spécifié, stade 1
+L89.92	ulcère de pression d'un site non spécifié, stade 2
+L89.93	ulcère de pression d'un site non spécifié, stade 3
+L89.94	ulcère de pression d'un site non spécifié, stade 4
+L89.95	ulcère de pression d'un site non spécifié, stade non spécifié
+L90.0	lichen scléreux et atrophique
+L90.1	anétodermie de Schweninger-Buzzi
+L90.2	anétodermie de Jadassohn-Pellizzari
+L90.3	atrophodermie de Pasini et Pierini
+L90.4	acrodermatite chronique atrophiante
+L90.5	cicatrices et fibrose cutanées
+L90.6	stries atrophiques
+L90.8	d'autres troubles atrophiques de la peau
+L90.9	trouble atrophique de la peau, non spécifié
+L91.0	cicatrices hypertrophiques
+L91.8	d'autres troubles hypertrophiques de la peau
+L91.9	trouble hypertrophique de la peau, non spécifié
+L92.0	granulome annulaire
+L92.1	nécrobiose lipoïdique, non classée ailleurs
+L92.2	granulome facial 
+L92.2	granulome éosinophile de la peau
+L92.3	granulome cutané et sous-cutané dû à la présence d'un corps étranger
+L92.8	d'autres troubles granulomateux de la peau et du tissu sous-cutané
+L92.9	trouble granulomateux de la peau et du tissu sous-cutané, non spécifié
+L93.0	lupus érythémateux discoide
+L93.1	lupus érythémateux cutané subaigu
+L93.2	d'autres lupus érythémateux localisés
+L94.0	sclérodermie localisée 
+L94.1	sclérodermie linéaire
+L94.2	calcinose cutanée
+L94.3	sclérodactylie
+L94.4	papules de Gottron
+L94.5	poïkilodermie vasculaire atrophiante
+L94.6	aïnhum
+L94.8	d'autres troubles localisés spécifiés du tissu conjonctif
+L94.9	trouble localisée du tissu conjonctif, non spécifié
+L95.0	vasculite livédoïde
+L95.8	d'autres vasculites limitées à la peau
+L95.9	vasculite limitée à la peau, non spécifié
+L97.11	ulcère chronique, non dû à la pression, d'une cuisse non spécifiée, limité au défaut de la peau
+L97.12	ulcère chronique, non dû à la pression, d'une cuisse non spécifiée, avec l'exposition du tissu graisseux
+L97.13	ulcère chronique, non dû à la pression, d'une cuisse non spécifiée, avec nécrose du muscle
+L97.14	ulcère chronique, non dû à la pression, d'une cuisse non spécifiée, avec nécrose de l'os
+L97.19	ulcère chronique, non dû à la pression, d'une cuisse non spécifiée, avec une sévérité non spécifiée
+L97.111	ulcère chronique, non dû à la pression, de la cuisse droite, limité au défaut de la peau
+L97.112	ulcère chronique, non dû à la pression, de la cuisse droite, avec l'exposition du tissu graisseux
+L97.113	ulcère chronique, non dû à la pression, de la cuisse droite, avec nécrose du muscle
+L97.114	ulcère chronique, non dû à la pression, de la cuisse droite, avec nécrose de l'os
+L97.119	ulcère chronique, non dû à la pression, de la cuisse droite, avec une sévérité non spécifiée
+L97.121	ulcère chronique, non dû à la pression, de la cuisse gauche, limité au défaut de la peau
+L97.122	ulcère chronique, non dû à la pression, de la cuisse gauche, avec l'exposition du tissu graisseux
+L97.123	ulcère chronique, non dû à la pression, de la cuisse gauche, avec nécrose du muscle
+L97.124	ulcère chronique, non dû à la pression, de la cuisse gauche, avec nécrose de l'os
+L97.129	ulcère chronique, non dû à la pression, de la cuisse gauche, avec une sévérité non spécifiée
+L97.21	ulcère chronique, non dû à la pression, d'un mollet non spécifié, limité au défaut de la peau
+L97.22	ulcère chronique, non dû à la pression, d'un mollet non spécifié, avec l'exposition du tissu graisseux
+L97.23	ulcère chronique, non dû à la pression, d'un mollet non spécifié, avec nécrose du muscle
+L97.24	ulcère chronique, non dû à la pression, d'un mollet non spécifié, avec nécrose de l'os
+L97.29	ulcère chronique, non dû à la pression, d'un mollet non spécifié, avec une sévérité non spécifiée
+L97.211	ulcère chronique, non dû à la pression, du mollet droit, limité au défaut de la peau
+L97.212	ulcère chronique, non dû à la pression, du mollet droit, avec l'exposition du tissu graisseux
+L97.213	ulcère chronique, non dû à la pression, du mollet droit, avec nécrose du muscle
+L97.214	ulcère chronique, non dû à la pression, du mollet droit, avec nécrose de l'os
+L97.219	ulcère chronique, non dû à la pression, du mollet droit, avec une sévérité non spécifiée
+L97.221	ulcère chronique, non dû à la pression, du mollet gauche, limité au défaut de la peau
+L97.222	ulcère chronique, non dû à la pression, du mollet gauche, avec l'exposition du tissu graisseux
+L97.223	ulcère chronique, non dû à la pression, du mollet gauche, avec nécrose du muscle
+L97.224	ulcère chronique, non dû à la pression, du mollet gauche, avec nécrose de l'os
+L97.229	ulcère chronique, non dû à la pression, du mollet gauche, avec une sévérité non spécifiée
+L97.31	ulcère chronique, non dû à la pression, d'une cheville non spécifiée, limité au défaut de la peau
+L97.32	ulcère chronique, non dû à la pression, d'une cheville non spécifiée, avec l'exposition du tissu graisseux
+L97.33	ulcère chronique, non dû à la pression, d'une cheville non spécifiée, avec nécrose du muscle
+L97.34	ulcère chronique, non dû à la pression, d'une cheville non spécifiée, avec nécrose de l'os
+L97.39	ulcère chronique, non dû à la pression, d'une cheville non spécifiée, avec une sévérité non spécifiée
+L97.311	ulcère chronique, non dû à la pression, de la cheville droite, limité au défaut de la peau
+L97.312	ulcère chronique, non dû à la pression, de la cheville droite, avec l'exposition du tissu graisseux
+L97.313	ulcère chronique, non dû à la pression, de la cheville droite, avec nécrose du muscle
+L97.314	ulcère chronique, non dû à la pression, de la cheville droite, avec nécrose de l'os
+L97.319	ulcère chronique, non dû à la pression, de la cheville droite, avec une sévérité non spécifiée
+L97.321	ulcère chronique, non dû à la pression, de la cheville gauche, limité au défaut de la peau
+L97.322	ulcère chronique, non dû à la pression, de la cheville gauche, avec l'exposition du tissu graisseux
+L97.323	ulcère chronique, non dû à la pression, de la cheville gauche, avec nécrose du muscle
+L97.324	ulcère chronique, non dû à la pression, de la cheville gauche, avec nécrose de l'os
+L97.329	ulcère chronique, non dû à la pression, de la cheville gauche, avec une sévérité non spécifiée
+L97.41	ulcère chronique, non dû à la pression, d'un talon et métatarse non spécifiés, limité au défaut de la peau
+L97.42	ulcère chronique, non dû à la pression, d'un talon et métatarse non spécifiés, avec l'exposition du tissu graisseux
+L97.43	ulcère chronique, non dû à la pression, d'un talon et métatarse non spécifiés, avec nécrose du muscle
+L97.44	ulcère chronique, non dû à la pression, d'un talon et métatarse non spécifiés, avec nécrose de l'os
+L97.49	ulcère chronique, non dû à la pression, d'un talon et métatarse non spécifiés, avec une sévérité non spécifiée
+L97.411	ulcère chronique, non dû à la pression, du talon et métatarse droits, limité au défaut de la peau
+L97.412	ulcère chronique, non dû à la pression, du talon et métatarse droits, avec l'exposition du tissu graisseux
+L97.413	ulcère chronique, non dû à la pression, du talon et métatarse droits, avec nécrose du muscle
+L97.414	ulcère chronique, non dû à la pression, du talon et métatarse droits, avec nécrose de l'os
+L97.419	ulcère chronique, non dû à la pression, du talon et métatarse droits, avec une sévérité non spécifiée
+L97.421	ulcère chronique, non dû à la pression, du talon et métatarse gauches, limité au défaut de la peau
+L97.422	ulcère chronique, non dû à la pression, du talon et métatarse gauches, avec l'exposition du tissu graisseux
+L97.423	ulcère chronique, non dû à la pression, du talon et métatarse gauches, avec nécrose du muscle
+L97.424	ulcère chronique, non dû à la pression, du talon et métatarse gauches, avec nécrose de l'os
+L97.429	ulcère chronique, non dû à la pression, du talon et métatarse gauches, avec une sévérité non spécifiée
+L97.51	ulcère chronique, non dû à la pression, d'une autre partie d'un pied non spécifié, limité au défaut de la peau
+L97.52	ulcère chronique, non dû à la pression, d'une autre partie d'un pied non spécifie, avec l'exposition du tissu graisseux
+L97.53	ulcère chronique, non dû à la pression, d'une autre partie d'un pied non spécifié, avec nécrose du muscle
+L97.54	ulcère chronique, non dû à la pression, d'une autre partie d'un pied non spécifié, avec nécrose de l'os
+L97.59	ulcère chronique, non dû à la pression, d'une autre partie d'un pied non spécifié, avec une sévérité non spécifiée
+L97.511	ulcère chronique, non dû à la pression, d'une autre partie du pied droit, limité au défaut de la peau
+L97.512	ulcère chronique, non dû à la pression, d'une autre partie du pied droit, avec l'exposition du tissu graisseux
+L97.513	ulcère chronique, non dû à la pression, d'une autre partie du pied droit, avec nécrose du muscle
+L97.514	ulcère chronique, non dû à la pression, d'une autre partie du pied droit, avec nécrose de l'os
+L97.519	ulcère chronique, non dû à la pression, d'une autre partie du pied droit, avec une sévérité non spécifiée
+L97.521	ulcère chronique, non dû à la pression, du pied gauche, limité au défaut de la peau
+L97.522	ulcère chronique, non dû à la pression, d'une autre partie du pied gauche, avec l'exposition du tissu graisseux
+L97.523	ulcère chronique, non dû à la pression, d'une autre partie du pied gauche, avec nécrose du muscle
+L97.524	ulcère chronique, non dû à la pression, d'une autre partie du pied gauche, avec nécrose de l'os
+L97.529	ulcère chronique, non dû à la pression, d'une autre partie du pied gauche, avec une sévérité non spécifiée
+L97.81	ulcère chronique, non dû à la pression, d'une autre partie de la jambe, limité au défaut de la peau
+L97.82	ulcère chronique, non dû à la pression, d'une autre partie de la jambe, avec l'exposition du tissu graisseux
+L97.83	ulcère chronique, non dû à la pression, d'une autre partie de la jambe, avec nécrose du muscle
+L97.84	ulcère chronique, non dû à la pression, d'une autre partie de la jambe, avec nécrose de l'os
+L97.89	ulcère chronique, non dû à la pression, d'une autre partie de la jambe, avec une sévérité non spécifiée
+L97.821	ulcère chronique, non dû à la pression, d'une autre partie de la jambe gauche, limité au défaut de la peau
+L97.822	ulcère chronique, non dû à la pression, d'une autre partie de la jambe gauche, avec l'exposition du tissu graisseux
+L97.823	ulcère chronique, non dû à la pression, d'une autre partie de la jambe gauche, avec nécrose du muscle
+L97.824	ulcère chronique, non dû à la pression, d'une autre partie de la jambe gauche, avec nécrose de l'os
+L97.829	ulcère chronique, non dû à la pression, d'une autre partie de la jambe gauche, avec une sévérité non spécifiée
+L97.91	ulcère chronique, non dû à la pression, d'une partie non spécifiée d'une jambe non spécifiée, limité au défaut de la peau
+L97.92	ulcère chronique, non dû à la pression, d'une partie non spécifiée d'une jambe non spécifiée, avec l'exposition du tissu graisseux
+L97.93	ulcère chronique, non dû à la pression, d'une partie non spécifiée d'une jambe non spécifiée, avec nécrose du muscle
+L97.94	ulcère chronique, non dû à la pression, d'une partie non spécifiée d'une jambe non spécifiée, avec nécrose de l'os
+L97.99	ulcère chronique, non dû à la pression, d'une partie non spécifiée d'une jambe non spécifiée, avec une sévérité non spécifiée
+L97.911	ulcère chronique, non dû à la pression, d'une partie non spécifiée de la jambe droite, limité au défaut de la peau
+L97.912	ulcère chronique, non dû à la pression, d'une partie non spécifiée de la jambe droite, avec l'exposition du tissu graisseux
+L97.913	ulcère chronique, non dû à la pression, d'une partie non spécifiée de la jambe droite, avec nécrose du muscle
+L97.914	ulcère chronique, non dû à la pression, d'une partie non spécifiée de la jambe droite, avec nécrose de l'os
+L97.919	ulcère chronique, non dû à la pression, d'une partie non spécifiée de la jambe droite, avec une sévérité non spécifiée
+L97.921	ulcère chronique, non dû à la pression, d'une partie non spécifiée de la jambe gauche, limité au défaut de la peau
+L97.922	ulcère chronique, non dû à la pression, d'une partie non spécifiée de la jambe gauche, avec l'exposition du tissu graisseux
+L97.923	ulcère chronique, non dû à la pression, d'une partie non spécifiée de la jambe gauche, avec nécrose du muscle
+L97.924	ulcère chronique, non dû à la pression, d'une partie non spécifiée de la jambe gauche, avec nécrose de l'os
+L97.929	ulcère chronique, non dû à la pression, d'une partie non spécifiée de la jambe gauche, avec une sévérité non spécifiée
+L98.0	granulome pyogénique
+L98.1	dermatite factice
+L98.2	Dermatose aiguë fébrile neutrophilique
+L98.3	cellulite à éosinophiles
+L98.3	Syndrome de Wells
+L98.411	ulcère chronique, non dû à la pression, de la fesse, limité au défaut de la peau
+L98.412	ulcère chronique, non dû à la pression, de la fesse, avec l'exposition du tissu graisseux
+L98.413	ulcère chronique, non dû à la pression, de la fesse, avec nécrose du muscle
+L98.414	ulcère chronique, non dû à la pression, de la fesse, avec nécrose de l'os
+L98.419	ulcère chronique, non dû à la pression, de la fesse, avec une sévérité non spécifiée
+L98.421	ulcère chronique, non dû à la pression, du dos, limité au défaut de la peau
+L98.422	ulcère chronique, non dû à la pression, du dos, avec l'exposition du tissu graisseux
+L98.423	ulcère chronique, non dû à la pression, du dos, avec nécrose du muscle
+L98.424	ulcère chronique, non dû à la pression, du dos, avec nécrose de l'os
+L98.429	ulcère chronique, non dû à la pression, du dos, avec une sévérité non spécifiée
+L98.491	ulcère chronique, non dû à la pression, de la peau d'autres localisations, limité au défaut de la peau
+L98.492	ulcère chronique, non dû à la pression, de la peau d'autres localisations, avec l'exposition du tissu graisseux
+L98.493	ulcère chronique, non dû à la pression, de la peau d'autres localisations, avec nécrose du muscle
+L98.494	ulcère chronique, non dû à la pression, de la peau d'autres localisations, avec nécrose de l'os
+L98.499	ulcère chronique, non dû à la pression, de la peau d'autres localisations, avec une sévérité non spécifiée
+L98.5	mucinose cutanée
+L98.6	d'autres lésions infiltrantes de la peau et du tissu sous-cutané
+L98.8	d'autres troubles spécifiés de la peau et du tissu sous-cutané
+L89.9    trouble de la peau et du tissu sous-cutané, non spécifié
+L99	d'autres troubles de la peau et du tissu sous-cutané au cours de maladies classées ailleurs
+

@@ -1,0 +1,3641 @@
+D03.0	mélanome in situ de la lèvre
+D03.0	mélanome intra-épithélial labial
+D03.1	mélanome in situ de la paupière, y compris le canthus
+D03.1	mélanome intra-épithélial palpébral, y compris le canthus
+D03.2	mélanome in situ de l'oreille
+D03.2	mélanome intra-épithélial de l'oreille
+D03.2	mélanome in situ du conduit auditif externe
+D03.2	mélanome intra-épithélial du conduit auditif externe
+D03.3	mélanome in situ de la face
+D03.3	mélanome intra-épithélial facial
+D03.4	mélanome in situ du cuir chevelu
+D03.4	mélanome intra-épithélial du cuir chevelu
+D03.4	mélanome in situ du cou
+D03.4	mélanome intra-épithélial du cou
+D03.5	mélanome in situ du tronc
+D03.5	mélanome intra-épithélial du tronc
+D03.5	mélanome in situ de la peau du sein
+D03.5	mélanome intra-épithélial cutané du sein
+D03.5	mélanome in situ de la peau de la région périanale
+D03.5	mélanome intra-épithélial cutané périanal
+D03.6	mélanome in situ du membre supérieur
+D03.6	mélanome intra-épithélial du membre supérieur
+D03.6	mélanome in situ de l'épaule
+D03.6	mélanome intra-épithélial de l'épaule
+D03.7	mélanome in situ du membre inférieur
+D03.7	mélanome intra-épithélial du membre inférieur
+D03.7	mélanome in situ de la hanche
+D03.7	mélanome intra-épithélial de la hanche
+D03.8	mélanome in situ de siège précisé
+D03.8	mélanome intra-épithélial de siège précisé
+D03.9	mélanome in situ de la peau, siège non précisé
+D03.9	mélanome intra-épithélial cutané, siège non précisé
+D04.0	carcinome in situ de la peau de la lèvre
+D04.0	carcinome intra-épithélial de la face cutanée de la lèvre
+D04.1	carcinome in situ de la peau de la paupière
+D04.1	carcinome intra-épithélial cutané de la paupière
+D04.2	carcinome in situ de la peau de l'oreille externe
+D04.2	carcinome intra-épithélial cutané de l'oreille externe
+D04.2	carcinome in situ de la peau du conduit auditif externe
+D04.2	carcinome intra-épithélial cutané du conduit auditif externe
+D04.3	carcinome in situ de la peau de la face
+D04.3	carcinome intra-épithélial cutané de la face
+D04.3	carcinome in situ de la peau de la joue
+D04.3	carcinome intra-épithélial cutané de la joue
+D04.3	carcinome in situ de la peau de la région sus-orbitaire
+D04.3	carcinome intra-épithélial cutané sus-orbitaire
+D04.3	carcinome in situ de la peau du nez
+D04.3	carcinome intra-épithélial cutané du nez
+D04.3	carcinome in situ de la peau du front
+D04.3	carcinome intra-épithélial cutané du front
+D04.3	carcinome in situ de la peau du menton
+D04.3	carcinome intra-épithélial cutané du menton
+D04.3	carcinome in situ de la peau de la région temporale
+D04.3	carcinome intra-épithélial cutané temporal
+D04.4	carcinome in situ de la peau du cuir chevelu
+D04.4	carcinome intra-épithélial cutané du cuir chevelu
+D04.4	carcinome in situ de la peau du cou
+D04.4	carcinome intra-épithélial cutané du cou
+D04.5	carcinome in situ de la peau du tronc
+D04.5	carcinome intra-épithélial cutané du tronc
+D04.5	carcinome in situ de la peau de l'aisselle
+D04.5	carcinome intra-épithélial cutané de l'aisselle
+D04.5	carcinome in situ de la peau de l'abdomen
+D04.5	carcinome intra-épithélial cutané de l'abdomen
+D04.5	carcinome in situ de la peau du dos
+D04.5	carcinome intra-épithélial cutané du dos
+D04.5	carcinome in situ de la peau du thorax
+D04.5	carcinome intra-épithélial cutané du thorax
+D04.5	carcinome in situ de la peau du sein
+D04.5	carcinome intra-épithélial cutané du sein
+D04.5	carcinome in situ de la peau de la fesse
+D04.5	carcinome intra-épithélial cutané de la fesse
+D04.5	carcinome in situ de la peau de l'aine
+D04.5	carcinome intra-épithélial cutané inguinal
+D04.5	carcinome in situ de la peau du périnée
+D04.5	carcinome intra-épithélial cutané du périnée
+D04.5	carcinome in situ de la peau de la région périanale
+D04.5	carcinome intra-épithélial cutané périanal
+D04.5	carcinome in situ de la peau du nombril
+D04.5	carcinome intra-épithélial cutané du nombril
+D04.6	carcinome in situ de la peau du membre supérieur
+D04.6	carcinome intra-épithélial cutané du membre supérieur
+D04.6	carcinome in situ de la peau de l'épaule
+D04.6	carcinome intra-épithélial cutané de l'épaule
+D04.6	carcinome in situ de la peau du bras
+D04.6	carcinome intra-épithélial cutané du bras
+D04.6	carcinome in situ de la peau du coude
+D04.6	carcinome intra-épithélial cutané du coude
+D04.6	carcinome in situ de la peau de l'avant-bras
+D04.6	carcinome intra-épithélial cutané de l'avant-bras
+D04.6	carcinome in situ de la peau du poignet
+D04.6	carcinome intra-épithélial cutané du poignet
+D04.6	carcinome in situ de la peau de la main
+D04.6	carcinome intra-épithélial cutané de la main
+D04.6	carcinome in situ de la peau des doigts
+D04.6	carcinome intra-épithélial cutané des doigts
+D04.7	carcinome in situ de la peau du membre inférieur
+D04.7	carcinome intra-épithélial cutané du membre inférieur
+D04.7	carcinome in situ de la peau de la hanche
+D04.7	carcinome intra-épithélial cutané de la hanche
+D04.7	carcinome in situ de la peau de la cuisse
+D04.7	carcinome intra-épithélial cutané de la cuisse
+D04.7	carcinome in situ de la peau du creux poplité
+D04.7	carcinome intra-épithélial cutané du creux poplité
+D04.7	carcinome in situ de la peau du genou
+D04.7	carcinome intra-épithélial cutané du genou
+D04.7	carcinome in situ de la peau de la jambe
+D04.7	carcinome intra-épithélial cutané de la jambe
+D04.7	carcinome in situ de la peau de la cheville
+D04.7	carcinome intra-épithélial cutané de la cheville
+D04.7	carcinome in situ de la peau du pied
+D04.7	carcinome intra-épithélial cutané du pied
+D04.7	carcinome in situ de la peau des orteils
+D04.7	carcinome intra-épithélial cutané des orteils
+D04.8	carcinome in situ des annexes cutanées
+D04.8	carcinome intra-épithélial des annexes cutanées
+D04.8	carcinome in situ des glandes sudoripares
+D04.8	carcinome intra-épithélial sudoripare
+D04.8	carcinome in situ des glandes sébacées
+D04.8	carcinome intra-épithélial sébacé
+D04.9	carcinome in situ de la peau
+D04.9	carcinome intra-épithélial cutané
+D22.0	naevus à mélanocytes de la lèvre
+D22.0	naevus à mélanocytes labial
+D22.1	naevus à mélanocytes de la paupière, y compris le canthus
+D22.1	naevus à mélanocytes palpébral, y compris le canthus
+D22.2	naevus à mélanocytes de l'oreille
+D22.2	naevus à mélanocytes du conduit auditif externe
+D22.3	naevus à mélanocytes de la face
+D22.3	naevus à mélanocytes facial
+D22.4	naevus à mélanocytes du cuir chevelu
+D22.4	naevus à mélanocytes du cou
+D22.5	naevus à mélanocytes du tronc
+D22.5	naevus à mélanocytes de la peau du sein
+D22.5	naevus à mélanocytes cutané du sein
+D22.5	naevus à mélanocytes de la peau de la région périanale
+D22.5	naevus à mélanocytes cutané périanal
+D22.6	naevus à mélanocytes du membre supérieur
+D22.6	naevus à mélanocytes de l'épaule
+D22.7	naevus à mélanocytes du membre inférieur
+D22.7	naevus à mélanocytes de la hanche
+D22.9	naevus épidermique pigmentaire pileux
+D22.9	naevus de Becker
+D22.9	naevus à mélanocytes de la peau, siège non précisé (clinique)
+D22.9	naevus cutané à mélanocytes, siège non précisé (clinique)
+D22.9	naevus à mélanocytes (clinique)
+D22.9	naevus pigmentaire (clinique)
+D23.0	tumeur bénigne de la peau de la lèvre
+D23.0	tumeur bénigne de la face cutanée de la lèvre
+D23.1	tumeur bénigne de la peau de la paupière
+D23.1	tumeur bénigne cutanée de la paupière
+D23.2	tumeur bénigne de la peau de l'oreille externe
+D23.2	tumeur bénigne cutanée de l'oreille externe
+D23.2	tumeur bénigne de la peau du conduit auditif externe
+D23.2	tumeur bénigne cutanée du conduit auditif externe
+D23.3	tumeur bénigne de la peau de la face
+D23.3	tumeur bénigne cutanée de la face
+D23.3	tumeur bénigne de la peau de la joue
+D23.3	tumeur bénigne cutanée de la joue
+D23.3	tumeur bénigne de la peau de la région sus-orbitaire
+D23.3	tumeur bénigne cutanée sus-orbitaire
+D23.3	tumeur bénigne de la peau du nez
+D23.3	tumeur bénigne cutanée du nez
+D23.3	tumeur bénigne de la peau du front
+D23.3	tumeur bénigne cutanée du front
+D23.3	tumeur bénigne de la peau du menton
+D23.3	tumeur bénigne cutanée du menton
+D23.3	tumeur bénigne de la peau de la région temporale
+D23.3	tumeur bénigne cutanée temporale
+D23.4	tumeur bénigne de la peau du cuir chevelu
+D23.4	tumeur bénigne cutanée du cuir chevelu
+D23.4	tumeur bénigne de la peau du cou
+D23.4	tumeur bénigne cutanée du cou
+D23.5	tumeur bénigne de la peau du tronc
+D23.5	tumeur bénigne cutanée du tronc
+D23.5	tumeur bénigne de la peau de l'aisselle
+D23.5	tumeur bénigne cutanée de l'aisselle
+D23.5	tumeur bénigne de la peau de l'abdomen
+D23.5	tumeur bénigne cutanée de l'abdomen
+D23.5	tumeur bénigne de la peau du dos
+D23.5	tumeur bénigne cutanée du dos
+D23.5	tumeur bénigne de la peau du thorax
+D23.5	tumeur bénigne cutanée du thorax
+D23.5	tumeur bénigne de la peau du sein
+D23.5	tumeur bénigne cutanée du sein
+D23.5	tumeur bénigne de la peau de la fesse
+D23.5	tumeur bénigne cutanée de la fesse
+D23.5	tumeur bénigne de la peau de l'aine
+D23.5	tumeur bénigne cutanée inguinale
+D23.5	tumeur bénigne de la peau du périnée
+D23.5	tumeur bénigne cutanée du périnée
+D23.5	tumeur bénigne de la peau de la région périanale
+D23.5	tumeur bénigne cutanée périanale
+D23.5	tumeur bénigne de la peau du nombril
+D23.5	tumeur bénigne cutanée du nombril
+D23.6	tumeur bénigne de la peau du membre supérieur
+D23.6	tumeur bénigne cutanée du membre supérieur
+D23.6	tumeur bénigne de la peau de l'épaule
+D23.6	tumeur bénigne cutanée de l'épaule
+D23.6	tumeur bénigne de la peau du bras
+D23.6	tumeur bénigne cutanée du bras
+D23.6	tumeur bénigne de la peau du coude
+D23.6	tumeur bénigne cutanée du coude
+D23.6	tumeur bénigne de la peau de l'avant-bras
+D23.6	tumeur bénigne cutanée de l'avant-bras
+D23.6	tumeur bénigne de la peau du poignet
+D23.6	tumeur bénigne cutanée du poignet
+D23.6	tumeur bénigne de la peau de la main
+D23.6	tumeur bénigne cutanée de la main
+D23.6	tumeur bénigne de la peau des doigts
+D23.6	tumeur bénigne cutanée des doigts
+D23.7	tumeur bénigne de la peau du membre inférieur
+D23.7	tumeur bénigne cutanée du membre inférieur
+D23.7	tumeur bénigne de la peau de la hanche
+D23.7	tumeur bénigne cutanée de la hanche
+D23.7	tumeur bénigne de la peau de la cuisse
+D23.7	tumeur bénigne cutanée de la cuisse
+D23.7	tumeur bénigne de la peau du creux poplité
+D23.7	tumeur bénigne cutanée du creux poplité
+D23.7	tumeur bénigne de la peau du genou
+D23.7	tumeur bénigne cutanée du genou
+D23.7	tumeur bénigne de la peau de la jambe
+D23.7	tumeur bénigne cutanée de la jambe
+D23.7	tumeur bénigne de la peau de la cheville
+D23.7	tumeur bénigne cutanée de la cheville
+D23.7	tumeur bénigne de la peau du pied
+D23.7	tumeur bénigne cutanée du pied
+D23.7	tumeur bénigne de la peau des orteils
+D23.7	tumeur bénigne cutanée des orteils
+D23.9	angiokératome circonscrit
+D23.9	angiokératome de Mibelli
+D23.9	tumeur bénigne de la peau
+D23.9	tumeur bénigne cutanée
+D23.9	tumeur bénigne des glandes sudoripares
+D23.9	tumeur bénigne sudoripare
+D23.9	tumeur bénigne des glandes sébacées
+D23.9	tumeur bénigne sébacée
+D29.4	angiokératome de Fordyce
+D29.4	angiokératome du scrotum
+D48.5	tumeur de la peau, à évolution imprévisible ou inconnue
+D48.5	tumeur cutanée, à évolution imprévisible ou inconnue
+D48.5	tumeur des annexes cutanées, à évolution imprévisible ou inconnue
+D48.5	tumeur des glandes sudoripares, à évolution imprévisible ou inconnue
+D48.5	tumeur sudoripare, à évolution imprévisible ou inconnue
+D48.5	tumeur des glandes sébacées, à évolution imprévisible ou inconnue
+D48.5	tumeur sébacée, à évolution imprévisible ou inconnue
+D48.5	tumeur de la peau de la face, à évolution imprévisible ou inconnue
+D48.5	tumeur cutanée de la face, à évolution imprévisible ou inconnue
+D48.5	tumeur de la peau de la joue, à évolution imprévisible ou inconnue
+D48.5	tumeur cutanée de la joue, à évolution imprévisible ou inconnue
+D48.5	tumeur de la peau de la région sus-orbitaire, à évolution imprévisible ou inconnue
+D48.5	tumeur cutanée sus-orbitaire, à évolution imprévisible ou inconnue
+D48.5	tumeur de la peau du nez, à évolution imprévisible ou inconnue
+D48.5	tumeur cutanée du nez, à évolution imprévisible ou inconnue
+D48.5	tumeur de la peau du front, à évolution imprévisible ou inconnue
+D48.5	tumeur cutanée du front, à évolution imprévisible ou inconnue
+D48.5	tumeur de la peau du menton, à évolution imprévisible ou inconnue
+D48.5	tumeur cutanée du menton, à évolution imprévisible ou inconnue
+D48.5	tumeur de la peau de la lèvre, à évolution imprévisible ou inconnue
+D48.5	tumeur de la face cutanée de la lèvre, à évolution imprévisible ou inconnue
+D48.5	tumeur de la peau de la paupière, à évolution imprévisible ou inconnue
+D48.5	tumeur cutanée de la paupière, à évolution imprévisible ou inconnue
+D48.5	tumeur de la peau du cuir chevelu, à évolution imprévisible ou inconnue
+D48.5	tumeur cutanée du cuir chevelu, à évolution imprévisible ou inconnue
+D48.5	tumeur de la peau de l'oreille externe, à évolution imprévisible ou inconnue
+D48.5	tumeur cutanée de l'oreille externe, à évolution imprévisible ou inconnue
+D48.5	tumeur de la peau du conduit auditif externe, à évolution imprévisible ou inconnue
+D48.5	tumeur cutanée du conduit auditif externe, à évolution imprévisible ou inconnue
+D48.5	tumeur de la peau de la région temporale, à évolution imprévisible ou inconnue
+D48.5	tumeur cutanée temporale, à évolution imprévisible ou inconnue
+D48.5	tumeur de la peau du cou, à évolution imprévisible ou inconnue
+D48.5	tumeur cutanée du cou, à évolution imprévisible ou inconnue
+D48.5	tumeur de la peau du tronc, à évolution imprévisible ou inconnue
+D48.5	tumeur cutanée du tronc, à évolution imprévisible ou inconnue
+D48.5	tumeur de la peau de l'aisselle, à évolution imprévisible ou inconnue
+D48.5	tumeur cutanée de l'aisselle, à évolution imprévisible ou inconnue
+D48.5	tumeur de la peau de l'abdomen, à évolution imprévisible ou inconnue
+D48.5	tumeur cutanée de l'abdomen, à évolution imprévisible ou inconnue
+D48.5	tumeur de la peau du dos, à évolution imprévisible ou inconnue
+D48.5	tumeur cutanée du dos, à évolution imprévisible ou inconnue
+D48.5	tumeur de la peau du thorax, à évolution imprévisible ou inconnue
+D48.5	tumeur cutanée du thorax, à évolution imprévisible ou inconnue
+D48.5	tumeur de la peau du sein, à évolution imprévisible ou inconnue
+D48.5	tumeur cutanée du sein, à évolution imprévisible ou inconnue
+D48.5	tumeur de la peau de la fesse, à évolution imprévisible ou inconnue
+D48.5	tumeur cutanée de la fesse, à évolution imprévisible ou inconnue
+D48.5	tumeur de la peau de l'aine, à évolution imprévisible ou inconnue
+D48.5	tumeur cutanée inguinale, à évolution imprévisible ou inconnue
+D48.5	tumeur de la peau du périnée, à évolution imprévisible ou inconnue
+D48.5	tumeur cutanée du périnée, à évolution imprévisible ou inconnue
+D48.5	tumeur de la peau de la région périanale, à évolution imprévisible ou inconnue
+D48.5	tumeur cutanée périanale, à évolution imprévisible ou inconnue
+D48.5	tumeur de la peau du nombril, à évolution imprévisible ou inconnue
+D48.5	tumeur cutanée du nombril, à évolution imprévisible ou inconnue
+D48.5	tumeur de la peau du membre supérieur, à évolution imprévisible ou inconnue
+D48.5	tumeur cutanée du membre supérieur, à évolution imprévisible ou inconnue
+D48.5	tumeur de la peau de l'épaule, à évolution imprévisible ou inconnue
+D48.5	tumeur cutanée de l'épaule, à évolution imprévisible ou inconnue
+D48.5	tumeur de la peau du bras, à évolution imprévisible ou inconnue
+D48.5	tumeur cutanée du bras, à évolution imprévisible ou inconnue
+D48.5	tumeur de la peau du coude, à évolution imprévisible ou inconnue
+D48.5	tumeur cutanée du coude, à évolution imprévisible ou inconnue
+D48.5	tumeur de la peau de l'avant-bras, à évolution imprévisible ou inconnue
+D48.5	tumeur cutanée de l'avant-bras, à évolution imprévisible ou inconnue
+D48.5	tumeur de la peau du poignet, à évolution imprévisible ou inconnue
+D48.5	tumeur cutanée du poignet, à évolution imprévisible ou inconnue
+D48.5	tumeur de la peau de la main, à évolution imprévisible ou inconnue
+D48.5	tumeur cutanée de la main, à évolution imprévisible ou inconnue
+D48.5	tumeur de la peau des doigts, à évolution imprévisible ou inconnue
+D48.5	tumeur cutanée des doigts, à évolution imprévisible ou inconnue
+D48.5	tumeur de la peau du membre inférieur, à évolution imprévisible ou inconnue
+D48.5	tumeur cutanée du membre inférieur, à évolution imprévisible ou inconnue
+D48.5	tumeur de la peau de la hanche, à évolution imprévisible ou inconnue
+D48.5	tumeur cutanée de la hanche, à évolution imprévisible ou inconnue
+D48.5	tumeur de la peau de la cuisse, à évolution imprévisible ou inconnue
+D48.5	tumeur cutanée de la cuisse, à évolution imprévisible ou inconnue
+D48.5	tumeur de la peau du creux poplité, à évolution imprévisible ou inconnue
+D48.5	tumeur cutanée du creux poplité, à évolution imprévisible ou inconnue
+D48.5	tumeur de la peau du genou, à évolution imprévisible ou inconnue
+D48.5	tumeur cutanée du genou, à évolution imprévisible ou inconnue
+D48.5	tumeur de la peau de la jambe, à évolution imprévisible ou inconnue
+D48.5	tumeur cutanée de la jambe, à évolution imprévisible ou inconnue
+D48.5	tumeur de la peau de la cheville, à évolution imprévisible ou inconnue
+D48.5	tumeur cutanée de la cheville, à évolution imprévisible ou inconnue
+D48.5	tumeur de la peau du pied, à évolution imprévisible ou inconnue
+D48.5	tumeur cutanée du pied, à évolution imprévisible ou inconnue
+D48.5	tumeur de la peau des orteils, à évolution imprévisible ou inconnue
+D48.5	tumeur cutanée des orteils, à évolution imprévisible ou inconnue
+D69.2	purpura annularis telangiectodes
+D69.2	purpura annulaire télangiectasique
+D69.2	maladie de Majocchi
+D70	mucite sur agranulocytose
+D76.3	histiocytome éruptif généralisé
+D76.3	histiocytose nodulaire non langerhansienne
+D76.3	xanthogranulome juvénile
+D76.3	naevo-xantho-endothéliome
+D76.3	naevo-xanthome de Mac Donagh
+D86.3	acné rosacée granulomateuse
+D86.3	lupus miliaire
+D86.3	lupoïdes miliaires dissiminées
+D16.9	tumeur bénigne des os et/ou du cartilage articulaire
+D16.9	tumeur bénigne osseuse et/ou cartilagineuse articulaire
+D48.0	tumeur des os et/ou du cartilage articulaire, à évolution imprévisible ou inconnue
+D48.0	tumeur osseuse et/ou cartilagineuse articulaire, à évolution imprévisible ou inconnue
+D16.9	tumeur bénigne des os
+D16.9	tumeur bénigne osseuse
+D48.0	tumeur des os, à évolution imprévisible ou inconnue
+D48.0	tumeur osseuse, à évolution imprévisible ou inconnue
+D16.4	tumeur bénigne des os du crâne
+D16.4	tumeur bénigne osseuse du crâne
+D48.0	tumeur des os du crâne, à évolution imprévisible ou inconnue
+D48.0	tumeur osseuse du crâne, à évolution imprévisible ou inconnue
+D16.4	tumeur bénigne de l'os frontal
+D16.4	tumeur bénigne osseuse frontale
+D48.0	tumeur de l'os frontal, à évolution imprévisible ou inconnue
+D48.0	tumeur osseuse frontale, à évolution imprévisible ou inconnue
+D16.4	tumeur bénigne de l'os pariétal
+D16.4	tumeur bénigne osseuse pariétale
+D48.0	tumeur de l'os pariétal, à évolution imprévisible ou inconnue
+D48.0	tumeur osseuse pariétale, à évolution imprévisible ou inconnue
+D16.4	tumeur bénigne de l'os temporal
+D16.4	tumeur bénigne osseuse temporale
+D48.0	tumeur de l'os temporal, à évolution imprévisible ou inconnue
+D48.0	tumeur osseuse temporale, à évolution imprévisible ou inconnue
+D16.4	tumeur bénigne de l'os occipital
+D16.4	tumeur bénigne osseuse occipitale
+D48.0	tumeur de l'os occipital, à évolution imprévisible ou inconnue
+D48.0	tumeur osseuse occipitale, à évolution imprévisible ou inconnue
+D16.4	tumeur bénigne de l'os sphénoïde
+D16.4	tumeur bénigne osseuse sphénoïdale
+D48.0	tumeur de l'os sphénoïde, à évolution imprévisible ou inconnue
+D48.0	tumeur osseuse sphénoïdale, à évolution imprévisible ou inconnue
+D16.4	tumeur bénigne de l'os ethmoïde
+D16.4	tumeur bénigne osseuse ethmoïdale
+D48.0	tumeur de l'os ethmoïde, à évolution imprévisible ou inconnue
+D48.0	tumeur osseuse ethmoïdale, à évolution imprévisible ou inconnue
+D16.4	tumeur bénigne des os de la face
+D16.4	tumeur bénigne osseuse de la face
+D48.0	tumeur des os de la face, à évolution imprévisible ou inconnue
+D48.0	tumeur osseuse de la face, à évolution imprévisible ou inconnue
+D16.4	tumeur bénigne de l'os malaire
+D16.4	tumeur bénigne de l'os zygomatique
+D48.0	tumeur de l'os malaire, à évolution imprévisible ou inconnue
+D48.0	tumeur de l'os zygomatique, à évolution imprévisible ou inconnue
+D16.4	tumeur bénigne de l'os palatin
+D48.0	tumeur de l'os palatin, à évolution imprévisible ou inconnue
+D16.4	tumeur bénigne de l'os propre du nez
+D48.0	tumeur de l'os propre du nez, à évolution imprévisible ou inconnue
+D16.4	tumeur bénigne de l'os vomer
+D16.4	tumeur bénigne osseuse vomérienne
+D48.0	tumeur de l'os vomer, à évolution imprévisible ou inconnue
+D48.0	tumeur osseuse vomérienne, à évolution imprévisible ou inconnue
+D16.4	tumeur bénigne des os du maxillaire supérieur
+D16.4	tumeur bénigne osseuse du maxillaire supérieur
+D48.0	tumeur des os du maxillaire supérieur, à évolution imprévisible ou inconnue
+D48.0	tumeur osseuse du maxillaire supérieur, à évolution imprévisible ou inconnue
+D16.5	tumeur bénigne de la mandibule
+D16.5	tumeur bénigne mandibulaire
+D16.5	tumeur bénigne du maxillaire inférieur
+D48.0	tumeur de la mandibule, à évolution imprévisible ou inconnue
+D48.0	tumeur du maxillaire inférieur, à évolution imprévisible ou inconnue
+D48.0	tumeur mandibulaire, à évolution imprévisible ou inconnue
+D16.6	tumeur bénigne de la colonne vertébrale
+D16.6	tumeur bénigne du rachis
+D48.0	tumeur de la colonne vertébrale, à évolution imprévisible ou inconnue
+D48.0	tumeur du rachis, à évolution imprévisible ou inconnue
+D48.0	tumeur rachidienne, à évolution imprévisible ou inconnue
+D48.0	tumeur spinale, à évolution imprévisible ou inconnue
+D16.6	tumeur bénigne de la colonne cervicale
+D16.6	tumeur bénigne du rachis cervical
+D48.0	tumeur de la colonne cervicale, à évolution imprévisible ou inconnue
+D48.0	tumeur du rachis cervical, à évolution imprévisible ou inconnue
+D16.6	tumeur bénigne de la colonne dorsale
+D16.6	tumeur bénigne du rachis dorsal
+D48.0	tumeur de la colonne dorsale, à évolution imprévisible ou inconnue
+D48.0	tumeur du rachis dorsal, à évolution imprévisible ou inconnue
+D48.0	tumeur rachidienne dorsale, à évolution imprévisible ou inconnue
+D48.0	tumeur rachidienne thoracique, à évolution imprévisible ou inconnue
+D16.6	tumeur bénigne de la colonne lombaire
+D16.6	tumeur bénigne du rachis lombaire
+D48.0	tumeur de la colonne lombaire, à évolution imprévisible ou inconnue
+D48.0	tumeur du rachis lombaire, à évolution imprévisible ou inconnue
+D16.8	tumeur bénigne du sacrum
+D16.8	tumeur bénigne sacrée
+D48.0	tumeur du sacrum, à évolution imprévisible ou inconnue
+D48.0	tumeur sacrée, à évolution imprévisible ou inconnue
+D16.8	tumeur bénigne du coccyx
+D16.8	tumeur bénigne coccygienne
+D48.0	tumeur du coccyx, à évolution imprévisible ou inconnue
+D48.0	tumeur coccygienne, à évolution imprévisible ou inconnue
+D16.7	tumeur bénigne d'une côte
+D16.7	tumeur bénigne costale
+D48.0	tumeur d'une côte, à évolution imprévisible ou inconnue
+D48.0	tumeur costale, à évolution imprévisible ou inconnue
+D16.7	tumeur bénigne du sternum
+D16.7	tumeur bénigne sternale
+D48.0	tumeur du sternum, à évolution imprévisible ou inconnue
+D48.0	tumeur sternale, à évolution imprévisible ou inconnue
+D16.7	tumeur bénigne de la clavicule
+D16.7	tumeur bénigne claviculaire
+D48.0	tumeur de la clavicule, à évolution imprévisible ou inconnue
+D48.0	tumeur claviculaire, à évolution imprévisible ou inconnue
+D16.8	tumeur bénigne du bassin osseux
+D16.8	tumeur bénigne osseuse pelvienne
+D48.0	tumeur du bassin osseux, à évolution imprévisible ou inconnue
+D48.0	tumeur osseuse pelvienne, à évolution imprévisible ou inconnue
+D16.8	tumeur bénigne de l'ilion
+D48.0	tumeur de l'ilion, à évolution imprévisible ou inconnue
+D16.8	tumeur bénigne de l'ischion
+D48.0	tumeur de l'ischion, à évolution imprévisible ou inconnue
+D16.8	tumeur bénigne du pubis
+D16.8	tumeur bénigne pubienne
+D48.0	tumeur du pubis, à évolution imprévisible ou inconnue
+D48.0	tumeur pubienne, à évolution imprévisible ou inconnue
+D16.0	tumeur bénigne d'un os du membre supérieur
+D16.0	tumeur bénigne osseuse du membre supérieur
+D48.0	tumeur d'un os du membre supérieur, à évolution imprévisible ou inconnue
+D48.0	tumeur osseuse du membre supérieur, à évolution imprévisible ou inconnue
+D16.0	tumeur bénigne de l'omoplate
+D48.0	tumeur de l'omoplate, à évolution imprévisible ou inconnue
+D16.0	tumeur bénigne de l'acromion
+D16.0	tumeur bénigne acromiale
+D48.0	tumeur de l'acromion, à évolution imprévisible ou inconnue
+D48.0	tumeur acromiale, à évolution imprévisible ou inconnue
+D16.0	tumeur bénigne d'un os long du membre supérieur
+D48.0	tumeur d'un os long du membre supérieur, à évolution imprévisible ou inconnue
+D16.0	tumeur bénigne du radius
+D16.0	tumeur bénigne radiale
+D48.0	tumeur du radius, à évolution imprévisible ou inconnue
+D48.0	tumeur radiale, à évolution imprévisible ou inconnue
+D16.0	tumeur bénigne du cubitus
+D16.0	tumeur bénigne cubitale
+D48.0	tumeur du cubitus, à évolution imprévisible ou inconnue
+D48.0	tumeur cubitale, à évolution imprévisible ou inconnue
+D16.1	tumeur bénigne d'un os court du membre supérieur
+D48.0	tumeur d'un os court du membre supérieur, à évolution imprévisible ou inconnue
+D16.1	tumeur bénigne des os du carpe
+D16.1	tumeur bénigne osseuse du carpe
+D48.0	tumeur des os du carpe, à évolution imprévisible ou inconnue
+D48.0	tumeur osseuse du carpe, à évolution imprévisible ou inconnue
+D16.1	tumeur bénigne du scaphoïde de la main
+D16.1	tumeur bénigne de l'os naviculaire de la main
+D48.0	tumeur du scaphoïde de la main, à évolution imprévisible ou inconnue
+D48.0	tumeur de l'os naviculaire de la main, à évolution imprévisible ou inconnue
+D48.0	tumeur scaphoïdienne de la main, à évolution imprévisible ou inconnue
+D16.1	tumeur bénigne de l'os pisiforme
+D48.0	tumeur de l'os pisiforme, à évolution imprévisible ou inconnue
+D16.1	tumeur bénigne de l'os semi-lunaire
+D48.0	tumeur de l'os semi-lunaire, à évolution imprévisible ou inconnue
+D16.1	tumeur bénigne de l'os trapèze
+D16.1	tumeur bénigne du grand multiangulaire
+D48.0	tumeur de l'os trapèze, à évolution imprévisible ou inconnue
+D48.0	tumeur du grand multiangulaire, à évolution imprévisible ou inconnue
+D16.1	tumeur bénigne de l'os trapézoïde
+D48.0	tumeur de l'os trapézoïde, à évolution imprévisible ou inconnue
+D16.1	tumeur bénigne de l'os crochu
+D48.0	tumeur de l'os crochu, à évolution imprévisible ou inconnue
+D16.1	tumeur bénigne d'un métacarpien
+D16.1	tumeur bénigne métacarpienne
+D48.0	tumeur d'un métacarpien, à évolution imprévisible ou inconnue
+D48.0	tumeur métacarpienne, à évolution imprévisible ou inconnue
+D16.1	tumeur bénigne d'une phalange de la main
+D16.1	tumeur bénigne phalangienne de la main
+D48.0	tumeur d'une phalange de la main, à évolution imprévisible ou inconnue
+D48.0	tumeur phalangienne de la main, à évolution imprévisible ou inconnue
+D16.2	tumeur bénigne d'un os du membre inférieur
+D16.2	tumeur bénigne osseuse du membre inférieur
+D48.0	tumeur d'un os du membre inférieur, à évolution imprévisible ou inconnue
+D48.0	tumeur osseuse du membre inférieur, à évolution imprévisible ou inconnue
+D16.2	tumeur bénigne d'un os long du membre inférieur
+D48.0	tumeur d'un os long du membre inférieur, à évolution imprévisible ou inconnue
+D16.2	tumeur bénigne du fémur
+D16.2	tumeur bénigne fémorale
+D48.0	tumeur du fémur, à évolution imprévisible ou inconnue
+D48.0	tumeur fémorale, à évolution imprévisible ou inconnue
+D16.2	tumeur bénigne du péroné
+D16.2	tumeur bénigne péronière
+D48.0	tumeur du péroné, à évolution imprévisible ou inconnue
+D48.0	tumeur péronière, à évolution imprévisible ou inconnue
+D16.2	tumeur bénigne du tibia
+D16.2	tumeur bénigne tibiale
+D48.0	tumeur du tibia, à évolution imprévisible ou inconnue
+D48.0	tumeur tibiale, à évolution imprévisible ou inconnue
+D16.3	tumeur bénigne d'un os court du membre inférieur
+D48.0	tumeur d'un os court du membre inférieur, à évolution imprévisible ou inconnue
+D16.3	tumeur bénigne de la rotule
+D16.3	tumeur bénigne rotulienne
+D48.0	tumeur de la rotule, à évolution imprévisible ou inconnue
+D48.0	tumeur rotulienne, à évolution imprévisible ou inconnue
+D16.3	tumeur bénigne des os du tarse
+D16.3	tumeur bénigne osseuse du tarse
+D48.0	tumeur des os du tarse, à évolution imprévisible ou inconnue
+D48.0	tumeur osseuse du tarse, à évolution imprévisible ou inconnue
+D16.3	tumeur bénigne du calcanéum
+D16.3	tumeur bénigne calcanéenne
+D48.0	tumeur du calcanéum, à évolution imprévisible ou inconnue
+D48.0	tumeur calcanéenne, à évolution imprévisible ou inconnue
+D16.3	tumeur bénigne de l'astragale
+D16.3	tumeur bénigne astragalienne
+D48.0	tumeur de l'astragale, à évolution imprévisible ou inconnue
+D48.0	tumeur astragalienne, à évolution imprévisible ou inconnue
+D16.3	tumeur bénigne du cuboïde
+D48.0	tumeur du cuboïde, à évolution imprévisible ou inconnue
+D16.3	tumeur bénigne de l'os naviculaire du pied
+D48.0	tumeur de l'os naviculaire du pied, à évolution imprévisible ou inconnue
+D16.3	tumeur bénigne du premier cunéiforme
+D48.0	tumeur du premier cunéiforme, à évolution imprévisible ou inconnue
+D16.3	tumeur bénigne du deuxième cunéiforme
+D48.0	tumeur du deuxième cunéiforme, à évolution imprévisible ou inconnue
+D16.3	tumeur bénigne du troisième cunéiforme
+D48.0	tumeur du troisième cunéiforme, à évolution imprévisible ou inconnue
+D16.3	tumeur bénigne d'un métatarsien
+D16.3	tumeur bénigne métatarsienne
+D48.0	tumeur d'un métatarsien, à évolution imprévisible ou inconnue
+D48.0	tumeur métatarsienne, à évolution imprévisible ou inconnue
+D16.3	tumeur bénigne d'une phalange du pied
+D16.3	tumeur bénigne phalangienne du pied
+D48.0	tumeur d'une phalange du pied, à évolution imprévisible ou inconnue
+D48.0	tumeur phalangienne du pied, à évolution imprévisible ou inconnue
+D21.9	tumeur bénigne du tissu conjonctif et des autres tissus mous
+D48.1	tumeur du tissu conjonctif et des autres tissus mous, à évolution imprévisible ou inconnue
+D21.0	tumeur bénigne des tissus mous de la tête
+D48.1	tumeur des tissus mous de la tête, à évolution imprévisible ou inconnue
+D21.0	tumeur bénigne des tissus mous de la face
+D48.1	tumeur des tissus mous de la face, à évolution imprévisible ou inconnue
+D21.0	tumeur bénigne des tissus mous du cou
+D48.1	tumeur des tissus mous du cou, à évolution imprévisible ou inconnue
+D21.1	tumeur bénigne des tissus mous de l'épaule
+D48.1	tumeur des tissus mous de l'épaule, à évolution imprévisible ou inconnue
+D21.1	tumeur bénigne des tissus mous du membre supérieur
+D48.1	tumeur des tissus mous du membre supérieur, à évolution imprévisible ou inconnue
+D21.2	tumeur bénigne des tissus mous de la hanche
+D48.1	tumeur des tissus mous de la hanche, à évolution imprévisible ou inconnue
+D21.2	tumeur bénigne des tissus mous du membre inférieur
+D48.1	tumeur des tissus mous du membre inférieur, à évolution imprévisible ou inconnue
+D21.6	tumeur bénigne des tissus mous du tronc
+D48.1	tumeur des tissus mous du tronc, à évolution imprévisible ou inconnue
+D21.3	tumeur bénigne des tissus mous du thorax
+D48.1	tumeur des tissus mous du thorax, à évolution imprévisible ou inconnue
+D21.3	tumeur bénigne des tissus mous de l'aisselle
+D48.1	tumeur des tissus mous de l'aisselle, à évolution imprévisible ou inconnue
+D21.4	tumeur bénigne des tissus mous de l'abdomen
+D48.1	tumeur des tissus mous de l'abdomen, à évolution imprévisible ou inconnue
+D21.5	tumeur bénigne des tissus mous du bassin
+D48.1	tumeur des tissus mous du bassin, à évolution imprévisible ou inconnue
+D21.6	tumeur bénigne des tissus mous de la fesse
+D48.1	tumeur des tissus mous de la fesse, à évolution imprévisible ou inconnue
+D21.6	tumeur bénigne des tissus mous de la région inguinale
+D21.6	tumeur bénigne des tissus mous inguinaux
+D48.1	tumeur des tissus mous de la région inguinale, à évolution imprévisible ou inconnue
+D48.1	tumeur des tissus mous inguinaux, à évolution imprévisible ou inconnue
+D21.6	tumeur bénigne des tissus mous du périnée
+D21.6	tumeur bénigne des tissus mous périnéaux
+D48.1	tumeur des tissus mous du périnée, à évolution imprévisible ou inconnue
+D48.1	tumeur des tissus mous périnéaux, à évolution imprévisible ou inconnue
+D21.9	tumeur bénigne des muscles
+D21.9	tumeur bénigne musculaire
+D48.1	tumeur des muscles, à évolution imprévisible ou inconnue
+D48.1	tumeur musculaire, à évolution imprévisible ou inconnue
+D21.0	tumeur bénigne d'un muscle de la tête
+D21.0	tumeur bénigne musculaire de la tête
+D48.1	tumeur d'un muscle de la tête, à évolution imprévisible ou inconnue
+D48.1	tumeur musculaire de la tête, à évolution imprévisible ou inconnue
+D21.0	tumeur bénigne d'un muscle de la face
+D21.0	tumeur bénigne musculaire de la face
+D48.1	tumeur d'un muscle de la face, à évolution imprévisible ou inconnue
+D48.1	tumeur musculaire de la face, à évolution imprévisible ou inconnue
+D21.0	tumeur bénigne d'un muscle du cou
+D21.0	tumeur bénigne musculaire du cou
+D48.1	tumeur d'un muscle du cou, à évolution imprévisible ou inconnue
+D48.1	tumeur musculaire du cou, à évolution imprévisible ou inconnue
+D21.1	tumeur bénigne d'un muscle de l'épaule
+D21.1	tumeur bénigne musculaire de l'épaule
+D48.1	tumeur d'un muscle de l'épaule, à évolution imprévisible ou inconnue
+D48.1	tumeur musculaire de l'épaule, à évolution imprévisible ou inconnue
+D21.1	tumeur bénigne d'un muscle du membre supérieur
+D21.1	tumeur bénigne musculaire du membre supérieur
+D48.1	tumeur d'un muscle du membre supérieur, à évolution imprévisible ou inconnue
+D48.1	tumeur musculaire du membre supérieur, à évolution imprévisible ou inconnue
+D21.2	tumeur bénigne d'un muscle de la hanche
+D21.2	tumeur bénigne musculaire de la hanche
+D48.1	tumeur d'un muscle de la hanche, à évolution imprévisible ou inconnue
+D48.1	tumeur musculaire de la hanche, à évolution imprévisible ou inconnue
+D21.2	tumeur bénigne d'un muscle du membre inférieur
+D21.2	tumeur bénigne musculaire du membre inférieur
+D48.1	tumeur d'un muscle du membre inférieur, à évolution imprévisible ou inconnue
+D48.1	tumeur musculaire du membre inférieur, à évolution imprévisible ou inconnue
+D21.6	tumeur bénigne d'un muscle du tronc
+D21.6	tumeur bénigne musculaire du tronc
+D48.1	tumeur d'un muscle du tronc, à évolution imprévisible ou inconnue
+D48.1	tumeur musculaire du tronc, à évolution imprévisible ou inconnue
+D21.3	tumeur bénigne d'un muscle du thorax
+D21.3	tumeur bénigne musculaire du thorax
+D48.1	tumeur d'un muscle du thorax, à évolution imprévisible ou inconnue
+D48.1	tumeur musculaire du thorax, à évolution imprévisible ou inconnue
+D21.4	tumeur bénigne d'un muscle de l'abdomen
+D21.4	tumeur bénigne musculaire de l'abdomen
+D48.1	tumeur d'un muscle de l'abdomen, à évolution imprévisible ou inconnue
+D48.1	tumeur musculaire de l'abdomen, à évolution imprévisible ou inconnue
+D21.5	tumeur bénigne d'un muscle du bassin
+D21.5	tumeur bénigne musculaire du bassin
+D48.1	tumeur d'un muscle du bassin, à évolution imprévisible ou inconnue
+D48.1	tumeur musculaire du bassin, à évolution imprévisible ou inconnue
+D21.6	tumeur bénigne d'un muscle de la fesse
+D21.6	tumeur bénigne musculaire de la fesse
+D48.1	tumeur d'un muscle de la fesse, à évolution imprévisible ou inconnue
+D48.1	tumeur musculaire de la fesse, à évolution imprévisible ou inconnue
+D21.6	tumeur bénigne d'un muscle inguinal
+D21.6	tumeur bénigne musculaire inguinale
+D48.1	tumeur d'un muscle inguinal, à évolution imprévisible ou inconnue
+D48.1	tumeur musculaire inguinale, à évolution imprévisible ou inconnue
+D21.6	tumeur bénigne d'un muscle du périnée
+D21.6	tumeur bénigne musculaire du périnée
+D48.1	tumeur d'un muscle du périnée, à évolution imprévisible ou inconnue
+D48.1	tumeur musculaire du périnée, à évolution imprévisible ou inconnue
+D17.9	lipome de siège non précisé
+D17.0	lipome de la peau et des tissus sous-cutanés de la face
+D17.0	lipome de la peau et des tissus sous-cutanés du cou
+D17.0	lipome de la peau et des tissus sous-cutanés du cuir chevelu
+D17.4	lipome des viscères thoraciques
+D17.4	lipome des organes thoraciques
+D17.5	lipome des viscères abdominaux
+D17.5	lipome des organes abdominaux
+D17.6	lipome du cordon spermatique
+D17.3	lipome de la fesse
+D17.1	lipome de la peau et des tissus sous-cutanés du tronc
+D17.2	lipome de la peau et des tissus sous-cutanés des membres
+D17.7	lipome de siège précisé
+D36.7	tumeur bénigne de la tête
+D48.7	tumeur de la tête, à évolution imprévisible ou inconnue
+D36.7	tumeur bénigne de la face
+D36.7	tumeur bénigne faciale
+D48.7	tumeur de la face, à évolution imprévisible ou inconnue
+D48.7	tumeur faciale, à évolution imprévisible ou inconnue
+D36.7	tumeur bénigne de la joue
+D48.7	tumeur de la joue, à évolution imprévisible ou inconnue
+D36.7	tumeur bénigne de la mâchoire
+D48.7	tumeur de la mâchoire, à évolution imprévisible ou inconnue
+D36.7	tumeur bénigne du cou
+D48.7	tumeur du cou, à évolution imprévisible ou inconnue
+D36.7	tumeur bénigne de la région sus-claviculaire
+D36.7	tumeur bénigne sus-claviculaire
+D48.7	tumeur de la région sus-claviculaire, à évolution imprévisible ou inconnue
+D48.7	tumeur sus-claviculaire, à évolution imprévisible ou inconnue
+D36.7	tumeur bénigne du tronc
+D48.7	tumeur du tronc, à évolution imprévisible ou inconnue
+D15.9	tumeur bénigne des viscères thoraciques
+D15.9	tumeur bénigne des organes thoraciques
+D15.9	tumeur bénigne d'un organe intrathoracique
+D48.7	tumeur des viscères thoraciques, à évolution imprévisible ou inconnue
+D48.7	tumeur des organes thoraciques, à évolution imprévisible ou inconnue
+D36.7	tumeur bénigne de l'aisselle
+D36.7	tumeur bénigne axillaire
+D48.7	tumeur de l'aisselle, à évolution imprévisible ou inconnue
+D48.7	tumeur axillaire, à évolution imprévisible ou inconnue
+D36.7	tumeur bénigne de la paroi thoracique
+D48.7	tumeur de la paroi thoracique, à évolution imprévisible ou inconnue
+D36.7	tumeur bénigne du dos
+D36.7	tumeur bénigne dorsale
+D48.7	tumeur du dos, à évolution imprévisible ou inconnue
+D48.7	tumeur dorsale, à évolution imprévisible ou inconnue
+D36.7	tumeur bénigne du flanc
+D48.7	tumeur du flanc, à évolution imprévisible ou inconnue
+D36.7	tumeur bénigne des viscères abdominaux
+D36.7	tumeur bénigne des organes abdominaux
+D48.7	tumeur des viscères abdominaux, à évolution imprévisible ou inconnue
+D48.7	tumeur des organes abdominaux, à évolution imprévisible ou inconnue
+D36.7	tumeur bénigne du bassin
+D48.7	tumeur du bassin, à évolution imprévisible ou inconnue
+D36.7	tumeur bénigne de la région inguinale
+D36.7	tumeur bénigne inguinale
+D48.7	tumeur de la région inguinale, à évolution imprévisible ou inconnue
+D48.7	tumeur inguinale, à évolution imprévisible ou inconnue
+D36.7	tumeur bénigne de la région présacrée
+D36.7	tumeur bénigne présacrée
+D48.7	tumeur de la région présacrée, à évolution imprévisible ou inconnue
+D48.7	tumeur présacrée, à évolution imprévisible ou inconnue
+D36.7	tumeur bénigne de la région sacro-coccygienne
+D36.7	tumeur bénigne sacro-coccygienne
+D48.7	tumeur de la région sacro-coccygienne, à évolution imprévisible ou inconnue
+D48.7	tumeur sacro-coccygienne, à évolution imprévisible ou inconnue
+D36.7	tumeur bénigne de la cloison recto-vaginale
+D36.7	tumeur bénigne septale recto-vaginale
+D48.7	tumeur de la cloison recto-vaginale, à évolution imprévisible ou inconnue
+D48.7	tumeur septale recto-vaginale, à évolution imprévisible ou inconnue
+D36.7	tumeur bénigne de la cloison recto-vésicale
+D36.7	tumeur bénigne septale recto-vésicale
+D48.7	tumeur de la cloison recto-vésicale, à évolution imprévisible ou inconnue
+D48.7	tumeur septale recto-vésicale, à évolution imprévisible ou inconnue
+D36.7	tumeur bénigne du membre supérieur
+D48.7	tumeur du membre supérieur, à évolution imprévisible ou inconnue
+D36.7	tumeur bénigne de l'épaule
+D48.7	tumeur de l'épaule, à évolution imprévisible ou inconnue
+D36.7	tumeur bénigne du bras
+D48.7	tumeur du bras, à évolution imprévisible ou inconnue
+D36.7	tumeur bénigne de l'avant-bras
+D48.7	tumeur de l'avant-bras, à évolution imprévisible ou inconnue
+D36.7	tumeur bénigne de la main
+D48.7	tumeur de la main, à évolution imprévisible ou inconnue
+D36.7	tumeur bénigne du membre inférieur
+D48.7	tumeur du membre inférieur, à évolution imprévisible ou inconnue
+D36.7	tumeur bénigne de la cuisse
+D48.7	tumeur de la cuisse, à évolution imprévisible ou inconnue
+D36.7	tumeur bénigne de la jambe
+D48.7	tumeur de la jambe, à évolution imprévisible ou inconnue
+D36.7	tumeur bénigne du pied
+D48.7	tumeur du pied, à évolution imprévisible ou inconnue
+D36.9	tumeur bénigne de siège non précisé (clinique)
+D48.9	tumeur à évolution imprévisible ou inconnue, de siège non précisée (clinique)
+D09.9	carcinome in situ de siège non précisé (clinique)
+D09.9	carcinome intra-épithélial de siège non précisé (clinique)
+D76.0	granulome éosinophile pulmonaire
+D14.4	tumeur bénigne de l'appareil respiratoire
+D14.4	tumeur bénigne des voies respiratoires
+D38.6	tumeur de l'appareil respiratoire, à évolution imprévisible ou inconnue
+D38.5	tumeur des voies respiratoires, à évolution imprévisible ou inconnue
+D02.4	carcinome in situ de l'appareil respiratoire
+D02.4	carcinome intra-épithélial des voies respiratoires
+D14.4	tumeur bénigne des voies respiratoires supérieures
+D38.5	tumeur des voies respiratoires supérieures, à évolution imprévisible ou inconnue
+D02.4	carcinome in situ des voies respiratoires supérieures
+D02.4	carcinome intra-épithélial des voies respiratoires supérieures
+D36.7	tumeur bénigne du nez
+D36.7	tumeur bénigne nasale
+D38.5	tumeur du nez, à évolution imprévisible ou inconnue
+D38.5	tumeur nasale, à évolution imprévisible ou inconnue
+D14.0	tumeur bénigne des cavités nasales
+D14.0	tumeur bénigne des fosses nasales
+D38.5	tumeur des cavités nasales, à évolution imprévisible ou inconnue
+D38.5	tumeur des fosses nasales, à évolution imprévisible ou inconnue
+D02.3	carcinome in situ des cavités nasales
+D02.3	carcinome intra-épithélial des fosses nasales
+D14.0	tumeur bénigne du cartilage du nez
+D14.0	tumeur bénigne du cartilage nasal
+D38.5	tumeur du cartilage du nez, à évolution imprévisible ou inconnue
+D38.5	tumeur du cartilage nasal, à évolution imprévisible ou inconnue
+D14.0	tumeur bénigne de la cloison nasale
+D14.0	tumeur bénigne du septum nasal
+D38.5	tumeur de la cloison nasale, à évolution imprévisible ou inconnue
+D38.5	tumeur du septum nasal, à évolution imprévisible ou inconnue
+D14.0	tumeur bénigne du vestibule nasal
+D14.0	tumeur bénigne vestibulaire nasale
+D38.5	tumeur du vestibule nasal, à évolution imprévisible ou inconnue
+D38.5	tumeur vestibulaire nasale, à évolution imprévisible ou inconnue
+D02.3	carcinome in situ du vestibule nasal
+D02.3	carcinome intra-épithélial vestibulaire nasal
+D14.0	tumeur bénigne d'un cornet du nez
+D14.0	tumeur bénigne d'un cornet nasal
+D38.5	tumeur d'un cornet du nez, à évolution imprévisible ou inconnue
+D38.5	tumeur d'un cornet nasal, à évolution imprévisible ou inconnue
+D14.0	tumeur bénigne des sinus de la face
+D14.0	tumeur bénigne des sinus paranasaux
+D38.5	tumeur des sinus de la face, à évolution imprévisible ou inconnue
+D38.5	tumeur des sinus paranasaux, à évolution imprévisible ou inconnue
+D02.3	carcinome in situ des sinus de la face
+D02.3	carcinome intra-épithélial des sinus paranasaux
+D14.0	tumeur bénigne des sinus maxillaires
+D14.0	tumeur bénigne d'un sinus maxillaire
+D38.5	tumeur des sinus maxillaires, à évolution imprévisible ou inconnue
+D38.5	tumeur d'un sinus maxillaire, à évolution imprévisible ou inconnue
+D02.3	carcinome in situ des sinus maxillaires
+D02.3	carcinome intra-épithélial d'un sinus maxillaire
+D14.0	tumeur bénigne des sinus ethmoïdaux
+D14.0	tumeur bénigne d'un sinus ethmoïdal
+D38.5	tumeur des sinus ethmoïdaux, à évolution imprévisible ou inconnue
+D38.5	tumeur d'un sinus ethmoïdal, à évolution imprévisible ou inconnue
+D02.3	carcinome in situ des sinus ethmoïdaux
+D02.3	carcinome intra-épithélial d'un sinus ethmoïdal
+D14.0	tumeur bénigne des sinus frontaux
+D14.0	tumeur bénigne d'un sinus frontal
+D38.5	tumeur des sinus frontaux, à évolution imprévisible ou inconnue
+D38.5	tumeur d'un sinus frontal, à évolution imprévisible ou inconnue
+D02.3	carcinome in situ des sinus frontaux
+D02.3	carcinome intra-épithélial d'un sinus frontal
+D14.0	tumeur bénigne des sinus sphénoïdaux
+D14.0	tumeur bénigne d'un sinus sphénoïdal
+D38.5	tumeur des sinus sphénoïdaux, à évolution imprévisible ou inconnue
+D38.5	tumeur d'un sinus sphénoïdal, à évolution imprévisible ou inconnue
+D02.3	carcinome in situ des sinus sphénoïdaux
+D02.3	carcinome intra-épithélial d'un sinus sphénoïdal
+D10.6	tumeur bénigne du nasopharynx
+D10.6	tumeur bénigne du rhinopharynx
+D37.0	tumeur du nasopharynx, à évolution imprévisible ou inconnue
+D37.0	tumeur du rhinopharynx, à évolution imprévisible ou inconnue
+D00.0	carcinome in situ du nasopharynx
+D00.0	carcinome intra-épithélial du nasopharynx
+D00.0	carcinome intra-épithélial du rhinopharynx
+D00.0	carcinome in situ du rhinopharynx
+D10.6	tumeur bénigne de la paroi supérieure du nasopharynx
+D10.6	tumeur bénigne de la paroi supérieure du rhinopharynx
+D37.0	tumeur de la paroi supérieure du nasopharynx, à évolution imprévisible ou inconnue
+D37.0	tumeur de la paroi supérieure du rhinopharynx, à évolution imprévisible ou inconnue
+D00.0	carcinome in situ de la paroi supérieure du nasopharynx
+D00.0	carcinome intra-épithélial de la paroi supérieure du rhinopharynx
+D10.6	tumeur bénigne de la paroi postérieure du nasopharynx
+D10.6	tumeur bénigne de la paroi postérieure du rhinopharynx
+D37.0	tumeur de la paroi postérieure du nasopharynx, à évolution imprévisible ou inconnue
+D37.0	tumeur de la paroi postérieure du rhinopharynx, à évolution imprévisible ou inconnue
+D00.0	carcinome in situ de la paroi postérieure du nasopharynx
+D00.0	carcinome intra-épithélial de la paroi postérieure du rhinopharynx
+D10.6	tumeur bénigne de la paroi latérale du nasopharynx
+D10.6	tumeur bénigne de la paroi latérale du rhinopharynx
+D37.0	tumeur de la paroi latérale du nasopharynx, à évolution imprévisible ou inconnue
+D37.0	tumeur de la paroi latérale du rhinopharynx, à évolution imprévisible ou inconnue
+D00.0	carcinome in situ de la paroi latérale du nasopharynx
+D00.0	carcinome intra-épithélial de la paroi latérale du rhinopharynx
+D10.6	tumeur bénigne de la paroi antérieure du nasopharynx
+D10.6	tumeur bénigne de la paroi antérieure du rhinopharynx
+D37.0	tumeur de la paroi antérieure du nasopharynx, à évolution imprévisible ou inconnue
+D37.0	tumeur de la paroi antérieure du rhinopharynx, à évolution imprévisible ou inconnue
+D00.0	carcinome in situ de la paroi antérieure du nasopharynx
+D00.0	carcinome intra-épithélial de la paroi antérieure du rhinopharynx
+D10.9	tumeur bénigne du pharynx
+D10.9	tumeur bénigne pharyngée
+D37.0	tumeur du pharynx, à évolution imprévisible ou inconnue
+D37.0	tumeur pharyngée, à évolution imprévisible ou inconnue
+D00.0	carcinome in situ du pharynx
+D00.0	carcinome intra-épithélial pharyngé
+D10.7	tumeur bénigne de l'hypopharynx
+D10.7	tumeur bénigne hypopharyngée
+D37.0	tumeur de l'hypopharynx, à évolution imprévisible ou inconnue
+D37.0	tumeur hypopharyngée, à évolution imprévisible ou inconnue
+D00.0	carcinome in situ de l'hypopharynx
+D00.0	carcinome intra-épithélial hypopharyngé
+D10.7	tumeur bénigne de la région crico-pharyngienne
+D10.7	tumeur bénigne crico-pharyngienne
+D10.7	tumeur bénigne de la région rétro-cricoïdienne
+D37.0	tumeur de la région crico-pharyngienne, à évolution imprévisible ou inconnue
+D37.0	tumeur de la région rétro-cricoïdienne, à évolution imprévisible ou inconnue
+D37.0	tumeur crico-pharyngienne, à évolution imprévisible ou inconnue
+D00.0	carcinome in situ de la région crico-pharyngienne
+D00.0	carcinome intra-épithélial de la région crico-pharyngienne
+D00.0	carcinome intra-épithélial de la région rétro-cricoïdienne
+D10.7	tumeur bénigne du sinus piriforme
+D37.0	tumeur du sinus piriforme, à évolution imprévisible ou inconnue
+D00.0	carcinome in situ du sinus piriforme
+D00.0	carcinome intra-épithélial du sinus piriforme
+D10.7	tumeur bénigne de la face hypopharyngée du repli aryténo-épiglottique
+D10.7	tumeur bénigne du versant hypopharyngé du repli ary-épiglottique
+D37.0	tumeur de la face hypopharyngée du repli aryténo-épiglottique, à évolution imprévisible ou inconnue
+D37.0	tumeur du versant hypopharyngé du repli ary-épiglottique, à évolution imprévisible ou inconnue
+D00.0	carcinome in situ de la face hypopharyngée du repli aryténo-épiglottique
+D00.0	carcinome intra-épithélial du versant hypopharyngé du repli ary-épiglottique
+D10.7	tumeur bénigne de la face hypopharyngée du repli inter-aryténoïdien
+D37.0	tumeur de la face hypopharyngée du repli inter-aryténoïdien, à évolution imprévisible ou inconnue
+D00.0	carcinome in situ de la face hypopharyngée du repli inter-aryténoïdien
+D00.0	carcinome intra-épithélial de la face hypopharyngée du repli inter-aryténoïdien
+D10.7	tumeur bénigne de la paroi postérieure de l'hypopharynx
+D37.0	tumeur de la paroi postérieure de l'hypopharynx, à évolution imprévisible ou inconnue
+D00.0	carcinome in situ de la paroi postérieure de l'hypopharynx
+D00.0	carcinome intra-épithélial de la paroi postérieure de l'hypopharynx
+D14.1	tumeur bénigne du larynx
+D14.1	tumeur bénigne laryngée
+D38.0	tumeur du larynx, à évolution imprévisible ou inconnue
+D38.0	tumeur laryngée, à évolution imprévisible ou inconnue
+D02.0	carcinome in situ du larynx
+D02.0	carcinome intra-épithélial laryngé
+D14.1	tumeur bénigne de la glotte
+D14.1	tumeur bénigne glottique
+D38.0	tumeur de la glotte, à évolution imprévisible ou inconnue
+D38.0	tumeur glottique, à évolution imprévisible ou inconnue
+D02.0	carcinome in situ de la glotte
+D02.0	carcinome intra-épithélial glottique
+D14.1	tumeur bénigne de la commissure du larynx
+D14.1	tumeur bénigne de la commissure laryngée
+D38.0	tumeur de la commissure du larynx, à évolution imprévisible ou inconnue
+D38.0	tumeur de la commissure laryngée, à évolution imprévisible ou inconnue
+D02.0	carcinome in situ de la commissure du larynx
+D02.0	carcinome intra-épithélial de la commissure laryngée
+D14.1	tumeur bénigne des cordes vocales vraies
+D38.0	tumeur des cordes vocales vraies, à évolution imprévisible ou inconnue
+D02.0	carcinome in situ des cordes vocales vraies
+D02.0	carcinome intra-épithélial des cordes vocales vraies
+D14.1	tumeur bénigne de l'étage sous-glottique
+D14.1	tumeur bénigne sous-glottique
+D38.0	tumeur de l'étage sous-glottique, à évolution imprévisible ou inconnue
+D38.0	tumeur sous-glottique, à évolution imprévisible ou inconnue
+D02.0	carcinome in situ de l'étage sous-glottique
+D02.0	carcinome intra-épithélial sous-glottique
+D14.1	tumeur bénigne de l'étage sus-glottique
+D14.1	tumeur bénigne sus-glottique
+D38.0	tumeur de l'étage sus-glottique, à évolution imprévisible ou inconnue
+D38.0	tumeur sus-glottique, à évolution imprévisible ou inconnue
+D02.0	carcinome in situ de l'étage sus-glottique
+D02.0	carcinome intra-épithélial sus-glottique
+D14.1	tumeur bénigne des fausses cordes vocales
+D14.1	tumeur bénigne des bandes ventriculaires du larynx
+D38.0	tumeur des fausses cordes vocales, à évolution imprévisible ou inconnue
+D38.0	tumeur des bandes ventriculaires du larynx, à évolution imprévisible ou inconnue
+D02.0	carcinome in situ des fausses cordes vocales
+D02.0	carcinome intra-épithélial des fausses cordes vocales
+D02.0	carcinome intra-épithélial des bandes ventriculaires du larynx
+D02.0	carcinome in situ des bandes ventriculaires du larynx
+D14.1	tumeur bénigne de l'épiglotte
+D14.1	tumeur bénigne épiglottique
+D38.0	tumeur de l'épiglotte, à évolution imprévisible ou inconnue
+D38.0	tumeur épiglottique, à évolution imprévisible ou inconnue
+D02.0	carcinome in situ de l'épiglotte
+D02.0	carcinome intra-épithélial épiglottique
+D14.1	tumeur bénigne de la face laryngée de l'épiglotte
+D38.0	tumeur de la face laryngée de l'épiglotte, à évolution imprévisible ou inconnue
+D02.0	carcinome in situ de la face laryngée de l'épiglotte
+D02.0	carcinome intra-épithélial de la face laryngée de l'épiglotte
+D14.1	tumeur bénigne de la face laryngée du repli aryténo-épiglottique
+D14.1	tumeur bénigne du versant laryngé du repli ary-épiglottique
+D38.0	tumeur de la face laryngée du repli aryténo-épiglottique, à évolution imprévisible ou inconnue
+D38.0	tumeur du versant laryngé du repli ary-épiglottique, à évolution imprévisible ou inconnue
+D02.0	carcinome in situ de la face laryngée du repli aryténo-épiglottique
+D02.0	carcinome intra-épithélial du versant laryngé du repli ary-épiglottique
+D14.1	tumeur bénigne de la face laryngée du repli inter-aryténoïdien
+D38.0	tumeur de la face laryngée du repli inter-aryténoïdien, à évolution imprévisible ou inconnue
+D02.0	carcinome in situ de la face laryngée du repli inter-aryténoïdien
+D02.0	carcinome intra-épithélial de la face laryngée du repli inter-aryténoïdien
+D14.2	tumeur bénigne de la trachée
+D14.2	tumeur bénigne trachéale
+D38.1	tumeur de la trachée, à évolution imprévisible ou inconnue
+D38.1	tumeur trachéale, à évolution imprévisible ou inconnue
+D02.1	carcinome in situ de la trachée
+D02.1	carcinome intra-épithélial trachéal
+D14.3	tumeur bénigne de l'éperon trachéal
+D38.1	tumeur de l'éperon trachéal, à évolution imprévisible ou inconnue
+D02.2	carcinome in situ de l'éperon trachéal
+D02.2	carcinome intra-épithélial de l'éperon trachéal
+D14.3	tumeur bénigne des bronches
+D14.3	tumeur bénigne bronchique
+D38.1	tumeur des bronches, à évolution imprévisible ou inconnue
+D38.1	tumeur bronchique, à évolution imprévisible ou inconnue
+D02.2	carcinome in situ des bronches
+D02.2	carcinome intra-épithélial bronchique
+D14.3	tumeur bénigne de la bronche souche
+D38.1	tumeur de la bronche souche, à évolution imprévisible ou inconnue
+D02.2	carcinome in situ de la bronche souche
+D02.2	carcinome intra-épithélial de la bronche souche
+D14.3	tumeur bénigne du hile du poumon
+D14.3	tumeur bénigne du hile pulmonaire
+D38.1	tumeur du hile du poumon, à évolution imprévisible ou inconnue
+D38.1	tumeur du hile pulmonaire, à évolution imprévisible ou inconnue
+D02.2	carcinome in situ du hile du poumon
+D02.2	carcinome intra-épithélial du hile pulmonaire
+D14.3	tumeur bénigne de la bronche lobaire supérieure droite
+D14.3	tumeur bénigne bronchique lobaire supérieure droite
+D38.1	tumeur de la bronche lobaire supérieure droite, à évolution imprévisible ou inconnue
+D38.1	tumeur bronchique lobaire supérieure droite, à évolution imprévisible ou inconnue
+D02.2	carcinome in situ de la bronche lobaire supérieure droite
+D02.2	carcinome intra-épithélial bronchique lobaire supérieur droit
+D14.3	tumeur bénigne de la bronche lobaire supérieure gauche
+D14.3	tumeur bénigne bronchique lobaire supérieure gauche
+D38.1	tumeur de la bronche lobaire supérieure gauche, à évolution imprévisible ou inconnue
+D38.1	tumeur bronchique lobaire supérieure gauche, à évolution imprévisible ou inconnue
+D02.2	carcinome in situ de la bronche lobaire supérieure gauche
+D02.2	carcinome intra-épithélial bronchique lobaire supérieur gauche
+D14.3	tumeur bénigne de la bronche lobaire moyenne droite
+D14.3	tumeur bénigne bronchique lobaire moyenne droite
+D38.1	tumeur de la bronche lobaire moyenne droite, à évolution imprévisible ou inconnue
+D38.1	tumeur bronchique lobaire moyenne droite, à évolution imprévisible ou inconnue
+D02.2	carcinome in situ de la bronche lobaire moyenne droite
+D02.2	carcinome intra-épithélial bronchique lobaire moyen droit
+D14.3	tumeur bénigne de la bronche lobaire inférieure droite
+D14.3	tumeur bénigne bronchique lobaire inférieure droite
+D38.1	tumeur de la bronche lobaire inférieure droite, à évolution imprévisible ou inconnue
+D38.1	tumeur bronchique lobaire inférieure droite, à évolution imprévisible ou inconnue
+D02.2	carcinome in situ de la bronche lobaire inférieure droite
+D02.2	carcinome intra-épithélial bronchique lobaire inférieur droit
+D14.3	tumeur bénigne de la bronche lobaire inférieure gauche
+D14.3	tumeur bénigne bronchique lobaire inférieure gauche
+D38.1	tumeur de la bronche lobaire inférieure gauche, à évolution imprévisible ou inconnue
+D38.1	tumeur bronchique lobaire inférieure gauche, à évolution imprévisible ou inconnue
+D02.2	carcinome in situ de la bronche lobaire inférieure gauche
+D02.2	carcinome intra-épithélial bronchique lobaire inférieur gauche
+D14.3	tumeur bénigne du poumon
+D14.3	tumeur bénigne pulmonaire
+D38.1	tumeur du poumon, à évolution imprévisible ou inconnue
+D38.1	tumeur pulmonaire, à évolution imprévisible ou inconnue
+D02.2	carcinome in situ du poumon
+D02.2	carcinome intra-épithélial pulmonaire
+D14.3	tumeur bénigne du lobe supérieur du poumon droit
+D38.1	tumeur du lobe supérieur du poumon droit, à évolution imprévisible ou inconnue
+D02.2	carcinome in situ du lobe supérieur du poumon droit
+D02.2	carcinome intra-épithélial du lobe supérieur du poumon droit
+D14.3	tumeur bénigne du lobe moyen du poumon droit
+D38.1	tumeur du lobe moyen du poumon droit, à évolution imprévisible ou inconnue
+D02.2	carcinome in situ du lobe moyen du poumon droit
+D02.2	carcinome intra-épithélial du lobe moyen du poumon droit
+D14.3	tumeur bénigne du lobe inférieur du poumon droit
+D38.1	tumeur du lobe inférieur du poumon droit, à évolution imprévisible ou inconnue
+D02.2	carcinome in situ du lobe inférieur du poumon droit
+D02.2	carcinome intra-épithélial du lobe inférieur du poumon droit
+D14.3	tumeur bénigne du lobe supérieur du poumon gauche
+D38.1	tumeur du lobe supérieur du poumon gauche, à évolution imprévisible ou inconnue
+D02.2	carcinome in situ du lobe supérieur du poumon gauche
+D02.2	carcinome intra-épithélial du lobe supérieur du poumon gauche
+D14.3	tumeur bénigne du lobe inférieur du poumon gauche
+D38.1	tumeur du lobe inférieur du poumon gauche, à évolution imprévisible ou inconnue
+D02.2	carcinome in situ du lobe inférieur du poumon gauche
+D02.2	carcinome intra-épithélial du lobe inférieur du poumon gauche
+D15.7	tumeur bénigne de la plèvre
+D15.7	tumeur bénigne pleurale
+D38.2	tumeur de la plèvre, à évolution imprévisible ou inconnue
+D38.2	tumeur pleurale, à évolution imprévisible ou inconnue
+D09.7	carcinome in situ de la plèvre
+D09.7	carcinome intra-épithélial pleural
+D15.7	tumeur bénigne de la plèvre pariétale
+D38.2	tumeur de la plèvre pariétale, à évolution imprévisible ou inconnue
+D09.7	carcinome in situ de la plèvre pariétale
+D09.7	carcinome intra-épithélial de la plèvre pariétale
+D15.7	tumeur bénigne de la plèvre viscérale
+D38.2	tumeur de la plèvre viscérale, à évolution imprévisible ou inconnue
+D09.7	carcinome in situ de la plèvre viscérale
+D09.7	carcinome intra-épithélial de la plèvre viscérale
+D19.0	tumeur bénigne du tissu mésothélial de la plèvre
+D19.7	tumeur bénigne du tissu mésothélial d'autres sièges
+D19.7	tumeur bénigne du tissu mésothélial de siège précisé
+D19.9	tumeur bénigne du tissu mésothélial de siège non précisé
+D15.2	tumeur bénigne du médiastin
+D15.2	tumeur bénigne médiastinale
+D38.3	tumeur du médiastin, à évolution imprévisible ou inconnue
+D38.3	tumeur médiastinale, à évolution imprévisible ou inconnue
+D15.2	tumeur bénigne du médiastin antérieur
+D15.2	tumeur bénigne médiastinale antérieure
+D38.3	tumeur du médiastin antérieur, à évolution imprévisible ou inconnue
+D38.3	tumeur médiastinale antérieure, à évolution imprévisible ou inconnue
+D15.2	tumeur bénigne du médiastin postérieur
+D15.2	tumeur bénigne médiastinale postérieure
+D38.3	tumeur du médiastin postérieur, à évolution imprévisible ou inconnue
+D38.3	tumeur médiastinale postérieure, à évolution imprévisible ou inconnue
+D21.3	tumeur bénigne du diaphragme
+D21.3	tumeur bénigne diaphragmatique
+D48.1	tumeur du diaphragme, à évolution imprévisible ou inconnue
+D48.1	tumeur diaphragmatique, à évolution imprévisible ou inconnue
+D18.0	tête de Méduse
+D15.1	tumeur bénigne du coeur
+D48.7	tumeur du coeur, à évolution imprévisible ou inconnue
+D15.1	tumeur bénigne de l'endocarde
+D15.1	tumeur bénigne endocardique
+D48.7	tumeur de l'endocarde, à évolution imprévisible ou inconnue
+D48.7	tumeur endocardique, à évolution imprévisible ou inconnue
+D15.1	tumeur bénigne du myocarde
+D15.1	tumeur bénigne myocardique
+D48.7	tumeur du myocarde, à évolution imprévisible ou inconnue
+D48.7	tumeur myocardique, à évolution imprévisible ou inconnue
+D15.1	tumeur bénigne de l'épicarde
+D15.1	tumeur bénigne épicardique
+D48.7	tumeur de l'épicarde, à évolution imprévisible ou inconnue
+D48.7	tumeur épicardique, à évolution imprévisible ou inconnue
+D15.1	tumeur bénigne du péricarde
+D15.1	tumeur bénigne péricardique
+D48.7	tumeur du péricarde, à évolution imprévisible ou inconnue
+D48.7	tumeur péricardique, à évolution imprévisible ou inconnue
+D19.7	tumeur bénigne du tissu mésothélial du péricarde
+D21.9	tumeur bénigne des vaisseaux sanguins
+D21.9	tumeur bénigne vasculaire sanguine
+D48.1	tumeur des vaisseaux sanguins, à évolution imprévisible ou inconnue
+D48.1	tumeur vasculaire sanguine, à évolution imprévisible ou inconnue
+D21.3	tumeur bénigne des gros vaisseaux de la base du coeur
+D48.1	tumeur des gros vaisseaux de la base du coeur, à évolution imprévisible ou inconnue
+D21.0	tumeur bénigne des vaisseaux sanguins de la tête
+D21.0	tumeur bénigne des vaisseaux sanguins de la face
+D21.0	tumeur bénigne des vaisseaux sanguins du cou
+D21.1	tumeur bénigne des vaisseaux sanguins du membre supérieur
+D21.1	tumeur bénigne des vaisseaux sanguins de l'épaule
+D21.1	tumeur bénigne des vaisseaux sanguins du bras
+D21.1	tumeur bénigne des vaisseaux sanguins de l'avant-bras
+D21.1	tumeur bénigne des vaisseaux sanguins de la main
+D21.1	tumeur bénigne des vaisseaux sanguins des doigts
+D21.2	tumeur bénigne des vaisseaux sanguins du membre inférieur
+D21.2	tumeur bénigne des vaisseaux sanguins de la hanche
+D21.2	tumeur bénigne des vaisseaux sanguins de la cuisse
+D21.2	tumeur bénigne des vaisseaux sanguins du triangle poplité
+D21.2	tumeur bénigne des vaisseaux sanguins de la jambe
+D21.2	tumeur bénigne des vaisseaux sanguins du pied
+D21.2	tumeur bénigne des vaisseaux sanguins des orteils
+D21.6	tumeur bénigne des vaisseaux sanguins du tronc
+D21.3	tumeur bénigne des vaisseaux sanguins du thorax
+D21.3	tumeur bénigne des vaisseaux sanguins de l'aisselle
+D21.4	tumeur bénigne des vaisseaux sanguins de l'abdomen
+D21.5	tumeur bénigne des vaisseaux sanguins du bassin
+D21.6	tumeur bénigne des vaisseaux sanguins de la fesse
+D21.6	tumeur bénigne des vaisseaux sanguins de la région inguinale
+D21.6	tumeur bénigne des vaisseaux sanguins inguinaux
+D21.6	tumeur bénigne des vaisseaux sanguins du périnée
+D21.6	tumeur bénigne des vaisseaux sanguins périnéaux
+D18.0	hémangiome de siège non précisé
+D18.0	hémangiome de la peau
+D18.0	hémangiome cutané
+D18.0	hémangiome des tissus sous-cutanés
+D18.0	hémangiome de la cavité crânienne
+D18.0	hémangiome de la rétine
+D18.0	hémangiome rétinien
+D18.0	hémangiome de la cavité abdominale
+D18.0	hémangiome de la rate
+D18.0	hémangiome splénique
+D18.0	hémangiome du foie
+D18.0	hémangiome hépatique
+D18.1	lymphangiome de siège non précisé
+D12.6	polypose intestinale diffuse
+D12.6	adénomatose essentielle du gros intestin
+D12.6	polypes juvéniles du gros intestin
+D12.6	syndrome de Gardner
+D12.6	syndrome de Turcot
+D82.1	syndrome de Di George
+D82.1	syndrome d'hypoplasie thymique
+D82.1	syndrome des 3ième et 4ième arcs branchiaux
+D82.1	agénésie du thymus et des glandes parathyroïdes
+D82.1	syndrome des 3ième et 4ième poches branchiales
+D82.1	aplasies thymique et parathyroïdienne
+D13.1	polype adénomateux hyperplasique de l'estomac
+D13.1	polype hyperplasique de l'estomac
+D13.1	polypose gastrique
+D13.1	polypes gastriques multiples
+D12.6	polypose rectocolique non familiale
+D12.6	polypose rectocolique familiale
+D13.9	syndrome de Cronkhite-Canada
+D13.5	adénomyome de la vésicule biliaire
+D13.9	tumeur bénigne du tube digestif
+D13.9	tumeur bénigne des voies digestives
+D37.9	tumeur du tube digestif, à évolution imprévisible ou inconnue
+D37.9	tumeur des voies digestives, à évolution imprévisible ou inconnue
+D01.9	carcinome in situ du tube digestif
+D01.9	carcinome intra-épithélial des voies digestives
+D13.9	tumeur bénigne de l'intestin
+D13.9	tumeur bénigne intestinale
+D37.7	tumeur de l'intestin, à évolution imprévisible ou inconnue
+D37.7	tumeur intestinale, à évolution imprévisible ou inconnue
+D01.4	carcinome in situ de l'intestin
+D01.4	carcinome intra-épithélial intestinal
+D10.0	tumeur bénigne de la lèvre
+D10.0	tumeur bénigne labiale
+D37.0	tumeur de la lèvre, à évolution imprévisible ou inconnue
+D37.0	tumeur labiale, à évolution imprévisible ou inconnue
+D00.0	carcinome in situ de la lèvre
+D00.0	carcinome intra-épithélial labial
+D10.0	tumeur bénigne du vermillon des lèvres
+D10.0	tumeur bénigne du bord libre des lèvres
+D10.0	tumeur bénigne du vermillon labial
+D37.0	tumeur du vermillon des lèvres, à évolution imprévisible ou inconnue
+D37.0	tumeur du bord libre des lèvres, à évolution imprévisible ou inconnue
+D37.0	tumeur du vermillon labial, à évolution imprévisible ou inconnue
+D00.0	carcinome in situ du vermillon des lèvres
+D00.0	carcinome intra-épithélial du bord libre des lèvres
+D00.0	carcinome intra-épithélial du vermillon labial
+D10.0	tumeur bénigne du vermillon de la lèvre supérieure
+D10.0	tumeur bénigne du bord libre de la lèvre supérieure
+D10.0	tumeur bénigne du vermillon labial supérieur
+D37.0	tumeur du vermillon de la lèvre supérieure, à évolution imprévisible ou inconnue
+D37.0	tumeur du bord libre de la lèvre supérieure, à évolution imprévisible ou inconnue
+D37.0	tumeur du vermillon labial supérieur, à évolution imprévisible ou inconnue
+D00.0	carcinome in situ du vermillon de la lèvre supérieure
+D00.0	carcinome intra-épithélial du bord libre de la lèvre supérieure
+D00.0	carcinome intra-épithélial du vermillon labial supérieur
+D10.0	tumeur bénigne du vermillon de la lèvre inférieure
+D10.0	tumeur bénigne du bord libre de la lèvre inférieure
+D10.0	tumeur bénigne du vermillon labial inférieur
+D37.0	tumeur du vermillon de la lèvre inférieure, à évolution imprévisible ou inconnue
+D37.0	tumeur du bord libre de la lèvre inférieure, à évolution imprévisible ou inconnue
+D37.0	tumeur du vermillon labial inférieur, à évolution imprévisible ou inconnue
+D00.0	carcinome in situ du vermillon de la lèvre inférieure
+D00.0	carcinome intra-épithélial du bord libre de la lèvre inférieure
+D00.0	carcinome intra-épithélial du vermillon labial inférieur
+D10.0	tumeur bénigne de la face interne des lèvres
+D37.0	tumeur de la face interne des lèvres, à évolution imprévisible ou inconnue
+D00.0	carcinome in situ de la face interne des lèvres
+D00.0	carcinome intra-épithélial de la face interne des lèvres
+D10.0	tumeur bénigne de la face interne de la lèvre supérieure
+D37.0	tumeur de la face interne de la lèvre supérieure, à évolution imprévisible ou inconnue
+D00.0	carcinome in situ de la face interne de la lèvre supérieure
+D00.0	carcinome intra-épithélial de la face interne de la lèvre supérieure
+D10.0	tumeur bénigne de la face interne de la lèvre inférieure
+D37.0	tumeur de la face interne de la lèvre inférieure, à évolution imprévisible ou inconnue
+D00.0	carcinome in situ de la face interne de la lèvre inférieure
+D00.0	carcinome intra-épithélial de la face interne de la lèvre inférieure
+D10.0	tumeur bénigne de la commissure des lèvres
+D10.0	tumeur bénigne de la commissure labiale
+D37.0	tumeur de la commissure des lèvres, à évolution imprévisible ou inconnue
+D37.0	tumeur de la commissure labiale, à évolution imprévisible ou inconnue
+D00.0	carcinome in situ de la commissure des lèvres
+D00.0	carcinome intra-épithélial de la commissure labiale
+D10.1	tumeur bénigne de la langue
+D10.1	tumeur bénigne linguale
+D37.0	tumeur de la langue, à évolution imprévisible ou inconnue
+D37.0	tumeur linguale, à évolution imprévisible ou inconnue
+D00.0	carcinome in situ de la langue
+D00.0	carcinome intra-épithélial lingual
+D10.1	tumeur bénigne de la base de la langue
+D37.0	tumeur de la base de la langue, à évolution imprévisible ou inconnue
+D00.0	carcinome in situ de la base de la langue
+D00.0	carcinome intra-épithélial de la base de la langue
+D10.1	tumeur bénigne du dos de la langue
+D10.1	tumeur bénigne de la face dorsale de la langue
+D37.0	tumeur du dos de la langue, à évolution imprévisible ou inconnue
+D37.0	tumeur de la face dorsale de la langue, à évolution imprévisible ou inconnue
+D00.0	carcinome in situ du dos de la langue
+D00.0	carcinome intra-épithélial de la face dorsale de la langue
+D10.1	tumeur bénigne de la pointe et du bord externe de la langue
+D10.1	tumeur bénigne de la pointe et du bord latéral de la langue
+D37.0	tumeur de la pointe et du bord externe de la langue, à évolution imprévisible ou inconnue
+D37.0	tumeur de la pointe et du bord latéral de la langue, à évolution imprévisible ou inconnue
+D00.0	carcinome in situ de la pointe et du bord externe de la langue
+D00.0	carcinome intra-épithélial de la pointe et du bord latéral de la langue
+D10.1	tumeur bénigne de la face ventrale de la langue
+D10.1	tumeur bénigne de la face inférieure de la langue
+D37.0	tumeur de la face ventrale de la langue, à évolution imprévisible ou inconnue
+D37.0	tumeur de la face inférieure de la langue, à évolution imprévisible ou inconnue
+D00.0	carcinome in situ de la face ventrale de la langue
+D00.0	carcinome intra-épithélial de la face inférieure de la langue
+D10.1	tumeur bénigne des deux tiers antérieurs de la langue
+D37.0	tumeur des deux tiers antérieurs de la langue, à évolution imprévisible ou inconnue
+D00.0	carcinome in situ des deux tiers antérieurs de la langue
+D00.0	carcinome intra-épithélial des deux tiers antérieurs de la langue
+D10.1	tumeur bénigne de la zone de jonction de la base de la langue
+D37.0	tumeur de la zone de jonction de la base de la langue, à évolution imprévisible ou inconnue
+D00.0	carcinome in situ de la zone de jonction de la base de la langue
+D00.0	carcinome intra-épithélial de la zone de jonction de la base de la langue
+D11.9	tumeur bénigne des glandes salivaires
+D37.0	tumeur des glandes salivaires, à évolution imprévisible ou inconnue
+D00.0	carcinome in situ des glandes salivaires
+D00.0	carcinome intra-épithélial des glandes salivaires
+D11.0	tumeur bénigne de la glande parotide
+D37.0	tumeur de la glande parotide, à évolution imprévisible ou inconnue
+D00.0	carcinome in situ de la glande parotide
+D00.0	carcinome intra-épithélial de la glande parotide
+D11.7	tumeur bénigne de la glande sous-maxillaire
+D37.0	tumeur de la glande sous-maxillaire, à évolution imprévisible ou inconnue
+D00.0	carcinome in situ de la glande sous-maxillaire
+D00.0	carcinome intra-épithélial de la glande sous-maxillaire
+D11.7	tumeur bénigne de la glande sublinguale
+D37.0	tumeur de la glande sublinguale, à évolution imprévisible ou inconnue
+D00.0	carcinome in situ de la glande sublinguale
+D00.0	carcinome intra-épithélial de la glande sublinguale
+D11.9	tumeur bénigne du canal d'une glande salivaire
+D37.0	tumeur du canal d'une glande salivaire, à évolution imprévisible ou inconnue
+D00.0	carcinome in situ du canal d'une glande salivaire
+D00.0	carcinome intra-épithélial du canal d'une glande salivaire
+D10.3	tumeur bénigne des gengives
+D10.3	tumeur bénigne gingivale
+D37.0	tumeur des gencives, à évolution imprévisible ou inconnue
+D37.0	tumeur gingivale, à évolution imprévisible ou inconnue
+D00.0	carcinome in situ des gencives
+D00.0	carcinome intra-épithélial gingival
+D10.3	tumeur bénigne de la gencive supérieure
+D10.3	tumeur bénigne gingivale supérieure
+D37.0	tumeur de la gencive supérieure, à évolution imprévisible ou inconnue
+D37.0	tumeur gingivale supérieure, à évolution imprévisible ou inconnue
+D00.0	carcinome in situ de la gencive supérieure
+D00.0	carcinome intra-épithélial gingival supérieur
+D10.3	tumeur bénigne de la gencive inférieure
+D10.3	tumeur bénigne gingivale inférieure
+D37.0	tumeur de la gencive inférieure, à évolution imprévisible ou inconnue
+D37.0	tumeur gingivale inférieure, à évolution imprévisible ou inconnue
+D00.0	carcinome in situ de la gencive inférieure
+D00.0	carcinome intra-épithélial gingival inférieur
+D10.3	tumeur bénigne de la muqueuse gingivale
+D37.0	tumeur de la muqueuse gingivale, à évolution imprévisible ou inconnue
+D00.0	carcinome in situ de la muqueuse gingivale
+D00.0	carcinome intra-épithélial de la muqueuse gingivale
+D10.3	tumeur bénigne de la muqueuse de la crête alvéolaire
+D37.0	tumeur de la muqueuse de la crête alvéolaire, à évolution imprévisible ou inconnue
+D00.0	carcinome in situ de la muqueuse de la crête alvéolaire
+D00.0	carcinome intra-épithélial de la muqueuse de la crête alvéolaire
+D10.3	tumeur bénigne de la bouche
+D10.3	tumeur bénigne buccale
+D37.0	tumeur de la bouche, à évolution imprévisible ou inconnue
+D37.0	tumeur buccale, à évolution imprévisible ou inconnue
+D00.0	carcinome in situ de la bouche
+D00.0	carcinome intra-épithélial buccal
+D10.3	tumeur bénigne des glandes salivaires accessoires
+D10.3	tumeur bénigne des petites glandes salivaires
+D37.0	tumeur des glandes salivaires accessoires, à évolution imprévisible ou inconnue
+D37.0	tumeur des petites glandes salivaires, à évolution imprévisible ou inconnue
+D00.0	carcinome in situ des glandes salivaires accessoires
+D00.0	carcinome intra-épithélial des petites glandes salivaires
+D10.2	tumeur bénigne du plancher de la bouche
+D10.2	tumeur bénigne du plancher buccal
+D37.0	tumeur du plancher de la bouche, à évolution imprévisible ou inconnue
+D37.0	tumeur du plancher buccal, à évolution imprévisible ou inconnue
+D00.0	carcinome in situ du plancher de la bouche
+D00.0	carcinome intra-épithélial du plancher buccal
+D10.2	tumeur bénigne du plancher antérieur de la bouche
+D10.2	tumeur bénigne du plancher buccal antérieur
+D37.0	tumeur du plancher antérieur de la bouche, à évolution imprévisible ou inconnue
+D37.0	tumeur du plancher buccal antérieur, à évolution imprévisible ou inconnue
+D00.0	carcinome in situ du plancher antérieur de la bouche
+D00.0	carcinome intra-épithélial du plancher buccal antérieur
+D10.2	tumeur bénigne du plancher latéral de la bouche
+D10.2	tumeur bénigne du plancher buccal latéral
+D37.0	tumeur du plancher latéral de la bouche, à évolution imprévisible ou inconnue
+D37.0	tumeur du plancher buccal latéral, à évolution imprévisible ou inconnue
+D00.0	carcinome in situ du plancher latéral de la bouche
+D00.0	carcinome intra-épithélial du plancher buccal latéral
+D10.3	tumeur bénigne de la muqueuse buccale
+D37.0	tumeur de la muqueuse buccale, à évolution imprévisible ou inconnue
+D00.0	carcinome in situ de la muqueuse buccale
+D00.0	carcinome intra-épithélial de la muqueuse buccale
+D10.3	tumeur bénigne du vestibule de la bouche
+D37.0	tumeur du vestibule de la bouche, à évolution imprévisible ou inconnue
+D00.0	carcinome in situ du vestibule de la bouche
+D00.0	carcinome intra-épithélial du vestibule de la bouche
+D10.3	tumeur bénigne de la région rétromolaire
+D37.0	tumeur de la région rétromolaire, à évolution imprévisible ou inconnue
+D00.0	carcinome in situ de la région rétromolaire
+D00.0	carcinome intra-épithélial de la région rétromolaire
+D10.3	tumeur bénigne du palais
+D37.0	tumeur du palais, à évolution imprévisible ou inconnue
+D00.0	carcinome in situ du palais
+D00.0	carcinome intra-épithélial du palais
+D10.3	tumeur bénigne du palais dur
+D10.3	tumeur bénigne de la voûte palatine
+D10.3	tumeur bénigne du palais osseux
+D37.0	tumeur du palais dur, à évolution imprévisible ou inconnue
+D37.0	tumeur du palais osseux, à évolution imprévisible ou inconnue
+D37.0	tumeur de la vôute palatine, à évolution imprévisible ou inconnue
+D00.0	carcinome in situ du palais dur
+D00.0	carcinome intra-épithélial de la voûte palatine
+D00.0	carcinome intra-épithélial du palais osseux
+D10.3	tumeur bénigne du palais mou
+D10.3	tumeur bénigne du palais flottant
+D10.3	tumeur bénigne du voile du palais
+D37.0	tumeur du palais mou, à évolution imprévisible ou inconnue
+D37.0	tumeur du palais flottant, à évolution imprévisible ou inconnue
+D37.0	tumeur du voile du palais, à évolution imprévisible ou inconnue
+D00.0	carcinome in situ du palais mou
+D00.0	carcinome intra-épithélial du palais flottant
+D00.0	carcinome intra-épithélial du voile du palais
+D10.3	tumeur bénigne de la luette
+D37.0	tumeur de la luette, à évolution imprévisible ou inconnue
+D00.0	carcinome in situ de la luette
+D00.0	carcinome intra-épithélial de la luette
+D10.5	tumeur bénigne de l'oropharynx
+D37.0	tumeur de l'oropharynx, à évolution imprévisible ou inconnue
+D00.0	carcinome in situ de l'oropharynx
+D00.0	carcinome intra-épithélial de l'oropharynx
+D10.5	tumeur bénigne de la fosse amygdalienne
+D37.0	tumeur de la fosse amygdalienne, à évolution imprévisible ou inconnue
+D00.0	carcinome in situ de la fosse amygdalienne
+D00.0	carcinome intra-épithélial de la fosse amygdalienne
+D10.5	tumeur bénigne du pilier antérieur du voile du palais
+D37.0	tumeur du pilier antérieur du voile du palais, à évolution imprévisible ou inconnue
+D00.0	carcinome in situ du pilier antérieur du voile du palais
+D00.0	carcinome intra-épithélial du pilier antérieur du voile du palais
+D10.5	tumeur bénigne de la vallécule épiglottique
+D10.5	tumeur bénigne de la fossette épiglottique
+D37.0	tumeur de la vallécule épiglottique, à évolution imprévisible ou inconnue
+D37.0	tumeur de la fossette épiglottique, à évolution imprévisible ou inconnue
+D00.0	carcinome in situ de la vallécule épiglottique
+D00.0	carcinome intra-épithélial de la fossette épiglottique
+D10.5	tumeur bénigne de la face antérieure de l'épiglotte
+D10.5	tumeur bénigne de la face buccale de l'épiglotte
+D37.0	tumeur de la face antérieure de l'épiglotte, à évolution imprévisible ou inconnue
+D37.0	tumeur de la face buccale de l'épiglotte, à évolution imprévisible ou inconnue
+D00.0	carcinome in situ de la face antérieure de l'épiglotte
+D00.0	carcinome intra-épithélial de la face buccale de l'épiglotte
+D10.5	tumeur bénigne de la région jonctionnelle de l'épiglotte
+D10.5	tumeur bénigne du bord libre de l'épiglotte
+D37.0	tumeur de la région jonctionnelle de l'épiglotte, à évolution imprévisible ou inconnue
+D37.0	tumeur du bord libre de l'épiglotte, à évolution imprévisible ou inconnue
+D00.0	carcinome in situ de la région jonctionnelle de l'épiglotte
+D00.0	carcinome intra-épithélial du bord libre de l'épiglotte
+D10.5	tumeur bénigne de la paroi latérale de l'oropharynx
+D10.5	tumeur bénigne de la face latérale de l'oropharynx
+D37.0	tumeur de la paroi latérale de l'oropharynx, à évolution imprévisible ou inconnue
+D37.0	tumeur de la face latérale de l'oropharynx, à évolution imprévisible ou inconnue
+D00.0	carcinome in situ de la paroi latérale de l'oropharynx
+D00.0	carcinome intra-épithélial de la face latérale de l'oropharynx
+D10.5	tumeur bénigne de la paroi postérieure de l'oropharynx
+D10.5	tumeur bénigne de la face postérieure de l'oropharynx
+D37.0	tumeur de la paroi postérieure de l'oropharynx, à évolution imprévisible ou inconnue
+D37.0	tumeur de la face postérieure de l'oropharynx, à évolution imprévisible ou inconnue
+D00.0	carcinome in situ de la paroi postérieure de l'oropharynx
+D00.0	carcinome intra-épithélial de la face postérieure de l'oropharynx
+D13.0	tumeur bénigne de l'oesophage
+D13.0	tumeur bénigne oesophagienne
+D37.7	tumeur de l'oesophage, à évolution imprévisible ou inconnue
+D37.7	tumeur oesophagienne, à évolution imprévisible ou inconnue
+D00.1	carcinome in situ de l'oesophage
+D00.1	carcinome intra-épithélial oesophagien
+D13.0	tumeur bénigne de l'oesophage cervical
+D37.7	tumeur de l'oesophage cervical, à évolution imprévisible ou inconnue
+D00.1	carcinome in situ de l'oesophage cervical
+D00.1	carcinome intra-épithélial de l'oesophage cervical
+D13.0	tumeur bénigne de l'oesophage thoracique
+D37.7	tumeur de l'oesophage thoracique, à évolution imprévisible ou inconnue
+D00.1	carcinome in situ de l'oesophage thoracique
+D00.1	carcinome intra-épithélial de l'oesophage thoracique
+D13.0	tumeur bénigne de l'oesophage abdominal
+D37.7	tumeur de l'oesophage abdominal, à évolution imprévisible ou inconnue
+D00.1	carcinome in situ de l'oesophage abdominal
+D00.1	carcinome intra-épithélial de l'oesophage abdominal
+D13.0	tumeur bénigne du tiers supérieur de l'oesophage
+D37.7	tumeur du tiers supérieur de l'oesophage, à évolution imprévisible ou inconnue
+D00.1	carcinome in situ du tiers supérieur de l'oesophage
+D00.1	carcinome intra-épithélial du tiers supérieur de l'oesophage
+D13.0	tumeur bénigne du tiers moyen de l'oesophage
+D37.7	tumeur du tiers moyen de l'oesophage, à évolution imprévisible ou inconnue
+D00.1	carcinome in situ du tiers moyen de l'oesophage
+D00.1	carcinome intra-épithélial du tiers moyen de l'oesophage
+D13.0	tumeur bénigne du tiers inférieur de l'oesophage
+D37.7	tumeur du tiers inférieur de l'oesophage, à évolution imprévisible ou inconnue
+D00.1	carcinome in situ du tiers inférieur de l'oesophage
+D00.1	carcinome intra-épithélial du tiers inférieur de l'oesophage
+D13.1	tumeur bénigne de l'estomac
+D13.1	tumeur bénigne gastrique
+D37.1	tumeur de l'estomac, à évolution imprévisible ou inconnue
+D37.1	tumeur gastrique, à évolution imprévisible ou inconnue
+D00.2	carcinome in situ de l'estomac
+D00.2	carcinome intra-épithélial gastrique
+D13.1	tumeur bénigne du cardia
+D13.1	tumeur bénigne cardiale
+D37.1	tumeur du cardia, à évolution imprévisible ou inconnue
+D37.1	tumeur cardiale, à évolution imprévisible ou inconnue
+D00.2	carcinome in situ du cardia
+D00.2	carcinome intra-épithélial cardial
+D13.1	tumeur bénigne du fundus de l'estomac
+D13.1	tumeur bénigne fundique de l'estomac
+D37.1	tumeur du fundus de l'estomac, à évolution imprévisible ou inconnue
+D37.1	tumeur fundique de l'estomac, à évolution imprévisible ou inconnue
+D00.2	carcinome in situ du fundus de l'estomac
+D00.2	carcinome intra-épithélial fundique de l'estomac
+D13.1	tumeur bénigne du corps de l'estomac
+D13.1	tumeur bénigne du corps gastrique
+D37.1	tumeur du corps de l'estomac, à évolution imprévisible ou inconnue
+D37.1	tumeur du corps gastrique, à évolution imprévisible ou inconnue
+D00.2	carcinome in situ du corps de l'estomac
+D00.2	carcinome intra-épithélial du corps gastrique
+D13.1	tumeur bénigne de la petite courbure de l'estomac
+D13.1	tumeur bénigne de la petite courbure gastrique
+D37.1	tumeur de la petite courbure de l'estomac, à évolution imprévisible ou inconnue
+D37.1	tumeur de la petite courbure gastrique, à évolution imprévisible ou inconnue
+D00.2	carcinome in situ de la petite courbure de l'estomac
+D00.2	carcinome intra-épithélial de la petite courbure gastrique
+D13.1	tumeur bénigne de la grande courbure de l'estomac
+D13.1	tumeur bénigne de la grande courbure gastrique
+D37.1	tumeur de la grande courbure de l'estomac, à évolution imprévisible ou inconnue
+D37.1	tumeur de la grande courbure gastrique, à évolution imprévisible ou inconnue
+D00.2	carcinome in situ de la grande courbure de l'estomac
+D00.2	carcinome intra-épithélial de la grande courbure gastrique
+D13.1	tumeur bénigne de l'antre pylorique
+D37.1	tumeur de l'antre pylorique, à évolution imprévisible ou inconnue
+D00.2	carcinome in situ de l'antre pylorique
+D00.2	carcinome intra-épithélial de l'antre pylorique
+D13.1	tumeur bénigne du pylore
+D13.1	tumeur bénigne pylorique
+D37.1	tumeur du pylore, à évolution imprévisible ou inconnue
+D37.1	tumeur pylorique, à évolution imprévisible ou inconnue
+D00.2	carcinome in situ du pylore
+D00.2	carcinome intra-épithélial pylorique
+D13.3	tumeur bénigne de l'intestin grêle
+D37.2	tumeur de l'intestin grêle, à évolution imprévisible ou inconnue
+D37.2	tumeur intestinale grêle, à évolution imprévisible ou inconnue
+D01.4	carcinome in situ de l'intestin grêle
+D01.4	carcinome intra-épithélial de l'intestin grêle
+D13.2	tumeur bénigne du duodénum
+D13.2	tumeur bénigne duodénale
+D37.2	tumeur du duodénum, à évolution imprévisible ou inconnue
+D37.2	tumeur duodénale, à évolution imprévisible ou inconnue
+D01.4	carcinome in situ du duodénum
+D01.4	carcinome intra-épithélial duodénal
+D13.3	tumeur bénigne du jéjunum
+D13.3	tumeur bénigne jéjunale
+D37.2	tumeur du jéjunum, à évolution imprévisible ou inconnue
+D37.2	tumeur jéjunale, à évolution imprévisible ou inconnue
+D01.4	carcinome in situ du jéjunum
+D01.4	carcinome intra-épithélial jéjunal
+D13.3	tumeur bénigne de l'iléon
+D13.3	tumeur bénigne iléale
+D37.2	tumeur de l'iléon, à évolution imprévisible ou inconnue
+D37.2	tumeur iléale, à évolution imprévisible ou inconnue
+D01.4	carcinome in situ de l'iléon
+D01.4	carcinome intra-épithélial iléal
+D13.3	tumeur bénigne du diverticule de Meckel
+D37.2	tumeur du diverticule de Meckel, à évolution imprévisible ou inconnue
+D01.4	carcinome in situ du diverticule de Meckel
+D01.4	carcinome intra-épithélial du diverticule de Meckel
+D12.6	tumeur bénigne du gros intestin
+D37.4	tumeur du gros intestin, à évolution imprévisible ou inconnue
+D01.0	carcinome in situ du gros intestin
+D01.0	carcinome intra-épithélial du gros intestin
+D12.6	tumeur bénigne du côlon
+D12.6	tumeur bénigne colique
+D37.4	tumeur du côlon, à évolution imprévisible ou inconnue
+D37.4	tumeur colique, à évolution imprévisible ou inconnue
+D01.0	carcinome in situ du côlon
+D01.0	carcinome intra-épithélial colique
+D12.0	tumeur bénigne du caecum
+D12.0	tumeur bénigne caecale
+D37.4	tumeur du caecum, à évolution imprévisible ou inconnue
+D37.4	tumeur caecale, à évolution imprévisible ou inconnue
+D01.0	carcinome in situ du caecum
+D01.0	carcinome intra-épithélial caecal
+D12.2	tumeur bénigne du côlon ascendant
+D12.2	tumeur bénigne du côlon droit
+D37.4	tumeur du côlon ascendant, à évolution imprévisible ou inconnue
+D37.4	tumeur du côlon droit, à évolution imprévisible ou inconnue
+D01.0	carcinome in situ du côlon ascendant
+D01.0	carcinome intra-épithélial du côlon droit
+D12.3	tumeur bénigne de l'angle droit du côlon
+D12.3	tumeur bénigne de l'angle colique droit
+D37.4	tumeur de l'angle droit du côlon, à évolution imprévisible ou inconnue
+D37.4	tumeur de l'angle colique droit, à évolution imprévisible ou inconnue
+D01.0	carcinome in situ de l'angle droit du côlon
+D01.0	carcinome intra-épithélial de l'angle colique droit
+D12.3	tumeur bénigne du côlon transverse
+D12.3	tumeur bénigne colique transverse
+D37.4	tumeur du côlon transverse, à évolution imprévisible ou inconnue
+D37.4	tumeur colique transverse, à évolution imprévisible ou inconnue
+D01.0	carcinome in situ du côlon transverse
+D01.0	carcinome intra-épithélial colique transverse
+D12.3	tumeur bénigne de l'angle gauche du côlon
+D12.3	tumeur bénigne de l'angle colique gauche
+D37.4	tumeur de l'angle gauche du côlon, à évolution imprévisible ou inconnue
+D37.4	tumeur de l'angle colique gauche, à évolution imprévisible ou inconnue
+D01.0	carcinome in situ de l'angle gauche du côlon
+D01.0	carcinome intra-épithélial de l'angle colique gauche
+D12.4	tumeur bénigne du côlon descendant
+D12.4	tumeur bénigne du côlon gauche
+D37.4	tumeur du côlon descendant, à évolution imprévisible ou inconnue
+D37.4	tumeur du côlon gauche, à évolution imprévisible ou inconnue
+D01.0	carcinome in situ du côlon descendant
+D01.0	carcinome intra-épithélial du côlon gauche
+D12.5	tumeur bénigne du côlon sigmoïde
+D37.4	tumeur du côlon sigmoïde, à évolution imprévisible ou inconnue
+D01.0	carcinome in situ du côlon sigmoïde
+D01.0	carcinome intra-épithélial du côlon sigmoïde
+D12.1	tumeur bénigne de l'appendice vermiculaire
+D12.1	tumeur bénigne appendiculaire
+D12.1	tumeur bénigne de l'appendice
+D37.3	tumeur de l'appendice vermiculaire, à évolution imprévisible ou inconnue
+D37.3	tumeur de l'appendice, à évolution imprévisible ou inconnue
+D37.3	tumeur appendiculaire, à évolution imprévisible ou inconnue
+D01.0	carcinome in situ de l'appendice vermiculaire
+D01.0	carcinome intra-épithélial appendiculaire
+D01.0	carcinome intra-épithélial de l'appendice
+D12.8	tumeur bénigne du rectum
+D12.9	tumeur bénigne rectale
+D37.5	tumeur du rectum, à évolution imprévisible ou inconnue
+D37.5	tumeur rectale, à évolution imprévisible ou inconnue
+D01.2	carcinome in situ du rectum
+D01.2	carcinome intra-épithélial rectal
+D12.7	tumeur bénigne de la jonction recto-sigmoïdienne
+D37.5	tumeur de la jonction recto-sigmoïdienne, à évolution imprévisible ou inconnue
+D01.1	carcinome in situ de la jonction recto-sigmoïdienne
+D01.1	carcinome intra-épithélial de la jonction recto-sigmoïdienne
+D12.9	tumeur bénigne de l'anus
+D12.9	tumeur bénigne anale
+D37.7	tumeur de l'anus, à évolution imprévisible ou inconnue
+D37.7	tumeur anale, à évolution imprévisible ou inconnue
+D01.3	carcinome in situ de l'anus
+D01.3	carcinome intra-épithélial anal
+D12.9	tumeur bénigne du canal anal
+D37.7	tumeur du canal anal, à évolution imprévisible ou inconnue
+D01.3	carcinome in situ du canal anal
+D01.3	carcinome intra-épithélial du canal anal
+D13.4	tumeur bénigne du foie
+D13.4	tumeur bénigne hépatique
+D37.6	tumeur du foie, à évolution imprévisible ou inconnue
+D37.6	tumeur hépatique, à évolution imprévisible ou inconnue
+D01.5	carcinome in situ du foie
+D01.5	carcinome intra-épithélial hépatique
+D13.4	tumeur bénigne des canaux biliaires intra-hépatiques
+D13.4	tumeur bénigne des voies biliaires intra-hépatiques
+D37.6	tumeur des canaux biliaires intra-hépatiques, à évolution imprévisible ou inconnue
+D37.6	tumeur des voies biliaires intra-hépatiques, à évolution imprévisible ou inconnue
+D01.5	carcinome in situ des canaux biliaires intra-hépatiques
+D01.5	carcinome intra-épithélial des voies biliaires intra-hépatiques
+D13.5	tumeur bénigne des voies biliaires
+D37.6	tumeur des voies biliaires, à évolution imprévisible ou inconnue
+D01.5	carcinome in situ des voies biliaires
+D01.5	carcinome intra-épithélial des voies biliaires
+D13.5	tumeur bénigne de la vésicule biliaire
+D37.6	tumeur de la vésicule biliaire, à évolution imprévisible ou inconnue
+D01.5	carcinome in situ de la vésicule biliaire
+D01.5	carcinome intra-épithélial de la vésicule biliaire
+D13.5	tumeur bénigne des canaux biliaires extra-hépatiques
+D13.5	tumeur bénigne des voies biliaires extra-hépatiques
+D37.6	tumeur des canaux biliaires extra-hépatiques, à évolution imprévisible ou inconnue
+D37.6	tumeur des voies biliaires extra-hépatiques, à évolution imprévisible ou inconnue
+D01.5	carcinome in situ des canaux biliaires extra-hépatiques
+D01.5	carcinome intra-épithélial des voies biliaires extra-hépatiques
+D13.5	tumeur bénigne du canal cystique
+D37.6	tumeur du canal cystique, à évolution imprévisible ou inconnue
+D01.5	carcinome in situ du canal cystique
+D01.5	carcinome intra-épithélial du canal cystique
+D13.5	tumeur bénigne du canal cholédoque
+D37.6	tumeur du canal cholédoque, à évolution imprévisible ou inconnue
+D01.5	carcinome in situ du canal cholédoque
+D01.5	carcinome intra-épithélial du canal cholédoque
+D13.5	tumeur bénigne de l'ampoule de Vater
+D13.5	tumeur bénigne vatérienne
+D37.6	tumeur de l'ampoule de Vater, à évolution imprévisible ou inconnue
+D37.6	tumeur vatérienne, à évolution imprévisible ou inconnue
+D01.5	carcinome in situ de l'ampoule de Vater
+D01.5	carcinome intra-épithélial vatérien
+D13.6	tumeur bénigne du pancréas
+D13.6	tumeur bénigne pancréatique
+D37.7	tumeur du pancréas, à évolution imprévisible ou inconnue
+D37.7	tumeur pancréatique, à évolution imprévisible ou inconnue
+D01.7	carcinome in situ du pancréas
+D01.7	carcinome intra-épithélial pancréatique
+D13.6	tumeur bénigne de la tête du pancréas
+D37.7	tumeur de la tête du pancréas, à évolution imprévisible ou inconnue
+D01.7	carcinome in situ de la tête du pancréas
+D01.7	carcinome intra-épithélial de la tête du pancréas
+D13.6	tumeur bénigne du corps du pancréas
+D37.7	tumeur du corps du pancréas, à évolution imprévisible ou inconnue
+D01.7	carcinome in situ du corps du pancréas
+D01.7	carcinome intra-épithélial du corps du pancréas
+D13.6	tumeur bénigne de la queue du pancréas
+D37.7	tumeur de la queue du pancréas, à évolution imprévisible ou inconnue
+D01.7	carcinome in situ de la queue du pancréas
+D01.7	carcinome intra-épithélial de la queue du pancréas
+D13.6	tumeur bénigne du canal pancréatique principal
+D13.6	tumeur bénigne du canal de Wirsung
+D37.7	tumeur du canal pancréatique principal, à évolution imprévisible ou inconnue
+D37.7	tumeur du canal de Wirsung, à évolution imprévisible ou inconnue
+D01.7	carcinome in situ du canal pancréatique principal
+D01.7	carcinome intra-épithélial du canal de Wirsung
+D13.7	tumeur bénigne des ilôts de Langerhans
+D13.7	tumeur bénigne à cellules insulaires pancréatiques
+D13.7	tumeur bénigne du pancréas endocrine
+D13.7	tumeur bénigne insulaire pancréatique
+D37.7	tumeur des ilôts de Langerhans, à évolution imprévisible ou inconnue
+D37.7	tumeur du pancréas endocrine, à évolution imprévisible ou inconnue
+D37.7	tumeur insulaire pancréatique, à évolution imprévisible ou inconnue
+D37.7	tumeur à cellules insulaires pancréatiques, à évolution imprévisible ou inconnue
+D01.7	carcinome in situ des ilôts de Langerhans
+D01.7	carcinome intra-épithélial à cellules insulaires pancréatiques
+D01.7	carcinome intra-épithélial du pancréas endocrine
+D01.7	carcinome intra-épithélial insulaire pancréatique
+D01.9	carcinome in situ d'un organe digestif
+D01.9	carcinome intra-épithélial d'un organe digestif
+D20.1	tumeur bénigne du péritoine
+D20.1	tumeur bénigne péritonéale
+D48.4	tumeur du péritoine, à évolution imprévisible ou inconnue
+D48.4	tumeur péritonéale, à évolution imprévisible ou inconnue
+D20.1	tumeur bénigne du péritoine pariétal
+D48.4	tumeur du péritoine pariétal, à évolution imprévisible ou inconnue
+D20.1	tumeur bénigne du péritoine pelvien
+D48.4	tumeur du péritoine pelvien, à évolution imprévisible ou inconnue
+D20.1	tumeur bénigne du cul-de-sac recto-vaginal
+D20.1	tumeur bénigne du cul-de-sac de Douglas
+D48.4	tumeur du cul-de-sac recto-vaginal, à évolution imprévisible ou inconnue
+D48.4	tumeur du cul-de-sac de Douglas, à évolution imprévisible ou inconnue
+D20.1	tumeur bénigne du mésentère
+D20.1	tumeur bénigne mésentérique
+D48.4	tumeur du mésentère, à évolution imprévisible ou inconnue
+D48.4	tumeur mésentérique, à évolution imprévisible ou inconnue
+D20.1	tumeur bénigne du mésocôlon
+D20.1	tumeur bénigne mésocolique
+D48.4	tumeur du mésocôlon, à évolution imprévisible ou inconnue
+D48.4	tumeur mésocolique, à évolution imprévisible ou inconnue
+D20.1	tumeur bénigne de l'épiploon
+D20.1	tumeur bénigne épiploïque
+D48.4	tumeur de l'épiploon, à évolution imprévisible ou inconnue
+D48.4	tumeur épiploïque, à évolution imprévisible ou inconnue
+D20.0	tumeur bénigne du rétropéritoine
+D20.0	tumeur bénigne rétropéritonéale
+D48.3	tumeur du rétropéritoine, à évolution imprévisible ou inconnue
+D48.3	tumeur rétropéritonéale, à évolution imprévisible ou inconnue
+D20.0	tumeur bénigne des tissus périsurrénaliens
+D20.0	tumeur bénigne périsurrénalienne
+D48.3	tumeur des tissus périsurrénaliens, à évolution imprévisible ou inconnue
+D48.3	tumeur périsurrénalienne, à évolution imprévisible ou inconnue
+D20.0	tumeur bénigne des tissus périrénaux
+D20.0	tumeur bénigne périrénale
+D48.3	tumeur des tissus périrénaux, à évolution imprévisible ou inconnue
+D48.3	tumeur périrénale, à évolution imprévisible ou inconnue
+D20.0	tumeur bénigne des tissus rétrocaecaux
+D20.0	tumeur bénigne rétrocaecale
+D48.3	tumeur des tissus rétrocaecaux, à évolution imprévisible ou inconnue
+D48.3	tumeur rétrocaecale, à évolution imprévisible ou inconnue
+D19.1	tumeur bénigne du tissu mésothélial du péritoine
+D76.0	maladie de Hand-Schüller-Christian
+D76.0	granulome lipoïdique des os
+D76.0	xanthomatose cranio-hypophysaire
+D76.0	granulomatose lipoïdique des os
+D76.0	histiocytose X chronique
+D76.0	histiocytose X généralisée chronique
+D76.0	granulome éosinophilique des os
+D74.0	déficit en cytochrome-b-réductase
+D74.0	déficit chronique familial en méthémoglobine-réductase
+D74.0	déficit en NADH-méthémoglobine réductase
+D74.0	déficit en diaphorase
+D59.3	syndrome néphro-anémique
+D59.3	syndrome néphro-hémolytique
+D59.3	syndrome de Gasser
+D59.3	syndrome hémolytique et urémique
+D59.3	syndrome hémolytique et urémique de l'enfant
+D59.3	syndrome néphro-hémolytique de l'enfant
+D59.3	syndrome néphro-anémique de l'enfant
+D59.3	syndrome hémolytique et urémique de l'adulte
+D59.3	syndrome néphro-hémolytique de l'adulte
+D59.3	syndrome néphro-anémique de l'adulte
+D28.0	papillomatose du vestibule du vagin
+D27	syndrome de Meigs
+D27	syndrome de Demons-Meigs
+D28.7	polype adénomateux du col utérin
+D28.7	polype adénomateux du col de l'utérus
+D30.9	tumeur bénigne de l'appareil urinaire
+D41.9	tumeur de l'appareil urinaire, à évolution imprévisible ou inconnue
+D09.1	carcinome in situ de l'appareil urinaire
+D09.1	carcinome intra-épithélial de l'appareil urinaire
+D30.0	tumeur bénigne rénale
+D30.0	tumeur bénigne d'un rein
+D41.0	tumeur rénale, à évolution imprévisible ou inconnue
+D41.0	tumeur d'un rein, à évolution imprévisible ou inconnue
+D09.1	carcinome in situ rénal
+D09.1	carcinome intra-épithélial d'un rein
+D30.1	tumeur bénigne du bassinet
+D41.1	tumeur du bassinet, à évolution imprévisible ou inconnue
+D09.1	carcinome in situ du bassinet
+D09.1	carcinome intra-épithélial du bassinet
+D30.2	tumeur bénigne de l'uretère
+D30.2	tumeur bénigne urétérale
+D41.2	tumeur de l'uretère, à évolution imprévisible ou inconnue
+D41.2	tumeur urétérale, à évolution imprévisible ou inconnue
+D09.1	carcinome in situ de l'uretère
+D09.1	carcinome intra-épithélial urétéral
+D30.4	tumeur bénigne de l'urètre
+D30.4	tumeur bénigne urétrale
+D41.3	tumeur de l'urètre, à évolution imprévisible ou inconnue
+D41.3	tumeur urétrale, à évolution imprévisible ou inconnue
+D09.1	carcinome in situ de l'urètre
+D09.1	carcinome intra-épithélial urétral
+D30.4	tumeur bénigne des glandes urétrales
+D41.3	tumeur des glandes urétrales, à évolution imprévisible ou inconnue
+D09.1	carcinome in situ des glandes urétrales
+D09.1	carcinome intra-épithélial des glandes urétrales
+D30.3	tumeur bénigne de la vessie urinaire
+D30.3	tumeur bénigne vésicale
+D41.4	tumeur de la vessie urinaire, à évolution imprévisible ou inconnue
+D41.4	tumeur vésicale, à évolution imprévisible ou inconnue
+D09.0	carcinome in situ de la vessie urinaire
+D09.0	carcinome intra-épithélial vésical
+D30.3	tumeur bénigne du trigone vésical
+D41.4	tumeur du trigone vésical, à évolution imprévisible ou inconnue
+D09.0	carcinome in situ du trigone vésical
+D09.0	carcinome intra-épithélial du trigone vésical
+D30.3	tumeur bénigne du dôme vésical
+D30.3	tumeur bénigne du sommet de la vessie urinaire
+D41.4	tumeur du dôme vésical, à évolution imprévisible ou inconnue
+D41.4	tumeur du sommet de la vessie urinaire, à évolution imprévisible ou inconnue
+D09.0	carcinome in situ du dôme vésical
+D09.0	carcinome in situ du sommet de la vessie urinaire
+D30.3	tumeur bénigne de la paroi latérale de la vessie urinaire
+D30.3	tumeur bénigne de la face latérale de la vessie urinaire
+D41.4	tumeur de la paroi latérale de la vessie urinaire, à évolution imprévisible ou inconnue
+D41.4	tumeur de la face latérale de la vessie urinaire, à évolution imprévisible ou inconnue
+D09.0	carcinome in situ de la paroi latérale de la vessie urinaire
+D09.0	carcinome intra-épithélial de la face latérale de la vessie urinaire
+D30.3	tumeur bénigne de la paroi antérieure de la vessie urinaire
+D30.3	tumeur bénigne de la face antérieure de la vessie urinaire
+D41.4	tumeur de la paroi antérieure de la vessie urinaire, à évolution imprévisible ou inconnue
+D41.4	tumeur de la face antérieure de la vessie urinaire, à évolution imprévisible ou inconnue
+D09.0	carcinome in situ de la paroi antérieure de la vessie urinaire
+D09.0	carcinome intra-épithélial de la face antérieure de la vessie urinaire
+D30.3	tumeur bénigne de la paroi postérieure de la vessie urinaire
+D30.3	tumeur bénigne de la face postérieure de la vessie urinaire
+D41.4	tumeur de la paroi postérieure de la vessie urinaire, à évolution imprévisible ou inconnue
+D41.4	tumeur de la face postérieure de la vessie urinaire, à évolution imprévisible ou inconnue
+D09.0	carcinome in situ de la paroi postérieure de la vessie urinaire
+D09.0	carcinome intra-épithélial de la face postérieure de la vessie urinaire
+D30.3	tumeur bénigne du col de la vessie urinaire
+D30.3	tumeur bénigne du col vésical
+D41.4	tumeur du col de la vessie urinaire, à évolution imprévisible ou inconnue
+D41.4	tumeur du col vésical, à évolution imprévisible ou inconnue
+D09.0	carcinome in situ du col de la vessie urinaire
+D09.0	carcinome intra-épithélial du col vésical
+D30.3	tumeur bénigne de l'orifice urétéral de la vessie urinaire
+D30.3	tumeur bénigne du méat urétéral de la vessie urinaire
+D41.4	tumeur de l'orifice urétéral de la vessie urinaire, à évolution imprévisible ou inconnue
+D41.4	tumeur du méat urétéral de la vessie urinaire, à évolution imprévisible ou inconnue
+D09.0	carcinome in situ de l'orifice urétéral de la vessie urinaire
+D09.0	carcinome intra-épithélial du méat urétéral de la vessie urinaire
+D30.3	tumeur bénigne de l'ouraque
+D41.4	tumeur de l'ouraque, à évolution imprévisible ou inconnue
+D09.0	carcinome in situ de l'ouraque
+D09.0	carcinome intra-épithélial de l'ouraque
+D30.7	tumeur bénigne d'organe urinaire précisé
+D41.7	tumeur d'organe urinaire précisé, à évolution imprévisible ou inconnue
+D29.9	tumeur bénigne de l'appareil génital masculin
+D40.9	tumeur de l'appareil génital masculin, à évolution imprévisible ou inconnue
+D07.6	carcinome in situ de l'appareil génital masculin
+D07.6	carcinome intra-épithélial de l'appareil génital masculin
+D29.0	tumeur bénigne de la verge
+D29.0	tumeur bénigne du pénis
+D40.7	tumeur du pénis, à évolution imprévisible ou inconnue
+D40.7	tumeur de la verge, à évolution imprévisible ou inconnue
+D07.4	carcinome in situ de la verge
+D07.4	carcinome intra-épithélial du pénis
+D07.4	carcinome intra-épithélial de la verge
+D07.4	carcinome in situ du pénis
+D29.0	tumeur bénigne du prépuce
+D40.7	tumeur du prépuce, à évolution imprévisible ou inconnue
+D07.4	carcinome in situ du prépuce
+D07.4	carcinome intra-épithélial du prépuce
+D29.0	tumeur bénigne du gland
+D40.7	tumeur du gland, à évolution imprévisible ou inconnue
+D07.4	carcinome in situ du gland
+D07.4	carcinome intra-épithélial du gland
+D29.0	tumeur bénigne du corps de la verge
+D29.0	tumeur bénigne du corps du pénis
+D40.7	tumeur du corps du pénis, à évolution imprévisible ou inconnue
+D40.7	tumeur du corps de la verge, à évolution imprévisible ou inconnue
+D07.4	carcinome in situ du corps de la verge
+D07.4	carcinome intra-épithélial du corps de la verge
+D07.4	carcinome intra-épithélial du corps du pénis
+D07.4	carcinome in situ du corps du pénis
+D29.2	tumeur bénigne d'un testicule
+D29.2	tumeur bénigne testiculaire
+D40.1	tumeur d'un testicule, à évolution imprévisible ou inconnue
+D40.1	tumeur testiculaire, à évolution imprévisible ou inconnue
+D07.6	carcinome in situ d'un testicule
+D07.6	carcinome intra-épithélial testiculaire
+D29.2	tumeur bénigne d'un testicule non descendu
+D29.2	tumeur bénigne d'un testicule ectopique
+D29.2	tumeur bénigne d'un testicule cryptorchide
+D29.2	tumeur bénigne d'un testicule retenu
+D40.1	tumeur d'un testicule non descendu, à évolution imprévisible ou inconnue
+D40.1	tumeur d'un testicule cryptorchide, à évolution imprévisible ou inconnue
+D40.1	tumeur d'un testicule retenu, à évolution imprévisible ou inconnue
+D40.1	tumeur d'un testicule ectopique, à évolution imprévisible ou inconnue
+D07.6	carcinome in situ d'un testicule non descendu
+D07.6	carcinome intra-épithélial d'un testicule ectopique
+D07.6	carcinome intra-épithélial d'un testicule cryptorchide
+D07.6	carcinome intra-épithélial d'un testicule retenu
+D29.3	tumeur bénigne de l'épididyme
+D29.3	tumeur bénigne épididymaire
+D40.7	tumeur de l'épididyme, à évolution imprévisible ou inconnue
+D40.7	tumeur épididymaire, à évolution imprévisible ou inconnue
+D07.6	carcinome in situ de l'épididyme
+D07.6	carcinome intra-épithélial épididymaire
+D29.7	tumeur bénigne du canal déférent
+D29.7	tumeur bénigne du conduit déférent
+D40.7	tumeur du canal déférent, à évolution imprévisible ou inconnue
+D40.7	tumeur du conduit déférent, à évolution imprévisible ou inconnue
+D07.6	carcinome in situ du canal déférent
+D07.6	carcinome intra-épithélial du conduit déférent
+D29.7	tumeur bénigne du cordon spermatique
+D40.7	tumeur du cordon spermatique, à évolution imprévisible ou inconnue
+D07.6	carcinome in situ du cordon spermatique
+D07.6	carcinome intra-épithélial du cordon spermatique
+D29.4	tumeur bénigne du scrotum
+D29.4	tumeur bénigne scrotale
+D40.7	tumeur du scrotum, à évolution imprévisible ou inconnue
+D40.7	tumeur scrotale, à évolution imprévisible ou inconnue
+D07.6	carcinome in situ du scrotum
+D07.6	carcinome intra-épithélial scrotal
+D29.1	tumeur bénigne de la prostate
+D29.1	tumeur bénigne prostatique
+D40.0	tumeur de la prostate, à évolution imprévisible ou inconnue
+D40.0	tumeur prostatique, à évolution imprévisible ou inconnue
+D07.5	carcinome in situ de la prostate
+D07.5	carcinome intra-épithélial prostatique
+D28.9	tumeur bénigne de l'appareil génital féminin
+D39.9	tumeur de l'appareil génital féminin, à évolution imprévisible ou inconnue
+D07.3	carcinome in situ de l'appareil génital féminin
+D07.3	carcinome intra-épithélial de l'appareil génital féminin
+D26.9	tumeur bénigne de l'utérus
+D26.9	tumeur bénigne utérine
+D39.0	tumeur de l'utérus, à évolution imprévisible ou inconnue
+D39.0	tumeur utérine, à évolution imprévisible ou inconnue
+D07.3	carcinome in situ de l'utérus
+D07.3	carcinome intra-épithélial utérin
+D26.1	tumeur bénigne du corps de l'utérus
+D26.1	tumeur bénigne du corps utérin
+D39.0	tumeur du corps de l'utérus, à évolution imprévisible ou inconnue
+D39.0	tumeur du corps utérin, à évolution imprévisible ou inconnue
+D07.3	carcinome in situ du corps de l'utérus
+D07.3	carcinome intra-épithélial du corps utérin
+D26.1	tumeur bénigne de l'endomètre
+D26.1	tumeur bénigne endométriale
+D39.0	tumeur de l'endomètre, à évolution imprévisible ou inconnue
+D39.0	tumeur endométriale, à évolution imprévisible ou inconnue
+D07.0	carcinome in situ de l'endomètre
+D07.0	carcinome intra-épithélial endométrial
+D26.1	tumeur bénigne du myomètre
+D39.0	tumeur du myomètre, à évolution imprévisible ou inconnue
+D07.3	carcinome in situ du myomètre
+D07.3	carcinome intra-épithélial du myomètre
+D26.7	tumeur bénigne de l'isthme de l'utérus
+D26.7	tumeur bénigne de l'isthme utérin
+D39.0	tumeur de l'isthme de l'utérus, à évolution imprévisible ou inconnue
+D39.0	tumeur de l'isthme utérin, à évolution imprévisible ou inconnue
+D07.3	carcinome in situ de l'isthme de l'utérus
+D07.3	carcinome intra-épithélial de l'isthme utérin
+D26.0	tumeur bénigne du col de l'utérus
+D26.0	tumeur bénigne du col utérin
+D39.0	tumeur du col de l'utérus, à évolution imprévisible ou inconnue
+D39.0	tumeur du col utérin, à évolution imprévisible ou inconnue
+D06.9	carcinome in situ du col de l'utérus
+D06.9	carcinome intra-épithélial du col utérin
+D26.0	tumeur bénigne de l'endocol
+D39.0	tumeur de l'endocol, à évolution imprévisible ou inconnue
+D06.0	carcinome in situ de l'endocol
+D06.0	carcinome intra-épithélial de l'endocol
+D26.0	tumeur bénigne de l'exocol
+D39.0	tumeur de l'exocol, à évolution imprévisible ou inconnue
+D06.1	carcinome in situ de l'exocol
+D06.1	carcinome intra-épithélial de l'exocol
+D26.7	tumeur bénigne du fond de l'utérus
+D06.7	carcinome in situ de partie précisée du col utérin
+D06.7	carcinome intra-épithélial de partie précisée du col utérin
+D28.9	tumeur bénigne des annexes de l'utérus
+D28.9	tumeur bénigne des annexes utérines
+D39.7	tumeur des annexes de l'utérus, à évolution imprévisible ou inconnue
+D39.7	tumeur des annexes utérines, à évolution imprévisible ou inconnue
+D07.3	carcinome in situ des annexes de l'utérus
+D07.3	carcinome intra-épithélial des annexes utérines
+D27	tumeur bénigne d'un ovaire
+D27	tumeur bénigne ovarienne
+D39.1	tumeur d'un ovaire, à évolution imprévisible ou inconnue
+D39.1	tumeur ovarienne, à évolution imprévisible ou inconnue
+D07.3	carcinome in situ d'un ovaire
+D07.3	carcinome intra-épithélial ovarien
+D28.2	tumeur bénigne d'une trompe de Fallope
+D39.7	tumeur d'une trompe de Fallope, à évolution imprévisible ou inconnue
+D07.3	carcinome in situ d'une trompe de Fallope
+D07.3	carcinome intra-épithélial d'une trompe de Fallope
+D28.2	tumeur bénigne du ligament large de l'utérus
+D39.7	tumeur du ligament large de l'utérus, à évolution imprévisible ou inconnue
+D07.3	carcinome in situ du ligament large de l'utérus
+D07.3	carcinome intra-épithélial du ligament large de l'utérus
+D28.7	tumeur bénigne du paramètre
+D39.7	tumeur du paramètre, à évolution imprévisible ou inconnue
+D07.3	carcinome in situ du paramètre
+D07.3	carcinome intra-épithélial du paramètre
+D28.2	tumeur bénigne du ligament rond de l'utérus
+D39.7	tumeur du ligament rond de l'utérus, à évolution imprévisible ou inconnue
+D07.3	carcinome in situ du ligament rond de l'utérus
+D07.3	carcinome intra-épithélial du ligament rond de l'utérus
+D26.7	tumeur bénigne du placenta
+D26.7	tumeur bénigne placentaire
+D39.2	tumeur du placenta, à évolution imprévisible ou inconnue
+D39.2	tumeur placentaire, à évolution imprévisible ou inconnue
+D07.3	carcinome in situ du placenta
+D07.3	carcinome intra-épithélial placentaire
+D28.1	tumeur bénigne du vagin
+D28.1	tumeur bénigne vaginale
+D39.7	tumeur du vagin, à évolution imprévisible ou inconnue
+D39.7	tumeur vaginale, à évolution imprévisible ou inconnue
+D07.2	carcinome in situ du vagin
+D07.3	carcinome intra-épithélial vaginal
+D28.0	tumeur bénigne de la vulve
+D28.0	tumeur bénigne vulvaire
+D39.7	tumeur de la vulve, à évolution imprévisible ou inconnue
+D39.7	tumeur vulvaire, à évolution imprévisible ou inconnue
+D07.1	carcinome in situ de la vulve
+D07.3	carcinome intra-épithélial vulvaire
+D28.0	tumeur bénigne des grandes lèvres
+D39.7	tumeur des grandes lèvres, à évolution imprévisible ou inconnue
+D07.1	carcinome in situ des grandes lèvres
+D07.1	carcinome intra-épithélial des grandes lèvres
+D28.0	tumeur bénigne des petites lèvres
+D39.7	tumeur des petites lèvres, à évolution imprévisible ou inconnue
+D07.1	carcinome in situ des petites lèvres
+D07.1	carcinome intra-épithélial des petites lèvres
+D28.0	tumeur bénigne du clitoris
+D39.7	tumeur du clitoris, à évolution imprévisible ou inconnue
+D07.1	carcinome in situ du clitoris
+D07.1	carcinome intra-épithélial du clitoris
+D24	tumeur bénigne du sein de la femme
+D24	tumeur bénigne du sein féminin
+D48.6	tumeur du sein de la femme, à évolution imprévisible ou inconnue
+D48.6	tumeur du sein féminin, à évolution imprévisible ou inconnue
+D05.9	carcinome in situ du sein de la femme
+D05.9	carcinome intra-épithélial du sein féminin
+D24	tumeur bénigne du mamelon du sein de la femme
+D24	tumeur bénigne du mamelon du sein féminin
+D48.6	tumeur du mamelon du sein de la femme, à évolution imprévisible ou inconnue
+D48.6	tumeur du mamelon du sein féminin, à évolution imprévisible ou inconnue
+D05.9	carcinome in situ du mamelon du sein de la femme
+D05.9	carcinome intra-épithélial du mamelon du sein féminin
+D24	tumeur bénigne de l'aréole du sein de la femme
+D24	tumeur bénigne de l'aréole du sein féminin
+D48.6	tumeur de l'aréole du sein de la femme, à évolution imprévisible ou inconnue
+D48.6	tumeur de l'aréole du sein féminin, à évolution imprévisible ou inconnue
+D05.9	carcinome in situ de l'aréole du sein de la femme
+D05.9	carcinome intra-épithélial de l'aréole du sein féminin
+D24	tumeur bénigne de la partie centrale du sein de la femme
+D24	tumeur bénigne de la partie centrale du sein féminin
+D48.6	tumeur de la partie centrale du sein de la femme, à évolution imprévisible ou inconnue
+D48.6	tumeur de la partie centrale du sein féminin, à évolution imprévisible ou inconnue
+D05.9	carcinome in situ de la partie centrale du sein de la femme
+D05.9	carcinome intra-épithélial de la partie centrale du sein féminin
+D24	tumeur bénigne du quadrant supéro-interne du sein de la femme
+D24	tumeur bénigne du quadrant supéro-interne du sein féminin
+D48.6	tumeur du quadrant supéro-interne du sein de la femme, à évolution imprévisible ou inconnue
+D48.6	tumeur du quadrant supéro-interne du sein féminin, à évolution imprévisible ou inconnue
+D05.9	carcinome in situ du quadrant supéro-interne du sein de la femme
+D05.9	carcinome intra-épithélial du quadrant supéro-interne du sein féminin
+D24	tumeur bénigne du quadrant inféro-interne du sein de la femme
+D24	tumeur bénigne du quadrant inféro-interne du sein féminin
+D48.6	tumeur du quadrant inféro-interne du sein de la femme, à évolution imprévisible ou inconnue
+D48.6	tumeur du quadrant inféro-interne du sein féminin, à évolution imprévisible ou inconnue
+D05.9	carcinome in situ du quadrant inféro-interne du sein de la femme
+D05.9	carcinome intra-épithélial du quadrant inféro-interne du sein féminin
+D24	tumeur bénigne du quadrant supéro-externe du sein de la femme
+D24	tumeur bénigne du quadrant supéro-externe du sein féminin
+D48.6	tumeur du quadrant supéro-externe du sein de la femme, à évolution imprévisible ou inconnue
+D48.6	tumeur du quadrant supéro-externe du sein féminin, à évolution imprévisible ou inconnue
+D05.9	carcinome in situ du quadrant supéro-externe du sein de la femme
+D05.9	carcinome intra-épithélial du quadrant supéro-externe du sein féminin
+D24	tumeur bénigne du quadrant inféro-externe du sein de la femme
+D24	tumeur bénigne du quadrant inféro-externe du sein féminin
+D48.6	tumeur du quadrant inféro-externe du sein de la femme, à évolution imprévisible ou inconnue
+D48.6	tumeur du quadrant inféro-externe du sein féminin, à évolution imprévisible ou inconnue
+D05.9	carcinome in situ du quadrant inféro-externe du sein de la femme
+D05.9	carcinome intra-épithélial du quadrant inféro-externe du sein féminin
+D24	tumeur bénigne du prolongement axillaire du sein de la femme
+D24	tumeur bénigne du prolongement axillaire du sein féminin
+D48.6	tumeur du prolongement axillaire du sein de la femme, à évolution imprévisible ou inconnue
+D48.6	tumeur du prolongement axillaire du sein féminin, à évolution imprévisible ou inconnue
+D05.9	carcinome in situ du prolongement axillaire du sein de la femme
+D05.9	carcinome intra-épithélial du prolongement axillaire du sein féminin
+D24	tumeur bénigne des tissus mammaires ectopiques de la femme
+D24	tumeur bénigne des tissus mammaires ectopiques féminins
+D48.6	tumeur des tissus mammaires ectopiques de la femme, à évolution imprévisible ou inconnue
+D48.6	tumeur des tissus mammaires ectopiques féminins, à évolution imprévisible ou inconnue
+D05.9	carcinome in situ des tissus mammaires ectopiques de la femme
+D05.9	carcinome intra-épithélial des tissus mammaires ectopiques féminins
+D24	tumeur bénigne du sein de l'homme
+D24	tumeur bénigne du sein masculin
+D48.6	tumeur du sein de l'homme, à évolution imprévisible ou inconnue
+D48.6	tumeur du sein masculin, à évolution imprévisible ou inconnue
+D05.9	carcinome in situ du sein de l'homme
+D05.9	carcinome intra-épithélial du sein masculin
+D24	tumeur bénigne du mamelon du sein de l'homme
+D24	tumeur bénigne du mamelon du sein masculin
+D48.6	tumeur du mamelon du sein de l'homme, à évolution imprévisible ou inconnue
+D48.6	tumeur du mamelon du sein masculin, à évolution imprévisible ou inconnue
+D05.9	carcinome in situ du mamelon du sein de l'homme
+D05.9	carcinome intra-épithélial du mamelon du sein masculin
+D24	tumeur bénigne de l'aréole du sein de l'homme
+D24	tumeur bénigne de l'aréole du sein masculin
+D48.6	tumeur de l'aréole du sein de l'homme, à évolution imprévisible ou inconnue
+D48.6	tumeur de l'aréole du sein masculin, à évolution imprévisible ou inconnue
+D05.9	carcinome in situ de l'aréole du sein de l'homme
+D05.9	carcinome intra-épithélial de l'aréole du sein masculin
+D24	tumeur bénigne des tissus mammaires ectopiques de l'homme
+D24	tumeur bénigne des tissus mammaires ectopiques masculins
+D48.6	tumeur des tissus mammaires ectopiques de l'homme, à évolution imprévisible ou inconnue
+D48.6	tumeur des tissus mammaires ectopiques masculins, à évolution imprévisible ou inconnue
+D05.9	carcinome in situ des tissus mammaires ectopiques de l'homme
+D05.9	carcinome intra-épithélial des tissus mammaires ectopiques masculins
+D05.0	carcinome in situ lobulaire du sein
+D05.0	carcinome intra-épithélial lobulaire du sein
+D05.1	carcinome in situ intracanalaire du sein
+D05.1	carcinome intra-épithélial intracanalaire du sein
+D05.7	carcinome in situ de type précisé du sein
+D05.7	carcinome intra-épithélial de type précisé du sein
+D25.9	léiomyome utérin
+D25.0	léiomyome sous-muqueux de l'utérus
+D25.1	léiomyome intramural de l'utérus
+D25.2	léiomyome sous-séreux de l'utérus
+D39.2	grossesse molaire hydatiforme invasive
+D39.2	grossesse molaire avec chorioadénome destruens
+D39.2	grossesse molaire hydatiforme maligne
+D39.2	grossesse molaire hydatiforme dissécante
+D39.2	grossesse molaire avec chorioadénome
+D18.0	syndrome d'hémangiome placentaire
+D31.4	naevus de l'iris
+D31.4	naevus iridien
+D31.4	adénome de Fuchs
+D31.0	kyste dermoïde de la conjonctive
+D23.2	polype du conduit auditif externe
+D14.0	polype de l'oreille moyenne
+D14.0	polype aural
+D14.0	polype otique
+D33.9	tumeur bénigne du système nerveux
+D43.9	tumeur du système nerveux, à évolution imprévisible ou inconnue
+D33.9	tumeur bénigne du système nerveux central
+D43.9	tumeur du système nerveux central, à évolution imprévisible ou inconnue
+D33.2	tumeur bénigne du cerveau
+D33.2	tumeur bénigne cérébrale
+D33.2	tumeur bénigne de l'encéphale
+D43.2	tumeur du cerveau, à évolution imprévisible ou inconnue
+D43.2	tumeur de l'encéphale, à évolution imprévisible ou inconnue
+D43.2	tumeur cérébrale, à évolution imprévisible ou inconnue
+D33.0	tumeur bénigne de la portion sus-tentorielle du cerveau
+D33.0	tumeur bénigne cérébrale sus-tentorielle
+D43.0	tumeur de la portion sus-tentorielle du cerveau, à évolution imprévisible ou inconnue
+D43.0	tumeur cérébrale sus-tentorielle, à évolution imprévisible ou inconnue
+D33.0	tumeur bénigne du lobe frontal
+D43.0	tumeur du lobe frontal, à évolution imprévisible ou inconnue
+D33.0	tumeur bénigne du lobe temporal
+D43.0	tumeur du lobe temporal, à évolution imprévisible ou inconnue
+D33.0	tumeur bénigne du lobe pariétal
+D43.0	tumeur du lobe pariétal, à évolution imprévisible ou inconnue
+D33.0	tumeur bénigne du lobe occipital
+D43.0	tumeur du lobe occipital, à évolution imprévisible ou inconnue
+D33.0	tumeur bénigne des ventricules cérébraux
+D43.0	tumeur des ventricules cérébraux, à évolution imprévisible ou inconnue
+D32.0	tumeur bénigne des méninges cérébrales
+D42.0	tumeur des méninges cérébrales, à évolution imprévisible ou inconnue
+D33.1	tumeur bénigne du cervelet
+D33.1	tumeur bénigne cérébelleuse
+D43.1	tumeur du cervelet, à évolution imprévisible ou inconnue
+D43.1	tumeur cérébelleuse, à évolution imprévisible ou inconnue
+D33.7	tumeur bénigne du tronc cérébral
+D43.7	tumeur du tronc cérébral, à évolution imprévisible ou inconnue
+D33.4	tumeur bénigne de la moelle épinière
+D43.4	tumeur de la moelle épinière, à évolution imprévisible ou inconnue
+D33.4	tumeur bénigne de la queue de cheval
+D43.4	tumeur de la queue de cheval, à évolution imprévisible ou inconnue
+D32.1	tumeur bénigne des méninges rachidiennes
+D42.1	tumeur des méninges rachidiennes, à évolution imprévisible ou inconnue
+D32.9	tumeur bénigne des méninges
+D42.9	tumeur des méninges, à évolution imprévisible ou inconnue
+D42.9	tumeur méningée, à évolution imprévisible ou inconnue
+D33.3	tumeur bénigne des nerfs crâniens
+D43.3	tumeur des nerfs crâniens, à évolution imprévisible ou inconnue
+D33.3	tumeur bénigne du nerf olfactif
+D43.3	tumeur du nerf olfactif, à évolution imprévisible ou inconnue
+D33.3	tumeur bénigne du nerf optique
+D43.3	tumeur du nerf optique, à évolution imprévisible ou inconnue
+D33.3	tumeur bénigne du nerf oculomoteur
+D43.3	tumeur du nerf oculomoteur, à évolution imprévisible ou inconnue
+D33.3	tumeur bénigne du nerf pathétique
+D33.3	tumeur bénigne du nerf trochléaire
+D43.3	tumeur du nerf pathétique, à évolution imprévisible ou inconnue
+D43.3	tumeur du nerf trochléaire, à évolution imprévisible ou inconnue
+D33.3	tumeur bénigne du nerf trijumeau
+D43.3	tumeur du nerf trijumeau, à évolution imprévisible ou inconnue
+D33.3	tumeur bénigne du nerf moteur oculaire externe
+D33.3	tumeur bénigne du nerf abducens
+D43.3	tumeur du nerf moteur oculaire externe, à évolution imprévisible ou inconnue
+D43.3	tumeur du nerf abducens, à évolution imprévisible ou inconnue
+D33.3	tumeur bénigne du nerf facial
+D43.3	tumeur du nerf facial, à évolution imprévisible ou inconnue
+D33.3	tumeur bénigne du nerf auditif
+D43.3	tumeur du nerf auditif, à évolution imprévisible ou inconnue
+D33.3	tumeur bénigne du nerf glosso-pharyngien
+D43.3	tumeur du nerf glosso-pharyngien, à évolution imprévisible ou inconnue
+D33.3	tumeur bénigne du nerf pneumogastrique
+D33.3	tumeur bénigne du nerf vague
+D43.3	tumeur du nerf pneumogastrique, à évolution imprévisible ou inconnue
+D43.3	tumeur du nerf vague, à évolution imprévisible ou inconnue
+D33.3	tumeur bénigne du nerf accessoire
+D33.3	tumeur bénigne du nerf spinal
+D43.3	tumeur du nerf accessoire, à évolution imprévisible ou inconnue
+D43.3	tumeur du nerf spinal, à évolution imprévisible ou inconnue
+D33.3	tumeur bénigne du nerf grand hypoglosse
+D43.3	tumeur du nerf grand hypoglosse, à évolution imprévisible ou inconnue
+D36.1	tumeur bénigne des nerfs périphériques et du système nerveux autonome
+D48.2	tumeur des nerfs périphériques et du système nerveux autonome, à évolution imprévisible ou inconnue
+D36.1	tumeur bénigne des nerfs périphériques de la tête, de la face et du cou
+D36.1	tumeur bénigne des nerfs périphériques de la tête
+D36.1	tumeur bénigne des nerfs périphériques de la face
+D36.1	tumeur bénigne des nerfs périphériques faciaux
+D36.1	tumeur bénigne des nerfs périphériques du cou
+D36.1	tumeur bénigne des nerfs périphériques du membre supérieur et de l'épaule
+D36.1	tumeur bénigne des nerfs périphériques du membre supérieur
+D36.1	tumeur bénigne des nerfs périphériques de l'épaule
+D36.1	tumeur bénigne des nerfs périphériques du membre inférieur et de la hanche
+D36.1	tumeur bénigne des nerfs périphériques du membre inférieur
+D36.1	tumeur bénigne des nerfs périphériques de la hanche
+D36.1	tumeur bénigne des nerfs périphériques du thorax
+D36.1	tumeur bénigne des nerfs périphériques thoraciques
+D36.1	tumeur bénigne des nerfs périphériques de l'abdomen
+D36.1	tumeur bénigne des nerfs périphériques abdominaux
+D36.1	tumeur bénigne des nerfs périphériques du bassin
+D36.1	tumeur bénigne des nerfs périphériques pelviens
+D36.1	tumeur bénigne des nerfs périphériques du tronc
+D31.9	tumeur bénigne de l'oeil
+D48.7	tumeur de l'oeil, à évolution imprévisible ou inconnue
+D09.2	carcinome in situ de l'oeil
+D09.2	carcinome intra-épithélial de l'oeil
+D31.0	tumeur bénigne de la conjonctive
+D48.7	tumeur de la conjonctive, à évolution imprévisible ou inconnue
+D09.2	carcinome in situ de la conjonctive
+D09.2	carcinome intra-épithélial de la conjonctive
+D31.1	tumeur bénigne de la cornée
+D31.1	tumeur bénigne cornéenne
+D48.7	tumeur de la cornée, à évolution imprévisible ou inconnue
+D48.7	tumeur cornéenne, à évolution imprévisible ou inconnue
+D09.2	carcinome in situ de la cornée
+D09.2	carcinome intra-épithélial cornéen
+D31.4	tumeur bénigne du corps ciliaire
+D48.7	tumeur du corps ciliaire, à évolution imprévisible ou inconnue
+D09.2	carcinome in situ du corps ciliaire
+D09.2	carcinome intra-épithélial du corps ciliaire
+D31.4	tumeur bénigne de la sclérotique
+D48.7	tumeur de la sclérotique, à évolution imprévisible ou inconnue
+D09.2	carcinome in situ de la sclérotique
+D09.2	carcinome intra-épithélial de la sclérotique
+D31.4	tumeur bénigne de l'uvée
+D31.4	tumeur bénigne uvéale
+D48.7	tumeur de l'uvée, à évolution imprévisible ou inconnue
+D48.7	tumeur uvéale, à évolution imprévisible ou inconnue
+D09.2	carcinome in situ de l'uvée
+D09.2	carcinome intra-épithélial uvéal
+D31.3	tumeur bénigne de la choroïde de l'oeil
+D48.7	tumeur de la choroïde de l'oeil, à évolution imprévisible ou inconnue
+D09.2	carcinome in situ de la choroïde de l'oeil
+D09.2	carcinome intra-épithélial de la choroïde de l'oeil
+D31.2	tumeur bénigne de la rétine
+D31.2	tumeur bénigne rétinienne
+D48.7	tumeur de la rétine, à évolution imprévisible ou inconnue
+D48.7	tumeur rétinienne, à évolution imprévisible ou inconnue
+D09.2	carcinome in situ de la rétine
+D09.2	carcinome intra-épithélial rétinien
+D31.6	tumeur bénigne de l'orbite
+D48.7	tumeur de l'orbite, à évolution imprévisible ou inconnue
+D09.2	carcinome in situ de l'orbite
+D09.2	carcinome intra-épithélial de l'orbite
+D31.5	tumeur bénigne des glandes lacrymales
+D48.7	tumeur des glandes lacrymales, à évolution imprévisible ou inconnue
+D09.2	carcinome in situ des glandes lacrymales
+D09.2	carcinome intra-épithélial des glandes lacrymales
+D31.5	tumeur bénigne d'un canalicule lacrymal
+D48.7	tumeur d'un canalicule lacrymal, à évolution imprévisible ou inconnue
+D09.2	carcinome in situ d'un canalicule lacrymal
+D09.2	carcinome intra-épithélial d'un canalicule lacrymal
+D14.0	tumeur bénigne de l'oreille moyenne
+D38.5	tumeur de l'oreille moyenne, à évolution imprévisible ou inconnue
+D02.3	carcinome in situ de l'oreille moyenne
+D02.3	carcinome intra-épithélial de l'oreille moyenne
+D14.0	tumeur bénigne de la trompe d'Eustache
+D38.5	tumeur de la trompe d'Eustache, à évolution imprévisible ou inconnue
+D02.3	carcinome in situ de la trompe d'Eustache
+D02.3	carcinome intra-épithélial de la trompe d'Eustache
+D14.0	tumeur bénigne des cellules mastoïdiennes
+D38.5	tumeur des cellules mastoïdiennes, à évolution imprévisible ou inconnue
+D02.3	carcinome in situ des cellules mastoïdiennes
+D02.3	carcinome intra-épithélial des cellules mastoïdiennes
+D44.9	tumeur hormonale
+D44.8	dysfonctionnement pluriglandulaire au cours de l'adénomatose pluri-endocrinienne
+D44.8	adénomatose pluri-endocrinienne familiale
+D44.8	néoplasie endocrinienne multiple
+D44.8	adénomatose pluri-endocrinienne de type 1
+D44.8	polyadénomatose endocrinienne de type 1
+D44.8	syndrome de Wermer
+D44.8	NEM 1
+D44.8	AEM-I
+D44.8	néoplasie endocrinienne multiple de type 1
+D44.8	adénomatose pluri-endocrinienne de type 2
+D44.8	polyadénomatose endocrinienne de type 2
+D44.8	néoplasie endocrinienne multiple de type 2
+D44.8	NEM 2
+D44.8	syndrome de Sipple
+D44.8	adénomatose endocrinienne multiple de type 2
+D44.8	phéochromocytome familial
+D44.8	syndrome PTC
+D44.8	AEM-II
+D44.8	adénomatose pluri-endocrinienne de type 3
+D44.8	NEM 3
+D44.8	syndrome des neuromes muqueux
+D44.8	adénomatose pluri-endocrinienne de type 2b
+D44.8	syndrome de Lloyd
+D34	oncocytome de la glande thyroïde
+D35.9	tumeur bénigne d'une glande endocrine
+D44.9	tumeur d'une glande endocrine, à évolution imprévisible ou inconnue
+D09.3	carcinome in situ d'une glande endocrine
+D09.3	carcinome intra-épithélial d'une glande endocrine
+D35.8	tumeur bénigne de plusieurs glandes endocrines
+D44.8	tumeur de plusieurs glandes endocrines, à évolution imprévisible ou inconnue
+D44.8	tumeur pluriglandulaire, à évolution imprévisible ou inconnue
+D09.3	carcinome in situ de plusieurs glandes endocrines
+D09.3	carcinome intra-épithélial de plusieurs glandes endocrines
+D35.7	tumeur bénigne de glande endocrine précisée
+D34	tumeur bénigne de la glande thyroïde
+D34	tumeur bénigne thyroïdienne
+D34	tumeur bénigne de la thyroïde
+D44.0	tumeur de la glande thyroïde, à évolution imprévisible ou inconnue
+D44.0	tumeur de la thyroïde, à évolution imprévisible ou inconnue
+D44.0	tumeur thyroïdienne, à évolution imprévisible ou inconnue
+D09.3	carcinome in situ de la glande thyroïde
+D09.3	carcinome intra-épithélial thyroïdien
+D09.3	carcinome in situ de la thyroïde
+D34	tumeur bénigne du canal thyréoglosse
+D44.9	tumeur du canal thyréoglosse, à évolution imprévisible ou inconnue
+D09.3	carcinome in situ du canal thyréoglosse
+D09.3	carcinome intra-épithélial du canal thyréoglosse
+D35.1	tumeur bénigne des glandes parathyroïdes
+D35.1	tumeur bénigne parathyroïdienne
+D35.1	tumeur bénigne des parathyroïdes
+D44.2	tumeur des glandes parathyroïdes, à évolution imprévisible ou inconnue
+D44.2	tumeur des parathyroïdes, à évolution imprévisible ou inconnue
+D44.2	tumeur parathyroïdienne, à évolution imprévisible ou inconnue
+D09.3	carcinome in situ des glandes parathyroïdes
+D09.3	carcinome intra-épithélial parathyroïdien
+D09.3	carcinome in situ des parathyroïdes
+D35.0	tumeur bénigne des glandes surrénales
+D35.0	tumeur bénigne surrénalienne
+D44.1	tumeur des glandes surrénales, à évolution imprévisible ou inconnue
+D44.1	tumeur surrénalienne, à évolution imprévisible ou inconnue
+D09.3	carcinome in situ des glandes surrénales
+D09.3	carcinome intra-épithélial surrénalien
+D35.0	tumeur bénigne du cortex surrénal
+D35.0	tumeur bénigne cortico-surrénalienne
+D44.1	tumeur du cortex surrénal, à évolution imprévisible ou inconnue
+D44.1	tumeur cortico-surrénalienne, à évolution imprévisible ou inconnue
+D09.3	carcinome in situ du cortex surrénal
+D09.3	carcinome intra-épithélial cortico-surrénalien
+D35.0	tumeur bénigne de la médullosurrénale
+D35.0	tumeur bénigne médullosurrénalienne
+D44.1	tumeur de la médullosurrénale, à évolution imprévisible ou inconnue
+D44.1	tumeur médullosurrénalienne, à évolution imprévisible ou inconnue
+D09.3	carcinome in situ de la médullosurrénale
+D09.3	carcinome intra-épithélial médullosurrénalien
+D35.2	tumeur bénigne de la glande pituitaire
+D35.2	tumeur bénigne de l'hypophyse
+D44.3	tumeur de la glande pituitaire, à évolution imprévisible ou inconnue
+D44.3	tumeur de l'hypophyse, à évolution imprévisible ou inconnue
+D09.3	carcinome in situ de la glande pituitaire
+D09.3	carcinome intra-épithélial de l'hypophyse
+D35.3	tumeur bénigne du canal cranio-pharyngien
+D44.4	tumeur du canal cranio-pharyngien, à évolution imprévisible ou inconnue
+D09.3	carcinome in situ du canal cranio-pharyngien
+D09.3	carcinome intra-épithélial du canal cranio-pharyngien
+D35.4	tumeur bénigne de la glande pinéale
+D35.4	tumeur bénigne de l'épiphyse
+D44.5	tumeur de la glande pinéale, à évolution imprévisible ou inconnue
+D44.5	tumeur de l'épiphyse, à évolution imprévisible ou inconnue
+D09.3	carcinome in situ de la glande pinéale
+D09.3	carcinome intra-épithélial de l'épiphyse
+D35.6	tumeur bénigne des paraganglions
+D35.6	tumeur bénigne paraganglionnaire
+D44.7	tumeur des paraganglions, à évolution imprévisible ou inconnue
+D44.7	tumeur paraganglionnaire, à évolution imprévisible ou inconnue
+D35.5	tumeur bénigne du glomus carotidien
+D35.5	tumeur bénigne glomique carotidienne
+D35.5	tumeur bénigne du corpuscule carotidien
+D44.6	tumeur du glomus carotidien, à évolution imprévisible ou inconnue
+D44.6	tumeur du corpuscule carotidien, à évolution imprévisible ou inconnue
+D44.6	tumeur glomique carotidienne, à évolution imprévisible ou inconnue
+D35.6	tumeur bénigne du glomus aortique
+D35.6	tumeur bénigne glomique aortique
+D44.7	tumeur du glomus aortique, à évolution imprévisible ou inconnue
+D44.7	tumeur glomique aortique, à évolution imprévisible ou inconnue
+D35.6	tumeur bénigne du glomus jugulaire
+D35.6	tumeur bénigne glomique jugulaire
+D44.7	tumeur du glomus jugulaire, à évolution imprévisible ou inconnue
+D44.7	tumeur glomique jugulaire, à évolution imprévisible ou inconnue
+D35.6	tumeur bénigne des paraganglions aortiques
+D35.6	tumeur bénigne paraganglionnaire aortique
+D44.7	tumeur des paraganglions aortiques, à évolution imprévisible ou inconnue
+D44.7	tumeur paraganglionnaire aortique, à évolution imprévisible ou inconnue
+D35.6	tumeur bénigne du glomus coccygien
+D35.6	tumeur bénigne glomique coccygienne
+D44.7	tumeur du glomus coccygien, à évolution imprévisible ou inconnue
+D44.7	tumeur glomique coccygienne, à évolution imprévisible ou inconnue
+D44.8	néoplasie endocrinienne multiple type 3
+D35.6	tumeur bénigne du corps de Luschka
+D75.9	maladie du système hématopoïétique
+D75.9	maladie hématologique
+D75.9	maladie du sang
+D75.9	dyscrasie sanguine
+D75.9	affection du système hématopoïétique
+D75.9	syndrome hématologique
+D75.9	maladie du sang et des organes hématopoïétiques
+D61.9	cytopénie
+D75.9	cytopénie primitive
+D75.9	cytopénie secondaire
+D75.9	cytopénie légère
+D75.9	cytopénie modérée
+D75.9	cytopénie sévère
+D75.9	cytopénie toxique
+D75.9	cytopénie transitoire
+D61.9	pancytopénie acquise
+D61.9	pancytopénie auto-immune
+D61.9	hypoplasie de la moelle osseuse
+D61.9	dépression médullaire osseuse
+D61.9	aplasie médullaire
+D61.9	hypoplasie médullaire
+D75.8	hyperplasie légère de la moelle osseuse
+D75.8	hyperplasie modérée de la moelle osseuse
+D75.8	hyperplasie sévère de la moelle osseuse
+D75.8	hyperplasie récurrente de la moelle osseuse
+D75.8	hyperplasie de la moelle osseuse
+D75.8	prolifération des cellules hématopoïétiques
+D75.8	prolifération cellulaire hématopoïétique
+D75.8	hyperplasie de la lignée érythrocytaire
+D75.8	hyperplasie de la lignée myéloïde
+D75.8	hyperplasie myéloïde de la moelle osseuse
+D75.8	hyperplasie des neutrophiles de la moelle osseuse
+D75.8	hyperplasie des éosinophiles de la moelle osseuse
+D75.8	hyperplasie de la lignée mégacaryocytaire
+D47.1	myélofibrose
+D47.1	myélosclérose
+D75.9	maladie affectant les globules rouges
+D75.9	érythropénie
+D75.9	érythrocytopénie
+D64.9	anémie
+D64.8	anémie relative
+D64.8	anémie normochrome normocytaire
+D50.8	anémie hypochrome normocytaire
+D50.8	anémie hypochrome
+D50.8	anémie hypochrome idiopathique
+D50.8	anémie hypochrome microcytaire
+D50.8	anémie microcytaire hypochrome
+D64.8	anémie normochrome microcytaire
+D52.9	anémie macrocytaire
+D62	anémie par perte sanguine
+D62	anémie posthémorragique aiguë
+D62	anémie par perte de sang
+D62	anémie par perte sanguine aiguë
+D62	anémie par hémorragie aiguë
+D53.9	anémie par insuffisance alimentaire
+D53.9	anémie nutritionnelle
+D53.9	anémie carentielle
+D58.9	anémie hémolytique
+D58.8	anémie hémolytique à test de Coombs positif
+D58.8	anémie hémolytique à test de Coombs négatif
+D59.9	anémie hémolytique acquise
+D58.0	anémie hémolytique congénitale
+D58.9	anémie hémolytique héréditaire
+D59.9	anémie hémolytique idiopathique chronique
+D61.9	anémie par hypoplasie médullaire
+D61.9	hypoplasie de la lignée érythrocytaire
+D61.9	anémie hypoplasique
+D61.9	anémie arégénérative
+D61.9	anémie non régénérative
+D59.9	hémoglobinémie
+D74	méthémoglobinémie
+D74.0	méthémoglobinémie héréditaire de type enzymatique
+D74.8	méthémoglobinurie acquise
+D74.8	méthémoglobinémie acquise
+D74.8	méthémoglobinurie toxique
+D74.8	méthémalbuminémie
+D64.8	anémie par diminution de la production des globules rouges
+D64.8	anémie hypoproliférative
+D61.9	anémie par aplasie médullaire
+D61.9	aplasie érythrocytaire
+D61.9	anémie médullaire
+D61.9	anémie aplastique
+D61.0	anémie par aplasie médullaire constitutionnelle
+D61.0	anémie aplastique constitutionnelle
+D61.0	syndrome d'Estren-Dameshek
+D61.0	anémie aplastique d'Estren-Dameshek
+D61.3	anémie par aplasie médullaire acquise
+D61.3	anémie aplastique acquise
+D61.3	anémie aplastique idiopathique acquise
+D61.3	anémie par aplasie médullaire idiopathique acquise
+D61.2	anémie par aplasie médullaire secondaire
+D61.2	anémie aplastique secondaire
+D61.1	anémie par aplasie médullaire secondaire à des médicaments
+D61.1	aplasie médullaire médicamenteuse
+D61.2	anémie par aplasie médullaire secondaire au rayonnement
+D61.2	aplasie médullaire due au rayonnement
+D61.2	anémie par aplasie médullaire secondaire à des produits chimiques
+D61.2	aplasie médullaire due à des produits chimiques
+D61.2	aplasie médullaire toxique
+D61.2	anémie par aplasie médullaire toxique
+D61.2	anémie par aplasie médullaire secondaire à une infection
+D61.2	aplasie médullaire due à une infection
+D61.8	anémie par aplasie médullaire secondaire à un trouble métabolique
+D61.8	aplasie médullaire secondaire à un trouble métabolique
+D61.8	anémie par aplasie médullaire secondaire à une pancréatite
+D61.8	aplasie médullaire secondaire à une pancréatite
+D61.8	anémie par aplasie médullaire secondaire à une grossesse
+D61.8	aplasie médullaire secondaire à une grossesse
+D61.8	anémie par aplasie médullaire secondaire à une maladie générale chronique
+D61.8	aplasie médullaire secondaire à une maladie systémique chronique
+D61.8	anémie par aplasie médullaire immunologique
+D61.8	anémie aplastique immunologique
+D61.8	anémie par aplasie médullaire liée à un trouble de l'immunité humorale
+D61.8	anémie aplastique liée à un trouble de l'immunité humorale
+D61.8	anémie par aplasie médullaire liée à un trouble de l'immunité cellulaire
+D61.8	anémie aplastique liée à un trouble de l'immunité cellulaire
+D64.8	anémie par trouble de la prolifération et de la différenciation des cellules souches de la lignée rouge
+D64.8	anémie par trouble de la prolifération et de la différenciation des éléments précurseurs de la lignée rouge
+D61.0	aplasie isolée de la lignée rouge
+D61.0	aplasie primitive de la lignée rouge
+D61.0	anémie par atteinte isolée de la lignée rouge
+D61.0	aplasie aiguë isolée de la lignée rouge
+D61.0	anémie aiguë par atteinte isolée de la lignée rouge
+D61.0	aplasie chronique constitutionnelle isolée de la lignée rouge
+D61.0	érythroblastopénie chronique de l'enfant
+D61.0	hypoplasie érythrocytaire chronique
+D61.0	anémie érythrodysgénésique
+D61.0	anémie congénitale hypoplastique de Blackfan-Diamond
+D61.0	anémie de Blackfan-Diamond
+D61.0	anémie chronique par atteinte constitutionnelle isolée de la lignée rouge
+D61.0	hypoplasie congénitale de la lignée rouge
+D61.0	anémie par hypoplasie médullaire congénitale
+D61.0	anémie par hypoplasie médullaire familiale
+D60.0	aplasie chronique acquise isolée de la lignée rouge
+D60.0	aplasie médullaire chronique acquise pure
+D60.0	anémie chronique par atteinte acquise isolée de la lignée rouge
+D64.8	anémie des troubles endocriniens
+D64.8	anémie de l'insuffisance hypophysaire
+D64.8	anémie par dysfonctionnement de la thyroïde
+D64.8	anémie par dysfonctionnement des surrénales
+D64.8	anémie par dysfonctionnement des gonades
+D64.8	anémie par dysfonctionnement des parathyroïdes
+D64.8	anémie du diabète
+D64.8	anémie de l'insuffisance rénale chronique
+D64.4	anémie par dysérythropoïèse congénitale
+D64.4	anémie dysérythropoïétique congénitale
+D64.4	ADC
+D64.4	anémie par dysérythropoïèse congénitale type I
+D64.4	anémie dysérythropoïétique congénitale type I
+D64.4	anémie par dysérythropoïèse congénitale type II
+D64.4	anémie dysérythropoïétique congénitale type II
+D64.4	anémie par dysérythropoïèse congénitale type III
+D64.4	anémie dysérythropoïétique congénitale type III
+D53.1	anémie mégaloblastique
+D52.9	anémie mégaloblastique par carence en acide folique
+D52.9	anémie mégaloblastique par carence en folates
+D52.9	anémie par carence en acide folique
+D52.9	anémie par carence en folates
+D52.1	anémie par carence en acide folique d'origine médicamenteuse
+D52.0	anémie mégaloblastique par insuffisance alimentaire
+D52.0	anémie mégaloblastique nutritionnelle
+D52.0	anémie par carence alimentaire en acide folique
+D52.0	anémie par carence en acide folique d'origine alimentaire
+D53.1	anémie mégaloblastique par éthylisme
+D53.1	anémie mégaloblastique par alcoolisme
+D52.0	anémie mégaloblastique par hyperalimentation
+D53.1	anémie mégaloblastique par hémodialyse
+D52.0	anémie du lait de chèvre
+D52.8 - P61.4	anémie mégaloblastique par trouble de l'absorption de l'acide folique
+D53.1	anémie mégaloblastique de la sprue tropicale
+D53.1	anémie mégaloblastique de la sprue non tropicale
+D53.1	anémie mégaloblastique secondaire à une affection de l'intestin grêle
+D53.1	anémie mégaloblastique secondaire à une affection de l'iléon
+D53.1	anémie mégaloblastique par augmentation des besoins
+D59.9	anémie mégaloblastique par hémolyse chronique
+D53.1	anémie mégaloblastique de la dermatite exfoliatrice
+D53.1	anémie mégaloblastique de la dermite exfoliatrice
+D51.0	anémie pernicieuse
+D51.0	anémie de Biermer
+D51.0	maladie de Biermer
+D51.0	anémie d'Addison
+D51.0	anémie mégaloblastique par trouble de l'absorption de la cobalamine
+D51.1	anémie mégaloblastique par carence en vitamine B12
+D51.1	anémie mégaloblastique par carence en cobalamine
+D51.1	anémie par carence en vitamine B12
+D51.1	anémie mégaloblastique par diminution des apports en vitamine B12
+D51.1	anémie par carence alimentaire en vitamine B12
+D53.1	anémie mégaloblastique secondaire à une gastrectomie
+D53.1	anémie mégaloblastique du syndrome de Zollinger-Ellison
+D51.1	anémie mégaloblastique par malabsorption de la vitamine B12 avec protéinurie
+D53.1	anémie mégaloblastique du syndrome de l'anse de borgne
+D53.1	anémie mégaloblastique de l'infestation par le Diphyllobothrium latum
+D53.1	anémie mégaloblastique de l'insuffisance pancréatique
+D52.0	anémie mégaloblastique du végétarisme
+D52.0	anémie des végétariens stricts
+D52.0	anémie due à un régime végétarien
+D52.0	anémie due au végétalisme
+D53.1	anémie mégaloblastique aiguë
+D53.1	anémie mégaloblastique aiguë due au protoxyde d'azote
+D53.1	anémie mégaloblastique aiguë des grands malades
+D53.1	anémie mégaloblastique aiguë par dialyse
+D53.1	anémie mégaloblastique aiguë secondaire à l'alimentation parentérale
+D53.1	anémie mégaloblastique d'origine médicamenteuse
+D51.0	anémie mégaloblastique par trouble métabolique congénital
+D51.0	anémie pernicieuse congénitale
+D53.1	anémie mégaloblastique du sujet jeune
+D53.1	anémie mégaloblastique juvénile
+D51.1	anémie mégaloblastique congénitale
+D51.1	syndrome d'Imerslund-Najman-Gräsbeck
+D51.0	anémie mégaloblastique par déficit congénital en facteur intrinsèque
+D51.0	anémie par déficit congénital en facteur intrinsèque
+D52.8	anémie mégaloblastique par anomalie du métabolisme des folates
+D52.8	anémie mégaloblastique par anomalie du métabolisme de l'acide folique
+D51.8	anémie mégaloblastique par anomalie du métabolisme de la cobalamine
+D53.1	anémie mégaloblastique corrigée par la thiamine
+D53.1	anémie par carence concomitante en vitamine B12 et en acide folique
+D46.0	anémie mégaloblastique réfractaire
+D58.2	anémie liée à un trouble de la synthèse de l'hémoglobine
+D50.9	anémie par carence en fer
+D50.9	anémie ferriprive
+D50.9	anémie sidéropénique
+D50.0	anémie ferriprive par pertes sanguines chroniques
+D50.0	anémie par pertes sanguines chroniques
+D50.8	anémie ferriprive par insuffisance d'apport alimentaire
+D50.1	syndrome de Plummer-Vinson
+D50.1	dysphagie sidéropénique
+D50.1	syndrome de Paterson-Kelly
+D50.8	anémie avec achlorhydrie
+D50.8	anémie achlorhydrique
+D50.8	anémie achylique
+D50.8	anémie avec achylie
+D50.8	syndrome de Faber
+D50.8	atransferrinémie congénitale
+D56.9	thalassémie
+D56.9	syndrome thalassémique
+D56.9	thalassémie majeure
+D56.9	thalassémie homozygote
+D56.1	thalassémie intermédiaire
+D56.9	thalassémie mineure
+D56.9	syndrome de Rietti-Greppi-Micheli
+D56.3	thalassémie hétérozygote
+D56.3	trait thalassémique
+D56.1	bêta-thalassémie
+D56.1	bêta-thalassémie homozygote
+D56.1	maladie de Cooley
+D56.1	syndrome de Cooley
+D56.1	anémie de Cooley
+D56.1	anémie méditerranéenne
+D56.1	bêta^0^-thalassémie
+D56.1	bêta^0^-thalassémie avec délétion
+D56.1	bêta^0^-thalassémie sans délétion
+D56.1	bêta^+^-thalassémie
+D56.1	bêta^+^-thalassémie avec hémoglobine A>2<, type 1, silencieuse
+D56.1	bêta^+^-thalassémie avec hémoglobine A>2<, type 2
+D56.2	delta bêta-thalassémie
+D56.2	delta bêta^0^-thalassémie
+D56.8	a>gamma< bêta^0^-thalassémie
+D56.3	thalassémie Hb Lepore
+D56.8	a>gamma< bêta^+^PHHF et bêta^0^-thalassémie en cis
+D56.8	delta-thalassémie
+D56.8	delta^0^-thalassémie
+D56.8	epsilon gamma delta bêta-thalassémie
+D56.8	epsilon gamma delta bêta^0^-thalassémie
+D56.4	persistance héréditaire de l'hémoglobine foetale
+D56.4	PHHF
+D56.4	PHHF avec délétion
+D56.4	PHHF delta bêta^0^-thalassémie
+D56.4	PHHF sans délétion
+D56.4	PHHF liée au locus de la bêta-globine
+D56.4	PHHF G gamma bêta^+^-thalassémie
+D56.4	PHHF A gamma bêta^+^-thalassémie
+D56.4	PHHF non liée au locus de la bêta-globine
+D56.0	alpha-thalassémie
+D56.0	alpha^0^-thalassémie
+D56.0	alpha-thalassémie 1
+D56.0	alpha^+^-thalassémie
+D56.0	alpha-thalassémie 2
+D56.0	alpha^+^-thalassémie, avec délétion
+D56.0	alpha^+^-thalassémie, sans délétion
+D56.9	hémoglobinose H
+D58.2	hémoglobinose par hémoglobine instable
+D58.2	anémie congénitale avec corps de Heinz
+D59.8	anémie acquise avec corps de Heinz
+D64.9	anémie de mécanisme inconnu
+D64.9	anémie de mécanisme multiple
+D63.8	anémie des maladies chroniques
+D50.8	anémie sidéropénique avec sidérose réticulo-histocytaire
+D64.8	anémie par infection
+D53.9	anémie chronique simple
+D61.9	anémie myélophtisique
+D64.8	anémie leucoérythroblastique
+D64.8	leuco-érythroblastose
+D64.8	anémie par envahissement des espaces médullaires
+D53.9	anémie non mégaloblastique par carence nutritionnelle
+D53.8	anémie par carence en vitamine A
+D53.8	anémie par carence en vitamine B6
+D53.8	anémie par carence en pyridoxine
+D53.8	anémie par carence en riboflavine
+D53.8	anémie par carence en acide pantothénique
+D53.8	anémie par carence en niacine
+D53.2	anémie par carence en vitamine C
+D53.2	anémie scorbutique
+D53.2	anémie par carence en acide ascorbique
+D53.2	anémie du scorbut
+D53.8	anémie par carence en vitamine E
+D53.8	anémie par carence en cuivre
+D53.8	anémie par carence en zinc
+D53.8	anémie par inanition
+D53.0	anémie par carence protéinique
+D53.0	anémie du kwashiorkor
+D53.0	anémie par carence en acides aminés
+D53.8	anémie non mégaloblastique par éthylisme
+D53.8	anémie non mégaloblastique par alcoolisme
+D64.3	anémie sidéroblastique
+D46.1	anémie sidéroblastique réfractaire
+D46.4	anémie sidéroachrestique
+D64.3	anémie sidéroblastique primitive
+D53.1	anémie dimorphique
+D64.3	anémie sidéroblastique secondaire acquise
+D64.3	anémie sidéroblastique secondaire
+D64.3	anémie sidéroblastique acquise
+D64.2	anémie sidéroblastique d'origine médicamenteuse
+D64.2	anémie sidéroblastique secondaire médicamenteuse
+D64.0	anémie sidéroblastique héréditaire
+D64.0	anémie sidéroblastique congénitale
+D64.3	anémie sidéroblastique liée au chromosome X
+D64.3	anémie sidéroblastique liée au chromosome X réagissant à la pyridoxine
+D64.3	anémie sidéroblastique réagissant à la pyridoxine
+D46.1	anémie sidéroblastique liée au chromosome X réfractaire à la pyridoxine
+D46.1	anémie sidéroblastique autosomique réfractaire à la pyridoxine
+D58.8	anémie liée à une anomalie intrinsèque des globules rouges
+D58.8	anémie hémolytique d'origine intraglobulaire
+D59.8	anémie par lésion membranaire
+D58.0	sphérocytose héréditaire
+D58.0	sphérocytose familiale
+D58.0	syndrome de Minkowsky-Chauffard
+D58.0	sphérocytose congénitale
+D58.0	ictère acholurique familial
+D58.0	anémie hémolytique sphérocytaire congénitale
+D58.0	sphérocytose héréditaire par déficit en spectrine
+D58.0	sphérocytose héréditaire légère par déficit en spectrine
+D58.0	sphérocytose héréditaire importante par déficit en spectrine
+D58.0	sphérocytose héréditaire par déficit concomitant en spectrine et en ankyrine
+D58.0	sphérocytose héréditaire légère par déficit concomitant en spectrine et ankyrine
+D58.0	sphérocytose héréditaire importante par déficit concomitant en spectrine et en ankyrine
+D58.0	sphérocytose héréditaire par déficit en protéine 4.2
+D58.0	sphérocytose héréditaire par anomalie de la bêta-spectrine
+D58.1	elliptocytose héréditaire
+D58.1	elliptocytose
+D58.1	ovalocytose héréditaire
+D58.1	elliptocytose congénitale
+D58.1	ovalocytose congénitale
+D58.1	elliptocytose héréditaire par anomalie de l'alpha-spectrine
+D58.1	elliptocytose héréditaire par défaut de regroupement des dimères de la bêta-spectrine
+D58.1	pyropoïkilocytose héréditaire
+D58.1	PPH
+D58.1	elliptocytose héréditaire par interaction entre la bêta-spectrine et l'ankyrine
+D58.1	elliptocytose héréditaire par déficit en protéine 4.1
+D58.1	elliptocytose héréditaire par anomalie de la protéine 4.1
+D58.1	elliptocytose héréditaire par déficit en glycophorine C
+D58.8	acanthocytose héréditaire
+D58.8	syndrome chorée-acanthocytose
+D58.8	stomatocytose
+D58.8	stomatocytose héréditaire
+D58.8	hydrocytose héréditaire
+D59.8	stomatocytose acquise
+D58.8	xérocytose héréditaire
+D58.8	xérocytose
+D58.8	dessicocytose
+D59.5	hémoglobinurie nocturne paroxystique
+D59.5	HPN
+D59.5	syndrome de Marchiafava-Micheli
+D59.5	maladie de Marchiafava-Micheli
+D55.9	anémie par déficit enzymatique
+D59.2	anémie par déficit enzymatique d'origine médicamenteuse
+D55.0	anémie par déficit en glucose-6-phosphate déshydrogénase
+D55.0	anémie par déficit en G-6-PD
+D55.0	anémie par déficit d'une variante de la G-6-PD
+D55.0	anémie par déficit d'une variante de classe I de la G-6-PD
+D55.0	anémie par déficit d'une variante de classe II de la G-6-PD
+D55.0	anémie par déficit d'une variante de classe III de la G-6-PD
+D55.0	anémie par déficit d'une variante de classe IV de la G-6-PD
+D55.0	anémie par déficit d'une variante de classe V de la G-6-PD
+D55.1	anémie par anomalie de la voie des pentoses phosphates
+D55.0	anémie hémolytique congénitale non sphérocytaire
+D55.0	anémie hémolytique héréditaire non sphérocytaire
+D55.0	AHHNS
+D55.2	AHHNS par déficit en pyruvate kinase
+D55.2	anémie par déficit en pyruvate kinase
+D55.2	anémie par déficit en PK
+D55.2	AHHNS par déficit en hexokinase
+D55.2	anémie par déficit en hexokinase
+D55.2	AHHNS par déficit en glucose phosphate isomérase
+D55.2	AHHNS par déficit en phosphofructokinase
+D55.2	AHHNS par déficit en aldolase
+D55.2	AHHNS par déficit en triosephosphate isomérase
+D55.2	anémie par déficit en triosephosphate isomérase
+D55.2	AHHNS par déficit en phosphoglycérate kinase
+D55.2	AHHNS par déficit en diphosphoglycérate mutase
+D55.1	AHHNS par déficit en glutathion réductase
+D55.1	anémie par déficit en glutathion réductase érythrocytaire
+D55.1	AHHNS par déficit en gamma glutamyl cystéine synthétase
+D55.1	AHHNS par déficit en glutathion synthétase
+D55.3	AHHNS par déficit en pyrimidine-5'-nucléotidase
+D55.3	AHHNS par augmentation de l'activité de l'adénosine désaminase
+D55.3	AHHNS par diminution de l'activité de l'adénosine désaminase
+D55.3	AHHNS par déficit en NADH diaphorase
+D55.3	AHHNS par déficit en NADH-méthémoglobine réductase
+D58.2	hémoglobinopathie
+D58.2	hémoglobinose
+D58.2	dyshémoglobinose
+D58.2	anomalie de l'hémoglobine
+D58.8	hémoglobinose homozygote
+D58.8	hémoglobinopathie homozygote
+D58.8	hémoglobinose hétérozygote
+D58.8	hémoglobinopathie hétérozygote
+D58.8	trait de l'hémoglobinopathie
+D58.8	trait de l'hémoglobinose
+D57.1	hémoglobinose S
+D57.1	anémie à hématies falciformes
+D57.1	maladie des hématies falciformes
+D57.1	drépanocytémie
+D57.1	hémoglobinose S sans crise hémolytique
+D57.0	hémoglobinose S avec crise hémolytique
+D57.0	anémie à hématies falciformes avec crises
+D57.3	trait drépanocytaire
+D57.3	trait Hb-S
+D57.3	hémoglobinose SA
+D57.3	hémoglobinose de génotype AS
+D57.3	hémoglobinose S hétérozygote
+D58.2	hémoglobinose C
+D58.2	hémoglobinose CC
+D58.2	trait de l'hémoglobine C
+D58.2	hémoglobinose CA
+D58.2	hémoglobinose D
+D58.2	hémoglobinose DD
+D58.2	trait Hb-D
+D58.2	hémoglobinose DA
+D58.2	hémoglobinose E
+D58.2	hémoglobinose EE
+D58.2	trait Hb-E
+D58.2	hémoglobinose EA
+D58.2	hémoglobinopathie mixte
+D57.2	affection à hématies falciformes hétérozygotes doubles
+D57.2	hémoglobinose double hétérozygote SC
+D57.2	hémoglobinose SC
+D57.2	hémoglobinose double hétérozygote SD
+D57.2	hémoglobinose SD
+D57.2	hémoglobinose double hétérozygote SE
+D57.2	hémoglobinose SE
+D56.9	hémoglobinose SF
+D56.9	hémoglobinose mixte thalassémie-hémoglobine S
+D56.9	hémoglobinose thalassémie-drépanocytose
+D56.9	microdrépanocytose
+D56.9	hémoglobinose CF
+D56.9	hémoglobinose mixte thalassémie-hémoglobine C
+D56.9	thalassémie avec autre hémoglobinopathie
+D74.0	hémoglobinose M
+D74.0	méthémoglobinémie congénitale
+D74.0	hémoglobinopathie M héréditaire
+D74.0	méthémoglobinurie héréditaire
+D58.2	hémoglobinopathie avec cyanose
+D58.1	hémoglobinopathie avec érythrocytose
+D74.8	sulfhémoglobinémie
+D59.4	anémie par lésion extrinsèque des globules rouges
+D59.4	anémie hémolytique d'origine extraglobulaire
+D59.4	anémie par lésion mécanique des globules rouges
+D59.6	hémoglobinurie de marche
+D59.6	hémoglobinurie des sportifs
+D59.6	hémoglobinurie d'effort
+D59.4	anémie hémolytique par fragmentation intravasculaire des hématies
+D59.4	anémie hémolytique par prothèse vasculaire
+D59.4	anémie hémolytique d'origine mécanique
+D59.4	anémie hémolytique microangiopathique
+D59.4	hyperbilirubinémie de shunt
+D59.4	hyperbilirubinémie extracorporelle
+D59.4	anémie due à un produit chimique
+D59.4	anémie hémolytique d'origine toxique
+D59.4	anémie due à l'hydrogène arsénié
+D59.4	anémie due au plomb
+D59.4	anémie due au cuivre
+D59.4	anémie due aux chlorates
+D59.4	anémie due à l'oxygène
+D59.8	anémie hémolytique due à l'oxygène hyperbare
+D59.8	anémie hémolytique des astronautes
+D59.4	anémie due à un venin d'insecte
+D59.4	anémie par agent physique
+D59.4	anémie due à la chaleur
+D59.4	anémie par irradiation
+D74.8	syndrome de Stokvis-Talma
+D74.8	méthémoglobinémie acquise de l'enfant
+D74.8	maladie de Stokvis-Talma
+D74.8	cyanose entérogène
+D59.4	anémie hémolytique liée à une infection
+D59.4	anémie hémolytique de la malaria
+D59.4	anémie hémolytique du paludisme
+D59.4	anémie hémolytique de la bartonellose
+D59.4	anémie hémolytique de l'infection à Clostridium welchii
+D59.4	anémie hémolytique de la babésiose
+D59.1	anémie avec anticorps
+D59.1	anémie hémolytique auto-immune
+D59.1	anémie hémolytique par anticorps
+D59.1	isoérythrolyse néonatale
+D59.1	anémie hémolytique avec anticorps
+D59.1	anémie hémolytique auto-immune par IgG
+D59.1	anémie hémolytique auto-immune par IgG et complément
+D59.1	anémie hémolytique auto-immune par complément
+D59.1	anémie hémolytique auto-immune par IgA
+D59.1	anémie hémolytique auto-immune par IgA et complément
+D59.1	anémie hémolytique auto-immune par IgM
+D59.1	anémie hémolytique avec autoanticorps chauds
+D59.1	anémie hémolytique par anticorps chauds
+D59.1	anémie hémolytique type chaud
+D59.4	anémie hémolytique au cours d'une maladie lymphoproliférative
+D59.4	anémie hémolytique au cours d'un rhumatisme
+D59.4	anémie hémolytique au cours d'une affection rhumatismale
+D59.4	anémie hémolytique du lupus érythémateux disséminé
+D59.4	anémie hémolytique au cours d'une infection
+D59.4	anémie hémolytique au cours d'une néoplasie non lymphoïde
+D59.4	anémie hémolytique au cours d'une maladie inflammatoire chronique
+D59.4	anémie hémolytique au cours d'une recto-colite hémorragique
+D69.3	syndrome d'Evans
+D59.1	anémie hémolytique avec autoanticorps froids
+D59.1	anémie hémolytique par anticorps froids
+D59.1	anémie hémolytique type froid
+D59.1	anémie hémolytique a frigore
+D59.1	anémie hémolytique au cours d'une cryopathie
+D59.1	anémie hémolytique par autoanticorps froids
+D59.1	maladie des agglutinines froides
+D59.1	hémoglobinurie par agglutinines froides
+D59.1	maladie des agglutinines froides due à Mycoplasma pneumoniae
+D59.1	maladie des agglutinines froides chronique idiopathique
+D59.6	hémoglobinurie paroxystique a frigore idiopathique
+D59.6	anémie hémolytique de Donath-Landsteiner
+D59.6	hémoglobinurie paroxystique a frigore transitoire
+D59.6	hémoglobinurie paroxystique a frigore secondaire
+D59.2	anémie hémolytique d'origine médicamenteuse
+D59.2	anémie hémolytique due à un médicament
+D59.8	anémie hémolytique grande affinité pour l'haptène
+D59.8	anémie hémolytique avec faible affinité pour l'haptène
+D59.0	anémie hémolytique avec autoanticorps d'origine médicamenteuse
+D59.0	anémie hémolytique auto-immune médicamenteuse
+D59.8	anémie par hémolyse de globules rouges porteurs passifs
+D69.2	autosensibilité des hématies
+D69.2	syndrome de Gardner-Diamond
+D69.2	syndrome d'autosensibilisation aux hématies
+D59.8	syndrome de polyagglutinabilité des globules rouges
+D59.8	syndrome Tn
+D64.8	érythroblastose
+D64.8	érythroblastémie
+D75.1	polyglobulie secondaire
+D75.1	polyglobulie
+D75.1	érythrocytose
+D75.1	polycythémie secondaire
+D75.1	polycythémie acquise
+D75.1	polycythémie
+D75.1	érythrocytose secondaire
+D75.1	polyglobulie acquise
+D75.1	érythrocytose par diminution de la pression atmosphérique
+D75.1	polyglobulie due à l'altitude
+D75.1	polyglobulie de stress
+D75.1	polycythémie due au stress
+D75.1	polycythémie émotive
+D75.1	érythrocytose des maladies pulmonaires
+D75.1	érythrocytose des maladies cardio-vasculaires
+D75.1	syndrome de Gaisbock
+D75.1	polyglobulie hypertonique
+D75.1	polycythémie hypertonique
+D75.1	érythrocytose par hypoventilation alvéolaire
+D75.1	érythrocytose par trouble du transport de l'oxygène
+D75.1	érythrocytose par hypoxémie tissulaire
+D75.1	érythrocytose secondaire inappropriée
+D75.1	érythrocytose par kyste rénal
+D75.1	érythrocytose par hydronéphrose
+D75.1	érythrocytose par tumeur rénale
+D75.1	polyglobulie rénale
+D75.1	polycythémie néphrogène
+D75.1	polyglobulie néphrogène
+D75.1	érythrocytose par myome utérin
+D75.1	érythrocytose par hémangiome cérébelleux
+D75.1	érythrocytose par hépatome
+D75.1	érythrocytose des troubles endocriniens
+D75.0	érythrocytose héréditaire pure
+D75.0	polycythémie familiale
+D75.0	polycythémie due à l'érythropoïétine
+D75.0	érythrocytose congénitale
+D75.0	hyperérythropoïétinémie essentielle
+D75.0	polyglobulie familiale
+D75.0	polyglobulie par hyperproduction d'érythropoïétine
+D75.0	érythrocytose familiale
+D75.1	érythrocytose par autotransfusion
+D75.1	érythrocytose relative
+D75.1	polycythémie relative
+D75.1	pseudopolycythémie
+D75.1	polycythémie due à une chute du volume plasmatique
+D75.1	polyglobulie relative
+D75.1	polyglobulie bénigne
+D75.1	fausse polyglobulie
+D75.1	polyglobulie bénigne par diminution du volume plasmatique
+D75.1	polyglobulie par hémoglobine oxyphile
+D72.9	anomalie des globules blancs
+D72.8	leucocytose
+D72.8	neutrophilie
+D72.8	leucocytose à neutrophiles
+D72.8	granulocytose
+D72.8	neutrophilie aiguë
+D72.8	neutrophilie chronique
+D72.8	neutrophilie héréditaire
+D72.8	réaction leucémoïde
+D72.8	réaction leucémoïde à neutrophiles
+D72.8	réaction leucémoïde à granulocytes
+D72.8	réaction leucémoïde à myélocytes
+D72.8	pseudoneutrophilie
+D72.8	neutrophilie d'origine médicamenteuse
+D72.8	réaction leuco-érythroblastique
+D70	leucopénie
+D70	leucopénie auto-immune
+D70	neutropénie
+D70	hypoplasie granulocytaire
+D70	granulopénie
+D70	granulocytopénie
+D70	agranulocytose
+D70	aneutrophilie
+D70	granulocytopénie maligne
+D70	maladie de Schultz
+D70	angine agranulocytique
+D70	neutropénie congénitale
+D70	syndrome de Kostmann
+D70	neutropénie infantile héréditaire sévère
+D70	agranulocytose infantile héréditaire sévère
+D72.0	dysgénésie réticulaire
+D72.0	dysgénésie réticulaire avec aleucie congénitale
+D72.0	immunodéficience avec hypoplasie hématopoïétique diffuse
+D72.0	syndrome de De Vaal
+D72.0	aleucie congénitale
+D70	neutropénie avec dysgranulopoïèse
+D70	neutropénie cyclique
+D70	neutropénie périodique
+D70	neutropénie chronique idiopathique
+D70	neutropénie familiale
+D70	neutropénie familiale bénigne
+D70	neutropénie chronique bénigne
+D70	granulocytopénie bénigne de l'enfant
+D70	neutropénie chronique bénigne de l'enfant
+D70	myélokathéxie
+D72.0	syndrome des leucocytes paresseux
+D70	neutropénie immune
+D70	immunoneutropénie idiopathique chronique des adultes
+D70	neutropénie des maladies auto-immunes
+D70	neutropénie d'origine médicamenteuse
+D70	neutropénie par idiosyncrasie
+D70	neutropénie d'origine médicamenteuse liée à la dose
+D70	neutropénie d'origine médicamenteuse non liée à la dose
+D70	neutropénie médicamenteuse immunologique
+D70	neutropénie médicamenteuse allergique
+D70	neutropénie des maladies infectieuses
+D70	neutropénie hypoplasique chronique
+D70	neutropénie toxique
+D71	anomalie qualitative des granulocytes
+D71	anomalie des granulocytes
+D71	dysfonctionnement des neutrophiles
+D72.0	syndrome de May Hegglin
+D72.0	anomalie granulocytaire par trouble de l'immunité
+D72.0	déficit des granulations granulocytaires
+D72.0	anomalie des granulations
+D71	syndrome du déficit en myéloperoxydase
+D71	syndrome du déficit leukocytaire en glucose-6-phosphate déshydrogénase de l'adulte
+D72.0	défaut congénital d'adhérence des leucocytes
+D72.0	défaut d'adhérence des leucocytes
+D72.0	anomalie de Pelger-Huët
+D72.0	trouble de la motilité des neutrophiles
+D72.0	dysfonctionnement congénital de l'actine des neutrophiles
+D72.0	syndrome de dysfonctionnement de l'actine
+D72.0	trouble de la matrice cytoplasmique des neutrophiles
+D72.0	anomalie génétique des leucocytes
+D89.0	syndrome de Job
+D72.1	syndrome éosinophilique
+D72.1	éosinophilie
+D72.1	hyperéosinophilie idiopathique
+D72.1	hyperéosinophilie
+D72.1	éosinophilie familiale
+D72.1	éosinophilie héréditaire
+D72.1	éosinophilie allergique
+D72.1	hyperéosinophilie secondaire
+D72.8	éosinopénie
+D72.8	cytopénie portant sur les éosinophiles
+D72.8	monocytose
+D72.8	monocytose réactionnelle
+D72.8	monocytose chronique idiopathique
+D72.8	réaction leucémoïde à monocytes
+D76.1	histiocytose hémophagocytaire familiale
+D76.1	histiocytose hémophagocytaire d'origine infectieuse
+D76.3	mastocytose bénigne
+D76.3	mastocytose extracutanée localisée
+D76.3	mastocytose généralisée peu symptomatique
+D76.3	mastocytose généralisée évolutive
+D76.3	mastocytose réactionnelle
+D75.8	basophilie
+D75.8	hyperplasie basophile
+D72.8	lymphocytopathie
+D72.8	trouble des lymphocytes B
+D72.8	trouble des lymphocytes T
+D72.8	syndrome mononucléosique
+D72.8	syndrome mononucléosique avec anticorps hétérophiles
+D72.8	syndrome mononucléosique par virus d'Epstein Barr
+D72.8	syndrome mononucléosique sans anticorps hétérophiles
+D72.8	lymphocytose
+D72.8	lymphocytose aiguë infectieuse
+D72.8	lymphocytose persistante
+D72.8	réaction leucémoïde à lymphocytes
+D72.8	lymphocytopénie
+D72.8	alymphocytose
+D72.8	lymphopénie
+D72.8	lymphocytopénie épisodique
+D72.8	plasmocytose
+D75.8	hyperplasie plasmocytaire de la moelle osseuse
+D72.8	maladie lymphoproliférative atypique
+D71	maladie granulomateuse chronique
+D71	maladie granulomateuse chronique, type I
+D71	maladie granulomateuse chronique, type IA
+D71	maladie granulomateuse chronique, type II
+D71	maladie granulomateuse chronique, type IIA
+D71	maladie granulomateuse chronique, type III
+D71	maladie granulomateuse chronique, type IV
+D71	maladie granulomateuse chronique, type IVA
+D89.9	maladie du système immunitaire
+D89.9	trouble du système immunitaire
+D84.8	déficit immunitaire primitif
+D84.8	déficit immunitaire secondaire
+D89.8	maladie auto-immune
+D89.8	maladie immunoproliférative réactionnelle
+D84.8	immunodéficience congénitale
+D81.9	déficit immunitaire combiné sévère
+D81.9	DICS
+D81.1	DICS par lymphocytophtisie essentielle
+D80.0	DICS par alymphocytose
+D80.0	agammaglobulinémie de type suisse
+D81.3	DICS par absence d'adénosine désaminase
+D81.3	DICS par absence d'ADA
+D81.8	DICS par absence de récepteurs sur les lymphocytes T
+D81.8	DICS par absence de production de l'IL-2
+D81.8	DICS par absence de récepteurs de l'IL-2
+D81.7	DICS par absence des antigènes HLA de classe II
+D81.6	syndrome des lymphocytes nus
+D81.8	DICS par absence de maturation périphérique des lymphocytes T
+D89.8	hypoglobulinémie
+D82.0	syndrome de Wiskott-Aldrich
+D82.0	immunodéficience avec thrombopénie et eczéma
+D80.0	agammaglobulinémie liée au chromosome X
+D80.0	agammaglobulinémie liée au sexe
+D80.0	agammaglobulinémie de Bruton
+D80.0	agammaglobulinémie congénitale
+D80.1	agammaglobulinémie
+D80.1	hypogammablobulinémie
+D89.8	hypobêtaglobulinémie
+D89.8	hypoalphaglobulinémie
+D80.1	dysgammaglobulinémie
+D89.0	syndrome d'hyperimmunoglobulinémie M
+D80.2	déficit en immunoglobuline A
+D80.2	déficit en IgA
+D80.1	hypogammaglobulinémie à expression variable
+D80.1	HGGEV
+D81.4	syndrome de Nézelof
+D81.4	syndrome de dysplasie congénitale du thymus
+D80.1	hypogammaglobulinémie transitoire de la première enfance
+D82.1	immunodéficience avec thymome
+D82.4	syndrome d'hyperimmunoglobulinémie E
+D82.4	syndrome d'HIGE
+D89.2	hypergammaglobulinémie
+D89.0	hyperbêtaglobulinémie
+D89.0	hyperalphaglobulinémie
+D82.3	syndrome lymphoprolifératif lié au chromosome X
+D84.8	déficit d'une sous-classe de l'immunoglobuline G
+D84.8	déficit d'une sous-class de l'IgG
+D84.1	trouble du complément
+D84.1	anomalie du complément
+D84.1	maladie par déficit du complément
+D84.1	oedème angioneurotique héréditaire
+D84.1	maladie de Quincke héréditaire
+D84.1	déficit de l'inhibiteur de la C-1 estérase
+D84.1	oedème de Quincke forme héréditaire
+D84.1	syndrome de déficit familial en inhibiteur de C3B
+D84.1	déficit en properdine
+D47.2	dysprotidémie clonale
+D89.0	gammapathie
+D47.2	dyscrasie plasmocytaire
+D47.2	gammapathie monoclonale bénigne
+D47.2	gammapathie monoclonale asymptomatique
+D47.2	gammapathie monoclonale secondaire
+D89.0	gammapathie biclonale
+D89.0	gammapathie triclonale
+D89.0	gammapathie polyclonale
+D80.8	maladie des chaînes légères
+D80.8	maladie des chaînes légères kappa
+D80.8	maladie des chaînes légères lambda
+D75.9	syndrome d'hyperviscosité
+D75.9	syndrome de Reimann
+D47.2	syndrome POEMS
+D47.2	dyscrasie plasmocytaire avec polyneuropathie
+D47.2	dyscrasie plasmocytaire et lésions scléreuses de l'os
+D89.1	cryopathie
+D89.1	cryoglobulinémie
+D89.1	cryo-immunoglobulinémie
+D89.1	cryoglobulinémie primitive
+D89.1	cryoglobulinémie secondaire
+D89.1	cryo-immunoglobulinémie monoclonale
+D89.1	cryo-immunoglobulinémie mixte avec composante monoclonale
+D89.1	cryo-immunoglobulinémie mixte polyclonale
+D89.1	cryofibrinogénémie
+D89.1	cryofibrinogénémie primitive
+D89.1	cryofibrinogénémie secondaire
+D89.1	cryofibrinogénémie mixte
+D89.1	érythème au froid par cryoglobuline
+D89.1	érythème au froid par agglutinines froides
+D89.1	érythème au froid par hémolysines
+D68.9	trouble de la coagulation
+D68.9	trouble de l'hémostase
+D68.9	coagulopathie
+D68.9	maladie de l'hémostase
+D68.9	maladie de la coagulation
+D68.8	anomalie de la coagulation sanguine avec diminution du temps de coagulation
+D68.8	anomalie de la coagulation sanguine avec prolongation du temps de coagulation
+D68.8	anomalie de la coagulation sanguine avec diminution du temps de saignement
+D68.8	anomalie de la coagulation sanguine avec prolongation du temps de saignement
+D68.8	anomalie de la coagulation sanguine avec anomalie du temps de rétraction du caillot
+D75.8	hyperfibrinogénémie
+D68.8	trouble de la coagulation par atteinte hépatique
+D65	coagulation intravasculaire disséminée
+D65	syndrome de CIVD
+D65	affection thrombo-hémorragique par consommation
+D65	coagulopathie de consommation
+D65	syndrome de défibrination
+D65	fibrinogénolyse hémorragique
+D65	purpura fulminans
+D65	purpura fibrinolytique
+D65	fibrinogénolyse généralisée
+D68.3	hyperhéparinémie
+D69.9	diathèse hémorragique familiale
+D68.8	syndrome du thrombus blanc
+D69.1	trouble des plaquettes
+D69.1	thrombopathie
+D68.2	anomalie héréditaire des plaquettes
+D68.2	thrombocytopathie héréditaire
+D47.3	thrombocythémie
+D69.6	thrombopénie
+D69.6	thrombocytopénie
+D69.6	thrombopénie par diminution de la production des plaquettes
+D69.6	thrombopénie par trouble de la production des plaquettes
+D69.4	thrombopénie congénitale
+D69.4	thrombopénie héréditaire
+D69.4	thrombopénie amégakaryocytaire avec malformation congénitale
+D69.4	aplasie mégakaryocytaire
+D69.4	hypoplasie mégakaryocytaire
+D69.4	thrombopénie liée au sexe
+D69.4	macrothrombopénie méditerranéenne
+D69.5	thrombopénie acquise
+D69.5	thrombopénie secondaire
+D69.4	thrombopénie cyclique
+D69.4	dysgénésie plaquettaire intermittente
+D69.5	thrombopénie par destruction non immunitaire
+D75.8	syndrome de Kasabach-Merritt
+D75.8	hémangiome géant avec thrombopénie
+D75.8	thrombopénie avec angiome géant
+D69.5	thrombopénie par dilution
+D69.5	thrombopénie par pertes plaquettaires non compensées
+D69.5	thrombopénie induite par l'héparine
+D69.5	thrombopénie héparino-induite
+D69.5	thrombopénie immunologique
+D69.5	thrombopénie par allo-immunisation des plaquettes
+D69.8	syndrome de l'activation T
+D69.3	purpura thrombopénique idiopathique
+D69.0	purpura idiopathique
+D69.3	PTI
+D69.5	purpura thrombopénique d'origine médicamenteuse
+D69.5	PTI d'origine médicamenteuse
+D69.5	purpura thrombopénique infectieux
+D69.5	PTI après infection
+D69.3	purpura thrombopénique idiopathique aigu
+D69.3	purpura thrombopénique idiopathique chronique
+D69.3	purpura thrombopénique chronique
+D69.3	maladie de Werlhof
+D69.3	purpura hémorragique
+D69.3	thrombopénie auto-immune
+D69.5	purpura post-transfusionnel
+D69.0	purpura rhumatoïde
+D69.0	péliose rhumatismale
+D69.5	thrombopénie par séquestration
+D69.5	séquestration plaquettaire
+D69.5	thrombopénie par hypersplénisme
+D69.5	thrombopénie par hypothermie
+D69.5	thrombopénie due au froid
+D69.5	thrombopénie par pertes sanguines
+D69.5	thrombopénie de la circulation extracorporelle
+D75.8	thrombocytose
+D75.8	augmentation du nombre des plaquettes
+D69.1	modification qualitative des plaquettes
+D69.1	thrombasthénie
+D69.1	maladie de Bernard-Soulier
+D69.1	dystrophie thrombocytaire hémorragique
+D69.1	syndrome des plaquettes géantes
+D69.1	thrombasthénie héréditaire
+D69.1	maladie de Glanzmann-Naegeli
+D69.1	thrombasthénie de Glanzmann
+D69.1	maladie de Glanzmann
+D69.1	thrombocytopathie acquise
+D69.1	atteinte de la libération des plaquettes
+D69.1	thrombopathie des plaquettes grises
+D69.1	déficit en granules alpha
+D69.1	maladie plaquettaire du pool vide
+D69.1	thrombopathie par altération du stockage des nucléotides
+D69.1	déficit en granules denses des plaquettes
+D69.1	thrombopathie par altération des granules delta
+D69.1	déficit de l'activité procoagulante des plaquettes
+D69.5	dysfonctionnement plaquettaire d'origine médicamenteuse
+D69.5	dysfonctionnement plaquettaire par aspirine
+D69.2	purpura non allergique
+D69.2	purpura simple
+D69.2	fragilité cutanée aux traumatismes
+D69.2	purpura mécanique
+D69.2	purpura sénile
+D69.2	purpura de Bateman
+D69.2	purpura factice
+D69.2	purpura des stéroïdes
+D69.0	purpura infectieux
+D69.0	purpura allergique
+D69.0	purpura auto-immun
+D69.0	purpura de Schonlein-Henoch
+D69.0	purpura anaphylactoïde
+D69.0	purpura de Henoch
+D69.8	purpura médicamenteux
+D69.0	trouble de l'hémostase vasculaire
+D69.0	purpura vasculaire
+D69.8	fragilité capillaire constitutionnelle
+D68.9	syndrome lié à une carence en facteur de coagulation
+D68.9	maladie par déficit en facteur de coagulation
+D68.9	anomalie d'un facteur de la coagulation
+D68.2	carence héréditaire en facteur de coagulation
+D68.4	carence acquise en facteur de coagulation
+D68.2	carence héréditaire en facteur I
+D68.2	hypofibrinogénémie héréditaire
+D68.2	hypofibrinogénémie congénitale
+D68.2	afibrinogénémie congénitale
+D68.4	hypofibrinogénémie acquise
+D68.4	afibrinogénémie acquise
+D68.4	carence en fibrinogène
+D68.8	carence en facteur II
+D68.8	carence en prothrombine
+D68.2	carence héréditaire en facteur II
+D68.2	hypoprothrombinémie héréditaire
+D68.4	hypoprothrombinémie acquise
+D68.8	carence en facteur V
+D68.2	carence héréditaire en facteur V
+D68.2	maladie de Owren
+D68.2	parahémophilie
+D68.2	hypoproaccélérinémie héréditaire
+D68.2	carence en facteur labile
+D68.2	carence en globuline AC
+D68.4	carence acquise en facteur V
+D68.4	hypoproaccélérinémie acquise
+D68.8	carence en facteur VII
+D68.8	carence en facteur stable
+D68.2	carence héréditaire en facteur VII
+D68.2	hypoproconvertinémie héréditaire
+D68.4	carence acquise en facteur VII
+D68.4	hypoproconvertinémie acquise
+D66	hémophilie
+D66	hémophilie A
+D66	carence héréditaire en facteur VIII
+D66	hémophilie classique
+D66	carence en globuline antihémophilique
+D66	carence en facteur VIII lié au sexe
+D66	carence congénitale en facteur VIII
+D66	hémophilie A sévère
+D66	moins de 1% de facteur VIII normal
+D66	hémophilie A modérée
+D66	1-5% de facteur VIII normal
+D66	hémophilie A légère
+D66	6-60% de facteur VIII normal
+D68.4	carence acquise en facteur VIII
+D67	hémophilie B
+D67	carence héréditaire en facteur IX
+D67	maladie de Christmas
+D67	carence en facteur IX lié au sexe
+D68.4	carence acquise en facteur IX
+D68.8	carence en facteur X
+D68.2	carence héréditaire en facteur X
+D68.2	carence héréditaire en facteur Stuart
+D68.2	carence héréditaire en facteur Stuart-Prower
+D68.4	carence acquise en facteur X
+D68.4	carence acquise en facteur Stuart
+D68.1	carence héréditaire en facteur XI
+D68.1	hémophilie C
+D68.1	carence congénitale en facteur XI
+D68.1	maladie de Rosenthal
+D68.1	carence en facteur XI, type I
+D68.1	carence en facteur XI, type II
+D68.1	carence en facteur XI, type III
+D68.4	carence acquise en facteur XI
+D68.8	carence en facteur XII
+D68.2	carence héréditaire en facteur XII
+D68.2	carence héréditaire en facteur Hageman
+D68.4	carence acquise en facteur XII
+D68.4	carence acquise en facteur Hageman
+D68.8	carence en facteur XIII
+D68.8	carence en facteur stabilisant de la fibrine
+D68.2	carence héréditaire en facteur XIII
+D68.2	carence en facteur de Laki-Lorand
+D68.4	carence acquise en facteur XIII
+D68.8	carence en prékallicréine
+D68.8	carence en facteur de Fletcher
+D68.8	carence en kininogène de poids moléculaire élevé
+D68.8	carence en facteur de Fitzgerald
+D68.8	carence familiale en plusieurs facteurs de la coagulation
+D68.8	DFPFC
+D68.8	carence familiale en plusieurs facteurs de la coagulation, type I
+D68.8	DFPFC, type I
+D68.8	carence combinée en facteurs V et VIII
+D68.8	carence familiale en plusieurs facteurs de la coagulation, type II
+D68.8	DFPFC, type II
+D68.8	carence combinée en facteurs VIII et IX
+D68.8	carence familiale en plusieurs facteurs de la coagulation, type III
+D68.8	carence combinée en facteurs II, VII, IX et X
+D68.8	DFPFC, type III
+D68.8	carence familiale en plusieurs facteurs de la coagulation, type IV
+D68.8	DFPFC, type IV
+D68.8	carence combinée en facteurs VII et VIII
+D68.8	carence familiale en plusieurs facteurs de la coagulation, type V
+D68.8	DFPFC, type V
+D68.8	carence combinée en facteurs VIII, IX et XI
+D68.8	carence familiale en plusieurs facteurs de la coagulation, type VI
+D68.8	DFPFC, type VI
+D68.8	carence combinée en facteurs IX et XI
+D68.4	trouble de la coagulation par carence en vitamine K
+D68.4	diathèse hémorragique par carence en vitamine K
+D68.8	dysfibrinogénémie
+D68.2	dysfibrinogénémie congénitale
+D68.0	maladie de von Willebrand
+D68.0	carence en facteur VIII avec anomalie vasculaire
+D68.0	angiohémophilie
+D68.0	pseudohémophilie type B
+D68.0	hémophilie vasculaire
+D68.0	maladie de von Willebrand-Jürgens
+D68.0	thrombopathie constitutionnelle
+D68.0	maladie de von Willebrand, type 1^a^
+D68.0	maladie de von Willebrand, type IS/III
+D68.0	maladie de von Willebrand, type IIA
+D68.0	maladie de von Willebrand, type IIB
+D68.0	maladie de von Willebrand, type IIC
+D68.0	maladie de von Willebrand, type IID
+D68.0	maladie de von Willebrand, type IIE
+D68.0	maladie de von Willebrand, type IIF
+D68.0	maladie de von Willebrand, type IIG
+D68.0	maladie de von Willebrand, type IIH
+D68.0	maladie de von Willebrand, type plaquettaire
+D68.0	maladie de von Willebrand, type pseudo
+D68.4	maladie de von Willebrand acquise
+D68.3	anomalie des anticoagulants circulants
+D68.3	anticoagulants acquis
+D68.3	inhibiteur acquis de la coagulation
+D68.3	anomalie de l'inhibiteur du facteur VIII
+D68.3	anomalie de l'inhibiteur du facteur IX
+D68.3	anomalie de l'inhibiteur du facteur X
+D68.3	anomalie de l'inhibiteur du facteur XI
+D68.3	anomalie de l'inhibiteur du facteur XIII
+D68.3	anomalie de l'inhibiteur du facteur I
+D68.3	anomalie de l'inhibiteur du complexe fibrinogène-fibrine
+D68.3	anomalie de l'inhibiteur du facteur de von Willebrand
+D68.3	anomalie de l'inhibiteur du facteur V
+D68.3	anomalie des inhibiteurs de la coagulation d'origine médicamenteuse
+D68.8	anomalie de l'anticoagulant lupique
+D68.8	syndrome de l'inhibiteur de l'anticoagulant lupique
+D68.8	présence d'un inhibiteur au cours d'un LED
+D68.8	syndrome des anticorps antiphospholipides
+D68.8	trouble de l'anticoagulant non immun
+D68.8	carence en antithrombine III
+D68.3	troubles dus à l'anti-facteur II
+D68.3	troubles dus à l'antiprothrombine
+D68.8	surdosage en anticoagulant
+D68.8	surdosage en warfarine
+D68.8	maladie par carence en protéine C
+D68.8	maladie par carence en protéine S
+D68.8	anomalie de la fibrinolyse
+D68.8	hypoplasminogénémie
+D68.8	carence en plasminogène
+D68.2	hypoplasminogénémie héréditaire
+D68.2	carence héréditaire en plasminogène
+D68.2	carence autosomique dominante en plasminogène
+D68.2	carence autosomique dominante en profibrinolysine
+D68.8	hypoplasminogénémie acquise
+D68.8	carence acquise en plasminogène
+D68.8	dysplasminogénémie
+D68.2	dysplasminogénémie héréditaire
+D68.2	dysfonctionnement héréditaire du plasminogène
+D76.3	lymphadénopathie protéique
+D76.3	histiocytose sinusale avec adénopathie massive
+D76.3	maladie de Rosai-Dorfman
+D73.9	maladie de la rate
+D73.9	splénopathie
+D73.8	coloration anormale de la rate
+D73.8	pâleur de la rate
+D73.8	rate pâle
+D73.8	marbrure de la rate
+D73.8	rate marbrée
+D73.8	hématopoïèse splénique
+D73.1	hypersplénisme
+D73.1	dyssplénisme
+D73.1	séquestration splénique des globules rouges
+D73.1	syndrome de Doan-Wright
+D73.1	pancytopénie d'origine splénique
+D73.1	syndrome de Doan-Wiseman
+D73.1	neutropénie splénique primitive
+D73.1	neutropénie par splénomégalie
+D73.0	hyposplénisme
+D73.0	asplénie fonctionnelle
+D73.5	infarctus de la rate
+D73.0	atrophie de la rate
+D73.8	rate porphyroïde
+D73.4	kyste de la rate
+D73.8	fibrose splénique
+D73.5	déchirure non traumatique de la rate
+D73.8	splénite
+D73.8	splénite septique
+D73.8	hyperplasie réactionnelle aiguë de la rate
+D73.3	abcès splénique
+D73.8	périsplénite
+D73.8	périsplénite hyaline
+D73.8	splénose
+D73.8	rate sagou
+D73.5	hémorragie de la rate
+D73.5	hémorragie splénique
+D82.1	aplasie thymique avec déficit immunitaire
+D82.1	dysplasie thymique avec déficit immunitaire
+D47.9	tumeur des tissus lymphoïde, hématopoïétique ou apparentés, à évolution imprévisible ou inconnue
+D47.7	tumeur précisée des tissus lymphoïde, hématopoïétique ou apparentés, à évolution imprévisible ou inconnue
+D47.0	tumeur à histiocytes et mastocytes à évolution imprévisible ou inconnue
+D47.2	gammapathie monoclonale (clinique)
+D45	polyglobulie essentielle (clinique)
+D45	maladie de Vaquez (clinique)
+D47.1	maladie myéloproliférative chronique (clinique)
+D47.3	thrombocythémie essentielle (clinique)
+D47.3	thrombocythémie hémorragique idiopathique (clinique)
+D46.9	syndrome myélodysplasique (clinique)
+D46.4	anémie réfractaire non précisée (clinique)
+D46.0	anémie réfractaire non sidéroblastique (clinique)
+D46.0	anémie réfractaire sans sidéroblastes (clinique)
+D46.1	anémie réfractaire sidéroblastique (clinique)
+D46.1	anémie réfractaire avec sidéroblastes (clinique)
+D46.2	anémie réfractaire avec excès de blastes (clinique)
+D46.3	anémie réfractaire avec excès de blastes en transformation (clinique)
+D46.7	syndrome myélodysplasique de type précisé (clinique)
+D10.9	tumeur bénigne de l'anneau lymphatique de Waldeyer
+D37.0	tumeur de l'anneau lymphatique de Waldeyer, à évolution imprévisible ou inconnue
+D00.0	carcinome in situ de l'anneau lymphatique de Waldeyer
+D00.0	carcinome intra-épithélial de l'anneau lymphatique de Waldeyer
+D10.4	tumeur bénigne de l'amygdale
+D10.4	tumeur bénigne de l'amygdale palatine
+D37.0	tumeur de l'amygdale, à évolution imprévisible ou inconnue
+D37.0	tumeur de l'amygdale palatine, à évolution imprévisible ou inconnue
+D37.0	tumeur amygdalienne, à évolution imprévisible ou inconnue
+D00.0	carcinome in situ de l'amygdale
+D00.0	carcinome intra-épithélial de l'amygdale
+D00.0	carcinome intra-épithélial de l'amygdale palatine
+D00.0	carcinome in situ de l'amygdale palatine
+D10.6	tumeur bénigne de l'amygdale pharyngienne
+D37.0	tumeur de l'amygdale pharyngienne, à évolution imprévisible ou inconnue
+D00.0	carcinome in situ de l'amygdale pharyngienne
+D00.0	carcinome intra-épithélial de l'amygdale pharyngienne
+D10.1	tumeur bénigne de l'amygdale linguale
+D37.0	tumeur de l'amygdale linguale, à évolution imprévisible ou inconnue
+D00.0	carcinome in situ de l'amygdale linguale
+D00.0	carcinome intra-épithélial de l'amygdale linguale
+D13.9	tumeur bénigne de la rate
+D13.9	tumeur bénigne splénique
+D37.7	tumeur de la rate, à évolution imprévisible ou inconnue
+D37.7	tumeur splénique, à évolution imprévisible ou inconnue
+D01.7	carcinome in situ de la rate
+D01.7	carcinome intra-épithélial splénique
+D15.0	tumeur bénigne du thymus
+D15.0	tumeur bénigne thymique
+D38.4	tumeur du thymus, à évolution imprévisible ou inconnue
+D38.4	tumeur thymique, à évolution imprévisible ou inconnue
+D36.0	tumeur bénigne des ganglions lymphatiques
+D36.0	tumeur bénigne ganglionnaire lymphatique
+D48.7	tumeur des ganglions lymphatiques, à évolution imprévisible ou inconnue
+D48.7	tumeur ganglionnaire lymphatique, à évolution imprévisible ou inconnue
+D36.0	tumeur bénigne des ganglions lymphatiques de la tête
+D36.0	tumeur bénigne des ganglions lymphatiques de la face
+D36.0	tumeur bénigne des ganglions lymphatiques du cou
+D36.0	tumeur bénigne des ganglions lymphatiques occipitaux
+D36.0	tumeur bénigne des ganglions lymphatique parotidiens
+D36.0	tumeur bénigne des ganglions lymphatiques préauriculaires
+D36.0	tumeur bénigne des ganglions lymphatiques sous-maxillaires
+D36.0	tumeur bénigne des ganglions lymphatiques sous-mentonniers
+D36.0	tumeur bénigne des ganglions lymphatiques sus-claviculaires
+D36.0	tumeur bénigne des ganglions lymphatiques rétropharyngiens
+D36.0	tumeur bénigne des ganglions lymphatiques sous-claviculaires
+D36.0	tumeur bénigne des ganglions lymphatiques scalènes
+D36.0	tumeur bénigne des ganglions lymphatiques thoraciques
+D36.0	tumeur bénigne des ganglions lymphatiques broncho-pulmonaires
+D36.0	tumeur bénigne des ganglions lymphatiques du hile pulmonaire
+D36.0	tumeur bénigne des ganglions lymphatiques trachéo-bronchiques
+D36.0	tumeur bénigne des ganglions lymphatiques médiastinaux
+D36.0	tumeur bénigne des ganglions lymphatiques intercostaux
+D36.0	tumeur bénigne des ganglions lymphatiques abdominaux
+D36.0	tumeur bénigne des ganglions lymphatiques intestinaux
+D36.0	tumeur bénigne des ganglions lymphatiques mésentériques
+D36.0	tumeur bénigne des ganglions lymphatiques rétropéritonéaux
+D36.0	tumeur bénigne des ganglions lymphatiques du membre supérieur
+D36.0	tumeur bénigne des ganglions lymphatiques axillaires
+D36.0	tumeur bénigne des ganglions lymphatiques axillaires latéraux
+D36.0	tumeur bénigne des ganglions lymphatiques brachiaux
+D36.0	tumeur bénigne des ganglions lymphatiques axillaires pectoraux
+D36.0	tumeur bénigne des ganglions lymphatiques de la chaîne mammaire externe
+D36.0	tumeur bénigne de la chaîne ganglionnaire mammaire externe
+D36.0	tumeur bénigne des ganglions lymphatiques cubitaux
+D36.0	tumeur bénigne des ganglions lymphatiques épitrochléens
+D36.0	tumeur bénigne des ganglions lymphatiques du membre inférieur
+D36.0	tumeur bénigne des ganglions lymphatiques inguinaux
+D36.0	tumeur bénigne des ganglions lymphatiques inguinaux superficiels
+D36.0	tumeur bénigne des ganglions lymphatiques fémoraux
+D36.0	tumeur bénigne des ganglions lymphatiques poplités
+D36.0	tumeur bénigne des ganglions lymphatiques tibiaux
+D36.0	tumeur bénigne des ganglions lymphatiques de la cavité pelvienne
+D36.0	tumeur bénigne des ganglions lymphatiques intrapelviens
+D36.0	tumeur bénigne des ganglions lymphatiques iliaques
+D36.0	tumeur bénigne des ganglions lymphatiques obturateurs
+D36.0	tumeur bénigne des ganglions lymphatiques hypogastriques
+D36.0	tumeur bénigne des ganglions lymphatiques du paramètre
+D36.0	tumeur bénigne des ganglions lymphatiques paravaginaux
+D36.0	tumeur bénigne des ganglions lymphatiques pararectaux
+D36.0	tumeur bénigne des ganglions lymphatiques de sièges multiples
+D68.8	syndrome du clou plaquettaire
+D55.0	intoxication par Vicia faba
+D55.0	empoisonnement par la fève gourgane
+D55.0	intoxication par la fève des marais
+D55.0	favisme
+D86.9	sarcoïdose
+D86.9	sarcoïdes cutanées
+D86.9	maladie de Besnier-Boeck-Schaumann
+D86.9	lupus pernio de Besnier
+D86.9	lymphogranulomatose bénigne de Schaumann
+D86.9	sarcoïdes hypodermiques de Darier-Roussy
+D86.0	sarcoïdose pulmonaire
+D86.8	sarcoïdose splénique
+D86.1	sarcoïdose des ganglions lymphatiques
+D86.3	sarcoïdose cutanée
+D86.3	sarcoïdose sous-cutanée
+D86.8+	sarcoïdose cardiaque
+D86.8	sarcoïdose cérébrale
+D86.9	sarcoïdose, type annulaire
+D86.9	sarcoïdose, type nodulaire
+D86.9	sarcoïdose, type en plaques
+D86.9	sarcoïdose, type érythrodermique
+D86.9	sarcoïdose, type lupus pernio
+D86.9	sarcoïdose, type angiolupoïde
+D86.9	sarcoïdose, type Darier-Roussy
+D86.8	syndrome d'Heerfordt
+D86.8	febris uveo-parotidea subchronica
+D36.9	maladie néoplasique bénigne

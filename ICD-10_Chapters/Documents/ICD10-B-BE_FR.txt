@@ -1,0 +1,522 @@
+B00.0	eczéma herpétique
+B00.1	dermite vésiculaire due au virus de l'herpès
+B00.2	gingivo-stomatite et pharyngo-amygdalite due au virus de l'herpès
+B00.3	méningite due au virus de l'herpès
+B00.4	encéphalite due au virus de l'herpès
+B00.50	maladie oculaire due au virus de l'herpès, non spécifiée
+B00.51	iridocyclite due au virus de l'herpès
+B00.52	kératite due au virus de l'herpès
+B00.53	conjonctivite due au virus de l'herpès
+B00.59	d'autres maladies oculaires dues au virus de l'herpès
+B00.7	maladie disséminée due au virus de l'herpès
+B00.81	hépatite herpétique
+B00.82	myélite à herpes simplex
+B00.89	autre infection due au virus de l'herpès
+B00.9	infection due au virus de l'herpès, non spécifiée
+B01.0	méningite varicelleuse
+B01.11	encéphalite varicelleuse et encéphalomyélite varicelleuse
+B01.12	myélite varicelleuse
+B01.2	pneumonie varicelleuse
+B01.81	kératite varicelleuse
+B01.89	d'autres complications varicelleuse
+B01.9	varicelle sans complication
+B02.0	encéphalite zostérienne
+B02.1	méningite zostérienne
+B02.21	atteinte post-herpétique du ganglion géniculé
+B02.22	névralgie trigéminée post-herpétique
+B02.23	polynévrite post-zostérienne
+B02.24	myélite post-herpétique
+B02.29	d'autres manifestations post-herpétiques du système nerveux
+B02.30	zona ophtalmique, non spécifié
+B02.31	conjonctivite zostérienne
+B02.32	iridocyclite zostérienne
+B02.33	kératite zostérienne
+B02.34	sclérite zostérienne
+B02.39	zona avec une autre maladie ophtalmologique
+B02.7	zona disséminé
+B02.8	zona avec d'autres complications
+B02.9	zona sans complication
+B03	variole
+B04	virus orthopox simmien
+B05.0	rougeole compliquée d'une encéphalite
+B05.1	rougeole compliquée d'une méningite
+B05.2	rougeole compliquée d'une pneumonie
+B05.3	rougeole compliquée d'une otite moyenne
+B05.4	rougeole avec des complications intestinales
+B05.81	rougeole compliquée de kératite et de kératoconjonctivite
+B05.89	d'autres complications de rougéole
+B05.9	rougeole sans complication
+B06.0	rubéole avec des complications neurologiques, non spécifiée
+B06.1	encéphalite rubéoleuse
+B06.2	méningite rubéoleuse
+B06.9	rubéole avec une autre complication neurologique
+B06.81	pneumonie rubéoleuse
+B06.82	arthrite rubéoleuse
+B06.89	d'autres complications de rubéole
+B06.9	rubéole sans complication
+B07.0	verrue plantaire
+B07.8	d'autres verrues d'origine virale
+B07.9	verrues d'origine virale, non spécifiées
+B08.10	cowpox
+B08.11	vaccinia naturelle
+B08.2	orf
+B08.3	pseudovaccine 
+B08.3	nodule des trayeurs
+B08.4	paravaccine, non spécifiée
+B08.9	d'autres infections à virus orthopox
+B08.1	molluscum contagiosum
+B08.20	exanthème subit, non spécifié
+B08.20	sixième maladie, non spécifié
+B08.20	roséole infantile, non spécifié
+B08.21	exanthème subit due au virus herpès humain 6
+B08.21	sixième maladie due au virus herpès humain 6
+B08.21	roséole infantile due au virus herpès humain 6
+B08.22	exanthème subit due au virus herpès humain 7
+B08.22	sixième maladie due au virus herpès humain 7
+B08.22	roséole infantile due au virus herpès humain 7
+B08.3	érythème infectieux
+B08.3	cinquième maladie
+B08.3	mégalérythème épidémique
+B08.4	stomatite vésiculaire avec exanthème, due au entérovirus
+B08.5	pharyngite vésiculaire due au entérovirus
+B08.60	infection à virus parapox, non spécifiée
+B08.61	stomatite bovine
+B08.62	virus parapox de phoque
+B08.69	d'autres infections à virus parapox
+B08.70	infection à virus yatapox, non spécifiée
+B08.71	syndrome du virus de Tanapox
+B08.72	fièvre de Yaba
+B08.72	fièvre Yaba
+B08.79	d'autres infections à virus yatapox
+B08.8	d'autres infections virales spécifiées, caractérisées par des lésions muco-cutanées
+B09	infection virale caractérisée par des lésions muco-cutanées, non spécifiée
+B10.1	encéphalite à virus herpès humain 6
+B10.9	autre encéphalite à virus herpès humain
+B10.81	infection à virus herpès humain 6
+B10.82	infection à virus herpès humain 7
+B10.89	autre infection à virus herpès humain
+B15.0	hépatite A avec coma hépatique
+B15.9	hépatite A sans coma hépatique
+B16.0	hépatite aiguë B avec l'agent delta, avec coma hépatique
+B16.1	hépatite aiguë B avec l'agent delta, sans coma hépatique
+B16.2	hépatite aiguë B sans agent delta, avec coma hépatique
+B16.9	hépatite aiguë B, sans agent delta sans coma hépatique
+B17.0	infection aiguë par l'agent delta de sujet porteur d'hépatite B
+B17.0	surinfection aiguë par l'agent delta de sujet porteur d'hépatite B
+B17.10	hépatite aiguë C, sans coma hépatique
+B17.11	hépatite aiguë, avec coma hépatique
+B17.2	hépatite aiguë E
+B17.8	d'autres hépatites virales aiguës spécifiées
+B17.9	hépatites virales aiguës, non spécifiée
+B18.0	hépatite virale chronique B avec l'agent delta
+B18.1	hépatite virale chronique B sans agent delta
+B18.2	hépatite virale chronique C
+B18.8	d'autres hépatites virales chroniques
+B18.9	hépatite virale chronique, non spécifiée
+B19.0	hépatite virale, non spécifiée, avec coma
+B19.10	hépatite virale B non spécifiée, sans coma hépatique
+B19.11	hépatite virale B non spécifiée, avec coma hépatique
+B19.20	hépatite virale C non spécifiée, sans coma hépatique
+B19.21	hépatite virale C non spécifiée, avec coma hépatique
+B19.9	hépatite virale, non spécifiée, sans coma
+B20	VIH, à l'origine de maladies infectieuses et parasitaires
+B20	immunodéficience humaine virale, à l'origine de maladies infectieuses et parasitaires
+B33.1	maladie de Ross River
+B33.20	cardite virale, non spécifiée
+B33.21	endocardite virale
+B33.22	myocardite virale
+B33.23	péricardite virale
+B33.24	cardiomyopathie virale
+B37.2	candidose de la peau et des ongles
+B37.3	candidose de la vulve et du vagin
+B37.41	cystite et urétrite à Candida
+B37.42	balanite à Candida
+B37.49	candidose d'autres localisations uro-génitales
+B37.5	méningite à Candida
+B37.6	endocardite à Candida
+B37.7	septicémie à Candida
+B47.0	eumycétome
+B47.1	actinomycétome
+B47.9	mycétome, non spécifiée
+B48.0	lobomycose
+B48.1	rhinosporidose
+B48.2	alleschériose
+B48.3	géotrichose
+B48.4	pénicilliose
+B48.8	d'autres mycoses spécifiées
+B49	mycose, non spécifiée
+B25.0	pneumonie à cytomégalovirus
+B25.1	hépatite à cytomégalovirus
+B25.2	pancréatite à cytomégalovirus
+B25.8	d'autres maladies à cytomégalovirus
+B25.9	maladie à cytomégalovirus, non spécifiée
+B26.0	orchite ourlienne
+B26.1	méningite ourlienne
+B26.2	encéphalite ourlienne
+B26.3	pancréatite ourlienne
+B26.81	hépatite ourlienne
+B26.82	myocardite ourlienne
+B26.83	néphrite ourlienne
+B26.84	polynévrite ourlienne
+B26.85	arthrite ourlienne
+B26.89	d'autres complications ourliennes
+B26.9	oreillons sans complication
+B27.0	mononucléose due au virus herpès gamma, sans complications
+B27.1	mononucléose due au virus herpès gamma avec polyneuropathie
+B27.2	mononucléose due au virus herpès gamma avec méningite
+B27.9	mononucléose due au virus herpès gamma avec d'autres complications
+B27.10	mononucléose à cytomégalovirus, sans complications
+B27.11	mononucléose à cytomégalovirus avec polyneuropathie
+B27.12	mononucléose à cytomégalovirus avec méningite
+B27.19	mononucléose à cytomégalovirus avec d'autres complications
+B27.80	d'autres mononucléoses infectieuses, sans complications
+B27.81	d'autres mononucléoses infectieuses avec polyneuropathie
+B27.82	d'autres mononucléoses infectieuses avec méningite
+B27.89	d'autres mononucléoses infectieuses avec d'autres complications
+B27.90	mononucléose infectieuse, non spécifiée, sans complications
+B27.91	mononucléose infectieuse, non spécifiée, avec polyneuropathie
+B27.92	mononucléose infectieuse, non spécifiée, avec méningite
+B27.99	mononucléose infectieuse, non spécifiée, avec d'autres complications
+B30.0	kératoconjonctivite due au adénovirus
+B30.1	conjonctivite due au adénovirus
+B30.2	pharyngo-conjonctivite virale
+B30.3	conjonctivite hémorragique aiguë épidémique
+B30.3	conjonctivite hémorragique aiguë épidémique entérovirale
+B30.8	d'autres conjonctivites virales
+B30.9	conjonctivite virale, non spécifiée
+B33.0	myalgie épidémique
+B33.3	infections à rétrovirus, non classées ailleurs
+B33.4	syndrome pulmonaire à hantavirus
+B33.4	syndrome cardio-pulmonaire à hantavirus
+B33.4	HPS
+B33.4	HCPS
+B33.8	d'autres maladies à virus spécifiées
+B34.0	infection adénovirale, non spécifiée
+B34.1	infection entérovirale, non spécifiée
+B34.2	infection coronavirale, non spécifiée
+B34.3	infection parvovirale, non spécifiée
+B34.4	infection papovavirale, non spécifiée
+B34.8	d'autres infections virales, site non spécifié
+B34.9	infection virale, non spécifiée
+B35.0	teigne de la barbe et du cuir chevelu
+B35.1	teigne de l'ongle
+B35.2	teigne de la main
+B35.3	teigne du pied
+B35.4	teigne de la peau glabre
+B35.5	teigne imbriquée
+B35.6	teigne du membre inférieur
+B35.8	d'autres dermatophytoses
+B35.9	dermatophytose, non spécifiée
+B36.0	pityriasis versicolor
+B36.1	tinéa nigra
+B36.2	piedra blanche
+B36.3	piedra noire
+B36.8	d'autres mycoses superficielles spécifiées
+B36.9	mycose superficielle, non spécifiée
+B37.0	stomatite à Candida
+B37.1	candidose pulmonaire
+B37.81	oesophagite à Candida
+B37.82	entérite à Candida
+B37.83	chéilite à Candida
+B37.84	otite externe à Candida
+B37.89	d'autres sites de candidose
+B37.9	candidose, non spécifiée
+B38.0	coccidioïdomycose pulmonaire aiguë
+B38.1	coccidioïdomycose pulmonaire chronique
+B38.2	coccidioïdomycose pulmonaire, non spécifiée
+B38.3	coccidioïdomycose cutanée
+B38.4	méningite à coccidioïdomycose
+B38.7	coccidioïdomycose disséminée
+B38.81	coccidioïdomycose prostatique
+B38.89	d'autres formes de coccidioïdomycose
+B38.9	coccidioïdomycose, non spécifiée
+B39.0	histoplasmose pulmonaire aiguë à Histoplasma capsulatum
+B39.1	histoplasmose pulmonaire chronique à Histoplasma capsulatum
+B39.2	histoplasmose pulmonaire à Histoplasma capsulatum, non spécifiée
+B39.3	histoplasmose disséminée à Histoplasma capsulatum
+B39.4	histoplasmose à Histoplasma capsulatum, non spécifiée
+B39.5	histoplasmose à Histoplasma duboisii
+B39.9	histoplasmose, non spécifiée
+B40.0	blastomycose pulmonaire aiguë
+B40.1	blastomycose pulmonaire chronique
+B40.2	blastomycose pulmonaire, non spécifiée
+B40.3	blastomycose cutanée
+B40.7	blastomycose disséminée
+B40.81	blastomycose meningoencéphalitique
+B40.89	d'autres formes de blastomycose
+B40.9	blastomycose, non spécifiée
+B41.0	paracoccidioïdomycose pulmonaire
+B41.7	paracoccidioïdomycose disséminée
+B41.8	d'autres formes de paracoccidioïdomycose
+B41.9	paracoccidioïdomycose, non spécifiée
+B42.0	sporotrichose pulmonaire
+B42.1	sporotrichose lympho-cutanée
+B42.7	sporotrichose disséminée
+B42.81	sporotrichose cérébrale
+B42.82	arthrite à Sporotrichose
+B42.89	d'autres formes de sporotrichose
+B42.9	sporotrichose, non spécifiée
+B43.0	chromomycose cutanée
+B43.1	abcès phaeohyphomycosique de l'encéphale
+B43.2	abcès et kyste phaeohyphomycosiques sous-cutanés
+B43.8	d'autres formes de chromomycose
+B43.9	chromomycose, non spécifiée
+B44.0	aspergillose pulmonaire invasive
+B44.1	d'autres aspergilloses pulmonaires
+B44.2	aspergillose amygdalienne
+B44.7	aspergillose disséminée
+B44.81	aspergillose allergique broncho-pulmonaire
+B44.89	d'autres formes d'aspergillose
+B44.9	aspergillose, non spécifiée
+B45.0	cryptococcose pulmonaire
+B45.1	cryptococcose cérébrale
+B45.2	cryptococcose cutanée
+B45.3	cryptococcose osseuse
+B45.7	cryptococcose disséminée
+B45.8	d'autres formes de cryptococcose
+B45.9	cryptococcose, non spécifiée
+B46.0	mucormycose pulmonaire
+B46.1	mucormycose rhinocérébrale
+B46.2	mucormycose gastro-intestinale
+B46.3	mucormycose cutanée
+B46.4	mucormycose disséminée
+B46.5	mucormycose, non spécifiée
+B46.8	d'autres zygomycoses
+B46.9	zygomycose, non spécifiée
+B50.0	paludisme à Plasmodium falciparum avec des complications cérébrales
+B50.8	d'autres formes sévères et compliquées de paludisme à Plasmodium falciparum
+B50.9	paludisme à Plasmodium falciparum, non spécifié
+B51.0	paludisme à Plasmodium vivax, avec une rupture de la rate
+B51.8	paludisme à Plasmodium vivax, avec d'autres complications
+B51.9	paludisme à Plasmodium vivax, sans complication
+B52.0	paludisme à Plasmodium malariae, avec une atteinte rénale
+B52.8	paludisme à Plasmodium malariae, avec d'autres complications
+B52.9	paludisme à Plasmodium malariae, sans complication
+B53.0	paludisme à Plasmodium ovale
+B53.1	paludisme à plasmodies simiennes
+B53.8	d'autres paludismes, confirmés par un examen parasitologique, non classés ailleurs
+B54	paludisme, non spécifié
+B55.0	leishmaniose viscérale
+B55.1	leishmaniose cutanée
+B55.2	leishmaniose muco-cutanée
+B55.9	leishmaniose, non spécifiée
+B56.0	trypanosomiase à Trypanosoma gambiense
+B56.1	trypanosomiase à Trypanosoma rhodesiense
+B56.9	trypanosomiase africaine, non spécifiée
+B57.0	forme aiguë de la maladie de Chagas, avec une atteinte cardiaque
+B57.1	forme aiguë de maladie de Chagas, sans atteinte cardiaque
+B57.2	maladie de Chagas (chronique) avec une atteinte cardiaque
+B57.30	maladie de Chagas avec une atteinte du système digestif, non spécifiée
+B57.31	maladie de Chagas avec méga-oesophage
+B57.32	maladie de Chagas avec mégacôlon
+B57.39	maladie de Chagas avec une autre atteinte digestive
+B57.40	maladie de Chagas avec une atteinte du système nerveux, non spécifiée
+B57.41	maladie de Chagas avec méningite
+B57.42	maladie de Chagas avec méningo-encéphalite
+B57.49	maladie de Chagas avec une autre atteinte du système nerveux
+B57.5	maladie de Chagas (chronique) avec une atteinte d'autres organes
+B58.0	oculopathie à Toxoplasma, non spécifiée
+B58.1	choriorétinite à Toxoplasma
+B58.9	autre oculopathie à Toxoplasma
+B58.1	hépatite à Toxoplasma
+B58.2	méningo-encéphalite à Toxoplasma
+B58.3	toxoplasmose pulmonaire
+B58.81	myocardite à Toxoplasma
+B58.82	myosite à Toxoplasma
+B58.83	néphropathie tubulo-interstitielle à Toxoplasmose
+B58.89	toxoplasmose avec une atteinte d'autres organes
+B58.9	toxoplasmose, non spécifiée
+B59	pneumocystose
+B60.0	babésiose
+B60.10	acanthamoebiose, non spécifiée
+B60.11	méningo-encéphalite due à Acanthamoeba (culbertsoni)
+B60.12	conjonctivite due à Acanthamoeba
+B60.13	kératoconjonctivite due à Acanthamoeba
+B60.19	d'autres maladie due à Acanthamoeba
+B60.2	naegleriase
+B60.8	d'autres maladies spécifiées dues à des protozoaires
+B64	maladie due à des protozoaires, non spécifiée
+B65.0	schistosomiase due à Schistosoma haematobium [schistosomiase urinaire]
+B65.1	schistosomiase due à Schistosoma mansoni [schistosomiase intestinale]
+B65.2	schistosomiase due à Schistosoma japonicum
+B65.3	dermite cercarienne
+B65.8	d'autres formes de schistosomiase
+B65.9	schistosomiase, non spécifiée
+B66.0	opisthorchiase
+B66.1	clonorchiase
+B66.2	dicrocoeliase
+B66.3	fasciolase
+B66.4	paragonimiase
+B66.5	fasciolopsiase
+B66.8	d'autres infections spécifiées par douves
+B66.9	infection par douves, non spécifiée
+B67.0	echinococcose granuleuse du foie
+B67.1	echinococcose granuleuse du poumon
+B67.2	echinococcose granuleuse de l'os
+B67.31	echinococcose granuleuse de la thyroïde
+B67.32	echinococcose granuleuse, multiples sites
+B67.39	echinococcose granuleuse, d'autres sites
+B67.4	echinococcose granuleuse, non spécifiée
+B67.5	echinococcose multilocaire du foie
+B67.61	echinococcose multilocaire, multiples sites
+B67.69	echinococcose multilocaire, d'autres sites
+B67.7	echinococcose multilocaire, non spécifiée
+B67.8	echinococcose du foie, non spécifiée
+B67.90	échinococcose, non spécifiée
+B67.99	d'autres échinococcoses
+B68.0	infection à Taenia solium
+B68.1	infection à Taenia saginata
+B68.9	infection à Taenia, non spécifiée
+B69.0	cysticercose du système nerveux central
+B69.1	cysticercose de l'oeil
+B69.81	cysticercose à myosite
+B69.89	cysticercose, d'autres sites
+B69.9	cysticercose, non spécifiée
+B70.0	diphyllobothriase
+B70.1	sparganose
+B71.0	hyménolépiase
+B71.1	infection à Dipylidium
+B71.8	d'autres infections par cestodes, spécifiées
+B71.9	infection par cestodes, non spécifiée
+B72	dracunculose
+B73.0	onchocercose avec une atteinte de l'oeil, non spécifiée
+B73.1	onchocercose à endophtalmie
+B73.2	onchocercose à glaucome
+B73.9	onchocercose avec d'autres atteintes de l'oeil
+B73.1	onchocercose sans maladie oculaire
+B74.0	filariose à Wuchereria bancrofti
+B74.1	filariose à Brugia malayi
+B74.2	filariose à Brugia timori
+B74.3	loase
+B74.4	mansonellose
+B74.8	d'autres filarioses
+B74.9	filariose, non spécifiée
+B75	trichinose
+B76.0	ankylostomose
+B76.1	nécatorose
+B76.8	d'autres ankylostomiases
+B76.9	ankylostomiase, non spécifiée
+B77.0	ascaridiase avec des complications intestinales
+B77.81	pneumonie à ascaridiase
+B77.89	ascaridiase avec d'autres complications
+B77.9	ascaridiase, non spécifiée
+B78.0	anguillulose intestinale
+B78.1	anguillulose cutanée
+B78.7	anguillulose disséminée
+B78.9	anguillulose, non spécifiée
+B79	infection à Trichuris trichiuria
+B80	oxyurose
+B81.0	anisakiase
+B81.1	capillariose intestinale
+B81.2	trichostrongylose
+B81.3	angiostrongyloïdose intestinale
+B81.3	angiostrongylose intestinale
+B81.4	helminthiases intestinales mixtes
+B81.8	d'autres helminthiases intestinales spécifiées
+B82.0	helminthiase intestinale, non spécifiée
+B82.9	parasitose intestinale, non spécifiée
+B83.0	larva migrans viscérale
+B83.1	gnathostomiase
+B83.2	angiostrongyloïdose à Parastrongylus cantonensis
+B83.3	syngamose
+B83.4	hirudiniase interne
+B83.8	d'autres helminthiases spécifiées
+B83.9	helminthiase, non spécifiée
+B85.0	pédiculose due à Pediculus humanus capitis
+B85.1	pédiculose due à Pediculus humanus corporis
+B85.2	pédiculose, non spécifiée
+B85.3	phtiriase
+B85.4	infestation mixte, pédiculose et phtiriase
+B86	gale
+B87.0	myiase cutanée
+B87.1	myiase des plaies cutanées
+B87.2	myiase oculaire
+B87.3	myiase rhinopharyngée
+B87.4	myiase auriculaire
+B87.81	myiase génito-urinaire
+B87.82	myiase intestinale
+B87.89	myiase d'autres sites
+B87.9	myiase, non spécifiée
+B88.0	d'autres acariases
+B88.1	tungiasis
+B88.1	infestation par puce-chique
+B88.2	d'autres infestations par des arthropodes
+B88.3	hirudiniase externe
+B88.8	d'autres infestations spécifiées
+B88.9	infestation, non spécifiée
+B89	parasitose, non spécifiée
+B90.0	séquelles de tuberculose du système nerveux central
+B90.1	séquelles de tuberculose génito-urinaire
+B90.2	séquelles de tuberculose des os et des articulations
+B90.8	séquelles de tuberculose des autres organes
+B90.9	séquelles de tuberculose des voies respiratoires et de tuberculose non spécifiée
+B91	séquelles de poliomyélite
+B92	séquelles de lèpre
+B94.0	séquelles de trachome
+B94.1	séquelles d'encéphalite virale
+B94.2	séquelles d'hépatite virale
+B94.8	séquelles d'autres maladies infectieuses et parasitaires spécifiées
+B94.9	séquelles d'une maladie infectieuse ou parasitaire, non spécifiée
+B95.0	streptocoques, groupe A, cause de maladies classées ailleurs
+B95.1	streptocoques, groupe B, cause de maladies classées ailleurs
+B95.2	entérocoques, groupe D, cause de maladies classées ailleurs
+B95.3	streptococcus pneumoniae, cause de maladies classées ailleurs
+B95.4	d'autres streptocoques, cause de maladies classées ailleurs
+B95.5	streptocoque non spécifié, cause de maladies classées ailleurs
+B95.61	infection à staphylocoque doré sensible à la méthicilline, cause de maladies classées ailleurs
+B95.62	infection à staphylocoque doré résistant à la méthicilline, cause de maladies classées ailleurs
+B95.7	d'autres staphylocoques, cause de maladies classées ailleurs
+B95.8	staphylocoque non spécifié, cause de maladies classées ailleurs
+B96.0	mycoplasma pneumoniae, cause de maladies classées ailleurs
+B96.1	klebsiella pneumoniae, cause de maladies classées ailleurs
+B96.1	subsp. pneumoniae, cause de maladies classées ailleurs
+B96.20	escherichia coli non spécifié, cause de maladies classées ailleurs
+B96.20	E. coli non spécifié, cause de maladies classées ailleurs
+B96.21	Escherichia coli producteur de Shiga-toxines, cause de maladies classées ailleurs
+B96.21	STEC, cause de maladies classées ailleurs
+B96.21	E. coli producteur de Shiga-toxines, cause de maladies classées ailleurs
+B96.23	Escherichia coli, non spécifié, producteur de Shiga-toxines, cause de maladies classées ailleurs
+B96.23	E. coli, non spécifié, producteur de Shiga-toxines, cause de maladies classées ailleurs
+B96.23	STEC non spécifié, cause de maladies classées ailleurs
+B96.29	d'autres formes d'escherichia coli [E. coli], cause de maladies classées ailleurs
+B96.3	haemophilus influenzae, cause de maladies classées ailleurs
+B96.4	proteus, cause de maladies classées ailleurs
+B96.4	P. mirabilis, cause de maladies classées ailleurs
+B96.4	P. morganii, cause de maladies classées ailleurs
+B96.5	pseudomonas, cause de maladies classées ailleurs
+B96.5	P. aeruginosa, cause de maladies classées ailleurs
+B96.5	P. mallei, cause de maladies classées ailleurs
+B96.5	P. pseudomallei, cause de maladies classées ailleurs
+B96.6	bacillus fragilis, cause de maladies classées ailleurs
+B96.7	clostridium perfringens, cause de maladies classées ailleurs
+B96.81	helicobacter pylori [H. pylori],  cause de maladies classées ailleurs
+B96.82	vibrio vulnificus cause de maladies classées ailleurs
+B96.89	d'autres agents bactériens spécifiés, cause de maladies classées ailleurs
+B97.0	adénovirus, cause de maladies classées ailleurs
+B97.10	entérovirus non spécifié, cause de maladies classées ailleurs
+B97.11	virus Coxsackie, cause de maladies classées ailleurs
+B97.12	virus ECHO, cause de maladies classées ailleurs
+B97.19	autre entérovirus, cause de maladies classées ailleurs
+B97.21	coronavirus associé à SARS, cause de maladies classées ailleurs
+B97.29	autre coronavirus, cause de maladies classées ailleurs
+B97.30	rétrovirus non spécifié, cause de maladies classées ailleurs
+B97.31	lentivirus, cause de maladies classées ailleurs
+B97.32	oncovirus, cause de maladies classées ailleurs
+B97.33	infection à virus lymphotrophique des cellules humaines T, Type I, cause de maladies classées ailleurs
+B97.33	infection à HTLV-I, cause de maladies classées ailleurs
+B97.33	HTLV-I, cause de maladies classées ailleurs
+B97.34	infection à virus lymphotrophique des cellules humaines T, Type II, cause de maladies classées ailleurs
+B97.34	infection à HTLV-II, cause de maladies classées ailleurs
+B97.34	HTLV-II, cause de maladies classées ailleurs
+B97.35	infection à virus d'immunodéficience humaine, type 2, cause de maladies classées ailleurs
+B97.35	infection à HIV 2, cause de maladies classées ailleurs
+B97.35	HIV 2, cause de maladies classées ailleurs
+B97.39	autre rétrovirus, cause de maladies classées ailleurs
+B97.4	virus respiratoire syncytial, cause de maladies classées ailleurs
+B97.5	réovirus, cause de maladies classées ailleurs
+B97.6	parvovirus, cause de maladies classées ailleurs
+B97.7	papillovirus, cause de maladies classées ailleurs
+B97.81	métapneumovirus humain, cause de maladies classées ailleurs
+B97.89	d'autres virus, cause de maladies classées ailleurs
+B99.8	d'autres maladies infectieuses
+B99.9	maladies infectieuses, non spécifiées

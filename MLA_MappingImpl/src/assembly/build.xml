@@ -1,0 +1,5 @@
+<project name="MLA_Mapping" default="installJar">
+
+	<import file="../../../MLA_CommonsImpl/src/assembly/build-generic.xml" />
+
+</project>

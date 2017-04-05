@@ -1,0 +1,483 @@
+X00.8XXS	autre exposition lors d'un incendie non maîtrisé, dans un bâtiment ou une construction, séquelle
+X01.0XXA	exposition aux flammes lors d'un incendie non maîtrisé, hors un bâtiment ou une construction, contact initial
+X01.0XXD	exposition aux flammes lors d'un incendie non maîtrisé, hors un bâtiment ou une construction, contact subséquent
+X01.0XXS	exposition aux flammes lors d'un incendie non maîtrisé, hors un bâtiment ou une construction, séquelle
+X08.00XA	exposition à un feu d'un lit dû à l'ignition de matériau non spécifié, contact initial
+X08.00XD	exposition à un feu d'un lit dû à l'ignition de matériau non spécifié, contact subséquent
+X08.00XS	exposition à un feu d'un lit dû à l'ignition de matériau non spécifié, séquelle
+X08.01XA	exposition à un feu d'un lit dû à une cigarette allumée, contact initial
+X08.01XD	exposition à un feu d'un lit dû à une cigarette allumée, contact subséquent
+X82.0XXS	une collision volontaire d'un véhicule motorisé avec un autre véhicule motorisé, séquelle
+X82.1XXA	une collision volontaire d'un véhicule motorisé avec un train, contact initial
+X82.1XXD	une collision volontaire d'un véhicule motorisé avec un train, contact subséquent
+X82.1XXS	une collision volontaire d'un véhicule motorisé avec un train, séquelle
+X82.2XXA	une collision volontaire d'un véhicule motorisé avec un arbre, contact initial
+X82.2XXD	une collision volontaire d'un véhicule motorisé avec un arbre, contact subséquent
+X00.0XXA	exposition aux flammes lors d'un incendie non maîtrisé, dans un bâtiment ou une construction, contact initial
+X00.0XXD	exposition aux flammes lors d'un incendie non maîtrisé, dans un bâtiment ou une construction, contact subséquent
+X00.0XXS	exposition aux flammes lors d'un incendie non maîtrisé, dans un bâtiment ou une construction, séquelle
+X00.1XXA	exposition à la fumée lors d'un incendie non maîtrisé, dans un bâtiment ou une construction, contact initial
+X00.1XXD	exposition à la fumée lors d'un incendie non maîtrisé, dans un bâtiment ou une construction, contact subséquent
+X00.1XXS	exposition à la fumée lors d'un incendie non maîtrisé, dans un bâtiment ou une construction, séquelle
+X00.2XXA	traumatisme dû à l'effondrement d'un bâtiment ou d'une construction en feu, lors d'un incendie non maîtrisé, contact initial
+X00.2XXD	traumatisme dû à l'effondrement d'un bâtiment ou d'une construction en feu, lors d'un incendie non maîtrisé, contact subséquent
+X00.2XXS	traumatisme dû à l'effondrement d'un bâtiment ou d'une construction en feu, lors d'un incendie non maîtrisé, séquelle
+X00.3XXA	chute hors d'un bâtiment ou d'une construction en feu, lors d'un incendie non maîtrisé, contact initial
+X00.3XXD	chute hors d'un bâtiment ou d'une construction en feu, lors d'un incendie non maîtrisé, contact subséquent
+X00.3XXS	chute hors d'un bâtiment ou d'une construction en feu, lors d'un incendie non maîtrisé, séquelle
+X00.4XXA	coup par un objet émanant d'un bâtiment ou d'une construction en feu, lors d'un incendie non maîtrisé, contact initial
+X00.4XXD	coup par un objet émanant d'un bâtiment ou d'une construction en feu, lors d'un incendie non maîtrisé, contact subséquent
+X00.4XXS	coup par un objet émanant d'un bâtiment ou d'une construction en feu, lors d'un incendie non maîtrisé, séquelle
+X00.5XXA	saut hors d'un bâtiment ou une construction en feu, lors d'un incendie non maîtrisé, contact initial
+X00.5XXD	saut hors d'un bâtiment ou une construction en feu, lors d'un incendie non maîtrisé, contact subséquent
+X00.5XXS	saut hors d'un bâtiment ou une construction en feu, lors d'un incendie non maîtrisé, séquelle
+X00.8XXA	autre exposition lors d'un incendie non maîtrisé, dans un bâtiment ou une construction, contact initial
+X00.8XXD	autre exposition lors d'un incendie non maîtrisé, dans un bâtiment ou une construction, contact subséquent
+X01.1XXA	exposition à la fumée lors d'un incendie non maîtrisé, hors un bâtiment ou une construction, contact initial
+X01.1XXD	exposition à la fumée lors d'un incendie non maîtrisé, hors un bâtiment ou une construction, contact subséquent
+X01.1XXS	exposition à la fumée lors d'un incendie non maîtrisé, hors un bâtiment ou une construction, séquelle
+X01.3XXA	chute due à un incendie non maîtrisé, hors un bâtiment ou une construction, contact initial
+X01.3XXD	chute due à un incendie non maîtrisé, hors un bâtiment ou une construction, contact subséquent
+X01.3XXS	chute due à un incendie non maîtrisé, hors un bâtiment ou une construction, séquelle
+X01.4XXA	coup par un objet émanant d'un incendie non maîtrisé, hors un bâtiment ou une construction, contact initial
+X01.4XXD	coup par un objet émanant d'un incendie non maîtrisé, hors un bâtiment ou une construction, contact subséquent
+X01.4XXS	coup par un objet émanant d'un incendie non maîtrisé, hors un bâtiment ou une construction, séquelle
+X01.8XXA	autre exposition à un incendie non maîtrisé, hors un bâtiment ou une construction, contact initial
+X01.8XXD	autre exposition à un incendie non maîtrisé, hors un bâtiment ou une construction, contact subséquent
+X01.8XXS	autre exposition à un incendie non maîtrisé, hors un bâtiment ou une construction, séquelle
+X02.0XXA	exposition aux flammes lors d'un incendie maîtrisé, dans un bâtiment ou une construction, contact initial
+X02.0XXD	exposition aux flammes lors d'un incendie maîtrisé, dans un bâtiment ou une construction, contact subséquent
+X02.0XXS	exposition aux flammes lors d'un incendie maîtrisé, dans un bâtiment ou une construction, séquelle
+X02.1XXA	exposition à la fumée lors d'un incendie maîtrisé, dans un bâtiment ou une construction, contact initial
+X02.1XXD	exposition à la fumée lors d'un incendie maîtrisé, dans un bâtiment ou une construction, contact subséquent
+X02.1XXS	exposition à la fumée lors d'un incendie maîtrisé, dans un bâtiment ou une construction, séquelle
+X02.2XXA	traumatisme dû à l'effondrement d'un bâtiment ou d'une construction en feu, lors d'un incendie maîtrisé, contact initial
+X02.2XXD	traumatisme dû à l'effondrement d'un bâtiment ou d'une construction en feu, lors d'un incendie maîtrisé, contact subséquent
+X02.2XXS	traumatisme dû à l'effondrement d'un bâtiment ou d'une construction en feu, lors d'un incendie maîtrisé, séquelle
+X02.3XXA	chute hors d'un bâtiment ou d'une construction en feu, lors d'un incendie maîtrisé, contact initial
+X02.3XXD	chute hors d'un bâtiment ou d'une construction en feu, lors d'un incendie maîtrisé, contact subséquent
+X02.3XXS	chute d'un bâtiment ou de construction en feu, lors d'un incendie maîtrisé, séquelle
+X02.4XXA	coup par un objet émanant d'un bâtiment ou d'une construction en feu, lors d'un incendie maîtrisé, contact initial
+X02.4XXD	coup par un objet émanant d'un bâtiment ou d'une construction en feu, lors d'un incendie maîtrisé, contact subséquent
+X02.4XXS	coup par un objet émanant d'un H4904bâtiment ou d'une construction en feu, lors d'un incendie maîtrisé, séquelle
+X02.5XXA	saut hors d'un bâtiment ou une construction en feu, lors d'un incendie maîtrisé, contact initial
+X02.5XXD	saut hors d'un bâtiment ou une construction en feu, lors d'un incendie maîtrisé, contact subséquent
+X02.5XXS	saut hors d'un bâtiment ou une construction en feu, lors d'un incendie maîtrisé, séquelle
+X02.8XXA	autre exposition lors d'un incendie maîtrisé, dans un bâtiment ou une construction, contact initial
+X02.8XXD	autre exposition lors d'un incendie maîtrisé, dans un bâtiment ou une construction, contact subséquent
+X02.8XXS	autre exposition lors d'un incendie maîtrisé, dans un bâtiment ou une construction, séquelle
+X03.0XXA	exposition aux flammes lors d'un incendie maîtrisé, hors un bâtiment ou une construction, contact initial
+X03.0XXD	exposition aux flammes lors d'un incendie maîtrisé, hors un bâtiment ou une construction, contact subséquent
+X03.0XXS	exposition aux flammes lors d'un incendie maîtrisé, hors un bâtiment ou une construction, séquelle
+X03.1XXA	exposition à la fumée lors d'un incendie maîtrisé, hors un bâtiment ou une construction, contact initial
+X03.1XXD	exposition à la fumée lors d'un incendie maîtrisé, hors un bâtiment ou une construction, contact subséquent
+X03.1XXS	exposition à la fumée lors d'un incendie maîtrisé, hors un bâtiment ou une construction, séquelle
+X03.3XXA	chute due à un incendie maîtrisé, hors un bâtiment ou une construction, contact initial
+X03.3XXD	chute due à un incendie maîtrisé, hors un bâtiment ou une construction, contact subséquent
+X03.3XXS	chute due à un incendie maîtrisé, hors un bâtiment ou une construction, séquelle
+X03.4XXA	coup par un objet émanant d'un incendie maîtrisé, hors un bâtiment ou une construction, contact initial
+X03.4XXD	coup par un objet émanant d'un incendie maîtrisé, hors un bâtiment ou une construction, contact subséquent
+X03.4XXS	coup par un objet émanant d'un incendie maîtrisé, hors un bâtiment ou une construction, séquelle
+X03.8XXA	autre exposition à un incendie maîtrisé, hors un bâtiment ou une construction, contact initial
+X03.8XXD	autre exposition à un incendie maîtrisé, hors un bâtiment ou une construction, contact subséquent
+X03.8XXS	autre exposition à un incendie maîtrisé, hors un bâtiment ou une construction, séquelle
+X04.XXXA	exposition à l'ignition d'une substance très inflammable, contact initial
+X04.XXXD	exposition à l'ignition d'une substance très inflammable, contact subséquent
+X04.XXXS	exposition à l'ignition d'une substance très inflammable, séquelle
+X05.XXXA	exposition à l'ignition ou la fonte de vêtements de nuit, contact initial
+X05.XXXD	exposition à l'ignition ou la fonte de vêtements de nuit, contact subséquent
+X05.XXXS	exposition à l'ignition ou la fonte de vêtements de nuit, séquelle
+X06.0XXA	exposition à l'ignition de bijoux en matière plastique, contact initial
+X06.0XXD	exposition à l'ignition de bijoux en matière plastique, contact subséquent
+X06.0XXS	exposition à l'ignition de bijoux en matière plastique, séquelle
+X06.1XXA	exposition à la fonte de bijoux en matière plastique, contact initial
+X06.1XXD	exposition à la fonte de bijoux en matière plastique, contact subséquent
+X06.1XXS	exposition à la fonte de bijoux en matière plastique, séquelle
+X06.2XXA	exposition à l'ignition d'autres vêtements et habillement, contact initial
+X06.2XXD	exposition à l'ignition d'autres vêtements et habillement, contact subséquent
+X06.2XXS	exposition à l'ignition d'autres vêtements et habillement, séquelle
+X06.3XXA	exposition à la fonte d'autres vêtements et habillements, contact initial
+X06.3XXD	exposition à la fonte d'autres vêtements et habillements, contact subséquent
+X06.3XXS	exposition à la fonte d'autres vêtements et habillements, séquelle
+X08.01XS	exposition à un feu d'un lit dû à une cigarette allumée, séquelle
+X08.09XA	exposition à un feu d'un lit dû à l'ignition d'autre matériau, contact initial
+X08.09XD	exposition à un feu d'un lit dû à l'ignition d'autre matériau, contact subséquent
+X08.09XS	exposition à un feu d'un lit dû à l'ignition d'autre matériau, séquelle
+X08.10XA	exposition à un feu d'un sofa dû à l'ignition de matériau non spécifié, contact initial
+X08.10XD	exposition à un feu d'un sofa dû à l'ignition de matériau non spécifié, contact subséquent
+X08.10XS	exposition à un feu d'un sofa dû à l'ignition de matériau non spécifié, séquelle
+X08.11XA	exposition à un feu d'un sofa dû à une cigarette allumée, contact initial
+X08.11XD	exposition à un feu d'un sofa dû à une cigarette allumée, contact subséquent
+X08.11XS	exposition à un feu d'un sofa dû à une cigarette allumée, séquelle
+X08.19XA	exposition à un feu d'un sofa dû à l'ignition d'autre matériau, contact initial
+X08.19XD	exposition à un feu d'un sofa dû à l'ignition d'autre matériau, contact subséquent
+X08.19XS	exposition à un feu d'un sofa dû à l'ignition d'autre matériau, séquelle
+X08.20XA	exposition à un feu d'autre mobilier dû à l'ignition de matériau non spécifié, contact initial
+X08.20XD	exposition à un feu d'autre mobilier dû à l'ignition de matériau non spécifié, contact subséquent
+X08.20XS	exposition à un feu d'autre mobilier dû à l'ignition de matériau non spécifié, séquelle
+X08.21XA	exposition à un feu d'autre mobilier dû à une cigarette allumée, contact initial
+X08.21XD	exposition à un feu d'autre mobilier dû à une cigarette allumée, contact subséquent
+X08.21XS	exposition à un feu d'autre mobilier dû à une cigarette allumée, séquelle
+X08.29XA	exposition à un feu d'autre mobilier dû à l'ignition d'autre matériau, contact initial
+X08.29XD	exposition à un feu d'autre mobilier dû à l'ignition d'autre matériau, contact subséquent
+X08.29XS	exposition à un feu d'autre mobilier dû à l'ignition d'autre matériau, séquelle
+X08.8XXA	exposition à de la fumée, du feu et des flammes spécifiés, contact initial
+X08.8XXD	exposition à de la fumée, du feu et des flammes spécifiés, contact subséquent
+X08.8XXS	exposition à de la fumée, du feu et des flammes spécifiés, séquelle
+X10.0XXA	contact avec des boissons chaudes, contact initial
+X10.0XXD	contact avec des boissons chaudes, contact subséquent
+X10.0XXS	contact avec des boissons chaudes, séquelle
+X10.1XXA	contact avec un aliment chaud, contact initial
+X10.1XXD	contact avec un aliment chaud, contact subséquent
+X10.1XXS	contact avec un aliment chaud, séquelle
+X10.2XXA	contact avec des graisses et des huiles de cuisson, contact initial
+X10.2XXD	contact avec des graisses et des huiles de cuisson, contact subséquent
+X10.2XXS	contact avec des graisses et des huiles de cuisson, séquelle
+X11.0XXA	contact avec de l'eau chaude dans une baignoire ou une cuve, contact initial
+X11.0XXD	contact avec de l'eau chaude dans une baignoire ou une cuve, contact subséquent
+X11.0XXS	contact avec de l'eau chaude dans une baignoire ou une cuve, séquelle
+X11.1XXA	contact avec de l'eau courante chaude, contact initial
+X11.1XXD	contact avec de l'eau courante chaude, contact subséquent
+X11.1XXS	contact avec de l'eau courante chaude, séquelle
+X11.8XXA	contact avec de l'eau chaude du robinet, contact initial
+X11.8XXD	contact avec de l'eau chaude du robinet, contact subséquent
+X11.8XXS	contact avec de l'eau chaude du robinet, séquelle
+X12.XXXA	contact avec d'autres liquides chauds, contact initial
+X12.XXXD	contact avec d'autres liquides chauds, contact subséquent
+X12.XXXS	contact avec d'autres liquides chauds, séquelle
+X13.0XXA	inhalation de vapeur d'eau et d'autres vapeurs chaudes, contact initial
+X13.0XXD	inhalation de vapeur d'eau et d'autres vapeurs chaudes, contact subséquent
+X13.0XXS	inhalation de vapeur d'eau et d'autres vapeurs chaudes, séquelle
+X13.1XXA	autre contact avec de la vapeur d'eau et d'autres vapeurs chaudes, contact initial
+X13.1XXD	autre contact avec de la vapeur d'eau et d'autres vapeurs chaudes, contact subséquent
+X13.1XXS	autre contact avec de la vapeur d'eau et d'autres vapeurs chaudes, séquelle
+X14.0XXA	inhalation d'air et de gaz chauds, contact initial
+X14.0XXD	inhalation d'air et de gaz chauds, contact subséquent
+X14.0XXS	inhalation d'air et de gaz chauds, séquelle
+X14.1XXA	autre contact avec de l'air chaud et d'autres gaz chauds, contact initial
+X14.1XXD	autre contact avec de l'air chaud et d'autres gaz chauds, contact subséquent
+X14.1XXS	autre contact avec de l'air chaud et d'autres gaz chauds, séquelle
+X15.0XXA	contact avec un fourneau de cuisine chaud, contact initial
+X15.0XXD	contact avec un fourneau de cuisine chaud, contact subséquent
+X15.0XXS	contact avec un fourneau de cuisine chaud, séquelle
+X15.1XXA	contact avec un grille-pain chaud, contact initial
+X15.1XXD	contact avec un grille-pain chaud, contact subséquent
+X15.1XXS	contact avec un grille-pain chaud, séquelle
+X15.2XXA	contact avec une plaque chauffante, contact initial
+X15.2XXD	contact avec une plaque chauffante, contact subséquent
+X15.2XXS	contact avec une plaque chauffante, séquelle
+X15.3XXA	contact avec une poêle ou une casserole chaude, contact initial
+X15.3XXD	contact avec une poêle ou une casserole chaude, contact subséquent
+X15.3XXS	contact avec une poêle ou une casserole chaude, séquelle
+X15.8XXA	contact avec d'autres appareils électro-ménagers chauds, contact initial
+X15.8XXD	contact avec d'autres appareils électro-ménagers chauds, contact subséquent
+X15.8XXS	contact avec d'autres appareils électro-ménagers chauds, séquelle
+X16.XXXA	contact avec des appareils de chauffage, des radiateurs et des tuyaux chauds, contact initial
+X16.XXXD	contact avec des appareils de chauffage, des radiateurs et des tuyaux chauds, contact subséquent
+X16.XXXS	contact avec des appareils de chauffage, des radiateurs et des tuyaux chauds, séquelle
+X17.XXXA	contact avec un moteur, des machines et des outils chauds, contact initial
+X17.XXXD	contact avec un moteur, des machines et des outils chauds, contact subséquent
+X17.XXXS	contact avec un moteur, des machines et des outils chauds, séquelle
+X18.XXXA	contact avec d'autres métaux chauds, contact initial
+X18.XXXD	contact avec d'autres métaux chauds, contact subséquent
+X18.XXXS	contact avec d'autres métaux chauds, séquelle
+X19.XXXA	contact avec une autre source de chaleur et substances chaudes, contact initial
+X19.XXXD	contact avec une autre source de chaleur et substances chaudes, contact subséquent
+X19.XXXS	contact avec une autre source de chaleur et substances chaudes, séquelle
+X30.XXXA	exposition à la chaleur excessive naturelle, contact initial
+X30.XXXD	exposition à la chaleur excessive naturelle, contact subséquent
+X30.XXXS	exposition à la chaleur excessive naturelle, séquelle
+X31.XXXA	exposition à un froid naturel excessif, contact initial
+X31.XXXD	exposition à un froid naturel excessif, contact subséquent
+X31.XXXS	exposition à un froid naturel excessif, séquelle
+X32.XXXA	exposition à la lumière du soleil, contact initial
+X32.XXXD	exposition à la lumière du soleil, contact subséquent
+X32.XXXS	exposition à la lumière du soleil, séquelle
+X34.XXXA	tremblement de terre, contact initial
+X34.XXXD	tremblement de terre, contact subséquent
+X34.XXXS	tremblement de terre, séquelle
+X35.XXXA	éruption volcanique, contact initial
+X35.XXXD	éruption volcanique, contact subséquent
+X35.XXXS	éruption volcanique, séquelle
+X36.0XXA	effondrement d'un barrage ou d'une construction entraînant un mouvement du sol, contact initial
+X36.0XXD	effondrement d'un barrage ou d'une construction entraînant un mouvement du sol, contact subséquent
+X36.0XXS	effondrement d'un barrage ou d'une construction entraînant un mouvement du sol, séquelle
+X36.1XXA	avalanche, glissement du terrain ou coulée de boue, contact initial
+X36.1XXD	avalanche, glissement du terrain ou coulée de boue, contact subséquent
+X36.1XXS	avalanche, glissement du terrain ou coulée de boue, séquelle
+X37.0XXA	ouragan, contact initial
+X37.0XXD	ouragan, contact subséquent
+X37.0XXS	ouragan, séquelle
+X37.1XXA	tornade, contact initial
+X37.1XXD	tornade, contact subséquent
+X37.1XXS	tornade, séquelle
+X37.2XXA	tempête (de neige) (de glace), contact initial
+X37.2XXD	tempête (de neige) (de glace), contact subséquent
+X37.2XXS	tempête (de neige) (de glace), séquelle
+X37.3XXA	tempête de poussière, contact initial
+X37.3XXD	tempête de poussière, contact subséquent
+X37.3XXS	tempête de poussière, séquelle
+X37.41XA	raz de marée dû à un tremblement de terre  ou une éruption volcanique, contact initial
+X37.41XD	raz de marée dû à un tremblement de terre  ou une éruption volcanique, contact subséquent
+X37.41XS	raz de marée dû à un tremblement de terre  ou une éruption volcanique, séquelle
+X37.42XA	raz de marée dû à une tempête, contact initial
+X37.42XD	raz de marée dû à une tempête, contact subséquent
+X37.42XS	raz de marée dû à une tempête, séquelle
+X37.43XA	raz de marée dû à un glissement du terrain, contact initial
+X37.43XD	raz de marée dû à un glissement du terrain, contact subséquent
+X37.43XS	raz de marée dû à un glissement du terrain, séquelle
+X37.8XXA	d'autres tempêtes cataclysmiques, contact initial
+X37.8XXD	d'autres tempêtes cataclysmiques, contact subséquent
+X37.8XXS	d'autres tempêtes cataclysmiques, séquelle
+X37.9XXA	tempête cataclysmique non spécifiée, contact initial
+X37.9XXD	tempête cataclysmique non spécifiée, contact subséquent
+X37.9XXS	tempête cataclysmique non spécifiée, séquelle
+X38.XXXA	inondation, contact initial
+X38.XXXD	inondation, contact subséquent
+X38.XXXS	inondation, séquelle
+X39.01XA	exposition au radon, contact initial
+X39.01XD	exposition au radon, contact subséquent
+X39.01XS	exposition au radon, séquelle
+X39.08XA	exposition à d'autre rayonnement naturel, contact initial
+X39.08XD	exposition à d'autre rayonnement naturel, contact subséquent
+X39.08XS	exposition à d'autre rayonnement naturel, séquelle
+X39.8XXA	autre exposition à des forces naturelles, contact initial
+X39.8XXD	autre exposition à des forces naturelles, contact subséquent
+X39.8XXS	autre exposition à des forces naturelles, séquelle
+X52.XXXA	séjour prolongé en apesanteur , contact initial
+X52.XXXD	séjour prolongé en apesanteur , contact subséquent
+X52.XXXS	séjour prolongé en apesanteur , séquelle
+X58.XXXA	exposition à d'autres facteurs spécifiés, contact initial
+X58.XXXD	exposition à d'autres facteurs spécifiés, contact subséquent
+X58.XXXS	exposition à d'autres facteurs spécifiés, séquelle
+X71.0XXA	traumatisme auto-infligé par noyade et submersion dans une baignoire, contact initial
+X71.0XXD	traumatisme auto-infligé par noyade et submersion dans une baignoire, contact subséquent
+X71.0XXS	traumatisme auto-infligé par noyade et submersion dans une baignoire, séquelle
+X71.1XXA	traumatisme auto-infligé par noyade et submersion dans une piscine, contact initial
+X71.1XXD	traumatisme auto-infligé par noyade et submersion dans une piscine, contact subséquent
+X71.1XXS	traumatisme auto-infligé par noyade et submersion dans une piscine, séquelle
+X71.2XXA	traumatisme auto-infligé par noyade et submersion après un saut dans une piscine, contact initial
+X71.2XXD	traumatisme auto-infligé par noyade et submersion après un saut dans une piscine, contact subséquent
+X71.2XXS	traumatisme auto-infligé par noyade et submersion après un saut dans une piscine, séquelle
+X71.3XXA	traumatisme auto-infligé par noyade et submersion dans des eaux naturelles, contact initial
+X71.3XXD	traumatisme auto-infligé par noyade et submersion dans des eaux naturelles, contact subséquent
+X71.3XXS	traumatisme auto-infligé par noyade et submersion dans des eaux naturelles, séquelle
+X71.8XXA	traumatisme auto-infligé par une autre noyade et une submersion, contact initial
+X71.8XXD	traumatisme auto-infligé par une autre noyade et une submersion, contact subséquent
+X71.8XXS	traumatisme auto-infligé par une autre noyade et une submersion, séquelle
+X71.9XXA	traumatisme auto-infligé par une autre noyade et une submersion non spécifiée, contact initial
+X71.9XXD	traumatisme auto-infligé par une autre noyade et une submersion non spécifiée, contact subséquent
+X71.9XXS	traumatisme auto-infligé par une autre noyade et une submersion non spécifiée, séquelle
+X72.XXXA	traumatisme auto-infligé par la décharge d'une arme de poing, contact initial
+X72.XXXD	traumatisme auto-infligé par la décharge d'une arme de poing, contact subséquent
+X72.XXXS	traumatisme auto-infligé par la décharge d'une arme de poing, séquelle
+X73.0XXA	traumatisme auto-infligé par la décharge d'un fusil, contact initial
+X73.0XXD	traumatisme auto-infligé par la décharge d'un fusil, contact subséquent
+X73.0XXS	traumatisme auto-infligé par la décharge d'un fusil, séquelle
+X73.1XXA	traumatisme auto-infligé par la décharge d'un fusil de chasse, contact initial
+X73.1XXD	traumatisme auto-infligé par la décharge d'un fusil de chasse, contact subséquent
+X73.1XXS	traumatisme auto-infligé par la décharge d'un fusil de chasse, séquelle
+X73.2XXA	traumatisme auto-infligé par la décharge d'une mitrailleuse, contact initial
+X73.2XXD	traumatisme auto-infligé par la décharge d'une mitrailleuse, contact subséquent
+X73.2XXS	traumatisme auto-infligé par la décharge d'une mitrailleuse, séquelle
+X73.8XXA	traumatisme auto-infligé par la décharge d'une autre arme à feu de plus grande taille, contact initial
+X73.8XXD	traumatisme auto-infligé par la décharge d'une autre arme à feu de plus grande taille, contact subséquent
+X73.8XXS	traumatisme auto-infligé par la décharge d'une autre arme à feu de plus grande taille, séquelle
+X73.9XXA	traumatisme auto-infligé par la décharge d'une arme à feu de plus grande taille non spécifiée, contact initial
+X73.9XXD	traumatisme auto-infligé par la décharge d'une arme à feu de plus grande taille non spécifiée, contact subséquent
+X73.9XXS	traumatisme auto-infligé par la décharge d'une arme à feu de plus grande taille non spécifiée, séquelle
+X74.01XA	traumatisme auto-infligé par une arme à air comprimé, contact initial
+X74.01XD	traumatisme auto-infligé par une arme à air comprimé, contact subséquent
+X74.01XS	traumatisme auto-infligé par une arme à air comprimé, séquelle
+X74.02XA	traumatisme auto-infligé par une arme à paintball, contact initial
+X74.02XD	traumatisme auto-infligé par une arme à paintball, contact subséquent
+X74.02XS	traumatisme auto-infligé par une arme à paintball, séquelle
+X74.09XA	traumatisme auto-infligé par une autre arme à gaz, air ou ressort, contact initial
+X74.09XD	traumatisme auto-infligé par une autre arme à gaz, air ou ressort, contact subséquent
+X74.09XS	traumatisme auto-infligé par une autre arme à gaz, air ou ressort, séquelle
+X74.8XXA	traumatisme auto-infligé par la décharge d'une autre arme à feu, contact initial
+X74.8XXD	traumatisme auto-infligé par la décharge d'une autre arme à feu, contact subséquent
+X74.8XXS	traumatisme auto-infligé par la décharge d'une autre arme à feu, séquelle
+X74.9XXA	traumatisme auto-infligé par la décharge d'une arme à feu non spécifiée, contact initial
+X74.9XXD	traumatisme auto-infligé par la décharge d'une arme à feu non spécifiée, contact subséquent
+X74.9XXS	traumatisme auto-infligé par la décharge d'une arme à feu non spécifiée, séquelle
+X75.XXXA	traumatisme auto-infligé par matériel explosif, contact initial
+X75.XXXD	traumatisme auto-infligé par matériel explosif, contact subséquent
+X75.XXXS	traumatisme auto-infligé par matériel explosif, séquelle
+X76.XXXA	traumatisme auto-infligé par de la fumée, du feu et des flammes, contact initial
+X76.XXXD	traumatisme auto-infligé par de la fumée, du feu et des flammes, contact subséquent
+X76.XXXS	traumatisme auto-infligé par de la fumée, du feu et des flammes, séquelle
+X77.0XXA	traumatisme auto-infligé par de la vapeur d'eau ou des vapeurs chaudes, contact initial
+X77.0XXD	traumatisme auto-infligé par de la vapeur d'eau ou des vapeurs chaudes, contact subséquent
+X77.0XXS	traumatisme auto-infligé par de la vapeur d'eau ou des vapeurs chaudes, séquelle
+X77.1XXA	traumatisme auto-infligé par de l'eau chaude du robinet,  contact initial
+X77.1XXD	traumatisme auto-infligé par de l'eau chaude du robinet, contact subséquent
+X77.1XXS	traumatisme auto-infligé par de l'eau chaude du robinet, séquelle
+X77.2XXA	traumatisme auto-infligé par d'autres liquides chauds, contact initial
+X77.2XXD	traumatisme auto-infligé par d'autres liquides chauds, contact subséquent
+X77.2XXS	traumatisme auto-infligé par d'autres liquides chauds, séquelle
+X77.3XXA	traumatisme auto-infligé par des appareils électro-ménagers chauds, contact initial
+X77.3XXD	traumatisme auto-infligé par des appareils électro-ménagers chauds, contact subséquent
+X77.3XXS	traumatisme auto-infligé par des appareils électro-ménagers chauds, séquelle
+X77.8XXA	traumatisme auto-infligé par d'autres objets chauds, contact initial
+X77.8XXD	traumatisme auto-infligé par d'autres objets chauds, contact subséquent
+X77.8XXS	traumatisme auto-infligé par d'autres objets chauds, séquelle
+X77.9XXA	traumatisme auto-infligé par des objets chauds non spécifiés, contact initial
+X77.9XXD	traumatisme auto-infligé par des objets chauds non spécifiés, contact subséquent
+X77.9XXS	traumatisme auto-infligé par des objets chauds non spécifiés, séquelle
+X78.0XXA	traumatisme auto-infligé par du verre tranchant, contact initial
+X78.0XXD	traumatisme auto-infligé par du verre tranchant, contact subséquent
+X78.0XXS	traumatisme auto-infligé par du verre tranchant, séquelle
+X78.1XXA	traumatisme auto-infligé par un couteau, contact initial
+X78.1XXD	traumatisme auto-infligé par un couteau, contact subséquent
+X78.1XXS	traumatisme auto-infligé par un couteau, séquelle
+X78.2XXA	traumatisme auto-infligé par une épée ou une dague, contact initial
+X78.2XXD	traumatisme auto-infligé par une épée ou une dague, contact subséquent
+X78.2XXS	traumatisme auto-infligé par une épée ou une dague, séquelle
+X78.8XXA	traumatisme auto-infligé par un autre objet tranchant, contact initial
+X78.8XXD	traumatisme auto-infligé par un autre objet tranchant, contact subséquent
+X78.8XXS	traumatisme auto-infligé par un autre objet tranchant, séquelle
+X78.9XXA	traumatisme auto-infligé par un objet tranchant non spécifié, contact initial
+X78.9XXD	traumatisme auto-infligé par un objet tranchant non spécifié, contact subséquent
+X78.9XXS	traumatisme auto-infligé par un objet tranchant non spécifié, séquelle
+X79.XXXA	traumatisme auto-infligé par un objet contondant, contact initial
+X79.XXXD	traumatisme auto-infligé par un objet contondant, contact subséquent
+X79.XXXS	traumatisme auto-infligé par un objet contondant, séquelle
+X80.XXXA	traumatisme auto-infligé par un saut dans le vide, contact initial
+X80.XXXD	traumatisme auto-infligé par un saut dans le vide, contact subséquent
+X80.XXXS	traumatisme auto-infligé par un saut dans le vide, séquelle
+X81.0XXA	traumatisme auto-infligé en sautant ou en se couchant devant un véhicule motorisé, contact initial
+X81.0XXD	traumatisme auto-infligé en sautant ou en se couchant devant un véhicule motorisé, contact subséquent
+X81.0XXS	traumatisme auto-infligé en sautant ou en se couchant devant un véhicule motorisé, séquelle
+X81.1XXA	traumatisme auto-infligé en sautant ou en se couchant devant un (métro) train, contact initial
+X81.1XXD	traumatisme auto-infligé en sautant ou en se couchant devant un (métro) train, contact subséquent
+X81.1XXS	traumatisme auto-infligé en sautant ou en se couchant devant un (métro) train, séquelle
+X81.8XXA	traumatisme auto-infligé en sautant ou en se couchant devant un autre objet en mouvement, contact initial
+X81.8XXD	traumatisme auto-infligé en sautant ou en se couchant devant un autre objet en mouvement, contact subséquent
+X81.8XXS	traumatisme auto-infligé en sautant ou en se couchant devant un autre objet en mouvement, séquelle
+X82.0XXA	une collision volontaire d'un véhicule motorisé avec un autre véhicule motorisé, contact initial
+X82.0XXD	une collision volontaire d'un véhicule motorisé avec un autre véhicule motorisé, contact subséquent
+X82.2XXS	une collision volontaire d'un véhicule motorisé avec un arbre, séquelle
+X82.8XXA	autre traumatisme auto-infligé par un crash d'un véhicule motorisé, contact initial
+X82.8XXD	autre traumatisme auto-infligé par un crash d'un véhicule motorisé, contact subséquent
+X82.8XXS	autre traumatisme auto-infligé par un crash d'un véhicule motorisé, séquelle
+X83.0XXA	traumatisme auto-infligé par un crash d'un aéronef, contact initial
+X83.0XXD	traumatisme auto-infligé par un crash d'un aéronef, contact subséquent
+X83.0XXS	traumatisme auto-infligé par un crash d'un aéronef, séquelle
+X83.1XXA	traumatisme auto-infligé par de l'électrocution, contact initial
+X83.1XXD	traumatisme auto-infligé par de l'électrocution, contact subséquent
+X83.1XXS	traumatisme auto-infligé par de l'électrocution, séquelle
+X83.2XXA	traumatisme auto-infligé par exposition à un froid extrême, contact initial
+X83.2XXD	traumatisme auto-infligé par exposition à un froid extrême, contact subséquent
+X83.2XXS	traumatisme auto-infligé par exposition à un froid extrême, séquelle
+X83.8XXA	traumatisme auto-infligé par d'autres moyens spécifiés, contact initial
+X83.8XXD	traumatisme auto-infligé par d'autres moyens spécifiés, contact subséquent
+X83.8XXS	traumatisme auto-infligé par d'autres moyens spécifiés, séquelle
+X92.0XXA	noyade et submersion par une agression, dans une baignoire, contact initial
+X92.0XXD	noyade et submersion par une agression, dans une baignoire, contact subséquent
+X92.0XXS	noyade et submersion par une agression, dans une baignoire, séquelle
+X92.1XXA	noyade et submersion par une agression, dans une piscine, contact initial
+X92.1XXD	noyade et submersion par une agression, dans une piscine, contact subséquent
+X92.1XXS	noyade et submersion par une agression, dans une piscine, séquelle
+X92.2XXA	noyade et submersion par une agression, après avoir été poussé dans une piscine, contact initial
+X92.2XXD	agression par noyade et submersion, après avoir été poussé dans une piscine, contact subséquent
+X92.2XXS	agression par noyade et submersion, après avoir été poussé dans une piscine, séquelle
+X92.3XXA	noyade et submersion par une agression, dans des eaux naturelles, contact initial
+X92.3XXD	noyade et submersion par une agression, dans des eaux naturelles, contact subséquent
+X92.3XXS	noyade et submersion par une agression, dans des eaux naturelles, séquelle
+X92.8XXA	autre noyade et submersion par une agression, contact initial
+X92.8XXD	autre noyade et submersion par une agression, contact subséquent
+X92.8XXS	autre noyade et submersion par une agression, séquelle
+X92.9XXA	noyade et submersion par une agression, non spécifiée, contact initial
+X92.9XXD	noyade et submersion par une agression, non spécifiée, contact subséquent
+X92.9XXS	noyade et submersion par une agression, non spécifiée, séquelle
+X93.XXXA	agression par la décharge d'une arme de poing , contact initial
+X93.XXXD	agression par la décharge d'une arme de poing , contact subséquent
+X93.XXXS	agression par la décharge d'une arme de poing , séquelle
+X94.0XXA	agression par un fusil, contact initial
+X94.0XXD	agression par un fusil, contact subséquent
+X94.0XXS	agression par un fusil, séquelle
+X94.1XXA	agression par un fusil de chasse, contact initial
+X94.1XXD	agression par un fusil de chasse, contact subséquent
+X94.1XXS	agression par un fusil de chasse, séquelle
+X94.2XXA	agression par une mitrailleuse, contact initial
+X94.2XXD	agression par une mitrailleuse, contact subséquent
+X94.2XXS	agression par une mitrailleuse, séquelle
+X94.8XXA	agression par la décharge d'une autre arme à feu de plus grande taille, contact initial
+X94.8XXD	agression par la décharge d'une autre arme à feu de plus grande taille, contact subséquent
+X94.8XXS	agression par la décharge d'une autre arme à feu de plus grande taille, séquelle
+X94.9XXA	agression par la décharge d'une arme à feu de plus grande taille non spécifiée, contact initial
+X94.9XXD	agression par la décharge d'une arme à feu de plus grande taille non spécifiée, contact subséquent
+X94.9XXS	agression par la décharge d'une arme à feu de plus grande taille non spécifiée, séquelle
+X95.01XA	agression par la décharge d'une arme à air comprimé, contact initial
+X95.01XD	agression par la décharge d'une arme à air comprimé, contact subséquent
+X95.01XS	agression par la décharge d'une arme à air comprimé, séquelle
+X95.02XA	agression par la décharge d'une arme à paintball, contact initial
+X95.02XD	agression par la décharge d'une arme à paintball, contact subséquent
+X95.02XS	agression par la décharge d'une arme à paintball, séquelle
+X95.09XA	agression par une autre arme à gaz, air ou ressort, contact initial
+X95.09XD	agression par une autre arme à gaz, air ou ressort, contact subséquent
+X95.09XS	agression par une autre arme à gaz, air ou ressort, séquelle
+X95.8XXA	agression par la décharge d'une autre arme à feu, contact initial
+X95.8XXD	agression par la décharge d'une autre arme à feu, contact subséquent
+X95.8XXS	agression par la décharge d'une autre arme à feu, séquelle
+X95.9XXA	agression par la décharge d'une arme à feu non spécifiée, contact initial
+X95.9XXD	agression par la décharge d'une arme à feu non spécifiée, contact subséquent
+X95.9XXS	agression par la décharge d'une arme à feu non spécifiée, séquelle
+X96.0XXA	agression par une mine antipersonelle, contact initial
+X96.0XXD	agression par une mine antipersonelle, contact subséquent
+X96.0XXS	agression par une mine antipersonelle, séquelle
+X96.1XXA	agression par une bombe à essence (cocktail Molotov), contact initial
+X96.1XXD	agression par une bombe à essence (cocktail Molotov), contact subséquent
+X96.1XXS	agression par une bombe à essence (cocktail Molotov), séquelle
+X96.2XXA	agression par une lettre piégée, contact initial
+X96.2XXD	agression par une lettre piégée, contact subséquent
+X96.2XXS	agression par une lettre piégée, séquelle
+X96.3XXA	agression par une bombe à engrais, contact initial
+X96.3XXD	agression par une bombe à engrais, contact subséquent
+X96.3XXS	agression par une bombe à engrais, séquelle
+X96.4XXA	agression par une bombe en tuyau, contact initial
+X96.4XXD	agression par une bombe en tuyau, contact subséquent
+X96.4XXS	agression par une bombe en tuyau, séquelle
+X96.8XXA	agression par un autre explosif spécifié, contact initial
+X96.8XXD	agression par un autre explosif spécifié, contact subséquent
+X96.8XXS	agression par un autre explosif spécifié, séquelle
+X96.9XXA	agression par un explosif non spécifié, contact initial
+X96.9XXD	agression par un explosif non spécifié, contact subséquent
+X96.9XXS	agression par un explosif non spécifié, séquelle
+X97.XXXA	agression par de la fumée, du feu et des flammes, contact initial
+X97.XXXD	agression par de la fumée, du feu et des flammes, contact subséquent
+X97.XXXS	agression par de la fumée, du feu et des flammes, séquelle
+X98.0XXA	agression par de la vapeur d'eau ou des vapeurs chaudes, contact initial
+X98.0XXD	agression par de la vapeur d'eau ou des vapeurs chaudes, contact subséquent
+X98.0XXS	agression par de la vapeur d'eau ou des vapeurs chaudes, séquelle
+X98.1XXA	agression par de l'eau chaude du robinet, contact initial
+X98.1XXD	agression par de l'eau chaude du robinet, contact subséquent
+X98.1XXS	agression par de l'eau chaude du robinet, séquelle
+X98.2XXA	agression par des liquides chauds, contact initial
+X98.2XXD	agression par des liquides chauds, contact subséquent
+X98.2XXS	agression par des liquides chauds, séquelle
+X98.3XXA	agression par des appareils électro-ménagers chauds, contact initial
+X98.3XXD	agression par des appareils électro-ménagers chauds, contact subséquent
+X98.3XXS	agression par des appareils électro-ménagers chauds, séquelle
+X98.8XXA	agression par d'autres objets chauds, contact initial
+X98.8XXD	agression par d'autres objets chauds, contact subséquent
+X98.8XXS	agression par d'autres objets chauds, séquelle
+X98.9XXA	agression par des objets chauds non spécifiés, contact initial
+X98.9XXD	agression par des objets chauds non spécifiés, contact subséquent
+X98.9XXS	agression par des objets chauds non spécifiés, séquelle
+X99.0XXA	agression par du verre tranchant, contact initial
+X99.0XXD	agression par du verre tranchant, contact subséquent
+X99.0XXS	agression par du verre tranchant, séquelle
+X99.1XXA	agression par un couteau, contact initial
+X99.1XXD	agression par un couteau, contact subséquent
+X99.1XXS	agression par un couteau, séquelle
+X99.2XXA	agression par une épée ou une dague, contact initial
+X99.2XXD	agression par une épée ou une dague, contact subséquent
+X99.2XXS	agression par une épée ou une dague, séquelle
+X99.8XXA	agression par un autre objet tranchant, contact initial
+X99.8XXD	agression par un autre objet tranchant, contact subséquent
+X99.8XXS	agression par un autre objet tranchant, séquelle
+X99.9XXA	agression par un objet tranchant non spécifié, contact initial
+X99.9XXD	agression par un objet tranchant non spécifié, contact subséquent
+X99.9XXS	agression par un objet tranchant non spécifié, séquelle

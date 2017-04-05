@@ -1,0 +1,384 @@
+J01.10	sinusite frontale aiguë, sans précision
+J01.11	sinusite frontale aiguë récidivante
+J01.20	sinusite ethmoïdale aiguë, sans précision
+J01.21	Sinusite ethmoïdale aiguë  récidivante
+J01.30	sinusite sphénoïdale aigüe, sans précision
+J01.31	Sinusite  sphénoïdale aigüe récidivante
+J01.40	pansinusite aigüe, sans précision
+J01.41	pansinusite aiguë récidivante
+J01.80	autre sinusite aiguë
+J01.81	autre sinusite aiguë récidivante
+J01.90	sinusite aiguë, sans précision
+J01.91	sinusite aiguë récidivante, sans précision
+J02.0	pharyngite streptococcique
+J02.8	pharyngite aiguë due à d'autres micro-organismes spécifiés
+J00	rhinopharyngite aiguë
+J00		rhume banal
+J01.0	sinusite maxillaire aiguë, sans précision
+J01.1	sinusite maxillaire aiguë récidivante
+J02.9	pharyngite aiguë, sans précision
+J03.0	amygdalite streptococcique aiguë, sans précision
+J03.1	amygdalite streptococcique aiguë récidivante
+J03.80	amygdalite aiguë due à d'autres micro-organismes spécifiés
+J03.81	amygdalite aiguë récidivante due à d'autres micro-organismes spécifiés
+J03.90	amygdalite aiguë, sans précision
+J03.91	amygdalite aiguë récidivante, sans précision
+J04.0	laryngite aiguë
+J04.10	trachéite aiguë sans obstruction
+J04.11	trachéite aiguë avec une obstruction
+J04.2	laryngo-trachéite aiguë
+J04.30	supraglottite, non spécifiée, sans obstruction
+J04.31	supraglottite, non spécifiée, avec une obstruction
+J05.0	laryngite obstructive aiguë
+J05.0	croup
+J05.10	épiglottite aiguë sans obstruction
+J05.11	épiglottite aiguë avec une obstruction
+J06.0	laryngo-pharyngite aiguë
+J06.9	infection des voies respiratoires supérieures, sans précision
+J09.X1	grippe due à une nouveau virus grippal identifié type A avec une pneumonie
+J09.X2	grippe due à une nouveau virus grippal identifié type A avec d'autres manifestations respiratoires
+J09.X3	grippe due à une nouveau virus grippal identifié type avec des manifestations gastro-intestinales
+J09.X9	grippe due à une nouveau virus grippal identifié type A avec avec d'autres manifestations
+J10.0	grippe due à un autre virus grippal identifié, avec une pneumonie à germe non spécifié
+J10.1	grippe due à un autre virus grippal identifié, avec une pneumonie due au même virus grippal
+J10.8	grippe due à un autre virus grippal identifié, avec une autre pneumonie spécifiée
+J10.1	grippe due à un autre virus grippal identifié, avec d'autres manifestations respiratoires
+J10.2	grippe due à un autre virus grippal identifié, avec des manifestations gastro-intestinales
+J10.81	grippe due à un autre virus grippal identifié, avec une encéphalopathie
+J10.82	grippe due à un autre virus grippal identifié, avec une myocardite
+J10.83	grippe due à un autre virus grippal identifié, avec une otite moyenne
+J10.89	grippe due à un autre virus grippal identifié, avec d'autres manifestations
+J11.0	grippe sans virus grippal identifié avec une pneumonie non spécifiée
+J11.8	grippe sans virus grippal identifié avec une pneumonie spécifiée
+J11.1	grippe sans virus grippal identifié avec d'autres manifestations respiratoires
+J11.2	grippe sans virus grippal identifié avec des manifestations gastro-intestinales
+J11.81	grippe sans virus grippal identifié avec une encéphalopathie
+J11.82	grippe sans virus grippal identifié avec une myocardite
+J11.83	grippe sans virus grippal identifié avec une otite moyenne
+J11.89	grippe sans virus grippal identifié avec d'autres manifestations
+J12.0	pneumonie à l'Adenovirus
+J12.1	pneumonie due au virus respiratoire syncytial
+J12.1	pneumonie due au VRS
+J12.2	pneumonie au virus parainfluenza
+J12.3	pneumonie due au métapneumovirus humain
+J12.81	pneumonie due au coronavirus associé au SRAS
+J12.89	autre pneumonie virale
+J12.9	pneumonie virale, sans précision
+J13	pneumonie  à Streptocoque pneumoniae
+J14	pneumonie à Haemophilus influenzae
+J15.0	pneumonie à Klebsiella pneumoniae
+J15.1	pneumonie à Pseudomonas
+J15.20	pneumonie à Sarphylocoque, sans précision
+J15.211	pneumonie due à staphylocoque doré sensible à la méthicilline
+J15.212	pneumonie due à staphylocoque doré résistant à la méthicilline
+J15.29	pneumonie due à d'autres staphylocoques
+J15.3	pneumonie à des streptocoques du groupe B
+J15.4	pneumonie due à d'autres streptocoques
+J15.5	pneumonie à Escherichia coli
+J15.6	pneumonie due à d'autres bactéries aérobies à Gram négatif
+J15.7	pneumonie à mycoplasma pneumoniae
+J15.8	pneumonie due à d'autres bactéries spécifiées
+J15.9	pneumonie bactérienne, sans précision
+J16.0	pneumonie à chlamydia
+J16.8	pneumonie due à d'autres micro-organismes spécifiés
+J17	pneumonie au cours de maladies classées ailleurs
+J18.0	bronchopneumonie à germe non spécifié
+J18.1	pneumonie lobaire à germe non spécifié
+J18.2	pneumonie de décubitus, à germe non spécifié
+J18.8	autre pneumonie, micro-organisme non spécifié
+J18.9	pneumonie, à germe non spécifiée
+J20.0	bronchite aiguë à Mycoplasma pneumoniae
+J20.1	bronchite aiguë à Haemophilus influenzae
+J20.2	bronchite aiguë à Streptocoques
+J20.3	bronchite aiguë au virus Coxsackie
+J20.4	bronchite aiguë au virus parainfluenza
+J20.5	bronchite aiguë due au VRS
+J20.5	bronchite aiguë due au virus respiratoire syncytial
+J20.6	bronchite aiguë à un rhinovirus
+J20.7	bronchite aiguë au echovirus
+J20.8	bronchite aiguë due à d'autres micro-organismes spécifiés
+J20.9	bronchite aiguë, sans précision
+J21.0	bronchiolite aiguë due au VRS
+J21.0	bronchiolite aiguë due au virus respiratoire syncytial
+J21.1	bronchiolite aiguë due au métapneumovirus humain
+J21.8	bronchiolite aiguë due à d'autres micro-organismes spécifiés
+J21.9	bronchiolite aiguë, sans précision
+J22	infection aigüe des voies  respiratoires inférieures, sans précision
+J30.0	rhinite vasomotrice
+J30.1	rhinite allergique pollinique
+J30.2	autres rhinites allergiques saisonnières
+J30.5	rhinite allergique secondaire à la prise d'aliments
+J30.81	rhinite allergique aux poils et phanères d'animaux
+J30.81	rhinite allergique aux poils 
+J30.81	rhinite allergique aux phanères d'animaux  
+J30.81	rhinite allergique aux phanères de chat
+J30.81	rhinite allergique aux phanères de chien
+J30.89	autre rhinite allergique
+J30.9	rhinite allergique, sans précision
+J31.0	rhinite chronique
+J31.1	rhinopharyngite chronique
+J31.2	pharyngite chronique
+J32.0	sinusite maxillaire chronique
+J32.1	sinusite frontale chronique
+J32.2	sinusite ethmoïdale chronique
+J32.3	sinusite sphénoïdale chronique
+J32.4	pansinusite chronique
+J32.8	autre sinusite chronique
+J32.9	sinusite chronique, sans précision
+J33.0	polype des fosses nasales
+J33.1	polypose rhino-sinusienne déformante
+J33.8	autres polypes des sinus
+J33.9	polype nasal, sans précison
+J34.0	abcès, furoncle et anthrax du nez
+J34.1	kyste et mucocèle du nez et des sinus du nez
+J34.2	déviation de la cloison nasale
+J34.3	hypertrophie des cornets nasaux
+J34.81	mucite nasale
+J34.81	mucite nasale ulcéreuse
+J34.89	autres maladies spécifiées du nez et des sinus nasaux
+J34.9	maladies non spécifiées du nez et des sinus du nez
+J35.1	amygdalite chronique
+J35.2	adénoïdite chronique
+J35.3	amygdalite et adénoïdite chroniques
+J35.1	hypertrophie des amygdales
+J35.2	hypertrophie des végétations adénoïdes
+J35.3	hypertrophie des amygdales et des végétations adénoïdes
+J35.8	autres maladies chroniques des amygdales et des végétations adénoïdes
+J35.9	maladie chronique des amygdales et des végétations adénoïdes, sans précision
+J36	angine phlegmoneuse
+J37.0	laryngite chronique
+J37.1	laryngo-trachéite chronique
+J38.0	paralysie des cordes vocales et du larynx, sans précision
+J38.1	paralysie des cordes vocales et du larynx, unilatérale
+J38.2	paralysie des cordes vocales et du larynx, bilatérale
+J38.1	polype d'une corde vocale et du larynx
+J38.2	nodules des cordes vocales
+J38.3	autres maladies des cordes vocales
+J38.4	oedème du larynx
+J38.5	spasme laryngé
+J38.6	sténose du larynx
+J38.7	autres maladies du larynx
+J39.0	abcès parapharyngé et rétropharyngé
+J39.1	Autres abcès du pharynx
+J39.2	autres maladies du pharynx
+J39.3	réaction anaphylactique des voies respiratoires supérieures, localisation non spécifiée
+J39.8	autres maladies spécifiées des voies respiratoires supérieures
+J39.9	maladie des voies respiratoires supérieures, sans précision
+J40		bronchite, non spécifiée comme aiguë ou chronique
+J41.0	bronchite chronique simple
+J41.1	bronchite chronique mucopurulente
+J41.8	bronchite chronique simple et mucopurulente
+J42	bronchite chronique, sans précision
+J43.0	emhysème unilatéral
+J43.0	syndrome de macLeod
+J43.1	emphysème panlobulaire
+J43.2	emphysème centro-lobulaire
+J43.8	autres emphysèmes
+J43.9	emhysème, sans précision
+J44.0	broncho-pneumopathie chronique obstructive avec une infection aiguë des voies respiratoires inférieures
+J44.1	broncho-pneumopathie chronique obstructive avec une exacerbation 
+J44.1	broncho-pneumopathie chronique obstructive avec une exacerbation aiguë
+J44.9	broncho-pneumopathie chronique obstructive, sans précision
+J45.20	asthme intermittent léger, non compliqué
+J45.21	asthme intermittent léger avec une exacerbation 
+J45.21	asthme intermittent léger avec une exacerbation aiguë
+J45.22	asthme intermittent léger avec un état de mal asthmatique
+J45.30	asthme persistent léger, non compliqué
+J45.31	asthme persistent léger avec une exacerbation
+J45.31	asthme persistent léger avec une exacerbation aiguë
+J45.32	asthme persistent léger avec un état de mal asthmatique
+J45.40	asthme persistant modéré, non compliqué
+J45.41	asthme persistant modéré avec une exacerbation
+J45.41	asthme persistant modéré avec une exacerbation aiguë
+J45.42	asthme persistant modéré avec un état de mal asthmatique
+J45.50	asthme persistent sévère, non compliqué
+J45.51	asthme persistent sévère avec une exacerbation
+J45.51	asthme persistent sévère avec une exacerbation aiguë
+J45.52	asthme persistent sévère avec un état de mal asthmatique
+J45.901	asthme non spécifié avec une exacerbation
+J45.901	asthme non spécifié avec une exacerbation aiguë
+J45.902	asthme non spécifié avec un état de mal asthmatique
+J45.909	asthme non spécifié, non compliqué
+J45.990	bronchospasme induit par l'exercice
+J45.991	toux équivalent d'asthme
+J45.998	autre asthme
+J47.0	bronchectasie avec une infection aiguë des voies respiratoires inférieures
+J47.1	bronchectasie avec une exacerbation
+J47.1	bronchectasie avec une exacerbation aiguë
+J47.9	bronchectasie, non compliquée
+J60		pneumoconiose des mineurs de charbon
+J61		pneumoconiose due à l'amiante et à d'autres fibres minérales
+J62.0	pneumoconiose due à la poussière de talc
+J62.8	pneumoconiose due à d'autres poussières contenant de la silice
+J63.0	aluminose 
+J63.0	aluminose du poumon
+J63.1	fibrose due à la bauxite
+J63.1	fibrose du poumon due à la bauxite
+J63.2	bérylliose
+J63.3	fibrose due au graphite
+J63.3	fibrose du poumon due au graphite
+J63.4	sidérose
+J63.5	stannose
+J63.6	pneumoconiose due à d'autres poussières inorganiques spécifiées
+J64		pneumoconoise, sans précision
+J65		pneumoconiose associée à la tuberculose
+J66.0	byssinose
+J66.1	maladie des apprêteurs de lin
+J66.2	cannabinose
+J66.8	affection des voies aériennes due à d'autres poussières organiques précisées
+J67.0	poumon de fermier
+J67.1	bagassose
+J67.2	poumon des oiseleurs
+J67.3	subérose
+J67.4	poumon des malteurs
+J67.5	poumon des champignonnistes
+J67.6	poumon des écorceurs d'érables
+J67.7	maladie des climatiseurs
+J67.7	maladie des humidificateurs
+J67.7	maladie des climatiseurs et des humidificateurs
+J67.8	pneumonie d' hypersensibilité à d'autres poussières organiques
+J67.9	pneumonie d' hypersensibilité aux poussières organiques, sans précision
+J68.0	bronchite  dues à des agents chimiques
+J68.0	bronchite dues à des émanations
+J68.0	bronchite dues à des fumées
+J68.0	bronchite dues à des gaz
+J68.0	pneumonie dues à des agents chimiques
+J68.0	pneumonie dues à des émanations
+J68.0	pneumonie dues à des fumées
+J68.0	pneumonie dues à des gaz
+J68.1	oedème aigu du poumon dû à des agents chimiques
+J68.1	oedème aigu du poumon dû à des émanations
+J68.1	oedème aigu du poumon dû à des fumées
+J68.1	oedème aigu du poumon dû à des gaz
+J68.2	inflammation des voies respiratoires supérieures due à des agents chimiques, non classée ailleurs
+J68.2	inflammation des voies respiratoires supérieures due à des émanations, non classée ailleurs
+J68.2	inflammation des voies respiratoires supérieures due à des fumées, non classée ailleurs
+J68.2	inflammation des voies respiratoires supérieures due à des gaz, non classée ailleurs
+J68.3	autres affections respiratoires aiguës et subaiguës dues à des agents chimiques
+J68.3	autres affections respiratoires aiguës et subaiguës dues à des émanations
+J68.3	autres affections respiratoires aiguës et subaiguës dues à des fumées
+J68.3	autres affections respiratoires aiguës et subaiguës dues à des gaz
+J68.4	affections respiratoires chroniques dues à des agents chimiques
+J68.4	affections respiratoires chroniques dues à des émanations
+J68.4	affections respiratoires chroniques dues à des fumées
+J68.4	affections respiratoires chroniques dues à des gaz
+J68.8	autres affections respiratoires dues à des agents chimiques
+J68.8	autres affections respiratoires dues à des émanations
+J68.8	autres affections respiratoires dues à des fumées
+J68.9	affection respiratoire non spécifiée due à des agents chimiques
+J68.9	affection respiratoire non spécifiée due à des émanations
+J68.9	affection respiratoire non spécifiée due à des fumées
+J68.9	affection respiratoire non spécifiée due à des gaz
+J69.0	pneumonie due à l'inhalation d'aliments ou de  vomissements
+J69.1	pnemonie due à l'inhalation d'huile ou d'essences
+J69.8	pneumonie due à l'inhalation d'autres substances solides ou liquides
+J70.0	affections pulmonaires aiguës dues à une irradiation
+J70.1	affections pulmonaires chroniques et autres dues à une irradiation
+J70.2	pneumopathies interstitielles aiguës d'origine médicamenteuse
+J70.3	pneumopathie interstitielle chronique d'origine médicamenteuse
+J70.4	pneumopathie interstitielle d'origine médicamenteuse, sans précision
+J70.5	affections respiratoires dues à l'inhalation de fumée
+J70.8	affections respiratoires dues à d'autres agents externes spécifiés
+J70.9	affection respiratoire due à un agent externe non spécifié
+J80	syndrome de détresse respiratoire aiguë
+J81.0	oedème pulmonaire aigu
+J81.1	oedème pulmonaire chronique
+J82		pneumopathie à éosinophilie, non classée ailleurs
+J84.1	protéinéose alvéolaire
+J84.2	microlithiase alvéolaire pulmonaire
+J84.3	hémosidérose pulmonaire idiopathique
+J84.9	autres affections alvéolaires et pariéto-alvéolaires
+J84.10	fibrose pulmonaire, non spécifiée
+J84.111	pneumonie interstitielle idiopathique, non spécifiée autrement
+J84.112	fibrose pulmonaire idiopathique
+J84.113	pneumonie interstitielle idiopathique non spécifique
+J84.114	pneumonie interstitielle aiguë
+J84.115	bronchiolite respiratoire avec pneumonie interstitielle
+J84.116	pneumopathie organisée cryptogénique
+J84.117	pneumonie interstitielle desquamative
+J84.17	autres maladies pulmonaires interstitielles avec fibrose dans des maladies classées ailleurs
+J84.2	pneumonie interstitielle lymphocytaire
+J84.81	lymphangioléiomyomatose
+J84.82	histiocytose pulmonaire à cellules de langerhans chez l'adulte
+J84.83	mutations du surfactant du poumon
+J84.841	hyperplasie des cellules neuroendocrines du nourrisson
+J84.842	glycogénose interstitielle pulmonaire
+J84.843	dysplasie alvéolo-capillaire
+J84.848	autres maladies intersitielles pulmonaires pendant l'enfance
+J84.89	autres pneumopathies interstitielles spécifiées
+J84.9	pneumopathie interstitielle, sans précision
+J85.0	gangrène et nécrose du poumon
+J85.1	abcès pulmonaire avec une pneumonie
+J85.2	abcès pulmonaire sans pneumonie
+J85.3	abcès du médiastin
+J86.0	pyothorax avec une fistule
+J86.9	pyothorax sans fistule
+J90	épanchement pleural, non classé ailleurs
+J91.0	épanchement pleural malin
+J91.8	épanchement pleural au cours d'affections classées ailleurs
+J92.0	plaque pleurale avec la présence d'amiante
+J92.9	plaque pleurale sans amiante
+J93.0	pneumotorax spontané sous tension
+J93.11	pneumothorax spontané primaire
+J93.12	pneumothorax spontané secondaire
+J93.81	pneumothorax chronique
+J93.82	autre fuite d'aire
+J93.83	autre pneumothorax
+J93.9	pneumothorax, sans précision
+J94.0	chylothorax
+J94.1	fibrothorax
+J94.2	hémothorax
+J94.8	autres affections pleurales, sans précision
+J94.9	affection pleurale, sans précision
+J95.0	complication non spécifiée d'une trachéotomie
+J95.1	hémorragie de l'orifice d'une trachéotomie
+J95.2	infection de l'orifice d'une trachéotomie
+J95.3	fonctionnement défectueux de l'orifice d'une trachéotomie
+J95.4	fistule trachéo-oesophagienne consécutive à une trachéotomie
+J95.9	autre complication liée à une trachéotomie
+J95.1	insuffisance respiratoire aiguë consécutive à une intervention chirurgicale thoracique
+J95.2	insuffisance respiratoire aiguë consécutive à une intervention chirurgicale non thoracique
+J95.3	insuffisance respiratoire chronique consécutive à une intervention chirurgicale
+J95.4	pneumonie chimique consécutive à une anesthésie
+J95.5	sténose sous-glottique après un acte médical
+J95.61	hémorragie et hématome péri-opératoires d'un organe ou d'une structure du système respiratoire complicant une procédure au niveau du système respiratoire
+J95.62	hémorragie et hématome péri-opératoires d'un organe ou d'une structure du système respiratoire complicant une autre procédure
+J95.71	perforation et lacération accidentelle d'un organe ou d'une structure du système respiratoire durant un acte médical sur le système respiratoire
+J95.72	perforation et lacération accidentelles d'un organe ou d'une structure du système respiratoire durant un autre acte médical
+J95.811	pneumothorax postprocédural
+J95.812	fuite d'aire postprocédurale
+J95.821	insuffisance respiratoire aiguë postprocédurale
+J95.822	insuffisance respiratoire aiguë et chronique postprocédurale
+J95.830	hémorragie et hématome d'un organe ou d'une structure du système respiratoire suite à un acte médical  sur l'appareil respiratoire
+J95.831	hémorragie et hématome d'un organe ou d'une structure du système  respiratoire suite à une autre procédure
+J95.84	syndrome de détresse respiratoire aiguë post transfusionnel 
+J95.84	TRALI
+J95.850	complication mécanique liée à la ventilation artificielle
+J95.851	pneumonie associée au respirateur
+J95.859	autres complications associées au respirateur
+J95.88	autres complications respiratoires péri-opératoires, non classées ailleurs
+J95.89	autres complications respiratoires après une procédure, non classées ailleurs
+J96.0	insuffisance respiratoire aiguë, sans précision d'une hypoxie ou d'une hypercapnie associée
+J96.1	insuffisance respiratoire aiguë avec une hypoxie
+J96.2	insuffisance respiratoire aiguë avec une hypercapnie
+J96.10	insuffisance respiratoire chronique, sans précision d'une hypoxie ou d'une hypercapnie associée
+J96.11	insuffisance respiratoire chronique avec une hypoxie
+J96.12	insuffisance respiratoire chronique avec une hypercapnie
+J96.20	insuffisance respiratoire aiguë et chronique, sans précision d'une hypoxie ou d'une hypercapnie associée
+J96.21	insuffisance respiratoire aiguë et chronique avec une hypoxie
+J96.22	insuffisance respiratoire aiguë et chronique avec une hypercapnie
+J96.90	insuffisance respiratoire non spécifiée, sans précision d'une hypoxie ou d'une hypercapnie associée
+J96.91	insuffisance respiratoire non spécifiée, avec une hypoxie
+J96.92	insuffisance respiratoire non spécifiée, avec une hypercapnie
+J98.1	bronchospasme aigu
+J98.9	autres maladies bronchiques, non classées ailleurs
+J98.11	atélectasie
+J98.19	autre collapsus pulmonaire
+J98.2	emphysème interstitiel
+J98.3	emphysème compensateur
+J98.4	autres affections pulmonaires
+J98.5	maladies du médiastin, non classées ailleurs
+J98.6	maladie du diaphragme
+J98.8	autres affections respiratoires spécifiées
+J98.9	affection respiratoire, sans précision
+J99	affections respiratoires au cours de maladies classées ailleurs

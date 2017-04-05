@@ -1,0 +1,2258 @@
+O09.812	surveillance de la grossesse résultant d'une technologie de reproduction assistée, deuxième trimestre
+O09.813	surveillance de la grossesse résultant d'une technologie de reproduction assistée, troisième trimestre
+O09.819	surveillance de la grossesse résultant d'une technologie de reproduction assistée, trimestre non spécifié
+O09.821	surveillance de la grossesse avec un antécédent d'une procédure in utero au cours de la grossesse précédente, premier trimestre
+O09.822	surveillance de la grossesse avec un antécédent d'une procédure in utero au cours de la grossesse précédente, deuxième trimestre
+O14.0	pré-éclampsie légère à moyenne, trimestre non spécifié
+O14.2	pré-éclampsie légère à moyenne, deuxième trimestre
+O14.3	pré-éclampsie légère à moyenne, troisième trimestre
+O14.10	pré-éclampsie sévère, trimestre non spécifié
+O14.12	pré-éclampsie sévère, deuxième trimestre
+O14.13	pré-éclampsie sévère, troisième trimestre
+O14.20	HELLP, trimestre non spécifié
+O14.22	HELLP, deuxième trimestre
+O14.23	HELLP, troisième trimestre
+O14.20	HELLP syndrome, trimestre non spécifié
+O14.22	HELLP syndrome, deuxième trimestre
+O14.23	HELLP syndrome, troisième trimestre
+O14.90	pré-éclampsie non spécifiée, trimestre non spécifié
+O14.92	pré-éclampsie non spécifiée, deuxième trimestre
+O14.93	pré-éclampsie non spécifiée, troisième trimestre
+O00.0	grossesse abdominale
+O00.1	grossesse tubaire
+O00.2	grossesse ovarienne
+O00.8	d'autres grossesses ectopiques
+O00.9	grossesse ectopique, non spécifiée
+O01.0	môle hydatiforme classique
+O01.1	môle hydatiforme incomplète et partielle
+O01.9	môle hydatiforme, non spécifiée
+O02.0	oeuf clair et môle non hydatiforme
+O02.1	rétention du foetus mort in utero
+O02.81	modification inappropriée quantitatif du gonadotrophine chorionique humaine en début de grossesse
+O02.81	modification inappropriée quantitatif du GCh en début de grossesse
+O02.89	autres produits anormaux de la conception
+O02.9	produit anormal de la conception, non spécifié
+O03.0	infection du tractus génital et du bassin après un avortement spontané incomplet
+O03.1	hémorragie retardée ou excessive après un avortement spontané incomplet
+O03.2	embolie après un avortement spontané incomplet
+O03.30	complication non spécifiée après un avortement spontané incomplet
+O03.31	choc après un avortement spontané incomplet
+O03.32	défaillance rénale après un avortement spontané incomplet
+O03.33	trouble métabolique après un avortement spontané incomplet
+O03.34	lésion des organes pelviens après un avortement spontané incomplet
+O03.35	d'autres complications veineuses après un avortement spontané incomplet
+O03.36	arrêt cardiaque après un avortement spontané incomplet
+O03.37	sepsis après un avortement spontané incomplet
+O03.38	infection du tractus urinaire après un avortement spontané incomplet
+O03.39	avortement spontané incomplet avec d'autres complications
+O03.4	avortement spontané incomplet sans complication
+O03.5	infection du tractus génital et du bassin après un avortement spontané complet ou non spécifié
+O03.6	hémorragie retardée ou excessive après un avortement spontané complet ou non spécifié
+O03.7	embolie après un avortement spontané complet ou non spécifié
+O03.80	complication non spécifiée après un avortement spontané complet ou non spécifié
+O03.81	choc après un avortement spontané complet ou non spécifié
+O03.82	défaillance rénale après un avortement spontané complet ou non spécifié
+O03.83	trouble métabolique après un avortement spontané complet ou non spécifié
+O03.84	lésion des organes pelviens après un avortement spontané complet ou non spécifié
+O03.85	d'autres complications veineuses après un avortement spontané complet ou non spécifié
+O03.86	arrêt cardiaque après un avortement spontané complet ou non spécifié
+O03.87	sepsis après un avortement spontané complet ou non spécifié
+O03.88	infection du tractus urinaire après un avortement spontané complet ou non spécifié
+O03.89	avortement spontané complet ou non spécifié avec d'autres complications
+O03.9	avortement spontané complet ou non spécifié sans complication
+O04.5	infection du tractus génital et du bassin après une interruption de la grossesse
+O04.6	hémorragie retardée ou excessive après une interruption de la grossesse
+O04.7	embolie après une interruption de la grossesse
+O04.80	complication non spécifiée après une interruption de la grossesse
+O04.81	choc après une interruption de la grossesse
+O04.82	défaillance rénale après une interruption de la grossesse
+O04.83	trouble métabolique après une interruption de la grossesse
+O04.84	lésion des organes pelviens après une interruption de la grossesse
+O04.85	d'autres complications veineuses après une interruption de la grossesse
+O04.86	arrêt cardiaque après une interruption de la grossesse
+O04.87	sepsis après une interruption de la grossesse
+O04.88	infection du tractus urinaire après une interruption de la grossesse
+O04.89	interruption de la grossesse avec d'autres complications
+O04.5	infection du tractus génital et du bassin après une interruption provoquée de la grossesse
+O04.6	hémorragie retardée ou excessive après une interruption provoquée de la grossesse
+O04.7	embolie après une interruption provoquée de la grossesse
+O04.80	complication non spécifiée après une interruption provoquée de la grossesse
+O04.81	choc après une interruption provoquée de la grossesse
+O04.82	défaillance rénale après une interruption provoquée de la grossesse
+O04.83	trouble métabolique après une interruption provoquée de la grossesse
+O04.84	lésion des organes pelviens après une interruption provoquée de la grossesse
+O04.85	d'autres complications veineuses après une interruption provoquée de la grossesse
+O04.86	arrêt cardiaque après une interruption provoquée de la grossesse
+O04.87	sepsis après une interruption provoquée de la grossesse
+O04.88	infection du tractus urinaire après une interruption provoquée de la grossesse
+O04.89	interruption provoquée de la grossesse avec d'autres complications
+O07.0	infection du tractus génital et du bassin après l'échec de la tentative d'interruption de la grossesse
+O07.1	hémorragie retardée ou excessive après l'échec de la tentative d'interruption de la grossesse
+O07.2	embolie après l'échec de la tentative d'interruption de la grossesse
+O07.30	échec de la tentative de l'interruption de la grossesse avec des complications non spécifiées
+O07.31	choc après l'échec de la tentative d' interruption de la grossesse
+O07.32	défaillance rénale après l'échec de la tentative d'interruption de la grossesse
+O07.33	trouble métabolique après l'échec de la tentative d'interruption de la grossesse
+O07.34	lésion des organes pelviens après l'échec de la tentative d'interruption de la grossesse
+O07.35	d'autres complications veineuses après l'échec de la tentative d'interruption de la grossesse
+O07.36	arrêt cardiaque après l'échec de la tentative d'interruption de la grossesse
+O07.37	sepsis après l'échec de la tentative d'interruption de la grossesse
+O07.38	infection du tractus urinaire après l'échec de la tentative d'interruption de la grossesse
+O07.39	échec de la tentative d'interruption de la grossesse avec d'autres compications
+O07.4	échec de la tentative d'interruption de la grossesse sans complication
+O08.0	infection du tractus génital et du bassin après une grossesse ectopique et molaire
+O08.1	hémorragie retardée ou excessive après une grossesse ectopique et molaire
+O08.2	embolie après une grossesse ectopique et molaire
+O08.3	choc après une grossesse ectopique et molaire
+O08.4	défaillance rénale après une grossesse ectopique et molaire
+O08.5	troubles métaboliques après une grossesse ectopique et molaire
+O08.6	lésion des organes et tissus pelviens après une grossesse ectopique et molaire
+O08.7	d'autres complications veineuses après une grossesse ectopique et molaire
+O08.81	arrêt cardiaque après une grossesse ectopique et molaire
+O08.82	sepsis après une grossesse ectopique et molaire
+O08.83	infection du tractus urinaire après une grossesse ectopique et molaire
+O08.89	d'autres complications après une grossesse ectopique et molaire
+O08.9	Complication non spécifiée après une grossesse ectopique et molaire
+O09.0	surveillance de la grossesse avec un antécédent d'infertilité, trimestre non spécifié
+O09.1	surveillance de la grossesse avec un antécédent d'infertilité, premier trimestre
+O09.2	surveillance de la grossesse avec un antécédent d'infertilité, deuxième trimestre
+O09.3	surveillance de la grossesse avec un antécédent d'infertilité, troisième trimestre
+O09.10	surveillance de la grossesse avec un antécédent de la grossesse ectopique et molaire, trimestre non spécifié
+O09.11	surveillance de la grossesse avec un antécédent de la grossesse ectopique et molaire, premier trimestre
+O09.12	surveillance de la grossesse avec un antécédent de la grossesse ectopique et molaire, deuxième trimestre
+O09.13	surveillance de la grossesse avec un antécédent de la grossesse ectopique et molaire, troisième trimestre
+O09.211	surveillance de la grossesse avec un antécédent du travail prématuré, premier trimestre
+O09.212	surveillance de la grossesse avec un antécédent du travail prématuré, deuxième trimestre
+O09.213	surveillance de la grossesse avec un antécédent du travail prématuré, troisième trimestre
+O09.219	surveillance de la grossesse avec un antécédent du travail prématuré, trimestre non spécifié
+O09.291	surveillance de la grossesse avec un autre antécédent obstétrique ou problème de reproduction, premier trimestre
+O09.292	surveillance de la grossesse avec un autre antécédent obstétrique ou problème de reproduction, deuxième trimestre
+O09.293	surveillance de la grossesse avec un autre antécédent obstétrique ou problème de reproduction troisième trimestre
+O09.299	surveillance de la grossesse avec un autre antécédent obstétrique ou problème de reproduction, trimestre non spécifié
+O09.30	surveillance de la grossesse avec des soins prénatals insuffisants, trimestre non spécifié
+O09.31	surveillance de la grossesse avec des soins prénatals insuffisants, premier trimestre
+O09.32	surveillance de la grossesse avec des soins prénatals insuffisants, deuxième trimestre
+O09.33	surveillance de la grossesse avec des soins prénatals insuffisants, troisième trimestre
+O09.40	surveillance de la grossesse avec une multiparité élevée, trimestre non spécifié
+O09.41	surveillance de la grossesse avec une multiparité élevée, premier trimestre
+O09.42	surveillance de la grossesse avec une multiparité élevée, deuxième trimestre
+O09.43	surveillance de la grossesse avec une multiparité élevée, troisième trimestre
+O09.511	surveillance d'une primigeste âgée, premier trimestre
+O09.512	surveillance d'une primigeste âgée, deuxième trimestre
+O09.513	surveillance d'une primigeste âgée, troisième trimestre
+O09.519	surveillance d'une primigeste âgée, trimestre non spécifié
+O09.521	surveillance d'une multigeste âgée, premier trimestre
+O09.522	surveillance d'une multigeste âgée, deuxième trimestre
+O09.523	surveillance d'une multigeste âgée, troisième trimestre
+O09.529	surveillance d'une multigeste âgée, trimestre non spécifié
+O09.611	surveillance d'une jeune primigeste, premier trimestre
+O09.612	surveillance d'une jeune primigeste, deuxième trimestre
+O09.613	surveillance d'une jeune primigeste, troisième trimestre
+O09.619	surveillance d'une jeune primigeste, trimestre non spécifié
+O09.621	surveillance d'une jeune multigeste, premier trimestre
+O09.622	surveillance d'une jeune multigeste, deuxième trimestre
+O09.623	surveillance d'une jeune multigeste, troisième trimestre
+O09.629	surveillance d'une jeune multigeste, trimestre non spécifié
+O09.70	surveillance d'une grossesse à haut risque due à des problèmes sociaux, trimestre non spécifié
+O09.71	surveillance d'une grossesse à haut risque due à des problèmes sociaux, premier trimestre
+O09.72	surveillance d'une grossesse à haut risque due à des problèmes sociaux, deuxième trimestre
+O09.73	surveillance d'une grossesse à haut risque due à des problèmes sociaux, troisième trimestre
+O09.811	surveillance de la grossesse résultant d'une technologie de reproduction assistée, premier trimestre
+O09.823	surveillance de la grossesse avec un antécédent d'une procédure in utero au cours de la grossesse précédente, troisième trimestre
+O09.829	surveillance de la grossesse avec un antécédent d'une procédure in utero au cours de la grossesse précédente, trimestre non spécifié
+O09.891	surveillance d'autres grossesses à haut risque, premier trimestre
+O09.892	surveillance d'autres grossesses à haut risque, deuxième trimestre
+O09.893	surveillance d'autres grossesses à haut risque, troisième trimestre
+O09.899	surveillance d'autres grossesses à haut risque, trimestre non spécifié
+O09.90	surveillance d'une grossesse à haut risque, non spécifiée, trimestre non spécifié
+O09.91	surveillance d'une grossesse à haut risque, non spécifiée, premier trimestre
+O09.92	surveillance d'une grossesse à haut risque, non spécifiée, deuxième trimestre
+O09.93	surveillance d'une grossesse à haut risque, non spécifiée, troisième trimestre
+O10.11	hypertension essentielle préexistante compliquant la grossesse, premier trimestre
+O10.12	hypertension essentielle préexistante compliquant la grossesse, deuxième trimestre
+O10.13	hypertension essentielle préexistante compliquant la grossesse, troisième trimestre
+O10.19	hypertension essentielle préexistante compliquant la grossesse, trimestre non spécifié
+O10.2	hypertension essentielle préexistante compliquant l'accouchement
+O10.3	hypertension essentielle préexistante compliquant le post-partum
+O10.111	cardiopathie hypertensive préexistante compliquant la grossesse, premier trimestre
+O10.112	cardiopathie hypertensive préexistante compliquant la grossesse, deuxième trimestre
+O10.113	cardiopathie hypertensive préexistante compliquant la grossesse, troisième trimestre
+O10.119	cardiopathie hypertensive préexistante compliquant la grossesse, trimestre non spécifié
+O10.12	cardiopathie hypertensive préexistante compliquant l'accouchement
+O10.13	cardiopathie hypertensive préexistante compliquant le post-partum
+O10.211	maladie rénale hypertensive chronique préexistante compliquant la grossesse, premier trimestre
+O10.212	maladie rénale hypertensive chronique préexistante compliquant la grossesse, deuxième trimestre
+O10.213	maladie rénale hypertensive chronique préexistante compliquant la grossesse, troisième trimestre
+O10.219	maladie rénale hypertensive chronique préexistante compliquant la grossesse, trimestre non spécifié
+O10.22	maladie rénale hypertensive chronique préexistante compliquant l'accouchement
+O10.23	maladie rénale hypertensive chronique préexistante compliquant le post-partum
+O10.311	maladie rénale chronique et cardiopathie hypertensives préexistantes compliquant la grossesse, premier trimestre
+O10.312	maladie rénale chronique et cardiopathie hypertensives préexistantes compliquant la grossesse, deuxième trimestre
+O10.313	maladie rénale chronique et cardiopathie hypertensives préexistantes compliquant la grossesse, troisième trimestre
+O10.319	maladie rénale chronique et cardiopathie hypertensives préexistantes compliquant la grossesse, trimestre non spécifié
+O10.32	maladie rénale chronique et cardiopathie hypertensives préexistantes compliquant l'accouchement
+O10.33	maladie rénale chronique  et cardiopathie hypertensives préexistantes compliquant le post-partum
+O10.411	hypertension secondaire préexistante compliquant la grossesse, premier trimestre
+O10.412	hypertension secondaire préexistante compliquant la grossesse, deuxième trimestre
+O10.413	hypertension secondaire préexistante compliquant la grossesse, troisième trimestre
+O10.419	hypertension secondaire préexistante compliquant la grossesse, trimestre non spécifié
+O10.42	hypertension secondaire préexistante compliquant l'accouchement
+O10.43	hypertension secondaire préexistante compliquant le post-partum
+O10.911	hypertension préexistante non spécifiée compliquant la grossesse, premier trimestre
+O10.912	hypertension préexistante non spécifiée compliquant la grossesse, deuxième trimestre
+O10.913	hypertension préexistante non spécifiée compliquant la grossesse, troisième trimestre
+O10.919	hypertension préexistante non spécifiée compliquant la grossesse, trimestre non spécifié
+O10.92	hypertension préexistante non spécifiée compliquant l'accouchement
+O10.93	hypertension préexistante non spécifiée compliquant le post-partum
+O11.1	hypertension préexistante avec pré-éclampsie, premier trimestre
+O11.2	hypertension préexistante avec pré-éclampsie, deuxième trimestre
+O11.3	hypertension préexistante avec pré-éclampsie, troisième trimestre
+O11.9	hypertension préexistante avec pré-éclampsie, trimestre non spécifié
+O12.0	oedème gestationnel, trimestre non spécifié
+O12.1	oedème gestationnel, premier trimestre
+O12.2	oedème gestationnel, deuxième trimestre
+O12.3	oedème gestationnel, troisième trimestre
+O12.10	protéinurie gestationnelle, trimestre non spécifié
+O12.11	protéinurie gestationnelle, premier trimestre
+O12.12	protéinurie gestationnelle, deuxième trimestre
+O12.13	protéinurie gestationnelle, troisième trimestre
+O12.20	oedème gestationnel avec protéinurie, trimestre non spécifié
+O12.21	oedème gestationnel avec protéinurie, premier trimestre
+O12.22	oedème gestationnel avec protéinurie, deuxième trimestre
+O12.23	oedème gestationnel avec protéinurie, troisième trimestre
+O13.1	hypertension gestationnelle [induite par grossesse] sans protéinurie significative, premier trimestre
+O13.2	hypertension gestationnelle [induite par grossesse] sans protéinurie significative, deuxième trimestre
+O13.3	hypertension gestationnelle [induite par grossesse] sans protéinurie significative, troisième trimestre
+O13.9	hypertension gestationnelle [induite par grossesse] sans protéinurie significative, trimestre non spécifié
+O15.0	éclampsie au cours de la grossesse, trimestre non spécifié
+O15.2	éclampsie au cours de la grossesse, deuxième trimestre
+O15.3	éclampsie au cours de la grossesse, troisième trimestre
+O15.1	éclampsie au cours du travail
+O15.2	éclampsie au cours du post-partum
+O15.9	éclampsie, non spécifiée quant à la période
+O16.1	hypertension maternelle non spécifiée, premier trimestre
+O16.2	hypertension maternelle non spécifiée, deuxième trimestre
+O30.891	autre grossesse multiple spécifiée, nombre de placenta et nombre de sacs amniotiques non déterminables, premier trimestre
+O30.892	autre grossesse multiple spécifiée, nombre de placenta et nombre de sacs amniotiques non déterminables, deuxième trimestre
+O30.893	autre grossesse multiple spécifiée, nombre de placenta et nombre de sacs amniotiques non déterminables, troisième trimestre
+O30.899	autre grossesse multiple spécifiée, nombre de placenta et nombre de sacs amniotiques non déterminables, trimestre non spécifié
+O30.90	grossesse multiple, non spécifiée, trimestre non spécifié
+O31.8X34	d'autres complications spécifiques pour une grossesse multiple, troisième trimestre, foetus 4
+O31.8X35	d'autres complications spécifiques pour une grossesse multiple, troisième trimestre, foetus 5
+O31.8X39	d'autres complications spécifiques pour une grossesse multiple, troisième trimestre, autre foetus
+O31.8X90	d'autres complications spécifiques pour une grossesse multiple, trimestre non spécifié, pas applicable ou non spécifié
+O31.8X91	d'autres complications spécifiques pour une grossesse multiple, trimestre non spécifié, foetus 1
+O31.8X92	d'autres complications spécifiques pour une grossesse multiple, trimestre non spécifié, foetus 2
+O36.1910	soins maternels pour une autre iso-immunisation, premier trimestre, pas applicable ou non spécifié
+O36.1911	soins maternels pour une autre iso-immunisation, premier trimestre, foetus 1
+O36.1912	soins maternels pour une autre iso-immunisation, premier trimestre, foetus 2
+O36.1913	soins maternels pour une autre iso-immunisation, premier trimestre, foetus 3
+O36.1914	soins maternels pour une autre iso-immunisation, premier trimestre, foetus 4
+O36.1915	soins maternels pour une autre iso-immunisation, premier trimestre, foetus 5
+O36.63X5	soins maternels pour une croissance excessive du foetus, troisième trimestre, foetus 5
+O36.63X9	soins maternels pour une croissance excessive du foetus, troisième trimestre, autre foetus
+O36.70X0	soins maternels pour une grossesse abdominale avec un foetus viable, trimestre non spécifié, pas applicable ou non spécifié
+O36.70X1	soins maternels pour une grossesse abdominale avec un foetus viable, trimestre non spécifié, foetus 1
+O36.70X2	soins maternels pour une grossesse abdominale avec un foetus viable, trimestre non spécifié, foetus 2
+O41.01X1	oligohydramnios, premier trimestre, foetus 1
+O41.01X2	oligohydramnios, premier trimestre, foetus 2
+O41.01X3	oligohydramnios, premier trimestre, foetus 3
+O41.01X4	oligohydramnios, premier trimestre, foetus 4
+O41.01X5	oligohydramnios, premier trimestre, foetus 5
+O41.01X9	oligohydramnios, premier trimestre, autre foetus
+O41.02X0	oligohydramnios, deuxième trimestre, pas applicable ou non spécifié
+O41.02X1	oligohydramnios, deuxième trimestre, foetus 1
+O41.02X2	oligohydramnios, deuxième trimestre, foetus 2
+O64.1XX0	dystocie due à la présentation du siège, pas applicable ou non spécifié
+O64.1XX1	dystocie due à la présentation du siège, foetus 1
+O64.1XX2	dystocie due à la présentation du siège, foetus 2
+O64.1XX3	dystocie due à la présentation du siège, foetus 3
+O64.1XX4	dystocie due à la présentation du siège, foetus 4
+O64.1XX5	dystocie due à la présentation du siège, foetus 5
+O64.1XX9	dystocie due à la présentation du siège, autre foetus
+O64.2XX0	dystocie due à la présentation de la face, pas applicable ou non spécifié
+O64.2XX1	dystocie due à la présentation de la face, foetus 1
+O98.93	maladie infectieuse et parasitaire maternelle non spécifiée compliquant le post-partum
+O99.11	anémie compliquant la grossesse, premier trimestre
+O99.12	anémie compliquant la grossesse, deuxième trimestre
+O99.13	anémie compliquant la grossesse, troisième trimestre
+O99.19	anémie compliquant la grossesse, trimestre non spécifié
+O16.3	hypertension maternelle non spécifiée, troisième trimestre
+O16.9	hypertension maternelle non spécifiée, trimestre non spécifié
+O20.0	menace d'avortement
+O20.8	d'autres hémorragies du début de la grossesse
+O20.9	hémorragie du début de la grossesse, non spécifiée
+O21.0	hyperémèse gravidique légère
+O21.1	hyperémèse gravidique avec des troubles métaboliques
+O21.2	vomissements tardifs de la grossesse
+O21.8	d'autres vomissements compliquant la grossesse
+O21.9	vomissements de la grossesse, non spécifiés
+O22.0	varices des veines des membres inférieurs au cours de la grossesse, trimestre non spécifié
+O22.1	varices des veines  des membres inférieurs au cours de la grossesse, premier trimestre
+O22.2	varices des veines  des membres inférieurs au cours de la grossesse, deuxième trimestre
+O22.3	varices des veines  des membres inférieurs au cours de la grossesse, troisième trimestre
+O22.10	varices génitales au cours de la grossesse, trimestre non spécifié
+O22.11	varices génitales au cours de la grossesse, premier trimestre
+O22.12	varices génitales au cours de la grossesse, deuxième trimestre
+O22.13	varices génitales au cours de la grossesse, troisième trimestre
+O22.20	thrombophlébite superficielle au cours de la grossesse, trimestre non spécifié
+O22.21	thrombophlébite superficielle au cours de la grossesse, premier trimestre
+O22.22	thrombophlébite superficielle au cours de la grossesse, deuxième trimestre
+O22.23	thrombophlébite superficielle au cours de la grossesse, troisième trimestre
+O22.30	phlébothrombose profonde au cours de la grossesse, trimestre non spécifié
+O22.31	phlébothrombose profonde au cours de la grossesse, premier trimestre
+O22.32	phlébothrombose profonde au cours de la grossesse, deuxième trimestre
+O22.33	phlébothrombose profonde au cours de la grossesse, troisième trimestre
+O22.40	hémorroïdes au cours de la grossesse, trimestre non spécifié
+O22.41	hémorroïdes au cours de la grossesse, premier trimestre
+O22.42	hémorroïdes au cours de la grossesse, deuxième trimestre
+O22.43	hémorroïdes au cours de la grossesse, troisième trimestre
+O22.50	thrombose veineuse cérébrale au cours de la grossesse, trimestre non spécifié
+O22.51	thrombose veineuse cérébrale au cours de la grossesse, premier trimestre
+O22.52	thrombose veineuse cérébrale au cours de la grossesse, deuxième trimestre
+O22.53	thrombose veineuse cérébrale au cours de la grossesse, troisième trimestre
+O22.8X1	d'autres complications veineuses au cours de la grossesse, premier trimestre
+O22.8X2	d'autres complications veineuses au cours de la grossesse, deuxième trimestre
+O22.8X3	d'autres complications veineuses au cours de la grossesse, troisième trimestre
+O22.8X9	d'autres complications veineuses au cours de la grossesse, trimestre non spécifié
+O22.90	complication veineuse au cours de la grossesse, non spécifiée, trimestre non spécifié
+O22.91	complication veineuse au cours de la grossesse, non spécifiée, premier trimestre
+O22.92	complication veineuse au cours de la grossesse, non spécifiée, deuxième trimestre
+O22.93	complication veineuse au cours de la grossesse, non spécifiée, troisième trimestre
+O23.0	infections de rein au cours de la grossesse, trimestre non spécifié
+O23.1	infections d'un rein au cours de la grossesse, premier trimestre
+O23.2	infections d'un rein au cours de la grossesse, deuxième trimestre
+O23.3	infections d'un rein au cours de la grossesse, troisième trimestre
+O23.10	infections de la vessie au cours de la grossesse, trimestre non spécifié
+O23.11	infections de la vessie au cours de la grossesse, premier trimestre
+O23.12	infections de la vessie au cours de la grossesse, deuxième trimestre
+O23.13	infections de la vessie au cours de la grossesse, troisième trimestre
+O23.20	infections de l'urètre au cours de la grossesse, trimestre non spécifié
+O23.21	infections de l'urètre au cours de la grossesse, premier trimestre
+O23.22	infections de l'urètre au cours de la grossesse, deuxième trimestre
+O23.23	infections de l'urètre au cours de la grossesse, troisième trimestre
+O23.30	infections d'autres parties du tractus urinaire au cours de la grossesse, trimestre non spécifié
+O23.31	infections d'autres parties du tractus urinaire au cours de la grossesse, premier trimestre
+O23.32	infections d'autres parties du tractus urinaire au cours de la grossesse, deuxième trimestre
+O23.33	infections d'autres parties du tractus urinaire au cours de la grossesse, troisième trimestre
+O23.40	infections non spécifiées du tractus urinaire au cours de la grossesse, trimestre non spécifié
+O23.41	infections non spécifiées du tractus urinaire au cours de la grossesse, premier trimestre
+O23.42	infections non spécifiées du tractus urinaire au cours de la grossesse, deuxième trimestre
+O23.43	infections non spécifiées du tractus urinaire au cours de la grossesse, troisième trimestre
+O23.511	infections du col de l'utérus au cours de la grossesse, premier trimestre
+O23.512	infections du col de l'utérus au cours de la grossesse, deuxième trimestre
+O23.513	infections du col de l'utérus au cours de la grossesse, troisième trimestre
+O23.519	infections du col de l'utérus au cours de la grossesse, trimestre non spécifié
+O23.521	salpingo-oophorite au cours de la grossesse, premier trimestre
+O23.522	salpingo-oophorite au cours de la grossesse, deuxième trimestre
+O23.523	salpingo-oophorite au cours de la grossesse, troisième trimestre
+O23.529	salpingo-oophorite au cours de la grossesse, trimestre non spécifié
+O23.591	infection d'une autre partie du tractus génital au cours de la grossesse, premier trimestre
+O23.592	infection d'une autre partie du tractus génital au cours de la grossesse, deuxième trimestre
+O23.593	infection d'une autre partie du tractus génital au cours de la grossesse, troisième trimestre
+O23.599	infection d'une autre partie du tractus génital au cours de la grossesse, trimestre non spécifié
+O23.90	infection du tractus génito-urinaire non spécifiée au cours de la grossesse, trimestre non spécifié
+O23.91	infection du tractus génito-urinaire non spécifiée au cours de la grossesse, premier trimestre
+O23.92	infection du tractus génito-urinaire non spécifiée au cours de la grossesse, deuxième trimestre
+O23.93	infection du tractus génito-urinaire non spécifiée au cours de la grossesse, troisième trimestre
+O24.11	diabète sucré préexistant, type 1, au cours de la grossesse, premier trimestre
+O24.12	diabète sucré préexistant, type 1, au cours de la grossesse, deuxième trimestre
+O24.13	diabète sucré préexistant, type 1, au cours de la grossesse, troisième trimestre
+O24.19	diabète sucré préexistant, type 1, au cours de la grossesse, trimestre non spécifié
+O24.2	diabète sucré préexistant, type 1, au cours de l'accouchement
+O24.3	diabète sucré préexistant, type 1, au cours du post-partum
+O24.111	diabète sucré préexistant, type 2, au cours de la grossesse, premier trimestre
+O24.112	diabète sucré préexistant, type 2, au cours de la grossesse, deuxième trimestre
+O24.113	diabète sucré préexistant, type 2, au cours de la grossesse, troisième trimestre
+O24.119	diabète sucré préexistant, type 2, au cours de la grossesse, trimestre non spécifié
+O24.12	diabète sucré préexistant, type 2, au cours de l'accouchement
+O24.13	diabète sucré préexistant, type 2, au cours du post-partum
+O24.311	diabète sucré préexistant non spécifié au cours de la grossesse, premier trimestre
+O24.312	diabète sucré préexistant non spécifié au cours de la grossesse, deuxième trimestre
+O24.313	diabète sucré préexistant non spécifié au cours de la grossesse, troisième trimestre
+O24.319	diabète sucré préexistant non spécifié au cours de la grossesse, trimestre non spécifié
+O24.32	diabète sucré préexistant non spécifié au cours de l'accouchement
+O24.33	diabète sucré préexistant non spécifié au cours du post-partum
+O24.410	diabète sucré gestationnel au cours de la grossesse, contrôlé par une diète
+O24.414	diabète sucré gestationnel au cours de la grossesse, contrôlé par l'insuline
+O24.419	diabète sucré gestationnel au cours de la grossesse, contrôle non spécifié
+O24.420	diabète sucré gestationnel au cours de l'accouchement, contrôlé par une diète
+O24.424	diabète sucré gestationnel au cours de l'accouchement, contrôlé par l'insuline
+O24.429	diabète sucré gestationnel au cours de l'accouchement, contrôle non spécifié
+O24.430	diabète sucré gestationnel au cours du post-partum, contrôlé par une diète
+O24.434	diabète sucré gestationnel au cours du post-partum, contrôlé par l'insuline
+O24.439	diabète sucré gestationnel au cours du post-partum, contrôle non spécifié
+O24.811	autre diabète sucré préexistant au cours de la grossesse, premier trimestre
+O24.812	autre diabète sucré préexistant au cours de la grossesse, deuxième trimestre
+O24.813	autre diabète sucré préexistant au cours de la grossesse, troisième trimestre
+O24.819	autre diabète sucré préexistant au cours de la grossesse, trimestre non spécifié
+O24.82	autre diabète sucré préexistant au cours de l'accouchement
+O24.83	autre diabète sucré préexistant au cours du post-partum
+O24.911	diabète sucré non spécifié au cours de la grossesse, premier trimestre
+O24.912	diabète sucré non spécifié au cours de la grossesse, deuxième trimestre
+O24.913	diabète sucré non spécifié au cours de la grossesse, troisième trimestre
+O24.919	diabète sucré non spécifié au cours de la grossesse, trimestre non spécifié
+O24.92	diabète sucré non spécifié au cours de l'accouchement
+O24.93	diabète sucré non spécifié au cours du post-partum
+O25.10	malnutrition au cours de la grossesse, trimestre non spécifié
+O25.11	malnutrition au cours de la grossesse, premier trimestre
+O25.12	malnutrition au cours de la grossesse, deuxième trimestre
+O25.13	malnutrition au cours de la grossesse, troisième trimestre
+O25.2	malnutrition au cours de l'accouchement
+O25.3	malnutrition au cours du post-partum
+O26.0	prise de poids excessive au cours de la grossesse, trimestre non spécifié
+O26.1	prise de poids excessive au cours de la grossesse, premier trimestre
+O26.2	prise de poids excessive au cours de la grossesse, deuxième trimestre
+O26.3	prise de poids excessive au cours de la grossesse, troisième trimestre
+O26.10	faible prise de poids au cours de la grossesse, trimestre non spécifié
+O26.11	faible prise de poids au cours de la grossesse, premier trimestre
+O26.12	faible prise de poids au cours de la grossesse, deuxième trimestre
+O26.13	faible prise de poids au cours de la grossesse, troisième trimestre
+O26.20	soins de la grossesse pour une patiente avec une histoire d'avortement récurrent, trimestre non spécifié
+O26.21	soins de la grossesse pour une patiente avec une histoire d'avortement récurrent, premier trimestre
+O26.22	soins de la grossesse pour une patiente avec une histoire d'avortement récurrent, deuxième trimestre
+O26.23	soins de la grossesse pour une patiente avec une histoire d'avortement récurrent, troisième trimestre
+O26.30	rétention d'un dispositif contraceptif intra-utérin au cours de la grossesse, trimestre non spécifié
+O26.31	rétention d'un dispositif contraceptif intra-utérin au cours de la grossesse, premier trimestre
+O26.32	rétention d'un dispositif contraceptif intra-utérin au cours de la grossesse, deuxième trimestre
+O26.33	rétention d'un dispositif contraceptif intra-utérin au cours de la grossesse, troisième trimestre
+O26.40	herpès gestationis, trimestre non spécifié
+O26.41	herpès gestationis, premier trimestre
+O26.42	herpès gestationis, deuxième trimestre
+O26.43	herpès gestationis, troisième trimestre
+O26.50	syndrome d'hypotension maternel, trimestre non spécifié
+O26.51	syndrome d'hypotension maternel, premier trimestre
+O26.52	syndrome d'hypotension maternel, deuxième trimestre
+O26.53	syndrome d'hypotension maternel, troisième trimestre
+O26.611	troubles hépatiques et de la voie biliaire au cours de la grossesse, premier trimestre
+O26.612	troubles hépatiques et de la voie biliaire au cours de la grossesse, deuxième trimestre
+O26.613	troubles hépatiques et de la voie biliaire au cours de la grossesse, troisième trimestre
+O26.619	troubles hépatiques et de la voie biliaire au cours de la grossesse, trimestre non spécifié
+O26.62	troubles hépatiques et de la voie biliaire au cours de l'accouchement
+O26.63	troubles hépatiques et de la voie biliaire au cours du post-partum
+O26.711	subluxation de la symphyse au cours de la grossesse, premier trimestre
+O26.712	subluxation de la symphyse au cours de la grossesse, deuxième trimestre
+O26.713	subluxation de la symphyse au cours de la grossesse, troisième trimestre
+O26.719	subluxation de la symphyse au cours de la grossesse, trimestre non spécifié
+O26.72	subluxation de la symphyse au cours de l'accouchement
+O26.73	subluxation de la symphyse au cours du post-partum
+O26.711	subluxation de la symphyse pubienne au cours de la grossesse, premier trimestre
+O26.712	subluxation de la symphyse pubienne au cours de la grossesse, deuxième trimestre
+O26.713	subluxation de la symphyse pubienne au cours de la grossesse, troisième trimestre
+O26.719	subluxation de la symphyse pubienne au cours de la grossesse, trimestre non spécifié
+O26.72	subluxation de la symphyse pubienne au cours de l'accouchement
+O26.73	subluxation de la symphyse pubienne au cours du post-partum
+O26.811	épuisement et fatigue liés à la grossesse, premier trimestre
+O26.812	épuisement et fatigue liés à la grossesse, deuxième trimestre
+O26.813	épuisement et fatigue liés à la grossesse, troisième trimestre
+O26.819	épuisement et fatigue liés à la grossesse, trimestre non spécifié
+O26.821	névrite périphérique liée à la grossesse, premier trimestre
+O26.822	névrite périphérique liée à la grossesse, deuxième trimestre
+O26.823	névrite périphérique liée à la grossesse, troisième trimestre
+O26.829	névrite périphérique liée à la grossesse, trimestre non spécifié
+O26.831	maladie rénale liée à la grossesse, premier trimestre
+O26.832	maladie rénale liée à la grossesse, deuxième trimestre
+O26.833	maladie rénale liée à la grossesse, troisième trimestre
+O26.839	maladie rénale liée à la grossesse, trimestre non spécifié
+O26.841	divergence de la taille de l'utérus et de l'âge gestationnel, premier trimestre
+O26.842	divergence de la taille de l'utérus et de l'âge gestationnel, deuxième trimestre
+O26.843	divergence de la taille de l'utérus et de l'âge gestationnel, troisième trimestre
+O26.849	divergence de la taille de l'utérus et de l'âge gestationnel, trimestre non spécifié
+O26.851	spotting compliquant la grossesse, premier trimestre
+O26.852	spotting compliquant la grossesse, deuxième trimestre
+O26.853	spotting compliquant la grossesse, troisième trimestre
+O26.859	spotting compliquant la grossesse, trimestre non spécifié
+O26.86	papules prurigineuses urticariennes et plaques de la grossesse
+O26.86	PUPPP
+O26.872	raccourcissement du col de l'utérus, deuxième trimestre
+O26.873	raccourcissement du col de l'utérus, troisième trimestre
+O26.879	raccourcissement du col de l'utérus, trimestre non spécifié
+O26.891	d'autres affections spécifiées liées à la grossesse, premier trimestre
+O26.892	d'autres affections spécifiées liées à la grossesse, deuxième trimestre
+O26.893	d'autres affections spécifiées liées à la grossesse, troisième trimestre
+O26.899	d'autres affections spécifiées liées à la grossesse, trimestre non spécifié
+O26.90	affections liées à la grossesse, non spécifiées, trimestre non spécifié
+O26.91	affections liées à la grossesse, non spécifiées, premier trimestre
+O26.92	affections liées à la grossesse, non spécifiées, deuxième trimestre
+O26.93	affections liées à la grossesse, non spécifiées, troisième trimestre
+O28.0	résultats hématologiques anormaux au cours d'un examen prénatal de la mère
+O28.1	résultats biochimiques anormaux au cours d'un examen prénatal de la mère
+O28.2	résultats cytologiques anormaux au cours d'un examen prénatal de la mère
+O28.3	résultats échographiques anormaux au cours d'un examen prénatal de la mère
+O28.4	résultats radiologiques anormaux au cours d'un examen prénatal de la mère
+O28.5	résultats chromosomiques et génétiques anormaux au cours d'un examen prénatal de la mère
+O28.8	d'autres résultats anormaux au cours d'un examen prénatal de la mère
+O28.9	résultat anormal constaté au cours d'un examen prénatal de la mère, non spécifié
+O29.11	pneumonie par aspiration due à l'anesthésie au cours de la grossesse, premier trimestre
+O29.12	pneumonie par aspiration due à l'anesthésie au cours de la grossesse, deuxième trimestre
+O29.13	pneumonie par aspiration due à l'anesthésie au cours de la grossesse, troisième trimestre
+O29.19	pneumonie par aspiration due à l'anesthésie au cours de la grossesse, trimestre non spécifié
+O29.21	collapsus pulmonaire par pression dû à l'anesthésie au cours de la grossesse, premier trimestre
+O29.22	collapsus pulmonaire par pression dû à l'anesthésie au cours de la grossesse, deuxième trimestre
+O29.23	collapsus pulmonaire par pression dû à l'anesthésie au cours de la grossesse, troisième trimestre
+O29.29	collapsus pulmonaire par pression dû à l'anesthésie au cours de la grossesse, trimestre non spécifié
+O29.91	d'autres complications pulmonaires dues à l'anesthésie au cours de la grossesse, premier trimestre
+O29.92	d'autres complications pulmonaires dues à l'anesthésie au cours de la grossesse, deuxième trimestre
+O29.93	d'autres complications pulmonaires dues à l'anesthésie au cours de la grossesse, troisième trimestre
+O29.99	d'autres complications pulmonaires dues à l'anesthésie au cours de la grossesse, trimestre non spécifié
+O29.111	arrêt cardiaque dû à l'anesthésie au cours de la grossesse, premier trimestre
+O29.112	arrêt cardiaque dû à l'anesthésie au cours de la grossesse, deuxième trimestre
+O29.113	arrêt cardiaque dû à l'anesthésie au cours de la grossesse, troisième trimestre
+O29.119	arrêt cardiaque dû à l'anesthésie au cours de la grossesse, trimestre non spécifié
+O29.121	défaillance cardiaque due à l'anesthésie au cours de la grossesse, premier trimestre
+O29.122	défaillance cardiaque due à l'anesthésie au cours de la grossesse, deuxième trimestre
+O29.123	défaillance cardiaque due à l'anesthésie au cours de la grossesse, troisième trimestre
+O29.129	défaillance cardiaque due à l'anesthésie au cours de la grossesse, trimestre non spécifié
+O29.191	d'autres complications cardiaques dues à l'anesthésie au cours de la grossesse, premier trimestre
+O29.192	d'autres complications cardiaques dues à l'anesthésie au cours de la grossesse, deuxième trimestre
+O29.193	d'autres complications cardiaques dues à l'anesthésie au cours de la grossesse, troisième trimestre
+O29.199	d'autres complications cardiaques dues à l'anesthésie au cours de la grossesse, trimestre non spécifié
+O29.211	anoxie cérébrale due à l'anesthésie au cours de la grossesse, premier trimestre
+O29.212	anoxie cérébrale due à l'anesthésie au cours de la grossesse, deuxième trimestre
+O29.213	anoxie cérébrale due à l'anesthésie au cours de la grossesse, troisième trimestre
+O29.219	anoxie cérébrale due à l'anesthésie au cours de la grossesse, trimestre non spécifié
+O29.291	d'autres complications du système nerveux central dues à l'anesthésie au cours de la grossesse, premier trimestre
+O29.292	d'autres complications du système nerveux central dues à l'anesthésie au cours de la grossesse, deuxième trimestre
+O29.293	d'autres complications du système nerveux central dues à l'anesthésie au cours de la grossesse, troisième trimestre
+O29.299	d'autres complications du système nerveux central dues à l'anesthésie au cours de la grossesse, trimestre non spécifié
+O29.3X1	réaction toxique à l'anesthésie locale au cours de la grossesse, premier trimestre
+O29.3X2	réaction toxique à l'anesthésie locale au cours de la grossesse, deuxième trimestre
+O29.3X3	réaction toxique à l'anesthésie locale au cours de la grossesse, troisième trimestre
+O29.3X9	réaction toxique à l'anesthésie locale au cours de la grossesse, trimestre non spécifié
+O29.40	céphalée induite par anesthésie rachidienne et épidurale au cours de la grossesse, trimestre non spécifié
+O29.41	céphalée induite par anesthésie rachidienne et épidurale au cours de la grossesse, premier trimestre
+O29.42	céphalée induite par anesthésie rachidienne et épidurale au cours de la grossesse, deuxième trimestre
+O29.43	céphalée induite par anesthésie rachidienne et épidurale au cours de la grossesse, troisième trimestre
+O29.5X1	d'autres complications d'anesthésie rachidienne et épidurale au cours de la grossesse, premier trimestre
+O29.5X2	d'autres complications d'anesthésie rachidienne et épidurale au cours de la grossesse, deuxième trimestre
+O29.5X3	d'autres complications d'anesthésie rachidienne et épidurale au cours de la grossesse, troisième trimestre
+O29.5X9	d'autres complications d'anesthésie rachidienne et épidurale au cours de la grossesse, trimestre non spécifié
+O29.60	echec d'une intubation ou une intubation difficile pour l'anesthésie au cours de la grossesse, trimestre non spécifié
+O29.61	echec d'une intubation ou une intubation difficile pour l'anesthésie au cours de la grossesse, premier trimestre
+O29.62	echec d'une intubation ou une intubation difficile pour l'anesthésie au cours de la grossesse, deuxième trimestre
+O29.63	echec d'une intubation ou une intubation difficile pour l'anesthésie au cours de la grossesse, troisième trimestre
+O29.8X1	d'autres complications dues à l'anesthésie au cours de la grossesse, premier trimestre
+O29.8X2	d'autres complications dues à l'anesthésie au cours de la grossesse, deuxième trimestre
+O29.8X3	d'autres complications dues à l'anesthésie au cours de la grossesse, troisième trimestre
+O29.8X9	d'autres complications dues à l'anesthésie au cours de la grossesse, trimestre non spécifié
+O29.90	complication non spécifiée dues à l'anesthésie au cours de la grossesse, trimestre non spécifié
+O29.91	complication non spécifiée dues à l'anesthésie au cours de la grossesse, premier trimestre
+O29.92	complication non spécifiée dues à l'anesthésie au cours de la grossesse, deuxième trimestre
+O29.93	complication non spécifiée dues à l'anesthésie au cours de la grossesse, troisième trimestre
+O30.1	grossesse gémellaire, nombre de placenta et nombre de sacs amniotiques non spécifiés, premier trimestre
+O30.2	grossesse gémellaire, nombre de placenta et nombre de sacs amniotiques non spécifiés, deuxième trimestre
+O30.3	grossesse gémellaire, nombre de placenta et nombre de sacs amniotiques non spécifiés, troisième trimestre
+O30.9	grossesse gémellaire, nombre de placenta et nombre de sacs amniotiques non spécifiés, trimestre non spécifié
+O30.11	grossesse gémellaire, monochorionique monoamniotique, premier trimestre
+O30.12	grossesse gémellaire, monochorionique monoamniotique, deuxième trimestre
+O30.13	grossesse gémellaire, monochorionique monoamniotique, troisième trimestre
+O30.19	grossesse gémellaire, monochorionique monoamniotique, trimestre non spécifié
+O30.21	grossesse siamoise, premier trimestre
+O30.22	grossesse siamoise, deuxième trimestre
+O30.23	grossesse siamoise, troisième trimestre
+O30.29	grossesse siamoise, trimestre non spécifié
+O30.31	grossesse gémellaire, monochorionique diamniotique, premier trimestre
+O30.32	grossesse gémellaire, monochorionique diamniotique, deuxième trimestre
+O30.33	grossesse gémellaire, monochorionique diamniotique, troisième trimestre
+O30.39	grossesse gémellaire, monochorionique diamniotique, trimestre non spécifié
+O30.41	grossesse gémellaire, dichorionique diamniotique, premier trimestre
+O30.42	grossesse gémellaire, dichorionique diamniotique, deuxième trimestre
+O30.43	grossesse gémellaire, dichorionique diamniotique, troisième trimestre
+O30.49	grossesse gémellaire, dichorionique diamniotique, trimestre non spécifié
+O30.91	grossesse gémellaire, nombre de placenta et nombre de sacs amniotiques non déterminables, premier trimestre
+O30.92	grossesse gémellaire, nombre de placenta et nombre de sacs amniotiques non déterminables, deuxième trimestre
+O30.93	grossesse gémellaire, nombre de placenta et nombre de sacs amniotiques non déterminables, troisième trimestre
+O30.99	grossesse gémellaire, nombre de placenta et nombre de sacs amniotiques non déterminables, trimestre non spécifié
+O30.101	grossesse triple, nombre de placenta et nombre de sacs amniotiques non spécifiés, premier trimestre
+O30.102	grossesse triple, nombre de placenta et nombre de sacs amniotiques non spécifiés, deuxième trimestre
+O30.103	grossesse triple, nombre de placenta et nombre de sacs amniotiques non spécifiés, troisième trimestre
+O30.109	grossesse triple, nombre de placenta et nombre de sacs amniotiques non spécifiés, trimestre non spécifié
+O30.111	grossesse triple avec deux ou plus foetus monochorioniques, premier trimestre
+O30.112	grossesse triple avec deux ou plus  foetus monochorioniques, deuxième trimestre
+O30.113	grossesse triple avec deux ou plus foetus monochorioniques, troisième trimestre
+O30.119	grossesse triple avec deux ou plus foetus monochorioniques, trimestre non spécifié
+O30.121	grossesse triple avec  deux ou plus  foetus monoamniotiques, premier trimestre
+O30.122	grossesse triple avec deux ou plus foetus monoamniotiques, deuxième trimestre
+O30.123	grossesse triple avec deux ou plus  foetus monoamniotiques, troisième trimestre
+O30.129	grossesse triple avec deux ou plus  foetus monoamniotiques, trimestre non spécifié
+O30.191	grossesse triple, nombre de placenta et nombre de sacs amniotiques non déterminables, premier trimestre
+O30.192	grossesse triple, nombre de placenta et nombre de sacs amniotiques non déterminables, deuxième trimestre
+O30.193	grossesse triple, nombre de placenta et nombre de sacs amniotiques non déterminables, troisième trimestre
+O30.199	grossesse triple, nombre de placenta et nombre de sacs amniotiques non déterminables, trimestre non spécifié
+O30.201	grossesse quadruplet, nombre de placenta et nombre de sacs amniotiques non spécifiés, premier trimestre
+O30.202	grossesse quadruplet, nombre de placenta et nombre de sacs amniotiques non spécifiés, deuxième trimestre
+O30.203	grossesse quadruplet, nombre de placenta et nombre de sacs amniotiques non spécifiés, troisième trimestre
+O30.209	grossesse quadruplet, nombre de placenta et nombre de sacs amniotiques non spécifiés, trimestre non spécifié
+O30.211	grossesse quadruplet avec deux ou plus foetus monochorioniques, premier trimestre
+O30.212	grossesse quadruplet avec deux ou plus foetus monochorioniques, deuxième trimestre
+O30.213	grossesse quadruplet avec deux ou plus foetus monochorioniques, troisième trimestre
+O30.219	grossesse quadruplet avec deux ou plus foetus monochorioniques, trimestre non spécifié
+O30.221	grossesse quadruplet avec deux ou plus foetus monoamniotiques, premier trimestre
+O30.222	grossesse quadruplet avec deux ou plus foetus monoamniotiques, deuxième trimestre
+O30.223	grossesse quadruplet avec deux ou plus foetus monoamniotiques, troisième trimestre
+O30.229	grossesse quadruplet avec deux ou plus foetus monoamniotiques, trimestre non spécifié
+O30.291	grossesse quadruplet, nombre de placenta et nombre de sacs amniotiques non déterminables, premier trimestre
+O30.292	grossesse quadruplet, nombre de placenta et nombre de sacs amniotiques non déterminables, deuxième trimestre
+O30.293	grossesse quadruplet, nombre de placenta et nombre de sacs amniotiques non déterminables, troisième trimestre
+O30.299	grossesse quadruplet, nombre de placenta et nombre de sacs amniotiques non déterminables, trimestre non spécifié
+O30.801	autre grossesse multiple spécifiée, nombre de placenta et nombre de sacs amniotiques non spécifiés, premier trimestre
+O30.802	autre grossesse multiple spécifiée, nombre de placenta et nombre de sacs amniotiques non spécifiés, deuxième trimestre
+O30.803	autre grossesse multiple spécifiée, nombre de placenta et nombre de sacs amniotiques non spécifiés, troisième trimestre
+O30.809	autre grossesse multiple spécifiée, nombre de placenta et nombre de sacs amniotiques non spécifiés, trimestre non spécifié
+O30.811	autre grossesse multiple spécifiée avec deux ou plus foetus monochorioniques, premier trimestre
+O30.812	autre grossesse multiple spécifiée avec deux ou plus foetus monochorioniques, deuxième trimestre
+O30.813	autre grossesse multiple spécifiée avec deux ou plus foetus monochorioniques, troisième trimestre
+O30.819	autre grossesse multiple spécifiée avec deux ou plus foetus monochorioniques, trimestre non spécifié
+O30.821	autre grossesse multiple spécifiée avec deux ou plus foetus monoamniotiques, premier trimestre
+O30.822	autre grossesse multiple spécifiée avec deux ou plus foetus monoamniotiques, deuxième trimestre
+O30.823	autre grossesse multiple spécifiée avec deux ou plus foetus monoamniotiques, troisième trimestre
+O30.829	autre grossesse multiple spécifiée avec deux ou plus foetus monoamniotiques, trimestre non spécifié
+O30.91	grossesse multiple, non spécifiée, premier trimestre
+O30.92	grossesse multiple, non spécifiée, deuxième trimestre
+O30.93	grossesse multiple, non spécifiée, troisième trimestre
+O31.00X0	foetus papyracé, trimestre non spécifié, pas applicable ou non spécifié
+O31.00X1	foetus papyracé, trimestre non spécifié, foetus 1
+O31.00X2	foetus papyracé, trimestre non spécifié, foetus 2
+O31.00X3	foetus papyracé, trimestre non spécifié, foetus 3
+O31.00X4	foetus papyracé, trimestre non spécifié, foetus 4
+O31.00X5	foetus papyracé, trimestre non spécifié, foetus 5
+O31.00X9	foetus papyracé, trimestre non spécifié, autre foetus
+O31.01X0	foetus papyracé, premier trimestre, pas applicable ou non spécifié
+O31.01X1	foetus papyracé, premier trimestre, foetus 1
+O31.01X2	foetus papyracé, premier trimestre, foetus 2
+O31.01X3	foetus papyracé, premier trimestre, foetus 3
+O31.01X4	foetus papyracé, premier trimestre, foetus 4
+O31.01X5	foetus papyracé, premier trimestre, foetus 5
+O31.01X9	foetus papyracé, premier trimestre, autre foetus
+O31.02X0	foetus papyracé, deuxième trimestre, pas applicable ou non spécifié
+O31.02X1	foetus papyracé, deuxième trimestre, foetus 1
+O31.02X2	foetus papyracé, deuxième trimestre, foetus 2
+O31.02X3	foetus papyracé, deuxième trimestre, foetus 3
+O31.02X4	foetus papyracé, deuxième trimestre, foetus 4
+O31.02X5	foetus papyracé, deuxième trimestre, foetus 5
+O31.02X9	foetus papyracé, deuxième trimestre, autre foetus
+O31.03X0	foetus papyracé, troisième trimestre, pas applicable ou non spécifié
+O31.03X1	foetus papyracé, troisième trimestre, foetus 1
+O31.03X2	foetus papyracé, troisième trimestre, foetus 2
+O31.03X3	foetus papyracé, troisième trimestre, foetus 3
+O31.03X4	foetus papyracé, troisième trimestre, foetus 4
+O31.03X5	foetus papyracé, troisième trimestre, foetus 5
+O31.03X9	foetus papyracé, troisième trimestre, autre foetus
+O31.10X0	poursuite de la grossesse après un avortement spontané d'un ou plusieurs foetus, trimestre non spécifié, pas applicable ou non spécifié
+O31.10X1	poursuite de la grossesse après un avortement spontané d'un ou plusieurs foetus, trimestre non spécifié, foetus 1
+O31.10X2	poursuite de la grossesse après un avortement spontané d'un ou plusieurs foetus, trimestre non spécifié, foetus 2
+O31.10X3	poursuite de la grossesse après un avortement spontané d'un ou plusieurs foetus, trimestre non spécifié, foetus 3
+O31.10X4	poursuite de la grossesse après un avortement spontané d'un ou plusieurs foetus, trimestre non spécifié, foetus 4
+O31.10X5	poursuite de la grossesse après un avortement spontané d'un ou plusieurs foetus, trimestre non spécifié, foetus 5
+O31.10X9	poursuite de la grossesse après un avortement spontané d'un ou plusieurs foetus, trimestre non spécifié, autre foetus
+O31.11X0	poursuite de la grossesse après un avortement spontané d'un ou plusieurs foetus, premier trimestre, pas applicable ou non spécifié
+O31.11X1	poursuite de la grossesse après un avortement spontané d'un ou plusieurs foetus, premier trimestre, foetus 1
+O31.11X2	poursuite de la grossesse après un avortement spontané d'un ou plusieurs foetus, premier trimestre, foetus 2
+O31.11X3	poursuite de la grossesse après un avortement spontané d'un ou plusieurs foetus, premier trimestre, foetus 3
+O31.11X4	poursuite de la grossesse après un avortement spontané d'un ou plusieurs foetus, premier trimestre, foetus 4
+O31.11X5	poursuite de la grossesse après un avortement spontané d'un ou plusieurs foetus, premier trimestre, foetus 5
+O31.11X9	poursuite de la grossesse après un avortement spontané d'un ou plusieurs foetus, premier trimestre, autre foetus
+O31.12X0	poursuite de la grossesse après un avortement spontané d'un ou plusieurs foetus, deuxième trimestre, pas applicable ou non spécifié
+O31.12X1	poursuite de la grossesse après un avortement spontané d'un ou plusieurs foetus, deuxième trimestre, foetus 1
+O31.12X2	poursuite de la grossesse après un avortement spontané d'un ou plusieurs foetus, deuxième trimestre, foetus 2
+O31.12X3	poursuite de la grossesse après un avortement spontané d'un ou plusieurs foetus, deuxième trimestre, foetus 3
+O31.12X4	poursuite de la grossesse après un avortement spontané d'un ou plusieurs foetus, deuxième trimestre, foetus 4
+O31.12X5	poursuite de la grossesse après un avortement spontané d'un ou plusieurs foetus, deuxième trimestre, foetus 5
+O31.12X9	poursuite de la grossesse après un avortement spontané d'un ou plusieurs foetus, deuxième trimestre, autre foetus
+O31.13X0	poursuite de la grossesse après un avortement spontané d'un ou plusieurs foetus, troisième trimestre, pas applicable ou non spécifié
+O31.13X1	poursuite de la grossesse après un avortement spontané d'un ou plusieurs foetus, troisième trimestre, foetus 1
+O31.13X2	poursuite de la grossesse après un avortement spontané d'un ou plusieurs foetus, troisième trimestre, foetus 2
+O31.13X3	poursuite de la grossesse après un avortement spontané d'un ou plusieurs foetus, troisième trimestre, foetus 3
+O31.13X4	poursuite de la grossesse après un avortement spontané d'un ou plusieurs foetus, troisième trimestre, foetus 4
+O31.13X5	poursuite de la grossesse après un avortement spontané d'un ou plusieurs foetus, troisième trimestre, foetus 5
+O31.13X9	poursuite de la grossesse après un avortement spontané d'un ou plusieurs foetus, troisième trimestre, autre foetus
+O31.20X0	poursuite de la grossesse après la mort intra-utérine d'un ou plusieurs foetus, trimestre non spécifié, pas applicable ou non spécifié
+O31.20X1	poursuite de la grossesse après la mort intra-utérine d'un ou plusieurs foetus, trimestre non spécifié, foetus 1
+O31.20X2	poursuite de la grossesse après la mort intra-utérine d'un ou plusieurs foetus, trimestre non spécifié, foetus 2
+O31.20X3	poursuite de la grossesse après la mort intra-utérine d'un ou plusieurs foetus, trimestre non spécifié, foetus 3
+O31.20X4	poursuite de la grossesse après la mort intra-utérine d'un ou plusieurs foetus, trimestre non spécifié, foetus 4
+O31.20X5	poursuite de la grossesse après la mort intra-utérine d'un ou plusieurs foetus, trimestre non spécifié, foetus 5
+O31.20X9	poursuite de la grossesse après la mort intra-utérine d'un ou plusieurs foetus, trimestre non spécifié, autre foetus
+O31.21X0	poursuite de la grossesse après la mort intra-utérine d'un ou plusieurs foetus, premier trimestre, pas applicable ou non spécifié
+O31.21X1	poursuite de la grossesse après la mort intra-utérine d'un ou plusieurs foetus, premier trimestre, foetus 1
+O31.21X2	poursuite de la grossesse après la mort intra-utérine d'un ou plusieurs foetus, premier trimestre, foetus 2
+O31.21X3	poursuite de la grossesse après la mort intra-utérine d'un ou plusieurs foetus, premier trimestre, foetus 3
+O31.21X4	poursuite de la grossesse après la mort intra-utérine d'un ou plusieurs foetus, premier trimestre, foetus 4
+O31.21X5	poursuite de la grossesse après la mort intra-utérine d'un ou plusieurs foetus, premier trimestre, foetus 5
+O31.21X9	poursuite de la grossesse après la mort intra-utérine d'un ou plusieurs foetus, premier trimestre, autre foetus
+O31.22X0	poursuite de la grossesse après la mort intra-utérine d'un ou plusieurs foetus, deuxième trimestre, pas applicable ou non spécifié
+O31.22X1	poursuite de la grossesse après la mort intra-utérine d'un ou plusieurs foetus, deuxième trimestre, foetus 1
+O31.22X2	poursuite de la grossesse après la mort intra-utérine d'un ou plusieurs foetus, deuxième trimestre, foetus 2
+O31.22X3	poursuite de la grossesse après la mort intra-utérine d'un ou plusieurs foetus, deuxième trimestre, foetus 3
+O31.22X4	poursuite de la grossesse après la mort intra-utérine d'un ou plusieurs foetus, deuxième trimestre, foetus 4
+O31.22X5	poursuite de la grossesse après la mort intra-utérine d'un ou plusieurs foetus, deuxième trimestre, foetus 5
+O31.22X9	poursuite de la grossesse après la mort intra-utérine d'un ou plusieurs foetus, deuxième trimestre, autre foetus
+O31.23X0	poursuite de la grossesse après la mort intra-utérine d'un ou plusieurs foetus, troisième trimestre, pas applicable ou non spécifié
+O31.23X1	poursuite de la grossesse après la mort intra-utérine d'un ou plusieurs foetus, troisième trimestre, foetus 1
+O31.23X2	poursuite de la grossesse après la mort intra-utérine d'un ou plusieurs foetus, troisième trimestre, foetus 2
+O31.23X3	poursuite de la grossesse après la mort intra-utérine d'un ou plusieurs foetus, troisième trimestre, foetus 3
+O31.23X4	poursuite de la grossesse après la mort intra-utérine d'un ou plusieurs foetus, troisième trimestre, foetus 4
+O31.23X5	poursuite de la grossesse après la mort intra-utérine d'un ou plusieurs foetus, troisième trimestre, foetus 5
+O31.23X9	poursuite de la grossesse après la mort intra-utérine d'un ou plusieurs foetus, troisième trimestre, autre foetus
+O31.30X0	poursuite de la grossesse après une réduction élective d'un ou plusieurs foetus, trimestre non spécifié, pas applicable ou non spécifié
+O31.30X1	poursuite de la grossesse après une réduction élective d'un ou plusieurs foetus, trimestre non spécifié, foetus 1
+O31.30X2	poursuite de la grossesse après une réduction élective d'un ou plusieurs foetus, trimestre non spécifié, foetus 2
+O31.30X3	poursuite de la grossesse après une réduction élective d'un ou plusieurs foetus, trimestre non spécifié, foetus 3
+O31.30X4	poursuite de la grossesse après une réduction élective d'un ou plusieurs foetus, trimestre non spécifié, foetus 4
+O31.30X5	poursuite de la grossesse après une réduction élective d'un ou plusieurs foetus, trimestre non spécifié, foetus 5
+O31.30X9	poursuite de la grossesse après une réduction élective d'un ou plusieurs foetus, trimestre non spécifié, autre foetus
+O31.31X0	poursuite de la grossesse après une réduction élective d'un ou plusieurs foetus, premier trimestre, pas applicable ou non spécifié
+O31.31X1	poursuite de la grossesse après une réduction élective d'un ou plusieurs foetus, premier trimestre, foetus 1
+O31.31X2	poursuite de la grossesse après une réduction élective d'un ou plusieurs foetus, premier trimestre, foetus 2
+O31.31X3	poursuite de la grossesse après une réduction élective d'un ou plusieurs foetus, premier trimestre, foetus 3
+O31.31X4	poursuite de la grossesse après une réduction élective d'un ou plusieurs foetus, premier trimestre, foetus 4
+O31.31X5	poursuite de la grossesse après une réduction élective d'un ou plusieurs foetus, premier trimestre, foetus 5
+O31.31X9	poursuite de la grossesse après une réduction élective d'un ou plusieurs foetus, premier trimestre, autre foetus
+O31.32X0	poursuite de la grossesse après une réduction élective d'un ou plusieurs foetus, deuxième trimestre, pas applicable ou non spécifié
+O31.32X1	poursuite de la grossesse après une réduction élective d'un ou plusieurs foetus, deuxième trimestre, foetus 1
+O31.32X2	poursuite de la grossesse après une réduction élective d'un ou plusieurs foetus, deuxième trimestre, foetus 2
+O31.32X3	poursuite de la grossesse après une réduction élective d'un ou plusieurs foetus, deuxième trimestre, foetus 3
+O31.32X4	poursuite de la grossesse après une réduction élective d'un ou plusieurs foetus, deuxième trimestre, foetus 4
+O31.32X5	poursuite de la grossesse après une réduction élective d'un ou plusieurs foetus, deuxième trimestre, foetus 5
+O31.32X9	poursuite de la grossesse après une réduction élective d'un ou plusieurs foetus, deuxième trimestre, autre foetus
+O31.33X0	poursuite de la grossesse après une réduction élective d'un ou plusieurs foetus, troisième trimestre, pas applicable ou non spécifié
+O31.33X1	poursuite de la grossesse après une réduction élective d'un ou plusieurs foetus, troisième trimestre, foetus 1
+O31.33X2	poursuite de la grossesse après une réduction élective d'un ou plusieurs foetus, troisième trimestre, foetus 2
+O31.33X3	poursuite de la grossesse après une réduction élective d'un ou plusieurs foetus, troisième trimestre, foetus 3
+O31.33X4	poursuite de la grossesse après une réduction élective d'un ou plusieurs foetus, troisième trimestre, foetus 4
+O31.33X5	poursuite de la grossesse après une réduction élective d'un ou plusieurs foetus, troisième trimestre, foetus 5
+O31.33X9	poursuite de la grossesse après une réduction élective d'un ou plusieurs foetus, troisième trimestre, autre foetus
+O31.8X10	d'autres complications spécifiques pour une grossesse multiple, premier trimestre, pas applicable ou non spécifié
+O31.8X11	d'autres complications spécifiques pour une grossesse multiple, premier trimestre, foetus 1
+O31.8X12	d'autres complications spécifiques pour une grossesse multiple, premier trimestre, foetus 2
+O31.8X13	d'autres complications spécifiques pour une grossesse multiple, premier trimestre, foetus 3
+O31.8X14	d'autres complications spécifiques pour une grossesse multiple, premier trimestre, foetus 4
+O31.8X15	d'autres complications spécifiques pour une grossesse multiple, premier trimestre, foetus 5
+O31.8X19	d'autres complications spécifiques pour une grossesse multiple, premier trimestre, autre foetus
+O31.8X20	d'autres complications spécifiques pour une grossesse multiple, deuxième trimestre, pas applicable ou non spécifié
+O31.8X21	d'autres complications spécifiques pour une grossesse multiple, deuxième trimestre, foetus 1
+O31.8X22	d'autres complications spécifiques pour une grossesse multiple, deuxième trimestre, foetus 2
+O31.8X23	d'autres complications spécifiques pour une grossesse multiple, deuxième trimestre, foetus 3
+O31.8X24	d'autres complications spécifiques pour une grossesse multiple, deuxième trimestre, foetus 4
+O31.8X25	d'autres complications spécifiques pour une grossesse multiple, deuxième trimestre, foetus 5
+O31.8X29	d'autres complications spécifiques pour une grossesse multiple, deuxième trimestre, autre foetus
+O31.8X30	d'autres complications spécifiques pour une grossesse multiple, troisième trimestre, pas applicable ou non spécifié
+O31.8X31	d'autres complications spécifiques pour une grossesse multiple, troisième trimestre, foetus 1
+O31.8X32	d'autres complications spécifiques pour une grossesse multiple, troisième trimestre, foetus 2
+O31.8X33	d'autres complications spécifiques pour une grossesse multiple, troisième trimestre, foetus 3
+O31.8X93	d'autres complications spécifiques pour une grossesse multiple, trimestre non spécifié, foetus 3
+O31.8X94	d'autres complications spécifiques pour une grossesse multiple, trimestre non spécifié, foetus 4
+O31.8X95	d'autres complications spécifiques pour une grossesse multiple, trimestre non spécifié, foetus 5
+O31.8X99	d'autres complications spécifiques pour une grossesse multiple, trimestre non spécifié, autre foetus
+O32.0XX0	soins maternels pour une position instable, pas applicable ou non spécifié
+O32.0XX1	soins maternels pour une position instable, foetus 1
+O32.0XX2	soins maternels pour une position instable, foetus 2
+O32.0XX3	soins maternels pour une position instable, foetus 3
+O32.0XX4	soins maternels pour une position instable, foetus 4
+O32.0XX5	soins maternels pour une position instable, foetus 5
+O32.0XX9	soins maternels pour une position instable, autre foetus
+O32.1XX0	soins maternels pour une présentation du siège, pas applicable ou non spécifié
+O32.1XX1	soins maternels pour une présentation du siège, foetus 1
+O32.1XX2	soins maternels pour une présentation du siège, foetus 2
+O32.1XX3	soins maternels pour une présentation du siège, foetus 3
+O32.1XX4	soins maternels pour une présentation du siège, foetus 4
+O32.1XX5	soins maternels pour une présentation du siège, foetus 5
+O32.1XX9	soins maternels pour une présentation du siège, autre foetus
+O32.2XX0	soins maternels pour une position transverse et oblique, pas applicable ou non spécifié
+O32.2XX1	soins maternels pour une position transverse et oblique, foetus 1
+O32.2XX2	soins maternels pour une position transverse et oblique, foetus 2
+O32.2XX3	soins maternels pour une position transverse et oblique, foetus 3
+O32.2XX4	soins maternels pour une position transverse et oblique, foetus 4
+O32.2XX5	soins maternels pour une position transverse et oblique, foetus 5
+O32.2XX9	soins maternels pour une position transverse et oblique, autre foetus
+O32.3XX0	soins maternels pour une présentation de la face, du front et du menton, pas applicable ou non spécifié
+O32.3XX1	soins maternels pour une présentation de la face, du front et du menton, foetus 1
+O32.3XX2	soins maternels pour une présentation de la face, du front et du menton, foetus 2
+O32.3XX3	soins maternels pour une présentation de la face, du front et du menton, foetus 3
+O32.3XX4	soins maternels pour une présentation de la face, du front et du menton, foetus 4
+O32.3XX5	soins maternels pour une présentation de la face, du front et du menton, foetus 5
+O32.3XX9	soins maternels pour une présentation de la face, du front et du menton, autre foetus
+O32.4XX0	soins maternels pour une tête haute à terme, pas applicable ou non spécifié
+O32.4XX1	soins maternels pour une tête haute à terme, foetus 1
+O32.4XX2	soins maternels pour une tête haute à terme, foetus 2
+O32.4XX3	soins maternels pour une tête haute à terme, foetus 3
+O32.4XX4	soins maternels pour une tête haute à terme, foetus 4
+O32.4XX5	soins maternels pour une tête haute à terme, foetus 5
+O32.4XX9	soins maternels pour une tête haute à terme, autre foetus
+O32.6XX0	soins maternels pour une présentation complexe, pas applicable ou non spécifié
+O32.6XX1	soins maternels pour une présentation complexe, foetus 1
+O32.6XX2	soins maternels pour une présentation complexe, foetus 2
+O32.6XX3	soins maternels pour une présentation complexe, foetus 3
+O32.6XX4	soins maternels pour une présentation complexe, foetus 4
+O32.6XX5	soins maternels pour une présentation complexe, foetus 5
+O32.6XX9	soins maternels pour une présentation complexe, autre foetus
+O32.8XX0	soins maternels pour une autre présentation anormale du foetus, pas applicable ou non spécifié
+O32.8XX1	soins maternels pour une autre présentation anormale du foetus, foetus 1
+O32.8XX2	soins maternels pour une autre présentation anormale du foetus, foetus 2
+O32.8XX3	soins maternels pour une autre présentation anormale du foetus, foetus 3
+O32.8XX4	soins maternels pour une autre présentation anormale du foetus, foetus 4
+O32.8XX5	soins maternels pour une autre présentation anormale du foetus, foetus 5
+O32.8XX9	soins maternels pour une autre présentation anormale du foetus, autre foetus
+O32.9XX0	soins maternels pour une présentation anormale du foetus, non spécifiée, pas applicable ou non spécifié
+O32.9XX1	soins maternels pour une présentation anormale du foetus, non spécifiée, foetus 1
+O32.9XX2	soins maternels pour une présentation anormale du foetus, non spécifiée, foetus 2
+O32.9XX3	soins maternels pour une présentation anormale du foetus, non spécifiée, foetus 3
+O32.9XX4	soins maternels pour une présentation anormale du foetus, non spécifiée, foetus 4
+O32.9XX5	soins maternels pour une présentation anormale du foetus, non spécifiée, foetus 5
+O32.9XX9	soins maternels pour une présentation anormale du foetus, non spécifiée, autre foetus
+O33.0	soins maternels pour une disproportion due à la malformation du bassin maternel
+O33.1	soins maternels pour une disproportion due à un bassin maternel généralement contracté
+O33.2	soins maternels pour une disproportion due à un rétrecissement du détroit supérieur du bassin
+O33.3XX0	soins maternels pour pour une disproportion due à un rétrecissement du détroit inférieur du bassin, pas applicable ou non spécifié
+O33.3XX1	soins maternels pour une disproportion due à un rétrecissement du détroit inférieur du bassin, foetus 1
+O33.3XX2	soins maternels pour une disproportion due à un rétrecissement du détroit inférieur du bassin, foetus 2
+O33.3XX3	soins maternels pour une disproportion due à un rétrecissement du détroit inférieur du bassin, foetus 3
+O33.3XX4	soins maternels pour une disproportion due à un rétrecissement du détroit inférieur du bassin, foetus 4
+O33.3XX5	soins maternels pour une disproportion due à un rétrecissement du détroit inférieur du bassin, foetus 5
+O33.3XX9	soins maternels pour une disproportion due à un rétrecissement du détroit inférieur du bassin, autre fotus
+O33.4XX0	soins maternels pour une disproportion d'origine mixte maternelle et foetale, pas applicable ou non spécifié
+O33.4XX1	soins maternels pour une disproportion d'origine mixte maternelle et foetale, foetus 1
+O33.4XX2	soins maternels pour une disproportion d'origine mixte maternelle et foetale, foetus 2
+O33.4XX3	soins maternels pour une disproportion d'origine mixte maternelle et foetale, foetus 3
+O33.4XX4	soins maternels pour une disproportion d'origine mixte maternelle et foetale, foetus 4
+O33.4XX5	soins maternels pour une disproportion d'origine mixte maternelle et foetale, foetus 5
+O33.4XX9	soins maternels pour une disproportion d'origine mixte maternelle et foetale, autre foetus
+O33.5XX0	soins maternels pour une disproportion due à un foetus inhabituellement gros, pas applicable ou non spécifié
+O33.5XX1	soins maternels pour une disproportion due à un foetus inhabituellement gros, foetus 1
+O33.5XX2	soins maternels pour une disproportion due à un foetus inhabituellement gros, foetus 2
+O33.5XX3	soins maternels pour une disproportion due à un foetus inhabituellement gros, foetus 3
+O33.5XX4	soins maternels pour une disproportion due à un foetus inhabituellement gros, foetus 4
+O33.5XX5	soins maternels pour une disproportion due à un foetus inhabituellement gros, foetus 5
+O33.5XX9	soins maternels pour une disproportion due à un foetus inhabituellement gros, autre foetus
+O33.6XX0	soins maternels pour une disproportion due à un foetus hydrocéphale, pas applicable ou non spécifié
+O33.6XX1	soins maternels pour une disproportion due à un foetus hydrocéphale, foetus 1
+O33.6XX2	soins maternels pour une disproportion due à un foetus hydrocéphale, foetus 2
+O33.6XX3	soins maternels pour une disproportion due à un foetus hydrocéphale, foetus 3
+O33.6XX4	soins maternels pour une disproportion due à un foetus hydrocéphale, foetus 4
+O33.6XX5	soins maternels pour une disproportion due à un foetus hydrocéphale, foetus 5
+O33.6XX9	soins maternels pour une disproportion due à un foetus hydrocéphale, autre foetus
+O33.7	soins maternels pour une disproportion due à d'autres anomalies du foetus
+O33.8	soins maternels pour une disproportion d'une autre origine
+O33.9	soins maternels pour une disproportion, non spécifiée
+O34.0	soins maternels pour une malformation congénitale non spécifiée de l'utérus, trimestre non spécifié
+O34.1	soins maternels pour une malformation congénitale non spécifiée de l'utérus, premier trimestre
+O34.2	soins maternels pour une malformation congénitale non spécifiée de l'utérus, deuxième trimestre
+O34.3	soins maternels pour une malformation congénitale non spécifiée de l'utérus, troisième trimestre
+O34.10	soins maternels pour un tumeur bénigne du corps utérin, trimestre non spécifié
+O34.11	soins maternels pour un tumeur bénigne du corps utérin, premier trimestre
+O34.12	soins maternels pour un tumeur bénigne du corps utérin, deuxième trimestre
+O34.13	soins maternels pour un tumeur bénigne du corps utérin, troisième trimestre
+O34.21	soins maternels pour une cicatrice d'une césarienne antérieure
+O34.29	soins maternels pour cicatrice utérine d'autre chirurgie antérieure
+O34.30	soins maternels pour incompétence cervicale, trimestre non spécifié
+O34.31	soins maternels pour incompétence cervicale, premier trimestre
+O34.32	soins maternels pour incompétence cervicale, deuxième trimestre
+O34.33	soins maternels pour incompétence cervicale, troisième trimestre
+O34.40	soins maternels pour d'autres anormalités du col de l'utérus, trimestre non spécifié
+O34.41	soins maternels pour d'autres anormalités du col de l'utérus, premier trimestre
+O34.42	soins maternels pour d'autres anormalités du col de l'utérus, deuxième trimestre
+O34.43	soins maternels pour d'autres anormalités du col de l'utérus, troisième trimestre
+O34.511	soins maternels pour un utérus gravide incarcéré, premier trimestre
+O34.512	soins maternels pour un utérus gravide incarcéré,  deuxième trimestre
+O34.513	soins maternels pour un utérus gravide incarcéré, troisième trimestre
+O34.519	soins maternels pour un utérus gravide incarcéré,  trimestre non spécifié
+O34.521	soins maternels pour le prolapsus d'un utérus gravide, premier trimestre
+O34.522	soins maternels pour le prolapsus d'un utérus gravide, deuxième trimestre
+O34.523	soins maternels pour le prolapsus d'un utérus gravide, troisième trimestre
+O34.529	soins maternels pour le prolapsus d'un utérus gravide, trimestre non spécifié
+O34.531	soins maternels pour la rétroversion d'un utérus gravide, premier trimestre
+O34.532	soins maternels pour la rétroversion d'un utérus gravide, deuxième trimestre
+O34.533	soins maternels pour la rétroversion d'un utérus gravide, troisième trimestre
+O34.539	soins maternels pour la rétroversion d'un utérus gravide, trimestre non spécifié
+O34.591	soins maternels pour d'autres anormalités d'un utérus gravide, premier trimestre
+O34.592	soins maternels pour d'autres anormalités d'un utérus gravide, deuxième trimestre
+O34.593	soins maternels pour d'autres anormalités d'un utérus gravide, troisième trimestre
+O34.599	soins maternels pour d'autres anormalités d'un utérus gravide, trimestre non spécifié
+O34.60	soins maternels pour une anormalité du vagin, trimestre non spécifié
+O34.61	soins maternels pour une anormalité du vagin, premier trimestre
+O34.62	soins maternels pour une anormalité du vagin, deuxième trimestre
+O34.63	soins maternels pour une anormalité du vagin, troisième trimestre
+O34.70	soins maternels pour une anormalité de la vulve et de la périnée, trimestre non spécifié
+O34.71	soins maternels pour une anormalité de la vulve et de la périnée, premier trimestre
+O34.72	soins maternels pour une anormalité de la vulve et de la périnée, deuxième trimestre
+O34.73	soins maternels pour une anormalité de la vulve et de la périnée, troisième trimestre
+O34.80	soins maternels pour d'autres anormalités des organes pelviens, trimestre non spécifié
+O34.81	soins maternels pour d'autres anormalités des organes pelviens, premier trimestre
+O34.82	soins maternels pour d'autres anormalités des organes pelviens, deuxième trimestre
+O34.83	soins maternels pour d'autres anormalités des organes pelviens, troisième trimestre
+O34.90	soins maternels pour une anormalité d'un organe pelvien, non spécifiée, trimestre non spécifié
+O34.91	soins maternels pour une anormalité d'un organe pelvien, non spécifiée, premier trimestre
+O34.92	soins maternels pour une anormalité d'un organe pelvien, non spécifiée, deuxième trimestre
+O34.93	soins maternels pour une anormalité d'un organe pelvien, non spécifiée, troisième trimestre
+O35.0XX0	soins maternels pour une malformation du système nerveux central du foetus, pas applicable ou non spécifié
+O35.0XX1	soins maternels pour une malformation du système nerveux central du foetus, foetus 1
+O35.0XX2	soins maternels pour une malformation du système nerveux central du foetus, foetus 2
+O35.0XX3	soins maternels pour une malformation du système nerveux central du foetus, foetus 3
+O35.0XX4	soins maternels pour une malformation du système nerveux central du foetus, foetus 4
+O35.0XX5	soins maternels pour une malformation du système nerveux central du foetus, foetus 5
+O35.0XX9	soins maternels pour une malformation du système nerveux central du foetus, autre foetus
+O35.1XX0	soins maternels pour une anormalité chromosomale  du foetus, pas applicable ou non spécifié
+O35.1XX1	soins maternels pour une anormalité chromosomale du foetus, foetus 1
+O35.1XX2	soins maternels pour une anormalité chromosomale du foetus, foetus 2
+O35.1XX3	soins maternels pour une anormalité chromosomale du foetus, foetus 3
+O35.1XX4	soins maternels pour une anormalité chromosomale du foetus, foetus 4
+O35.1XX5	soins maternels pour une anormalité chromosomale du foetus, foetus 5
+O35.1XX9	soins maternels pour une anormalité chromosomale du foetus, autre foetus
+O35.2XX0	soins maternels pour une maladie héréditaire du foetus, pas applicable ou non spécifié
+O35.2XX1	soins maternels pour une maladie héréditaire du foetus, foetus 1
+O35.2XX2	soins maternels pour une maladie héréditaire du foetus, foetus 2
+O35.2XX3	soins maternels pour une maladie héréditaire du foetus, foetus 3
+O35.2XX4	soins maternels pour une maladie héréditaire du foetus, foetus 4
+O35.2XX5	soins maternels pour une maladie héréditaire du foetus, foetus 5
+O35.2XX9	soins maternels pour une maladie héréditaire du foetus, autre foetus
+O35.3XX0	soins maternels pour une lésion du foetus par une maladie virale de la mère, pas applicable ou non spécifié
+O35.3XX1	soins maternels pour une lésion du foetus par une maladie virale de la mère, foetus 1
+O35.3XX2	soins maternels pour une lésion du foetus par une maladie virale de la mère, foetus 2
+O35.3XX3	soins maternels pour une lésion du foetus par une maladie virale de la mère, foetus 3
+O35.3XX4	soins maternels pour une lésion du foetus par une maladie virale de la mère, foetus 4
+O35.3XX5	soins maternels pour une lésion du foetus par une maladie virale de la mère, foetus 5
+O35.3XX9	soins maternels pour une lésion du foetus par une maladie virale de la mère, autre foetus
+O35.4XX0	soins maternels pour une lésion du foetus par l'alcool, pas applicable ou non spécifié
+O35.4XX1	soins maternels pour une lésion du foetus par l'alcool, foetus 1
+O35.4XX2	soins maternels pour une lésion du foetus par l'alcool, foetus 2
+O35.4XX3	soins maternels pour une lésion du foetus par l'alcool, foetus 3
+O35.4XX4	soins maternels pour une lésion du foetus par l'alcool, foetus 4
+O35.4XX5	soins maternels pour une lésion du foetus par l'alcool, foetus 5
+O35.4XX9	soins maternels pour une lésion du foetus par l'alcool, autre foetus
+O35.5XX0	soins maternels pour une lésion du foetus par des médicaments, pas applicable ou non spécifié
+O35.5XX1	soins maternels pour une lésion du foetus par des médicaments, foetus 1
+O35.5XX2	soins maternels pour une lésion du foetus par des médicaments, foetus 2
+O35.5XX3	soins maternels pour une lésion du foetus par des médicaments, foetus 3
+O35.5XX4	soins maternels pour une lésion du foetus par des médicaments, foetus 4
+O35.5XX5	soins maternels pour une lésion du foetus par des médicaments, foetus 5
+O35.5XX9	soins maternels pour une lésion du foetus par des médicaments, autre foetus
+O35.6XX0	soins maternels pour une lésion du foetus par radiation, pas applicable ou non spécifié
+O35.6XX1	soins maternels pour une lésion du foetus par radiation, foetus 1
+O35.6XX2	soins maternels pour une lésion du foetus par radiation, foetus 2
+O35.6XX3	soins maternels pour une lésion du foetus par radiation, foetus 3
+O35.6XX4	soins maternels pour une lésion du foetus par radiation, foetus 4
+O35.6XX5	soins maternels pour une lésion du foetus par radiation, foetus 5
+O35.6XX9	soins maternels pour une lésion du foetus par radiation, autre foetus
+O35.7XX0	soins maternels pour une lésion du foetus par d'autres procédures médicales, pas applicable ou non spécifié
+O35.7XX1	soins maternels pour une lésion du foetus par d'autres procédures médicales, foetus 1
+O35.7XX2	soins maternels pour une lésion du foetus par d'autres procédures médicales, foetus 2
+O35.7XX3	soins maternels pour une lésion du foetus par d'autres procédures médicales, foetus 3
+O35.7XX4	soins maternels pour une lésion du foetus par d'autres procédures médicales, foetus 4
+O35.7XX5	soins maternels pour une lésion du foetus par d'autres procédures médicales, foetus 5
+O35.7XX9	soins maternels pour une lésion du foetus par d'autres procédures médicales, autre foetus
+O35.8XX0	soins maternels pour une autre anormalité et une lésion du foetus, pas applicable ou non spécifié
+O35.8XX1	soins maternels pour une autre anormalité et une lésion du foetus, foetus 1
+O35.8XX2	soins maternels pour une autre anormalité et une lésion du foetus, foetus 2
+O35.8XX3	soins maternels pour une autre anormalité et une lésion du foetus, foetus 3
+O35.8XX4	soins maternels pour une autre anormalité et une lésion du foetus, foetus 4
+O35.8XX5	soins maternels pour une autre anormalité et une lésion du foetus, foetus 5
+O35.8XX9	soins maternels pour une autre anormalité et une lésion du foetus, autre foetus
+O35.9XX0	soins maternels pour une anormalité et une lésion du foetus, non spécifiée, pas applicable ou non spécifié
+O35.9XX1	soins maternels pour une anormalité et une lésion du foetus, non spécifiée, foetus 1
+O35.9XX2	soins maternels pour une anormalité et une lésion du foetus, non spécifiée, foetus 2
+O35.9XX3	soins maternels pour une anormalité et une lésion du foetus, non spécifiée, foetus 3
+O35.9XX4	soins maternels pour une anormalité et une lésion du foetus, non spécifiée, foetus 4
+O35.9XX5	soins maternels pour une anormalité et une lésion du foetus, non spécifiée, foetus 5
+O35.9XX9	soins maternels pour une anormalité et une lésion du foetus, non spécifiée, autre foetus
+O35.0XX0	soins maternels pour une malformation présumée du système nerveux central du foetus, pas applicable ou non spécifié
+O35.0XX1	soins maternels pour une malformation présumée du système nerveux central du foetus, foetus 1
+O35.0XX2	soins maternels pour une malformation présumée du système nerveux central du foetus, foetus 2
+O35.0XX3	soins maternels pour une malformation présumée du système nerveux central du foetus, foetus 3
+O35.0XX4	soins maternels pour une malformation présumée du système nerveux central du foetus, foetus 4
+O35.0XX5	soins maternels pour une malformation présumée du système nerveux central du foetus, foetus 5
+O35.0XX9	soins maternels pour une malformation présumée du système nerveux central du foetus, autre foetus
+O35.1XX0	soins maternels pour une anormalité chromosomale présumée du foetus, pas applicable ou non spécifié
+O35.1XX1	soins maternels pour une anormalité chromosomale présumée du foetus, foetus 1
+O35.1XX2	soins maternels pour une anormalité chromosomale présumée du foetus, foetus 2
+O35.1XX3	soins maternels pour une anormalité chromosomale présumée du foetus, foetus 3
+O35.1XX4	soins maternels pour une anormalité chromosomale présumée du foetus, foetus 4
+O35.1XX5	soins maternels pour une anormalité chromosomale présumée du foetus, foetus 5
+O35.1XX9	soins maternels pour une anormalité chromosomale présumée du foetus, autre foetus
+O35.2XX0	soins maternels pour une maladie héréditaire présumée du foetus, pas applicable ou non spécifié
+O35.2XX1	soins maternels pour une maladie héréditaire présumée du foetus, foetus 1
+O35.2XX2	soins maternels pour une maladie héréditaire présumée du foetus, foetus 2
+O35.2XX3	soins maternels pour une maladie héréditaire présumée du foetus, foetus 3
+O35.2XX4	soins maternels pour une maladie héréditaire présumée du foetus, foetus 4
+O35.2XX5	soins maternels pour une maladie héréditaire présumée du foetus, foetus 5
+O35.2XX9	soins maternels pour une maladie héréditaire présumée du foetus, autre foetus
+O35.3XX0	soins maternels pour une lésion présumée du foetus par une maladie virale de la mère, pas applicable ou non spécifié
+O35.3XX1	soins maternels pour une lésion présumée du foetus par une maladie virale de la mère, foetus 1
+O35.3XX2	soins maternels pour une lésion présumée du foetus par une maladie virale de la mère, foetus 2
+O35.3XX3	soins maternels pour une lésion présumée du foetus par une maladie virale de la mère, foetus 3
+O35.3XX4	soins maternels pour une lésion présumée du foetus par une maladie virale de la mère, foetus 4
+O35.3XX5	soins maternels pour une lésion présumée du foetus par une maladie virale de la mère, foetus 5
+O35.3XX9	soins maternels pour une lésion présumée du foetus par une maladie virale de la mère, autre foetus
+O35.4XX0	soins maternels pour une lésion présumée du foetus par l'alcool, pas applicable ou non spécifié
+O35.4XX1	soins maternels pour une lésion présumée du foetus par l'alcool, foetus 1
+O35.4XX2	soins maternels pour une lésion présumée du foetus par l'alcool, foetus 2
+O35.4XX3	soins maternels pour une lésion présumée du foetus par l'alcool, foetus 3
+O35.4XX4	soins maternels pour une lésion présumée du foetus par l'alcool, foetus 4
+O35.4XX5	soins maternels pour une lésion présumée du foetus par l'alcool, foetus 5
+O35.4XX9	soins maternels pour une lésion présumée du foetus par l'alcool, autre foetus
+O35.5XX0	soins maternels pour une lésion présumée du foetus par des médicaments, pas applicable ou non spécifié
+O35.5XX1	soins maternels pour une lésion présumée du foetus par des médicaments, foetus 1
+O35.5XX2	soins maternels pour une lésion présumée du foetus par des médicaments, foetus 2
+O35.5XX3	soins maternels pour une lésion présumée du foetus par des médicaments, foetus 3
+O35.5XX4	soins maternels pour une lésion présumée du foetus par des médicaments, foetus 4
+O35.5XX5	soins maternels pour une lésion présumée du foetus par des médicaments, foetus 5
+O35.5XX9	soins maternels pour une lésion présumée du foetus par des médicaments, autre foetus
+O35.6XX0	soins maternels pour une lésion présumée du foetus par radiation, pas applicable ou non spécifié
+O35.6XX1	soins maternels pour une lésion présumée du foetus par radiation, foetus 1
+O35.6XX2	soins maternels pour une lésion présumée du foetus par radiation, foetus 2
+O35.6XX3	soins maternels pour une lésion présumée du foetus par radiation, foetus 3
+O35.6XX4	soins maternels pour une lésion présumée du foetus par radiation, foetus 4
+O35.6XX5	soins maternels pour une lésion présumée du foetus par radiation, foetus 5
+O35.6XX9	soins maternels pour une lésion présumée du foetus par radiation, autre foetus
+O35.7XX0	soins maternels pour une lésion présumée du foetus par d'autres procédures médicales, pas applicable ou non spécifié
+O35.7XX1	soins maternels pour une lésion présumée du foetus par d'autres procédures médicales, foetus 1
+O35.7XX2	soins maternels pour une lésion présumée du foetus par d'autres procédures médicales, foetus 2
+O35.7XX3	soins maternels pour une lésion présumée du foetus par d'autres procédures médicales, foetus 3
+O35.7XX4	soins maternels pour une lésion présumée du foetus par d'autres procédures médicales, foetus 4
+O35.7XX5	soins maternels pour une lésion présumée du foetus par d'autres procédures médicales, foetus 5
+O35.7XX9	soins maternels pour une lésion présumée du foetus par d'autres procédures médicales, autre foetus
+O35.8XX0	soins maternels pour une autre anormalité et une lésion présumée du foetus, pas applicable ou non spécifié
+O35.8XX1	soins maternels pour une autre anormalité et une lésion présumée du foetus, foetus 1
+O35.8XX2	soins maternels pour une autre anormalité et une lésion présumée du foetus, foetus 2
+O35.8XX3	soins maternels pour une autre anormalité et une lésion présumée du foetus, foetus 3
+O35.8XX4	soins maternels pour une autre anormalité et une lésion présumée du foetus, foetus 4
+O35.8XX5	soins maternels pour une autre anormalité et une lésion présumée du foetus, foetus 5
+O35.8XX9	soins maternels pour une autre anormalité et une lésion présumée du foetus, autre foetus
+O35.9XX0	soins maternels pour une anormalité et une lésion présumée du foetus, non spécifiée, pas applicable ou non spécifié
+O35.9XX1	soins maternels pour une anormalité et une lésion présumée du foetus, non spécifiée, foetus 1
+O35.9XX2	soins maternels pour une anormalité et une lésion présumée du foetus, non spécifiée, foetus 2
+O35.9XX3	soins maternels pour une anormalité et une lésion présumée du foetus, non spécifiée, foetus 3
+O35.9XX4	soins maternels pour une anormalité et une lésion présumée du foetus, non spécifiée, foetus 4
+O35.9XX5	soins maternels pour une anormalité et une lésion présumée du foetus, non spécifiée, foetus 5
+O35.9XX9	soins maternels pour une anormalité et une lésion présumée du foetus, non spécifiée, autre foetus
+O36.110	soins maternels pour des anticorps anti-D [Rh], premier trimestre, pas applicable ou non spécifié
+O36.111	soins maternels pour des anticorps anti-D [Rh], premier trimestre, foetus 1
+O36.112	soins maternels pour des anticorps anti-D [Rh], premier trimestre, foetus 2
+O36.113	soins maternels pour des anticorps anti-D [Rh], premier trimestre, foetus 3
+O36.114	soins maternels pour des anticorps anti-D [Rh], premier trimestre, foetus 4
+O36.115	soins maternels pour des anticorps anti-D [Rh], premier trimestre, foetus 5
+O36.119	soins maternels pour des anticorps anti-D [Rh], premier trimestre, autre foetus
+O36.120	soins maternels pour des anticorps anti-D [Rh], deuxième trimestre, pas applicable ou non spécifié
+O36.121	soins maternels pour des anticorps anti-D [Rh], deuxième trimestre, foetus 1
+O36.122	soins maternels pour des anticorps anti-D [Rh], deuxième trimestre, foetus 2
+O36.123	soins maternels pour des anticorps anti-D [Rh], deuxième trimestre, foetus 3
+O36.124	soins maternels pour des anticorps anti-D [Rh], deuxième trimestre, foetus 4
+O36.125	soins maternels pour des anticorps anti-D [Rh], deuxième trimestre, foetus 5
+O36.129	soins maternels pour des anticorps anti-D [Rh], deuxième trimestre, autre foetus
+O36.130	soins maternels pour des anticorps anti-D [Rh], troisième trimestre, pas applicable ou non spécifié
+O36.131	soins maternels pour des anticorps anti-D [Rh], troisième trimestre, foetus 1
+O36.132	soins maternels pour des anticorps anti-D [Rh], troisième trimestre, foetus 2
+O36.133	soins maternels pour des anticorps anti-D [Rh], troisième trimestre, foetus 3
+O36.134	soins maternels pour des anticorps anti-D [Rh], troisième trimestre, foetus 4
+O36.135	soins maternels pour des anticorps anti-D [Rh], troisième trimestre, foetus 5
+O36.139	soins maternels pour des anticorps anti-D [Rh], troisième trimestre, autre foetus
+O36.190	soins maternels pour des anticorps anti-D [Rh], trimestre non spécifié, pas applicable ou non spécifié
+O36.191	soins maternels pour des anticorps anti-D [Rh], trimestre non spécifié, foetus 1
+O36.192	soins maternels pour des anticorps anti-D [Rh], trimestre non spécifié, foetus 2
+O36.193	soins maternels pour des anticorps anti-D [Rh], trimestre non spécifié, foetus 3
+O36.194	soins maternels pour des anticorps anti-D [Rh], trimestre non spécifié, foetus 4
+O36.195	soins maternels pour des anticorps anti-D [Rh], trimestre non spécifié, foetus 5
+O36.199	soins maternels pour des anticorps anti-D [Rh], trimestre non spécifié, autre foetus
+O36.910	soins maternels pour une autre iso-immunisation rhésus, premier trimestre, pas applicable ou non spécifié
+O36.911	soins maternels pour une autre iso-immunisation rhésus, premier trimestre, foetus 1
+O36.912	soins maternels pour une autre iso-immunisation rhésus, premier trimestre, foetus 2
+O36.913	soins maternels pour une autre iso-immunisation rhésus, premier trimestre, foetus 3
+O36.914	soins maternels pour une autre iso-immunisation rhésus, premier trimestre, foetus 4
+O36.915	soins maternels pour une autre iso-immunisation rhésus, premier trimestre, foetus 5
+O36.919	soins maternels pour une autre iso-immunisation rhésus, premier trimestre, autre foetus
+O36.920	soins maternels pour une autre iso-immunisation rhésus, deuxième trimestre, pas applicable ou non spécifié
+O36.921	soins maternels pour une autre iso-immunisation rhésus, deuxième trimestre, foetus 1
+O36.922	soins maternels pour une autre iso-immunisation rhésus, deuxième trimestre, foetus 2
+O36.923	soins maternels pour une autre iso-immunisation rhésus, deuxième trimestre, foetus 3
+O36.924	soins maternels pour une autre iso-immunisation rhésus, deuxième trimestre, foetus 4
+O36.925	soins maternels pour une autre iso-immunisation rhésus, deuxième trimestre, foetus 5
+O36.929	soins maternels pour une autre iso-immunisation rhésus, deuxième trimestre, autre foetus
+O36.930	soins maternels pour une autre iso-immunisation rhésus, troisième trimestre, pas applicable ou non spécifié
+O36.931	soins maternels pour une autre iso-immunisation rhésus, troisième trimestre, foetus 1
+O36.932	soins maternels pour une autre iso-immunisation rhésus, troisième trimestre, foetus 2
+O36.933	soins maternels pour une autre iso-immunisation rhésus, troisième trimestre, foetus 3
+O36.934	soins maternels pour une autre iso-immunisation rhésus, troisième trimestre, foetus 4
+O36.935	soins maternels pour une autre iso-immunisation rhésus, troisième trimestre, foetus 5
+O36.939	soins maternels pour une autre iso-immunisation rhésus, troisième trimestre, autre foetus
+O36.990	soins maternels pour une autre iso-immunisation rhésus, trimestre non spécifié, pas applicable ou non spécifié
+O36.991	soins maternels pour une autre iso-immunisation rhésus, trimestre non spécifié, foetus 1
+O36.992	soins maternels pour une autre iso-immunisation rhésus, trimestre non spécifié, foetus 2
+O36.993	soins maternels pour une autre iso-immunisation rhésus, trimestre non spécifié, foetus 3
+O36.994	soins maternels pour une autre iso-immunisation rhésus, trimestre non spécifié, foetus 4
+O36.995	soins maternels pour une autre iso-immunisation rhésus, trimestre non spécifié, foetus 5
+O36.999	soins maternels pour une autre iso-immunisation rhésus, trimestre non spécifié, autre foetus
+O36.1110	soins maternels pour la sensibilisation Anti-A, premier trimestre, pas applicable ou non spécifié
+O36.1111	soins maternels pour la sensibilisation Anti-A, premier trimestre, foetus 1
+O36.1112	soins maternels pour la sensibilisation Anti-A, premier trimestre, foetus 2
+O36.1113	soins maternels pour la sensibilisation Anti-A, premier trimestre, foetus 3
+O36.1114	soins maternels pour la sensibilisation Anti-A, premier trimestre, foetus 4
+O36.1115	soins maternels pour la sensibilisation Anti-A, premier trimestre, foetus 5
+O36.1119	soins maternels pour la sensibilisation Anti-A, premier trimestre, autre foetus
+O36.1120	soins maternels pour la sensibilisation Anti-A, deuxième trimestre, pas applicable ou non spécifié
+O36.1121	soins maternels pour la sensibilisation Anti-A, deuxième trimestre, foetus 1
+O36.1122	soins maternels pour la sensibilisation Anti-A, deuxième trimestre, foetus 2
+O36.1123	soins maternels pour la sensibilisation Anti-A, deuxième trimestre, foetus 3
+O36.1124	soins maternels pour la sensibilisation Anti-A, deuxième trimestre, foetus 4
+O36.1125	soins maternels pour la sensibilisation Anti-A, deuxième trimestre, foetus 5
+O36.1129	soins maternels pour la sensibilisation Anti-A, deuxième trimestre, autre foetus
+O36.1130	soins maternels pour la sensibilisation Anti-A, troisième trimestre, pas applicable ou non spécifié
+O36.1131	soins maternels pour la sensibilisation Anti-A, troisième trimestre, foetus 1
+O36.1132	soins maternels pour la sensibilisation Anti-A, troisième trimestre, foetus 2
+O36.1133	soins maternels pour la sensibilisation Anti-A, troisième trimestre, foetus 3
+O36.1134	soins maternels pour la sensibilisation Anti-A, troisième trimestre, foetus 4
+O36.1135	soins maternels pour la sensibilisation Anti-A, troisième trimestre, foetus 5
+O36.1139	soins maternels pour la sensibilisation Anti-A, troisième trimestre, autre foetus
+O36.1190	soins maternels pour la sensibilisation Anti-A, trimestre non spécifié, pas applicable ou non spécifié
+O36.1191	soins maternels pour la sensibilisation Anti-A, trimestre non spécifié, foetus 1
+O36.1192	soins maternels pour la sensibilisation Anti-A, trimestre non spécifié, foetus 2
+O36.1193	soins maternels pour la sensibilisation Anti-A, trimestre non spécifié, foetus 3
+O36.1194	soins maternels pour la sensibilisation Anti-A, trimestre non spécifié, foetus 4
+O36.1195	soins maternels pour la sensibilisation Anti-A, trimestre non spécifié, foetus 5
+O36.1199	soins maternels pour la sensibilisation Anti-A, trimestre non spécifié, autre foetus
+O36.1919	soins maternels pour une autre iso-immunisation, premier trimestre, autre foetus
+O36.1920	soins maternels pour une autre iso-immunisation, deuxième trimestre, pas applicable ou non spécifié
+O36.1921	soins maternels pour une autre iso-immunisation, deuxième trimestre, foetus 1
+O36.1922	soins maternels pour une autre iso-immunisation, deuxième trimestre, foetus 2
+O36.1923	soins maternels pour une autre iso-immunisation, deuxième trimestre, foetus 3
+O36.1924	soins maternels pour une autre iso-immunisation, deuxième trimestre, foetus 4
+O36.1925	soins maternels pour une autre iso-immunisation, deuxième trimestre, foetus 5
+O36.1929	soins maternels pour une autre iso-immunisation, deuxième trimestre, autre foetus
+O36.1930	soins maternels pour une autre iso-immunisation, troisième trimestre, pas applicable ou non spécifié
+O36.1931	soins maternels pour une autre iso-immunisation, troisième trimestre, foetus 1
+O36.1932	soins maternels pour une autre iso-immunisation, troisième trimestre, foetus 2
+O36.1933	soins maternels pour une autre iso-immunisation, troisième trimestre, foetus 3
+O36.1934	soins maternels pour une autre iso-immunisation, troisième trimestre, foetus 4
+O36.1935	soins maternels pour une autre iso-immunisation, troisième trimestre, foetus 5
+O36.1939	soins maternels pour une autre iso-immunisation, troisième trimestre, autre foetus
+O36.1990	soins maternels pour une autre iso-immunisation, trimestre non spécifié, pas applicable ou non spécifié
+O36.1991	soins maternels pour une autre iso-immunisation, trimestre non spécifié, foetus 1
+O36.1992	soins maternels pour une autre iso-immunisation, trimestre non spécifié, foetus 2
+O36.1993	soins maternels pour une autre iso-immunisation, trimestre non spécifié, foetus 3
+O36.1994	soins maternels pour une autre iso-immunisation, trimestre non spécifié, foetus 4
+O36.1995	soins maternels pour une autre iso-immunisation, trimestre non spécifié, foetus 5
+O36.1999	soins maternels pour une autre iso-immunisation, trimestre non spécifié, autre foetus
+O36.20X0	soins maternels pour hydrops foetal, trimestre non spécifié, pas applicable ou non spécifié
+O36.20X1	soins maternels pour hydrops foetal, trimestre non spécifié, foetus 1
+O36.20X2	soins maternels pour hydrops foetal, trimestre non spécifié, foetus 2
+O36.20X3	soins maternels pour hydrops foetal, trimestre non spécifié, foetus 3
+O36.20X4	soins maternels pour hydrops foetal, trimestre non spécifié, foetus 4
+O36.20X5	soins maternels pour hydrops foetal, trimestre non spécifié, foetus 5
+O36.20X9	soins maternels pour hydrops foetal, trimestre non spécifié, autre foetus
+O36.21X0	soins maternels pour hydrops foetal, premier trimestre,pas applicable ou non spécifié
+O36.21X1	soins maternels pour hydrops foetal, premier trimestre, foetus 1
+O36.21X2	soins maternels pour hydrops foetal, premier trimestre, foetus 2
+O36.21X3	soins maternels pour hydrops foetal, premier trimestre, foetus 3
+O36.21X4	soins maternels pour hydrops foetal, premier trimestre, foetus 4
+O36.21X5	soins maternels pour hydrops foetal, premier trimestre, foetus 5
+O36.21X9	soins maternels pour hydrops foetal, premier trimestre, autre foetus
+O36.22X0	soins maternels pour hydrops foetal, deuxième trimestre, pas applicable ou non spécifié
+O36.22X1	soins maternels pour hydrops foetal, deuxième trimestre, foetus 1
+O36.22X2	soins maternels pour hydrops foetal, deuxième trimestre, foetus 2
+O36.22X3	soins maternels pour hydrops foetal, deuxième trimestre, foetus 3
+O36.22X4	soins maternels pour hydrops foetal, deuxième trimestre, foetus 4
+O36.22X5	soins maternels pour hydrops foetal, deuxième trimestre, foetus 5
+O36.22X9	soins maternels pour hydrops foetal, deuxième trimestre, autre foetus
+O36.23X0	soins maternels pour hydrops foetal, troisième trimestre, pas applicable ou non spécifié
+O36.23X1	soins maternels pour hydrops foetal, troisième trimestre, foetus 1
+O36.23X2	soins maternels pour hydrops foetal, troisième trimestre, foetus 2
+O36.23X3	soins maternels pour hydrops foetal, troisième trimestre, foetus 3
+O36.23X4	soins maternels pour hydrops foetal, troisième trimestre, foetus 4
+O36.23X5	soins maternels pour hydrops foetal, troisième trimestre, foetus 5
+O36.23X9	soins maternels pour hydrops foetal, troisième trimestre, autre foetus
+O36.4XX0	soins maternels pour la mort intra-utérine, pas applicable ou non spécifié
+O36.4XX1	soins maternels pour la mort intra-utérine, foetus 1
+O36.4XX2	soins maternels pour la mort intra-utérine, foetus 2
+O36.4XX3	soins maternels pour la mort intra-utérine, foetus 3
+O36.4XX4	soins maternels pour la mort intra-utérine, foetus 4
+O36.4XX5	soins maternels pour la mort intra-utérine, foetus 5
+O36.4XX9	soins maternels pour la mort intra-utérine, autre foetus
+O36.5110	soins maternels pour une insuffisance placentaire connue ou présumée, premier trimestre, pas applicable ou non spécifié
+O36.5111	soins maternels pour une insuffisance placentaire connue ou présumée, premier trimestre, foetus 1
+O36.5112	soins maternels pour une insuffisance placentaire connue ou présumée, premier trimestre, foetus 2
+O36.5113	soins maternels pour une insuffisance placentaire connue ou présumée, premier trimestre, foetus 3
+O36.5114	soins maternels pour une insuffisance placentaire connue ou présumée, premier trimestre, foetus 4
+O36.5115	soins maternels pour une insuffisance placentaire connue ou présumée, premier trimestre, foetus 5
+O36.5119	soins maternels pour une insuffisance placentaire connue ou présumée, premier trimestre, autre foetus
+O36.5120	soins maternels pour une insuffisance placentaire connue ou présumée, deuxième trimestre,pas applicable ou non spécifié
+O36.5121	soins maternels pour une insuffisance placentaire connue ou présumée, deuxième trimestre, foetus 1
+O36.5122	soins maternels pour une insuffisance placentaire connue ou présumée, deuxième trimestre, foetus 2
+O36.5123	soins maternels pour une insuffisance placentaire connue ou présumée, deuxième trimestre, foetus 3
+O36.5124	soins maternels pour une insuffisance placentaire connue ou présumée, deuxième trimestre, foetus 4
+O36.5125	soins maternels pour une insuffisance placentaire connue ou présumée, deuxième trimestre, foetus 5
+O36.5129	soins maternels pour une insuffisance placentaire connue ou présumée, deuxième trimestre, autre foetus
+O36.5130	soins maternels pour une insuffisance placentaire connue ou présumée, troisième trimestre, pas applicable ou non spécifié
+O36.5131	soins maternels pour une insuffisance placentaire connue ou présumée, troisième trimestre, foetus 1
+O36.5132	soins maternels pour une insuffisance placentaire connue ou présumée, troisième trimestre, foetus 2
+O36.5133	soins maternels pour une insuffisance placentaire connue ou présumée, troisième trimestre, foetus 3
+O36.5134	soins maternels pour une insuffisance placentaire connue ou présumée, troisième trimestre, foetus 4
+O36.5135	soins maternels pour une insuffisance placentaire connue ou présumée, troisième trimestre, foetus 5
+O36.5139	soins maternels pour une insuffisance placentaire connue ou présumée, troisième trimestre, autre foetus
+O36.5190	soins maternels pour une insuffisance placentaire connue ou présumée, trimestre non spécifié, pas applicable ou non spécifié
+O36.5191	soins maternels pour une insuffisance placentaire connue ou présumée, trimestre non spécifié, foetus 1
+O36.5192	soins maternels pour une insuffisance placentaire connue ou présumée, trimestre non spécifié, foetus 2
+O36.5193	soins maternels pour une insuffisance placentaire connue ou présumée, trimestre non spécifié, foetus 3
+O36.5194	soins maternels pour une insuffisance placentaire connue ou présumée, trimestre non spécifié, foetus 4
+O36.5195	soins maternels pour une insuffisance placentaire connue ou présumée, trimestre non spécifié, foetus 5
+O36.5199	soins maternels pour une insuffisance placentaire connue ou présumée, trimestre non spécifié, autre foetus
+O36.5910	soins maternels pour une autre croissance insuffisante connue ou présumée du foetus, premier trimestre, pas applicable ou non spécifié
+O36.5911	soins maternels pour une autre croissance insuffisante connue ou présumée du foetus, premier trimestre, foetus 1
+O36.5912	soins maternels pour une autre croissance insuffisante connue ou présumée du foetus, premier trimestre, foetus 2
+O36.5913	soins maternels pour une autre croissance insuffisante connue ou présumée du foetus, premier trimestre, foetus 3
+O36.5914	soins maternels pour une autre croissance insuffisante connue ou présumée du foetus, premier trimestre, foetus 4
+O36.5915	soins maternels pour une autre croissance insuffisante connue ou présumée du foetus, premier trimestre, foetus 5
+O36.5919	soins maternels pour une autre croissance insuffisante connue ou présumée du foetus, premier trimestre, autre foetus
+O36.5920	soins maternels pour une autre croissance insuffisante connue ou présumée du foetus, deuxième trimestre, pas applicable ou non spécifié
+O36.5921	soins maternels pour une autre croissance insuffisante connue ou présumée du foetus, deuxième trimestre, foetus 1
+O36.5922	soins maternels pour une autre croissance insuffisante connue ou présumée du foetus, deuxième trimestre, foetus 2
+O36.5923	soins maternels pour une autre croissance insuffisante connue ou présumée du foetus, deuxième trimestre, foetus 3
+O36.5924	soins maternels pour une autre croissance insuffisante connue ou présumée du foetus, deuxième trimestre, foetus 4
+O36.5925	soins maternels pour une autre croissance insuffisante connue ou présumée du foetus, deuxième trimestre, foetus 5
+O36.5929	soins maternels pour une autre croissance insuffisante connue ou présumée du foetus, deuxième trimestre, autre foetus
+O36.5930	soins maternels pour une autre croissance insuffisante connue ou présumée du foetus, troisième trimestre, pas applicable ou non spécifié
+O36.5931	soins maternels pour une autre croissance insuffisante connue ou présumée du foetus, troisième trimestre, foetus 1
+O36.5932	soins maternels pour une autre croissance insuffisante connue ou présumée du foetus, troisième trimestre, foetus 2
+O36.5933	soins maternels pour une autre croissance insuffisante connue ou présumée du foetus, troisième trimestre, foetus 3
+O36.5934	soins maternels pour une autre croissance insuffisante connue ou présumée du foetus, troisième trimestre, foetus 4
+O36.5935	soins maternels pour une autre croissance insuffisante connue ou présumée du foetus, troisième trimestre, foetus 5
+O36.5939	soins maternels pour une autre croissance insuffisante connue ou présumée du foetus, troisième trimestre, autre foetus
+O36.5990	soins maternels pour une autre croissance insuffisante connue ou présumée du foetus, trimestre non spécifié, pas applicable ou non spécifié
+O36.5991	soins maternels pour une autre croissance insuffisante connue ou présumée du foetus, trimestre non spécifié, foetus 1
+O36.5992	soins maternels pour une autre croissance insuffisante connue ou présumée du foetus, trimestre non spécifié, foetus 2
+O36.5993	soins maternels pour une autre croissance insuffisante connue ou présumée du foetus, trimestre non spécifié, foetus 3
+O36.5994	soins maternels pour une autre croissance insuffisante connue ou présumée du foetus, trimestre non spécifié, foetus 4
+O36.5995	soins maternels pour une autre croissance insuffisante connue ou présumée du foetus, trimestre non spécifié, foetus 5
+O36.5999	soins maternels pour une autre croissance insuffisante connue ou présumée du foetus, trimestre non spécifié, autre foetus
+O36.60X0	soins maternels pour une croissance excessive du foetus, trimestre non spécifié, pas applicable ou non spécifié
+O36.60X1	soins maternels pour une croissance excessive du foetus, trimestre non spécifié, foetus 1
+O36.60X2	soins maternels pour une croissance excessive du foetus, trimestre non spécifié, foetus 2
+O36.60X3	soins maternels pour une croissance excessive du foetus, trimestre non spécifié, foetus 3
+O36.60X4	soins maternels pour une croissance excessive du foetus, trimestre non spécifié, foetus 4
+O36.60X5	soins maternels pour une croissance excessive du foetus, trimestre non spécifié, foetus 5
+O36.60X9	soins maternels pour une croissance excessive du foetus, trimestre non spécifié, autre foetus
+O36.61X0	soins maternels pour une croissance excessive du foetus, premier trimestre, pas applicable ou non spécifié
+O36.61X1	soins maternels pour une croissance excessive du foetus, premier trimestre, foetus 1
+O36.61X2	soins maternels pour une croissance excessive du foetus, premier trimestre, foetus 2
+O36.61X3	soins maternels pour une croissance excessive du foetus, premier trimestre, foetus 3
+O36.61X4	soins maternels pour une croissance excessive du foetus, premier trimestre, foetus 4
+O36.61X5	soins maternels pour une croissance excessive du foetus, premier trimestre, foetus 5
+O36.61X9	soins maternels pour une croissance excessive du foetus, premier trimestre, autre foetus
+O36.62X0	soins maternels pour une croissance excessive du foetus, deuxième trimestre, pas applicable ou non spécifié
+O36.62X1	soins maternels pour une croissance excessive du foetus, deuxième trimestre, foetus 1
+O36.62X2	soins maternels pour une croissance excessive du foetus, deuxième trimestre, foetus 2
+O36.62X3	soins maternels pour une croissance excessive du foetus, deuxième trimestre, foetus 3
+O36.62X4	soins maternels pour une croissance excessive du foetus, deuxième trimestre, foetus 4
+O36.62X5	soins maternels pour une croissance excessive du foetus, deuxième trimestre, foetus 5
+O36.62X9	soins maternels pour une croissance excessive du foetus, deuxième trimestre, autre foetus
+O36.63X0	soins maternels pour une croissance excessive du foetus, troisième trimestre, pas applicable ou non spécifié
+O36.63X1	soins maternels pour une croissance excessive du foetus, troisième trimestre, foetus 1
+O36.63X2	soins maternels pour une croissance excessive du foetus, troisième trimestre, foetus 2
+O36.63X3	soins maternels pour une croissance excessive du foetus, troisième trimestre, foetus 3
+O36.63X4	soins maternels pour une croissance excessive du foetus, troisième trimestre, foetus 4
+O36.70X3	soins maternels pour une grossesse abdominale avec un foetus viable, trimestre non spécifié, foetus 3
+O36.70X4	soins maternels pour une grossesse abdominale avec un foetus viable, trimestre non spécifié, foetus 4
+O36.70X5	soins maternels pour une grossesse abdominale avec un foetus viable, trimestre non spécifié, foetus 5
+O36.70X9	soins maternels pour une grossesse abdominale avec un foetus viable, trimestre non spécifié, autre foetus
+O36.71X0	soins maternels pour une grossesse abdominale avec un foetus viable, premier trimestre, pas applicable ou non spécifié
+O36.71X1	soins maternels pour une grossesse abdominale avec un foetus viable, premier trimestre, foetus 1
+O36.71X2	soins maternels pour une grossesse abdominale avec un foetus viable, premier trimestre, foetus 2
+O36.71X3	soins maternels pour une grossesse abdominale avec un foetus viable, premier trimestre, foetus 3
+O36.71X4	soins maternels pour une grossesse abdominale avec un foetus viable, premier trimestre, foetus 4
+O36.71X5	soins maternels pour une grossesse abdominale avec un foetus viable, premier trimestre, foetus 5
+O36.71X9	soins maternels pour une grossesse abdominale avec un foetus viable, premier trimestre, autre foetus
+O36.72X0	soins maternels pour une grossesse abdominale avec un foetus viable, deuxième trimestre, pas applicable ou non spécifié
+O36.72X1	soins maternels pour une grossesse abdominale avec un foetus viable, deuxième trimestre, foetus 1
+O36.72X2	soins maternels pour une grossesse abdominale avec un foetus viable, deuxième trimestre, foetus 2
+O36.72X3	soins maternels pour une grossesse abdominale avec un foetus viable, deuxième trimestre, foetus 3
+O36.72X4	soins maternels pour une grossesse abdominale avec un foetus viable, deuxième trimestre, foetus 4
+O36.72X5	soins maternels pour une grossesse abdominale avec un foetus viable, deuxième trimestre, foetus 5
+O36.72X9	soins maternels pour une grossesse abdominale avec un foetus viable, deuxième trimestre, autre foetus
+O36.73X0	soins maternels pour une grossesse abdominale avec un foetus viable, troisième trimestre, pas applicable ou non spécifié
+O36.73X1	soins maternels pour une grossesse abdominale avec un foetus viable, troisième trimestre, foetus 1
+O36.73X2	soins maternels pour une grossesse abdominale avec un foetus viable, troisième trimestre, foetus 2
+O36.73X3	soins maternels pour une grossesse abdominale avec un foetus viable, troisième trimestre, foetus 3
+O36.73X4	soins maternels pour une grossesse abdominale avec un foetus viable, troisième trimestre, foetus 4
+O36.73X5	soins maternels pour une grossesse abdominale avec un foetus viable, troisième trimestre, foetus 5
+O36.73X9	soins maternels pour une grossesse abdominale avec un foetus viable, troisième trimestre, autre foetus
+O36.80X0	grossesse avec viabilité foetale non concluante, pas d'application ou non spécifié
+O36.80X1	grossesse avec viabilité foetale non concluante, foetus 1
+O36.80X2	grossesse avec viabilité foetale non concluante, foetus 2
+O36.80X3	grossesse avec viabilité foetale non concluante, foetus 3
+O36.80X4	grossesse avec viabilité foetale non concluante, foetus 4
+O36.80X5	grossesse avec viabilité foetale non concluante, foetus 5
+O36.80X9	grossesse avec viabilité foetale non concluante, autre foetus
+O36.8120	diminution des mouvements foetaux, deuxième trimestre, pas applicable ou non spécifié
+O36.8121	diminution des mouvements foetaux, deuxième trimestre, foetus 1
+O36.8122	diminution des mouvements foetaux, deuxième trimestre, foetus 2
+O36.8123	diminution des mouvements foetaux, deuxième trimestre, foetus 3
+O36.8124	diminution des mouvements foetaux, deuxième trimestre, foetus 4
+O36.8125	diminution des mouvements foetaux, deuxième trimestre, foetus 5
+O36.8129	diminution des mouvements foetaux, deuxième trimestre, autre foetus
+O36.8130	diminution des mouvements foetaux, troisième trimestre, pas applicable ou non spécifié
+O36.8131	diminution des mouvements foetaux, troisième trimestre, foetus 1
+O36.8132	diminution des mouvements foetaux, troisième trimestre, foetus 2
+O36.8133	diminution des mouvements foetaux, troisième trimestre, foetus 3
+O36.8134	diminution des mouvements foetaux, troisième trimestre, foetus 4
+O36.8135	diminution des mouvements foetaux, troisième trimestre, foetus 5
+O36.8139	diminution des mouvements foetaux, troisième trimestre, autre foetus
+O36.8190	diminution des mouvements foetaux, trimestre non spécifié, pas applicable ou non spécifié
+O36.8191	diminution des mouvements foetaux, trimestre non spécifié, foetus 1
+O36.8192	diminution des mouvements foetaux, trimestre non spécifié, foetus 2
+O36.8193	diminution des mouvements foetaux, trimestre non spécifié, foetus 3
+O36.8194	diminution des mouvements foetaux, trimestre non spécifié, foetus 4
+O36.8195	diminution des mouvements foetaux, trimestre non spécifié, foetus 5
+O36.8199	diminution des mouvements foetaux, trimestre non spécifié, autre foetus
+O36.8210	anémie et thrombocytopénie foetales, premier trimestre, pas applicable ou non spécifié
+O36.8211	anémie et thrombocytopénie foetales, premier trimestre, foetus 1
+O36.8212	anémie et thrombocytopénie foetales, premier trimestre, foetus 2
+O36.8213	anémie et thrombocytopénie foetales, premier trimestre, foetus 3
+O36.8214	anémie et thrombocytopénie foetales, premier trimestre, foetus 4
+O36.8215	anémie et thrombocytopénie foetales, premier trimestre, foetus 5
+O36.8219	anémie et thrombocytopénie foetales, premier trimestre, autre foetus
+O36.8220	anémie et thrombocytopénie foetales, deuxième trimestre, pas applicable ou non spécifié
+O36.8221	anémie et thrombocytopénie foetales, deuxième trimestre, foetus 1
+O36.8222	anémie et thrombocytopénie foetales, deuxième trimestre, foetus 2
+O36.8223	anémie et thrombocytopénie foetales, deuxième trimestre, foetus 3
+O36.8224	anémie et thrombocytopénie foetales, deuxième trimestre, foetus 4
+O36.8225	anémie et thrombocytopénie foetales, deuxième trimestre, foetus 5
+O36.8229	anémie et thrombocytopénie foetales, deuxième trimestre, autre foetus
+O36.8230	anémie et thrombocytopénie foetales, troisième trimestre, pas applicable ou non spécifié
+O36.8231	anémie et thrombocytopénie foetales, troisième trimestre, foetus 1
+O36.8232	anémie et thrombocytopénie foetales, troisième trimestre, foetus 2
+O36.8233	anémie et thrombocytopénie foetales, troisième trimestre, foetus 3
+O36.8234	anémie et thrombocytopénie foetales, troisième trimestre, foetus 4
+O36.8235	anémie et thrombocytopénie foetales, troisième trimestre, foetus 5
+O36.8239	anémie et thrombocytopénie foetales, troisième trimestre, autre foetus
+O36.8290	anémie et thrombocytopénie foetales, trimestre non spécifié, pas applicable ou non spécifié
+O36.8291	anémie et thrombocytopénie foetales, trimestre non spécifié, foetus 1
+O36.8292	anémie et thrombocytopénie foetales, trimestre non spécifié, foetus 2
+O36.8293	anémie et thrombocytopénie foetales, trimestre non spécifié, foetus 3
+O36.8294	anémie et thrombocytopénie foetales, trimestre non spécifié, foetus 4
+O36.8295	anémie et thrombocytopénie foetales, trimestre non spécifié, foetus 5
+O36.8299	anémie et thrombocytopénie foetales, trimestre non spécifié, autre foetus
+O36.8910	soins maternels pour d'autres problèmes foetaux spécifiés, premier trimestre, pas applicable ou non spécifié
+O36.8911	soins maternels pour d'autres problèmes foetaux spécifiés, premier trimestre, foetus 1
+O36.8912	soins maternels pour d'autres problèmes foetaux spécifiés, premier trimestre, foetus 2
+O36.8913	soins maternels pour d'autres problèmes foetaux spécifiés, premier trimestre, foetus 3
+O36.8914	soins maternels pour d'autres problèmes foetaux spécifiés, premier trimestre, foetus 4
+O36.8915	soins maternels pour d'autres problèmes foetaux spécifiés, premier trimestre, foetus 5
+O36.8919	soins maternels pour d'autres problèmes foetaux spécifiés, premier trimestre, autre foetus
+O36.8920	soins maternels pour d'autres problèmes foetaux spécifiés, deuxième trimestre, pas applicable ou non spécifié
+O36.8921	soins maternels pour d'autres problèmes foetaux spécifiés, deuxième trimestre, foetus 1
+O36.8922	soins maternels pour d'autres problèmes foetaux spécifiés, deuxième trimestre, foetus 2
+O36.8923	soins maternels pour d'autres problèmes foetaux spécifiés, deuxième trimestre, foetus 3
+O36.8924	soins maternels pour d'autres problèmes foetaux spécifiés, deuxième trimestre, foetus 4
+O36.8925	soins maternels pour d'autres problèmes foetaux spécifiés, deuxième trimestre, foetus 5
+O36.8929	soins maternels pour d'autres problèmes foetaux spécifiés, deuxième trimestre, autre foetus
+O36.8930	soins maternels pour d'autres problèmes foetaux spécifiés, troisième trimestre, pas applicable ou non spécifié
+O36.8931	soins maternels pour d'autres problèmes foetaux spécifiés, troisième trimestre, foetus 1
+O36.8932	soins maternels pour d'autres problèmes foetaux spécifiés, troisième trimestre, foetus 2
+O36.8933	soins maternels pour d'autres problèmes foetaux spécifiés, troisième trimestre, foetus 3
+O36.8934	soins maternels pour d'autres problèmes foetaux spécifiés, troisième trimestre, foetus 4
+O36.8935	soins maternels pour d'autres problèmes foetaux spécifiés, troisième trimestre, foetus 5
+O36.8939	soins maternels pour d'autres problèmes foetaux spécifiés, troisième trimestre, autre foetus
+O36.8990	soins maternels pour d'autres problèmes foetaux spécifiés, trimestre non spécifié, pas applicable ou non spécifié
+O36.8991	soins maternels pour d'autres problèmes foetaux spécifiés, trimestre non spécifié, foetus 1
+O36.8992	soins maternels pour d'autres problèmes foetaux spécifiés, trimestre non spécifié, foetus 2
+O36.8993	soins maternels pour d'autres problèmes foetaux spécifiés, trimestre non spécifié, foetus 3
+O36.8994	soins maternels pour d'autres problèmes foetaux spécifiés, trimestre non spécifié, foetus 4
+O36.8995	soins maternels pour d'autres problèmes foetaux spécifiés, trimestre non spécifié, foetus 5
+O36.8999	soins maternels pour d'autres problèmes foetaux spécifiés, trimestre non spécifié, autre foetus
+O36.90X0	soins maternels pour un problème foetal, non spécifié, trimestre non spécifié, pas applicable ou non spécifié
+O36.90X1	soins maternels pour un problème foetal, non spécifié, trimestre non spécifié, foetus 1
+O36.90X2	soins maternels pour un problème foetal, non spécifié, trimestre non spécifié, foetus 2
+O36.90X3	soins maternels pour un problème foetal, non spécifié, trimestre non spécifié, foetus 3
+O36.90X4	soins maternels pour un problème foetal, non spécifié, trimestre non spécifié, foetus 4
+O36.90X5	soins maternels pour un problème foetal, non spécifié, trimestre non spécifié, foetus 5
+O36.90X9	soins maternels pour un problème foetal, non spécifié, trimestre non spécifié, autre foetus
+O36.91X0	soins maternels pour un problème foetal, non spécifié, premier trimestre, pas applicable ou non spécifié
+O36.91X1	soins maternels pour un problème foetal, non spécifié, premier trimestre, foetus 1
+O36.91X2	soins maternels pour un problème foetal, non spécifié, premier trimestre, foetus 2
+O36.91X3	soins maternels pour un problème foetal, non spécifié, premier trimestre, foetus 3
+O36.91X4	soins maternels pour un problème foetal, non spécifié, premier trimestre, foetus 4
+O36.91X5	soins maternels pour un problème foetal, non spécifié, premier trimestre, foetus 5
+O36.91X9	soins maternels pour un problème foetal, non spécifié, premier trimestre, autre foetus
+O36.92X0	soins maternels pour un problème foetal, non spécifié, deuxième trimestre, pas applicable ou non spécifié
+O36.92X1	soins maternels pour un problème foetal, non spécifié, deuxième trimestre, foetus 1
+O36.92X2	soins maternels pour un problème foetal, non spécifié, deuxième trimestre, foetus 2
+O36.92X3	soins maternels pour un problème foetal, non spécifié, deuxième trimestre, foetus 3
+O36.92X4	soins maternels pour un problème foetal, non spécifié, deuxième trimestre, foetus 4
+O36.92X5	soins maternels pour un problème foetal, non spécifié, deuxième trimestre, foetus 5
+O36.92X9	soins maternels pour un problème foetal, non spécifié, deuxième trimestre, autre foetus
+O36.93X0	soins maternels pour un problème foetal, non spécifié, troisième trimestre, pas applicable ou non spécifié
+O36.93X1	soins maternels pour un problème foetal, non spécifié, troisième trimestre, foetus 1
+O36.93X2	soins maternels pour un problème foetal, non spécifié, troisième trimestre, foetus 2
+O36.93X3	soins maternels pour un problème foetal, non spécifié, troisième trimestre, foetus 3
+O36.93X4	soins maternels pour un problème foetal, non spécifié, troisième trimestre, foetus 4
+O36.93X5	soins maternels pour un problème foetal, non spécifié, troisième trimestre, foetus 5
+O36.93X9	soins maternels pour un problème foetal, non spécifié, troisième trimestre, autre foetus
+O40.1XX0	polyhydramnios, premier trimestre, pas applicable ou non spécifié
+O40.1XX1	polyhydramnios, premier trimestre, foetus 1
+O40.1XX2	polyhydramnios, premier trimestre, foetus 2
+O40.1XX3	polyhydramnios, premier trimestre, foetus 3
+O40.1XX4	polyhydramnios, premier trimestre, foetus 4
+O40.1XX5	polyhydramnios, premier trimestre, foetus 5
+O40.1XX9	polyhydramnios, premier trimestre, autre foetus
+O40.2XX0	polyhydramnios, deuxième trimestre, pas applicable ou non spécifié
+O40.2XX1	polyhydramnios, deuxième trimestre, foetus 1
+O40.2XX2	polyhydramnios, deuxième trimestre, foetus 2
+O40.2XX3	polyhydramnios, deuxième trimestre, foetus 3
+O40.2XX4	polyhydramnios, deuxième trimestre, foetus 4
+O40.2XX5	polyhydramnios, deuxième trimestre, foetus 5
+O40.2XX9	polyhydramnios, deuxième trimestre, autre foetus
+O40.3XX0	polyhydramnios, troisième trimestre, pas applicable ou non spécifié
+O40.3XX1	polyhydramnios, troisième trimestre, foetus 1
+O40.3XX2	polyhydramnios, troisième trimestre, foetus 2
+O40.3XX3	polyhydramnios, troisième trimestre, foetus 3
+O40.3XX4	polyhydramnios, troisième trimestre, foetus 4
+O40.3XX5	polyhydramnios, troisième trimestre, foetus 5
+O40.3XX9	polyhydramnios, troisième trimestre, autre foetus
+O40.9XX0	polyhydramnios, trimestre non spécifié, pas applicable ou non spécifié
+O40.9XX1	polyhydramnios, trimestre non spécifié, foetus 1
+O40.9XX2	polyhydramnios, trimestre non spécifié, foetus 2
+O40.9XX3	polyhydramnios, trimestre non spécifié, foetus 3
+O40.9XX4	polyhydramnios, trimestre non spécifié, foetus 4
+O40.9XX5	polyhydramnios, trimestre non spécifié, foetus 5
+O40.9XX9	polyhydramnios, trimestre non spécifié, autre foetus
+O41.00X0	oligohydramnios, trimestre non spécifié, pas applicable ou non spécifié
+O41.00X1	oligohydramnios, trimestre non spécifié, foetus 1
+O41.00X2	oligohydramnios, trimestre non spécifié, foetus 2
+O41.00X3	oligohydramnios, trimestre non spécifié, foetus 3
+O41.00X4	oligohydramnios, trimestre non spécifié, foetus 4
+O41.00X5	oligohydramnios, trimestre non spécifié, foetus 5
+O41.00X9	oligohydramnios, trimestre non spécifié, autre foetus
+O41.01X0	oligohydramnios, premier trimestre, pas applicable ou non spécifié
+O41.02X3	oligohydramnios, deuxième trimestre, foetus 3
+O41.02X4	oligohydramnios, deuxième trimestre, foetus 4
+O41.02X5	oligohydramnios, deuxième trimestre, foetus 5
+O41.02X9	oligohydramnios, deuxième trimestre, autre foetus
+O41.03X0	oligohydramnios, troisième trimestre, pas applicable ou non spécifié
+O41.03X1	oligohydramnios, troisième trimestre, foetus 1
+O41.03X2	oligohydramnios, troisième trimestre, foetus 2
+O41.03X3	oligohydramnios, troisième trimestre, foetus 3
+O41.03X4	oligohydramnios, troisième trimestre, foetus 4
+O41.03X5	oligohydramnios, troisième trimestre, foetus 5
+O41.03X9	oligohydramnios, troisième trimestre, autre foetus
+O41.1010	infection du sac amniotique et des membranes, non spécifiée, premier trimestre, pas applicable ou non spécifié
+O41.1011	infection du sac amniotique et des membranes, non spécifiée, premier trimestre, foetus 1
+O41.1012	infection du sac amniotique et des membranes, non spécifiée, premier trimestre, foetus 2
+O41.1013	infection du sac amniotique et des membranes, non spécifiée, premier trimestre, foetus 3
+O41.1014	infection du sac amniotique et des membranes, non spécifiée, premier trimestre, foetus 4
+O41.1015	infection du sac amniotique et des membranes, non spécifiée, premier trimestre, foetus 5
+O41.1019	infection du sac amniotique et des membranes, non spécifiée, premier trimestre, autre foetus
+O41.1020	infection du sac amniotique et des membranes, non spécifiée, deuxième trimestre, pas applicable ou non spécifié
+O41.1021	infection du sac amniotique et des membranes, non spécifiée, deuxième trimestre, foetus 1
+O41.1022	infection du sac amniotique et des membranes, non spécifiée, deuxième trimestre, foetus 2
+O41.1023	infection du sac amniotique et des membranes, non spécifiée, deuxième trimestre, foetus 3
+O41.1024	infection du sac amniotique et des membranes, non spécifiée, deuxième trimestre, foetus 4
+O41.1025	infection du sac amniotique et des membranes, non spécifiée, deuxième trimestre, foetus 5
+O41.1029	infection du sac amniotique et des membranes, non spécifiée, deuxième trimestre, autre foetus
+O41.1030	infection du sac amniotique et des membranes, non spécifiée, troisième trimestre, pas applicable ou non spécifié
+O41.1031	infection du sac amniotique et des membranes, non spécifiée, troisième trimestre, foetus 1
+O41.1032	infection du sac amniotique et des membranes, non spécifiée, troisième trimestre, foetus 2
+O41.1033	infection du sac amniotique et des membranes, non spécifiée, troisième trimestre, foetus 3
+O41.1034	infection du sac amniotique et des membranes, non spécifiée, troisième trimestre, foetus 4
+O41.1035	infection du sac amniotique et des membranes, non spécifiée, troisième trimestre, foetus 5
+O41.1039	infection du sac amniotique et des membranes, non spécifiée, troisième trimestre, autre foetus
+O41.1090	infection du sac amniotique et des membranes, non spécifiée, trimestre non spécifié, pas applicable ou non spécifié
+O41.1091	infection du sac amniotique et des membranes, non spécifiée, trimestre non spécifié, foetus 1
+O41.1092	infection du sac amniotique et des membranes, non spécifiée, trimestre non spécifié, foetus 2
+O41.1093	infection du sac amniotique et des membranes, non spécifiée, trimestre non spécifié, foetus 3
+O41.1094	infection du sac amniotique et des membranes, non spécifiée, trimestre non spécifié, foetus 4
+O41.1095	infection du sac amniotique et des membranes, non spécifiée, trimestre non spécifié, foetus 5
+O41.1099	infection du sac amniotique et des membranes, non spécifiée, trimestre non spécifié, autre foetus
+O41.1210	chorio-amniotite, premier trimestre, pas applicable ou non spécifié
+O41.1211	chorio-amniotite, premier trimestre, foetus 1
+O41.1212	chorio-amniotite, premier trimestre, foetus 2
+O41.1213	chorio-amniotite, premier trimestre, foetus 3
+O41.1214	chorio-amniotite, premier trimestre, foetus 4
+O41.1215	chorio-amniotite, premier trimestre, foetus 5
+O41.1219	chorio-amniotite, premier trimestre, autre foetus
+O41.1220	chorio-amniotite, deuxième trimestre, pas applicable ou non spécifié
+O41.1221	chorio-amniotite, deuxième trimestre, foetus 1
+O41.1222	chorio-amniotite, deuxième trimestre, foetus 2
+O41.1223	chorio-amniotite, deuxième trimestre, foetus 3
+O41.1224	chorio-amniotite, deuxième trimestre, foetus 4
+O41.1225	chorio-amniotite, deuxième trimestre, foetus 5
+O41.1229	chorio-amniotite, deuxième trimestre, autre foetus
+O41.1230	chorio-amniotite, troisième trimestre, pas applicable ou non spécifié
+O41.1231	chorio-amniotite, troisième trimestre, foetus 1
+O41.1232	chorio-amniotite, troisième trimestre, foetus 2
+O41.1233	chorio-amniotite, troisième trimestre, foetus 3
+O41.1234	chorio-amniotite, troisième trimestre, foetus 4
+O41.1235	chorio-amniotite, troisième trimestre, foetus 5
+O41.1239	chorio-amniotite, troisième trimestre, autre foetus
+O41.1290	chorio-amniotite, trimestre non spécifié, pas applicable ou non spécifié
+O41.1291	chorio-amniotite, trimestre non spécifié, foetus 1
+O41.1292	chorio-amniotite, trimestre non spécifié, foetus 2
+O41.1293	chorio-amniotite, trimestre non spécifié, foetus 3
+O41.1294	chorio-amniotite, trimestre non spécifié, foetus 4
+O41.1295	chorio-amniotite, trimestre non spécifié, foetus 5
+O41.1299	chorio-amniotite, trimestre non spécifié, autre foetus
+O41.1410	placentite, premier trimestre, pas applicable ou non spécifié
+O41.1411	placentite, premier trimestre, foetus 1
+O41.1412	placentite, premier trimestre, foetus 2
+O41.1413	placentite, premier trimestre, foetus 3
+O41.1414	placentite, premier trimestre, foetus 4
+O41.1415	placentite, premier trimestre, foetus 5
+O41.1419	placentite, premier trimestre, autre foetus
+O41.1420	placentite, deuxième trimestre, pas applicable ou non spécifié
+O41.1421	placentite, deuxième trimestre, foetus 1
+O41.1422	placentite, deuxième trimestre, foetus 2
+O41.1423	placentite, deuxième trimestre, foetus 3
+O41.1424	placentite, deuxième trimestre, foetus 4
+O41.1425	placentite, deuxième trimestre, foetus 5
+O41.1429	placentite, deuxième trimestre, autre foetus
+O41.1430	placentite, deuxième trimestre, pas applicable ou non spécifié
+O41.1431	placentite, troisième trimestre, foetus 1
+O41.1432	placentite, troisième trimestre, foetus 2
+O41.1433	placentite, troisième trimestre, foetus 3
+O41.1434	placentite, troisième trimestre, foetus 4
+O41.1435	placentite, troisième trimestre, foetus 5
+O41.1439	placentite, troisième trimestre, autre foetus
+O41.1490	placentite, trimestre non spécifié, pas applicable ou non spécifié
+O41.1491	placentite, trimestre non spécifié, foetus 1
+O41.1492	placentite, trimestre non spécifié, foetus 2
+O41.1493	placentite, trimestre non spécifié, foetus 3
+O41.1494	placentite, trimestre non spécifié, foetus 4
+O41.1495	placentite, trimestre non spécifié, foetus 5
+O41.1499	placentite, trimestre non spécifié, autre foetus
+O41.8X10	d'autres troubles spécifiés du liquide amniotique et des membranes, premier trimestre, pas applicable ou non spécifié
+O41.8X11	d'autres troubles spécifiés du liquide amniotique et des membranes, premier trimestre, foetus 1
+O41.8X12	d'autres troubles spécifiés du liquide amniotique et des membranes, premier trimestre, foetus 2
+O41.8X13	d'autres troubles spécifiés du liquide amniotique et des membranes, premier trimestre, foetus 3
+O41.8X14	d'autres troubles spécifiés du liquide amniotique et des membranes, premier trimestre, foetus 4
+O41.8X15	d'autres troubles spécifiés du liquide amniotique et des membranes, premier trimestre, foetus 5
+O41.8X19	d'autres troubles spécifiés du liquide amniotique et des membranes, premier trimestre, autre foetus
+O41.8X20	d'autres troubles spécifiés du liquide amniotique et des membranes, deuxième trimestre, pas applicable ou non spécifié
+O41.8X21	d'autres troubles spécifiés du liquide amniotique et des membranes, deuxième trimestre, foetus 1
+O41.8X22	d'autres troubles spécifiés du liquide amniotique et des membranes, deuxième trimestre, foetus 2
+O41.8X23	d'autres troubles spécifiés du liquide amniotique et des membranes, deuxième trimestre, foetus 3
+O41.8X24	d'autres troubles spécifiés du liquide amniotique et des membranes, deuxième trimestre, foetus 4
+O41.8X25	d'autres troubles spécifiés du liquide amniotique et des membranes, deuxième trimestre, foetus 5
+O41.8X29	d'autres troubles spécifiés du liquide amniotique et des membranes, deuxième trimestre, autre foetus
+O41.8X30	d'autres troubles spécifiés du liquide amniotique et des membranes, troisième trimestre, pas applicable ou non spécifié
+O41.8X31	d'autres troubles spécifiés du liquide amniotique et des membranes, troisième trimestre, foetus 1
+O41.8X32	d'autres troubles spécifiés du liquide amniotique et des membranes, troisième trimestre, foetus 2
+O41.8X33	d'autres troubles spécifiés du liquide amniotique et des membranes, troisième trimestre, foetus 3
+O41.8X34	d'autres troubles spécifiés du liquide amniotique et des membranes, troisième trimestre, foetus 4
+O41.8X35	d'autres troubles spécifiés du liquide amniotique et des membranes, troisième trimestre, foetus 5
+O41.8X39	d'autres troubles spécifiés du liquide amniotique et des membranes, troisième trimestre, autre foetus
+O41.8X90	d'autres troubles spécifiés du liquide amniotique et des membranes, trimestre non spécifié, pas applicable ou non spécifié
+O41.8X91	d'autres troubles spécifiés du liquide amniotique et des membranes, trimestre non spécifié, foetus 1
+O41.8X92	d'autres troubles spécifiés du liquide amniotique et des membranes, trimestre non spécifié, foetus 2
+O41.8X93	d'autres troubles spécifiés du liquide amniotique et des membranes, trimestre non spécifié, foetus 3
+O41.8X94	d'autres troubles spécifiés du liquide amniotique et des membranes, trimestre non spécifié, foetus 4
+O41.8X95	d'autres troubles spécifiés du liquide amniotique et des membranes, trimestre non spécifié, foetus 5
+O41.8X99	d'autres troubles spécifiés du liquide amniotique et des membranes, trimestre non spécifié, autre foetus
+O41.90X0	trouble du liquide amniotique et des membranes, non spécifié trimestre non spécifié, pas applicable ou non spécifié
+O41.90X1	trouble du liquide amniotique et des membranes, non spécifié trimestre non spécifié, foetus 1
+O41.90X2	trouble du liquide amniotique et des membranes, non spécifié trimestre non spécifié, foetus 2
+O41.90X3	trouble du liquide amniotique et des membranes, non spécifié trimestre non spécifié, foetus 3
+O41.90X4	trouble du liquide amniotique et des membranes, non spécifié trimestre non spécifié, foetus 4
+O41.90X5	trouble du liquide amniotique et des membranes, non spécifié trimestre non spécifié, foetus 5
+O41.90X9	trouble du liquide amniotique et des membranes, non spécifié trimestre non spécifié, autre foetus
+O41.91X0	trouble du liquide amniotique et des membranes, non spécifié premier trimestre, pas applicable ou non spécifié
+O41.91X1	trouble du liquide amniotique et des membranes, non spécifié premier trimestre, foetus 1
+O41.91X2	trouble du liquide amniotique et des membranes, non spécifié premier trimestre, foetus 2
+O41.91X3	trouble du liquide amniotique et des membranes, non spécifié premier trimestre, foetus 3
+O41.91X4	trouble du liquide amniotique et des membranes, non spécifié premier trimestre, foetus 4
+O41.91X5	trouble du liquide amniotique et des membranes, non spécifié premier trimestre, foetus 5
+O41.91X9	trouble du liquide amniotique et des membranes, non spécifié premier trimestre, autre foetus
+O41.92X0	trouble du liquide amniotique et des membranes, non spécifié deuxième trimestre, pas applicable ou non spécifié
+O41.92X1	trouble du liquide amniotique et des membranes, non spécifié deuxième trimestre, foetus 1
+O41.92X2	trouble du liquide amniotique et des membranes, non spécifié deuxième trimestre, foetus 2
+O41.92X3	trouble du liquide amniotique et des membranes, non spécifié deuxième trimestre, foetus 3
+O41.92X4	trouble du liquide amniotique et des membranes, non spécifié deuxième trimestre, foetus 4
+O41.92X5	trouble du liquide amniotique et des membranes, non spécifié deuxième trimestre, foetus 5
+O41.92X9	trouble du liquide amniotique et des membranes, non spécifié deuxième trimestre, autre foetus
+O41.93X0	trouble du liquide amniotique et des membranes, non spécifié troisième trimestre, pas applicable ou non spécifié
+O41.93X1	trouble du liquide amniotique et des membranes, non spécifié troisième trimestre, foetus 1
+O41.93X2	trouble du liquide amniotique et des membranes, non spécifié troisième trimestre, foetus 2
+O41.93X3	trouble du liquide amniotique et des membranes, non spécifié troisième trimestre, foetus 3
+O41.93X4	trouble du liquide amniotique et des membranes, non spécifié troisième trimestre, foetus 4
+O41.93X5	trouble du liquide amniotique et des membranes, non spécifié troisième trimestre, foetus 5
+O41.93X9	trouble du liquide amniotique et des membranes, non spécifié troisième trimestre, autre foetus
+O42.0	rupture prématurée des membranes, début du travail dans les 24 heures, semaines entières de la gestation non spécifiées
+O42.11	rupture prématurée des membranes avant terme, début du travail dans les 24 heures, premier trimestre
+O42.12	rupture prématurée des membranes avant terme, début du travail dans les 24 heures, deuxième trimestre
+O42.13	rupture prématurée des membranes avant terme, début du travail dans les 24 heures, troisième trimestre
+O42.19	rupture prématurée des membranes avant terme, début du travail dans les 24 heures, trimestre non spécifié
+O42.2	rupture prématurée des membranes à terme, début du travail dans les 24 heures
+O42.10	rupture prématurée des membranes, début du travail au-delà de 24 heures, semaines entières de la gestation non spécifiées
+O42.111	rupture prématurée des membranes avant terme, début du travail au-delà de 24 heures, premier trimestre
+O42.112	rupture prématurée des membranes avant terme, début du travail au-delà de 24 heures, deuxième trimestre
+O42.113	rupture prématurée des membranes avant terme, début du travail au-delà de 24 heures, troisième trimestre
+O42.119	rupture prématurée des membranes avant terme, début du travail au-delà de 24 heures, trimestre non spécifié
+O42.12	rupture prématurée des membranes à terme, début du travail au-delà de 24 heures
+O42.90	rupture prématurée des membranes, durée entre la rupture et le début du travail non spécifiée, semaines entières de la gestation non spécifiées
+O42.911	rupture prématurée des membranes avant terme, durée entre la rupture et le début du travail non spécifiée, premier trimestre
+O42.912	rupture prématurée des membranes avant terme, durée entre la rupture et le début du travail non spécifiée, deuxième trimestre
+O42.913	rupture prématurée des membranes avant terme, durée entre la rupture et le début du travail non spécifiée, troisième trimestre
+O42.919	rupture prématurée des membranes avant terme, durée entre la rupture et le début du travail non spécifiée, trimestre non spécifié
+O42.92	rupture prématurée des membranes à terme, durée entre la rupture et le début du travail non spécifiée
+O43.11	syndrome de transfusion placentaire foeto-maternelle, premier trimestre
+O43.12	syndrome de transfusion placentaire foeto-maternelle, deuxième trimestre
+O43.13	syndrome de transfusion placentaire foeto-maternelle, troisième trimestre
+O43.19	syndrome de transfusion placentaire foeto-maternelle, trimestre non spécifié
+O43.21	syndrome de transfusion placentaire foeto-foetale, premier trimestre
+O43.22	syndrome de transfusion placentaire foeto-foetale, deuxième trimestre
+O43.23	syndrome de transfusion placentaire foeto-foetale, troisième trimestre
+O43.29	syndrome de transfusion placentaire foeto-foetale, trimestre non spécifié
+O43.101	malformation du placenta, non spécifiée, premier trimestre
+O43.102	malformation du placenta, non spécifiée, deuxième trimestre
+O43.103	malformation du placenta, non spécifiée, troisième trimestre
+O43.109	malformation du placenta, non spécifiée, trimestre non spécifié
+O43.111	placenta circumvallata, premier trimestre
+O43.112	placenta circumvallata, deuxième trimestre
+O43.113	placenta circumvallata, troisième trimestre
+O43.119	placenta circumvallata, trimestre non spécifié
+O43.121	insertion vélamenteuse du cordon ombilical, premier trimestre
+O43.122	insertion vélamenteuse du cordon ombilical, deuxième trimestre
+O43.123	insertion vélamenteuse du cordon ombilical, troisième trimestre
+O43.129	insertion vélamenteuse du cordon ombilical, trimestre non spécifié
+O43.191	autre malformation du placenta, premier trimestre
+O43.192	autre malformation du placenta, deuxième trimestre
+O43.193	autre malformation du placenta, troisième trimestre
+O43.199	autre malformation du placenta, trimestre non spécifié
+O43.211	placenta accreta, premier trimestre
+O43.212	placenta accreta, deuxième trimestre
+O43.213	placenta accreta, troisième trimestre
+O43.219	placenta accreta, trimestre non spécifié
+O43.221	placenta increta, premier trimestre
+O43.222	placenta increta, deuxième trimestre
+O43.223	placenta increta, troisième trimestre
+O43.229	placenta increta, trimestre non spécifié
+O43.231	placenta percreta, premier trimestre
+O43.232	placenta percreta, deuxième trimestre
+O43.233	placenta percreta, troisième trimestre
+O43.239	placenta percreta, trimestre non spécifié
+O43.811	infarctus placentaire, premier trimestre
+O43.812	infarctus placentaire, deuxième trimestre
+O43.813	infarctus placentaire, troisième trimestre
+O43.819	infarctus placentaire, trimestre non spécifié
+O43.891	d'autres troubles placentaires, premier trimestre
+O43.892	d'autres troubles placentaires, deuxième trimestre
+O43.893	d'autres troubles placentaires, troisième trimestre
+O43.899	d'autres troubles placentaires, trimestre non spécifié
+O43.90	trouble placentaire non spécifié, trimestre non spécifié
+O43.91	trouble placentaire non spécifié, premier trimestre
+O43.92	trouble placentaire non spécifié, deuxième trimestre
+O43.93	trouble placentaire non spécifié, troisième trimestre
+O44.0	placenta praevia spécifié sans hémorragie, trimestre non spécifié
+O44.1	placenta praevia spécifié sans hémorragie, premier trimestre
+O44.2	placenta praevia spécifié sans hémorragie, deuxième trimestre
+O44.3	placenta praevia spécifié sans hémorragie, troisième trimestre
+O44.10	placenta praevia avec une hémorragie, trimestre non spécifié
+O44.11	placenta praevia avec une hémorragie, premier trimestre
+O44.12	placenta praevia avec une hémorragie, deuxième trimestre
+O44.13	placenta praevia avec une hémorragie, troisième trimestre
+O45.1	séparation prématuré du placenta avec une anomalie de la coagulation, non spécifiée, premier trimestre
+O45.2	séparation prématuré du placenta avec une anomalie de la coagulation, non spécifiée, deuxième trimestre
+O45.3	séparation prématuré du placenta avec une anomalie de la coagulation, non spécifiée, troisième trimestre
+O45.9	séparation prématuré du placenta avec une anomalie de la coagulation, non spécifiée, trimestre non spécifié
+O45.11	séparation prématuré du placenta avec afibrinogénémie, premier trimestre
+O45.12	séparation prématuré du placenta avec afibrinogénémie, deuxième trimestre
+O45.13	séparation prématuré du placenta avec afibrinogénémie, troisième trimestre
+O45.19	séparation prématuré du placenta avec afibrinogénémie, trimestre non spécifié
+O45.21	séparation prématuré du placenta avec une coagulation intravasculaire disséminée, premier trimestre
+O45.22	séparation prématuré du placenta avec une coagulation intravasculaire disséminée, deuxième trimestre
+O45.23	séparation prématuré du placenta avec une coagulation intravasculaire disséminée, troisième trimestre
+O45.29	séparation prématuré du placenta avec une coagulation intravasculaire disséminée, trimestre non spécifié
+O45.91	séparation prématuré du placenta avec une autre anomalie de la coagulation, premier trimestre
+O45.92	séparation prématuré du placenta avec une autre anomalie de la coagulation, deuxième trimestre
+O45.93	séparation prématuré du placenta avec une autre anomalie de la coagulation, troisième trimestre
+O45.99	séparation prématuré du placenta avec une autre anomalie de la coagulation, trimestre non spécifié
+O45.8X1	autre séparation prématuré du placenta, premier trimestre
+O45.8X2	autre séparation prématuré du placenta, deuxième trimestre
+O45.8X3	autre séparation prématuré du placenta, troisième trimestre
+O45.8X9	autre séparation prématuré du placenta, trimestre non spécifié
+O45.90	séparation prématuré du placenta, non spécifiée, trimestre non spécifié
+O45.91	séparation prématuré du placenta, non spécifiée, premier trimestre
+O45.92	séparation prématuré du placenta, non spécifiée, deuxième trimestre
+O45.93	séparation prématuré du placenta, non spécifiée, troisième trimestre
+O46.1	hémorragie ante-partum avec une anomalie de la coagulation, non spécifiée, premier trimestre
+O46.2	hémorragie ante-partum avec une anomalie de la coagulation, non spécifiée, deuxième trimestre
+O46.3	hémorragie ante-partum avec une anomalie de la coagulation, non spécifiée, troisième trimestre
+O46.9	hémorragie ante-partum avec une anomalie de la coagulation, non spécifiée, trimestre non spécifié
+O46.11	hémorragie ante-partum avec afibrinogénémie, premier trimestre
+O46.12	hémorragie ante-partum avec afibrinogénémie, deuxième trimestre
+O46.13	hémorragie ante-partum avec afibrinogénémie, troisième trimestre
+O46.19	hémorragie ante-partum avec afibrinogénémie, trimestre non spécifié
+O46.21	hémorragie ante-partum avec une coagulation intravasculaire disséminée, premier trimestre
+O46.22	hémorragie ante-partum avec une coagulation intravasculaire disséminée, deuxième trimestre
+O46.23	hémorragie ante-partum avec une coagulation intravasculaire disséminée, troisième trimestre
+O46.29	hémorragie ante-partum avec une coagulation intravasculaire disséminée, trimestre non spécifié
+O46.91	hémorragie ante-partum avec une autre anomalie de la coagulation, premier trimestre
+O46.92	hémorragie ante-partum avec une autre anomalie de la coagulation, deuxième trimestre
+O46.93	hémorragie ante-partum avec une autre anomalie de la coagulation, troisième trimestre
+O46.99	hémorragie ante-partum avec une autre anomalie de la coagulation, trimestre non spécifié
+O46.8X1	autre hémorragie ante-partum, premier trimestre
+O46.8X2	autre hémorragie ante-partum, deuxième trimestre
+O46.8X3	autre hémorragie ante-partum, troisième trimestre
+O46.8X9	autre hémorragie ante-partum, trimestre non spécifié
+O46.90	hémorragie ante-partum, non spécifiée trimestre non spécifié
+O46.91	hémorragie ante-partum, non spécifiée premier trimestre
+O46.92	hémorragie ante-partum, non spécifiée deuxième trimestre
+O46.93	hémorragie ante-partum, non spécifiée troisième trimestre
+O47.0	faux travail avant la fin de la 37ème semaine de gestation, trimestre non spécifié
+O47.2	faux travail avant la fin de la 37ème semaine de gestation, deuxième trimestre
+O47.3	faux travail avant la fin de la 37ème semaine de gestation, troisième trimestre
+O47.1	faux travail à ou après la fin de la 37ème semaine de gestatione gestation
+O47.9	faux travail, non spécifié
+O48.0	grossesse post terme
+O48.1	grossesse prolongée
+O60.0	travail avant terme sans accouchement, trimestre non spécifié
+O60.2	travail avant terme sans accouchement, deuxième trimestre
+O60.3	travail avant terme sans accouchement, troisième trimestre
+O60.10X0	travail avant terme avec un accouchement avant terme, trimestre non spécifié, pas applicable ou non spécifié
+O60.10X1	travail avant terme avec un accouchement avant terme, trimestre non spécifié, foetus 1
+O60.10X2	travail avant terme avec un accouchement avant terme, trimestre non spécifié, foetus 2
+O60.10X3	travail avant terme avec un accouchement avant terme, trimestre non spécifié, foetus 3
+O60.10X4	travail avant terme avec un accouchement avant terme, trimestre non spécifié, foetus 4
+O60.10X5	travail avant terme avec un accouchement avant terme, trimestre non spécifié, foetus 5
+O60.10X9	travail avant terme avec un accouchement avant terme, trimestre non spécifié, autre foetus
+O60.12X0	travail avant terme deuxième trimestre, avec un accouchement avant terme deuxième trimestre, pas applicable ou non spécifié
+O60.12X1	travail avant terme deuxième trimestre, avec un accouchement avant terme deuxième trimestre, foetus 1
+O60.12X2	travail avant terme deuxième trimestre, avec un accouchement avant terme deuxième trimestre, foetus 2
+O60.12X3	travail avant terme deuxième trimestre, avec un accouchement avant terme deuxième trimestre, foetus 3
+O60.12X4	travail avant terme deuxième trimestre, avec un accouchement avant terme deuxième trimestre, foetus 4
+O60.12X5	travail avant terme deuxième trimestre, avec un accouchement avant terme deuxième trimestre, foetus 5
+O60.12X9	travail avant terme deuxième trimestre, avec un accouchement avant terme deuxième trimestre, autre foetus
+O60.13X0	travail avant terme deuxième trimestre, avec un accouchement avant terme troisième trimestre, pas applicable ou non spécifié
+O60.13X1	travail avant terme deuxième trimestre, avec un accouchement avant terme troisième trimestre, foetus 1
+O60.13X2	travail avant terme deuxième trimestre, avec un accouchement avant terme troisième trimestre, foetus 2
+O60.13X3	travail avant terme deuxième trimestre, avec un accouchement avant terme troisième trimestre, foetus 3
+O60.13X4	travail avant terme deuxième trimestre, avec un accouchement avant terme troisième trimestre, foetus 4
+O60.13X5	travail avant terme deuxième trimestre, avec un accouchement avant terme troisième trimestre, foetus 5
+O60.13X9	travail avant terme deuxième trimestre, avec un accouchement avant terme troisième trimestre, autre foetus
+O60.14X0	travail avant terme troisième trimestre, avec un accouchement avant terme troisième trimestre, pas applicable ou non spécifié
+O60.14X1	travail avant terme troisième trimestre, avec un accouchement avant terme troisième trimestre, foetus 1
+O60.14X2	travail avant terme troisième trimestre, avec un accouchement avant terme troisième trimestre, foetus 2
+O60.14X3	travail avant terme troisième trimestre, avec un accouchement avant terme troisième trimestre, foetus 3
+O60.14X4	travail avant terme troisième trimestre, avec un accouchement avant terme troisième trimestre, foetus 4
+O60.14X5	travail avant terme troisième trimestre, avec un accouchement avant terme troisième trimestre, foetus 5
+O60.14X9	travail avant terme troisième trimestre, avec un accouchement avant terme troisième trimestre, autre foetus
+O60.20X0	accouchement à terme avec travail avant terme, trimestre non spécifié, pas applicable ou non spécifié
+O60.20X1	accouchement à terme avec travail avant terme, trimestre non spécifié, foetus 1
+O60.20X2	accouchement à terme avec travail avant terme, trimestre non spécifié, foetus 2
+O60.20X3	accouchement à terme avec travail avant terme, trimestre non spécifié, foetus 3
+O60.20X4	accouchement à terme avec travail avant terme, trimestre non spécifié, foetus 4
+O60.20X5	accouchement à terme avec travail avant terme, trimestre non spécifié, foetus 5
+O60.20X9	accouchement à terme avec travail avant terme, trimestre non spécifié, autre foetus
+O60.22X0	accouchement à terme avec travail avant terme, deuxième trimestre, pas applicable ou non spécifié
+O60.22X1	accouchement à terme avec travail avant terme, deuxième trimestre, foetus 1
+O60.22X2	accouchement à terme avec travail avant terme, deuxième trimestre, foetus 2
+O60.22X3	accouchement à terme avec travail avant terme, deuxième trimestre, foetus 3
+O60.22X4	accouchement à terme avec travail avant terme, deuxième trimestre, foetus 4
+O60.22X5	accouchement à terme avec travail avant terme, deuxième trimestre, foetus 5
+O60.22X9	accouchement à terme avec travail avant terme, deuxième trimestre, autre foetus
+O60.23X0	accouchement à terme avec travail avant terme, troisième trimestre, pas applicable ou non spécifié
+O60.23X1	accouchement à terme avec travail avant terme, troisième trimestre, foetus 1
+O60.23X2	accouchement à terme avec travail avant terme, troisième trimestre, foetus 2
+O60.23X3	accouchement à terme avec travail avant terme, troisième trimestre, foetus 3
+O60.23X4	accouchement à terme avec travail avant terme, troisième trimestre, foetus 4
+O60.23X5	accouchement à terme avec travail avant terme, troisième trimestre, foetus 5
+O60.23X9	accouchement à terme avec travail avant terme, troisième trimestre, autre foetus
+O61.0	échec de l'induction médicale du travail
+O61.1	échec de l'induction instrumentale du travail
+O61.8	échec d'autres inductions du travail
+O61.9	échec de l'induction du travail, non spécifiée
+O62.0	contractions primaires insuffisantes
+O62.1	inertie utérine secondaire
+O62.2	d'autres formes d'inertie utérine
+O62.3	travail trop rapide
+O62.4	contractions utérines hypertoniques, non coordonnées et prolongées
+O62.8	d'autres contractions anormales au cours du travail
+O62.9	contractions anormales au cours du travail, non spécifiée
+O63.0	travail prolongé, première période, dilatation
+O63.1	travail prolongé, deuxième période, expulsion
+O63.2	accouchement retardé du deuxième jumeau, triplé, etc.
+O63.9	travail prolongé, non spécifié
+O64.0XX0	dystocie due à la rotation incomplète de la tête du foetus, pas applicable ou non spécifié
+O64.0XX1	dystocie due à la rotation incomplète de la tête du foetus, foetus 1
+O64.0XX2	dystocie due à la rotation incomplète de la tête du foetus, foetus 2
+O64.0XX3	dystocie due à la rotation incomplète de la tête du foetus, foetus 3
+O64.0XX4	dystocie due à la rotation incomplète de la tête du foetus, foetus 4
+O64.0XX5	dystocie due à la rotation incomplète de la tête du foetus, foetus 5
+O64.0XX9	dystocie due à la rotation incomplète de la tête du foetus, autre foetus
+O64.2XX2	dystocie due à la présentation de la face, foetus 2
+O64.2XX3	dystocie due à la présentation de la face, foetus 3
+O64.2XX4	dystocie due à la présentation de la face, foetus 4
+O64.2XX5	dystocie due à la présentation de la face, foetus 5
+O64.2XX9	dystocie due à la présentation de la face, autre foetus
+O64.3XX0	dystocie due à la présentation du front, pas applicable ou non spécifié
+O64.3XX1	dystocie due à la présentation du front, foetus 1
+O64.3XX2	dystocie due à  la présentation du front, foetus 2
+O64.3XX3	dystocie due à  la présentation du front, foetus 3
+O64.3XX4	dystocie due à  la présentation du front, foetus 4
+O64.3XX5	dystocie due à  la présentation du front, foetus 5
+O64.3XX9	dystocie due à  la présentation du front, autre foetus
+O64.4XX0	dystocie due à la présentation de l'épaule, pas applicable ou non spécifié
+O64.4XX1	dystocie due à la présentation de l'épaule, foetus 1
+O64.4XX2	dystocie due à la présentation de l'épaule, foetus 2
+O64.4XX3	dystocie due à la présentation de l'épaule, foetus 3
+O64.4XX4	dystocie due à la présentation de l'épaule, foetus 4
+O64.4XX5	dystocie due à la présentation de l'épaule, foetus 5
+O64.4XX9	dystocie due à la présentation de l'épaule, autre foetus
+O64.5XX0	dystocie due à une présentation complexe, pas applicable ou non spécifié
+O64.5XX1	dystocie due à une présentation complexe, foetus 1
+O64.5XX2	dystocie due à une présentation complexe, foetus 2
+O64.5XX3	dystocie due à une présentation complexe, foetus 3
+O64.5XX4	dystocie due à une présentation complexe, foetus 4
+O64.5XX5	dystocie due à une présentation complexe, foetus 5
+O64.5XX9	dystocie due à une présentation complexe, autre foetus
+O64.8XX0	dystocie due à une autre malposition et une présentation anormale, pas applicable ou non spécifié
+O64.8XX1	dystocie due à une autre malposition et une présentation anormale, foetus 1
+O64.8XX2	dystocie due à une autre malposition et une présentation anormale, foetus 2
+O64.8XX3	dystocie due à une autre malposition et une présentation anormale, foetus 3
+O64.8XX4	dystocie due à une autre malposition et une présentation anormale, foetus 4
+O64.8XX5	dystocie due à une autre malposition et une présentation anormale, foetus 5
+O64.8XX9	dystocie due à une autre malposition et une présentation anormale, une autre foetus
+O64.9XX0	dystocie due à une malposition et une présentation anormale, non spécifiée, pas applicable ou non spécifié
+O64.9XX1	dystocie due à une malposition et une présentation anormale, non spécifiée, foetus 1
+O64.9XX2	dystocie due à une malposition et une présentation anormale, non spécifiée, foetus 2
+O64.9XX3	dystocie due à une malposition et une présentation anormale, non spécifiée, foetus 3
+O64.9XX4	dystocie due à une malposition et une présentation anormale, non spécifiée, foetus 4
+O64.9XX5	dystocie due à une malposition et une présentation anormale, non spécifiée, foetus 5
+O64.9XX9	dystocie due à une malposition et une présentation anormale, non spécifiée, autre foetus
+O65.0	dystocie due à une déformation pelvienne
+O65.1	dystocie due à un bassin globalement contracté
+O65.2	dystocie due à un rétrecissement du détroit supérieur du bassin
+O65.3	dystocie due à un rétrecissement du détroit inférieur et moyen du bassin
+O65.4	dystocie due à une disproportion foeto-pelvienne, non spécifiée
+O65.5	dystocie due à une anormalité des organes pelviens maternels
+O65.8	dystocie due à d'autres anormalités pelviennes maternelles
+O65.9	dystocie due à une anormalité pelvienne maternelle, non spécifiée
+O66.0	dystocie due à dystocie des épaules
+O66.1	dystocie gémellaire
+O66.2	dystocie due à un foetus anormalement gros
+O66.3	dystocie due à d'autres anormalités foetales
+O66.40	échec de l'épreuve de travail, non spécifié
+O66.41	échec de la tentative d'accouchement vaginale après un antécédent de césarienne
+O66.5	échec de l'application de ventouse et de forceps, non spécifié
+O66.6	dystocie due à d'autres multiples foetus
+O66.8	d'autres dystocies spécifiées
+O66.9	dystocie, non spécifiée
+O67.0	hémorragie au cours de l'accouchement avec une anomalie de la coagulation
+O67.8	d'autres hémorragies au cours de l'accouchement
+O67.9	hémorragie au cours de l'accouchement, non spécifiée
+O68	travail et accouchement compliqués par un trouble de la balance acido-basique foetale
+O69.0XX0	travail et accouchement compliqués par un prolapsus du cordon ombilical, pas applicable ou non spécifié
+O69.0XX1	travail et accouchement compliqués par un prolapsus du cordon ombilical, foetus 1
+O69.0XX2	travail et accouchement compliqués par un prolapsus du cordon ombilical, foetus 2
+O69.0XX3	travail et accouchement compliqués par un prolapsus du cordon ombilical, foetus 3
+O69.0XX4	travail et accouchement compliqués par un prolapsus du cordon ombilical, foetus 4
+O69.0XX5	travail et accouchement compliqués par un prolapsus du cordon ombilical, foetus 5
+O69.0XX9	travail et accouchement compliqués par un prolapsus du cordon ombilical, autre foetus
+O69.1XX0	travail et accouchement compliqués par un circulaire du cordon ombilical, avec compression, pas applicable ou non spécifié
+O69.1XX1	travail et accouchement compliqués par un circulaire du cordon ombilical, avec compression, foetus 1
+O69.1XX2	travail et accouchement compliqués par un circulaire du cordon ombilical, avec compression, foetus 2
+O69.1XX3	travail et accouchement compliqués par un circulaire du cordon ombilical, avec compression, foetus 3
+O69.1XX4	travail et accouchement compliqués par un circulaire du cordon ombilical, avec compression, foetus 4
+O69.1XX5	travail et accouchement compliqués par un circulaire du cordon ombilical, avec compression, foetus 5
+O69.1XX9	travail et accouchement compliqués par un circulaire du cordon ombilical, avec compression, autre foetus
+O69.2XX0	travail et accouchement compliqués par une autre forme d'enchevêtrement du cordon ombilical, avec compression, pas applicable ou non spécifié
+O69.2XX1	travail et accouchement compliqués par une autre forme d'enchevêtrement du cordon ombilical, avec compression, foetus 1
+O69.2XX2	travail et accouchement compliqués par une autre forme d'enchevêtrement du cordon ombilical, avec compression, foetus 2
+O69.2XX3	travail et accouchement compliqués par une autre forme d'enchevêtrement du cordon ombilical, avec compression, foetus 3
+O69.2XX4	travail et accouchement compliqués par une autre forme d'enchevêtrement du cordon ombilical, avec compression, foetus 4
+O69.2XX5	travail et accouchement compliqués par une autre forme d'enchevêtrement du cordon ombilical, avec compression, foetus 5
+O69.2XX9	travail et accouchement compliqués par une autre forme d'enchevêtrement du cordon ombilical, avec compression, autre foetus
+O69.3XX0	travail et accouchement compliqués par un cordon ombilical court, pas applicable ou non spécifié
+O69.3XX1	travail et accouchement compliqués par un cordon ombilical court, foetus 1
+O69.3XX2	travail et accouchement compliqués par un cordon ombilical court, foetus 2
+O69.3XX3	travail et accouchement compliqués par un cordon ombilical court, foetus 3
+O69.3XX4	travail et accouchement compliqués par un cordon ombilical court, foetus 4
+O69.3XX5	travail et accouchement compliqués par un cordon ombilical court, foetus 5
+O69.3XX9	travail et accouchement compliqués par un cordon ombilical court, autre foetus
+O69.4XX0	travail et accouchement compliqués par vasa praevia, pas applicable ou non spécifié
+O69.4XX1	travail et accouchement compliqués par vasa praevia, foetus 1
+O69.4XX2	travail et accouchement compliqués par vasa praevia, foetus 2
+O69.4XX3	travail et accouchement compliqués par vasa praevia, foetus 3
+O69.4XX4	travail et accouchement compliqués par vasa praevia, foetus 4
+O69.4XX5	travail et accouchement compliqués par vasa praevia, foetus 5
+O69.4XX9	travail et accouchement compliqués par vasa praevia, autre foetus
+O69.5XX0	travail et accouchement compliqués par une lésion vasculaire du cordon ombilical, pas applicable ou non spécifié
+O69.5XX1	travail et accouchement compliqués par une lésion vasculaire du cordon ombilical, foetus 1
+O69.5XX2	travail et accouchement compliqués par une lésion vasculaire du cordon ombilical, foetus 2
+O69.5XX3	travail et accouchement compliqués par une lésion vasculaire du cordon ombilical, foetus 3
+O69.5XX4	travail et accouchement compliqués par une lésion vasculaire du cordon ombilical, foetus 4
+O69.5XX5	travail et accouchement compliqués par une lésion vasculaire du cordon ombilical, foetus 5
+O69.5XX9	travail et accouchement compliqués par une lésion vasculaire du cordon ombilical, autre foetus
+O69.81X0	travail et accouchement compliqués par un circulaire du cordon ombilical, sans compression, pas applicable ou non spécifié
+O69.81X1	travail et accouchement compliqués par un circulaire du cordon ombilical, sans compression, foetus 1
+O69.81X2	travail et accouchement compliqués par un circulaire du cordon ombilical, sans compression, foetus 2
+O69.81X3	travail et accouchement compliqués par un circulaire du cordon ombilical, sans compression, foetus 3
+O69.81X4	travail et accouchement compliqués par un circulaire du cordon ombilical, sans compression, foetus 4
+O69.81X5	travail et accouchement compliqués par un circulaire du cordon ombilical, sans compression, foetus 5
+O69.81X9	travail et accouchement compliqués par un circulaire du cordon ombilical, sans compression, autre foetus
+O69.82X0	travail et accouchement compliqués par une autre forme d'enchevêtrement du cordon ombilical, sans compression, pas applicable ou non spécifié
+O69.82X1	travail et accouchement compliqués par une autre forme d'enchevêtrement du cordon ombilical, sans compression, foetus 1
+O69.82X2	travail et accouchement compliqués par une autre forme d'enchevêtrement du cordon ombilical, sans compression, foetus 2
+O69.82X3	travail et accouchement compliqués par une autre forme d'enchevêtrement du cordon ombilical, sans compression, foetus 3
+O69.82X4	travail et accouchement compliqués par une autre forme d'enchevêtrement du cordon ombilical, sans compression, foetus 4
+O69.82X5	travail et accouchement compliqués par une autre forme d'enchevêtrement du cordon ombilical, sans compression, foetus 5
+O69.82X9	travail et accouchement compliqués par une autre forme d'enchevêtrement du cordon ombilical, sans compression, autre foetus
+O69.89X0	travail et accouchement compliqués par d'autres complications du cordon ombilical, pas applicable ou non spécifié
+O69.89X1	travail et accouchement compliqués par d'autres complications du cordon ombilical, foetus 1
+O69.89X2	travail et accouchement compliqués par d'autres complications du cordon ombilical, foetus 2
+O69.89X3	travail et accouchement compliqués par d'autres complications du cordon ombilical, foetus 3
+O69.89X4	travail et accouchement compliqués par d'autres complications du cordon ombilical, foetus 4
+O69.89X5	travail et accouchement compliqués par d'autres complications du cordon ombilical, foetus 5
+O69.89X9	travail et accouchement compliqués par d'autres complications du cordon ombilical, autre foetus
+O69.9XX0	travail et accouchement compliqués par une complication du cordon ombilical, non spécifiée, pas applicable ou non spécifié
+O69.9XX1	travail et accouchement compliqués par une complication du cordon ombilical, non spécifiée, foetus 1
+O69.9XX2	travail et accouchement compliqués par une complication du cordon ombilical, non spécifiée, foetus 2
+O69.9XX3	travail et accouchement compliqués par une complication du cordon ombilical, non spécifiée, foetus 3
+O69.9XX4	travail et accouchement compliqués par une complication du cordon ombilical, non spécifiée, foetus 4
+O69.9XX5	travail et accouchement compliqués par une complication du cordon ombilical, non spécifiée, foetus 5
+O69.9XX9	travail et accouchement compliqués par une complication du cordon ombilical, non spécifiée, autre foetus
+O70.0	lacération de la périnée au cours de l'accouchement, du premier degré
+O70.1	lacération de la périnée au cours de l'accouchement, du deuxième degré
+O70.2	lacération de la périnée au cours de l'accouchement, du troisième degré
+O70.3	lacération de la périnée au cours de l'accouchement, du quatrième degré
+O70.4	déchirure du sphincter anal compliquant l'accouchement non liée à une lacération du troisième degré
+O70.9	lacération de la périnée au cours de l'accouchement, non spécifiée
+O71.0	rupture de l'utérus avant le début du travail, trimestre non spécifié
+O71.2	rupture de l'utérus avant le début du travail, deuxième trimestre
+O71.3	rupture de l'utérus avant le début du travail, troisième trimestre
+O71.1	rupture de l'utérus au cours du travail
+O71.2	inversion de l'utérus post-partum
+O71.3	lacération obstétricale du col de l'utérus
+O71.4	lacération obstétricale vaginale haute isolée
+O71.5	autre lésion obstétricale des organes pelviens
+O71.6	lésion obstétricale des articulations et des ligaments pelviens
+O71.7	hématome obstétricale du bassin
+O71.81	lacération de l'utérus, non classée ailleurs
+O71.82	autre traumatisme spécifié de la périnée et de la vulve
+O71.89	autre traumatisme obstétrical spécifié
+O71.9	traumatisme obstétrical, non spécifié
+O72.0	hémorragie de la troisième phase
+O72.1	d'autres hémorragies immédiates du post-partum
+O72.2	hémorragie du post-partum, retardée et secondaire
+O72.3	anomalie de la coagulation au cours du post-partum
+O73.0	rétention du placenta sans hémorragie
+O73.1	rétention partielle du placenta et des membranes, sans hémorragie
+O74.0	pneumonie par aspiration due à l'anesthésie au cours du travail et de l'accouchement
+O74.1	d'autres complications pulmonaires dues à l'anesthésie au cours du travail et de l'accouchement
+O74.2	complications cardiaques dues à l'anesthésie au cours du travail et de l'accouchement
+O74.3	complications du système nerveux central dues à l'anesthésie au cours du travail et de l'accouchement
+O74.4	réaction toxique à l'anesthésie locale au cours du travail et de l'accouchement
+O74.5	céphalée induite par anesthésie rachidienne et épidurale au cours du travail et de l'accouchement
+O74.6	d'autres complications d'anesthésie rachidienne et épidurale au cours du travail et de l'accouchement
+O74.7	échec ou difficulté d'intubation au cours du travail et de l'accouchement
+O74.8	d'autres complications d'anesthésie au cours du travail et de l'accouchement
+O74.9	complication d'anesthésie au cours du travail et de l'accouchement, non spécifiée
+O75.0	détresse maternelle au cours du travail et de l'accouchement
+O75.1	choc au cours de ou après le travail et l'accouchement
+O75.2	pyrexie au cours du travail, non classée ailleurs
+O75.3	d'autres infections au cours du travail
+O75.4	d'autres complications de chirurgie obstétricale et de procédures
+O75.5	accouchement retardé après la rupture artificielle des membranes
+O75.81	épuisement maternel compliquant le travail et l'accouchement
+O75.82	Début du travail après 37 semaines de gestation, mais avant 39 semaines de gestation complètes, avec accouchement par césarienne
+O75.82	Début du travail après 37 semaines de gestation, mais avant 39 semaines de gestation complètes, avec accouchement par césarienne programmé
+O75.82	Début spontané du travail après 37 semaines de gestation, mais avant 39 semaines de gestation complètes, avec accouchement par césarienne
+O75.82	Début spontané du travail après 37 semaines de gestation, mais avant 39 semaines de gestation complètes, avec accouchement par césarienne programmé
+O75.89	d'autres complications spécifiées du travail et de l'accouchement
+O75.9	complication du travail et d'accouchement, non spécifiée
+O76	anormalité de fréquence et de rythme cardiaque foetal compliquant le travail et l'accouchement
+O77.0	travail et accouchement compliqués par méconium dans le liquide amniotique
+O77.1	stress foetal au cours du travail ou de l'accouchement dû à l'administration de médicaments
+O77.8	travail et accouchement compliqués par une autre évidence de stress foetal
+O77.9	travail et accouchement compliqués par stress foetal, non spécifié
+O80	contact pour un accouchement à terme non compliquée
+O82	contact pour une césarienne sans indication
+O85	sepsis post-partum
+O86.0	infection d'une plaie obstétricale chirurgicale
+O86.11	cervicite après l'accouchement
+O86.12	endométrite après l'accouchement
+O86.13	vaginite après l'accouchement
+O86.19	autre infection du tractus génital après l'accouchement
+O86.20	infection du tractus urinaire après l'accouchement, non spécifiée
+O86.21	infection du rein après l'accouchement
+O86.22	infection de la vessie après l'accouchement
+O86.29	autre infection du tractus urinaire après l' accouchement
+O86.4	pyrexie d'origine inconnue, après l'accouchement
+O86.81	thrombophlébite septique en post-partum
+O86.89	d'autres infections du post-partum spécifiées
+O87.0	thrombophlébite superficielle au cours du post-partum
+O87.1	phlébothrombose profonde au cours du post-partum
+O87.2	hémorroïdes au cours du post-partum
+O87.3	thrombose veineuse cérébrale au cours du post-partum
+O87.4	varices des veines de l'extrémité inférieure au cours du post-partum
+O87.8	d'autres complications veineuses au cours du post-partum
+O87.9	complication veineuse au cours du post-partum, non spécifiée
+O88.11	embolie gazeuse au cours de la grossesse, premier trimestre
+O88.12	embolie gazeuse au cours de la grossesse, deuxième trimestre
+O88.13	embolie gazeuse au cours de la grossesse, troisième trimestre
+O88.19	embolie gazeuse au cours de la grossesse, trimestre non spécifié
+O88.2	embolie gazeuse au cours de l'accouchement
+O88.3	embolie gazeuse au cours du post-partum
+O88.111	embolie amniotique au cours de la grossesse, premier trimestre
+O88.112	embolie amniotique au cours de la grossesse, deuxième trimestre
+O88.113	embolie amniotique au cours de la grossesse, troisième trimestre
+O88.119	embolie amniotique au cours de la grossesse, trimestre non spécifié
+O88.12	embolie amniotique au cours de l'accouchement
+O88.13	embolie amniotique au cours du post-partum
+O88.211	thromboembolie au cours de la grossesse, premier trimestre
+O88.212	thromboembolie au cours de la grossesse, deuxième trimestre
+O88.213	thromboembolie au cours de la grossesse, troisième trimestre
+O88.219	thromboembolie au cours de la grossesse, trimestre non spécifié
+O88.22	thromboembolie au cours de l'accouchement
+O88.23	thromboembolie au cours du post-partum
+O88.311	embolie pyémique et septique au cours de la grossesse, premier trimestre
+O88.312	embolie pyémique et septique au cours de la grossesse, deuxième trimestre
+O88.313	embolie pyémique et septique au cours de la grossesse, troisième trimestre
+O88.319	embolie pyémique et septique au cours de la grossesse, trimestre non spécifié
+O88.32	embolie pyémique et septique au cours de l'accouchement
+O88.33	embolie pyémique et septique au cours du post-partum
+O88.811	autre embolie au cours de la grossesse, premier trimestre
+O88.812	autre embolie au cours de la grossesse, deuxième trimestre
+O88.813	autre embolie au cours de la grossesse, troisième trimestre
+O88.819	autre embolie au cours de la grossesse, trimestre non spécifié
+O88.82	autre embolie au cours de l'accouchement
+O88.83	autre embolie au cours du post-partum
+O89.1	pneumonie par aspiration due à l'anesthésie au cours du post-partum
+O89.9	d'autres complications pulmonaires dues à l'anesthésie au cours du post-partum
+O89.1	complications cardiaques d'anesthésie au cours du post-partum
+O89.2	complications du système nerveux central dues à l'anesthésie au cours du post-partum
+O89.3	réaction toxique à l'anesthésie locale au cours du post-partum
+O89.4	céphalée induite par anesthésie rachidienne et épidurale au cours du post-partum
+O89.5	d'autres complications d'anesthésie rachidienne et épidurale au cours du post-partum
+O89.6	échec ou difficulté d'intubation au cours du post-partum
+O89.8	d'autres complications d'anesthésie au cours du post-partum
+O89.9	complications d'anesthésie au cours du post-partum, non spécifiée
+O90.0	rupture d'une plaie césarienne
+O90.1	rupture d'une plaie périnéale obstétricale
+O90.2	hématome d'une plaie obstétricale
+O90.3	myocardiopathie au cours du post-partum
+O90.4	défaillance rénale aiguë du post-partum
+O90.5	thyroïdite du post-partum
+O90.6	troubles de l'humeur au cours du post-partum
+O90.81	anémie post-partum
+O90.89	d'autres complications du post-partum, non classées ailleurs
+O90.9	complication post-partum, non spécifiée
+O91.11	infection d'un mamelon associée à la grossesse, premier trimestre
+O91.12	infection d'un mamelon associée à la grossesse, deuxième trimestre
+O91.13	infection d'un mamelon associée à la grossesse, troisième trimestre
+O91.19	infection d'un mamelon associée à la grossesse, trimestre non spécifié
+O91.2	infection de mamelon associée au post-partum
+O91.3	infection d'un mamelon associée à la lactation
+O91.111	abcès du sein associé à la grossesse, premier trimestre
+O91.112	abcès du sein associé à la grossesse, deuxième trimestre
+O91.113	abcès du sein associé à la grossesse, troisième trimestre
+O91.119	abcès du sein associé à la grossesse, trimestre non spécifié
+O91.12	abcès de sein associé au post-partum
+O91.13	abcès du sein associé à la lactation
+O91.211	mastite non purulente associée à la grossesse, premier trimestre
+O91.212	mastite non purulente associée à la grossesse, deuxième trimestre
+O91.213	mastite non purulente associée à la grossesse, troisième trimestre
+O91.219	mastite non purulente associée à la grossesse, trimestre non spécifié
+O91.22	mastite non purulente associée au post-partum
+O91.23	mastite non purulente associée à la lactation
+O92.11	mamelon rétracté associé à la grossesse, premier trimestre
+O92.12	mamelon rétracté associé à la grossesse, deuxième trimestre
+O92.13	mamelon rétracté associé à la grossesse, troisième trimestre
+O92.19	mamelon rétracté associé à la grossesse, trimestre non spécifié
+O92.2	mamelon rétracté associé au post-partum
+O92.3	mamelon rétracté associé à la lactation
+O92.111	crevasse du mamelon associé à la grossesse, premier trimestre
+O92.112	crevasse du mamelon associé à la grossesse, deuxième trimestre
+O92.113	crevasse du mamelon associé à la grossesse, troisième trimestre
+O92.119	crevasse du mamelon associé à la grossesse, trimestre non spécifié
+O92.12	crevasse du mamelon associé au post-partum
+O92.13	crevasse du mamelon associé à la lactation
+O92.20	trouble non spécifié du sein associé à la grossesse, et  au post-partum
+O92.29	d'autres troubles du sein associés à la grossesse et au post-partum
+O92.3	agalactie
+O92.4	hypogalactie
+O92.5	suppression de lactation
+O92.6	galactorrhée
+O92.70	troubles non spécifiés de la lactation
+O92.79	d'autres troubles de la lactation
+O94	séquelles de complications de la grossesse, de l'accouchement et du post-partum
+O98.11	tuberculose compliquant la grossesse, premier trimestre
+O98.12	tuberculose compliquant la grossesse, deuxième trimestre
+O98.13	tuberculose compliquant la grossesse, troisième trimestre
+O98.19	tuberculose compliquant la grossesse, trimestre non spécifié
+O98.2	tuberculose compliquant l'accouchement
+O98.3	tuberculose compliquant le post-partum
+O98.111	syphilis compliquant la grossesse, premier trimestre
+O98.112	syphilis compliquant la grossesse, deuxième trimestre
+O98.113	syphilis compliquant la grossesse, troisième trimestre
+O98.119	syphilis compliquant la grossesse, trimestre non spécifié
+O98.12	syphilis compliquant l'accouchement
+O98.13	syphilis compliquant le post-partum
+O98.211	gonorrhée compliquant la grossesse, premier trimestre
+O98.212	gonorrhée compliquant la grossesse, deuxième trimestre
+O98.213	gonorrhée compliquant la grossesse, troisième trimestre
+O98.219	gonorrhée compliquant la grossesse, trimestre non spécifié
+O98.22	gonorrhée compliquant l'accouchement
+O98.23	gonorrhée compliquant le post-partum
+O98.311	d'autres infections avec un mode de transmission  essentiellement sexuel compliquant la grossesse, premier trimestre
+O98.312	d'autres infections avec un mode de transmission essentiellement sexuel compliquant la grossesse, deuxième trimestre
+O98.313	d'autres infections avec un mode de transmission essentiellement sexuel compliquant la grossesse, troisième trimestre
+O98.319	d'autres infections avec un mode de transmission essentiellement sexuel compliquant la grossesse, trimre non spécifié
+O98.32	d'autres infections avec un mode de transmission essentiellement sexuel compliquant l'accouchement
+O98.33	d'autres infections avec un mode de transmission essentiellement sexuel compliquant le post-partum
+O98.411	hépatite virale compliquant la grossesse, premier trimestre
+O98.412	hépatite virale compliquant la grossesse, deuxième trimestre
+O98.413	hépatite virale compliquant la grossesse, troisième trimestre
+O98.419	hépatite virale compliquant la grossesse, trimestre non spécifié
+O98.42	hépatite virale compliquant l'accouchement
+O98.43	hépatite virale compliquant le post-partum
+O98.511	d'autres maladies virales compliquant la grossesse, premier trimestre
+O98.512	d'autres maladies virales compliquant la grossesse, deuxième trimestre
+O98.513	d'autres maladies virales compliquant la grossesse, troisième trimestre
+O98.519	d'autres maladies virales compliquant la grossesse, trimestre non spécifié
+O98.52	d'autres maladies virales compliquant l'accouchement
+O98.53	d'autres maladies virales compliquant le post-partum
+O98.611	maladies à protozoaires compliquant la grossesse, premier trimestre
+O98.612	maladies à protozoaires compliquant la grossesse, deuxième trimestre
+O98.613	maladies à protozoaires compliquant la grossesse, troisième trimestre
+O98.619	maladies à protozoaires compliquant la grossesse, trimestre non spécifié
+O98.62	maladies à protozoaires compliquant l'accouchement
+O98.63	maladies à protozoaires compliquant le post-partum
+O98.711	immunodéficience humaine virale [VIH] compliquant la grossesse, premier trimestre
+O98.712	immunodéficience humaine virale [VIH] compliquant la grossesse, deuxième trimestre
+O98.713	immunodéficience humaine virale [VIH] compliquant la grossesse, troisième trimestre
+O98.719	immunodéficience humaine virale [VIH] compliquant la grossesse, trimestre non spécifié
+O98.72	immunodéficience humaine virale [VIH] compliquant l'accouchement
+O98.73	immunodéficience humaine virale [VIH] compliquant le post-partum
+O98.811	d'autres maladies infectieuses et parasitaires maternelles compliquant la grossesse, premier trimestre
+O98.812	d'autres maladies infectieuses et parasitaires maternelles compliquant la grossesse, deuxième trimestre
+O98.813	d'autres maladies infectieuses et parasitaires maternelles compliquant la grossesse, troisième trimestre
+O98.819	d'autres maladies infectieuses et parasitaires maternelles compliquant la grossesse, trimestre non spécifié
+O98.82	d'autres maladies infectieuses et parasitaires maternelles compliquant l'accouchement
+O98.83	d'autres maladies infectieuses et parasitaires maternelles compliquant le post-partum
+O98.911	maladie infectieuse et parasitaire maternelle non spécifiée compliquant la grossesse, premier trimestre
+O98.912	maladie infectieuse et parasitaire maternelle non spécifiée compliquant la grossesse, deuxième trimestre
+O98.913	maladie infectieuse et parasitaire maternelle non spécifiée compliquant la grossesse, troisième trimestre
+O98.919	maladie infectieuse et parasitaire maternelle non spécifiée compliquant la grossesse, trimestre non spécifié
+O98.92	maladie infectieuse et parasitaire maternelle non spécifiée compliquant l'accouchement
+O99.2	anémie compliquant l'accouchement
+O99.3	anémie compliquant le post-partum
+O99.111	d'autres maladies du sang et des organes hématopoïétiques et des certains troubles impliquant le système immunitaire compliquant la grossesse, premier trimestre
+O99.112	d'autres maladies du sang et des organes hématopoïétiques et des certains troubles impliquant le système immunitaire compliquant la grossesse, deuxième trimestre
+O99.113	d'autres maladies du sang et des organes hématopoïétiques et des certains troubles impliquant le système immunitaire compliquant la grossesse, troisième trimestre
+O99.119	d'autres maladies du sang et des organes hématopoïétiques et des certains troubles impliquant le système immunitaire compliquant la grossesse, trimestre non spécifié
+O99.12	d'autres maladies du sang et des organes hématopoïétiques et des certains troubles impliquant le système immunitaire compliquant l'accouchement
+O99.13	d'autres maladies du sang et des organes hématopoïétiques et des certains troubles impliquant le système immunitaire compliquant le post-partum
+O99.210	obésité compliquant la grossesse, trimestre non spécifié
+O99.211	obésité compliquant la grossesse, premier trimestre
+O99.212	obésité compliquant la grossesse, deuxième trimestre
+O99.213	obésité compliquant la grossesse, troisième trimestre
+O99.214	obésité compliquant l'accouchement
+O99.215	obésité compliquant le post-partum
+O99.280	maladies endocriniennes, nutritionnelles et métaboliques compliquant la grossesse, trimestre non spécifié
+O99.281	maladies endocriniennes, nutritionnelles et métaboliques compliquant la grossesse, premier trimestre
+O99.282	maladies endocriniennes, nutritionnelles et métaboliques compliquant la grossesse, deuxième trimestre
+O99.283	maladies endocriniennes, nutritionnelles et métaboliques compliquant la grossesse, troisième trimestre
+O99.284	maladies endocriniennes, nutritionnelles et métaboliques compliquant l'accouchement
+O99.285	maladies endocriniennes, nutritionnelles et métaboliques compliquant le post-partum
+O99.310	consommation d'alcool compliquant la grossesse, trimestre non spécifié
+O99.311	consommation d'alcool compliquant la grossesse, premier trimestre
+O99.312	consommation d'alcool compliquant la grossesse, deuxième trimestre
+O99.313	consommation d'alcool compliquant la grossesse, troisième trimestre
+O99.314	consommation d'alcool compliquant l'accouchement
+O99.315	consommation d'alcool compliquant le post-partum
+O99.320	consommation de médicaments compliquant la grossesse, trimestre non spécifié
+O99.321	consommation de médicaments compliquant la grossesse, premier trimestre
+O99.322	consommation de médicaments compliquant la grossesse, deuxième trimestre
+O99.323	consommation de médicaments compliquant la grossesse, troisième trimestre
+O99.324	consommation de médicaments compliquant l'accouchement
+O99.325	consommation de médicaments compliquant le post-partum
+O99.330	tabagisme compliquant la grossesse, trimestre non spécifié
+O99.331	tabagisme compliquant la grossesse, premier trimestre
+O99.332	tabagisme compliquant la grossesse, deuxième trimestre
+O99.333	tabagisme compliquant la grossesse, troisième trimestre
+O99.334	tabagisme compliquant l'accouchement
+O99.335	tabagisme compliquant le post-partum
+O99.330	tabagisme compliquant la grossesse, trimestre non spécifié
+O99.331	tabagisme compliquant la grossesse, premier trimestre
+O99.332	tabagisme compliquant la grossesse, deuxième trimestre
+O99.333	tabagisme compliquant la grossesse, troisième trimestre
+O99.334	tabagisme compliquant l'accouchement
+O99.335	tabagisme compliquant le post-partum
+O99.340	d'autres troubles mentaux compliquant la grossesse, trimestre non spécifié
+O99.341	d'autres troubles mentaux compliquant la grossesse, premier trimestre
+O99.342	d'autres troubles mentaux compliquant la grossesse, deuxième trimestre
+O99.343	d'autres troubles mentaux compliquant la grossesse, troisième trimestre
+O99.344	d'autres troubles mentaux compliquant l'accouchement
+O99.345	d'autres troubles mentaux compliquant le post-partum
+O99.350	maladies du système nerveux compliquant la grossesse, trimestre non spécifié
+O99.351	maladies du système nerveux compliquant la grossesse, premier trimestre
+O99.352	maladies du système nerveux compliquant la grossesse, deuxième trimestre
+O99.353	maladies du système nerveux compliquant la grossesse, troisième trimestre
+O99.354	maladies du système nerveux compliquant l'accouchement
+O99.355	maladies du système nerveux compliquant le post-partum
+O99.411	maladies du système circulatoire compliquant la grossesse, premier trimestre
+O99.412	maladies du système circulatoire compliquant la grossesse, deuxième trimestre
+O99.413	maladies du système circulatoire compliquant la grossesse, troisième trimestre
+O99.419	maladies du système circulatoire compliquant la grossesse, trimestre non spécifié
+O99.42	maladies du système circulatoire compliquant l'accouchement
+O99.43	maladies du système circulatoire compliquant le post-partum
+O99.511	maladies du système respiratoire compliquant la grossesse, premier trimestre
+O99.512	maladies du système respiratoire compliquant la grossesse, deuxième trimestre
+O99.513	maladies du système respiratoire compliquant la grossesse, troisième trimestre
+O99.519	maladies du système respiratoire compliquant la grossesse, trimestre non spécifié
+O99.52	maladies du système respiratoire compliquant l'accouchement
+O99.53	maladies du système respiratoire compliquant le post-partum
+O99.611	maladies du système digestif compliquant la grossesse, premier trimestre
+O99.612	maladies du système digestif compliquant la grossesse, deuxième trimestre
+O99.613	maladies du système digestif compliquant la grossesse, troisième trimestre
+O99.619	maladies du système digestif compliquant la grossesse, trimestre non spécifié
+O99.62	maladies du système digestif compliquant l'accouchement
+O99.63	maladies du système digestif compliquant le post-partum
+O99.711	maladies de la peau et du tissu sous-cutané compliquant la grossesse, premier trimestre
+O99.712	maladies de la peau et du tissu sous-cutané compliquant la grossesse, deuxième trimestre
+O99.713	maladies de la peau et du tissu sous-cutané compliquant la grossesse, troisième trimestre
+O99.719	maladies de la peau et du tissu sous-cutané compliquant la grossesse, trimestre non spécifié
+O99.72	maladies de la peau et du tissu sous-cutané compliquant l'accouchement
+O99.73	maladies de la peau et du tissu sous-cutané compliquant  le post-partum
+O99.810	glucose anormale compliquant la grossesse
+O99.814	glucose anormale compliquant l'accouchement
+O99.815	glucose anormale compliquant le post-partum
+O99.820	status porteur de Streptococcus B compliquant la grossesse
+O99.824	status porteur de Streptococcus B compliquant l'accouchement
+O99.825	status porteur de Streptococcus B compliquant le post-partum
+O99.830	status porteur d'une autre infection compliquant la grossesse
+O99.834	status porteur d'une autre infection compliquant l'accouchement
+O99.835	status porteur d'une autre infection compliquant le post-partum
+O99.840	status après chirurgie bariatrique compliquant la grossesse, trimestre non spécifié
+O99.841	status après chirurgie bariatrique compliquant la grossesse, premier trimestre
+O99.842	status après chirurgie bariatrique compliquant la grossesse, deuxième trimestre
+O99.843	status après chirurgie bariatrique compliquant la grossesse, troisième trimestre
+O99.844	status après chirurgie bariatrique compliquant l'accouchement
+O99.845	status après chirurgie bariatrique compliquant le post-partum
+O99.89	d'autres maladies et affections spécifiées compliquant la grossesse, l'accouchement et le post-partum
+O9A.111	néoplasme malin compliquant la grossesse, premier trimestre
+O9A.112	néoplasme malin compliquant la grossesse, deuxième trimestre
+O9A.113	néoplasme malin compliquant la grossesse, troisième trimestre
+O9A.119	néoplasme malin compliquant la grossesse, trimestre non spécifié
+O9A.12	néoplasme malin compliquant l'accouchement
+O9A.13	néoplasme malin compliquant le post-partum
+O9A.211	lésions, empoisonnements et certaines d'autres conséquences de causes externes compliquant la grossesse, premier trimestre
+O9A.212	lésions, empoisonnements et certaines d'autres conséquences de causes externes compliquant la grossesse, deuxième trimestre
+O9A.213	lésions, empoisonnements et certaines d'autres conséquences de causes externes compliquant la grossesse, troisième trimestre
+O9A.219	lésions, empoisonnements et certaines d'autres conséquences de causes externes compliquant la grossesse, trimestre non spécifié
+O9A.22	lésions, empoisonnements et certaines d'autres conséquences de causes externes compliquant l'accouchement
+O9A.23	lésions, empoisonnements et certaines d'autres conséquences de causes externes compliquant le post-partum
+O9A.311	abus physique compliquant la grossesse, premier trimestre
+O9A.312	abus physique compliquant la grossesse, deuxième trimestre
+O9A.313	abus physique compliquant la grossesse, troisième trimestre
+O9A.319	abus physique compliquant la grossesse, trimestre non spécifié
+O9A.32	abus physique compliquant l'accouchement
+O9A.33	abus physique compliquant le post-partum
+O9A.411	abus sexuel compliquant la grossesse, premier trimestre
+O9A.412	abus sexuel compliquant la grossesse, deuxième trimestre
+O9A.413	abus sexuel compliquant la grossesse, troisième trimestre
+O9A.419	abus sexuel compliquant la grossesse, trimestre non spécifié
+O9A.42	abus sexuel compliquant l'accouchement
+O9A.43	abus sexuel compliquant le post-partum
+O9A.511	abus psychologique compliquant la grossesse, premier trimestre
+O9A.512	abus psychologique compliquant la grossesse, deuxième trimestre
+O9A.513	abus psychologique compliquant la grossesse, troisième trimestre
+O9A.519	abus psychologique compliquant la grossesse, trimestre non spécifié
+O9A.52	abus psychologique compliquant l'accouchement
+O9A.53	abus psychologique compliquant le post-partum

@@ -1,0 +1,1484 @@
+Y35.412A	intervention légale avec un traumatisme d'un passant par une baïonnette, contact initial
+Y35.412D	intervention légale avec un traumatisme d'un passant par une baïonnette, contact subséquent
+Y35.412S	intervention légale avec un traumatisme d'un passant par une baïonnette, séquelle
+Y35.413A	intervention légale avec un traumatisme d'un suspect par une baïonnette, contact initial
+Y35.413D	intervention légale avec un traumatisme d'un suspect par une baïonnette, contact subséquent
+Y35.413S	intervention légale avec un traumatisme d'un suspect par une baïonnette, séquelle
+Y36.040A	faits de guerre avec l'explosion d'une torpille, personnel militaire, contact initial
+Y36.040D	faits de guerre avec l'explosion d'une torpille, personnel militaire, contact subséquent
+Y36.040S	faits de guerre avec l'explosion d'une torpille, personnel militaire, séquelle
+Y36.041A	faits de guerre avec l'explosion d'une torpille, personne civile, contact initial
+Y36.041D	faits de guerre avec l'explosion d'une torpille, personne civile, contact subséquent
+Y36.041S	faits de guerre avec l'explosion d'une torpille, personne civile, séquelle
+Y36.490D	faits de guerre avec d'autres formes de guerre conventionnelle, personnel militaire, contact subséquent
+Y36.490S	faits de guerre avec d'autres formes de guerre conventionnelle, personnel militaire, séquelle
+Y36.491A	faits de guerre avec d'autres formes de guerre conventionnelle, personne civile, contact initial
+Y36.491D	faits de guerre avec d'autres formes de guerre conventionnelle, personne civile, contact subséquent
+Y36.491S	faits de guerre avec d'autres formes de guerre conventionnelle, personne civile, séquelle
+Y00.XXXA	agression par un objet contondant, contact initial
+Y00.XXXD	agression par un objet contondant, contact subséquent
+Y00.XXXS	agression par un objet contondant, séquelle
+Y01.XXXA	agression par une poussée dans le vide, contact initial
+Y01.XXXD	agression par une poussée dans le vide, contact subséquent
+Y01.XXXS	agression par une poussée dans le vide, séquelle
+Y02.0XXA	agression en poussant ou en plaçant la victime devant un véhicule motorisé, contact initial
+Y02.0XXD	agression en poussant ou en plaçant la victime devant un véhicule motorisé, contact subséquent
+Y02.0XXS	agression en poussant ou en plaçant la victime devant un véhicule motorisé, séquelle
+Y02.1XXA	agression en poussant ou en plaçant la victime devant un (métro) train, contact initial
+Y02.1XXD	agression en poussant ou en plaçant la victime devant un (métro) train, contact subséquent
+Y02.1XXS	agression en poussant ou en plaçant la victime devant un (métro) train, séquelle
+Y02.8XXA	agression en poussant ou en plaçant la victime devant un autre objet en mouvement, contact initial
+Y02.8XXD	agression en poussant ou en plaçant la victime devant un autre objet en mouvement, contact subséquent
+Y02.8XXS	agression en poussant ou en plaçant la victime devant un autre objet en mouvement, séquelle
+Y03.0XXA	agression par un choc ou un écrasement par un véhicule motorisé, contact initial
+Y03.0XXD	agression par un choc ou un écrasement par un véhicule motorisé, contact subséquent
+Y03.0XXS	agression par un choc ou un écrasement par un véhicule motorisé, séquelle
+Y03.8XXA	autre agression par un crash d'un véhicule motorisé, contact initial
+Y03.8XXD	autre agression par un crash d'un véhicule motorisé, contact subséquent
+Y03.8XXS	autre agression par un crash d'un véhicule motorisé, séquelle
+Y04.0XXA	agression par une rixe ou une bagarre sans arme, contact initial
+Y04.0XXD	agression par une rixe ou une bagarre sans arme, contact subséquent
+Y04.0XXS	agression par une rixe ou une bagarre sans arme, séquelle
+Y04.1XXA	agression par une morsure humaine, contact initial
+Y04.1XXD	agression par une morsure humaine, contact subséquent
+Y04.1XXS	agression par une morsure humaine, séquelle
+Y04.2XXA	agression par une frappe ou un heurt contre une autre personne, contact initial
+Y04.2XXD	agression par une frappe ou un heurt contre une autre personne, contact subséquent
+Y04.2XXS	agression par une frappe ou un heurt contre une autre personne, séquelle
+Y04.8XXA	agression par une autre force physique, contact initial
+Y04.8XXD	agression par une autre force physique, contact subséquent
+Y04.8XXS	agression par une autre force physique, séquelle
+Y07.1	maltraitance et négligence par l'époux
+Y07.2	maltraitance et négligence par l'épouse
+Y07.3	maltraitance et négligence par le partenaire masculin
+Y07.4	maltraitance et négligence par le partenaire féminin
+Y07.11	maltraitance et négligence par le père biologique
+Y07.12	maltraitance et négligence par la mère biologique
+Y07.13	maltraitance et négligence par le père adoptif
+Y07.14	maltraitance et négligence par la mère adoptive
+Y07.410	maltraitance et négligence par le frère
+Y07.411	maltraitance et négligence par la soeur
+Y07.420	maltraitance et négligence par le père nourricier
+Y07.421	maltraitance et négligence par la mère nourricière
+Y07.430	maltraitance et négligence par le beau-père
+Y07.432	maltraitance et négligence par l'ami d'un parent (co-résidant dans le ménage)
+Y07.433	maltraitance et négligence par la belle-mère
+Y07.434	maltraitance et négligence par l'amie d'un parent (co-résidante dans le ménage)
+Y07.435	maltraitance et négligence par un demi-frère
+Y07.436	maltraitance et négligence par une demi-soeur
+Y07.490	maltraitance et négligence par un cousin
+Y07.491	maltraitance et négligence par une cousine
+Y07.499	maltraitance et négligence par un autre membre de famille
+Y07.50	maltraitance et négligence par une personne non spécifiée, non membre de famille
+Y07.510	maltraitance et négligence par un prestataire de soins aux enfants à domicile
+Y07.511	maltraitance et négligence par un prestataire de soins aux enfants dans un centre de soins de jour
+Y07.512	maltraitance et négligence par un prestataire de soins aux adultes à domicile
+Y07.513	maltraitance et négligence par un prestataire de soins aux adultes dans un centre de soins
+Y07.519	maltraitance et négligence par un prestataire de soins de jour non spécifié
+Y07.521	maltraitance et négligence par un prestataire de soins mentales
+Y07.528	maltraitance et négligence par un autre prestataire de soins ou thérapeute
+Y07.529	maltraitance et négligence par un prestataire de soins de santé non spécifié
+Y07.53	maltraitance et négligence par un enseignant ou un instructeur
+Y07.59	maltraitance et négligence par une autre personne non membre de famille
+Y07.9	maltraitance et négligence par un auteur non spécifié
+Y08.01XA	agression par un coup d'une crosse de hockey, contact initial
+Y08.01XD	agression par un coup d'une crosse de hockey, contact subséquent
+Y08.01XS	agression par un coup d'une crosse de hockey, séquelle
+Y08.02XA	agression par un coup d'une batte de baseball, contact initial
+Y08.02XD	agression par un coup d'une batte de baseball, contact subséquent
+Y08.02XS	agression par un coup d'une batte de baseball, séquelle
+Y08.09XA	agression par un coup par un autre type d'équipement sportif spécifié, contact initial
+Y08.09XD	agression par un coup par un autre type d'équipement sportif spécifié, contact subséquent
+Y08.09XS	agression par un coup par un autre type d'équipement sportif spécifié, séquelle
+Y08.81XA	agression par un crash d'un aéronef, contact initial
+Y08.81XD	agression par un crash d'un aéronef, contact subséquent
+Y08.81XS	agression par un crash d'un aéronef, séquelle
+Y08.89XA	agression par d'autres moyens spécifiés, contact initial
+Y08.89XD	agression par d'autres moyens spécifiés, contact subséquent
+Y08.89XS	agression par d'autres moyens spécifiés, séquelle
+Y09	agression par des moyens non spécifiés
+Y21.0XXA	noyade et submersion dans une baignoire, intention indéterminée, contact initial
+Y21.0XXD	noyade et submersion dans une baignoire, intention indéterminée, contact subséquent
+Y21.0XXS	noyade et submersion dans une baignoire, intention indéterminée, séquelle
+Y21.1XXA	noyade et submersion après une chute dans une baignoire, intention indéterminée, contact initial
+Y21.1XXD	noyade et submersion après une chute dans une baignoire, intention indéterminée, contact subséquent
+Y21.1XXS	noyade et submersion après une chute dans une baignoire, intention indéterminée, séquelle
+Y21.2XXA	noyade et submersion dans une piscine, intention indéterminée, contact initial
+Y21.2XXD	noyade et submersion dans une piscine, intention indéterminée, contact subséquent
+Y21.2XXS	noyade et submersion dans une piscine, intention indéterminée, séquelle
+Y21.3XXA	noyade et submersion après une chute dans une piscine, intention indéterminée, contact initial
+Y21.3XXD	noyade et submersion après une chute dans une piscine, intention indéterminée, contact subséquent
+Y21.3XXS	noyade et submersion après une chute dans une piscine, intention indéterminée, séquelle
+Y21.4XXA	noyade et submersion dans des eaux naturelles, intention indéterminée, contact initial
+Y21.4XXD	noyade et submersion dans des eaux naturelles, intention indéterminée, contact subséquent
+Y21.4XXS	noyade et submersion dans des eaux naturelles, intention indéterminée, séquelle
+Y21.8XXA	autre noyade et submersion, intention indéterminée, contact initial
+Y21.8XXD	autre noyade et submersion, intention indéterminée, contact subséquent
+Y21.8XXS	autre noyade et submersion, intention indéterminée, séquelle
+Y21.9XXA	noyade et submersion non spécifiées, intention indéterminée, contact initial
+Y21.9XXD	noyade et submersion non spécifiées, intention indéterminée, contact subséquent
+Y21.9XXS	noyade et submersion non spécifiées, intention indéterminée, séquelle
+Y22.XXXA	décharge d'une arme de poing, intention indéterminée, contact initial
+Y22.XXXD	décharge d'une arme de poing, intention indéterminée, contact subséquent
+Y22.XXXS	décharge d'une arme de poing, intention indéterminée, séquelle
+Y23.0XXA	décharge d'un fusil, intention indéterminée, contact initial
+Y23.0XXD	décharge d'un fusil, intention indéterminée, contact subséquent
+Y23.0XXS	décharge d'un fusil, intention indéterminée, séquelle
+Y23.1XXA	décharge d'un fusil de chasse, intention indéterminée, contact initial
+Y23.1XXD	décharge d'un fusil de chasse, intention indéterminée, contact subséquent
+Y23.1XXS	décharge d'un fusil de chasse, intention indéterminée, séquelle
+Y23.2XXA	décharge d'une arme à feu militaire, intention indéterminée, contact initial
+Y23.2XXD	décharge d'une arme à feu militaire, intention indéterminée, contact subséquent
+Y23.2XXS	décharge d'une arme à feu militaire, intention indéterminée, séquelle
+Y23.3XXA	décharge d'une mitrailleuse, intention indéterminée, contact initial
+Y23.3XXD	décharge d'une mitrailleuse, intention indéterminée, contact subséquent
+Y23.3XXS	décharge d'une mitrailleuse, intention indéterminée, séquelle
+Y23.8XXA	décharge d'une autre arme à feu de plus grande taille, intention indéterminée, contact initial
+Y23.8XXD	décharge d'une autre arme à feu de plus grande taille, intention indéterminée, contact subséquent
+Y23.8XXS	décharge d'une autre arme à feu de plus grande taille, intention indéterminée, séquelle
+Y23.9XXA	décharge d'une arme à feu de plus grande taille non spécifiée, intention indéterminée, contact initial
+Y23.9XXD	décharge d'une arme à feu de plus grande taille non spécifiée, intention indéterminée, contact subséquent
+Y23.9XXS	décharge d'une arme à feu de plus grande taille non spécifiée, intention indéterminée, séquelle
+Y24.0XXA	décharge d'une arme à air comprimé, intention indéterminée, contact initial
+Y24.0XXD	décharge d'une arme à air comprimé, intention indéterminée, contact subséquent
+Y24.0XXS	décharge d'une arme à air comprimé, intention indéterminée, séquelle
+Y24.8XXA	décharge d'une autre arme à feu, intention indéterminée, contact initial
+Y24.8XXD	décharge d'une autre arme à feu, intention indéterminée, contact subséquent
+Y24.8XXS	décharge d'une autre arme à feu, intention indéterminée, séquelle
+Y24.9XXA	décharge d'une arme à feu non spécifiée, intention indéterminée, contact initial
+Y24.9XXD	décharge d'une arme à feu non spécifiée, intention indéterminée, contact subséquent
+Y24.9XXS	décharge d'une arme à feu non spécifiée, intention indéterminée, séquelle
+Y25.XXXA	contact avec un matériel explosif, intention indéterminée, contact initial
+Y25.XXXD	contact avec un matériel explosif, intention indéterminée, contact subséquent
+Y25.XXXS	contact avec un matériel explosif, intention indéterminée, séquelle
+Y26.XXXA	exposition à de la fumée, du feu et des flammes, intention indéterminée, contact initial
+Y26.XXXD	exposition à de la fumée, du feu et des flammes, intention indéterminée, contact subséquent
+Y26.XXXS	exposition à de la fumée, du feu et des flammes, intention indéterminée, séquelle
+Y27.0XXA	contact avec de la vapeur d'eau et des vapeurs chaudes, intention indéterminée, contact initial
+Y27.0XXD	contact avec de la vapeur d'eau et des vapeurs chaudes, intention indéterminée, contact subséquent
+Y27.0XXS	contact avec de la vapeur d'eau et des vapeurs chaudes, intention indéterminée, séquelle
+Y27.1XXA	contact avec de l'eau chaude du robinet, intention indéterminée, contact initial
+Y27.1XXD	contact avec de l'eau chaude du robinet, intention indéterminée, contact subséquent
+Y27.1XXS	contact avec de l'eau chaude du robinet, intention indéterminée, séquelle
+Y27.2XXA	contact avec des liquides chauds, intention indéterminée, contact initial
+Y27.2XXD	contact avec des liquides chauds, intention indéterminée, contact subséquent
+Y27.2XXS	contact avec des liquides chauds, intention indéterminée, séquelle
+Y27.3XXA	contact avec un appareil électro-ménager chaud, intention indéterminée, contact initial
+Y27.3XXD	contact avec un appareil électro-ménager chaud, intention indéterminée, contact subséquent
+Y27.3XXS	contact avec un appareil électro-ménager chaud, intention indéterminée, séquelle
+Y27.8XXA	contact avec d'autres objets chauds, intention indéterminée, contact initial
+Y27.8XXD	contact avec d'autres objets chauds, intention indéterminée, contact subséquent
+Y27.8XXS	contact avec d'autres objets chauds, intention indéterminée, séquelle
+Y27.9XXA	contact avec des objets chauds non spécifiés, intention indéterminée, contact initial
+Y27.9XXD	contact avec des objets chauds non spécifiés, intention indéterminée, contact subséquent
+Y27.9XXS	contact avec des objets chauds non spécifiés, intention indéterminée, séquelle
+Y28.0XXA	contact avec un verre tranchant, intention indéterminée, contact initial
+Y28.0XXD	contact avec un verre tranchant, intention indéterminée, contact subséquent
+Y28.0XXS	contact avec un verre tranchant, intention indéterminée, séquelle
+Y28.1XXA	contact avec un couteau, intention indéterminée, contact initial
+Y28.1XXD	contact avec un couteau, intention indéterminée, contact subséquent
+Y28.1XXS	contact avec un couteau, intention indéterminée, séquelle
+Y28.2XXA	contact avec une épée ou une dague, intention indéterminée, contact initial
+Y28.2XXD	contact avec une épée ou une dague, intention indéterminée, contact subséquent
+Y28.2XXS	contact avec une épée ou une dague, intention indéterminée, séquelle
+Y28.8XXA	contact avec un autre objet tranchant, intention indéterminée, contact initial
+Y28.8XXD	contact avec un autre objet tranchant, intention indéterminée, contact subséquent
+Y28.8XXS	contact avec un autre objet tranchant, intention indéterminée, séquelle
+Y28.9XXA	contact avec un objet tranchant non spécifié, intention indéterminée, contact initial
+Y28.9XXD	contact avec un objet tranchant non spécifié, intention indéterminée, contact subséquent
+Y28.9XXS	contact avec un objet tranchant non spécifié, intention indéterminée, séquelle
+Y29.XXXA	contact avec un objet contondant, intention indéterminée, contact initial
+Y29.XXXD	contact avec un objet contondant, intention indéterminée, contact subséquent
+Y29.XXXS	contact avec un objet contondant, intention indéterminée, séquelle
+Y30.XXXA	chute, saut ou précipitation par une poussée dans le vide, intention indéterminée, contact initial
+Y30.XXXD	chute, saut ou précipitation par une poussée dans le vide, intention indéterminée, contact subséquent
+Y30.XXXS	chute, saut ou précipitation par une poussée dans le vide, intention indéterminée, séquelle
+Y31.XXXA	victime tombée, couchée ou courant devant ou contre un objet en mouvement, intention indéterminée, contact initial
+Y31.XXXD	victime tombée, couchée ou courant devant ou contre un objet en mouvement, intention indéterminée, contact subséquent
+Y31.XXXS	victime tombée, couchée ou courant devant ou contre un objet en mouvement, intention indéterminée, séquelle
+Y32.XXXA	crash d'un véhicule motorisé, intention indéterminée, contact initial
+Y32.XXXD	crash d'un véhicule motorisé, intention indéterminée, contact subséquent
+Y32.XXXS	crash d'un véhicule motorisé, intention indéterminée, séquelle
+Y33.XXXA	d'autres événements spécifiés, intention indéterminée, contact initial
+Y33.XXXD	d'autres événements spécifiés, intention indéterminée, contact subséquent
+Y33.XXXS	d'autres événements spécifiés, intention indéterminée, séquelle
+Y35.001A	intervention légale avec un traumatisme d'un représentant de la loi par la décharge d'une arme à feu non spécifiée, contact initial
+Y35.001D	intervention légale avec un traumatisme d'un représentant de la loi par la décharge d'une arme à feu non spécifiée, contact subséquent
+Y35.001S	intervention légale avec un traumatisme d'un représentant de la loi par la décharge d'une arme à feu non spécifiée, séquelle
+Y35.002A	intervention légale avec un traumatisme d'un passant par la décharge d'une arme à feu non spécifiée, contact initial
+Y35.002D	intervention légale avec un traumatisme d'un passant par la décharge d'une arme à feu non spécifiée, contact subséquent
+Y35.002S	intervention légale avec un traumatisme d'un passant par la décharge d'une arme à feu non spécifiée, séquelle
+Y35.003A	intervention légale avec un traumatisme d'un suspect par la décharge d'une arme à feu non spécifiée, contact initial
+Y35.003D	intervention légale avec un traumatisme d'un suspect par la décharge d'une arme à feu non spécifiée, contact subséquent
+Y35.003S	intervention légale avec un traumatisme d'un suspect par la décharge d'une arme à feu non spécifiée, séquelle
+Y35.011A	intervention légale avec un traumatisme d'un représentant de la loi par une mitrailleuse, contact initial
+Y35.011D	intervention légale avec un traumatisme d'un représentant de la loi par une mitrailleuse, contact subséquent
+Y35.011S	intervention légale avec un traumatisme d'un représentant de la loi par une mitrailleuse, séquelle
+Y35.012A	intervention légale avec un traumatisme d'un passant par une mitrailleuse, contact initial
+Y35.012D	intervention légale avec un traumatisme d'un passant par une mitrailleuse, contact subséquent
+Y35.012S	intervention légale avec un traumatisme d'un passant par une mitrailleuse, séquelle
+Y35.013A	intervention légale avec un traumatisme d'un suspect par une mitrailleuse, contact initial
+Y35.013D	intervention légale avec un traumatisme d'un suspect par une mitrailleuse, contact subséquent
+Y35.013S	intervention légale avec un traumatisme d'un suspect par une mitrailleuse, séquelle
+Y35.021A	intervention légale avec un traumatisme d'un représentant de la loi par une arme de poing, contact initial
+Y35.021D	intervention légale avec un traumatisme d'un représentant de la loi par une arme de poing, contact subséquent
+Y35.021S	intervention légale avec un traumatisme d'un représentant de la loi par une arme de poing, séquelle
+Y35.022A	intervention légale avec un traumatisme d'un passant par une arme de poing, contact initial
+Y35.022D	intervention légale avec un traumatisme d'un passant par une arme de poing, contact subséquent
+Y35.022S	intervention légale avec un traumatisme d'un passant par une arme de poing, séquelle
+Y35.023A	intervention légale avec un traumatisme d'un suspect par une arme de poing, contact initial
+Y35.023D	intervention légale avec un traumatisme d'un suspect par une arme de poing, contact subséquent
+Y35.023S	intervention légale avec un traumatisme d'un suspect par une arme de poing, séquelle
+Y35.031A	intervention légale avec un traumatisme d'un représentant de la loi par un fusil à plomb, contact initial
+Y35.031D	intervention légale avec un traumatisme d'un représentant de la loi par un fusil à plomb, contact subséquent
+Y35.031S	intervention légale avec un traumatisme d'un représentant de la loi par un fusil à plomb, séquelle
+Y35.032A	intervention légale avec un traumatisme d'un passant par un fusil à plomb, contact initial
+Y35.032D	intervention légale avec un traumatisme d'un passant par un fusil à plomb, contact subséquent
+Y35.032S	intervention légale avec un traumatisme d'un passant par un fusil à plomb, séquelle
+Y35.033A	intervention légale avec un traumatisme d'un suspect par un fusil à plomb, contact initial
+Y35.033D	intervention légale avec un traumatisme d'un suspect par un fusil à plomb, contact subséquent
+Y35.033S	intervention légale avec un traumatisme d'un suspect par un fusil à plomb, séquelle
+Y35.041A	intervention légale avec un traumatisme d'un représentant de la loi par une balle en caoutchouc, contact initial
+Y35.041D	intervention légale avec un traumatisme d'un représentant de la loi par une balle en caoutchouc, contact subséquent
+Y35.041S	intervention légale avec un traumatisme d'un représentant de la loi par une balle en caoutchouc, séquelle
+Y35.042A	intervention légale avec un traumatisme d'un passant par une balle en caoutchouc, contact initial
+Y35.042D	intervention légale avec un traumatisme d'un passant par une balle en caoutchouc, contact subséquent
+Y35.042S	intervention légale avec un traumatisme d'un passant par une balle en caoutchouc, séquelle
+Y35.043A	intervention légale avec un traumatisme d'un suspect par une balle en caoutchouc, contact initial
+Y35.043D	intervention légale avec un traumatisme d'un suspect par une balle en caoutchouc, contact subséquent
+Y35.043S	intervention légale avec un traumatisme d'un suspect par une balle en caoutchouc, séquelle
+Y35.091A	intervention légale avec un traumatisme d'un représentant de la loi par la décharge d'une autre arme à feu, contact initial
+Y35.091D	intervention légale avec un traumatisme d'un représentant de la loi par la décharge d'une autre arme à feu, contact subséquent
+Y35.091S	intervention légale avec un traumatisme d'un représentant de la loi par la décharge d'une autre arme à feu, séquelle
+Y35.092A	intervention légale avec un traumatisme d'un passant par la décharge d'une autre arme à feu, contact initial
+Y35.092D	intervention légale avec un traumatisme d'un passant par la décharge d'une autre arme à feu, contact subséquent
+Y35.092S	intervention légale avec un traumatisme d'un passant par la décharge d'une autre arme à feu, séquelle
+Y35.093A	intervention légale avec un traumatisme d'un suspect par la décharge d'une autre arme à feu, contact initial
+Y35.093D	intervention légale avec un traumatisme d'un suspect par la décharge d'une autre arme à feu, contact subséquent
+Y35.093S	intervention légale avec un traumatisme d'un suspect par la décharge d'une autre arme à feu, séquelle
+Y35.101A	intervention légale avec un traumatisme d'un représentant de la loi par des explosifs non spécifiés, contact initial
+Y35.101D	intervention légale avec un traumatisme d'un représentant de la loi par des explosifs non spécifiés, contact subséquent
+Y35.101S	intervention légale avec un traumatisme d'un représentant de la loi par des explosifs non spécifiés, séquelle
+Y35.102A	intervention légale avec un traumatisme d'un passant par des explosifs non spécifiés, contact initial
+Y35.102D	intervention légale avec un traumatisme d'un passant par des explosifs non spécifiés, contact subséquent
+Y35.102S	intervention légale avec un traumatisme d'un passant par des explosifs non spécifiés, séquelle
+Y35.103A	intervention légale avec un traumatisme d'un suspect par des explosifs non spécifiés, contact initial
+Y35.103D	intervention légale avec un traumatisme d'un suspect par des explosifs non spécifiés, contact subséquent
+Y35.103S	intervention légale avec un traumatisme d'un suspect par des explosifs non spécifiés, séquelle
+Y35.111A	intervention légale avec un traumatisme d'un représentant de la loi par dynamite, contact initial
+Y35.111D	intervention légale avec un traumatisme d'un représentant de la loi par dynamite, contact subséquent
+Y35.111S	intervention légale avec un traumatisme d'un représentant de la loi par dynamite, séquelle
+Y35.112A	intervention légale avec un traumatisme d'un passant par dynamite, contact initial
+Y35.112D	intervention légale avec un traumatisme d'un passant par dynamite, contact subséquent
+Y35.112S	intervention légale avec un traumatisme d'un passant par dynamite, séquelle
+Y35.113A	intervention légale avec un traumatisme d'un suspect par dynamite, contact initial
+Y35.113D	intervention légale avec un traumatisme d'un suspect par dynamite, contact subséquent
+Y35.113S	intervention légale avec un traumatisme d'un suspect par dynamite, séquelle
+Y35.121A	intervention légale avec un traumatisme d'un représentant de la loi par un obus explosif, contact initial
+Y35.121D	intervention légale avec un traumatisme d'un représentant de la loi par un obus explosif, contact subséquent
+Y35.121S	intervention légale avec un traumatisme d'un représentant de la loi par un obus explosif, séquelle
+Y35.122A	intervention légale avec un traumatisme d'un passant par un obus explosif, contact initial
+Y35.122D	intervention légale avec un traumatisme d'un passant par un obus explosif, contact subséquent
+Y35.122S	intervention légale avec un traumatisme d'un passant par un obus explosif, séquelle
+Y35.123A	intervention légale avec un traumatisme d'un suspect par un obus explosif, contact initial
+Y35.123D	intervention légale avec un traumatisme d'un suspect par un obus explosif, contact subséquent
+Y35.123S	intervention légale avec un traumatisme d'un suspect par un obus explosif, séquelle
+Y35.191A	intervention légale avec un traumatisme d'un représentant de la loi par d'autres explosifs, contact initial
+Y35.191D	intervention légale avec un traumatisme d'un représentant de la loi par d'autres explosifs, contact subséquent
+Y35.191S	intervention légale avec un traumatisme d'un représentant de la loi par d'autres explosifs, séquelle
+Y35.192A	intervention légale avec un traumatisme d'un passant par d'autres explosifs, contact initial
+Y35.192D	intervention légale avec un traumatisme d'un passant par d'autres explosifs, contact subséquent
+Y35.192S	intervention légale avec un traumatisme d'un passant par d'autres explosifs, séquelle
+Y35.193A	intervention légale avec un traumatisme d'un suspect par d'autres explosifs, contact initial
+Y35.193D	intervention légale avec un traumatisme d'un suspect par d'autres explosifs, contact subséquent
+Y35.193S	intervention légale avec un traumatisme d'un suspect par d'autres explosifs, séquelle
+Y35.201A	intervention légale avec un traumatisme d'un représentant de la loi par un gaz non spécifié, contact initial
+Y35.201D	intervention légale avec un traumatisme d'un représentant de la loi par un gaz non spécifié, contact subséquent
+Y35.201S	intervention légale avec un traumatisme d'un représentant de la loi par un gaz non spécifié, séquelle
+Y35.202A	intervention légale avec un traumatisme d'un passant par un gaz non spécifié, contact initial
+Y35.202D	intervention légale avec un traumatisme d'un passant par un gaz non spécifié, contact subséquent
+Y35.202S	intervention légale avec un traumatisme d'un passant par un gaz non spécifié, séquelle
+Y35.203A	intervention légale avec un traumatisme d'un suspect par un gaz non spécifié, contact initial
+Y35.203D	intervention légale avec un traumatisme d'un suspect par un gaz non spécifié, contact subséquent
+Y35.203S	intervention légale avec un traumatisme d'un suspect par un gaz non spécifié, séquelle
+Y35.211A	intervention légale avec un traumatisme d'un représentant de la loi par gaz lacrymogène, contact initial
+Y35.211D	intervention légale avec un traumatisme d'un représentant de la loi par gaz lacrymogène, contact subséquent
+Y35.211S	intervention légale avec un traumatisme d'un représentant de la loi par gaz lacrymogène, séquelle
+Y35.212A	intervention légale avec un traumatisme d'un passant par gaz lacrymogène, contact initial
+Y35.212D	intervention légale avec un traumatisme d'un passant par gaz lacrymogène, contact subséquent
+Y35.212S	intervention légale avec un traumatisme d'un passant par gaz lacrymogène, séquelle
+Y35.213A	intervention légale avec un traumatisme d'un suspect par gaz lacrymogène, contact initial
+Y35.213D	intervention légale avec un traumatisme d'un suspect par gaz lacrymogène, contact subséquent
+Y35.213S	intervention légale avec un traumatisme d'un suspect par gaz lacrymogène, séquelle
+Y35.291A	intervention légale avec un traumatisme d'un représentant de la loi par un autre gaz, contact initial
+Y35.291D	intervention légale avec un traumatisme d'un représentant de la loi par un autre gaz, contact subséquent
+Y35.291S	intervention légale avec un traumatisme d'un représentant de la loi par un autre gaz, séquelle
+Y35.292A	intervention légale avec un traumatisme d'un passant par un autre gaz, contact initial
+Y35.292D	intervention légale avec un traumatisme d'un passant par un autre gaz, contact subséquent
+Y35.292S	intervention légale avec un traumatisme d'un passant par un autre gaz, séquelle
+Y35.293A	intervention légale avec un traumatisme d'un suspect par un autre gaz, contact initial
+Y35.293D	intervention légale avec un traumatisme d'un suspect par un autre gaz, contact subséquent
+Y35.293S	intervention légale avec un traumatisme d'un suspect par un autre gaz, séquelle
+Y35.301A	intervention légale avec un traumatisme d'un représentant de la loi par des objets contondants non spécifiés, contact initial
+Y35.301D	intervention légale avec un traumatisme d'un représentant de la loi par des objets contondants non spécifiés, contact subséquent
+Y35.301S	intervention légale avec un traumatisme d'un représentant de la loi par des objets contondants non spécifiés, séquelle
+Y35.302A	intervention légale avec un traumatisme d'un passant par des objets contondants non spécifiés, contact initial
+Y35.302D	intervention légale avec un traumatisme d'un passant par des objets contondants non spécifiés, contact subséquent
+Y35.302S	intervention légale avec un traumatisme d'un passant par des objets contondants non spécifiés, séquelle
+Y35.303A	intervention légale avec un traumatisme d'un suspect par des objets contondants non spécifiés, contact initial
+Y35.303D	intervention légale avec un traumatisme d'un suspect par des objets contondants non spécifiés, contact subséquent
+Y35.303S	intervention légale avec un traumatisme d'un suspect par des objets contondants non spécifiés, séquelle
+Y35.311A	intervention légale avec un traumatisme d'un représentant de la loi par une matraque, contact initial
+Y35.311D	intervention légale avec un traumatisme d'un représentant de la loi par une matraque, contact subséquent
+Y35.311S	intervention légale avec un traumatisme d'un représentant de la loi par une matraque, séquelle
+Y35.312A	intervention légale avec un traumatisme d'un passant par une matraque, contact initial
+Y35.312D	intervention légale avec un traumatisme d'un passant par une matraque, contact subséquent
+Y35.312S	intervention légale avec un traumatisme d'un passant par une matraque, séquelle
+Y35.313A	intervention légale avec un traumatisme d'un suspect par une matraque, contact initial
+Y35.313D	intervention légale avec un traumatisme d'un suspect par une matraque, contact subséquent
+Y35.313S	intervention légale avec un traumatisme d'un suspect par une matraque, séquelle
+Y35.391A	intervention légale avec un traumatisme d'un représentant de la loi par d'autres objets contondants, contact initial
+Y35.391D	intervention légale avec un traumatisme d'un représentant de la loi par d'autres objets contondants, contact subséquent
+Y35.391S	intervention légale avec un traumatisme d'un représentant de la loi par d'autres objets contondants, séquelle
+Y35.392A	intervention légale avec un traumatisme d'un passant par d'autres objets contondants, contact initial
+Y35.392D	intervention légale avec un traumatisme d'un passant par d'autres objets contondants, contact subséquent
+Y35.392S	intervention légale avec un traumatisme d'un passant par d'autres objets contondants, séquelle
+Y35.393A	intervention légale avec un traumatisme d'un suspect par d'autres objets contondants, contact initial
+Y35.393D	intervention légale avec un traumatisme d'un suspect par d'autres objets contondants, contact subséquent
+Y35.393S	intervention légale avec un traumatisme d'un suspect par d'autres objets contondants, séquelle
+Y35.401A	intervention légale avec un traumatisme d'un représentant de la loi par des objets tranchants non spécifiés, contact initial
+Y35.401D	intervention légale avec un traumatisme d'un représentant de la loi par des objets tranchants non spécifiés, contact subséquent
+Y35.401S	intervention légale avec un traumatisme d'un représentant de la loi par des objets tranchants non spécifiés, séquelle
+Y35.402A	intervention légale avec un traumatisme d'un passant par des objets tranchants non spécifiés, contact initial
+Y35.402D	intervention légale avec un traumatisme d'un passant par des objets tranchants non spécifiés, contact subséquent
+Y35.402S	intervention légale avec un traumatisme d'un passant par des objets tranchants non spécifiés, séquelle
+Y35.403A	intervention légale avec un traumatisme d'un suspect par des objets tranchants non spécifiés, contact initial
+Y35.403D	intervention légale avec un traumatisme d'un suspect par des objets tranchants non spécifiés, contact subséquent
+Y35.403S	intervention légale avec un traumatisme d'un suspect par des objets tranchants non spécifiés, séquelle
+Y35.411A	intervention légale avec un traumatisme d'un représentant de la loi par une baïonnette, contact initial
+Y35.411D	intervention légale avec un traumatisme d'un représentant de la loi par une baïonnette, contact subséquent
+Y35.411S	intervention légale avec un traumatisme d'un représentant de la loi par une baïonnette, séquelle
+Y35.491A	intervention légale avec un traumatisme d'un représentant de la loi par d'autres objets tranchants, contact initial
+Y35.491D	intervention légale avec un traumatisme d'un représentant de la loi par d'autres objets tranchants, contact subséquent
+Y35.491S	intervention légale avec un traumatisme d'un représentant de la loi par d'autres objets tranchants, séquelle
+Y35.492A	intervention légale avec un traumatisme d'un passant par d'autres objets tranchants, contact initial
+Y35.492D	intervention légale avec un traumatisme d'un passant par d'autres objets tranchants, contact subséquent
+Y35.492S	intervention légale avec un traumatisme d'un passant par d'autres objets tranchants, séquelle
+Y35.493A	intervention légale avec un traumatisme d'un suspect par d'autres objets tranchants, contact initial
+Y35.493D	intervention légale avec un traumatisme d'un suspect par d'autres objets tranchants, contact subséquent
+Y35.493S	intervention légale avec un traumatisme d'un suspect par d'autres objets tranchants, séquelle
+Y35.811A	intervention légale avec un traumatisme d'un représentant de la loi par un malmenage, contact initial
+Y35.811D	intervention légale avec un traumatisme d'un représentant de la loi par un malmenage, contact subséquent
+Y35.811S	intervention légale avec un traumatisme d'un représentant de la loi par un malmenage, séquelle
+Y35.812A	intervention légale avec un traumatisme d'un passant par un malmenage, contact initial
+Y35.812D	intervention légale avec un traumatisme d'un passant par un malmenage, contact subséquent
+Y35.812S	intervention légale avec un traumatisme d'un passant par un malmenage, séquelle
+Y35.813A	intervention légale avec un traumatisme d'un suspect par un malmenage, contact initial
+Y35.813D	intervention légale avec un traumatisme d'un suspect par un malmenage, contact subséquent
+Y35.813S	intervention légale avec un traumatisme d'un suspect par un malmenage, séquelle
+Y35.891A	intervention légale avec un traumatisme d'un représentant de la loi par d'autres moyens spécifiés, contact initial
+Y35.891D	intervention légale avec un traumatisme d'un représentant de la loi par d'autres moyens spécifiés, contact subséquent
+Y35.891S	intervention légale avec un traumatisme d'un représentant de la loi par d'autres moyens spécifiés, séquelle
+Y35.892A	intervention légale avec un traumatisme d'un passant par d'autres moyens spécifiés, contact initial
+Y35.892D	intervention légale avec un traumatisme d'un passant par d'autres moyens spécifiés, contact subséquent
+Y35.892S	intervention légale avec un traumatisme d'un passant par d'autres moyens spécifiés, séquelle
+Y35.893A	intervention légale avec un traumatisme d'un suspect par d'autres moyens spécifiés, contact initial
+Y35.893D	intervention légale avec un traumatisme d'un suspect par d'autres moyens spécifiés, contact subséquent
+Y35.893S	intervention légale avec un traumatisme d'un suspect par d'autres moyens spécifiés, séquelle
+Y35.91XA	intervention légale avec un traumatisme d'un représentant de la loi par des moyens non spécifiés, contact initial
+Y35.91XD	intervention légale avec un traumatisme d'un représentant de la loi par des moyens non spécifiés, contact subséquent
+Y35.91XS	intervention légale avec un traumatisme d'un représentant de la loi par des moyens non spécifiés, séquelle
+Y35.92XA	intervention légale avec un traumatisme d'un passant par des moyens non spécifiés, contact initial
+Y35.92XD	intervention légale avec un traumatisme d'un passant par des moyens non spécifiés, contact subséquent
+Y35.92XS	intervention légale avec un traumatisme d'un passant par des moyens non spécifiés, séquelle
+Y35.93XA	intervention légale avec un traumatisme d'un suspect par des moyens non spécifiés, contact initial
+Y35.93XD	intervention légale avec un traumatisme d'un suspect par des moyens non spécifiés, contact subséquent
+Y35.93XS	intervention légale avec un traumatisme d'un suspect par des moyens non spécifiés, séquelle
+Y36.000A	faits de guerre avec l'explosion d'une arme navale non spécifiées, personnel militaire, contact initial
+Y36.000D	faits de guerre avec l'explosion d'une arme navale non spécifiées, personnel militaire, contact subséquent
+Y36.000S	faits de guerre avec l'explosion d'une arme navale non spécifiées, personnel militaire, séquelle
+Y36.001A	faits de guerre avec l'explosion d'une arme navale non spécifiées, personne civile, contact initial
+Y36.001D	faits de guerre avec l'explosion d'une arme navale non spécifiées, personne civile, contact subséquent
+Y36.001S	faits de guerre avec l'explosion d'une arme navale non spécifiées, personne civile, séquelle
+Y36.010A	faits de guerre avec l'explosion d'une grenade sous-marine, personnel militaire, contact initial
+Y36.010D	faits de guerre avec l'explosion d'une grenade sous-marine, personnel militaire, contact subséquent
+Y36.010S	faits de guerre avec l'explosion d'une grenade sous-marine, personnel militaire, séquelle
+Y36.011A	faits de guerre avec l'explosion d'une grenade sous-marine, personne civile, contact initial
+Y36.011D	faits de guerre avec l'explosion d'une grenade sous-marine, personne civile, contact subséquent
+Y36.011S	faits de guerre avec l'explosion d'une grenade sous-marine, personne civile, séquelle
+Y36.020A	faits de guerre avec l'explosion d'une mine flottante, personnel militaire, contact initial
+Y36.020D	faits de guerre avec l'explosion d'une mine flottante, personnel militaire, contact subséquent
+Y36.020S	faits de guerre avec l'explosion d'une mine flottante, personnel militaire, séquelle
+Y36.021A	faits de guerre avec l'explosion d'une mine flottante, personne civile, contact initial
+Y36.021D	faits de guerre avec l'explosion d'une mine flottante, personne civile, contact subséquent
+Y36.021S	faits de guerre avec l'explosion d'une mine flottante, personne civile, séquelle
+Y36.030A	faits de guerre avec l'explosion d'un obus d'artillerie navale, personnel militaire, contact initial
+Y36.030D	faits de guerre avec l'explosion d'un obus d'artillerie navale, personnel militaire, contact subséquent
+Y36.030S	faits de guerre avec l'explosion d'un obus d'artillerie navale, personnel militaire, séquelle
+Y36.031A	faits de guerre avec l'explosion d'un obus d'artillerie navale, personne civile, contact initial
+Y36.031D	faits de guerre avec l'explosion d'un obus d'artillerie navale, personne civile, contact subséquent
+Y36.031S	faits de guerre avec l'explosion d'un obus d'artillerie navale, personne civile, séquelle
+Y36.050A	faits de guerre avec une explosion accidentelle d'armes navales à bord, personnel militaire, contact initial
+Y36.050D	faits de guerre avec une explosion accidentelle d'armes navales à bord, personnel militaire, contact subséquent
+Y36.050S	faits de guerre avec une explosion accidentelle d'armes navales à bord, personnel militaire, séquelle
+Y36.051A	faits de guerre avec une explosion accidentelle d'armes navales à bord, personne civile, contact initial
+Y36.051D	faits de guerre avec une explosion accidentelle d'armes navales à bord, personne civile, contact subséquent
+Y36.051S	faits de guerre avec une explosion accidentelle d'armes navales à bord, personne civile, séquelle
+Y36.090A	faits de guerre avec une explosion d'autres armes navales, personnel militaire, contact initial
+Y36.090D	faits de guerre avec une explosion d'autres armes navales, personnel militaire, contact subséquent
+Y36.090S	faits de guerre avec une explosion d'autres armes navales, personnel militaire, séquelle
+Y36.091A	faits de guerre avec une explosion d'autres armes navales, personne civile, contact initial
+Y36.091D	faits de guerre avec une explosion d'autres armes navales, personne civile, contact subséquent
+Y36.091S	faits de guerre avec une explosion d'autres armes navales, personne civile, séquelle
+Y36.100A	faits de guerre avec la destruction non spécifiée d'un aéronef, personnel militaire, contact initial
+Y36.100D	faits de guerre avec la destruction non spécifiée d'un aéronef, personnel militaire, contact subséquent
+Y36.100S	faits de guerre avec la destruction non spécifiée d'un aéronef, personnel militaire, séquelle
+Y36.101A	faits de guerre avec la destruction non spécifiée d'un aéronef, personne civile, contact initial
+Y36.101D	faits de guerre avec la destruction non spécifiée d'un aéronef, personne civile, contact subséquent
+Y36.101S	faits de guerre avec la destruction non spécifiée d'un aéronef, personne civile, séquelle
+Y36.110A	faits de guerre avec la destruction d'un aéronef due à un tir ennemi ou des explosifs, personnel militaire, contact initial
+Y36.110D	faits de guerre avec la destruction d'un aéronef due à un tir ennemi ou des explosifs, personnel militaire, contact subséquent
+Y36.110S	faits de guerre avec la destruction d'un aéronef due à un tir ennemi ou des explosifs, personnel militaire, séquelle
+Y36.111A	faits de guerre avec la destruction d'un aéronef due à un tir ennemi ou des explosifs, personne civile, contact initial
+Y36.111D	faits de guerre avec la destruction d'un aéronef due à un tir ennemi ou des explosifs, personne civile, contact subséquent
+Y36.111S	faits de guerre avec la destruction d'un aéronef due à un tir ennemi ou des explosifs, personne civile, séquelle
+Y36.120A	faits de guerre avec la destruction d'un aéronef due à une collision avec un autre aéronef, personnel militaire, contact initial
+Y36.120D	faits de guerre avec la destruction d'un aéronef due à une collision avec un autre aéronef, personnel militaire, contact subséquent
+Y36.120S	faits de guerre avec la destruction d'un aéronef due à une collision avec un autre aéronef, personnel militaire, séquelle
+Y36.121A	faits de guerre avec la destruction d'un aéronef due à une collision avec un autre aéronef, personne civile, contact initial
+Y36.121D	faits de guerre avec la destruction d'un aéronef due à une collision avec un autre aéronef, personne civile, contact subséquent
+Y36.121S	faits de guerre avec la destruction d'un aéronef due à une collision avec un autre aéronef, personne civile, séquelle
+Y36.130A	faits de guerre avec la destruction d'un aéronef due à un incendie à bord, personnel militaire, contact initial
+Y36.130D	faits de guerre avec la destruction d'un aéronef due à un incendie à bord, personnel militaire, contact subséquent
+Y36.130S	faits de guerre avec la destruction d'un aéronef due à un incendie à bord, personnel militaire, séquelle
+Y36.131A	faits de guerre avec la destruction d'un aéronef due à un incendie à bord, personne civile, contact initial
+Y36.131D	faits de guerre avec la destruction d'un aéronef due à un incendie à bord, personne civile, contact subséquent
+Y36.131S	faits de guerre avec la destruction d'un aéronef due à un incendie à bord, personne civile, séquelle
+Y36.140A	faits de guerre avec la destruction d'un aéronef due à une explosion accidentelle de munitions et d'explosifs à bord, personnel militaire, contact initial
+Y36.140D	faits de guerre avec la destruction d'un aéronef due à une explosion accidentelle de munitions et d'explosifs à bord, personnel militaire, contact subséquent
+Y36.140S	faits de guerre avec la destruction d'un aéronef due à une explosion accidentelle de munitions et d'explosifs à bord, personnel militaire, séquelle
+Y36.141A	faits de guerre avec la destruction d'un aéronef due à une explosion accidentelle de munitions et d'explosifs à bord, personne civile, contact initial
+Y36.141D	faits de guerre avec la destruction d'un aéronef due à une explosion accidentelle de munitions et d'explosifs à bord, personne civile, contact subséquent
+Y36.141S	faits de guerre avec la destruction d'un aéronef due à une explosion accidentelle de munitions et d'explosifs à bord, personne civile, séquelle
+Y36.190A	faits de guerre avec une autre destruction d'un aéronef, personnel militaire, contact initial
+Y36.190D	faits de guerre avec une autre destruction d'un aéronef, personnel militaire, contact subséquent
+Y36.190S	faits de guerre avec une autre destruction d'un aéronef, personnel militaire, séquelle
+Y36.191A	faits de guerre avec une autre destruction d'un aéronef, personne civile, contact initial
+Y36.191D	faits de guerre avec une autre destruction d'un aéronef, personne civile, contact subséquent
+Y36.191S	faits de guerre avec une autre destruction d'un aéronef, personne civile, séquelle
+Y36.200A	faits de guerre avec une explosion et des éclats non spécifiés, personnel militaire, contact initial
+Y36.200D	faits de guerre avec une explosion et des éclats non spécifiés, personnel militaire, contact subséquent
+Y36.200S	faits de guerre avec une explosion et des éclats non spécifiés, personnel militaire, séquelle
+Y36.201A	faits de guerre avec une explosion et des éclats non spécifiés, personne civile, contact initial
+Y36.201D	faits de guerre avec une explosion et des éclats non spécifiés, personne civile, contact subséquent
+Y36.201S	faits de guerre avec une explosion et des éclats non spécifiés, personne civile, séquelle
+Y36.210A	faits de guerre avec l'explosion d'une bombe aérienne, personnel militaire, contact initial
+Y36.210D	faits de guerre avec l'explosion d'une bombe aérienne, personnel militaire, contact subséquent
+Y36.210S	faits de guerre avec l'explosion d'une bombe aérienne, personnel militaire, séquelle
+Y36.211A	faits de guerre avec l'explosion d'une bombe aérienne, personne civile, contact initial
+Y36.211D	faits de guerre avec l'explosion d'une bombe aérienne, personne civile, contact subséquent
+Y36.211S	faits de guerre avec l'explosion d'une bombe aérienne, personne civile, séquelle
+Y36.220A	faits de guerre avec l'explosion d'un missile téléguidé, personnel militaire, contact initial
+Y36.220D	faits de guerre avec l'explosion d'un missile téléguidé, personnel militaire, contact subséquent
+Y36.220S	faits de guerre avec l'explosion d'un missile téléguidé, personnel militaire, séquelle
+Y36.221A	faits de guerre avec l'explosion d'un missile téléguidé, personne civile, contact initial
+Y36.221D	faits de guerre avec l'explosion d'un missile téléguidé, personne civile, contact subséquent
+Y36.221S	faits de guerre avec l'explosion d'un missile téléguidé, personne civile, séquelle
+Y36.230A	faits de guerre avec l'explosion d'un dispositif explosif artisanal, personnel militaire, contact initial
+Y36.230D	faits de guerre avec l'explosion d'un dispositif explosif artisanal, personnel militaire, contact subséquent
+Y36.230S	faits de guerre avec l'explosion d'un dispositif explosif artisanal, personnel militaire, séquelle
+Y36.231A	faits de guerre avec l'explosion d'un dispositif explosif artisanal, personne civile, contact initial
+Y36.231D	faits de guerre avec l'explosion d'un dispositif explosif artisanal, personne civile, contact subséquent
+Y36.231S	faits de guerre avec l'explosion d'un dispositif explosif artisanal, personne civile, séquelle
+Y36.240A	faits de guerre avec une explosion due à une détonation accidentelle et la décharge de munitions ou d'un dispositif de lancement des munitions, personnel militaire, contact initial
+Y36.240D	faits de guerre avec une explosion due à une détonation accidentelle et la décharge de munitions ou d'un dispositif de lancement des munitions, personnel militaire, contact subséquent
+Y36.240S	faits de guerre avec une explosion due à une détonation accidentelle et la décharge de munitions ou d'un dispositif de lancement des munitions, personnel militaire, séquelle
+Y36.241A	faits de guerre avec une explosion due à une détonation accidentelle et la décharge de munitions ou d'un dispositif de lancement des munitions, personne civile, contact initial
+Y36.241D	faits de guerre avec une explosion due à une détonation accidentelle et la décharge de munitions ou d'un dispositif de lancement des munitions, personne civile, contact subséquent
+Y36.241S	faits de guerre avec une explosion due à une détonation accidentelle et la décharge de munitions ou d'un dispositif de lancement des munitions, personne civile, séquelle
+Y36.250A	faits de guerre avec des éclats de munitions, personnel militaire, contact initial
+Y36.250D	faits de guerre avec des éclats de munitions, personnel militaire, contact subséquent
+Y36.250S	faits de guerre avec des éclats de munitions, personnel militaire, séquelle
+Y36.251A	faits de guerre avec des éclats de munitions, personne civile, contact initial
+Y36.251D	faits de guerre avec des éclats de munitions, personne civile, contact subséquent
+Y36.251S	faits de guerre avec des éclats de munitions, personne civile, séquelle
+Y36.260A	faits de guerre avec des éclats d'un explosif artisanal, personnel militaire, contact initial
+Y36.260D	faits de guerre avec des éclats d'un explosif artisanal, personnel militaire, contact subséquent
+Y36.260S	faits de guerre avec des éclats d'un explosif artisanal, personnel militaire, séquelle
+Y36.261A	faits de guerre avec des éclats d'un explosif artisanal, personne civile, contact initial
+Y36.261D	faits de guerre avec des éclats d'un explosif artisanal, personne civile, contact subséquent
+Y36.261S	faits de guerre avec des éclats d'un explosif artisanal, personne civile, séquelle
+Y36.270A	faits de guerre avec des éclats d'armes, personnel militaire, contact initial
+Y36.270D	faits de guerre avec des éclats d'armes, personnel militaire, contact subséquent
+Y36.270S	faits de guerre avec des éclats d'armes, personnel militaire, séquelle
+Y36.271A	faits de guerre avec des éclats d'armes, personne civile, contact initial
+Y36.271D	faits de guerre avec des éclats d'armes, personne civile, contact subséquent
+Y36.271S	faits de guerre avec des éclats d'armes, personne civile, séquelle
+Y36.290A	faits de guerre avec d'autres explosions et éclats, personnel militaire, contact initial
+Y36.290D	faits de guerre avec d'autres explosions et éclats, personnel militaire, contact subséquent
+Y36.290S	faits de guerre avec d'autres explosions et éclats, personnel militaire, séquelle
+Y36.291A	faits de guerre avec d'autres explosions et éclats, personne civile, contact initial
+Y36.291D	faits de guerre avec d'autres explosions et éclats, personne civile, contact subséquent
+Y36.291S	faits de guerre avec d'autres explosions et éclats, personne civile, séquelle
+Y36.300A	faits de guerre avec un incendie, une conflagration et une substance chaude non spécifiés, personnel militaire, contact initial
+Y36.300D	faits de guerre avec un incendie, une conflagration et une substance chaude non spécifiés, personnel militaire, contact subséquent
+Y36.300S	faits de guerre avec un incendie, une conflagration et une substance chaude non spécifiés, personnel militaire, séquelle
+Y36.301A	faits de guerre avec un incendie, une conflagration et une substance chaude non spécifiés, personne civile, contact initial
+Y36.301D	faits de guerre avec un incendie, une conflagration et une substance chaude non spécifiés, personne civile, contact subséquent
+Y36.301S	faits de guerre avec un incendie, une conflagration et une substance chaude non spécifiés, personne civile, séquelle
+Y36.310A	faits de guerre avec une bombe à essence, personnel militaire, contact initial
+Y36.310D	faits de guerre avec une bombe à essence, personnel militaire, contact subséquent
+Y36.310S	faits de guerre avec une bombe à essence, personnel militaire, séquelle
+Y36.311A	faits de guerre avec une bombe à essence, personne civile, contact initial
+Y36.311D	faits de guerre avec une bombe à essence, personne civile, contact subséquent
+Y36.311S	faits de guerre avec une bombe à essence, personne civile, séquelle
+Y36.320A	faits de guerre avec une balle incendiaire, personnel militaire, contact initial
+Y36.320D	faits de guerre avec une balle incendiaire, personnel militaire, contact subséquent
+Y36.320S	faits de guerre avec une balle incendiaire, personnel militaire, séquelle
+Y36.321A	faits de guerre avec une balle incendiaire, personne civile, contact initial
+Y36.321D	faits de guerre avec une balle incendiaire, personne civile, contact subséquent
+Y36.321S	faits de guerre avec une balle incendiaire, personne civile, séquelle
+Y36.330A	faits de guerre avec un lance-flammes, personnel militaire, contact initial
+Y36.330D	faits de guerre avec un lance-flammes, personnel militaire, contact subséquent
+Y36.330S	faits de guerre avec un lance-flammes, personnel militaire, séquelle
+Y36.331A	faits de guerre avec un lance-flammes, personne civile, contact initial
+Y36.331D	faits de guerre avec un lance-flammes, personne civile, contact subséquent
+Y36.331S	faits de guerre avec un lance-flammes, personne civile, séquelle
+Y36.390A	faits de guerre avec d'autres incendies, conflagrations et substances chaudes, personnel militaire, contact initial
+Y36.390D	faits de guerre avec d'autres incendies, conflagrations et substances chaudes, personnel militaire, contact subséquent
+Y36.390S	faits de guerre avec d'autres incendies, conflagrations et substances chaudes, personnel militaire, séquelle
+Y36.391A	faits de guerre avec d'autres incendies, conflagrations et substances chaudes, personne civile, contact initial
+Y36.391D	faits de guerre avec d'autres incendies, conflagrations et substances chaudes, personne civile, contact subséquent
+Y36.391S	faits de guerre avec d'autres incendies, conflagrations et substances chaudes, personne civile, séquelle
+Y36.410A	faits de guerre avec des balles en caoutchouc, personnel militaire, contact initial
+Y36.410D	faits de guerre avec des balles en caoutchouc, personnel militaire, contact subséquent
+Y36.410S	faits de guerre avec des balles en caoutchouc, personnel militaire, séquelle
+Y36.411A	faits de guerre avec des balles en caoutchouc, personne civile, contact initial
+Y36.411D	faits de guerre avec des balles en caoutchouc, personne civile, contact subséquent
+Y36.411S	faits de guerre avec des balles en caoutchouc, personne civile, séquelle
+Y36.420A	faits de guerre avec des armes à plomb, personnel militaire, contact initial
+Y36.420D	faits de guerre avec des armes à plomb, personnel militaire, contact subséquent
+Y36.420S	faits de guerre avec des armes à plomb, personnel militaire, séquelle
+Y36.421A	faits de guerre avec des armes à plomb, personne civile, contact initial
+Y36.421D	faits de guerre avec des armes à plomb, personne civile, contact subséquent
+Y36.421S	faits de guerre avec des armes à plomb, personne civile, séquelle
+Y36.430A	faits de guerre avec la décharge d'autres armes à feu, personnel militaire, contact initial
+Y36.430D	faits de guerre avec la décharge d'autres armes à feu, personnel militaire, contact subséquent
+Y36.430S	faits de guerre avec la décharge d'autres armes à feu, personnel militaire, séquelle
+Y36.431A	faits de guerre avec la décharge d'autres armes à feu, personne civile, contact initial
+Y36.431D	faits de guerre avec la décharge d'autres armes à feu, personne civile, contact subséquent
+Y36.431S	faits de guerre avec la décharge d'autres armes à feu, personne civile, séquelle
+Y36.440A	faits de guerre avec un combat au corps à corps non armé, personnel militaire, contact initial
+Y36.440D	faits de guerre avec un combat au corps à corps non armé, personnel militaire, contact subséquent
+Y36.440S	faits de guerre avec un combat au corps à corps non armé, personnel militaire, séquelle
+Y36.441A	faits de guerre avec un combat au corps à corps non armé, personne civile, contact initial
+Y36.441D	faits de guerre avec un combat au corps à corps non armé, personne civile, contact subséquent
+Y36.441S	faits de guerre avec un combat au corps à corps non armé, personne civile, séquelle
+Y36.450A	faits de guerre avec un combat impliquant un objet contondant ou perçant, personnel militaire, contact initial
+Y36.450D	faits de guerre avec un combat impliquant un objet contondant ou perçant, personnel militaire, contact subséquent
+Y36.450S	faits de guerre avec un combat impliquant un objet contondant ou perçant, personnel militaire, séquelle
+Y36.451A	faits de guerre avec un combat impliquant un objet contondant ou perçant, personne civile, contact initial
+Y36.451D	faits de guerre avec un combat impliquant un objet contondant ou perçant, personne civile, contact subséquent
+Y36.451S	faits de guerre avec un combat impliquant un objet contondant ou perçant, personne civile, séquelle
+Y36.460A	faits de guerre avec une restriction volontaire de l'air et des voies respiratoires, personnel militaire, contact initial
+Y36.460D	faits de guerre avec une restriction volontaire de l'air et des voies respiratoires, personnel militaire, contact subséquent
+Y36.460S	faits de guerre avec une restriction volontaire de l'air et des voies respiratoires, personnel militaire, séquelle
+Y36.461A	faits de guerre avec une restriction volontaire de l'air et des voies respiratoires, personne civile, contact initial
+Y36.461D	faits de guerre avec une restriction volontaire de l'air et des voies respiratoires, personne civile, contact subséquent
+Y36.461S	faits de guerre avec une restriction volontaire de l'air et des voies respiratoires, personne civile, séquelle
+Y36.470A	faits de guerre avec une restriction involontaire de l'air et des voies respiratoires, personnel militaire, contact initial
+Y36.470D	faits de guerre avec une restriction involontaire de l'air et des voies respiratoires, personnel militaire, contact subséquent
+Y36.470S	faits de guerre avec une restriction involontaire de l'air et des voies respiratoires, personnel militaire, séquelle
+Y36.471A	faits de guerre avec une restriction involontaire de l'air et des voies respiratoires, personne civile, contact initial
+Y36.471D	faits de guerre avec une restriction involontaire de l'air et des voies respiratoires, personne civile, contact subséquent
+Y36.471S	faits de guerre avec une restriction involontaire de l'air et des voies respiratoires, personne civile, séquelle
+Y36.490A	faits de guerre avec d'autres formes de guerre conventionnelle, personnel militaire, contact initial
+Y36.500A	faits de guerre avec un effet non spécifié d'une arme nucléaire, personnel militaire, contact initial
+Y36.500D	faits de guerre avec un effet non spécifié d'une arme nucléaire, personnel militaire, contact subséquent
+Y36.500S	faits de guerre avec un effet non spécifié d'une arme nucléaire, personnel militaire, séquelle
+Y36.501A	faits de guerre avec un effet non spécifié d'une arme nucléaire, personne civile, contact initial
+Y36.501D	faits de guerre avec un effet non spécifié d'une arme nucléaire, personne civile, contact subséquent
+Y36.501S	faits de guerre avec un effet non spécifié d'une arme nucléaire, personne civile, séquelle
+Y36.510A	faits de guerre avec un effet de souffle direct d'une arme nucléaire, personnel militaire, contact initial
+Y36.510D	faits de guerre avec un effet de souffle direct d'une arme nucléaire, personnel militaire, contact subséquent
+Y36.510S	faits de guerre avec un effet de souffle direct d'une arme nucléaire, personnel militaire, séquelle
+Y36.511A	faits de guerre avec un effet de souffle direct d'une arme nucléaire, personne civile, contact initial
+Y36.511D	faits de guerre avec un effet de souffle direct d'une arme nucléaire, personne civile, contact subséquent
+Y36.511S	faits de guerre avec un effet de souffle direct d'une arme nucléaire, personne civile, séquelle
+Y36.520A	faits de guerre avec un effet de souffle indirect d'une arme nucléaire, personnel militaire, contact initial
+Y36.520D	faits de guerre avec un effet de souffle indirect d'une arme nucléaire, personnel militaire, contact subséquent
+Y36.520S	faits de guerre avec un effet de souffle indirect d'une arme nucléaire, personnel militaire, séquelle
+Y36.521A	faits de guerre avec un effet de souffle indirect d'une arme nucléaire, personne civile, contact initial
+Y36.521D	faits de guerre avec un effet de souffle indirect d'une arme nucléaire, personne civile, contact subséquent
+Y36.521S	faits de guerre avec un effet de souffle indirect d'une arme nucléaire, personne civile, séquelle
+Y36.530A	faits de guerre avec de la radiation thermique par une arme nucléaire, personnel militaire, contact initial
+Y36.530D	faits de guerre avec de la radiation thermique par une arme nucléaire, personnel militaire, contact subséquent
+Y36.530S	faits de guerre avec de la radiation thermique par une arme nucléaire, personnel militaire, séquelle
+Y36.531A	faits de guerre avec de la radiation thermique par une arme nucléaire, personne civile, contact initial
+Y36.531D	faits de guerre avec de la radiation thermique par une arme nucléaire, personne civile, contact subséquent
+Y36.531S	faits de guerre avec de la radiation thermique par une arme nucléaire, personne civile, séquelle
+Y36.540A	faits de guerre avec l'irradiation nucléaire d'une arme nucléaire, personnel militaire, contact initial
+Y36.540D	faits de guerre avec l'irradiation nucléaire d'une arme nucléaire, personnel militaire, contact subséquent
+Y36.540S	faits de guerre avec l'irradiation nucléaire d'une arme nucléaire, personnel militaire, séquelle
+Y36.541A	faits de guerre avec l'irradiation nucléaire d'une arme nucléaire, personne civile, contact initial
+Y36.541D	faits de guerre avec l'irradiation nucléaire d'une arme nucléaire, personne civile, contact subséquent
+Y36.541S	faits de guerre avec l'irradiation nucléaire d'une arme nucléaire, personne civile, séquelle
+Y36.590A	faits de guerre avec d'autres effets d'armes nucléaires, personnel militaire, contact initial
+Y36.590D	faits de guerre avec d'autres effets d'armes nucléaires, personnel militaire, contact subséquent
+Y36.590S	faits de guerre avec d'autres effets d'armes nucléaires, personnel militaire, séquelle
+Y36.591A	faits de guerre avec d'autres effets d'armes nucléaires, personne civile, contact initial
+Y36.591D	faits de guerre avec d'autres effets d'armes nucléaires, personne civile, contact subséquent
+Y36.591S	faits de guerre avec d'autres effets d'armes nucléaires, personne civile, séquelle
+Y36.6X0A	faits de guerre avec des armes biologiques, personnel militaire, contact initial
+Y36.6X0D	faits de guerre avec des armes biologiques, personnel militaire, contact subséquent
+Y36.6X0S	faits de guerre avec des armes biologiques, personnel militaire, séquelle
+Y36.6X1A	faits de guerre avec des armes biologiques, personne civile, contact initial
+Y36.6X1D	faits de guerre avec des armes biologiques, personne civile, contact subséquent
+Y36.6X1S	faits de guerre avec des armes biologiques, personne civile, séquelle
+Y36.7X0A	faits de guerre avec des armes chimiques et d'autres formes de guerre non conventionnelle, personnel militaire, contact initial
+Y36.7X0D	faits de guerre avec des armes chimiques et d'autres formes de guerre non conventionnelle, personnel militaire, contact subséquent
+Y36.7X0S	faits de guerre avec des armes chimiques et d'autres formes de guerre non conventionnelle, personnel militaire, séquelle
+Y36.7X1A	faits de guerre avec des armes chimiques et d'autres formes de guerre non conventionnelle, personne civile, contact initial
+Y36.7X1D	faits de guerre avec des armes chimiques et d'autres formes de guerre non conventionnelle, personne civile, contact subséquent
+Y36.7X1S	faits de guerre avec des armes chimiques et d'autres formes de guerre non conventionnelle, personne civile, séquelle
+Y36.810A	mine posée en temps de guerre et explosant après l'arrêt des hostilités, personnel militaire, contact initial
+Y36.810D	mine posée en temps de guerre et explosant après l'arrêt des hostilités, personnel militaire, contact subséquent
+Y36.810S	mine posée en temps de guerre et explosant après l'arrêt des hostilités, personnel militaire, séquelle
+Y36.811A	mine posée en temps de guerre et explosant après l'arrêt des hostilités, personne civile, contact initial
+Y36.811D	mine posée en temps de guerre et explosant après l'arrêt des hostilités, personne civile, contact subséquent
+Y36.811S	mine posée en temps de guerre et explosant après l'arrêt des hostilités, personne civile, séquelle
+Y36.820A	bombe posée en temps de guerre et explosant après l'arrêt des hostilités, personnel militaire, contact initial
+Y36.820D	bombe posée en temps de guerre et explosant après l'arrêt des hostilités, personnel militaire, contact subséquent
+Y36.820S	bombe posée en temps de guerre et explosant après l'arrêt des hostilités, personnel militaire, séquelle
+Y36.821A	bombe posée en temps de guerre et explosant après l'arrêt des hostilités, personne civile, contact initial
+Y36.821D	bombe posée en temps de guerre et explosant après l'arrêt des hostilités, personne civile, contact subséquent
+Y36.821S	bombe posée en temps de guerre et explosant après l'arrêt des hostilités, personne civile, séquelle
+Y37.321D	opérations militaires avec une balle incendiaire, personne civile, contact subséquent
+Y37.321S	opérations militaires avec une balle incendiaire, personne civile, séquelle
+Y37.330A	opérations militaires avec un lance-flammes, personnel militaire, contact initial
+Y37.330D	opérations militaires avec un lance-flammes, personnel militaire, contact subséquent
+Y37.330S	opérations militaires avec un lance-flammes, personnel militaire, séquelle
+Y37.331A	opérations militaires avec un lance-flammes, personne civile, contact initial
+Y37.491A	opérations militaires avec d'autres formes de guerre conventionnelle, personne civile, contact initial
+Y37.491D	opérations militaires avec d'autres formes de guerre conventionnelle, personne civile, contact subséquent
+Y37.491S	opérations militaires avec d'autres formes de guerre conventionnelle, personne civile, séquelle
+Y37.500A	opérations militaires avec un effet non spécifié d'une arme nucléaire, personnel militaire, contact initial
+Y73.1	incidents liés à des matériels de la gastro-entérologie et de l'urologie pour un traitement (non chirurgical) et une revalidation
+Y73.2	incidents liés à des prothèses et d'autres implants, des matériaux et des matériels accessoires de gastro-entérologie et d'urologie
+Y73.3	incidents liés à des instruments chirurgicaux, des matériaux et des matériels de la gastro-entérologie et de l'urologie (y compris les sutures)
+Y73.8	incidents liés à des matériels de la gastro-entérologie et de l'urologie divers, non classés ailleurs
+Y74.0	incidents liés à des matériels du diagnostic et de la surveillance hospitalier et pour l'usage personnel
+Y92.119	lieu d'occurrence de la cause externe : un endroit non spécifié d'un foyer pour enfants et un orphelinat
+Y92.120	lieu d'occurrence de la cause externe : la cuisine d'une maison de retraite
+Y92.121	lieu d'occurrence de la cause externe : la salle de bains d'une maison de retraite
+Y92.122	lieu d'occurrence de la cause externe : la chambre à coucher d'une maison de retraite
+Y92.123	lieu d'occurrence de la cause externe : l'allée d'une maison de retraite
+Y92.124	lieu d'occurrence de la cause externe : le garage d'une maison de retraite
+Y93.68	activité : volleyball (plage) (terrain)
+Y93.69	autre activités sportives ou athlétiques pratiquées en équipe ou en groupe
+Y93.6A	activité : jeux physiques généralement associées à la récréation scolaire, au camp d'été et aux enfants
+Y93.71	activité : boxe
+Y93.72	activité : lutte
+Y93.73	activité : sports de raquette et sports joués à la main
+Y93.74	activité : frisbee
+Y93.75	activité : arts martiaux
+Y93.79	activité : d'autres sports et athlétismes spécifiés
+Y93.81	activité : arbitrage
+Y93.82	activité : spectateur d'un événement
+Y93.83	activité : bagarre amicale et jeu de mains
+Y93.84	activité : sommeil
+Y93.89	autre activité spécifiée
+Y93.9	activité : non spécifiée
+Y93.A1	activité : machines d'exercice principalement pour le conditionnement cardiorespiratoire
+Y36.880A	d'autres faits de guerre survenant après l'arrêt des hostilités, personnel militaire, contact initial
+Y36.880D	d'autres faits de guerre survenant après l'arrêt des hostilités, personnel militaire, contact subséquent
+Y36.880S	d'autres faits de guerre survenant après l'arrêt des hostilités, personnel militaire, séquelle
+Y36.881A	d'autres faits de guerre survenant après l'arrêt des hostilités, personne civile, contact initial
+Y36.881D	d'autres faits de guerre survenant après l'arrêt des hostilités, personne civile, contact subséquent
+Y36.881S	d'autres faits de guerre survenant après l'arrêt des hostilités, personne civile, séquelle
+Y36.890A	faits de guerre non spécifiés survenant après l'arrêt des hostilités, personnel militaire, contact initial
+Y36.890D	faits de guerre non spécifiés survenant après l'arrêt des hostilités, personnel militaire, contact subséquent
+Y36.890S	faits de guerre non spécifiés survenant après l'arrêt des hostilités, personnel militaire, séquelle
+Y36.891A	faits de guerre non spécifiés survenant après l'arrêt des hostilités, personne civile, contact initial
+Y36.891D	faits de guerre non spécifiés survenant après l'arrêt des hostilités, personne civile, contact subséquent
+Y36.891S	faits de guerre non spécifiés survenant après l'arrêt des hostilités, personne civile, séquelle
+Y36.90XA	faits de guerre, non spécifiés, contact initial
+Y36.90XD	faits de guerre, non spécifiés, contact subséquent
+Y36.90XS	faits de guerre, non spécifiés, séquelle
+Y36.91XA	faits de guerre avec une arme de destruction massive non spécifiéee, contact initial
+Y36.91XD	faits de guerre avec une arme de destruction massive non spécifiéee, contact subséquent
+Y36.91XS	faits de guerre avec une arme de destruction massive non spécifiéee, séquelle
+Y36.92XA	faits de guerre impliquant un tir ami, contact initial
+Y36.92XD	faits de guerre impliquant un tir ami, contact subséquent
+Y36.92XS	faits de guerre impliquant un tir ami, séquelle
+Y37.000A	opérations militaires avec une explosion d'une arme navale non spécifiée, personnel militaire, contact initial
+Y37.000D	opérations militaires avec une explosion d'une arme navale non spécifiée, personnel militaire, contact subséquent
+Y37.000S	opérations militaires avec une explosion d'une arme navale non spécifiée, personnel militaire, séquelle
+Y37.001A	opérations militaires avec une explosion d'une arme navale non spécifiée, personne civile, contact initial
+Y37.001D	opérations militaires avec une explosion d'une arme navale non spécifiée, personne civile, contact subséquent
+Y37.001S	opérations militaires avec une explosion d'une arme navale non spécifiée, personne civile, séquelle
+Y37.010A	opérations militaires avec une explosion d'une grenade sous-marine, personnel militaire, contact initial
+Y37.010D	opérations militaires avec une explosion d'une grenade sous-marine, personnel militaire, contact subséquent
+Y37.010S	opérations militaires avec une explosion d'une grenade sous-marine, personnel militaire, séquelle
+Y37.011A	opérations militaires avec une explosion d'une grenade sous-marine, personne civile, contact initial
+Y37.011D	opérations militaires avec une explosion d'une grenade sous-marine, personne civile, contact subséquent
+Y37.011S	opérations militaires avec une explosion d'une grenade sous-marine, personne civile, séquelle
+Y37.020A	opérations militaires avec une explosion d'une mine flottante, personnel militaire, contact initial
+Y37.020D	opérations militaires avec une explosion d'une mine flottante, personnel militaire, contact subséquent
+Y37.020S	opérations militaires avec une explosion d'une mine flottante, personnel militaire, séquelle
+Y37.021A	opérations militaires avec une explosion d'une mine flottante, personne civile, contact initial
+Y37.021D	opérations militaires avec une explosion d'une mine flottante, personne civile, contact subséquent
+Y37.021S	opérations militaires avec une explosion d'une mine flottante, personne civile, séquelle
+Y37.030A	opérations militaires avec une explosion d'un obus d'artillerie navale, personnel militaire, contact initial
+Y37.030D	opérations militaires avec une explosion d'un obus d'artillerie navale, personnel militaire, contact subséquent
+Y37.030S	opérations militaires avec une explosion d'un obus d'artillerie navale, personnel militaire, séquelle
+Y37.031A	opérations militaires avec une explosion d'un obus d'artillerie navale, personne civile, contact initial
+Y37.031D	opérations militaires avec une explosion d'un obus d'artillerie navale, personne civile, contact subséquent
+Y37.031S	opérations militaires avec une explosion d'un obus d'artillerie navale, personne civile, séquelle
+Y37.040A	opérations militaires avec une explosion d'une torpille, personnel militaire, contact initial
+Y37.040D	opérations militaires avec une explosion d'une torpille, personnel militaire, contact subséquent
+Y37.040S	opérations militaires avec une explosion d'une torpille, personnel militaire, séquelle
+Y37.041A	opérations militaires avec une explosion d'une torpille, personne civile, contact initial
+Y37.041D	opérations militaires avec une explosion d'une torpille, personne civile, contact subséquent
+Y37.041S	opérations militaires avec une explosion d'une torpille, personne civile, séquelle
+Y37.050A	opérations militaires avec une explosion accidentelle d'armes navales à bord, personnel militaire, contact initial
+Y37.050D	opérations militaires avec une explosion accidentelle d'armes navales à bord, personnel militaire, contact subséquent
+Y37.050S	opérations militaires avec une explosion accidentelle d'armes navales à bord, personnel militaire, séquelle
+Y37.051A	opérations militaires avec une explosion accidentelle d'armes navales à bord, personne civile, contact initial
+Y37.051D	opérations militaires avec une explosion accidentelle d'armes navales à bord, personne civile, contact subséquent
+Y37.051S	opérations militaires avec une explosion accidentelle d'armes navales à bord, personne civile, séquelle
+Y37.090A	opérations militaires avec une explosion d'autres armes navales, personnel militaire, contact initial
+Y37.090D	opérations militaires avec une explosion d'autres armes navales, personnel militaire, contact subséquent
+Y37.090S	opérations militaires avec une explosion d'autres armes navales, personnel militaire, séquelle
+Y37.091A	opérations militaires avec une explosion d'autres armes navales, personne civile, contact initial
+Y37.091D	opérations militaires avec une explosion d'autres armes navales, personne civile, contact subséquent
+Y37.091S	opérations militaires avec une explosion d'autres armes navales, personne civile, séquelle
+Y37.100A	opérations militaires avec la destruction non spécifiée d'un aéronef, personnel militaire, contact initial
+Y37.100D	opérations militaires avec la destruction non spécifiée d'un aéronef, personnel militaire, contact subséquent
+Y37.100S	opérations militaires avec la destruction non spécifiée d'un aéronef, personnel militaire, séquelle
+Y37.101A	opérations militaires avec la destruction non spécifiée d'un aéronef, personne civile, contact initial
+Y37.101D	opérations militaires avec la destruction non spécifiée d'un aéronef, personne civile, contact subséquent
+Y37.101S	opérations militaires avec la destruction non spécifiée d'un aéronef, personne civile, séquelle
+Y37.110A	opérations militaires avec la destruction d'un aéronef due à un tir ennemi ou des explosifs, personnel militaire, contact initial
+Y37.110D	opérations militaires avec la destruction d'un aéronef due à un tir ennemi ou des explosifs, personnel militaire, contact subséquent
+Y37.110S	opérations militaires avec la destruction d'un aéronef due à un tir ennemi ou des explosifs, personnel militaire, séquelle
+Y37.111A	opérations militaires avec la destruction d'un aéronef due à un tir ennemi ou des explosifs, personne civile, contact initial
+Y37.111D	opérations militaires avec la destruction d'un aéronef due à un tir ennemi ou des explosifs, personne civile, contact subséquent
+Y37.111S	opérations militaires avec la destruction d'un aéronef due à un tir ennemi ou des explosifs, personne civile, séquelle
+Y37.120A	opérations militaires avec la destruction d'un aéronef due à une collision avec un autre aéronef, personnel militaire, contact initial
+Y37.120D	opérations militaires avec la destruction d'un aéronef due à une collision avec un autre aéronef, personnel militaire, contact subséquent
+Y37.120S	opérations militaires avec la destruction d'un aéronef due à une collision avec un autre aéronef, personnel militaire, séquelle
+Y37.121A	opérations militaires avec la destruction d'un aéronef due à une collision avec un autre aéronef, personne civile, contact initial
+Y37.121D	opérations militaires avec la destruction d'un aéronef due à une collision avec un autre aéronef, personne civile, contact subséquent
+Y37.121S	opérations militaires avec la destruction d'un aéronef due à une collision avec un autre aéronef, personne civile, séquelle
+Y37.130A	opérations militaires avec la destruction d'un aéronef due à un incendie à bord, personnel militaire, contact initial
+Y37.130D	opérations militaires avec la destruction d'un aéronef due à un incendie à bord, personnel militaire, contact subséquent
+Y37.130S	opérations militaires avec la destruction d'un aéronef due à un incendie à bord, personnel militaire, séquelle
+Y37.131A	opérations militaires avec la destruction d'un aéronef due à un incendie à bord, personne civile, contact initial
+Y37.131D	opérations militaires avec la destruction d'un aéronef due à un incendie à bord, personne civile, contact subséquent
+Y37.131S	opérations militaires avec la destruction d'un aéronef due à un incendie à bord, personne civile, séquelle
+Y37.140A	opérations militaires avec la destruction d'un aéronef due à une explosion accidentelle de munitions et d'explosifs à bord, personnel militaire, contact initial
+Y37.140D	opérations militaires avec la destruction d'un aéronef due à une explosion accidentelle de munitions et d'explosifs à bord, personnel militaire, contact subséquent
+Y37.140S	opérations militaires avec la destruction d'un aéronef due à une explosion accidentelle de munitions et d'explosifs à bord, personnel militaire, séquelle
+Y37.141A	opérations militaires avec la destruction d'un aéronef due à une explosion accidentelle de munitions et d'explosifs à bord, personne civile, contact initial
+Y37.141D	opérations militaires avec la destruction d'un aéronef due à une explosion accidentelle de munitions et d'explosifs à bord, personne civile, contact subséquent
+Y37.141S	opérations militaires avec la destruction d'un aéronef due à une explosion accidentelle de munitions et d'explosifs à bord, personne civile, séquelle
+Y37.190A	opérations militaires avec une autre destruction d'un aéronef, personnel militaire, contact initial
+Y37.190D	opérations militaires avec une autre destruction d'un aéronef, personnel militaire, contact subséquent
+Y37.190S	opérations militaires avec une autre destruction d'un aéronef, personnel militaire, séquelle
+Y37.191A	opérations militaires avec une autre destruction d'un aéronef, personne civile, contact initial
+Y37.191D	opérations militaires avec une autre destruction d'un aéronef, personne civile, contact subséquent
+Y37.191S	opérations militaires avec une autre destruction d'un aéronef, personne civile, séquelle
+Y37.200A	opérations militaires avec une explosion et des éclats non spécifiés, personnel militaire, contact initial
+Y37.200D	opérations militaires avec une explosion et des éclats non spécifiés, personnel militaire, contact subséquent
+Y37.200S	opérations militaires avec une explosion et des éclats non spécifiés, personnel militaire, séquelle
+Y37.201A	opérations militaires avec une explosion et des éclats non spécifiés, personne civile, contact initial
+Y37.201D	opérations militaires avec une explosion et des éclats non spécifiés, personne civile, contact subséquent
+Y37.201S	opérations militaires avec une explosion et des éclats non spécifiés, personne civile, séquelle
+Y37.210A	opérations militaires avec une explosion d'une bombe aérienne, personnel militaire, contact initial
+Y37.210D	opérations militaires avec une explosion d'une bombe aérienne, personnel militaire, contact subséquent
+Y37.210S	opérations militaires avec une explosion d'une bombe aérienne, personnel militaire, séquelle
+Y37.211A	opérations militaires avec une explosion d'une bombe aérienne, personne civile, contact initial
+Y37.211D	opérations militaires avec une explosion d'une bombe aérienne, personne civile, contact subséquent
+Y37.211S	opérations militaires avec une explosion d'une bombe aérienne, personne civile, séquelle
+Y37.220A	opérations militaires avec une explosion d'un missile téléguidé, personnel militaire, contact initial
+Y37.220D	opérations militaires avec une explosion d'un missile téléguidé, personnel militaire, contact subséquent
+Y37.220S	opérations militaires avec une explosion d'un missile téléguidé, personnel militaire, séquelle
+Y37.221A	opérations militaires avec une explosion d'un missile téléguidé, personne civile, contact initial
+Y37.221D	opérations militaires avec une explosion d'un missile téléguidé, personne civile, contact subséquent
+Y37.221S	opérations militaires avec une explosion d'un missile téléguidé, personne civile, séquelle
+Y37.230A	opérations militaires avec une explosion d'un dispositif explosif artisanal, personnel militaire, contact initial
+Y37.230D	opérations militaires avec une explosion d'un dispositif explosif artisanal, personnel militaire, contact subséquent
+Y37.230S	opérations militaires avec une explosion d'un dispositif explosif artisanal, personnel militaire, séquelle
+Y37.231A	opérations militaires avec une explosion d'un dispositif explosif artisanal, personne civile, contact initial
+Y37.231D	opérations militaires avec une explosion d'un dispositif explosif artisanal, personne civile, contact subséquent
+Y37.231S	opérations militaires avec une explosion d'un dispositif explosif artisanal, personne civile, séquelle
+Y37.240A	opérations militaires avec une explosion due à une détonation accidentelle et la décharge de munitions ou d'un dispositif de lancement des munitions, personnel militaire, contact initial
+Y37.240D	opérations militaires avec une explosion due à une détonation accidentelle et la décharge de munitions ou d'un dispositif de lancement des munitions, personnel militaire, contact subséquent
+Y37.240S	opérations militaires avec une explosion due à une détonation accidentelle et la décharge de munitions ou d'un dispositif de lancement des munitions, personnel militaire, séquelle
+Y37.241A	opérations militaires avec une explosion due à une détonation accidentelle et la décharge de munitions ou d'un dispositif de lancement des munitions, personne civile, contact initial
+Y37.241D	opérations militaires avec une explosion due à une détonation accidentelle et la décharge de munitions ou d'un dispositif de lancement des munitions, personne civile, contact subséquent
+Y37.241S	opérations militaires avec une explosion due à une détonation accidentelle et la décharge de munitions ou d'un dispositif de lancement des munitions, personne civile, séquelle
+Y37.250A	opérations militaires avec des éclats de munitions, personnel militaire, contact initial
+Y37.250D	opérations militaires avec des éclats de munitions, personnel militaire, contact subséquent
+Y37.250S	opérations militaires avec des éclats de munitions, personnel militaire, séquelle
+Y37.251A	opérations militaires avec des éclats de munitions, personne civile, contact initial
+Y37.251D	opérations militaires avec des éclats de munitions, personne civile, contact subséquent
+Y37.251S	opérations militaires avec des éclats de munitions, personne civile, séquelle
+Y37.260A	opérations militaires avec des éclats d'un explosif artisanal, personnel militaire, contact initial
+Y37.260D	opérations militaires avec des éclats d'un explosif artisanal, personnel militaire, contact subséquent
+Y37.260S	opérations militaires avec des éclats d'un explosif artisanal, personnel militaire, séquelle
+Y37.261A	opérations militaires avec des éclats d'un explosif artisanal, personne civile, contact initial
+Y37.261D	opérations militaires avec des éclats d'un explosif artisanal, personne civile, contact subséquent
+Y37.261S	opérations militaires avec des éclats d'un explosif artisanal, personne civile, séquelle
+Y37.270A	opérations militaires avec des éclats d'armes, personnel militaire, contact initial
+Y37.270D	opérations militaires avec des éclats d'armes, personnel militaire, contact subséquent
+Y37.270S	opérations militaires avec des éclats d'armes, personnel militaire, séquelle
+Y37.271A	opérations militaires avec des éclats d'armes, personne civile, contact initial
+Y37.271D	opérations militaires avec des éclats d'armes, personne civile, contact subséquent
+Y37.271S	opérations militaires avec des éclats d'armes, personne civile, séquelle
+Y37.290A	opérations militaires avec d'autres explosions et éclats, personnel militaire, contact initial
+Y37.290D	opérations militaires avec d'autres explosions et éclats, personnel militaire, contact subséquent
+Y37.290S	opérations militaires avec d'autres explosions et éclats, personnel militaire, séquelle
+Y37.291A	opérations militaires avec d'autres explosions et éclats, personne civile, contact initial
+Y37.291D	opérations militaires avec d'autres explosions et éclats, personne civile, contact subséquent
+Y37.291S	opérations militaires avec d'autres explosions et éclats, personne civile, séquelle
+Y37.300A	opérations militaires avec un incendie, une conflagration et une substance chaude non spécifiés, personnel militaire, contact initial
+Y37.300D	opérations militaires avec un incendie, une conflagration et une substance chaude non spécifiés, personnel militaire, contact subséquent
+Y37.300S	opérations militaires avec un incendie, une conflagration et une substance chaude non spécifiés, personnel militaire, séquelle
+Y37.301A	opérations militaires avec un incendie, une conflagration et une substance chaude non spécifiés, personne civile, contact initial
+Y37.301D	opérations militaires avec un incendie, une conflagration et une substance chaude non spécifiés, personne civile, contact subséquent
+Y37.301S	opérations militaires avec un incendie, une conflagration et une substance chaude non spécifiés, personne civile, séquelle
+Y37.310A	opérations militaires avec une bombe à essence, personnel militaire, contact initial
+Y37.310D	opérations militaires avec une bombe à essence, personnel militaire, contact subséquent
+Y37.310S	opérations militaires avec une bombe à essence, personnel militaire, séquelle
+Y37.311A	opérations militaires avec une bombe à essence, personne civile, contact initial
+Y37.311D	opérations militaires avec une bombe à essence, personne civile, contact subséquent
+Y37.311S	opérations militaires avec une bombe à essence, personne civile, séquelle
+Y37.320A	opérations militaires avec une balle incendiaire, personnel militaire, contact initial
+Y37.320D	opérations militaires avec une balle incendiaire, personnel militaire, contact subséquent
+Y37.320S	opérations militaires avec une balle incendiaire, personnel militaire, séquelle
+Y37.321A	opérations militaires avec une balle incendiaire, personne civile, contact initial
+Y37.331D	opérations militaires avec un lance-flammes, personne civile, contact subséquent
+Y37.331S	opérations militaires avec un lance-flammes, personne civile, séquelle
+Y37.390A	opérations militaires avec d'autres incendies, conflagrations et substances chaudes, personnel militaire, contact initial
+Y37.390D	opérations militaires avec d'autres incendies, conflagrations et substances chaudes, personnel militaire, contact subséquent
+Y37.390S	opérations militaires avec d'autres incendies, conflagrations et substances chaudes, personnel militaire, séquelle
+Y37.391A	opérations militaires avec d'autres incendies, conflagrations et substances chaudes, personne civile, contact initial
+Y37.391D	opérations militaires avec d'autres incendies, conflagrations et substances chaudes, personne civile, contact subséquent
+Y37.391S	opérations militaires avec d'autres incendies, conflagrations et substances chaudes, personne civile, séquelle
+Y37.410A	opérations militaires avec des balles en caoutchouc, personnel militaire, contact initial
+Y37.410D	opérations militaires avec des balles en caoutchouc, personnel militaire, contact subséquent
+Y37.410S	opérations militaires avec des balles en caoutchouc, personnel militaire, séquelle
+Y37.411A	opérations militaires avec des balles en caoutchouc, personne civile, contact initial
+Y37.411D	opérations militaires avec des balles en caoutchouc, personne civile, contact subséquent
+Y37.411S	opérations militaires avec des balles en caoutchouc, personne civile, séquelle
+Y37.420A	opérations militaires avec des armes à plomb, personnel militaire, contact initial
+Y37.420D	opérations militaires avec des armes à plomb, personnel militaire, contact subséquent
+Y37.420S	opérations militaires avec des armes à plomb, personnel militaire, séquelle
+Y37.421A	opérations militaires avec des armes à plomb, personne civile, contact initial
+Y37.421D	opérations militaires avec des armes à plomb, personne civile, contact subséquent
+Y37.421S	opérations militaires avec des armes à plomb, personne civile, séquelle
+Y37.430A	opérations militaires avec la décharge d'autres armes à feu, personnel militaire, contact initial
+Y37.430D	opérations militaires avec la décharge d'autres armes à feu, personnel militaire, contact subséquent
+Y37.430S	opérations militaires avec la décharge d'autres armes à feu, personnel militaire, séquelle
+Y37.431A	opérations militaires avec la décharge d'autres armes à feu, personne civile, contact initial
+Y37.431D	opérations militaires avec la décharge d'autres armes à feu, personne civile, contact subséquent
+Y37.431S	opérations militaires avec la décharge d'autres armes à feu, personne civile, séquelle
+Y37.440A	opérations militaires avec un combat au corps à corps non armé, personnel militaire, contact initial
+Y37.440D	opérations militaires avec un combat au corps à corps non armé, personnel militaire, contact subséquent
+Y37.440S	opérations militaires avec un combat au corps à corps non armé, personnel militaire, séquelle
+Y37.441A	opérations militaires avec un combat au corps à corps non armé, personne civile, contact initial
+Y37.441D	opérations militaires avec un combat au corps à corps non armé, personne civile, contact subséquent
+Y37.441S	opérations militaires avec un combat au corps à corps non armé, personne civile, séquelle
+Y37.450A	opérations militaires avec un combat impliquant objet contondant ou perçant, personnel militaire, contact initial
+Y37.450D	opérations militaires avec un combat impliquant objet contondant ou perçant, personnel militaire, contact subséquent
+Y37.450S	opérations militaires avec un combat impliquant objet contondant ou perçant, personnel militaire, séquelle
+Y37.451A	opérations militaires avec un combat impliquant objet contondant ou perçant, personne civile, contact initial
+Y37.451D	opérations militaires avec un combat impliquant objet contondant ou perçant, personne civile, contact subséquent
+Y37.451S	opérations militaires avec un combat impliquant objet contondant ou perçant, personne civile, séquelle
+Y37.460A	opérations militaires avec une restriction volontaire de l'air et des voies respiratoires, personnel militaire, contact initial
+Y37.460D	opérations militaires avec une restriction volontaire de l'air et des voies respiratoires, personnel militaire, contact subséquent
+Y37.460S	opérations militaires avec une restriction volontaire de l'air et des voies respiratoires, personnel militaire, séquelle
+Y37.461A	opérations militaires avec une restriction volontaire de l'air et des voies respiratoires, personne civile, contact initial
+Y37.461D	opérations militaires avec une restriction volontaire de l'air et des voies respiratoires, personne civile, contact subséquent
+Y37.461S	opérations militaires avec une restriction volontaire de l'air et des voies respiratoires, personne civile, séquelle
+Y37.470A	opérations militaires avec une restriction involontaire de l'air et des voies respiratoires, personnel militaire, contact initial
+Y37.470D	opérations militaires avec une restriction involontaire de l'air et des voies respiratoires, personnel militaire, contact subséquent
+Y37.470S	opérations militaires avec une restriction involontaire de l'air et des voies respiratoires, personnel militaire, séquelle
+Y37.471A	opérations militaires avec une restriction involontaire de l'air et des voies respiratoires, personne civile, contact initial
+Y37.471D	opérations militaires avec une restriction involontaire de l'air et des voies respiratoires, personne civile, contact subséquent
+Y37.471S	opérations militaires avec une restriction involontaire de l'air et des voies respiratoires, personne civile, séquelle
+Y37.490A	opérations militaires avec d'autres formes de guerre conventionnelle, personnel militaire, contact initial
+Y37.490D	opérations militaires avec d'autres formes de guerre conventionnelle, personnel militaire, contact subséquent
+Y37.490S	opérations militaires avec d'autres formes de guerre conventionnelle, personnel militaire, séquelle
+Y37.500D	opérations militaires avec un effet non spécifié d'une arme nucléaire, personnel militaire, contact subséquent
+Y37.500S	opérations militaires avec un effet non spécifié d'une arme nucléaire, personnel militaire, séquelle
+Y37.501A	opérations militaires avec un effet non spécifié d'une arme nucléaire, personne civile, contact initial
+Y37.501D	opérations militaires avec un effet non spécifié d'une arme nucléaire, personne civile, contact subséquent
+Y37.501S	opérations militaires avec un effet non spécifié d'une arme nucléaire, personne civile, séquelle
+Y37.510A	opérations militaires avec un effet de souffle direct d'une arme nucléaire, personnel militaire, contact initial
+Y37.510D	opérations militaires avec un effet de souffle direct d'une arme nucléaire, personnel militaire, contact subséquent
+Y37.510S	opérations militaires avec un effet de souffle direct d'une arme nucléaire, personnel militaire, séquelle
+Y37.511A	opérations militaires avec un effet de souffle direct d'une arme nucléaire, personne civile, contact initial
+Y37.511D	opérations militaires avec un effet de souffle direct d'une arme nucléaire, personne civile, contact subséquent
+Y37.511S	opérations militaires avec un effet de souffle direct d'une arme nucléaire, personne civile, séquelle
+Y37.520A	opérations militaires avec un effet de souffle indirect d'une arme nucléaire, personnel militaire, contact initial
+Y37.520D	opérations militaires avec un effet de souffle indirect d'une arme nucléaire, personnel militaire, contact subséquent
+Y37.520S	opérations militaires avec un effet de souffle indirect d'une arme nucléaire, personnel militaire, séquelle
+Y37.521A	opérations militaires avec un effet de souffle indirect d'une arme nucléaire, personne civile, contact initial
+Y37.521D	opérations militaires avec un effet de souffle indirect d'une arme nucléaire, personne civile, contact subséquent
+Y37.521S	opérations militaires avec un effet de souffle indirect d'une arme nucléaire, personne civile, séquelle
+Y37.530A	opérations militaires avec de la radiation thermique par une arme nucléaire, personnel militaire, contact initial
+Y37.530D	opérations militaires avec de la radiation thermique par une arme nucléaire, personnel militaire, contact subséquent
+Y37.530S	opérations militaires avec de la radiation thermique par une arme nucléaire, personnel militaire, séquelle
+Y37.531A	opérations militaires avec de la radiation thermique par une arme nucléaire, personne civile, contact initial
+Y37.531D	opérations militaires avec de la radiation thermique par une arme nucléaire, personne civile, contact subséquent
+Y37.531S	opérations militaires avec de la radiation thermique par une arme nucléaire, personne civile, séquelle
+Y37.540A	opération militaire avec l'irradiation nucléaire d'une arme nucléaire, personnel militaire, contact initial
+Y37.540D	opération militaire avec l'irradiation nucléaire d'une arme nucléaire, personnel militaire, contact subséquent
+Y37.540S	opération militaire avec l'irradiation nucléaire d'une arme nucléaire, personnel militaire, séquelle
+Y37.541A	opération militaire avec l'irradiation nucléaire d'une arme nucléaire, personne civile, contact initial
+Y37.541D	opération militaire avec l'irradiation nucléaire d'une arme nucléaire, personne civile, contact subséquent
+Y37.541S	opération militaire avec l'irradiation nucléaire d'une arme nucléaire, personne civile, séquelle
+Y37.590A	opération militaire avec d'autres effets d'armes nucléaires, personnel militaire, contact initial
+Y37.590D	opération militaire avec d'autres effets d'armes nucléaires, personnel militaire, contact subséquent
+Y37.590S	opération militaire avec d'autres effets d'armes nucléaires, personnel militaire, séquelle
+Y37.591A	opération militaire avec d'autres effets d'armes nucléaires, personne civile, contact initial
+Y37.591D	opération militaire avec d'autres effets d'armes nucléaires, personne civile, contact subséquent
+Y37.591S	opération militaire avec d'autres effets d'armes nucléaires, personne civile, séquelle
+Y37.6X0A	opérations militaires avec des armes biologiques, personnel militaire, contact initial
+Y37.6X0D	opérations militaires avec des armes biologiques, personnel militaire, contact subséquent
+Y37.6X0S	opérations militaires avec des armes biologiques, personnel militaire, séquelle
+Y37.6X1A	opérations militaires avec des armes biologiques, personne civile, contact initial
+Y37.6X1D	opérations militaires avec des armes biologiques, personne civile, contact subséquent
+Y37.6X1S	opérations militaires avec des armes biologiques, personne civile, séquelle
+Y37.7X0A	opérations militaires avec des armes chimiques et d'autres formes de guerre non conventionnelle, personnel militaire, contact initial
+Y37.7X0D	opérations militaires avec des armes chimiques et d'autres formes de guerre non conventionnelle, personnel militaire, contact subséquent
+Y37.7X0S	opérations militaires avec des armes chimiques et d'autres formes de guerre non conventionnelle, personnel militaire, séquelle
+Y37.7X1A	opérations militaires avec des armes chimiques et d'autres formes de guerre non conventionnelle, personne civile, contact initial
+Y37.7X1D	opérations militaires avec des armes chimiques et d'autres formes de guerre non conventionnelle, personne civile, contact subséquent
+Y37.7X1S	opérations militaires avec des armes chimiques et d'autres formes de guerre non conventionnelle, personne civile, séquelle
+Y37.90XA	opérations militaires, non spécifiées, contact initial
+Y37.90XD	opérations militaires, non spécifiées, contact subséquent
+Y37.90XS	opérations militaires, non spécifiées, séquelle
+Y37.91XA	opérations militaires avec une arme de destruction massive non spécifiée, contact initial
+Y37.91XD	opérations militaires avec une arme de destruction massive non spécifiée, contact subséquent
+Y37.91XS	opérations militaires avec une arme de destruction massive non spécifiée, séquelle
+Y37.92XA	opérations militaires impliquant un tir ami, contact initial
+Y37.92XD	opérations militaires impliquant un tir ami, contact subséquent
+Y37.92XS	opérations militaires impliquant un feu ami, séquelle
+Y38.0X1A	terrorisme avec une explosion d'armes navales, traumatisme d'un fonctionnaire de la sécurité publique, contact initial
+Y38.0X1D	terrorisme avec une explosion d'armes navales, traumatisme d'un fonctionnaire de la sécurité publique, contact subséquent
+Y38.0X1S	terrorisme avec une explosion d'armes navales, traumatisme d'un fonctionnaire de la sécurité publique, séquelle
+Y38.0X2A	terrorisme avec une explosion d'armes navales, traumatisme d'une personne civile, contact initial
+Y38.0X2D	terrorisme avec une explosion d'armes navales, traumatisme d'une personne civile, contact subséquent
+Y38.0X2S	terrorisme avec une explosion d'armes navales, traumatisme d'une personne civile, séquelle
+Y38.0X3A	terrorisme avec une explosion d'armes navales, traumatisme d'un terroriste, contact initial
+Y38.0X3D	terrorisme avec une explosion d'armes navales, traumatisme d'un terroriste, contact subséquent
+Y38.0X3S	terrorisme avec une explosion d'armes navales, traumatisme d'un terroriste, séquelle
+Y38.1X1A	terrorisme avec la destruction d'un aéronef, traumatisme d'un fonctionnaire de la sécurité publique, contact initial
+Y38.1X1D	terrorisme avec la destruction d'un aéronef, traumatisme d'un fonctionnaire de la sécurité publique, contact subséquent
+Y38.1X1S	terrorisme avec la destruction d'un aéronef, traumatisme d'un fonctionnaire de la sécurité publique, séquelle
+Y38.1X2A	terrorisme avec la destruction d'un aéronef, traumatisme d'une personne civile, contact initial
+Y38.1X2D	terrorisme avec la destruction d'un aéronef, traumatisme d'une personne civile, contact subséquent
+Y38.1X2S	terrorisme avec la destruction d'un aéronef, traumatisme d'une personne civile, séquelle
+Y38.1X3A	terrorisme avec la destruction d'un aéronef, traumatisme d'un terroriste, contact initial
+Y38.1X3D	terrorisme avec la destruction d'un aéronef, traumatisme d'un terroriste, contact subséquent
+Y38.1X3S	terrorisme avec la destruction d'un aéronef, traumatisme d'un terroriste, séquelle
+Y38.2X1A	terrorisme avec d'autres explosions et éclats, traumatisme d'un fonctionnaire de la sécurité publique, contact initial
+Y38.2X1D	terrorisme avec d'autres explosions et éclats, traumatisme d'un fonctionnaire de la sécurité publique, contact subséquent
+Y38.2X1S	terrorisme avec d'autres explosions et éclats, traumatisme d'un fonctionnaire de la sécurité publique, séquelle
+Y38.2X2A	terrorisme avec d'autres explosions et éclats, traumatisme d'une personne civile, contact initial
+Y38.2X2D	terrorisme avec d'autres explosions et éclats, traumatisme d'une personne civile, contact subséquent
+Y38.2X2S	terrorisme avec d'autres explosions et éclats, traumatisme d'une personne civile, séquelle
+Y38.2X3A	terrorisme avec d'autres explosions et éclats, traumatisme d'un terroriste, contact initial
+Y38.2X3D	terrorisme avec d'autres explosions et éclats, traumatisme d'un terroriste, contact subséquent
+Y38.2X3S	terrorisme avec d'autres explosions et éclats, traumatisme d'un terroriste, séquelle
+Y38.3X1A	terrorisme avec des incendies, une conflagration et des substances chaudes, traumatisme d'un fonctionnaire de la sécurité publique, contact initial
+Y38.3X1D	terrorisme avec des incendies, une conflagration et des substances chaudes, traumatisme d'un fonctionnaire de la sécurité publique, contact subséquent
+Y38.3X1S	terrorisme avec des incendies, une conflagration et des substances chaudes, traumatisme d'un fonctionnaire de la sécurité publique, séquelle
+Y38.3X2A	terrorisme avec des incendies, une conflagration et des substances chaudes, traumatisme d'une personne civile, contact initial
+Y38.3X2D	terrorisme avec des incendies, une conflagration et des substances chaudes, traumatisme d'une personne civile, contact subséquent
+Y38.3X2S	terrorisme avec des incendies, une conflagration et des substances chaudes, traumatisme d'une personne civile, séquelle
+Y38.3X3A	terrorisme avec des incendies, une conflagration et des substances chaudes, traumatisme d'un terroriste, contact initial
+Y38.3X3D	terrorisme avec des incendies, une conflagration et des substances chaudes, traumatisme d'un terroriste, contact subséquent
+Y38.3X3S	terrorisme avec des incendies, une conflagration et des substances chaudes, traumatisme d'un terroriste, séquelle
+Y38.4X1A	terrorisme avec des armes à feu, traumatisme d'un fonctionnaire de la sécurité publique, contact initial
+Y38.4X1D	terrorisme avec des armes à feu, traumatisme d'un fonctionnaire de la sécurité publique, contact subséquent
+Y38.4X1S	terrorisme avec des armes à feu, traumatisme d'un fonctionnaire de la sécurité publique, séquelle
+Y38.4X2A	terrorisme avec des armes à feu, traumatisme d'une personne civile, contact initial
+Y38.4X2D	terrorisme avec des armes à feu, traumatisme d'une personne civile, contact subséquent
+Y38.4X2S	terrorisme avec des armes à feu, traumatisme d'une personne civile, séquelle
+Y38.4X3A	terrorisme avec des armes à feu, traumatisme d'un terroriste, contact initial
+Y38.4X3D	terrorisme avec des armes à feu, traumatisme d'un terroriste, contact subséquent
+Y38.4X3S	terrorisme avec des armes à feu, traumatisme d'un terroriste, séquelle
+Y38.5X1A	terrorisme avec des armes nucléaires, traumatisme d'un fonctionnaire de la sécurité publique, contact initial
+Y38.5X1D	terrorisme avec des armes nucléaires, traumatisme d'un fonctionnaire de la sécurité publique, contact subséquent
+Y38.5X1S	terrorisme avec des armes nucléaires, traumatisme d'un fonctionnaire de la sécurité publique, séquelle
+Y38.5X2A	terrorisme avec des armes nucléaires, traumatisme d'une personne civile, contact initial
+Y38.5X2D	terrorisme avec des armes nucléaires, traumatisme d'une personne civile, contact subséquent
+Y38.5X2S	terrorisme avec des armes nucléaires, traumatisme d'une personne civile, séquelle
+Y38.5X3A	terrorisme avec des armes nucléaires, traumatisme d'un terroriste, contact initial
+Y38.5X3D	terrorisme avec des armes nucléaires, traumatisme d'un terroriste, contact subséquent
+Y38.5X3S	terrorisme avec des armes nucléaires, traumatisme d'un terroriste, séquelle
+Y38.6X1A	terrorisme avec des armes biologiques, traumatisme d'un fonctionnaire de la sécurité publique, contact initial
+Y38.6X1D	terrorisme avec des armes biologiques, traumatisme d'un fonctionnaire de la sécurité publique, contact subséquent
+Y38.6X1S	terrorisme avec des armes biologiques, traumatisme d'un fonctionnaire de la sécurité publique, séquelle
+Y38.6X2A	terrorisme avec des armes biologiques, traumatisme d'une personne civile, contact initial
+Y38.6X2D	terrorisme avec des armes biologiques, traumatisme d'une personne civile, contact subséquent
+Y38.6X2S	terrorisme avec des armes biologiques, traumatisme d'une personne civile, séquelle
+Y38.6X3A	terrorisme avec des armes biologiques, traumatisme d'un terroriste, contact initial
+Y38.6X3D	terrorisme avec des armes biologiques, traumatisme d'un terroriste, contact subséquent
+Y38.6X3S	terrorisme avec des armes biologiques, traumatisme d'un terroriste, séquelle
+Y38.7X1A	terrorisme avec des armes chimiques, traumatisme d'un fonctionnaire de la sécurité publique, contact initial
+Y38.7X1D	terrorisme avec des armes chimiques, traumatisme d'un fonctionnaire de la sécurité publique, contact subséquent
+Y38.7X1S	terrorisme avec des armes chimiques, traumatisme d'un fonctionnaire de la sécurité publique, séquelle
+Y38.7X2A	terrorisme avec des armes chimiques, traumatisme d'une personne civile, contact initial
+Y38.7X2D	terrorisme avec des armes chimiques, traumatisme d'une personne civile, contact subséquent
+Y38.7X2S	terrorisme avec des armes chimiques, traumatisme d'une personne civile, séquelle
+Y38.7X3A	terrorisme avec des armes chimiques, traumatisme d'un terroriste, contact initial
+Y38.7X3D	terrorisme avec des armes chimiques, traumatisme d'un terroriste, contact subséquent
+Y38.7X3S	terrorisme avec des armes chimiques, traumatisme d'un terroriste, séquelle
+Y38.80XA	terrorisme avec des moyens non spécifiés, contact initial
+Y38.80XD	terrorisme avec des moyens non spécifiés, contact subséquent
+Y38.80XS	terrorisme avec des moyens non spécifiés, séquelle
+Y38.811A	terrorisme avec une bombe humaine, traumatisme d'un fonctionnaire de la sécurité publique, contact initial
+Y38.811D	terrorisme avec une bombe humaine, traumatisme d'un fonctionnaire de la sécurité publique, contact subséquent
+Y38.811S	terrorisme avec une bombe humaine, traumatisme d'un fonctionnaire de la sécurité publique, séquelle
+Y38.812A	terrorisme avec une bombe humaine, traumatisme d'une personne civile, contact initial
+Y38.812D	terrorisme avec une bombe humaine, traumatisme d'une personne civile, contact subséquent
+Y38.812S	terrorisme avec une bombe humaine, traumatisme d'une personne civile, séquelle
+Y38.891A	terrorisme avec d'autres moyens, traumatisme d'un fonctionnaire de la sécurité publique, contact initial
+Y38.891D	terrorisme avec d'autres moyens, traumatisme d'un fonctionnaire de la sécurité publique, contact subséquent
+Y38.891S	terrorisme avec d'autres moyens, traumatisme d'un fonctionnaire de la sécurité publique, séquelle
+Y38.892A	terrorisme avec d'autres moyens, traumatisme d'une personne civile, contact initial
+Y38.892D	terrorisme avec d'autres moyens, traumatisme d'une personne civile, contact subséquent
+Y38.892S	terrorisme avec d'autres moyens, traumatisme d'une personne civile, séquelle
+Y38.893A	terrorisme avec d'autres moyens, traumatisme d'un terroriste, contact initial
+Y38.893D	terrorisme avec d'autres moyens, traumatisme d'un terroriste, contact subséquent
+Y38.893S	terrorisme avec d'autres moyens, traumatisme d'un terroriste, séquelle
+Y38.9X1A	terrorisme, effets secondaires, traumatisme d'un fonctionnaire de la sécurité publique, contact initial
+Y38.9X1D	terrorisme, effets secondaires, traumatisme d'un fonctionnaire de la sécurité publique, contact subséquent
+Y38.9X1S	terrorisme, effets secondaires, traumatisme d'un fonctionnaire de la sécurité publique, séquelle
+Y38.9X2A	terrorisme, effets secondaires, traumatisme d'une personne civile, contact initial
+Y38.9X2D	terrorisme, effets secondaires, traumatisme d'une personne civile, contact subséquent
+Y38.9X2S	terrorisme, effets secondaires, traumatisme d'une personne civile, séquelle
+Y62.0	asepsie insuffisante en cours d'une opération chirurgicale
+Y62.1	asepsie insuffisante en cours d'une perfusion ou une transfusion
+Y62.2	asepsie insuffisante en cours d'une dialyse rénale et une autre perfusion
+Y62.3	asepsie insuffisante en cours d'une injection ou une immunisation
+Y62.4	asepsie insuffisante en cours d'une endoscopie
+Y62.5	asepsie insuffisante en cours d'un cathétérisme cardiaque
+Y62.6	asepsie insuffisante en cours d'une aspiration, une ponction et un autre cathétérisme
+Y62.8	asepsie insuffisante en cours d'un autre acte médical et chirurgical
+Y62.9	asepsie insuffisante en cours d'un acte médical et chirurgical non spécifié
+Y63.0	administration en quantité excessive de sang ou d'un autre liquide en cours d'une transfusion ou une perfusion
+Y63.1	erreur de dilution en cours d'une perfusion
+Y63.2	dose excessive d'un rayonnement administrée en radiothérapie
+Y63.3	irradiation par l'inadvertance d'un patient au cours d'un acte médical
+Y63.4	erreur de dosage en cours d'un électrochoc ou un choc insulinique
+Y63.5	température inadéquate au cours d'une application locale ou un tamponnement
+Y63.6	Le sous-dosage et nonadministration de médicament ou substance biologique nécessaires
+Y63.8	erreur de dosage lors d'un autre acte médical et chirurgical
+Y63.9	erreur de dosage lors d'un acte médical et chirurgical non spécifié
+Y64.0	transfusion ou perfusion d'une substance médicale ou biologique contaminée
+Y64.1	substance médicale ou biologique contaminée, utilisée en injection ou pour une immunisation
+Y64.8	un autre mode d'administration d'une substance médicale ou biologique contaminée
+Y64.9	mode d'administration non spécifié d'une substance médicale ou biologique contaminée
+Y65.0	incompatibilité sanguine au cours d'une transfusion
+Y65.1	erreur du liquide utilisé lors d'une perfusion
+Y65.2	lâchage d'une suture ou d'une ligature en cours d'une opération chirurgicale
+Y65.3	malposition d'une canule endotrachéale au cours d'une intubation durant l'anesthésie
+Y65.4	échec d'introduction ou d'extraction d'une autre canule ou instrument
+Y65.51	exécution d'une procédure (opération) erronée chez le bon patient
+Y65.52	exécution d'une procédure (opération) chez un patient non programmé pour la chirurgie
+Y65.53	exécution de la procédure (opération) correcte du mauvais côté ou sur une mauvaise partie du corps
+Y65.8	d'autres mésaventures spécifiées en cours d'un acte médical et chirurgical
+Y66	non-administration d'un soin médical et chirurgical
+Y69	une mésaventure non spécifiée  en cours d'un acte médical et chirurgical
+Y70.0	incidents liés aux matériels du diagnostic et de la surveillance de l'anesthésiologie
+Y70.1	incidents liés aux matériels de l'anesthésiologie pour un traitement (non chirurgical) et une revalidation
+Y70.2	incidents liés à des prothèses et d'autres implants, des matériaux et des matériels accessoires de l'anesthésiologie
+Y70.3	incidents liés à des instruments chirurgicaux, des matériaux et des matériels de l'anesthésiologie (y compris les sutures)
+Y70.8	incidents liés à des matériels de l'anesthésiologie divers, non classés ailleurs
+Y71.0	incidents liés à des matériels du diagnostic et de la surveillance de la cardio-vasculaire
+Y71.1	incidents liés à des matériels de la cardio-vasculaire pour un traitement (non chirurgical) et une revalidation
+Y71.2	incidents liés à des prothèses et d'autres implants, des matériaux et des matériels accessoires de la cardio-vasculaire
+Y71.3	incidents liés à des instruments chirurgicaux, des matériaux et des matériels de la cardio-vasculaire (y compris les sutures)
+Y71.8	incidents liés à des matériels de la cardio-vasculaire divers, non classés ailleurs
+Y72.0	incidents liés à des matériels du diagnostic et de la surveillance de l'oto-rhino-laryngologie
+Y72.1	incidents liés à des matériels de l'oto-rhino-laryngologie pour un traitement (non chirurgical) et une revalidation
+Y72.2	incidents liés à des prothèses et d'autres implants, des matériaux et des matériels accessoires de l'oto-rhino-laryngologie
+Y72.3	incidents liés à des instruments chirurgicaux, des matériaux et des matériels de l'oto-rhino-laryngologie (y compris les sutures)
+Y72.8	incidents liés à des matériels de l'oto-rhino-laryngologie divers, non classés ailleurs
+Y73.0	incidents liés à des matériels du diagnostic et de la surveillance de gastro-entérologie et d'urologie
+Y74.1	incidents liés à des matériels hospitaliers et pour l'usage personnel pour  un traitement (non chirurgical) et une revalidation
+Y74.2	incidents liés à des prothèses et d'autres implants, des matériaux et des matériels accessoires hospitaliers et pour l'usage personnel
+Y74.3	incidents liés à des instruments chirurgicaux, des matériaux et des matériels hospitaliers et pour l'usage personnel (y compris les sutures)
+Y74.8	incidents liés à des matériels hospitaliers et d'usage personnel divers, non classées ailleurs
+Y75.0	incidents liés à des matériels du diagnostic et de la surveillance de la neurologie
+Y75.1	incidents liés à des matériels de la neurologie pour un traitement (non chirurgical) et une revalidation
+Y75.2	incidents liés à des prothèses et d'autres implants, des matériaux et des matériels de la neurologie
+Y75.3	incidents liés à des instruments chirurgicaux, des matériaux et des matériels de la neurologie (y compris les sutures)
+Y75.8	incidents liés à des matériels de la neurologie divers, non classés ailleurs
+Y76.0	incidents liés à des matériels du diagnostic et de la surveillance de l'obstétrique et de la gynécologie
+Y76.1	incidents liés à des matériels de l'obstétrique et de la gynécologie pour un traitement (non chirurgical) et une revalidation
+Y76.2	incidents liés à des prothèses et d'autres implants, des matériaux et des matériels accessoires de l'obstétrique et de la gynécologie
+Y76.3	incidents liés à des  instruments chirurgicaux, des matériaux et des matériels de l'obstétrique et de la gynécologie (y compris les sutures)
+Y76.8	incidents liés à des matériels de l'obstétrique et de la gynécologie divers, non classés ailleurs
+Y77.0	incidents liés à des matériels du diagnostic et de la surveillance de l'ophtalmologie
+Y77.1	incidents liés à des matériels de l'ophtalmologie pour un traitement (non chirurgical) et une revalidation
+Y77.2	incidents liés à des prothèses et d'autres implants, des matériaux et des matériels accessoires de l'ophtalmologie
+Y77.3	incidents liés à des instruments chirurgicaux, des matériaux et des matériels de l'ophtalmologie (y compris les sutures)
+Y77.8	incidents liés à des matériels de l'ophtalmologie divers, non classés ailleurs
+Y78.0	incidents liés à des matériels du diagnostic et de la surveillance de la radiologie
+Y78.1	incidents liés à des matériels de la radiologie pour un traitement (non chirurgical) et une revalidation
+Y78.2	incidents liés à des prothèses et d'autres implants, des matériaux et des matériels accessoires de la radiologie
+Y78.3	incidents liés à des instruments chirurgicaux, des matériaux et des matériels de la radiologie (y compris les sutures)
+Y78.8	incidents liés à des matériels de la radiologie divers, non classés ailleurs
+Y79.0	incidents liés à des matériels du diagnostic et de la surveillance de l'orthopédie
+Y79.1	incidents liés à des matériels de l'orthopédie pour un traitement (non chirurgical) et une revalidation
+Y79.2	incidents liés à des prothèses et d'autres implants, des matériaux et des matériels accessoires de l'orthopédie
+Y79.3	incidents liés à des instruments chirurgicaux, des matériaux et des matériels de l'orthopédie (y compris les sutures)
+Y79.8	incidents liés à des matériels de l'orthopédie divers, non classés ailleurs
+Y80.0	incidents liés à des matériels du diagnostic et de la surveillance de la médecine physique
+Y80.1	incidents liés à des matériels de la médecine physique pour un traitement (non chirurgical) et une revalidation
+Y80.2	incidents liés à des prothèses et d'autres implants, des matériaux et des matériels accessoires de la médecine physique
+Y80.3	incidents liés à des instruments chirurgicaux, des matériaux et des matériels de la médecine physique (y compris les sutures)
+Y80.8	incidents liés à des matériels de la médecine physique divers, non classés ailleurs
+Y81.0	incidents liés à des matériels du diagnostic et de la surveillance de chirurgie générale et plastique
+Y81.1	incidents liés à des matériels de la chirurgie générale et plastique pour un traitement (non chirurgical) et une revalidation
+Y81.2	incidents liés à des prothèses et d'autres implants, des matériaux et des matériels accessoires de chirurgie générale et plastique
+Y81.3	incidents liés à des instruments chirurgicaux, des matériaux et des matériels de la chirurgie générale et plastique (y compris les sutures)
+Y81.8	incidents liés à des matériels de la chirurgie générale et plastique divers, non classés ailleurs
+Y82.8	des incidents liés à d'autres matériels médicaux
+Y82.9	incidents liés à des matériels médicaux non spécifiés
+Y83.0	opération chirurgicale avec une transplantation d'un organe entier à l'origine d'une réaction anormale du patient ou d'une complication ultérieure, sans mention d'un accident en cours de la procédure
+Y83.1	opération chirurgicale avec une implantation d'une prothèse interne à l'origine d'une réaction anormale du patient ou d'une complication ultérieure, sans mention d'un accident en cours de la procédure
+Y83.2	opération chirurgicale avec une anastomose, un pontage ou une greffe à l'origine d'une réaction anormale du patient ou d'une complication ultérieure, sans mention d'un accident en cours de la procédure
+Y83.3	opération chirurgicale avec un abouchement (stomal) externe à l'origine d'une réaction anormale du patient ou d'une complication ultérieure, sans mention d'un accident en cours de la procédure
+Y83.4	autre chirurgie réparatrice à l'origine d'une réaction anormale du patient ou d'une complication ultérieure, sans mention d'un accident en cours de la procédure
+Y83.5	amputation de membre(s) à l'origine d'une réaction anormale du patient ou d'une complication ultérieure, sans mention d'un accident en cours de la procédure
+Y83.6	ablation d'un autre organe (partielle) (totale) à l'origine d'une réaction anormale du patient ou d'une complication ultérieure, sans mention d'un accident en cours de la procédure
+Y83.8	d'autres procédures chirurgicales à l'origine d'une réaction anormale du patient ou d'une complication ultérieure, sans mention d'un accident en cours de la procédure
+Y83.9	procédure chirurgicale non spécifiée à l'origine d'une réaction anormale du patient ou d'une complication ultérieure, sans mention d'un accident en cours de la procédure
+Y84.0	cathétérisme cardiaque à l'origine d'une réaction anormale du patient ou d'une complication ultérieure, sans mention d'un accident en cours de la procédure
+Y84.1	dialyse rénale à l'origine d'une réaction anormale du patient ou d'une complication ultérieure, sans mention d'un accident en cours de la procédure
+Y84.2	procédure radiologique et radiothérapie à l'origine d'une réaction anormale du patient ou d'une complication ultérieure, sans mention d'un accident en cours de la procédure
+Y84.3	choc thérapeutique à l'origine d'une réaction anormale du patient ou d'une complication ultérieure, sans mention d'un accident en cours de la procédure
+Y84.4	aspiration d'un liquide à l'origine d'une réaction anormale du patient ou d'une complication ultérieure, sans mention d'un accident en cours de la procédure
+Y84.5	insertion d'une sonde gastrique ou duodénale à l'origine d'une réaction anormale du patient ou d'une complication ultérieure, sans mention d'un accident en cours de la procédure
+Y84.6	sondage urinaire à l'origine d'une réaction anormale du patient ou d'une complication ultérieure, sans mention d'un accident en cours de la procédure
+Y84.7	prélèvement de sang à l'origine d'une réaction anormale du patient ou d'une complication ultérieure, sans mention d'un accident en cours de la procédure
+Y84.8	d'autres procédures médicales à l'origine d'une réaction anormale du patient ou d'une complication ultérieure, sans mention d'un accident en cours de la procédure
+Y84.9	procédure médicale non spécifiée à l'origine d'une réaction anormale du patient ou d'une complication ultérieure, sans mention d'un accident en cours de la procédure
+Y90.0	alcoolémie inférieure à 20 mg/100 ml
+Y90.1	alcoolémie de 20 à 39 mg/100 ml
+Y90.2	alcoolémie de 40 à 59 mg/100 ml
+Y90.3	alcoolémie de 60 à 79 mg/100 ml
+Y90.4	alcoolémie de 80 à 99 mg/100 ml
+Y90.5	alcoolémie de 100 à 119 mg/100 ml
+Y90.6	alcoolémie de 120 à 199 mg/100 ml
+Y90.7	alcoolémie de 200 à 239 mg/100 ml
+Y90.8	alcoolémie égale ou supérieure à 240 mg/100 ml
+Y90.9	présence d'alcool dans le sang, taux non spécifié
+Y92.0	lieu d'occurrence de la cause externe : cuisine d'une résidence non-institutionnelle (privée) non spécifiée
+Y92.1	lieu d'occurrence de la cause externe : salle à manger d'une résidence non-institutionnelle (privée) non spécifiée
+Y92.2	lieu d'occurrence de la cause externe : salle de bains d'une résidence non-institutionnelle (privée) non spécifiée
+Y92.3	lieu d'occurrence de la cause externe : chambre à coucher d'une résidence non-institutionnelle (privée) non spécifiée
+Y92.7	lieu d'occurrence de la cause externe : le jardin ou la cour d'une résidence non-institutionnelle (privée) non spécifiée
+Y92.8	lieu d'occurrence de la cause externe : un autre endroit d'une résidence non-institutionnelle (privée) non spécifiée
+Y92.9	lieu d'occurrence de la cause externe : une pièce non spécifiée d'une résidence non-institutionnelle (privée) non spécifiée
+Y92.10	lieu d'occurrence de la cause externe : cuisine d'une maison unifamiliale (privée)
+Y92.11	lieu d'occurrence de la cause externe : salle à manger d'une maison unifamiliale (privée)
+Y92.12	lieu d'occurrence de la cause externe : salle de bains d'une maison unifamiliale (privée)
+Y92.13	lieu d'occurrence de la cause externe : chambre à coucher d'une maison unifamiliale (privée)
+Y92.14	lieu d'occurrence de la cause externe : allée privée d'une maison unifamiliale (privée)
+Y92.15	lieu d'occurrence de la cause externe : garage privé d'une maison unifamiliale (privée)
+Y92.16	lieu d'occurrence de la cause externe : piscine dans le jardin ou dans la maison unifamiliale (privée)
+Y92.17	lieu d'occurrence de la cause externe : le jardin ou la cour d'une maison unifamiliale (privée)
+Y92.18	lieu d'occurrence de la cause externe : un autre endroit d'une maison unifamiliale (privée)
+Y92.19	lieu d'occurrence de la cause externe : une pièce non spécifiée d'une maison unifamiliale (privée)
+Y92.20	lieu d'occurrence de la cause externe : la cuisine d'un mobilhome
+Y92.21	lieu d'occurrence de la cause externe : la salle à manger d'un mobilhome
+Y92.22	lieu d'occurrence de la cause externe : la salle de bains d'un mobilhome
+Y92.23	lieu d'occurrence de la cause externe : la chambre à coucher d'un mobilhome
+Y92.24	lieu d'occurrence de la cause externe : l'allée d'un mobilhome
+Y92.25	lieu d'occurrence de la cause externe : le garage d'un mobilhome
+Y92.26	lieu d'occurrence de la cause externe : la piscine d'un mobilhome
+Y92.27	lieu d'occurrence de la cause externe : le jardin ou la cour d'un mobilhome
+Y92.28	lieu d'occurrence de la cause externe : un autre endroit d'un mobilhome
+Y92.29	lieu d'occurrence de la cause externe : endroit non spécifié d'un mobilhome
+Y92.30	lieu d'occurrence de la cause externe : la cuisine d'un appartement
+Y92.31	lieu d'occurrence de la cause externe : la salle de bains d'un appartement
+Y92.32	lieu d'occurrence de la cause externe : la chambre à coucher d'un appartement
+Y92.38	lieu d'occurrence de la cause externe : un autre endroit d'un appartement
+Y92.39	lieu d'occurrence de la cause externe : un endroit non spécifié d'un appartement
+Y92.40	lieu d'occurrence de la cause externe : la cuisine d'un pension
+Y92.41	lieu d'occurrence de la cause externe : la salle de bains d'un pension
+Y92.42	lieu d'occurrence de la cause externe : la chambre à coucher d'un pension
+Y92.43	lieu d'occurrence de la cause externe : l'allée d'un pension
+Y92.44	lieu d'occurrence de la cause externe : le garage d'un pension
+Y92.45	lieu d'occurrence de la cause externe : la piscine d'un pension
+Y92.46	lieu d'occurrence de la cause externe : le jardin ou la cour d'un pension
+Y92.48	lieu d'occurrence de la cause externe : un autre endroit d'un pension
+Y92.49	lieu d'occurrence de la cause externe : un endroit non spécifié d'un pension
+Y92.90	lieu d'occurrence de la cause externe : la cuisine d'une autre résidence non-institutionnelle
+Y92.91	lieu d'occurrence de la cause externe : la salle de bains d'une autre résidence non-institutionnelle
+Y92.92	lieu d'occurrence de la cause externe : la chambre à coucher d'une autre résidence non-institutionnelle
+Y92.93	lieu d'occurrence de la cause externe : l'allée d'une autre résidence non-institutionnelle
+Y92.94	lieu d'occurrence de la cause externe : le garage d'une autre résidence non-institutionnelle
+Y92.95	lieu d'occurrence de la cause externe : la piscine d'une autre résidence non-institutionnelle
+Y92.96	lieu d'occurrence de la cause externe : le jardin ou la cour d'une autre résidence non-institutionnelle
+Y92.98	lieu d'occurrence de la cause externe : un autre endroit d'une autre résidence non-institutionnelle
+Y92.99	lieu d'occurrence de la cause externe : endroit non spécifié d'une autre résidence non-institutionnelle
+Y92.10	lieu d'occurrence de la cause externe : une institution résidentielle non spécifiée
+Y92.110	lieu d'occurrence de la cause externe : la cuisine d'un foyer pour enfants et un orphelinat
+Y92.111	lieu d'occurrence de la cause externe : la salle de bains d'un foyer pour enfants et un orphelinat
+Y92.112	lieu d'occurrence de la cause externe : la chambre à coucher d'un foyer pour enfants et un orphelinat
+Y92.113	lieu d'occurrence de la cause externe : l'allée d'un foyer pour enfants et un orphelinat
+Y92.114	lieu d'occurrence de la cause externe : le garage d'un foyer pour enfants et un orphelinat
+Y92.115	lieu d'occurrence de la cause externe : la piscine d'un foyer pour enfants et un orphelinat
+Y92.116	lieu d'occurrence de la cause externe : le jardin ou la cour d'un foyer pour enfants et un orphelinat
+Y92.118	lieu d'occurrence de la cause externe : un autre endroit d'un foyer pour enfants et un orphelinat
+Y92.125	lieu d'occurrence de la cause externe : la piscine d'une maison de retraite
+Y92.126	lieu d'occurrence de la cause externe : le jardin ou la cour d'une maison de retraite
+Y92.128	lieu d'occurrence de la cause externe : un autre endroit d'une maison de retraite
+Y92.129	lieu d'occurrence de la cause externe : un endroit non spécifié d'une maison de retraite
+Y92.130	lieu d'occurrence de la cause externe : la cuisine d'une base militaire
+Y92.131	lieu d'occurrence de la cause externe : la cantine, le mess d'une base militaire
+Y92.133	lieu d'occurrence de la cause externe : les casernes d'une base militaire
+Y92.135	lieu d'occurrence de la cause externe : le garage d'une base militaire
+Y92.136	lieu d'occurrence de la cause externe : la piscine d'une base militaire
+Y92.137	lieu d'occurrence de la cause externe : le jardin ou la cour d'une base militaire
+Y92.138	lieu d'occurrence de la cause externe : un autre endroit d'une base militaire
+Y92.139	lieu d'occurrence de la cause externe : un endroit non spécifié d'une base militaire
+Y92.140	lieu d'occurrence de la cause externe : la cuisine d'un prison
+Y92.141	lieu d'occurrence de la cause externe : la salle à manger d'un prison
+Y92.142	lieu d'occurrence de la cause externe : la salle de bains d'un prison
+Y92.143	lieu d'occurrence de la cause externe : un cellule d'un prison
+Y92.146	lieu d'occurrence de la cause externe : la piscine d'un prison
+Y92.147	lieu d'occurrence de la cause externe : la cour intérieure d'un prison
+Y92.148	lieu d'occurrence de la cause externe : un autre endroit d'un prison
+Y92.149	lieu d'occurrence de la cause externe : un endroit non spécifié d'un prison
+Y92.150	lieu d'occurrence de la cause externe : la cuisine d'une maison de redressement pour mineurs
+Y92.151	lieu d'occurrence de la cause externe : la salle à manger d'une maison de redressement pour mineurs
+Y92.152	lieu d'occurrence de la cause externe : la salle de bains d'une maison de redressement pour mineurs
+Y92.153	lieu d'occurrence de la cause externe : la chambre à coucher d'une maison de redressement pour mineurs
+Y92.154	lieu d'occurrence de la cause externe : l'allée d'une maison de redressement pour mineurs
+Y92.155	lieu d'occurrence de la cause externe : le garage d'une maison de redressement pour mineurs
+Y92.156	lieu d'occurrence de la cause externe : la piscine d'une maison de redressement pour mineurs
+Y92.157	lieu d'occurrence de la cause externe : le jardin ou la cour d'une maison de redressement pour mineurs
+Y92.158	lieu d'occurrence de la cause externe : un autre endroit d'une maison de redressement pour mineurs
+Y92.159	lieu d'occurrence de la cause externe : un endroit non spécifié d'une maison de redressement pour mineurs
+Y92.160	lieu d'occurrence de la cause externe : la cuisine d'un internat
+Y92.161	lieu d'occurrence de la cause externe : la salle à manger d'un internat
+Y92.162	lieu d'occurrence de la cause externe : la salle de bains d'un internat
+Y92.163	lieu d'occurrence de la cause externe : la chambre à coucher d'un internat
+Y92.168	lieu d'occurrence de la cause externe : un autre endroit d'un internat
+Y92.169	lieu d'occurrence de la cause externe : un endroit non spécifié d'un internat
+Y92.190	lieu d'occurrence de la cause externe : la cuisine d'une autre institution résidentielle spécifiée
+Y92.191	lieu d'occurrence de la cause externe : la salle à manger d'une autre institution résidentielle spécifiée
+Y92.192	lieu d'occurrence de la cause externe : la salle de bains d'une autre institution résidentielle spécifiée
+Y92.193	lieu d'occurrence de la cause externe : la chambre à coucher d'une autre institution résidentielle spécifiée
+Y92.194	lieu d'occurrence de la cause externe : l'allée d'une autre institution résidentielle spécifiée
+Y92.195	lieu d'occurrence de la cause externe : le garage d'une autre institution résidentielle spécifiée
+Y92.196	lieu d'occurrence de la cause externe : la piscine d'une autre institution résidentielle spécifiée
+Y92.197	lieu d'occurrence de la cause externe : le jardin ou la cour d'une autre institution résidentielle spécifiée
+Y92.198	lieu d'occurrence de la cause externe : un autre endroit d'une autre institution résidentielle spécifiée
+Y92.199	lieu d'occurrence de la cause externe : un endroit non spécifié d'une autre institution résidentielle spécifiée
+Y92.210	lieu d'occurrence de la cause externe : un centre de jour
+Y92.211	lieu d'occurrence de la cause externe : une école primaire
+Y92.212	lieu d'occurrence de la cause externe : une école secondaire, niveau inférieur
+Y92.213	lieu d'occurrence de la cause externe : une école secondaire, niveau supérieur
+Y92.214	lieu d'occurrence de la cause externe : une école supérieure ou une université
+Y92.215	lieu d'occurrence de la cause externe : une école technique
+Y92.218	lieu d'occurrence de la cause externe : une autre école
+Y92.219	lieu d'occurrence de la cause externe : une école non spécifiée
+Y92.22	lieu d'occurrence de la cause externe : une institution religieuse
+Y92.230	lieu d'occurrence de la cause externe : une chambre de patient en hôpital
+Y92.231	lieu d'occurrence de la cause externe : la salle de bains d'une chambre de patient en hôpital
+Y92.232	lieu d'occurrence de la cause externe : un corridor d'un hôpital
+Y92.233	lieu d'occurrence de la cause externe : le cafétéria d'un hôpital
+Y92.234	lieu d'occurrence de la cause externe : la salle d'opération d'un hôpital
+Y92.238	lieu d'occurrence de la cause externe : un autre endroit d'un hôpital
+Y92.239	lieu d'occurrence de la cause externe : un endroit non spécifié d'un hôpital
+Y92.240	lieu d'occurrence de la cause externe : le palais de justice
+Y92.241	lieu d'occurrence de la cause externe : une bibliothèque
+Y92.242	lieu d'occurrence de la cause externe : un bureau de poste
+Y92.243	lieu d'occurrence de la cause externe : la maison communale
+Y92.248	lieu d'occurrence de la cause externe : un autre bâtiment administratif public
+Y92.250	lieu d'occurrence de la cause externe : une galerie d'art
+Y92.251	lieu d'occurrence de la cause externe : un musée
+Y92.252	lieu d'occurrence de la cause externe : une salle de concert
+Y92.253	lieu d'occurrence de la cause externe : un opéra
+Y92.254	lieu d'occurrence de la cause externe : un théâtre
+Y92.258	lieu d'occurrence de la cause externe : un autre bâtiment culturel public
+Y92.26	lieu d'occurrence de la cause externe : cinéma
+Y92.29	lieu d'occurrence de la cause externe : un autre bâtiment public spécifié
+Y92.310	lieu d'occurrence de la cause externe : un terrain de basketball
+Y92.311	lieu d'occurrence de la cause externe : un terrain de squash
+Y92.312	lieu d'occurrence de la cause externe : un terrain de tennis
+Y92.318	lieu d'occurrence de la cause externe : un autre terrain de sport
+Y92.320	lieu d'occurrence de la cause externe : un terrain de baseball
+Y92.321	lieu d'occurrence de la cause externe : un terrain de football américain
+Y92.322	lieu d'occurrence de la cause externe : un terrain de football
+Y92.328	lieu d'occurrence de la cause externe : une autre piste d'athlétisme
+Y92.330	lieu d'occurrence de la cause externe : une piste de patinage sur glace (intérieure) (extérieure)
+Y92.331	lieu d'occurrence de la cause externe : une piste de patinage à roulettes
+Y92.34	lieu d'occurrence de la cause externe : une piscine (publique)
+Y92.39	lieu d'occurrence de la cause externe : une autre aire sportive spécifiée
+Y92.410	lieu d'occurrence de la cause externe : une rue et une grande route non spécifiées
+Y92.411	lieu d'occurrence de la cause externe : une autoroute
+Y92.412	lieu d'occurrence de la cause externe : une route urbaine rapide
+Y92.413	lieu d'occurrence de la cause externe : une route nationale
+Y92.414	lieu d'occurrence de la cause externe : une rue résidentielle ou une commerçante
+Y92.415	lieu d'occurrence de la cause externe : l'entrée ou la sortie d'une rue ou d'une grande route
+Y92.480	lieu d'occurrence de la cause externe : un trottoir
+Y92.481	lieu d'occurrence de la cause externe : une aire de stationnement
+Y92.482	lieu d'occurrence de la cause externe : une piste cyclable
+Y92.488	lieu d'occurrence de la cause externe : d'autres routes asphaltées
+Y92.510	lieu d'occurrence de la cause externe : une banque
+Y92.511	lieu d'occurrence de la cause externe : un restaurant ou un café
+Y92.512	lieu d'occurrence de la cause externe : un supermarché, un magasin ou un marché
+Y92.513	lieu d'occurrence de la cause externe : une boutique, un commerce
+Y92.520	lieu d'occurrence de la cause externe : un aéroport
+Y92.521	lieu d'occurrence de la cause externe : une gare routière pour des autobus
+Y92.522	lieu d'occurrence de la cause externe : une gare ferroviaire
+Y92.523	lieu d'occurrence de la cause externe : une aire de repos d'autoroute
+Y92.524	lieu d'occurrence de la cause externe : une station d'essence
+Y92.530	lieu d'occurrence de la cause externe : un centre de chirurgie ambulatoire
+Y92.531	lieu d'occurrence de la cause externe : le cabinet d'un prestataire de soins
+Y92.532	lieu d'occurrence de la cause externe : un centre de soins d'urgence
+Y92.538	lieu d'occurrence de la cause externe : d'autres établissements de soins de santé ambulatoires
+Y92.59	lieu d'occurrence de la cause externe : d'autres centres d'affaires
+Y92.61	lieu d'occurrence de la cause externe : (tout) bâtiment en cours de construction
+Y92.62	lieu d'occurrence de la cause externe : un dock ou un chantier naval
+Y92.63	lieu d'occurrence de la cause externe : une usine
+Y92.64	lieu d'occurrence de la cause externe : une mine ou une fosse
+Y92.65	lieu d'occurrence de la cause externe : une plate-forme pétrolière
+Y92.69	lieu d'occurrence de la cause externe : une autre zone industrielle et un chantier de construction spécifiés
+Y92.71	lieu d'occurrence de la cause externe : une grange
+Y92.72	lieu d'occurrence de la cause externe : un poulailler
+Y92.73	lieu d'occurrence de la cause externe : un champ
+Y92.74	lieu d'occurrence de la cause externe : un verger
+Y92.79	lieu d'occurrence de la cause externe : un autre endroit de la ferme
+Y92.810	lieu d'occurrence de la cause externe : une automobile
+Y92.811	lieu d'occurrence de la cause externe : un autobus
+Y92.812	lieu d'occurrence de la cause externe : un camion
+Y92.813	lieu d'occurrence de la cause externe : un avion
+Y92.814	lieu d'occurrence de la cause externe : un bateau
+Y92.815	lieu d'occurrence de la cause externe : un train
+Y92.816	lieu d'occurrence de la cause externe : un wagon de métro
+Y92.818	lieu d'occurrence de la cause externe : un autre véhicule de transport
+Y92.820	lieu d'occurrence de la cause externe : un désert
+Y92.821	lieu d'occurrence de la cause externe : un forêt
+Y92.828	lieu d'occurrence de la cause externe : une autre zone naturelle
+Y92.830	lieu d'occurrence de la cause externe : un parc public
+Y92.831	lieu d'occurrence de la cause externe : un parc d'attractions
+Y92.832	lieu d'occurrence de la cause externe : une plage
+Y92.833	lieu d'occurrence de la cause externe : un terrain de camping
+Y92.834	lieu d'occurrence de la cause externe : un jardin zoologique
+Y92.838	lieu d'occurrence de la cause externe : une autre zone de détente
+Y92.84	lieu d'occurrence de la cause externe : un terrain d'entrainement militaire
+Y92.85	lieu d'occurrence de la cause externe : une voie ferrée
+Y92.86	lieu d'occurrence de la cause externe : un abattoir
+Y92.89	lieu d'occurrence de la cause externe : d'autres endroits spécifiés
+Y92.9	un endroit non spécifié ou non applicable
+Y93.1	activité : marche à pied, marche au pas et randonnée
+Y93.2	activité : course à pied
+Y93.11	activité : natation
+Y93.12	activité : plongée d'une plate-forme et d'un tremplin
+Y93.13	activité : water-polo
+Y93.14	activité : aérobic aquatique et exercices dans l'eau
+Y93.15	activité : plongée sous-marine et plongée avec un tuba
+Y93.16	activité : aviron, canoë, kayak, rafting et bouée sur l'eau
+Y93.17	activité : ski nautique et wake boarding
+Y93.18	activité : surf, planche à voiles et boogie boarding
+Y93.19	autre activité impliquant de l'eau et des embarcations
+Y93.21	activité : patinage sur glace
+Y93.22	activité : hockey sur glace
+Y93.23	activité : ski (alpin) (de descente), snowboard, luge et bouée sur neige
+Y93.24	activité : ski de fond
+Y93.29	autre activité impliquant la neige et la glace
+Y93.31	activité : alpinisme, escalade de rocher et escalade sur mur
+Y93.32	activité : descente en rappel
+Y93.33	activité : base jumping
+Y93.34	activité : saut à l'élastique
+Y93.35	activité : deltaplane
+Y93.39	autre activité impliquant l'escalade, rappel et saut
+Y93.41	activité : danse
+Y93.42	activité : yoga
+Y93.43	activité : gymnastique
+Y93.44	activité : trampoline
+Y93.45	activité : pom-pom girl
+Y93.49	autre activité impliquant la danse et d'autres mouvements rythmiques
+Y93.51	activité : patinage à roulettes (en ligne) et skateboard
+Y93.52	activité : équitation
+Y93.53	activité : golf
+Y93.54	activité : bowling
+Y93.55	activité : cyclisme
+Y93.56	activité : saut à la corde
+Y93.57	activité : athlétisme hors la course
+Y93.59	autre activités sportives ou athlétiques pratiquées individuellement
+Y93.61	activité : football américain
+Y93.62	activité : flag football ou touch football
+Y93.63	activité : rugby
+Y93.64	activité : baseball
+Y93.65	activité : lacrosse et hockey sur gazon
+Y93.66	activité : football
+Y93.67	activité : basketball
+Y93.A2	activité : gymnastique suédoise
+Y93.A3	activité : aérobic et step
+Y93.A4	activité : entrainement en circuit
+Y93.A5	activité : parcours d'obstacles
+Y93.A6	activité : exercices sur terrain
+Y93.A9	autre activité impliquant l'exercice cardiorespiratoire
+Y93.B1	activité : machines d'exercice principalement pour le renforcement musculaire
+Y93.B2	activité : pompages et musculation abdominale
+Y93.B3	activité : poids libres
+Y93.B4	activité : exercices physiques méthode Pilates
+Y93.B9	autre activité impliquant les exercices de renforcement musculaire
+Y93.C1	activité : usage de l'ordinateur
+Y93.C2	activité : dispositif électronique interactif portatif
+Y93.C9	autre activité impliquant la technologie informatique et les dispositifs électroniques
+Y93.D1	activité : tricoter et faire du crochet
+Y93.D2	activité : couture
+Y93.D3	activité : construction et finition de mobilier
+Y93.D9	autre activité impliquant les arts et les ouvrages artisanaux
+Y93.E1	activité : bain et douche individuel
+Y93.E2	activité : lessiver
+Y93.E3	activité : passer l'aspirateur
+Y93.E4	activité : repassage
+Y93.E5	activité : passer la serpillière et nettoyer
+Y93.E6	activité : déménagement
+Y93.E8	autre activité d'hygiène personnelle
+Y93.E9	autre activité d'entretien ménager et vestimentaire
+Y93.F1	activité, prestation de soins, baigner
+Y93.F2	activité : prestation de soins, soulever
+Y93.F9	activité : autre prestation de soins
+Y93.G1	activité : préparation de la nourriture et du nettoyage
+Y93.G2	activité : grillade et fumage de nourriture
+Y93.G3	activité : cuisson
+Y93.G9	autre activité impliquant la cuisson et la grillade
+Y93.H1	activité : creuser, pelleter et ratisser
+Y93.H2	activité : jardinage et aménagements paysagers
+Y93.H3	activité : bâtir et construire
+Y93.H9	autre activité impliquant l'entretien de la propriété extérieure et des terrains, du bâtiment et de la construction
+Y93.I1	activité : faire des montagnes russes
+Y93.I9	autre activité impliquant du mouvement externe
+Y93.J1	activité : jouer du piano
+Y93.J2	activité : jouer de la batterie et d'un autre instrument de percussion
+Y93.J3	activité : jouer d'un instrument à cordes
+Y93.J4	activité : jouer d'un instrument à vent et de cuivres
+Y93.K1	activité : promener un animal
+Y93.K2	activité : traire un animal
+Y93.K3	activité : toilettage et tonte d'un animal
+Y93.K9	autre activité pour soins aux animaux
+Y95	affection nosocomiale
+Y99.0	activité civile en vue d'obtenir un revenu ou un paiement
+Y99.1	activité militaire
+Y99.2	bénévolat
+Y99.8	autre état par une cause externe
+Y99.9	état non spécifié par une cause externe

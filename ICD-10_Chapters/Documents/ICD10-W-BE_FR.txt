@@ -1,0 +1,1149 @@
+W00.0XXA	chute sur le même niveau due à la glace et la neige, contact initial
+W00.0XXD	chute sur le même niveau due à la glace et la neige, contact subséquent
+W00.0XXS	chute sur le même niveau due à la glace et la neige, séquelle
+W00.1XXA	chute de l'escalier et des marches due à la glace et la neige, contact initial
+W00.1XXD	chute de l'escalier et des marches due à la glace et la neige, contact subséquent
+W00.1XXS	chute de l'escalier et des marches due à la glace et la neige, séquelle
+W00.2XXA	autre chute d'un niveau à un autre due à la glace et la neige, contact initial
+W00.2XXD	autre chute d'un niveau à un autre due à la glace et la neige, contact subséquent
+W00.2XXS	autre chute d'un niveau à un autre due à la glace et la neige, séquelle
+W00.9XXA	chute non spécifiée due à la glace et la neige, contact initial
+W00.9XXD	chute non spécifiée due à la glace et la neige, contact subséquent
+W00.9XXS	chute non spécifiée due à la glace et la neige, séquelle
+W01.0XXA	chute sur le même niveau par un glissade, faux pas et trébuchement sans heurt contre un objet, contact initial
+W01.0XXD	chute sur le même niveau par un glissade, faux pas et trébuchement sans heurt contre un objet, contact subséquent
+W01.0XXS	chute sur le même niveau par un glissade, faux pas et trébuchement sans heurt contre un objet, séquelle
+W01.10XA	chute sur le même niveau par un glissade, faux pas et trébuchement avec un heurt contre un objet non spécifié, contact initial
+W01.10XD	chute sur le même niveau par un glissade, faux pas et trébuchement avec un heurt contre un objet non spécifié, contact subséquent
+W01.10XS	chute sur le même niveau par un glissade, faux pas et trébuchement avec un heurt contre un objet non spécifié, séquelle
+W01.110A	chute sur le même niveau par un glissade, faux pas et trébuchement avec un heurt contre verre tranchant, contact initial
+W01.110D	chute sur le même niveau par un glissade, faux pas et trébuchement avec un heurt contre verre tranchant, contact subséquent
+W01.110S	chute sur le même niveau par un glissade, faux pas et trébuchement avec un heurt contre verre tranchant, séquelle
+W01.111A	chute sur le même niveau par un glissade, faux pas et trébuchement avec un heurt contre un objet électrique ou une machine, contact initial
+W01.111D	chute sur le même niveau par un glissade, faux pas et trébuchement avec un heurt contre un objet électrique ou une machine, contact subséquent
+W01.111S	chute sur le même niveau par un glissade, faux pas et trébuchement avec un heurt contre un objet électrique ou une machine, séquelle
+W01.118A	chute sur le même niveau par un glissade, faux pas et trébuchement avec un heurt contre un autre objet tranchant, contact initial
+W01.118D	chute sur le même niveau par un glissade, faux pas et trébuchement avec un heurt contre un autre objet tranchant, contact subséquent
+W01.118S	chute sur le même niveau par un glissade, faux pas et trébuchement avec un heurt contre un autre objet tranchant, séquelle
+W01.119A	chute sur le même niveau par un glissade, faux pas et trébuchement avec un heurt contre un objet tranchant non spécifié, contact initial
+W01.119D	chute sur le même niveau par un glissade, faux pas et trébuchement avec un heurt contre un objet tranchant non spécifié, contact subséquent
+W01.119S	chute sur le même niveau par un glissade, faux pas et trébuchement avec un heurt contre un objet tranchant non spécifié, séquelle
+W01.190A	chute sur le même niveau par un glissade, faux pas et trébuchement avec un heurt contre du mobilier, contact initial
+W01.190D	chute sur le même niveau par un glissade, faux pas et trébuchement avec un heurt contre du mobilier, contact subséquent
+W01.190S	chute sur le même niveau par un glissade, faux pas et trébuchement avec un heurt contre du mobilier, séquelle
+W01.198A	chute sur le même niveau par un glissade, faux pas et trébuchement avec un heurt contre un autre objet, contact initial
+W01.198D	chute sur le même niveau par un glissade, faux pas et trébuchement avec un heurt contre un autre objet, contact subséquent
+W01.198S	chute sur le même niveau par un glissade, faux pas et trébuchement avec un heurt contre un autre objet, séquelle
+W03.XXXA	autre chute sur le même niveau due à une collision avec une autre personne, contact initial
+W03.XXXD	autre chute sur le même niveau due à une collision avec une autre personne, contact subséquent
+W03.XXXS	autre chute sur le même niveau due à une collision avec une autre personne, séquelle
+W04.XXXA	chute en étant porté ou soutenu par d'autres personnes, contact initial
+W04.XXXD	chute en étant porté ou soutenu par d'autres personnes, contact subséquent
+W04.XXXS	chute en étant porté ou soutenu par d'autres personnes, séquelle
+W05.0XXA	chute d'un fauteuil roulant immobile, contact initial
+W05.0XXD	chute d'un fauteuil roulant immobile, contact subséquent
+W05.0XXS	chute d'un fauteuil roulant immobile, séquelle
+W05.1XXA	chute d'un scooter non motorisé immobile, contact initial
+W05.1XXD	chute d'un scooter non motorisé immobile, contact subséquent
+W05.1XXS	chute d'un scooter non motorisé immobile, séquelle
+W05.2XXA	chute d'un scooter motorisé immobile, contact initial
+W05.2XXD	chute d'un scooter motorisé immobile, contact subséquent
+W05.2XXS	chute d'un scooter motorisé immobile, séquelle
+W06.XXXA	chute d'un lit, contact initial
+W06.XXXD	chute d'un lit, contact subséquent
+W06.XXXS	chute d'un lit, séquelle
+W07.XXXA	chute d'une chaise, contact initial
+W07.XXXD	chute d'une chaise, contact subséquent
+W07.XXXS	chute d'une chaise, séquelle
+W08.XXXA	chute d'autre mobilier, contact initial
+W08.XXXD	chute d'autre mobilier, contact subséquent
+W08.XXXS	chute d'autre mobilier, séquelle
+W09.0XXA	chute sur ou d'un toboggan, contact initial
+W09.0XXD	chute sur ou d'un toboggan, contact subséquent
+W09.0XXS	chute sur ou d'un toboggan, séquelle
+W09.1XXA	chute d'une balançoire, contact initial
+W09.1XXD	chute d'une balançoire, contact subséquent
+W09.1XXS	chute d'une balançoire, séquelle
+W09.2XXA	chute sur ou d'une cage à écureuil, contact initial
+W09.2XXD	chute sur ou d'une cage à écureuil, contact subséquent
+W09.2XXS	chute sur ou d'une cage à écureuil, séquelle
+W09.8XXA	chute sur ou à partir d'un autre équipement de plaine de jeux, contact initial
+W09.8XXD	chute sur ou à partir d'un autre équipement de plaine de jeux, contact subséquent
+W09.8XXS	chute sur ou à partir d'un autre équipement de plaine de jeux, séquelle
+W10.0XXA	chute sur ou d'un escalator, contact initial
+W10.0XXD	chute sur ou d'un escalator, contact subséquent
+W10.0XXS	chute sur ou d'un escalator, séquelle
+W10.1XXA	chute sur ou de la bordure d'un trottoir, contact initial
+W10.1XXD	chute sur ou de la bordure d'un trottoir, contact subséquent
+W10.1XXS	chute sur ou de la bordure d'un trottoir, séquelle
+W10.2XXA	chute sur ou d'une pente, contact initial
+W10.2XXD	chute sur ou d'une pente, contact subséquent
+W10.2XXS	chute sur ou d'une pente, séquelle
+W10.8XXA	chute sur ou d'un autre escalier et des marches, contact initial
+W10.8XXD	chute sur ou d'un autre escalier et des marches, contact subséquent
+W10.8XXS	chute sur ou d'un autre escalier et des marches, séquelle
+W10.9XXA	chute sur ou d'un escalier et des marches non spécifiés, contact initial
+W10.9XXD	chute sur ou d'un escalier et des marches non spécifiés, contact subséquent
+W10.9XXS	chute sur ou d'un escalier et des marches non spécifiés, séquelle
+W11.XXXA	chute sur et d'une échelle, contact initial
+W11.XXXD	chute sur et d'une échelle, contact subséquent
+W11.XXXS	chute sur et d'une échelle, séquelle
+W12.XXXA	chute sur et d'un échafaudage, contact initial
+W12.XXXD	chute sur et d'un échafaudage, contact subséquent
+W12.XXXS	chute sur et d'un échafaudage, séquelle
+W13.0XXA	chute de, du haut de, à travers un balcon, contact initial
+W13.0XXD	chute de, du haut de, à travers un balcon, contact subséquent
+W13.0XXS	chute de, du haut de, à travers un balcon, séquelle
+W13.1XXA	chute de, du haut de, à travers un pont, contact initial
+W13.1XXD	chute de, du haut de, à travers un pont, contact subséquent
+W13.1XXS	chute de, du haut de, à travers un pont, séquelle
+W13.2XXA	chute de, du haut de, à travers un toit, contact initial
+W13.2XXD	chute de, du haut de, à travers un toit, contact subséquent
+W13.2XXS	chute de, du haut de, à travers un toit, séquelle
+W13.3XXA	chute à travers un plancher, contact initial
+W13.3XXD	chute à travers un plancher, contact subséquent
+W13.3XXS	chute à travers un plancher, séquelle
+W13.4XXA	chute de, du haut de, à travers une fenêtre, contact initial
+W13.4XXD	chute de, du haut de, à travers une fenêtre, contact subséquent
+W13.4XXS	chute de, du haut de, à travers une fenêtre, séquelle
+W13.8XXA	chute de, du haut de, à travers un autre bâtiment ou une construction, contact initial
+W13.8XXD	chute de, du haut de, à travers un autre bâtiment ou une construction, contact subséquent
+W13.8XXS	chute de, du haut de, à travers un autre bâtiment ou une construction, séquelle
+W13.9XXA	chute de, du haut de, à travers un bâtiment, non spécifié autrement, contact initial
+W13.9XXD	chute de, du haut de, à travers un bâtiment, non spécifié autrement, contact subséquent
+W13.9XXS	chute de, du haut de, à travers un bâtiment, non spécifié autrement, séquelle
+W14.XXXA	chute d'un arbre, contact initial
+W14.XXXD	chute d'un arbre, contact subséquent
+W14.XXXS	chute d'un arbre, séquelle
+W15.XXXA	chute d'une falaise, contact initial
+W15.XXXD	chute d'une falaise, contact subséquent
+W15.XXXS	chute d'une falaise, séquelle
+W16.011A	chute dans une piscine avec un heurt contre la surface de l'eau causant la noyade et la submersion, contact initial
+W16.011D	chute dans une piscine avec un heurt contre la surface de l'eau causant la noyade et la submersion, contact subséquent
+W16.011S	chute dans une piscine avec un heurt contre la surface de l'eau causant la noyade et la submersion, séquelle
+W16.012A	chute dans une piscine avec un heurt contre la surface de l'eau causant un autre traumatisme, contact initial
+W16.012D	chute dans une piscine avec un heurt contre la surface de l'eau causant un autre traumatisme, contact subséquent
+W16.012S	chute dans une piscine avec un heurt contre la surface de l'eau causant un autre traumatisme, séquelle
+W16.021A	chute dans une piscine avec un heurt contre le fond causant la noyade et la submersion, contact initial
+W16.021D	chute dans une piscine avec un heurt contre le fond causant la noyade et la submersion, contact subséquent
+W16.021S	chute dans une piscine avec un heurt contre le fond causant la noyade et la submersion, séquelle
+W16.022A	chute dans une piscine avec un heurt contre le fond causant un autre traumatisme, contact initial
+W16.022D	chute dans une piscine avec un heurt contre le fond causant un autre traumatisme, contact subséquent
+W16.022S	chute dans une piscine avec un heurt contre le fond causant un autre traumatisme, séquelle
+W16.031A	chute dans une piscine avec un heurt contre la paroi causant la noyade et la submersion, contact initial
+W16.031D	chute dans une piscine avec un heurt contre la paroi causant la noyade et la submersion, contact subséquent
+W16.031S	chute dans une piscine avec un heurt contre la paroi causant la noyade et la submersion, séquelle
+W16.032A	chute dans une piscine avec un heurt contre la paroi causant un autre traumatisme, contact initial
+W16.032D	chute dans une piscine avec un heurt contre la paroi causant un autre traumatisme, contact subséquent
+W16.032S	chute dans une piscine avec un heurt contre la paroi causant un autre traumatisme, séquelle
+W16.111A	chute dans un plan d'eau naturel avec un heurt contre la surface de l'eau causant la noyade et la submersion, contact initial
+W16.111D	chute dans un plan d'eau naturel avec un heurt contre la surface de l'eau causant la noyade et la submersion, contact subséquent
+W16.111S	chute dans un plan d'eau naturel avec un heurt contre la surface de l'eau causant la noyade et la submersion, séquelle
+W16.112A	chute dans un plan d'eau naturel avec un heurt contre la surface de l'eau causant un autre traumatisme, contact initial
+W16.112D	chute dans un plan d'eau naturel avec un heurt contre la surface de l'eau causant un autre traumatisme, contact subséquent
+W16.112S	chute dans un plan d'eau naturel avec un heurt contre la surface de l'eau causant un autre traumatisme, séquelle
+W16.121A	chute dans un plan d'eau naturel avec un heurt contre le fond causant la noyade et la submersion, contact initial
+W16.121D	chute dans un plan d'eau naturel avec un heurt contre le fond causant la noyade et la submersion, contact subséquent
+W16.121S	chute dans un plan d'eau naturel avec un heurt contre le fond causant la noyade et la submersion, séquelle
+W16.122A	chute dans un plan d'eau naturel avec un heurt contre le fond causant un autre traumatisme, contact initial
+W16.122D	chute dans un plan d'eau naturel avec un heurt contre le fond causant un autre traumatisme, contact subséquent
+W16.122S	chute dans un plan d'eau naturel avec un heurt contre le fond causant un autre traumatisme, séquelle
+W16.131A	chute dans un plan d'eau naturel avec un heurt contre le bord causant la noyade et la submersion, contact initial
+W16.131D	chute dans un plan d'eau naturel avec un heurt contre le bord causant la noyade et la submersion, contact subséquent
+W16.131S	chute dans un plan d'eau naturel avec un heurt contre le bord causant la noyade et la submersion, séquelle
+W16.132A	chute dans un plan d'eau naturel avec un heurt contre le bord causant un autre traumatisme, contact initial
+W16.132D	chute dans un plan d'eau naturel avec un heurt contre le bord causant un autre traumatisme, contact subséquent
+W16.132S	chute dans un plan d'eau naturel avec un heurt contre le bord causant un autre traumatisme, séquelle
+W16.211A	chute dans une baignoire remplie causant la noyade et la submersion, contact initial
+W16.211D	chute dans une baignoire remplie causant la noyade et la submersion, contact subséquent
+W16.211S	chute dans une baignoire remplie causant la noyade et la submersion, séquelle
+W16.212A	chute dans une baignoire remplie causant un autre traumatisme, contact initial
+W16.212D	chute dans une baignoire remplie causant un autre traumatisme, contact subséquent
+W16.212S	chute dans une baignoire remplie causant un autre traumatisme, séquelle
+W16.221A	chute dans un seau d'eau causant la noyade et la submersion, contact initial
+W16.221D	chute dans un seau d'eau causant la noyade et la submersion, contact subséquent
+W16.221S	chute dans un seau d'eau causant la noyade et la submersion, séquelle
+W16.222A	chute dans un seau d'eau causant un autre traumatisme, contact initial
+W16.222D	chute dans un seau d'eau causant un autre traumatisme, contact subséquent
+W16.222S	chute dans un seau d'eau causant un autre traumatisme, séquelle
+W16.311A	chute dans un autre plan d'eau avec un heurt contre la surface de l'eau causant la noyade et la submersion, contact initial
+W16.311D	chute dans un autre plan d'eau avec un heurt contre la surface de l'eau causant la noyade et la submersion, contact subséquent
+W16.311S	chute dans un autre plan d'eau avec un heurt contre la surface de l'eau causant la noyade et la submersion, séquelle
+W16.312A	chute dans un autre plan d'eau avec un heurt contre la surface de l'eau causant un autre traumatisme, contact initial
+W16.312D	chute dans un autre plan d'eau avec un heurt contre la surface de l'eau causant un autre traumatisme, contact subséquent
+W16.312S	chute dans un autre plan d'eau avec un heurt contre la surface de l'eau causant un autre traumatisme, séquelle
+W16.321A	chute dans un autre plan d'eau avec un heurt contre le fond causant la noyade et la submersion, contact initial
+W16.321D	chute dans un autre plan d'eau avec un heurt contre le fond causant la noyade et la submersion, contact subséquent
+W16.321S	chute dans un autre plan d'eau avec un heurt contre le fond causant la noyade et la submersion, séquelle
+W16.322A	chute dans un autre plan d'eau avec un heurt contre le fond causant un autre traumatisme, contact initial
+W16.322D	chute dans un autre plan d'eau avec un heurt contre le fond causant un autre traumatisme, contact subséquent
+W16.322S	chute dans un autre plan d'eau avec un heurt contre le fond causant un autre traumatisme, séquelle
+W16.331A	chute dans un autre plan d'eau avec un heurt contre la paroi causant la noyade et la submersion, contact initial
+W16.331D	chute dans un autre plan d'eau avec un heurt contre la paroi causant la noyade et la submersion, contact subséquent
+W16.331S	chute dans un autre plan d'eau avec un heurt contre la paroi causant la noyade et la submersion, séquelle
+W16.332A	chute dans un autre plan d'eau avec un heurt contre la paroi causant un autre traumatisme, contact initial
+W16.332D	chute dans un autre plan d'eau avec un heurt contre la paroi causant un autre traumatisme, contact subséquent
+W16.332S	chute dans un autre plan d'eau avec un heurt contre la paroi causant un autre traumatisme, séquelle
+W16.41XA	chute dans un plan d'eau non spécifié causant la noyade et la submersion, contact initial
+W16.41XD	chute dans un plan d'eau non spécifié causant la noyade et la submersion, contact subséquent
+W16.41XS	chute dans un plan d'eau non spécifié causant la noyade et la submersion, séquelle
+W16.42XA	chute dans un plan d'eau non spécifié causant un autre traumatisme, contact initial
+W16.42XD	chute dans un plan d'eau non spécifié causant un autre traumatisme, contact subséquent
+W16.42XS	chute dans un plan d'eau non spécifié causant un autre traumatisme, séquelle
+W16.511A	plongée ou saut dans une piscine avec un heurt contre la surface de l'eau causant la noyade et la submersion, contact initial
+W16.511D	plongée ou saut dans une piscine avec un heurt contre la surface de l'eau causant la noyade et la submersion, contact subséquent
+W16.511S	plongée ou saut dans une piscine avec un heurt contre la surface de l'eau causant la noyade et la submersion, séquelle
+W16.512A	plongée ou saut dans une piscine avec un heurt contre la surface de l'eau causant un autre traumatisme, contact initial
+W16.512D	plongée ou saut dans une piscine avec un heurt contre la surface de l'eau causant un autre traumatisme, contact subséquent
+W16.512S	plongée ou saut dans une piscine avec un heurt contre la surface de l'eau causant un autre traumatisme, séquelle
+W16.521A	plongée ou saut dans une piscine avec un heurt contre le fond causant la noyade et la submersion, contact initial
+W16.521D	plongée ou saut dans une piscine avec un heurt contre le fond causant la noyade et la submersion, contact subséquent
+W16.521S	plongée ou saut dans une piscine avec un heurt contre le fond causant la noyade et la submersion, séquelle
+W16.522A	plongée ou saut dans une piscine avec un heurt contre le fond causant un autre traumatisme, contact initial
+W16.522D	plongée ou saut dans une piscine avec un heurt contre le fond causant un autre traumatisme, contact subséquent
+W16.522S	plongée ou saut dans une piscine avec un heurt contre le fond causant un autre traumatisme, séquelle
+W16.531A	plongée ou saut dans une piscine avec un heurt contre la paroi causant la noyade et la submersion, contact initial
+W16.531D	plongée ou saut dans une piscine avec un heurt contre la paroi causant la noyade et la submersion, contact subséquent
+W16.531S	plongée ou saut dans une piscine avec un heurt contre la paroi causant la noyade et la submersion, séquelle
+W16.532A	plongée ou saut dans une piscine avec un heurt contre la paroi causant un autre traumatisme, contact initial
+W16.532D	plongée ou saut dans une piscine avec un heurt contre la paroi causant un autre traumatisme, contact subséquent
+W16.532S	plongée ou saut dans une piscine avec un heurt contre la paroi causant un autre traumatisme, séquelle
+W16.611A	plongée ou saut dans un plan naturel d'eau avec un heurt contre la surface de l'eau causant la noyade et la submersion, contact initial
+W16.611D	plongée ou saut dans un plan naturel d'eau avec un heurt contre la surface de l'eau causant la noyade et la submersion, contact subséquent
+W16.611S	plongée ou saut dans un plan naturel d'eau avec un heurt contre la surface de l'eau causant la noyade et la submersion, séquelle
+W16.612A	plongée ou saut dans un plan naturel d'eau avec un heurt contre la surface de l'eau causant un autre traumatisme, contact initial
+W16.612D	plongée ou saut dans un plan naturel d'eau avec un heurt contre la surface de l'eau causant un autre traumatisme, contact subséquent
+W16.612S	plongée ou saut dans un plan naturel d'eau avec un heurt contre la surface de l'eau causant un autre traumatisme, séquelle
+W16.621A	plongée ou saut dans un plan naturel d'eau avec un heurt contre le fond causant la noyade et la submersion, contact initial
+W16.621D	plongée ou saut dans un plan naturel d'eau avec un heurt contre le fond causant la noyade et la submersion, contact subséquent
+W16.621S	plongée ou saut dans un plan naturel d'eau avec un heurt contre le fond causant la noyade et la submersion, séquelle
+W16.622A	plongée ou saut dans un plan naturel d'eau avec un heurt contre le fond causant un autre traumatisme, contact initial
+W16.622D	plongée ou saut dans un plan naturel d'eau avec un heurt contre le fond causant un autre traumatisme, contact subséquent
+W16.622S	plongée ou saut dans un plan naturel d'eau avec un heurt contre le fond causant un autre traumatisme, séquelle
+W16.711A	plongée ou saut hors d'un bateau avec un heurt contre la surface de l'eau causant la noyade et la submersion, contact initial
+W16.711D	plongée ou saut hors d'un bateau avec un heurt contre la surface de l'eau causant la noyade et la submersion, contact subséquent
+W16.711S	plongée ou saut hors d'un bateau avec un heurt contre la surface de l'eau causant la noyade et la submersion, séquelle
+W16.712A	plongée ou saut hors d'un bateau avec un heurt contre la surface de l'eau causant un autre traumatisme, contact initial
+W16.712D	plongée ou saut hors d'un bateau avec un heurt contre la surface de l'eau causant un autre traumatisme, contact subséquent
+W16.712S	plongée ou saut hors d'un bateau avec un heurt contre la surface de l'eau causant un autre traumatisme, séquelle
+W16.721A	plongée ou saut hors d'un bateau avec un heurt contre le fond causant la noyade et la submersion, contact initial
+W16.721D	plongée ou saut hors d'un bateau avec un heurt contre le fond causant la noyade et la submersion, contact subséquent
+W16.721S	plongée ou saut hors d'un bateau avec un heurt contre le fond causant la noyade et la submersion, séquelle
+W16.722A	plongée ou saut hors d'un bateau avec un heurt contre le fond causant un autre traumatisme, contact initial
+W16.722D	plongée ou saut hors d'un bateau avec un heurt contre le fond causant un autre traumatisme, contact subséquent
+W16.722S	plongée ou saut hors d'un bateau avec un heurt contre le fond causant un autre traumatisme, séquelle
+W16.811A	plongée ou saut dans un autre plan d'eau avec un heurt contre la surface de l'eau causant la noyade et la submersion, contact initial
+W16.811D	plongée ou saut dans un autre plan d'eau avec un heurt contre la surface de l'eau causant la noyade et la submersion, contact subséquent
+W16.811S	plongée ou saut dans un autre plan d'eau avec un heurt contre la surface de l'eau causant la noyade et la submersion, séquelle
+W16.812A	plongée ou saut dans un autre plan d'eau avec un heurt contre la surface de l'eau causant un autre traumatisme, contact initial
+W16.812D	plongée ou saut dans un autre plan d'eau avec un heurt contre la surface de l'eau causant un autre traumatisme, contact subséquent
+W16.812S	plongée ou saut dans un autre plan d'eau avec un heurt contre la surface de l'eau causant un autre traumatisme, séquelle
+W16.821A	plongée ou saut dans un autre plan d'eau avec un heurt contre le fond causant la noyade et la submersion, contact initial
+W16.821D	plongée ou saut dans un autre plan d'eau avec un heurt contre le fond causant la noyade et la submersion, contact subséquent
+W16.821S	plongée ou saut dans un autre plan d'eau avec un heurt contre le fond causant la noyade et la submersion, séquelle
+W16.822A	plongée ou saut dans un autre plan d'eau avec un heurt contre le fond causant un autre traumatisme, contact initial
+W16.822D	plongée ou saut dans un autre plan d'eau avec un heurt contre le fond causant un autre traumatisme, contact subséquent
+W16.822S	plongée ou saut dans un autre plan d'eau avec un heurt contre le fond causant un autre traumatisme, séquelle
+W16.831A	plongée ou saut dans un autre plan d'eau avec un heurt contre la paroi causant la noyade et la submersion, contact initial
+W16.831D	plongée ou saut dans un autre plan d'eau avec un heurt contre la paroi causant la noyade et la submersion, contact subséquent
+W16.831S	plongée ou saut dans un autre plan d'eau avec un heurt contre la paroi causant la noyade et la submersion, séquelle
+W16.832A	plongée ou saut dans un autre plan d'eau avec un heurt contre la paroi causant un autre traumatisme, contact initial
+W16.832D	plongée ou saut dans un autre plan d'eau avec un heurt contre la paroi causant un autre traumatisme, contact subséquent
+W16.832S	plongée ou saut dans un autre plan d'eau avec un heurt contre la paroi causant un autre traumatisme, séquelle
+W16.91XA	plongée ou saut dans un plan d'eau non spécifié causant la noyade et la submersion, contact initial
+W16.91XD	plongée ou saut dans un plan d'eau non spécifié causant la noyade et la submersion, contact subséquent
+W16.91XS	plongée ou saut dans un plan d'eau non spécifié causant la noyade et la submersion, séquelle
+W16.92XA	plongée ou saut dans un plan d'eau non spécifié causant un autre traumatisme, contact initial
+W16.92XD	plongée ou saut dans un plan d'eau non spécifié causant un autre traumatisme, contact subséquent
+W17.1XXS	chute dans une évacuation d'eau pluviale ou un trou d'homme, séquelle
+W17.2XXA	chute dans un trou, contact initial
+W17.2XXD	chute dans un trou, contact subséquent
+W17.2XXS	chute dans un trou, séquelle
+W17.3XXA	chute dans une piscine vide, contact initial
+W17.3XXD	chute dans une piscine vide, contact subséquent
+W17.3XXS	chute dans une piscine vide, séquelle
+W17.4XXA	chute d'un quai, contact initial
+W17.4XXD	chute d'un quai, contact subséquent
+W17.4XXS	chute d'un quai, séquelle
+W17.81XA	chute d'une digue, d'un quai ou d'une berge (colline), contact initial
+W17.81XD	chute d'une digue, d'un quai ou d'une berge (colline), contact subséquent
+W17.81XS	chute d'une digue, d'un quai ou d'une berge (colline), séquelle
+W26.0XXA	contact avec un couteau, contact initial
+W26.0XXD	contact avec un couteau, contact subséquent
+W26.0XXS	contact avec un couteau, séquelle
+W26.1XXA	contact avec une épée ou une dague, contact initial
+W26.1XXD	contact avec une épée ou une dague, contact subséquent
+W26.1XXS	contact avec une épée ou une dague, séquelle
+W27.0XXA	contact avec un outil d'établi, contact initial
+W27.0XXD	contact avec un outil d'établi, contact subséquent
+W27.0XXS	contact avec un outil d'établi, séquelle
+W27.1XXA	contact avec un outil de jardinage, contact initial
+W27.1XXD	contact avec un outil de jardinage, contact subséquent
+W27.1XXS	contact avec un outil de jardinage, séquelle
+W27.2XXA	contact avec des ciseaux, contact initial
+W53.11XD	mordu par un rat, contact subséquent
+W53.11XS	mordu par un rat, séquelle
+W53.19XA	autre contact avec un rat, contact initial
+W53.19XD	autre contact avec un rat, contact subséquent
+W53.19XS	autre contact avec un rat, séquelle
+W53.21XA	mordu par un écureuil, contact initial
+W53.21XD	mordu par un écureuil, contact subséquent
+W53.21XS	mordu par un écureuil, séquelle
+W53.29XA	autre contact avec un écureuil, contact initial
+W53.29XD	autre contact avec un écureuil, contact subséquent
+W53.29XS	autre contact avec un écureuil, séquelle
+W53.81XA	mordu par un autre rongeur, contact initial
+W53.81XD	mordu par un autre rongeur, contact subséquent
+W56.81XS	mordu par d'autres animaux marins non venimeux, séquelle
+W56.82XA	heurté par d'autres animaux marins non venimeux, contact initial
+W56.82XD	heurté par d'autres animaux marins non venimeux, contact subséquent
+W56.82XS	heurté par d'autres animaux marins non venimeux, séquelle
+W56.89XA	autre contact avec d'autres animaux marins non venimeux, contact initial
+W56.89XD	autre contact avec d'autres animaux marins non venimeux, contact subséquent
+W56.89XS	autre contact avec d'autres animaux marins non venimeux, séquelle
+W57.XXXA	mordu ou piqué par un insecte et d'autres arthropodes non venimeux, contact initial
+W57.XXXD	mordu ou piqué par un insecte et d'autres arthropodes non venimeux, contact subséquent
+W57.XXXS	mordu ou piqué par un insecte et d'autres arthropodes non venimeux, séquelle
+W58.01XA	mordu par un alligator, contact initial
+W58.01XD	mordu par un alligator, contact subséquent
+W17.82XA	chute hors d'un caddie, contact initial
+W17.82XD	chute hors d'un caddie, contact subséquent
+W17.82XS	chute hors d'un caddie, séquelle
+W17.89XA	autre chute d'un niveau à un autre, contact initial
+W17.89XD	autre chute d'un niveau à un autre, contact subséquent
+W17.89XS	autre chute d'un niveau à un autre, séquelle
+W18.00XA	heurt contre un objet non spécifié avec une chute subséquente, contact initial
+W18.00XD	heurt contre un objet non spécifié avec une chute subséquente, contact subséquent
+W18.00XS	heurt contre un objet non spécifié avec une chute subséquente, séquelle
+W18.01XA	heurt contre du matériel de sport avec une chute subséquente, contact initial
+W18.01XD	heurt contre du matériel de sport avec une chute subséquente, contact subséquent
+W18.01XS	heurt contre du matériel de sport avec une chute subséquente, séquelle
+W18.02XA	heurt contre un vitrage avec une chute subséquente, contact initial
+W18.02XD	heurt contre un vitrage avec une chute subséquente, contact subséquent
+W18.02XS	heurt contre un vitrage avec une chute subséquente, séquelle
+W18.09XA	heurt contre un autre objet avec une chute subséquente, contact initial
+W18.09XD	heurt contre un autre objet avec une chute subséquente, contact subséquent
+W18.09XS	heurt contre un autre objet avec une chute subséquente, séquelle
+W18.11XA	chute de la cuvette des toilettes sans heurt contre un objet, contact initial
+W18.11XD	chute de la cuvette des toilettes sans heurt contre un objet, contact subséquent
+W18.11XS	chute de la cuvette des toilettes sans heurt contre un objet, séquelle
+W18.12XA	chute de la cuvette des toilettes avec un heurt contre un objet, contact initial
+W18.12XD	chute de la cuvette des toilettes avec un heurt contre un objet, contact subséquent
+W18.12XS	chute de la cuvette des toilettes avec un heurt contre un objet, séquelle
+W18.2XXA	chute dans une douche ou dans une baignoire vide, contact initial
+W18.2XXD	chute dans une douche ou dans une baignoire vide, contact subséquent
+W18.2XXS	chute dans une douche ou dans une baignoire vide, séquelle
+W18.30XA	chute sur le même niveau, non spécifiée, contact initial
+W18.30XD	chute sur le même niveau, non spécifiée, contact subséquent
+W18.30XS	chute sur le même niveau, non spécifiée, séquelle
+W18.31XA	chute sur le même niveau après avoir marché sur un objet, contact initial
+W18.31XD	chute sur le même niveau après avoir marché sur un objet, contact subséquent
+W18.31XS	chute sur le même niveau après avoir marché sur un objet, séquelle
+W18.39XA	autre chute sur le même niveau, contact initial
+W18.39XD	autre chute sur le même niveau, contact subséquent
+W18.39XS	autre chute sur le même niveau, séquelle
+W18.40XA	glissade, faux pas et trébuchement sans chute, non spécifiés, contact initial
+W18.40XD	glissade, faux pas et trébuchement sans chute, non spécifiés, contact subséquent
+W18.40XS	glissade, faux pas et trébuchement sans chute, non spécifiés, séquelle
+W18.41XA	glissade, faux pas et trébuchement sans chute après avoir marché sur un objet, contact initial
+W18.41XD	glissade, faux pas et trébuchement sans chute après avoir marché sur un objet, contact subséquent
+W18.41XS	glissade, faux pas et trébuchement sans chute après avoir marché sur un objet, séquelle
+W18.42XA	glissade, faux pas et trébuchement sans chute après avoir marché dans un trou ou une fosse, contact initial
+W18.42XD	glissade, faux pas et trébuchement sans chute après avoir marché dans un trou ou une fosse, contact subséquent
+W18.42XS	glissade, faux pas et trébuchement sans chute après avoir marché dans un trou ou une fosse, séquelle
+W18.43XA	glissade, faux pas et trébuchement sans chute après avoir marché d'un niveau à un autre, contact initial
+W18.43XD	glissade, faux pas et trébuchement sans chute après avoir marché d'un niveau à un autre, contact subséquent
+W18.43XS	glissade, faux pas et trébuchement sans chute après avoir marché d'un niveau à un autre, séquelle
+W18.49XA	autre glissade, faux pas et trébuchement sans chute, contact initial
+W18.49XD	autre glissade, faux pas et trébuchement sans chute, contact subséquent
+W18.49XS	autre glissade, faux pas et trébuchement sans chute, séquelle
+W19.XXXA	chute non spécifiée, contact initial
+W19.XXXD	chute non spécifiée, contact subséquent
+W19.XXXS	chute non spécifiée, séquelle
+W20.0XXA	heurté par une chute d'un objet dans un effondrement, contact initial
+W20.0XXD	heurté par une chute d'un objet dans un effondrement, contact subséquent
+W20.0XXS	heurté par une chute d'un objet dans un effondrement, séquelle
+W20.1XXA	heurté par un objet émanant d'un effondrement d'un bâtiment, contact initial
+W20.1XXD	heurté par un objet émanant d'un effondrement d'un bâtiment, contact subséquent
+W20.1XXS	heurté par un objet émanant d'un effondrement d'un bâtiment, séquelle
+W20.8XXA	autre cause de heurt par un lancement, une projection ou une chute d'un objet, contact initial
+W20.8XXD	autre cause de heurt par un lancement, une projection ou une chute d'un objet, contact subséquent
+W20.8XXS	autre cause de heurt par un lancement, une projection ou une chute d'un objet, séquelle
+W21.00XA	heurté par une balle frappée ou lancée, type non spécifié, contact initial
+W21.00XD	heurté par une balle frappée ou lancée, type non spécifié, contact subséquent
+W21.00XS	heurté par une balle frappée ou lancée, type non spécifié, séquelle
+W21.01XA	heurté par un ballon de football américain, contact initial
+W21.01XD	heurté par un ballon de football américain, contact subséquent
+W21.01XS	heurté par un ballon de football américain, séquelle
+W21.02XA	heurté par un ballon de football, contact initial
+W21.02XD	heurté par un ballon de football, contact subséquent
+W21.02XS	heurté par un ballon de football, séquelle
+W21.03XA	heurté par une balle de baseball, contact initial
+W21.03XD	heurté par une balle de baseball, contact subséquent
+W21.03XS	heurté par une balle de baseball, séquelle
+W21.04XA	heurté par une balle de golf, contact initial
+W21.04XD	heurté par une balle de golf, contact subséquent
+W21.04XS	heurté par une balle de golf, séquelle
+W21.05XA	heurté par un ballon de basket, contact initial
+W21.05XD	heurté par un ballon de basket, contact subséquent
+W21.05XS	heurté par un ballon de basket, séquelle
+W21.06XA	heurté par un ballon de volleyball, contact initial
+W21.06XD	heurté par un ballon de volleyball, contact subséquent
+W21.06XS	heurté par un ballon de volleyball, séquelle
+W21.07XA	heurté par une balle de softball, contact initial
+W21.07XD	heurté par une balle de softball, contact subséquent
+W21.07XS	heurté par une balle de softball, séquelle
+W21.09XA	heurté par une autre balle frappée ou lancée, contact initial
+W21.09XD	heurté par une autre balle frappée ou lancée, contact subséquent
+W21.09XS	heurté par une autre balle frappée ou lancée, séquelle
+W21.11XA	heurté par une batte de baseball, contact initial
+W21.11XD	heurté par une batte de baseball, contact subséquent
+W21.11XS	heurté par une batte de baseball, séquelle
+W21.12XA	heurté par une raquette de tennis, contact initial
+W21.12XD	heurté par une raquette de tennis, contact subséquent
+W21.12XS	heurté par une raquette de tennis, séquelle
+W21.13XA	heurté par un club de golf, contact initial
+W21.13XD	heurté par un club de golf, contact subséquent
+W21.13XS	heurté par un club de golf, séquelle
+W21.19XA	heurté par une autre batte, une raquette ou un club, contact initial
+W21.19XD	heurté par une autre batte, une raquette ou un club, contact subséquent
+W21.19XS	heurté par une autre batte, une raquette ou un club, séquelle
+W21.210A	heurté par une crosse de hockey sur glace, contact initial
+W21.210D	heurté par une crosse de hockey sur glace, contact subséquent
+W21.210S	heurté par une crosse de hockey sur glace, séquelle
+W21.211A	heurté par une crosse de hockey sur gazon, contact initial
+W21.211D	heurté par une crosse de hockey sur gazon, contact subséquent
+W21.211S	heurté par une crosse de hockey sur gazon, séquelle
+W21.220A	heurté par un palet de hockey sur glace, contact initial
+W21.220D	heurté par un palet de hockey sur glace, contact subséquent
+W21.220S	heurté par un palet de hockey sur glace, séquelle
+W21.221A	heurté par une balle de hockey sur gazon, contact initial
+W21.221D	heurté par une balle de hockey sur gazon, contact subséquent
+W21.221S	heurté par une balle de hockey sur gazon, séquelle
+W21.31XA	heurté par des crampons de chaussures, contact initial
+W21.31XD	heurté par des crampons de chaussures, contact subséquent
+W21.31XS	heurté par des crampons de chaussures, séquelle
+W21.32XA	heurté par des lames de patins, contact initial
+W21.32XD	heurté par des lames de patins, contact subséquent
+W21.32XS	heurté par des lames de patins, séquelle
+W21.39XA	heurté par d'autres chaussures de sport, contact initial
+W21.39XD	heurté par d'autres chaussures de sport, contact subséquent
+W21.39XS	heurté par d'autres chaussures de sport, séquelle
+W21.4XXA	heurt contre un plongeoir, contact initial
+W21.4XXD	heurt contre un plongeoir, contact subséquent
+W21.4XXS	heurt contre un plongeoir, séquelle
+W21.81XA	heurt contre ou heurté par une casque de football américain, contact initial
+W21.81XD	heurt contre ou heurté par une casque de football américain, contact subséquent
+W21.81XS	heurt contre ou heurté par une casque de football américain, séquelle
+W21.89XA	heurt contre ou heurté par d'autre matériel de sport, contact initial
+W21.89XD	heurt contre ou heurté par d'autre matériel de sport, contact subséquent
+W21.89XS	heurt contre ou heurté par d'autre matériel de sport, séquelle
+W21.9XXA	heurt contre ou heurté par matériel de sport non spécifié, contact initial
+W21.9XXD	heurt contre ou heurté par matériel de sport non spécifié, contact subséquent
+W21.9XXS	heurt contre ou heurté par matériel de sport non spécifié, séquelle
+W22.01XA	heurt contre un mur en marchant, contact initial
+W22.01XD	heurt contre un mur en marchant, contact subséquent
+W22.01XS	heurt contre un mur en marchant, séquelle
+W22.02XA	heurt contre un réverbère en marchant, contact initial
+W22.02XD	heurt contre un réverbère en marchant, contact subséquent
+W22.02XS	heurt contre un réverbère en marchant, séquelle
+W22.03XA	heurt contre du mobilier en marchant, contact initial
+W22.03XD	heurt contre du mobilier en marchant, contact subséquent
+W22.03XS	heurt contre du mobilier en marchant, séquelle
+W22.041A	heurt contre la paroi d'une piscine causant la noyade et la submersion, contact initial
+W22.041D	heurt contre la paroi d'une piscine causant la noyade et la submersion, contact subséquent
+W22.041S	heurt contre la paroi d'une piscine causant la noyade et la submersion, séquelle
+W22.042A	heurt contre la paroi d'une piscine causant un autre traumatisme, contact initial
+W22.042D	heurt contre la paroi d'une piscine causant un autre traumatisme, contact subséquent
+W22.042S	heurt contre la paroi d'une piscine causant un autre traumatisme, séquelle
+W22.09XA	heurt contre un autre objet immobile, contact initial
+W22.09XD	heurt contre un autre objet immobile, contact subséquent
+W22.09XS	heurt contre un autre objet immobile, séquelle
+W22.10XA	heurt contre ou heurté par un airbag d'une automobile non spécifié, contact initial
+W22.10XD	heurt contre ou heurté par un airbag d'une automobile non spécifié, contact subséquent
+W22.10XS	heurt contre ou heurté par un airbag d'une automobile non spécifié, séquelle
+W22.11XA	heurt contre ou heurté par un airbag d'une automobile du côté conducteur, contact initial
+W22.11XD	heurt contre ou heurté par un airbag d'une automobile du côté conducteur, contact subséquent
+W22.11XS	heurt contre ou heurté par un airbag d'une automobile du côté conducteur, séquelle
+W22.12XA	heurt contre ou heurté par un airbag d'une automobile du côté passager avant, contact initial
+W22.12XD	heurt contre ou heurté par un airbag d'une automobile du côté passager avant, contact subséquent
+W22.12XS	heurt contre ou heurté par un airbag d'une automobile du côté passager avant, séquelle
+W22.19XA	heurt contre ou heurté par un autre airbag d'une automobile, contact initial
+W22.19XD	heurt contre ou heurté par un autre airbag d'une automobile, contact subséquent
+W22.19XS	heurt contre ou heurté par un autre airbag d'une automobile, séquelle
+W22.8XXA	heurt contre ou heurté par d'autres objets, contact initial
+W22.8XXD	heurt contre ou heurté par d'autres objets, contact subséquent
+W22.8XXS	heurt contre ou heurté par d'autres objets, séquelle
+W23.0XXA	compression, écrasement, blocage ou serrement entre des objets en mouvement, contact initial
+W23.0XXD	compression, écrasement, blocage ou serrement entre des objets en mouvement, contact subséquent
+W23.0XXS	compression, écrasement, blocage ou serrement entre des objets en mouvement, séquelle
+W23.1XXA	compression, écrasement, blocage ou serrement entre des objets immobiles, contact initial
+W23.1XXD	compression, écrasement, blocage ou serrement entre des objets immobiles, contact subséquent
+W23.1XXS	compression, écrasement, blocage ou serrement entre des objets immobiles, séquelle
+W24.0XXA	contact avec des dispositifs de levage, non classés ailleurs, contact initial
+W24.0XXD	contact avec des dispositifs de levage, non classés ailleurs, contact subséquent
+W24.0XXS	contact avec des dispositifs de levage, non classés ailleurs, séquelle
+W24.1XXA	contact avec des dispositifs de transmission, non classés ailleurs, contact initial
+W24.1XXD	contact avec des dispositifs de transmission, non classés ailleurs, contact subséquent
+W24.1XXS	contact avec des dispositifs de transmission, non classés ailleurs, séquelle
+W25.XXXA	contact avec du verre tranchant, contact initial
+W25.XXXD	contact avec du verre tranchant, contact subséquent
+W25.XXXS	contact avec du verre tranchant, séquelle
+W27.2XXD	contact avec des ciseaux, contact subséquent
+W27.2XXS	contact avec des ciseaux, séquelle
+W27.3XXA	contact avec une aiguille (à coudre), contact initial
+W27.3XXD	contact avec une aiguille (à coudre), contact subséquent
+W27.3XXS	contact avec une aiguille (à coudre), séquelle
+W27.4XXA	contact avec un ustensile de cuisine, contact initial
+W27.4XXD	contact avec un ustensile de cuisine, contact subséquent
+W27.4XXS	contact avec un ustensile de cuisine, séquelle
+W27.5XXA	contact avec un massicot, contact initial
+W27.5XXD	contact avec un massicot, contact subséquent
+W27.5XXS	contact avec un massicot, séquelle
+W27.8XXA	contact avec un autre outil manuel non motorisé, contact initial
+W27.8XXD	contact avec un autre outil manuel non motorisé, contact subséquent
+W27.8XXS	contact avec un autre outil manuel non motorisé, séquelle
+W28.XXXA	contact avec une tondeuse à gazon motorisée, contact initial
+W28.XXXD	contact avec une tondeuse à gazon motorisée, contact subséquent
+W28.XXXS	contact avec une tondeuse à gazon motorisée, séquelle
+W29.0XXA	contact avec un appareil de cuisine électrique, contact initial
+W29.0XXD	contact avec un appareil de cuisine électrique, contact subséquent
+W29.0XXS	contact avec un appareil de cuisine électrique, séquelle
+W29.1XXA	contact avec un couteau électrique, contact initial
+W29.1XXD	contact avec un couteau électrique, contact subséquent
+W29.1XXS	contact avec un couteau électrique, séquelle
+W29.2XXA	contact avec d'autres appareils électro-ménagers, contact initial
+W29.2XXD	contact avec d'autres appareils électro-ménagers, contact subséquent
+W29.2XXS	contact avec d'autres appareils électro-ménagers, séquelle
+W29.3XXA	contact avec un outils de jardinage, un outils à main et des machines pour l'usage en plein air, motorisés, contact initial
+W29.3XXD	contact avec un outils de jardinage, un outils à main et des machines pour l'usage en plein air, motorisés, contact subséquent
+W29.3XXS	contact avec un outils de jardinage, un outils à main et des machines pour l'usage en plein air, motorisés, séquelle
+W29.4XXA	contact avec un pistolet à clous, contact initial
+W29.4XXD	contact avec un pistolet à clous, contact subséquent
+W29.4XXS	contact avec un pistolet à clous, séquelle
+W29.8XXA	contact avec d'autres outils à main électriques et appareils électro-ménagers, contact initial
+W29.8XXD	contact avec d'autres outils à main électriques et appareils électro-ménagers, contact subséquent
+W29.8XXS	contact avec d'autres outils à main électriques et appareils électro-ménagers, séquelle
+W30.0XXA	contact avec une moissonneuse-batteuse, contact initial
+W30.0XXD	contact avec une moissonneuse-batteuse, contact subséquent
+W30.0XXS	contact avec une moissonneuse-batteuse, séquelle
+W30.1XXA	contact avec un arbre de prise de force, contact initial
+W30.1XXD	contact avec un arbre de prise de force, contact subséquent
+W30.1XXS	contact avec un arbre de prise de force, séquelle
+W30.2XXA	contact avec un derrick de foin, contact initial
+W30.2XXD	contact avec un derrick de foin, contact subséquent
+W30.2XXS	contact avec un derrick de foin, séquelle
+W30.3XXA	contact avec un silo à céréales, contact initial
+W30.3XXD	contact avec un silo à céréales, contact subséquent
+W30.3XXS	contact avec un silo à céréales, séquelle
+W30.81XA	contact avec un véhicule de transport agricole immobile, contact initial
+W30.81XD	contact avec un véhicule de transport agricole immobile, contact subséquent
+W30.81XS	contact avec un véhicule de transport agricole immobile, séquelle
+W30.89XA	contact avec d'autres machines agricoles spécifiées, contact initial
+W30.89XD	contact avec d'autres machines agricoles spécifiées, contact subséquent
+W30.89XS	contact avec d'autres machines agricoles spécifiées, séquelle
+W30.9XXA	contact avec des machines agricoles non spécifiées, contact initial
+W30.9XXD	contact avec des machines agricoles non spécifiées, contact subséquent
+W30.9XXS	contact avec des machines agricoles non spécifiées, séquelle
+W31.0XXA	contact avec des machines pour l'exploitation minière et forages de sol, contact initial
+W31.0XXD	contact avec des machines pour l'exploitation minière et forages de sol, contact subséquent
+W31.0XXS	contact avec des machines pour l'exploitation minière et forages de sol, séquelle
+W31.1XXA	contact avec des machines pour la métallurgie, contact initial
+W31.1XXD	contact avec des machines pour la métallurgie, contact subséquent
+W31.1XXS	contact avec des machines pour la métallurgie, séquelle
+W31.2XXA	contact avec des machines motorisées pour le travail et le cintrage du bois, contact initial
+W31.2XXD	contact avec des machines motorisées pour le travail et le cintrage du bois, contact subséquent
+W31.2XXS	contact avec des machines motorisées pour le travail et le cintrage du bois, séquelle
+W31.3XXA	contact avec un générateur de force motrice, contact initial
+W31.3XXD	contact avec un générateur de force motrice, contact subséquent
+W31.3XXS	contact avec un générateur de force motrice, séquelle
+W31.81XA	contact avec des machines récréatives, contact initial
+W31.81XD	contact avec des machines récréatives, contact subséquent
+W31.81XS	contact avec des machines récréatives, séquelle
+W31.82XA	contact avec d'autres machines commerciales, contact initial
+W31.82XD	contact avec d'autres machines commerciales, contact subséquent
+W31.82XS	contact avec d'autres machines commerciales, séquelle
+W31.83XA	contact avec un véhicule spécial de construction immobile, contact initial
+W31.83XD	contact avec un véhicule spécial de construction immobile, contact subséquent
+W31.83XS	contact avec un véhicule spécial de construction immobile, séquelle
+W31.89XA	contact avec d'autres machines spécifiées, contact initial
+W31.89XD	contact avec d'autres machines spécifiées, contact subséquent
+W31.89XS	contact avec d'autres machines spécifiées, séquelle
+W31.9XXA	contact avec des machines non spécifiées, contact initial
+W31.9XXD	contact avec des machines non spécifiées, contact subséquent
+W31.9XXS	contact avec des machines non spécifiées, séquelle
+W32.0XXA	décharge accidentelle d'une arme de poing, contact initial
+W32.0XXD	décharge accidentelle d'une arme de poing, contact subséquent
+W32.0XXS	décharge accidentelle d'une arme de poing, séquelle
+W32.1XXA	malfonctionnement accidentel d'une arme de poing, contact initial
+W32.1XXD	malfonctionnement accidentel d'une arme de poing, contact subséquent
+W32.1XXS	malfonctionnement accidentel d'une arme de poing, séquelle
+W33.00XA	décharge accidentelle d'une arme à feu de plus grande taille non spécifiée, contact initial
+W33.00XD	décharge accidentelle d'une arme à feu de plus grande taille non spécifiée, contact subséquent
+W33.00XS	décharge accidentelle d'une arme à feu de plus grande taille non spécifiée, séquelle
+W33.01XA	décharge accidentelle d'un fusil, contact initial
+W33.01XD	décharge accidentelle d'un fusil, contact subséquent
+W33.01XS	décharge accidentelle d'un fusil, séquelle
+W33.02XA	décharge accidentelle d'un fusil de chasse, contact initial
+W33.02XD	décharge accidentelle d'un fusil de chasse, contact subséquent
+W33.02XS	décharge accidentelle d'un fusil de chasse, séquelle
+W33.03XA	décharge accidentelle d'une mitrailleuse, contact initial
+W33.03XD	décharge accidentelle d'une mitrailleuse, contact subséquent
+W33.03XS	décharge accidentelle d'une mitrailleuse, séquelle
+W33.09XA	décharge accidentelle d'une autre arme à feu de plus grande taille, contact initial
+W33.09XD	décharge accidentelle d'une autre arme à feu de plus grande taille, contact subséquent
+W33.09XS	décharge accidentelle d'une autre arme à feu de plus grande taille, séquelle
+W33.10XA	malfonctionnement accidentel d'une arme à feu de plus grande taille non spécifiée, contact initial
+W33.10XD	malfonctionnement accidentel d'une arme à feu de plus grande taille non spécifiée, contact subséquent
+W33.10XS	malfonctionnement accidentel d'une arme à feu de plus grande taille non spécifiée, séquelle
+W33.11XA	malfonctionnement accidentel d'un fusil, contact initial
+W33.11XD	malfonctionnement accidentel d'un fusil, contact subséquent
+W33.11XS	malfonctionnement accidentel d'un fusil, séquelle
+W33.12XA	malfonctionnement accidentel d'un fusil de chasse, contact initial
+W33.12XD	malfonctionnement accidentel d'un fusil de chasse, contact subséquent
+W33.12XS	malfonctionnement accidentel d'un fusil de chasse, séquelle
+W33.13XA	malfonctionnement accidentel d'une mitrailleuse, contact initial
+W33.13XD	malfonctionnement accidentel d'une mitrailleuse, contact subséquent
+W33.13XS	malfonctionnement accidentel d'une mitrailleuse, séquelle
+W33.19XA	malfonctionnement accidentel d'une autre arme à feu de plus grande taille, contact initial
+W33.19XD	malfonctionnement accidentel d'une autre arme à feu de plus grande taille, contact subséquent
+W33.19XS	malfonctionnement accidentel d'une autre arme à feu de plus grande taille, séquelle
+W34.00XA	décharge accidentelle d'armes à un feu non spécifiées, contact initial
+W34.00XD	décharge accidentelle d'armes à un feu non spécifiées, contact subséquent
+W34.00XS	décharge accidentelle d'armes à un feu non spécifiées, séquelle
+W34.010A	décharge accidentelle d'une arme à air comprimé, contact initial
+W34.010D	décharge accidentelle d'une arme à air comprimé, contact subséquent
+W34.010S	décharge accidentelle d'une arme à air comprimé, séquelle
+W34.011A	décharge accidentelle d'une arme à paintball, contact initial
+W34.011D	décharge accidentelle d'une arme à paintball, contact subséquent
+W34.011S	décharge accidentelle d'une arme à paintball, séquelle
+W34.018A	décharge accidentelle d'une autre arme à gaz, air ou ressort, contact initial
+W34.018D	décharge accidentelle d'une autre arme à gaz, air ou ressort, contact subséquent
+W34.018S	décharge accidentelle d'une autre arme à gaz, air ou ressort, séquelle
+W34.09XA	décharge accidentelle d'autres armes à feu spécifiées, contact initial
+W34.09XD	décharge accidentelle d'autres armes à feu spécifiées, contact subséquent
+W34.09XS	décharge accidentelle d'autres armes  à un feu spécifiées, séquelle
+W34.10XA	malfonctionnement accidentel d'armes à un feu non spécifiées, contact initial
+W34.10XD	malfonctionnement accidentel d'armes à un feu non spécifiées, contact subséquent
+W34.10XS	malfonctionnement accidentel d'armes à un feu non spécifiées, séquelle
+W34.110A	malfonctionnement accidentel d'une arme à air comprimé, contact initial
+W34.110D	malfonctionnement accidentel d'une arme à air comprimé, contact subséquent
+W34.110S	malfonctionnement accidentel d'une arme à air comprimé, séquelle
+W34.111A	malfonctionnement accidentel d'une arme à paintball, contact initial
+W34.111D	malfonctionnement accidentel d'une arme à paintball, contact subséquent
+W34.111S	malfonctionnement accidentel d'une arme à paintball, séquelle
+W34.118A	malfonctionnement accidentel d'une autre arme à gaz, air ou ressort, contact initial
+W34.118D	malfonctionnement accidentel d'une autre arme à gaz, air ou ressort, contact subséquent
+W34.118S	malfonctionnement accidentel d'une autre arme à gaz, air ou ressort, séquelle
+W34.19XA	malfonctionnement accidentel d'autres armes à feu spécifiées, contact initial
+W34.19XD	malfonctionnement accidentel d'autres armes à feu spécifiées, contact subséquent
+W34.19XS	malfonctionnement accidentel d'autres armes à feu spécifiées, séquelle
+W35.XXXA	explosion et rupture d'une chaudière, contact initial
+W35.XXXD	explosion et rupture d'une chaudière, contact subséquent
+W35.XXXS	explosion et rupture d'une chaudière, séquelle
+W36.1XXA	explosion et rupture d'une bombe aérosol, contact initial
+W36.1XXD	explosion et rupture d'une bombe aérosol, contact subséquent
+W36.1XXS	explosion et rupture d'une bombe aérosol, séquelle
+W36.2XXA	explosion et rupture d'un réservoir d'air, contact initial
+W36.2XXD	explosion et rupture d'un réservoir d'air, contact subséquent
+W36.2XXS	explosion et rupture d'un réservoir d'air, séquelle
+W36.3XXA	explosion et rupture d'un réservoir de gaz sous pression, contact initial
+W36.3XXD	explosion et rupture d'un réservoir de gaz sous pression, contact subséquent
+W36.3XXS	explosion et rupture d'un réservoir de gaz sous pression, séquelle
+W36.8XXA	explosion et rupture d'une autre bouteille de gaz, contact initial
+W36.8XXD	explosion et rupture d'une autre bouteille de gaz, contact subséquent
+W36.8XXS	explosion et rupture d'une autre bouteille de gaz, séquelle
+W36.9XXA	explosion et rupture d'une bouteille de gaz non spécifiée, contact initial
+W36.9XXD	explosion et rupture d'une bouteille de gaz non spécifiée, contact subséquent
+W36.9XXS	explosion et rupture d'une bouteille de gaz non spécifiée, séquelle
+W37.0XXA	explosion d'un pneu de bicyclette, contact initial
+W37.0XXD	explosion d'un pneu de bicyclette, contact subséquent
+W37.0XXS	explosion d'un pneu de bicyclette, séquelle
+W37.8XXA	explosion et rupture d'un autre pneumatique, conduite ou tuyau sous pression, contact initial
+W37.8XXD	explosion et rupture d'un autre pneumatique, conduite ou tuyau sous pression, contact subséquent
+W37.8XXS	explosion et rupture d'un autre pneumatique, conduite ou tuyau sous pression, séquelle
+W38.XXXA	explosion et rupture d'autres appareils spécifiés sous pression, contact initial
+W38.XXXD	explosion et rupture d'autres appareils spécifiés sous pression, contact subséquent
+W38.XXXS	explosion et rupture d'autres appareils spécifiés sous pression, séquelle
+W39.XXXA	décharge de feu d'artifice, contact initial
+W39.XXXD	décharge de feu d'artifice, contact subséquent
+W39.XXXS	décharge de feu d'artifice, séquelle
+W40.0XXA	explosion d'une charge explosive, contact initial
+W40.0XXD	explosion d'une charge explosive, contact subséquent
+W40.0XXS	explosion d'une charge explosive, séquelle
+W40.1XXA	explosion de gaz explosifs, contact initial
+W40.1XXD	explosion de gaz explosifs, contact subséquent
+W40.1XXS	explosion de gaz explosifs, séquelle
+W40.8XXA	explosion d'autres matériaux explosifs spécifiés, contact initial
+W40.8XXD	explosion d'autres matériaux explosifs spécifiés, contact subséquent
+W40.8XXS	explosion d'autres matériaux explosifs spécifiés, séquelle
+W40.9XXA	explosion de matériaux explosifs non spécifiés, contact initial
+W40.9XXD	explosion de matériaux explosifs non spécifiés, contact subséquent
+W40.9XXS	explosion de matériaux explosifs non spécifiés, séquelle
+W42.0XXA	exposition à des ondes supersoniques, contact initial
+W42.0XXD	exposition à des ondes supersoniques, contact subséquent
+W42.0XXS	exposition à des ondes supersoniques, séquelle
+W42.9XXA	exposition à un autre bruit, contact initial
+W42.9XXD	exposition à un autre bruit, contact subséquent
+W42.9XXS	exposition à un autre bruit, séquelle
+W45.0XXA	clou pénétrant dans la peau, contact initial
+W45.0XXD	clou pénétrant dans la peau, contact subséquent
+W45.0XXS	clou pénétrant dans la peau, séquelle
+W45.1XXA	papier pénétrant dans la peau, contact initial
+W45.1XXD	papier pénétrant dans la peau, contact subséquent
+W45.1XXS	papier pénétrant dans la peau, séquelle
+W45.2XXA	couvercle d'une boîte de conserve pénétrant dans la peau, contact initial
+W45.2XXD	couvercle d'une boîte de conserve pénétrant dans la peau, contact subséquent
+W45.2XXS	couvercle d'une boîte de conserve pénétrant dans la peau, séquelle
+W45.8XXA	autre corps étranger ou objet pénétrant dans la peau, contact initial
+W45.8XXD	autre corps étranger ou objet pénétrant dans la peau, contact subséquent
+W45.8XXS	autre corps étranger ou objet pénétrant dans la peau, séquelle
+W46.0XXA	contact avec une aiguille hypodermique, contact initial
+W46.0XXD	contact avec une aiguille hypodermique, contact subséquent
+W46.0XXS	contact avec une aiguille hypodermique, séquelle
+W46.1XXA	contact avec une aiguille hypodermique contaminée, contact initial
+W46.1XXD	contact avec une aiguille hypodermique contaminée, contact subséquent
+W46.1XXS	contact avec une aiguille hypodermique contaminée, séquelle
+W49.01XA	cheveux causant une constriction externe, contact initial
+W49.01XD	cheveux causant une constriction externe, contact subséquent
+W49.01XS	cheveux causant une constriction externe, séquelle
+W49.02XA	ficelle ou fil causant une constriction externe, contact initial
+W49.02XD	ficelle ou fil causant une constriction externe, contact subséquent
+W49.02XS	ficelle ou fil causant une constriction externe, séquelle
+W49.03XA	élastique causant une constriction externe, contact initial
+W49.03XD	élastique causant une constriction externe, contact subséquent
+W49.03XS	élastique causant une constriction externe, séquelle
+W49.04XA	anneau ou d'autres bijoux causant une constriction externe, contact initial
+W49.04XD	anneau ou d'autres bijoux causant une constriction externe, contact subséquent
+W49.04XS	anneau ou d'autres bijoux causant une constriction externe, séquelle
+W49.09XA	autre objet spécifié causant une constriction externe, contact initial
+W49.09XD	autre objet spécifié causant une constriction externe, contact subséquent
+W49.09XS	autre objet spécifié causant une constriction externe, séquelle
+W49.9XXA	exposition à d'autres forces mécaniques inanimées, contact initial
+W49.9XXD	exposition à d'autres forces mécaniques inanimées, contact subséquent
+W49.9XXS	exposition à d'autres forces mécaniques inanimées, séquelle
+W50.0XXA	coup ou heurt accidentels par une autre personne, contact initial
+W50.0XXD	coup ou heurt accidentels par une autre personne, contact subséquent
+W50.0XXS	coup ou heurt accidentels par une autre personne, séquelle
+W50.1XXA	coup de pied accidentel par une autre personne, contact initial
+W50.1XXD	coup de pied accidentel par une autre personne, contact subséquent
+W50.1XXS	coup de pied accidentel par une autre personne, séquelle
+W50.2XXA	torsion accidentelle par une autre personne, contact initial
+W50.2XXD	torsion accidentelle par une autre personne, contact subséquent
+W50.2XXS	torsion accidentelle par une autre personne, séquelle
+W50.3XXA	morsure accidentelle par une autre personne, contact initial
+W50.3XXD	morsure accidentelle par une autre personne, contact subséquent
+W50.3XXS	morsure accidentelle par une autre personne, séquelle
+W50.4XXA	égratignure accidentelle par une autre personne, contact initial
+W50.4XXD	égratignure accidentelle par une autre personne, contact subséquent
+W50.4XXS	égratignure accidentelle par une autre personne, séquelle
+W51.XXXA	heurt ou une collision accidentels contre une autre personne, contact initial
+W51.XXXD	heurt ou une collision accidentels contre une autre personne, contact subséquent
+W51.XXXS	heurt ou une collision accidentels contre une autre personne, séquelle
+W52.XXXA	écrasement, bousculade ou piétinement par une foule ou une débandade de gens, contact initial
+W52.XXXD	écrasement, bousculade ou piétinement par une foule ou une débandade de gens, contact subséquent
+W52.XXXS	écrasement, bousculade ou piétinement par une foule ou une débandade de gens, séquelle
+W53.01XA	mordu par une souris, contact initial
+W53.01XD	mordu par une souris, contact subséquent
+W53.01XS	mordu par une souris, séquelle
+W53.09XA	autre contact avec une souris, contact initial
+W53.09XD	autre contact avec une souris, contact subséquent
+W53.09XS	autre contact avec une souris, séquelle
+W53.11XA	mordu par un rat, contact initial
+W53.81XS	mordu par un autre rongeur, séquelle
+W53.89XA	autre contact avec un autre rongeur, contact initial
+W53.89XD	autre contact avec un autre rongeur, contact subséquent
+W53.89XS	autre contact avec un autre rongeur, séquelle
+W54.0XXA	mordu par un chien, contact initial
+W54.0XXD	mordu par un chien, contact subséquent
+W54.0XXS	mordu par un chien, séquelle
+W54.1XXA	heurté par un chien, contact initial
+W54.1XXD	heurté par un chien, contact subséquent
+W54.1XXS	heurté par un chien, séquelle
+W54.8XXA	autre contact avec un chien, contact initial
+W54.8XXD	autre contact avec un chien, contact subséquent
+W54.8XXS	autre contact avec un chien, séquelle
+W55.01XA	mordu par un chat, contact initial
+W55.01XD	mordu par un chat, contact subséquent
+W55.01XS	mordu par un chat, séquelle
+W55.03XA	griffé par un chat, contact initial
+W55.03XD	griffé par un chat, contact subséquent
+W55.03XS	griffé par un chat, séquelle
+W55.09XA	autre contact avec un chat, contact initial
+W55.09XD	autre contact avec un chat, contact subséquent
+W55.09XS	autre contact avec un chat, séquelle
+W55.11XA	mordu par un cheval, contact initial
+W55.11XD	mordu par un cheval, contact subséquent
+W55.11XS	mordu par un cheval, séquelle
+W55.12XA	heurté par un cheval, contact initial
+W55.12XD	heurté par un cheval, contact subséquent
+W55.12XS	heurté par un cheval, séquelle
+W55.19XA	autre contact avec un cheval, contact initial
+W55.19XD	autre contact avec un cheval, contact subséquent
+W55.19XS	autre contact avec un cheval, séquelle
+W55.21XA	mordu par une vache, contact initial
+W55.21XD	mordu par une vache, contact subséquent
+W55.21XS	mordu par une vache, séquelle
+W55.22XA	heurté par une vache, contact initial
+W55.22XD	heurté par une vache, contact subséquent
+W55.22XS	heurté par une vache, séquelle
+W55.29XA	autre contact avec une vache, contact initial
+W55.29XD	autre contact avec une vache, contact subséquent
+W55.29XS	autre contact avec une vache, séquelle
+W55.31XA	mordu par un autre ongulé, contact initial
+W55.31XD	mordu par un autre ongulé, contact subséquent
+W55.31XS	mordu par un autre ongulé, séquelle
+W55.32XA	heurté par un autre ongulé, contact initial
+W55.32XD	heurté par un autre ongulé, contact subséquent
+W55.32XS	heurté par un autre ongulé, séquelle
+W55.39XA	autre contact avec un autre ongulé, contact initial
+W55.39XD	autre contact avec un autre ongulé, contact subséquent
+W55.39XS	autre contact avec un autre ongulé, séquelle
+W55.41XA	mordu par un cochon, contact initial
+W55.41XD	mordu par un cochon, contact subséquent
+W55.41XS	mordu par un cochon, séquelle
+W55.42XA	heurté par un cochon, contact initial
+W55.42XD	heurté par un cochon, contact subséquent
+W55.42XS	heurté par un cochon, séquelle
+W55.49XA	autre contact avec un cochon, contact initial
+W55.49XD	autre contact avec un cochon, contact subséquent
+W55.49XS	autre contact avec un cochon, séquelle
+W55.51XA	mordu par un raton laveur, contact initial
+W55.51XD	mordu par un raton laveur, contact subséquent
+W55.51XS	mordu par un raton laveur, séquelle
+W55.52XA	heurté par un raton laveur, contact initial
+W55.52XD	heurté par un raton laveur, contact subséquent
+W55.52XS	heurté par un raton laveur, séquelle
+W55.59XA	autre contact avec un raton laveur, contact initial
+W55.59XD	autre contact avec un raton laveur, contact subséquent
+W55.59XS	autre contact avec un raton laveur, séquelle
+W55.81XA	mordu par d'autres mammifères, contact initial
+W55.81XD	mordu par d'autres mammifères, contact subséquent
+W55.81XS	mordu par d'autres mammifères, séquelle
+W55.82XA	heurté par d'autres mammifères, contact initial
+W55.82XD	heurté par d'autres mammifères, contact subséquent
+W55.82XS	heurté par d'autres mammifères, séquelle
+W55.89XA	autre contact avec d'autres mammifères, contact initial
+W55.89XD	autre contact avec d'autres mammifères, contact subséquent
+W55.89XS	autre contact avec d'autres mammifères, séquelle
+W56.01XA	mordu par un dauphin, contact initial
+W56.01XD	mordu par un dauphin, contact subséquent
+W56.01XS	mordu par un dauphin, séquelle
+W56.02XA	heurté par un dauphin, contact initial
+W56.02XD	heurté par un dauphin, contact subséquent
+W56.02XS	heurté par un dauphin, séquelle
+W56.09XA	autre contact avec un dauphin, contact initial
+W56.09XD	autre contact avec un dauphin, contact subséquent
+W56.09XS	autre contact avec un dauphin, séquelle
+W56.11XA	mordu par un lion de mer, contact initial
+W56.11XD	mordu par un lion de mer, contact subséquent
+W56.11XS	mordu par un lion de mer, séquelle
+W56.12XA	heurté par un lion de mer, contact initial
+W56.12XD	heurté par un lion de mer, contact subséquent
+W56.12XS	heurté par un lion de mer, séquelle
+W56.19XA	autre contact avec un lion de mer, contact initial
+W56.19XD	autre contact avec un lion de mer, contact subséquent
+W56.19XS	autre contact avec un lion de mer, séquelle
+W56.21XA	mordu par un orque, contact initial
+W56.21XD	mordu par un orque, contact subséquent
+W56.21XS	mordu par un orque, séquelle
+W56.22XA	heurté par un orque, contact initial
+W56.22XD	heurté par un orque, contact subséquent
+W56.22XS	heurté par un orque, séquelle
+W56.29XA	autre contact avec un orque, contact initial
+W56.29XD	autre contact avec un orque, contact subséquent
+W56.29XS	autre contact avec un orque, séquelle
+W56.31XA	mordu par d'autres mammifères marins, contact initial
+W56.31XD	mordu par d'autres mammifères marins, contact subséquent
+W56.31XS	mordu par d'autres mammifères marins, séquelle
+W56.32XA	heurté par d'autres mammifères marins, contact initial
+W56.32XD	heurté par d'autres mammifères marins, contact subséquent
+W56.32XS	heurté par d'autres mammifères marins, séquelle
+W56.39XA	autre contact avec d'autres mammifères marins, contact initial
+W56.39XD	autre contact avec d'autres mammifères marins, contact subséquent
+W56.39XS	autre contact avec d'autres mammifères marins, séquelle
+W56.41XA	mordu par un requin, contact initial
+W56.41XD	mordu par un requin, contact subséquent
+W56.41XS	mordu par un requin, séquelle
+W56.42XA	heurté par un requin, contact initial
+W56.42XD	heurté par un requin, contact subséquent
+W56.42XS	heurté par un requin, séquelle
+W56.49XA	autre contact avec un requin, contact initial
+W56.49XD	autre contact avec un requin, contact subséquent
+W56.49XS	autre contact avec un requin, séquelle
+W56.51XA	mordu par d'autres poissons, contact initial
+W56.51XD	mordu par d'autres poissons, contact subséquent
+W56.51XS	mordu par d'autres poissons, séquelle
+W56.52XA	heurté par d'autres poissons, contact initial
+W56.52XD	heurté par d'autres poissons, contact subséquent
+W56.52XS	heurté par d'autres poissons, séquelle
+W56.59XA	autre contact avec d'autres poissons, contact initial
+W56.59XD	autre contact avec d'autres poissons, contact subséquent
+W56.59XS	autre contact avec d'autres poissons, séquelle
+W56.81XA	mordu par d'autres animaux marins non venimeux, contact initial
+W56.81XD	mordu par d'autres animaux marins non venimeux, contact subséquent
+W58.01XS	mordu par un alligator, séquelle
+W58.02XA	heurté par un alligator, contact initial
+W58.02XD	heurté par un alligator, contact subséquent
+W58.02XS	heurté par un alligator, séquelle
+W58.03XA	broyé par un alligator, contact initial
+W58.03XD	broyé par un alligator, contact subséquent
+W58.03XS	broyé par un alligator, séquelle
+W58.09XA	autre contact avec un alligator, contact initial
+W58.09XD	autre contact avec un alligator, contact subséquent
+W58.09XS	autre contact avec un alligator, séquelle
+W58.11XA	mordu par un crocodile, contact initial
+W58.11XD	mordu par un crocodile, contact subséquent
+W58.11XS	mordu par un crocodile, séquelle
+W58.12XA	heurté par un crocodile, contact initial
+W58.12XD	heurté par un crocodile, contact subséquent
+W58.12XS	heurté par un crocodile, séquelle
+W58.13XA	broyé par un crocodile, contact initial
+W58.13XD	broyé par un crocodile, contact subséquent
+W58.13XS	broyé par un crocodile, séquelle
+W58.19XA	autre contact avec un crocodile, contact initial
+W58.19XD	autre contact avec un crocodile, contact subséquent
+W58.19XS	autre contact avec un crocodile, séquelle
+W59.01XA	mordu par des lézards non venimeux, contact initial
+W59.01XD	mordu par des lézards non venimeux, contact subséquent
+W59.01XS	mordu par des lézards non venimeux, séquelle
+W59.02XA	heurté par des lézards non venimeux, contact initial
+W59.02XD	heurté par des lézards non venimeux, contact subséquent
+W59.02XS	heurté par des lézards non venimeux, séquelle
+W59.09XA	autre contact avec des lézards non venimeux, contact initial
+W59.09XD	autre contact avec des lézards non venimeux, contact subséquent
+W59.09XS	autre contact avec des lézards non venimeux, séquelle
+W59.11XA	mordu par un serpent non venimeux, contact initial
+W59.11XD	mordu par un serpent non venimeux, contact subséquent
+W59.11XS	mordu par un serpent non venimeux, séquelle
+W59.12XA	heurté par un serpent non venimeux, contact initial
+W59.12XD	heurté par un serpent non venimeux, contact subséquent
+W59.12XS	heurté par un serpent non venimeux, séquelle
+W59.13XA	broyé par un serpent non venimeux, contact initial
+W59.13XD	broyé par un serpent non venimeux, contact subséquent
+W59.13XS	broyé par un serpent non venimeux, séquelle
+W59.19XA	autre contact avec un serpent non venimeux, contact initial
+W59.19XD	autre contact avec un serpent non venimeux, contact subséquent
+W59.19XS	autre contact avec un serpent non venimeux, séquelle
+W59.21XA	mordu par une tortue, contact initial
+W59.21XD	mordu par une tortue, contact subséquent
+W59.21XS	mordu par une tortue, séquelle
+W59.22XA	heurté par une tortue, contact initial
+W59.22XD	heurté par une tortue, contact subséquent
+W59.22XS	heurté par une tortue, séquelle
+W59.29XA	autre contact avec une tortue, contact initial
+W59.29XD	autre contact avec une tortue, contact subséquent
+W59.29XS	autre contact avec une tortue, séquelle
+W59.81XA	mordu par d'autres reptiles non venimeux, contact initial
+W59.81XD	mordu par d'autres reptiles non venimeux, contact subséquent
+W59.81XS	mordu par d'autres reptiles non venimeux, séquelle
+W59.82XA	heurté par d'autres reptiles non venimeux, contact initial
+W59.82XD	heurté par d'autres reptiles non venimeux, contact subséquent
+W59.82XS	heurté par d'autres reptiles non venimeux, séquelle
+W59.83XA	broyé par d'autres reptiles non venimeux, contact initial
+W59.83XD	broyé par d'autres reptiles non venimeux, contact subséquent
+W59.83XS	broyé par d'autres reptiles non venimeux, séquelle
+W59.89XA	autre contact avec d'autres reptiles non venimeux, contact initial
+W59.89XD	autre contact avec d'autres reptiles non venimeux, contact subséquent
+W59.89XS	autre contact avec d'autres reptiles non venimeux, séquelle
+W60.XXXA	contact avec des épines, des piquants et des feuilles tranchantes de plante non venimeuses, contact initial
+W60.XXXD	contact avec des épines, des piquants et des feuilles tranchantes de plante non venimeuses, contact subséquent
+W60.XXXS	contact avec des épines, des piquants et des feuilles tranchantes de plante non venimeuses, séquelle
+W61.01XA	mordu par un perroquet, contact initial
+W61.01XD	mordu par un perroquet, contact subséquent
+W61.01XS	mordu par un perroquet, séquelle
+W61.02XA	heurté par un perroquet, contact initial
+W61.02XD	heurté par un perroquet, contact subséquent
+W61.02XS	heurté par un perroquet, séquelle
+W61.09XA	autre contact avec un perroquet, contact initial
+W61.09XD	autre contact avec un perroquet, contact subséquent
+W61.09XS	autre contact avec un perroquet, séquelle
+W61.11XA	mordu par un ara, contact initial
+W61.11XD	mordu par un ara, contact subséquent
+W61.11XS	mordu par un ara, séquelle
+W61.12XA	heurté par un ara, contact initial
+W61.12XD	heurté par un ara, contact subséquent
+W61.12XS	heurté par un ara, séquelle
+W61.19XA	autre contact avec un ara, contact initial
+W61.19XD	autre contact avec un ara, contact subséquent
+W61.19XS	autre contact avec un ara, séquelle
+W61.21XA	mordu par d'autres psittacidés, contact initial
+W61.21XD	mordu par d'autres psittacidés, contact subséquent
+W61.21XS	mordu par d'autres psittacidés, séquelle
+W61.22XA	heurté par d'autres psittacidés, contact initial
+W61.22XD	heurté par d'autres psittacidés, contact subséquent
+W61.22XS	heurté par d'autres psittacidés, séquelle
+W61.29XA	autre contact avec d'autres psittacidés, contact initial
+W61.29XD	autre contact avec d'autres psittacidés, contact subséquent
+W61.29XS	autre contact avec d'autres psittacidés, séquelle
+W61.32XA	heurté par un poulet, contact initial
+W61.32XD	heurté par un poulet, contact subséquent
+W61.32XS	heurté par un poulet, séquelle
+W61.33XA	becqueté par un poulet, contact initial
+W61.33XD	becqueté par un poulet, contact subséquent
+W61.33XS	becqueté par un poulet, séquelle
+W61.39XA	autre contact avec un poulet, contact initial
+W61.39XD	autre contact avec un poulet, contact subséquent
+W61.39XS	autre contact avec un poulet, séquelle
+W61.42XA	heurté par une dinde, contact initial
+W61.42XD	heurté par une dinde, contact subséquent
+W61.42XS	heurté par une dinde, séquelle
+W61.43XA	becqueté par une dinde, contact initial
+W61.43XD	becqueté par une dinde, contact subséquent
+W61.43XS	becqueté par une dinde, séquelle
+W61.49XA	autre contact avec une dinde, contact initial
+W61.49XD	autre contact avec une dinde, contact subséquent
+W61.49XS	autre contact avec une dinde, séquelle
+W61.51XA	mordu par une oie, contact initial
+W61.51XD	mordu par une oie, contact subséquent
+W61.51XS	mordu par une oie, séquelle
+W61.52XA	heurté par une oie, contact initial
+W61.52XD	heurté par une oie, contact subséquent
+W61.52XS	heurté par une oie, séquelle
+W61.59XA	autre contact avec une oie, contact initial
+W61.59XD	autre contact avec une oie, contact subséquent
+W61.59XS	autre contact avec une oie, séquelle
+W61.61XA	mordu par un canard, contact initial
+W61.61XD	mordu par un canard, contact subséquent
+W61.61XS	mordu par un canard, séquelle
+W61.62XA	heurté par un canard, contact initial
+W61.62XD	heurté par un canard, contact subséquent
+W61.62XS	heurté par un canard, séquelle
+W61.69XA	autre contact avec un canard, contact initial
+W61.69XD	autre contact avec un canard, contact subséquent
+W61.69XS	autre contact avec un canard, séquelle
+W61.91XA	mordu par d'autres oiseaux, contact initial
+W61.91XD	mordu par d'autres oiseaux, contact subséquent
+W61.91XS	mordu par d'autres oiseaux, séquelle
+W61.92XA	heurté par d'autres oiseaux, contact initial
+W61.92XD	heurté par d'autres oiseaux, contact subséquent
+W61.92XS	heurté par d'autres oiseaux, séquelle
+W61.99XA	autre contact avec d'autres oiseaux, contact initial
+W61.99XD	autre contact avec d'autres oiseaux, contact subséquent
+W61.99XS	autre contact avec d'autres oiseaux, séquelle
+W62.0XXA	contact avec des grenouilles non venimeuses, contact initial
+W62.0XXD	contact avec des grenouilles non venimeuses, contact subséquent
+W62.0XXS	contact avec des grenouilles non venimeuses, séquelle
+W62.1XXA	contact avec des crapauds non venimeux, contact initial
+W62.1XXD	contact avec des crapauds non venimeux, contact subséquent
+W62.1XXS	contact avec des crapauds non venimeux, séquelle
+W62.9XXA	contact avec d'autres amphibiens non venimeux, contact initial
+W62.9XXD	contact avec d'autres amphibiens non venimeux, contact subséquent
+W62.9XXS	contact avec d'autres amphibiens non venimeux, séquelle
+W64.XXXA	exposition à d'autres forces mécaniques animées, contact initial
+W64.XXXD	exposition à d'autres forces mécaniques animées, contact subséquent
+W64.XXXS	exposition à d'autres forces mécaniques animées, séquelle
+W65.XXXA	noyade et submersion accidentelles dans une baignoire, contact initial
+W65.XXXD	noyade et submersion accidentelles dans une baignoire, contact subséquent
+W65.XXXS	noyade et submersion accidentelles dans une baignoire, séquelle
+W67.XXXA	noyade et submersion accidentelles dans une piscine, contact initial
+W67.XXXD	noyade et submersion accidentelles dans une piscine, contact subséquent
+W67.XXXS	noyade et submersion accidentelles dans une piscine, séquelle
+W69.XXXA	noyade et submersion accidentelles dans des eaux naturelles, contact initial
+W69.XXXD	noyade et submersion accidentelles dans des eaux naturelles, contact subséquent
+W69.XXXS	noyade et submersion accidentelles dans des eaux naturelles, séquelle
+W73.XXXA	autre cause spécifiée d'une noyade et d'une submersion accidentelles non liées au transport, contact initial
+W73.XXXD	autre cause spécifiée d'une noyade et d'une submersion accidentelles non liées au transport, contact subséquent
+W73.XXXS	autre cause spécifiée d'une noyade et d'une submersion accidentelles non liées au transport, séquelle
+W74.XXXA	cause non spécifiée d'une noyade et d'une submersion accidentelles, contact initial
+W74.XXXD	cause non spécifiée d'une noyade et d'une submersion accidentelles, contact subséquent
+W74.XXXS	cause non spécifiée d'une noyade et d'une submersion accidentelles, séquelle
+W85.XXXA	exposition aux lignes électriques, contact initial
+W85.XXXD	exposition aux lignes électriques, contact subséquent
+W85.XXXS	exposition aux lignes électriques, séquelle
+W86.0XXA	exposition aux câblages et appareils domestiques, contact initial
+W86.0XXD	exposition aux câblages et appareils domestiques, contact subséquent
+W86.0XXS	exposition aux câblages et appareils domestiques, séquelle
+W86.1XXA	exposition aux câblages, appareils et machines électriques industriels, contact initial
+W86.1XXD	exposition aux câblages, appareils et machines électriques industriels, contact subséquent
+W86.1XXS	exposition aux câblages, appareils et machines électriques industriels, séquelle
+W86.8XXA	exposition à d'autre courant électrique, contact initial
+W86.8XXD	exposition à d'autre courant électrique, contact subséquent
+W86.8XXS	exposition à d'autre courant électrique, séquelle
+W88.0XXA	exposition aux rayons X, contact initial
+W88.0XXD	exposition aux rayons X, contact subséquent
+W88.0XXS	exposition aux rayons X, séquelle
+W88.1XXA	exposition aux isotopes radioactifs, contact initial
+W88.1XXD	exposition aux isotopes radioactifs, contact subséquent
+W88.1XXS	exposition aux isotopes radioactifs, séquelle
+W88.8XXA	exposition à d'autre rayonnement ionisant, contact initial
+W88.8XXD	exposition à d'autre rayonnement ionisant, contact subséquent
+W88.8XXS	exposition à d'autre rayonnement ionisant, séquelle
+W89.0XXA	exposition à la lumière de soudure à l'arc, contact initial
+W89.0XXD	exposition à la lumière de soudure à l'arc, contact subséquent
+W89.0XXS	exposition à la lumière de soudure à l'arc, séquelle
+W89.1XXA	exposition au banc solaire, contact initial
+W89.1XXD	exposition au banc solaire, contact subséquent
+W89.1XXS	exposition au banc solaire, séquelle
+W89.8XXA	exposition à une autre source lumineuse artificielle visible et aux ultraviolets, contact initial
+W89.8XXD	exposition à une autre source lumineuse artificielle visible et aux ultraviolets, contact subséquent
+W89.8XXS	exposition à une autre source lumineuse artificielle visible et aux ultraviolets, séquelle
+W89.9XXA	exposition à une source lumineuse artificielle visible et aux ultraviolets non spécifiés, contact initial
+W89.9XXD	exposition à une source lumineuse artificielle visible et aux ultraviolets non spécifiés, contact subséquent
+W89.9XXS	exposition à une source lumineuse artificielle visible et aux ultraviolets non spécifiés, séquelle
+W90.0XXA	exposition aux fréquences radio, contact initial
+W90.0XXD	exposition aux fréquences radio, contact subséquent
+W90.0XXS	exposition aux fréquences radio, séquelle
+W90.1XXA	exposition au rayonnement infrarouge, contact initial
+W90.1XXD	exposition au rayonnement infrarouge, contact subséquent
+W90.1XXS	exposition au rayonnement infrarouge, séquelle
+W90.2XXA	exposition au rayonnement laser, contact initial
+W90.2XXD	exposition au rayonnement laser, contact subséquent
+W90.2XXS	exposition au rayonnement laser, séquelle
+W90.8XXA	exposition à d'autre rayonnement non ionisant, contact initial
+W90.8XXD	exposition à d'autre rayonnement non ionisant, contact subséquent
+W90.8XXS	exposition à d'autre rayonnement non ionisant, séquelle
+W92.XXXA	exposition à la chaleur artificielle excessive, contact initial
+W92.XXXD	exposition à la chaleur artificielle excessive, contact subséquent
+W92.XXXS	exposition à la chaleur artificielle excessive, séquelle
+W93.01XA	contact avec la neige carbonique, contact initial
+W93.01XD	contact avec la neige carbonique, contact subséquent
+W93.01XS	contact avec la neige carbonique, séquelle
+W93.02XA	inhalation de la neige carbonique, contact initial
+W93.02XD	inhalation de la neige carbonique, contact subséquent
+W93.02XS	inhalation de la neige carbonique, séquelle
+W93.11XA	contact avec de l'air liquide, contact initial
+W93.11XD	contact avec de l'air liquide, contact subséquent
+W93.11XS	contact avec de l'air liquide, séquelle
+W93.12XA	inhalation d'air liquide, contact initial
+W93.12XD	inhalation d'air liquide, contact subséquent
+W93.12XS	inhalation d'air liquide, séquelle
+W93.2XXA	exposition prolongée dans un congélateur ou un réfrigérateur, contact initial
+W93.2XXD	exposition prolongée dans un congélateur ou un réfrigérateur, contact subséquent
+W93.2XXS	exposition prolongée dans un congélateur ou un réfrigérateur, séquelle
+W93.8XXA	exposition à d'autre froid artificiel excessif, contact initial
+W93.8XXD	exposition à d'autre froid artificiel excessif, contact subséquent
+W93.8XXS	exposition à d'autre froid artificiel excessif, séquelle
+W94.0XXA	exposition à une haute pression atmosphérique prolongée, contact initial
+W94.0XXD	exposition à une haute pression atmosphérique prolongée, contact subséquent
+W94.0XXS	exposition à une haute pression atmosphérique prolongée, séquelle
+W94.11XA	exposition par une résidence ou un séjour prolongé en haute altitude, contact initial
+W94.11XD	exposition par une résidence ou un séjour prolongé en haute altitude, contact subséquent
+W94.11XS	exposition par une résidence ou un séjour prolongé en haute altitude, séquelle
+W94.12XA	exposition à une autre dépression atmosphérique prolongée, contact initial
+W94.12XD	exposition à une autre dépression atmosphérique prolongée, contact subséquent
+W94.12XS	exposition à une autre dépression atmosphérique prolongée, séquelle
+W94.21XA	exposition à une réduction de pression atmosphérique lors de la remontée durant une plongée sous-marine, contact initial
+W94.21XD	exposition à une réduction de pression atmosphérique lors de la remontée durant une plongée sous-marine, contact subséquent
+W94.21XS	exposition à une réduction de pression atmosphérique lors de la remontée durant une plongée sous-marine, séquelle
+W94.22XA	exposition à une réduction de pression atmosphérique lors de la remontée après un séjour sous terre, contact initial
+W94.22XD	exposition à une réduction de pression atmosphérique lors de la remontée après un séjour sous terre, contact subséquent
+W94.22XS	exposition à une réduction de pression atmosphérique lors de la remontée après un séjour sous terre, séquelle
+W94.23XA	exposition à une modification brusque de la pression d'air dans un aéronef en cours d'une ascension, contact initial
+W94.23XD	exposition à une modification brusque de la pression d'air dans un aéronef en cours d'une ascension, contact subséquent
+W94.23XS	exposition à une modification brusque de la pression d'air dans un aéronef en cours d'une ascension, séquelle
+W94.29XA	exposition à d'autres modifications rapides de la pression d'air en cours d'une ascension, contact initial
+W94.29XD	exposition à d'autres modifications rapides de la pression d'air en cours d'une ascension, contact subséquent
+W94.29XS	exposition à d'autres modifications rapides de la pression d'air en cours d'une ascension, séquelle
+W94.31XA	exposition à une modification brusque de la pression d'air dans un aéronef en cours de descente, contact initial
+W94.31XD	exposition à une modification brusque de la pression d'air dans un aéronef en cours de descente, contact subséquent
+W94.31XS	exposition à une modification brusque de la pression d'air dans un aéronef en cours de descente, séquelle
+W94.32XA	exposition à une pression d'air élevée par une descente rapide dans l'eau, contact initial
+W94.32XD	exposition à une pression d'air élevée par une descente rapide dans l'eau, contact subséquent
+W94.32XS	exposition à une pression d'air élevée par une descente rapide dans l'eau, séquelle
+W94.39XA	exposition à d'autres modifications rapides de la pression d'air en cours d'une descente, contact initial
+W94.39XD	exposition à d'autres modifications rapides de la pression d'air en cours d'une descente, contact subséquent
+W94.39XS	exposition à d'autres modifications rapides de la pression d'air en cours d'une descente, séquelle
+W99.XXXA	exposition à d'autres facteurs environnementaux artificiels, contact initial
+W99.XXXD	exposition à d'autres facteurs environnementaux artificiels, contact subséquent
+W99.XXXS	exposition à d'autres facteurs environnementaux artificiels, séquelle

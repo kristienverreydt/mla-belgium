@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<typeSystemDescription xmlns="http://uima.apache.org/resourceSpecifier">
+    <name>MappingCode-ts</name>
+    <description>All *Writers expect the code to be marked by a MappingCode annotation which covers exactly the code to be mapped.</description>
+    <version>1.0</version>
+    <vendor/>
+  <types>
+    <typeDescription>
+      <name>com.ibm.mla.mapping.Code</name>
+      <description/>
+      <supertypeName>uima.tcas.Annotation</supertypeName>
+    </typeDescription>
+  </types>
+</typeSystemDescription>

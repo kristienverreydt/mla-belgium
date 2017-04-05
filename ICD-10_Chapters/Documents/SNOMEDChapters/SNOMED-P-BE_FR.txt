@@ -1,0 +1,809 @@
+P83.1	érythème toxique du nouveau-né
+P83.1	érythème allergique du nouveau-né
+P02.1	syndrome de rupture prématurée de l'amnios
+P00.4	anomalie du foetus par phénylcétonurie maternelle
+P00.4	anomalie du foetus par PCU maternelle
+P04.1	syndrome d'intoxication foetale au valproate
+P04.1	embryopathie causée par le rétinol
+P04.1	embryopathie causée par la vitamine A
+P29.3	syndrome de circulation foetale persistante
+P96.9	foetus rabougri
+P96.9	foetus anormal
+P95	lithopédion
+P95	ostéopédion
+P95	foetus calcifié
+P07.2	foetus immature
+P01.4	foetus ectopique
+P01.4	tissu foetal ectopique
+P02.6	cordon ombilical anormal
+P02.6	cordon ombilical court
+P02.6	cordon ombilical excessivement court
+P02.4	cordon ombilical excessivement long
+P02.4	insertion marginale du cordon placentaire
+P02.4	insertion vélamenteuse du cordon ombilical
+P02.4	placenta vélamenteux
+P02.5	faux noeud du cordon ombilical
+P02.5	vrai noeud du cordon ombilical
+P02.6	anomalie vasculaire du cordon ombilical
+P02.6	anomalie veineuse du cordon ombilical
+P02.5	compression du cordon ombilical
+P02.5	enchevêtrement des cordons ombilicaux de jumeaux
+P02.6	polype ombilical
+P02.6	hernie funiculaire du cordon ombilical
+P78.3	diarrhée chronique des nourrissons et des jeunes enfants
+P78.3	diarrhée sécrétoire congénitale
+P78.3	diarrhée aqueuse volumineuse congénitale
+P78.3	diarrhée sécrétoire congénitale, type chlorurée
+P78.3	diarrhée chlorée congénitale
+P78.3	chloridorrhée congénitale
+P78.3	défaut des échanges Cl^-^/HCO^-^>3< de l'iléon et du côlon
+P78.3	diarrhée sécrétoire congénitale, type sodique
+P78.3	diarrhée sodée congénitale
+P78.3	défaut des échanges Na^+^/H^+^ du jéjunum et de l'iléon
+P96.8	ascite urinaire du nouveau-né
+P59.2	atteinte hépatocellulaire néonatale
+P59.9	hépatite néonatale
+P78.8	hépatosplénomégalie néonatale
+P74.8	hyperaminoacidurie néonatale bénigne transitoire
+P74.8	hyperphénylalaninémie transitoire
+P74.8	hyperphénylalaninémie néonatale
+P74.8	hyperphénylalaninémie légère transitoire
+P74.8	hyperphénylalaninémie de type III
+P74.5	hypertyrosinémie néonatale transitoire
+P74.5	tyrosinémie néonatale
+P74.8	hyperhistidinémie néonatale
+P74.8	citrullinémie néonatale
+P74.8	hyperammoniémie transitoire de l'enfance
+P74.8	hyperglycinémie néonatale transitoire
+P74.8	hyperméthioninémie néonatale
+P74.8	cystino-lysinurie néonatale
+P74.8	iminoglycinurie néonatale
+P04.8	maladie héréditaire familiale pouvant affecter le foetus
+P50.4	hémorragie foeto-maternelle
+P50.4	fuite de sang foetal vers la circulation maternelle
+P50.4	extravasation de sang foetal vers la circulation maternelle
+P95	mort foetale conditionnant la conduite thérapeutique vis-à-vis de la mère
+P02.1	hématome intraplacentaire
+P00.9	foetus ou nouveau-né affecté par une affection maternelle
+P00.9	foetus ou nouveau-né affecté par une affection maternelle, éventuellement sans rapport avec la grossesse actuelle
+P00.9	affection maternelle non précisée affectant le foetus ou le nouveau-né
+P00.0	foetus ou nouveau-né affecté par un trouble hypertensif maternel
+P00.0	foetus ou nouveau-né affecté par un trouble hypertensif de la mère
+P00.1	foetus ou nouveau-né affecté par une maladie maternelle des reins et des voies urinaires
+P00.1	foetus ou nouveau-né affecté par une maladie des reins et des voies urinaires de la mère
+P00.2	foetus ou nouveau-né affecté par une maladie infectieuse maternelle
+P00.2	foetus ou nouveau-né affecté par une maladie infectieuse de la mère
+P00.2	foetus ou nouveau-né affecté par une infection de la mère
+P00.2	foetus ou nouveau-né affecté par une infection maternelle
+P00.3	foetus ou nouveau-né affecté par une maladie respiratoire chronique maternelle
+P00.3	foetus ou nouveau-né affecté par une maladie respiratoire chronique de la mère
+P00.3	foetus ou nouveau-né affecté par une maladie circulatoire chronique maternelle
+P00.3	foetus ou nouveau-né affecté par une maladie circulatoire chronique de la mère
+P00.4	foetus ou nouveau-né affecté par un trouble nutritionnel maternel
+P00.4	foetus ou nouveau-né affecté par un trouble nutritionnel de la mère
+P00.4	foetus ou nouveau-né affecté par une malnutrition maternelle
+P00.5	foetus ou nouveau-né affecté par un traumatisme maternel
+P00.5	foetus ou nouveau-né affecté par un traumatisme de la mère
+P00.6	foetus ou nouveau-né affecté par une intervention chirurgicale chez la mère
+P04.8	foetus ou nouveau-né affecté par une substance nocive transmise par voie transplacentaire
+P04.8	nouveau-né affecté par une substance nocive transmise par le lait maternel
+P04.3	foetus ou nouveau-né affecté par l'alcool transmis par voie transplacentaire ou par le lait maternel
+P04.0	foetus ou nouveau-né affecté par un narcotique transmis par voie transplacentaire ou par le lait maternel
+P04.4	foetus ou nouveau-né affecté par un agent hallucinogène transmis par voie transplacentaire ou par le lait maternel
+P04.1	foetus ou nouveau-né affecté par un agent anti-infectieux transmis par voie transplacentaire ou par le lait maternel
+P04.1	foetus ou nouveau-né affecté par un antibiotique transmis par voie transplacentaire ou par le lait maternel
+P04.1	foetus ou nouveau-né affecté par un immunsérum transmis par voie transplacentaire ou par le lait maternel
+P04.1	foetus ou nouveau-né affecté par des agents médicinaux transmis par voie transplacentaire ou par le lait maternel
+P04.8	foetus ou nouveau-né affecté par une substance toxique transmise par voie transplacentaire ou par le lait maternel
+P00.8	affection maternelle précisée affectant le foetus ou le nouveau-né
+P00.8	affection précisée de la mère affectant le foetus ou le nouveau-né
+P00.8	lupus érythémateux néonatal
+P01.9	foetus ou nouveau-né affecté par une complication maternelle de la grossesse
+P01.9	foetus ou nouveau-né affecté par une complication de la grossesse chez la mère
+P01.9	complication non précisée de la grossesse affectant le foetus ou le nouveau-né
+P01.0	foetus ou nouveau-né affecté par une béance du col
+P01.0	béance du col affectant le foetus ou le nouveau-né
+P01.1	foetus ou nouveau-né affecté par une rupture prématurée des membranes
+P01.1	rupture prématurée des membranes affectant le foetus ou le nouveau-né
+P01.2	foetus ou nouveau-né affecté par un oligoamnios
+P01.2	foetus ou nouveau-né affecté par un oligohydramnios
+P01.3	foetus ou nouveau-né affecté par un polyhydramnios
+P01.3	polyhydramnios affectant le foetus ou le nouveau-né
+P01.3	hydramnios affectant le foetus ou le nouveau-né
+P01.3	foetus ou nouveau-né affecté par un hydramnios
+P01.3	foetus ou nouveau-né affecté par un hydramnios aigu
+P01.3	hydramnios aigu affectant le foetus ou le nouveau-né
+P01.3	foetus ou nouveau-né affecté par un hydramnios chronique
+P01.3	hydramnios chronique affectant le foetus ou le nouveau-né
+P01.4	foetus ou nouveau-né affecté par une grossesse ectopique
+P01.4	foetus ou nouveau-né affecté par une grossesse extra-utérine
+P01.4	foetus ou nouveau-né affecté par une grossesse abdominale
+P01.4	grossesse abdominale affectant le foetus ou le nouveau-né
+P01.4	foetus ou nouveau-né affecté par une grossesse péritonéale
+P01.4	grossesse péritonéale affectant le foetus ou le nouveau-né
+P01.4	foetus ou nouveau-né affecté par une grossesse tubaire
+P01.4	grossesse tubaire affectant le foetus ou le nouveau-né
+P01.5	foetus ou nouveau-né affecté par une grossesse multiple
+P01.5	grossesse multiple affectant le foetus ou le nouveau-né
+P01.5	foetus ou nouveau-né affecté par une grossesse gémellaire
+P01.5	grossesse gémellaire affectant le foetus ou le nouveau-né
+P01.6	foetus ou nouveau-né affecté par une grossesse trigémellaire
+P01.5	grossesse trigémellaire affectant le foetus ou le nouveau-né
+P01.6	foetus ou nouveau-né affecté par la mort de la mère
+P01.6	mort maternelle affectant le foetus ou le nouveau-né
+P01.7	foetus ou nouveau-né affecté par une présentation anormale avant le travail
+P01.7	présentation anormale avant le travail affectant le foetus ou le nouveau-né
+P01.7	foetus ou nouveau-né affecté par une présentation du siège avant le travail
+P01.7	présentation du siège avant le travail affectant le foetus ou le nouveau-né
+P01.7	foetus ou nouveau-né affecté par une version externe avant le travail
+P01.7	version externe avant le travail affectant le foetus ou le nouveau-né
+P01.7	foetus ou nouveau-né affecté par une présentation oblique avant le travail
+P01.7	présentation oblique avant le travail affectant le foetus ou le nouveau-né
+P01.7	foetus ou nouveau-né affecté par une présentation transverse avant le travail
+P01.7	présentation transverse avant le travail affectant le foetus ou le nouveau-né
+P01.7	foetus ou nouveau-né affecté par une position instable avant le travail
+P01.7	position instable avant le travail affectant le foetus ou le nouveau-né
+P01.8	foetus ou nouveau-né affecté par un avortement spontané
+P01.8	avortement spontané affectant le foetus ou le nouveau-né
+P01.9	complication maternelle précisée affectant le foetus ou le nouveau-né
+P01.9	foetus ou nouveau-né affecté par une complication maternelle précisée
+P02.9	foetus ou nouveau-né affecté par une complication concernant le placenta, le cordon ombilical ou les membranes
+P02.9	complication concernant le placenta, le cordon ombilical ou les membranes affectant le foetus ou le nouveau-né
+P02.1	décollement placentaire et hémorragie affectant le foetus ou le nouveau-né
+P02.0	foetus ou nouveau-né affecté par un placenta praevia
+P02.0	placenta praevia affectant le foetus ou le nouveau-né
+P02.1	foetus ou nouveau-né affecté par un décollement prématuré du placenta
+P02.1	hémorragie de l'antepartum affectant le foetus ou le nouveau-né
+P02.1	foetus ou nouveau-né affecté par une séparation prématurée du placenta
+P02.1	hématome rétroplacentaire affectant le foetus ou le nouveau-né
+P02.1	foetus ou nouveau-né affecté par un hématome rétroplacentaire
+P02.1	foetus ou nouveau-né affecté par une hémorragie antepartum
+P02.1	foetus ou nouveau-né affecté par une hémorragie maternelle
+P02.1	hémorragie maternelle affectant le foetus ou le nouveau-né
+P02.1	foetus ou nouveau-né affecté par la rupture du sinus marginal
+P02.1	rupture du sinus marginal affectant le foetus ou le nouveau-né
+P02.1	foetus ou nouveau-né affecté par une lésion du placenta par amniocentèse
+P02.1	lésion placentaire par amniocentèse affectant le foetus ou le nouveau-né
+P02.1	foetus ou nouveau-né affecté par une lésion du placenta par césarienne
+P02.1	lésion placentaire par césarienne affectant le foetus ou le nouveau-né
+P02.1	foetus ou nouveau-né affecté par une lésion du placenta par déclenchement chirurgical
+P02.1	lésion placentaire par déclenchement chirurgical affectant le foetus ou le nouveau-né
+P02.2	foetus ou nouveau-né affecté par une anomalie morphologique du placenta
+P02.2	anomalie morphologique placentaire affectant le foetus ou le nouveau-né
+P02.2	foetus ou nouveau-né affecté par une anomalie fonctionnelle du placenta
+P02.2	anomalie fonctionnelle placentaire affectant le foetus ou le nouveau-né
+P02.2	foetus ou nouveau-né affecté par un dysfonctionnement placentaire
+P02.2	dysfonctionnement placentaire affectant le foetus ou le nouveau-né
+P02.2	foetus ou nouveau-né affecté par un infarctus du placenta
+P02.2	infarctus placentaire affectant le foetus ou le nouveau-né
+P02.2	foetus ou nouveau-né affecté par une insuffisance placentaire
+P02.2	insuffisance placentaire affectant le foetus ou le nouveau-né
+P02.3	foetus ou nouveau-né affecté par un syndrome de transfusion placentaire
+P02.3	syndrome de transfusion placentaire affectant le foetus ou le nouveau-né
+P02.3	foetus ou nouveau-né affecté par une anomalie du placenta et du cordon ombilical provoquant une transfusion transplacentaire entre jumeaux
+P02.6	foetus ou nouveau-né affecté par une anomalie du cordon ombilical
+P02.6	anomalie du cordon ombilical affectant le foetus ou le nouveau-né
+P02.5	foetus ou nouveau-né affecté par une compression du cordon ombilical
+P02.5	compression du cordon ombilical affectant le foetus ou le nouveau-né
+P02.6	foetus ou nouveau-né affecté par une procidence du cordon ombilical
+P02.6	procidence du cordon ombilical affectant le foetus ou le nouveau-né
+P02.5	circulaire du cordon ombilical affectant le foetus ou le nouveau-né
+P02.5	foetus ou nouveau-né affecté par une circulaire du cordon ombilical
+P02.5	foetus ou nouveau-né affecté par un enchevêtrement du cordon ombilical
+P02.5	enchevêtrement du cordon ombilical affectant le foetus ou le nouveau-né
+P02.5	noeud du cordon ombilical affectant le foetus ou le nouveau-né
+P02.5	foetus ou nouveau-né affecté par un noeud du cordon ombilical
+P02.5	foetus ou nouveau-né affecté par une torsion du cordon ombilical
+P02.5	torsion du cordon ombilical affectant le foetus ou le nouveau-né
+P02.6	foetus ou nouveau-né affecté par un cordon ombilical court
+P02.6	cordon ombilical court affectant le foetus ou le nouveau-né
+P02.6	foetus ou nouveau-né affecté par une thrombose du cordon ombilical
+P02.6	thrombose du cordon ombilical affectant le foetus ou le nouveau-né
+P02.6	foetus ou nouveau-né affecté par des varices du cordon ombilical
+P02.6	varices du cordon ombilical affectant le foetus ou le nouveau-né
+P02.4	foetus ou nouveau-né affecté par une insertion vélamenteuse du cordon ombilical
+P02.4	insertion vélamenteuse du cordon ombilical affectant le foetus ou le nouveau-né
+P02.6	foetus ou nouveau-né affecté par un vasa praevia
+P02.6	vasa praevia affectant le foetus ou le nouveau-né
+P02.9	foetus ou nouveau-né affecté par une anomalie du chorion
+P02.9	anomalie chorionique affectant le foetus ou le nouveau-né
+P02.9	foetus ou nouveau-né affecté par une anomalie de l'amnios
+P02.9	anomalie amniotique affectant le foetus ou le nouveau-né
+P02.7	foetus ou nouveau-né affecté par une chorio-amniotite
+P02.7	chorio-amniotite affectant le foetus ou le nouveau-né
+P02.7	foetus ou nouveau-né affecté par une amniotite
+P02.7	amniotite affectant le foetus ou le nouveau-né
+P02.7	foetus ou nouveau-né affecté par une membranite
+P02.7	membranite affectant le foetus ou le nouveau-né
+P02.7	foetus ou nouveau-né affecté par une placentite
+P02.7	placentite affectant le foetus ou le nouveau-né
+P02.9	foetus ou nouveau-né affecté par une autre anomalie précisée du chorion
+P02.9	autre anomalie chorionique précisée affectant le foetus ou le nouveau-né
+P02.9	foetus ou nouveau-né affecté par une autre anomalie précisée de l'amnios
+P02.9	autre anomalie amniotique précisée affectant le foetus ou le nouveau-né
+P03.9	complication du travail ou de l'accouchement affectant le foetus ou le nouveau-né
+P03.1	foetus ou nouveau-né affecté par une présentation anormale, une malposition ou une disproportion au cours du travail et de l'accouchement
+P03.1	présentation anormale, malposition ou disproportion affectant le foetus ou le nouveau-né au cours du travail et de l'accouchement
+P03.0	foetus ou nouveau-né affecté par un accouchement et une extraction par le siège
+P03.0	accouchement et extraction par le siège affectant le foetus ou le nouveau-né
+P03.1	foetus ou nouveau-né affecté par une anomalie du bassin osseux
+P03.1	anomalie du bassin osseux affectant le foetus ou le nouveau-né
+P03.1	foetus ou nouveau-né affecté par un bassin rétréci
+P03.1	bassin rétréci affectant le foetus ou le nouveau-né
+P03.1	foetus ou nouveau-né affecté par une présentation occipito-postérieure persistante
+P03.1	présentation occipito-postérieure persistante affectant le foetus ou le nouveau-né
+P03.1	foetus ou nouveau-né affecté par une présentation de l'épaule
+P03.1	présentation de l'épaule affectant le foetus ou le nouveau-né
+P03.1	foetus ou nouveau-né affecté par une présentation transverse
+P03.1	présentation transverse affectant le foetus ou le nouveau-né
+P03.2	foetus ou nouveau-né affecté par un accouchement par forceps
+P03.2	accouchement par forceps affectant le foetus ou le nouveau-né
+P03.2	extraction par forceps affectant le foetus ou le nouveau-né
+P03.2	foetus ou nouveau-né affecté par une extraction par forceps
+P03.3	foetus ou nouveau-né affecté par un accouchement par extracteur pneumatique (ventouse)
+P03.3	accouchement par extracteur pneumatique (ventouse) affectant le foetus ou le nouveau-né
+P03.4	foetus ou nouveau-né affecté par un accouchement par césarienne
+P03.4	accouchement par césarienne affectant le foetus ou le nouveau-né
+P04.0	foetus ou nouveau-né affecté par une anesthésie ou une analgésie maternelle
+P04.0	foetus ou nouveau-né affecté par des opiacés ou tranquilisants administrés à la mère pendant le travail ou l'accouchement
+P04.0	anesthésie ou analgésie maternelle affectant le foetus ou le nouveau-né
+P04.0	foetus ou nouveau-né affecté par une réaction ou une intoxication maternelle à un opiacé ou à un tranquillisant, au cours du travail et de l'accouchement
+P03.5	foetus ou nouveau-né affecté par un accouchement précipité
+P03.5	rapidité de la deuxième période du travail affectant le foetus ou le nouveau-né
+P03.5	accouchement précipité affectant le foetus ou le nouveau-né
+P03.5	foetus ou nouveau-né affecté par une rapidité de l'expulsion
+P03.6	foetus ou nouveau-né affecté par des contractions anormales de l'utérus
+P03.6	contractions anormales de l'utérus affectant le foetus ou le nouveau-né
+P03.6	foetus ou nouveau-né affecté par un anneau de contraction
+P03.6	anneau de contraction affectant le foetus ou le nouveau-né
+P03.6	foetus ou nouveau-né affecté par un travail hypertonique
+P03.6	travail hypertonique affectant le foetus ou le nouveau-né
+P03.6	foetus ou nouveau-né affecté par une hypotonie utérine
+P03.6	inertie ou dysfonction utérine affectant le foetus ou le nouveau-né
+P03.6	hypotonie utérine affectant le foetus ou le nouveau-né
+P03.6	foetus ou nouveau-né affecté par une inertie ou une dysfonction utérine
+P03.8	autre complication précisée du travail et de l'accouchement affectant le foetus ou le nouveau-né
+P03.8	foetus ou nouveau-né affecté par une autre complication précisée du travail et de l'accouchement
+P03.8	foetus ou nouveau-né affecté par une anomalie des tissus mous maternels
+P03.6	anomalie des tissus mous maternels affectant le foetus ou le nouveau-né
+P03.8	foetus ou nouveau-né affecté par une intervention destructrice sur le foetus vivant pour faciliter l'accouchement
+P03.8	foetus ou nouveau-né affecté par un déclenchement médical du travail
+P03.8	foetus ou nouveau-né affecté par un travail provoqué
+P03.8	foetus ou nouveau-né affecté par une chirurgie antérieure de l'utérus ou des organes pelviens
+P03.8	chirurgie antérieure de l'utérus ou des organes pelviens affectant le foetus ou le nouveau-né
+P03.8	foetus ou nouveau-né affecté par une autre affection ou procédure utilisée pendant le travail et l'accouchement
+P96.9	affection du foetus d'origine périnatale
+P96.9	affection foetale dont l'origine se situe dans la période périnatale
+P96.9	débilité congénitale du foetus
+P96.9	débilité congénitale foetale
+P05.9	croissance lente et malnutrition du foetus
+P05.9	croissance lente et malnutrition foetales
+P05.9	retard de croissance foetale
+P05.9	croissance foetale retardée
+P05.9	faible croissance foetale
+P05.9	croissance intra-utérine retardée
+P05.9	microsomie
+P05.9	croissance foetale faible
+P05.9	bébé microsomique
+P05.0	léger pour l'âge gestationnel, sans mention de malnutrition foetale
+P05.0	poids de naissance inférieur à la normale
+P05.1	foetus petit pour l'âge gestationnel
+P05.0	faible poids de naissance
+P05.0	nouveau-né ayant un poids insuffisant pour l'âge gestationnel
+P05.0	léger pour l'âge gestationnel avec signes de malnutrition foetale
+P05.0	léger pour l'âge gestationnel avec signes de malnutrition du foetus
+P05.0	nouveau-né léger pour l'âge gestationnel avec peau exfoliée et perte de tissus sous-cutanés
+P05.2	malnutrition foetale, sans mention de léger ou petit pour l'âge gestationnel
+P05.2	malnutrition foetale sans mention d'hypotrophie
+P05.2	nouveau-né de poids normal présentant des signes de malnutrition foetale tels que peau sèche, exfoliée et perte de tissus sous-cutanés
+P05.2	malnutrition intra-utérine
+P05.2	malnutrition foetale
+P07.3	anomalie liée à une brièveté de la gestation et un poids insuffisant à la naissance, sans précision
+P07.2	immaturité foetale extrême
+P07.2	immaturité extrême du foetus
+P07.0	foetus avec poids à la naissance de moins de 1000 grammes et une gestation de moins de 28 semaines
+P07.3	prématurité du foetus
+P07.3	prématurité
+P07.3	prématurité foetale
+P07.1	foetus avec poids à la naissance entre 1000 et 2499 grammes et une gestation de 28 à 37 semaines
+P07.3	enfant né avant terme
+P08.1	anomalie liée à une gestation prolongée et un poids élevé à la naissance
+P08.0	enfant exceptionnellement gros
+P08.0	foetus géant
+P08.0	hypertrophie foetale
+P08.0	poids à la naissance de 4500 grammes ou plus
+P08.0	bébé macrosomique
+P08.0	macrosomie
+P08.1	enfant de poids supérieur pour l'âge gestationnel, quelle que soit la durée de la gestation
+P08.1	enfant gros pour l'âge gestationnel, quelle que soit la durée de la gestation
+P08.2	enfant né après terme, petit pour l'âge gestationnel
+P08.2	foetus ou nouveau-né dont la durée de gestation est de 42 semaines ou plus, mais qui n'est pas gros pour l'âge gestationnel
+P08.2	syndrome de post-maturité
+P08.2	syndrome de Ballantyne-Runge
+P15.9	traumatisme à la naissance
+P11.2	lésion cérébrale traumatique congénitale
+P10.9	hémorragie cérébrale du foetus ou du nouveau-né
+P10.9	hémorragie cérébrale néonatale
+P10.9	hémorragie cérébrale du nouveau-né
+P10.1	hémorragie cérébrale due à un traumatisme obstétrical
+P52.4	hémorragie cérébrale due à une anoxie ou une hypoxie intrapartum
+P10.0	hémorragie sous-durale du foetus ou du nouveau-né
+P10.0	hémorragie sous-durale due à un traumatisme obstétrical
+P52.8	hémorragie sous-durale due à une anoxie ou une hypoxie intrapartum
+P10.0	hématome sous-dural localisé dû à un traumatisme obstétrical
+P10.4	déchirure de la tente du cervelet due à un traumatisme obstétrical
+P12.9	lésion du cuir chevelu due à un traumatisme obstétrical
+P12.1	bosse séro-sanguine
+P12.1	épanchement séro-hématique sous-cutané localisé du cuir chevelu au cours du travail
+P12.0	céphalhématome foetal
+P12.0	céphalhématome du foetus
+P12.1	hématome en chignon dû à une extraction par ventouse
+P12.2	hémorragie massive sous-aponévrotique épicrânienne due à un traumatisme obstétrical
+P13.9	lésion du squelette due à un traumatisme obstétrical
+P13.4	fracture de la clavicule due à un traumatisme obstétrical
+P13.3	fracture d'un os long due à un traumatisme obstétrical
+P13.0	fracture du crâne due à un traumatisme obstétrical
+P11.5	lésion du rachis et de la moelle épinière due à un traumatisme obstétrical
+P11.5	luxation du rachis due à un traumatisme obstétrical
+P11.5	fracture du rachis due à un traumatisme obstétrical
+P11.5	lacération de la moelle épinière due à un traumatisme obstétrical
+P11.5	rupture de la moelle épinière due à un traumatisme obstétrical
+P11.4	lésion des nerfs crâniens due à un traumatisme obstétrical
+P14.9	lésion des nerfs périphériques due à un traumatisme obstétrical
+P11.3	lésion du nerf facial due à un traumatisme obstétrical
+P11.3	paralysie faciale due à un traumatisme obstétrical
+P14.3	lésion du plexus brachial due à un traumatisme obstétrical
+P14.3	paralysie brachiale due à un traumatisme obstétrical
+P14.0	paralysie de Duchenne-Erb due à un traumatisme obstétrical
+P14.0	paralysie radiculaire supérieure du plexus brachial due à un traumatisme obstétrical
+P14.1	paralysie de Déjerine-Klumpke due à un traumatisme obstétrical
+P14.2	paralysie du nerf phrénique due à un traumatisme obstétrical
+P15.8	autre traumatisme obstétrical précisé
+P15.0	hématome sous-capsulaire du foie dû à un traumatisme obstétrical
+P15.0	rupture du foie due à un traumatisme obstétrical
+P15.5	hématome du testicule dû à un traumatisme obstétrical
+P15.5	hématome testiculaire dû à un traumatisme obstétrical
+P15.5	hématome de la vulve du foetus ou du nouveau-né dû à un traumatisme obstétrical
+P15.5	hématome vulvaire du foetus ou du nouveau-né dû à un traumatisme obstétrical
+P15.1	rupture de la rate due à un traumatisme obstétrical
+P15.3	lésion de l'oeil due à un traumatisme obstétrical
+P15.3	glaucome dû à un traumatisme obstétrical
+P15.8	traumatisme obstétrical par scalpel
+P20.9	hypoxie intra-utérine ou asphyxie à la naissance
+P20.9	hypoxie foetale
+P21.9	anoxie chez un nouveau-né vivant
+P21.9	anoxie néonatale
+P21.9	hypoxie néonatale
+P21.9	hypoxie chez un nouveau-né vivant
+P21.9	asphyxie chez un nouveau-né vivant
+P21.9	asphyxie néonatale
+P20.9	mort du foetus par asphyxie ou anoxie, sans précision quant au moment où celle-ci a été constatée, avant ou après le début du travail
+P20.9	mort foetale par asphyxie ou anoxie, sans précision quant au moment où celle-ci a été constatée, avant ou après le début du travail
+P20.9	détresse foetale chez un nouveau-né vivant
+P20.9	détresse foetale intra-utérine, sans précision quant au moment où celle-ci a été constatée, avant ou après le début du travail, chez un nouveau-né vivant
+P29.1	anomalie du rythme cardiaque foetal, constatée avant ou après le début du travail chez un nouveau-né vivant
+P29.1	dysrythmie cardiaque du nouveau-né
+P29.1	arythmie néonatale
+P20.9	acidose foetale constatée avant ou après le début du travail, chez un nouveau-né vivant
+P20.9	acidose intra-utérine constatée avant ou après le début du travail, chez un nouveau-né vivant
+P20.9	anoxie ou hypoxie foetale constatée avant ou après le début du travail, chez un nouveau-né vivant
+P20.9	anoxie ou hypoxie intra-utérine constatée avant ou après le début du travail, chez un nouveau-né vivant
+P20.9	asphyxie foetale constatée avant ou après le début du travail, chez un nouveau-né vivant
+P20.9	asphyxie intra-utérine constatée avant ou après le début du travail, chez un nouveau-né vivant
+P20.9	présence de méconium dans le liquide amniotique constatée avant ou après le début du travail, chez un nouveau-né vivant
+P20.9	émission de méconium constatée avant ou après le début du travail, chez un nouveau-né vivant
+P20.9	hypercapnie foetale constatée avant ou après le début du travail, chez un nouveau-né vivant
+P20.9	hypercapnie intra-utérine constatée avant ou après le début du travail, chez un nouveau-né vivant
+P20.0	mort foetale par asphyxie ou anoxie avant le début du travail
+P20.0	mort du foetus par asphyxie ou anoxie avant le début du travail
+P20.0	détresse foetale intra-utérine constatée avant le début du travail, chez un nouveau-né vivant
+P20.0	anomalie du rythme cardiaque foetal constatée avant le début du travail, chez un nouveau-né vivant
+P20.0	acidose foetale constatée avant le début du travail chez un nouveau-né vivant
+P20.0	acidose intra-utérine constatée avant le début du travail chez un nouveau-né vivant
+P20.0	anoxie ou hypoxie foetale constatée avant le début du travail chez un nouveau-né vivant
+P20.0	anoxie ou hypoxie intra-utérine constatée avant le début du travail chez un nouveau-né vivant
+P20.0	asphyxie foetale constatée avant le début du travail, chez un nouveau-né vivant
+P20.0	asphyxie intra-utérine constatée avant le début du travail, chez un nouveau-né vivant
+P20.0	présence de méconium dans le liquide amniotique constatée avant le début du travail, chez un nouveau-né vivant
+P20.0	émission de méconium constatée avant le début du travail, chez un nouveau-né vivant
+P20.0	hypercapnie foetale constatée avant le début du travail, chez un nouveau-né vivant
+P20.0	hypercapnie intra-utérine constatée avant le début du travail, chez un nouveau-né vivant
+P20.1	mort foetale par asphyxie ou anoxie pendant le travail
+P20.1	mort du foetus par asphyxie ou anoxie pendant le travail
+P20.1	détresse foetale intra-utérine constatée pour la première fois pendant le travail ou l'accouchement, chez un nouveau-né vivant
+P20.1	anomalie du rythme cardiaque foetal constatée pour la première fois pendant le travail ou l'accouchement, chez un nouveau-né vivant
+P20.1	acidose foetale constatée pour la première fois pendant le travail ou l'accouchement, chez un nouveau-né vivant
+P20.1	acidose intra-utérine constatée pour la première fois pendant le travail ou l'accouchement, chez un nouveau-né vivant
+P20.1	anoxie ou hypoxie foetale constatée pour la première fois pendant le travail ou l'accouchement, chez un nouveau-né vivant
+P20.1	anoxie ou hypoxie intra-utérine constatée pour la première fois pendant le travail ou l'accouchement, chez un nouveau-né vivant
+P20.1	présence de méconium dans le liquide amniotique constatée pour la première fois pendant le travail ou l'accouchement, chez un nouveau-né vivant
+P20.1	émission de méconium constatée pour la première fois pendant le travail ou l'accouchement, chez un nouveau-né vivant
+P20.1	hypercapnie foetale constatée pour la première fois pendant le travail ou l'accouchement, chez un nouveau-né vivant
+P20.1	hypercapnie intra-utérine constatée pour la première fois pendant le travail ou l'accouchement, chez un nouveau-né vivant
+P28.8	hypoventilation néonatale
+P28.8	acidose respiratoire du nouveau-né
+P28.8	acidose gazeuse du nouveau-né
+P28.8	alcalose respiratoire du nouveau-né
+P21.0	asphyxie obstétricale grave
+P21.0	asphyxie blanche
+P21.0	asphyxie avec indice d'Apgar à une minute entre 0 et 3
+P21.1	asphyxie obstétricale légère ou modérée
+P21.1	asphyxie avec indice d'Apgar à une minute entre 4 et 7
+P21.1	asphyxie bleue
+P29.0	arrêt cardiaque du foetus ou du nouveau-né
+P29.0	arrêt cardio-respiratoire néonatal
+P29.0	arrêt cardiaque néonatal
+P29.8	collapsus cardio-vasculaire néonatal
+P83.8	gangrène néonatale
+P28.9	affection respiratoire du foetus ou du nouveau-né
+P28.4	épisodes apnéïques périnataux
+P28.4	épisodes d'apnée périnataux
+P28.4	crise d'apnée du nouveau-né
+P28.4	crise d'apnée néonatale
+P28.2	crises de cyanose du nouveau-né
+P28.2	cyanose néonatale
+P22.9	détresse respiratoire périnatale
+P91.8	dépression des centres respiratoires du nouveau-né
+P28.5	insuffisance respiratoire périnatale
+P28.5	insuffisance respiratoire néonatale
+P22.0	syndrome de détresse respiratoire chez le nouveau-né
+P22.0	syndrome de détresse respiratoire néonatale
+P22.0	syndrome de détresse cardio-respiratoire du nouveau-né
+P22.0	syndrome d'hypoperfusion pulmonaire du nouveau-né
+P22.0	poumon de choc du nouveau-né
+P22.0	dysplasie alvéolaire congénitale
+P22.0	syndrome de détresse respiratoire idiopathique du nouveau-né
+P22.0	S.D.R. du nouveau-né
+P22.0	S.D.R.I. du nouveau-né
+P22.0	maladie des membranes hyalines
+P23.9	pneumonie congénitale
+P23.9	pneumonie infectieuse prénatale
+P24.9	syndrome d'aspiration massive
+P24.8	aspiration du contenu du canal génital
+P24.1	pneumopathie par aspiration foetale
+P24.0	syndrome d'aspiration du méconium
+P24.0	aspiration de méconium
+P24.0	pneumopathie par aspiration du méconium
+P25.0	emphysème interstitiel périnatal
+P25.2	pneumomédiastin périnatal
+P25.3	pneumopéricarde périnatal
+P25.1	pneumothorax périnatal
+P26.9	hémorragie pulmonaire du foetus ou du nouveau-né
+P26.8	hémorragie alvéolaire pulmonaire périnatale
+P26.8	hémorragie intra-alvéolaire du poumon survenant pendant la période périnatale
+P26.8	hémorragie alvéolaire du poumon survenant pendant la période périnatale
+P26.8	hémorragie intra-alvéolaire pulmonaire périnatale
+P26.1	hémorragie pulmonaire massive périnatale
+P26.1	hémorragie pulmonaire massive survenant pendant la période périnatale
+P28.0	atélectasie primitive survenant pendant la période périnatale
+P28.0	immaturité pulmonaire
+P28.0	poumons immatures
+P28.0	atélectasie périnatale
+P28.0	atélectasie néonatale
+P28.0	atélectasie congénitale du poumon
+P28.1	atélectasie partielle périnatale
+P28.1	atélectasie secondaire périnatale
+P28.1	collapsus pulmonaire périnatal
+P22.1	tachypnée transitoire du nouveau-né
+P22.1	tachypnée régressant dans les 6 heures suivant la naissance
+P22.1	détresse respiratoire transitoire du nouveau-né
+P27.9	maladie respiratoire chronique survenant pendant la période périnatale
+P28.8	fibrose pulmonaire interstitielle du prématuré
+P27.1	dysplasie broncho-pulmonaire du nouveau-né
+P27.1	dysplasie broncho-pulmonaire
+P27.0	syndrome de Wilson-Mikity
+P27.0	dysmaturité pulmonaire
+P39.9	infection spécifique de la période périnatale
+P39.8	syndrome TORCH
+P39.8	association toxoplasmose, rubéole, cytomégalovirus et herpès chez un nouveau-né
+P38	omphalite du nouveau-né
+P38	infection du cordon ombilical
+P38	infection du moignon ombilical
+P39.0	mastite infectieuse néonatale
+P39.1	ophtalmie du nouveau-né
+P39.1	conjonctivite néonatale
+P39.1	dacryocystite néonatale
+P39.2	infection intra-amniotique du foetus
+P39.2	infection intra-amniotique foetale
+P36.9	syndrome infectieux intra-utérin du foetus
+P36.9	syndrome infectieux intra-utérin foetal
+P36.9	septicémie du nouveau-né
+P36.9	septicémie néonatale
+P29.8	thrombophlébite du nouveau-né
+P29.8	thrombophlébite néonatale
+P39.3	infection néonatale des voies urinaires
+P54.9	hémorragie du nouveau-né
+P54.9	hémorragie néonatale
+P50.5	perte de sang foetal au niveau de la section du cordon d'un jumeau
+P50.1	perte de sang foetal due à une rupture du cordon
+P50.0	perte de sang foetal provenant d'un vasa praevia
+P50.2	perte de sang foetal d'origine placentaire
+P50.3	hémorragie foetale vers un jumeau
+P50.4	hémorragie foetale vers la circulation maternelle
+P50.9	exsanguination foetale
+P50.9	exsanguination du foetus
+P52.3	hémorragie intraventriculaire périnatale
+P52.3	hémorragie intraventriculaire néonatale
+P52.3	hémorragie intraventriculaire due à toute cause périnatale
+P52.5	hémorragie sous-arachnoïdienne périnatale
+P52.5	hémorragie sous-arachnoïdienne due à toute cause périnatale
+P51.9	hémorragie ombilicale après la naissance
+P51.9	hémorragie ombilicale du nouveau-né
+P51.8	glissement de la ligature ombilicale avec hémorragie
+P54.3	hémorragie gastro-intestinale périnatale
+P54.4	hémorragie surrénalienne périnatale
+P54.5	hémorragie cutanée périnatale
+P54.5	pétéchies du foetus ou du nouveau-né
+P54.5	pétéchies foetales ou néonatales
+P54.5	ecchymoses du foetus ou du nouveau-né
+P54.5	ecchymoses foetales ou néonatales
+P54.5	contusions du foetus ou du nouveau-né
+P54.5	contusions foetales ou néonatales
+P54.5	hématome superficiel du foetus ou du nouveau-né
+P54.5	hématome superficiel foetal ou néonatal
+P54.8	hémorragie des voies respiratoires du nouveau-né
+P54.8	hémorragie néonatale des voies respiratoires
+P54.8	hémorragie précisée du foetus ou du nouveau-né
+P55.9	maladie hémolytique du foetus ou du nouveau-né
+P55.9	anémie néonatale
+P55.9	maladie hémolytique allo-immune du nouveau-né
+P55.9	érythroblastose foetale
+P55.9	maladie hémolytique foetale ou néonatale
+P55.9	érythroblastose du foetus ou du nouveau-né
+P55.9	anémie hémolytique néonatale allo-immune
+P55.9	érythroblastose périnatale
+P55.8	maladie hémolytique du foetus ou du nouveau-né due à une iso-immunisation
+P55.0	maladie hémolytique du foetus ou du nouveau-né due à l'iso-immunisation Rh
+P55.0	maladie hémolytique Rh du nouveau-né
+P55.0	maladie hémolytique due à l'iso-immunisation Rh
+P55.0	anémie due à l'iso-immunisation Rh
+P55.0	érythroblastose foetale due à l'iso-immunisation Rh
+P55.0	ictère dû à l'iso-immunisation Rh du nouveau-né
+P55.0	iso-immunisation Rh du nouveau-né
+P55.1	maladie hémolytique du foetus ou du nouveau-né par iso-immunisation ABO
+P55.1	maladie hémolytique ABO du nouveau-né
+P55.1	anémie due à l'incompatibilité sanguine ABO du nouveau-né
+P55.1	maladie hémolytique par iso-immunisation ABO
+P55.1	érythroblastose foetale due à l'iso-immunisation ABO
+P55.1	ictère dû à l'iso-immunisation ABO du nouveau-né
+P55.1	iso-immunisation ABO du nouveau-né
+P55.8	maladie hémolytique due à une iso-immunisation
+P56.0	anasarque foeto-placentaire due à une iso-immunisation
+P57.0	ictère nucléaire dû à une iso-immunisation
+P55.8	anémie tardive due à une iso-immunisation
+P59.9	ictère foetal ou néonatal
+P59.9	jaunisse foetale ou néonatale
+P59.9	jaunisse néonatale
+P59.9	ictère physiologique du nouveau-né
+P59.9	hyperbilirubinémie néonatale
+P59.8	hyperbilirubinémie néonatale familiale transitoire
+P59.8	syndrome de Lucey-Arias
+P59.8	icterus neonatorum
+P57.9	ictère nucléaire du nouveau-né
+P57.9	ictère nucléaire non dû à une iso-immunisation
+P57.9	encéphalopathie bilirubinémique
+P58.8	ictère périnatal dû à une anémie hémolytique héréditaire
+P58.8	jaunisse périnatale due à une anémie hémolytique héréditaire
+P58.9	ictère périnatal dû à une hémolyse excessive
+P58.9	jaunisse périnatale due à une hémolyse excessive
+P58.0	ictère foetal ou néonatal dû à des contusions
+P58.0	jaunisse foetale ou néonatale due à des contusions
+P58.4	ictère foetal ou néonatal dû à des médicaments ou des toxines transmis par la mère
+P58.4	jaunisse foetale ou néonatale due à des médicaments ou des toxines transmis par la mère
+P59.8	syndrome de Lucey-Driscol
+P58.2	ictère foetal ou néonatal dû à une infection
+P58.2	jaunisse foetale ou néonatale due à une infection
+P58.3	ictère foetal ou néonatal dû à une polycythémie
+P58.3	jaunisse foetale ou néonatale due à une polycythémie
+P58.5	ictère foetal ou néonatal dû à une déglutition de sang maternel
+P58.5	jaunisse foetale ou néonatale due à une déglutition de sang maternel
+P59.0	ictère néonatal associé à un accouchement avant terme
+P59.0	ictère dû à un retard de la glycuronoconjugaison associé à un accouchement avant terme
+P59.0	hyperbilirubinémie de la prématurité
+P59.8	ictère néonatal dû à une glycuronoconjugaison retardée
+P59.8	ictère néonatal dû à un retard de la glycuronoconjugaison associé à d'autres maladies classées ailleurs
+P59.8	ictère néonatal dû à un retard de la glycuronoconjugaison associé à retard du développement du système de conjugaison
+P59.3	ictère néonatal dû à un retard de glycuronoconjugaison associé aux inhibiteurs du lait maternel
+P59.3	ictère lié à l'allaitement maternel
+P59.2	ictère périnatal dû à une lésion hépatocellulaire
+P59.2	ictère périnatal dû à une hépatite foetale ou néonatale
+P59.2	jaunisse périnatale due à une hépatite foetale ou néonatale
+P59.2	jaunisse périnatale due à une hépatite à cellules géantes
+P59.1	ictère périnatal dû au syndrome de la bile épaisse
+P59.8	ictère périnatal dû à d'autres causes classées ailleurs
+P72.9	trouble endocrinien ou métabolique spécifique du foetus ou du nouveau-né
+P72.9	anomalie endocrinienne spécifique du foetus ou du nouveau-né
+P70.1	syndrome de l'enfant de mère diabétique
+P70.1	diabète sucré de la mère avec hypoglycémie affectant le foetus ou le nouveau-né
+P70.1	diabète sucré maternel avec hypoglycémie affectant le foetus ou le nouveau-né
+P70.1	gros bébé de mère diabétique
+P70.2	diabète sucré néonatal
+P70.2	diabète sucré du nouveau-né
+P94.0	myasthénie grave néonatale
+P72.1	thyréotoxicose néonatale
+P72.1	hyperthyroïdie transitoire néonatale
+P71.8	hypocalcémie et hypomagnésémie du nouveau-né
+P71.0	hypocalcémie néonatale due au lait de vache
+P71.0	hypocalcémie du nouveau-né due au lait de vache
+P71.3	tétanie hypocalcémique néonatale
+P71.1	hypocalcémie par surcharge en phosphate
+P71.4	hypoparathyroïdie néonatale
+P74.4	trouble électrolytique transitoire néonatal
+P74.1	déshydratation du nouveau-né
+P70.4	hypoglycémie néonatale
+P70.4	hypoglycémie du nouveau-né
+P74.0	acidose métabolique tardive du nouveau-né
+P72.9	trouble endocrinien transitoire néonatal
+P74.8	trouble métabolique transitoire des acides aminés
+P72.8	virilisme foetal
+P61.9	affection hématologique spécifique du foetus ou du nouveau-né
+P61.6	affection de la coagulation néonatale
+P53	maladie hémorragique du nouveau-né due à une carence en vitamine K
+P53	diathèse hémorragique néonatale
+P53	maladie hémorragique néonatale due à une carence en vitamine K
+P53	diathèse hémorragique du nouveau-né
+P53	carence du nouveau-né en vitamine K
+P53	carence néonatale en vitamine K
+P61.0	thrombocytopénie néonatale transitoire
+P61.0	thrombocytopénie néonatale due à une exsanguino-transfusion
+P61.0	thrombocytopénie néonatale due à une thrombocytopénie maternelle idiopathique
+P61.0	thrombocytopénie néonatale due à une iso-immunisation
+P60	coagulation intravasculaire disséminée chez le nouveau-né
+P60	CIVD chez le nouveau-né
+P61.6	trouble transitoire néonatal de la coagulation
+P61.6	affection transitoire néonatale de la coagulation
+P61.1	polycythémie du nouveau-né
+P61.1	polycythémie néonatale
+P61.1	pléthore du nouveau-né
+P61.1	polycythémie due à une transfusion placentaire de jumeau-à-jumeau
+P61.1	polycythémie par transfusion placentaire de jumeau-à-jumeau
+P61.1	polycythémie due à une transfusion placentaire materno-foetale
+P61.1	polycythémie par transfusion placentaire materno-foetale
+P61.4	anémie congénitale
+P61.3	anémie consécutive à une perte de sang foetal
+P61.3	anémie congénitale par perte de sang foetal
+P61.2	anémie de la prématurité
+P61.5	neutropénie néonatale transitoire
+P61.5	neutropénie iso-immune
+P61.5	neutropénie de transfert maternel
+P61.8	lymphocytopénie néonatale
+P61.8	trouble hématologique transitoire
+P78.9	trouble de l'appareil digestif spécifique du foetus ou du nouveau-né
+P78.9	affection de l'appareil digestif spécifique du foetus ou du nouveau-né
+P78.9	affection périnatale de l'appareil digestif
+P76.0	obstruction méconiale
+P76.0	syndrome du bouchon méconial
+P76.8	concrétions fécales congénitales
+P76.8	stercolithes congénitales
+P76.2	occlusion intestinale due à un lait épaissi
+P76.1	iléus transitoire du nouveau-né
+P76.8	iléus paralytique du nouveau-né
+P76.8	iléus paralytique néonatal
+P76.8	iléus adynamique néonatal
+P76.8	iléus spasmodique du nouveau-né
+P76.8	iléus spasmodique néonatal
+P76.8	iléus dynamique néonatal
+P76.8	iléus neurotique congénital
+P76.8	syndrome de Jirasek-Zuelzer-Wilson
+P78.2	hématémèse et méléna dus à une déglutition de sang maternel
+P78.2	méléna des nouveau-nés
+P77	entérocolite nécrosante du foetus ou du nouveau-né
+P77	entérocolite ulcéronécrosante du nouveau-né
+P78.0	perforation intestinale périnatale
+P78.0	péritonite méconiale
+P78.8	affection périnatale précisée de l'appareil digestif
+P81.9	affections intéressant les téguments et la régulation thermique du foetus ou du nouveau-né
+P83.2	anasarque foeto-placentaire idiopathique
+P83.2	anasarque foeto-placentaire
+P83.2	anasarque foeto-placentaire non due à une iso-immunisation
+P83.0	sclérème du nouveau-né
+P83.0	sclérème oedémateux des nouveau-nés
+P83.0	sclérème néonatal
+P83.0	induration adipeuse sous-cutanée du nouveau-né
+P83.0	nécrose graisseuse sous-cutanée du nouveau-né
+P83.2	anasarque placentaire
+P81.9	trouble de la régulation thermique du nouveau-né
+P80.9	hypothermie du nouveau-né
+P80.0	syndrome hypothermique du nouveau-né
+P81.8	fièvre de déshydratation du nouveau-né
+P81.0	pyrexie du nouveau-né due à l'environnement
+P81.9	hyperthermie du nouveau-né
+P81.8	fièvre transitoire du nouveau-né
+P81.9	fièvre du nouveau-né
+P81.9	fièvre néonatale
+P83.3	oedème du nouveau-né
+P83.3	oedème néonatal
+P83.5	hydrocèle congénitale
+P83.5	hydrocèle congénitale de la tunique vaginale
+P83.4	engorgement du sein chez le nouveau-né
+P83.4	mastite non infectieuse du nouveau-né
+P83.8	urticaire du nouveau-né
+P83.9	affection intéressant les téguments du foetus ou du nouveau-né
+P96.9	affection foetale
+P96.9	maladie foetale
+P96.9	maladie du foetus
+P96.9	affection du foetus
+P91.9	dysfonctionnement du système nerveux central du nouveau-né
+P91.9	dysfonctionnement du SNC du nouveau-né
+P91.8	encéphalopathie néonatale
+P91.3	irritabilité cérébrale du nouveau-né
+P91.4	baisse de l'activité cérébrale du nouveau-né
+P91.5	coma du nouveau-né
+P91.8	signes cérébraux anormaux du nouveau-né
+P90	convulsions du nouveau-né
+P90	convulsions néonatales
+P90	crises convulsives du nouveau-né
+P91.8	agitation néonatale
+P91.8	hyperkinésie néonatale
+P91.8	dyskinésie néonatale
+P94.2	inertie de la tête du nouveau-né
+P94.2	hypotonie congénitale bénigne
+P94.2	hypotonie néonatale
+P94.2	hypokinésie néonatale
+P94.2	hypocinésie néonatale
+P92.8	problème alimentaire du nouveau-né
+P92.1	régurgitation alimentaire du nouveau-né
+P92.2	alimentation lente du nouveau-né
+P92.0	vomissement du nouveau-né
+P93	réaction ou intoxication médicamenteuse spécifique du nouveau-né
+P93	syndrome médullaire dû à l'administration de chloramphénicol au nouveau-né
+P93	syndrome du bébé gris
+P93	pancytopénie provoquée par le chloramphénicol chez le nourrisson
+P96.1	syndrome de privation de drogue du nouveau-né
+P96.1	syndrome néonatal de privation de drogue
+P96.1	syndrome de sevrage chez un nouveau-né de mère toxicomane
+P96.4	mort foetale due à une interruption de la grossesse
+P96.4	mort foetale par avortement provoqué
+P28.5	arrêt respiratoire néonatal
+P91.8	dépression respiratoire centrale néonatale
+P91.9	anomalie fonctionnelle du système nerveux central du nouveau-né
+P91.9	anomalie fonctionnelle du SNC du nouveau-né
+P14.8	paralysie spastique infantile due à une lésion au cours de l'accouchement
+P14.8	paralysie spasmodique infantile due à une lésion au cours de l'accouchement
+P14.8	paralysie spastique infantile due à une lésion intracrânienne au cours de l'accouchement
+P14.8	paralysie spasmodique infantile due à une lésion cérébrale au cours de l'accouchement
+P14.8	paralysie spastique infantile due à une lésion rachidienne au cours de l'accouchement
+P94.0	myasthénie néonatale
+P15.8	surdité due à un traumatisme obstétrical
+P72.1	maladie de Basedow néonatale
+P71.4	hypoparathyroïdie néonatale transitoire
+P61.2	anémie mégaloblastique du prématuré
+P56.0	syndrome d'anasarque foetal de Bart
+P56.0	anasarque foetal de Bart
+P61.5	neutropénie néonatale alloimmune
+P61.5	neutropénie néonatale isoimmune
+P61.0	thrombopénie néonatale
+P61.0	purpura thrombopénique néonatal
+P61.0	thrombopénie néonatale allo-immune
+P61.0	thrombopénie néonatale iso-immune
+P61.0	TPNI
+P61.0	thrombopénie du nouveau-né avec purpura thrombopénique idiopathique chez la mère
+P61.6	maladie hémorragique du nouveau-né par déficit en facteur II
+P61.6	déficit néonatal acquis en facteur II
+P00.2	infection intra-utérine
+P00.2	maladie infectieuse congénitale
+P37.2	listériose disséminée du nourrisson
+P37.2	listériose néonatale disséminée
+P37.2	listériose congénitale
+P37.0	tuberculose congénitale
+P39.1	conjonctivite à inclusions néonatale
+P35.2	herpès congénital
+P35.2	herpès néonatal
+P35.8	varicelle congénitale
+P35.1	maladie des inclusions cytomégaliques du nouveau-né
+P35.1	infection congénitale à cytomégalovirus
+P35.0	rubéole de la femme enceinte
+P35.0	syndrome de Gregg
+P35.0	rubéole congénitale
+P35.0	rubéole congénitale évolutive
+P35.0	pneumopathie de la rubéole congénitale
+P35.3	hépatite virale B congénitale
+P35.3	hépatite B congénitale
+P39.8	hépatite néonatale infectieuse
+P37.5	infection néonatale à Candida
+P37.5	candidose néonatale
+P37.5	muguet néonatal
+P37.1	toxoplasmose congénitale
+P37.4	paludisme congénital
+P96.9	maladie néonatale
+P96.9	maladie périnatale

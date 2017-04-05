@@ -1,0 +1,1941 @@
+H02.0	trichiasis
+H02.0	trichiasis cicatriciel
+H60.0	anthrax de l'oreille
+H60.0	furoncle de l'oreille
+H19.3*	kératoconjonctivite sèche, dans le syndrome de Gougerot-Sjögren
+H54.0	cécité congénitale
+H53.0	amblyopie congénitale
+H50.9	strabisme congénital
+H49.0	syndrome de Nothnagel
+H49.0	paralysie de Nothnagel
+H49.0	syndrome d'ophtalmoplégie unilatérale associée à une ataxie cérébelleuse
+H49.8	syndrome de Kearns et Sayre
+H49.8	syndrome de Barnard et Scholz
+H57.9	maladie de l'oeil
+H44.8	hémorragie intra-oculaire
+H44.8	saignement intraoculaire
+H44.8	hémorragie oculaire
+H44.8	hémorragie de l'oeil
+H53.9	affection de la vision
+H57.9	affection mal définie de l'oeil
+H44.9	affection du globe oculaire
+H21.9	affection du tractus uvéal
+H10.9	ophtalmite
+H10.9	ophtalmie
+H44.0	endophtalmie purulente
+H44.0	abcès de l'oeil
+H44.0	abcès oculaire
+H44.0	endophtalmie aiguë
+H44.0	panophtalmie
+H44.0	panophtalmite
+H44.0	ophtalmie purulente profonde
+H44.0	phlegmon de l'oeil
+H44.1	endophtalmie chronique
+H44.0	abcès du corps vitré
+H44.1	uvéite sympathique
+H44.1	ophtalmie sympathique
+H44.1	panuvéite
+H44.1	uvéite
+H15.0	scléro-uvéite
+H44.1	endophtalmie parasitaire
+H16.2	ophthalmia nodosa
+H44.1	endophtalmie phako-anaphylactique
+H44.1	endophtalmie
+H44.3	affection dégénérative du globe oculaire
+H44.2	myopie dégénérative évolutive
+H44.2	myopie maligne
+H44.3	métallose
+H44.3	sidérose de l'oeil
+H44.3	sidérose oculaire
+H44.3	chalcose de l'oeil
+H44.3	chalcose oculaire
+H44.4	hypotonie de l'oeil
+H44.4	hypotonie oculaire
+H44.4	hypotension du globe oculaire
+H44.4	hypotonie primaire de l'oeil
+H44.4	hypotonie secondaire de l'oeil
+H44.4	fistule oculaire causant une hypotonie
+H44.4	hypotonie associée à une autre affection oculaire
+H57.8	chambre antérieure de l'oeil aplatie
+H57.8	fibrose de la chambre antérieure de l'oeil
+H44.5	dégénérescence de l'oeil
+H44.5	dégénérescence du globe oculaire
+H44.4	cécité par hypotension oculaire
+H44.5	atrophie du globe oculaire
+H44.4	ophtalmomalacie
+H40.0	cécité par hypertension oculaire
+H44.5	glaucome absolu
+H44.8	hémophtalmie, excluant la lésion actuelle
+H57.8	leucocorie
+H44.7	rétention d'un corps étranger dans l'oeil
+H44.7	rétention intraoculaire d'un corps étranger
+H44.7	rétention intraoculaire traumatique ancienne d'un corps étranger
+H44.6	rétention intraoculaire d'un corps étranger magnétique
+H44.6	rétention intraoculaire ancienne d'un corps étranger magnétique
+H44.6	rétention d'un corps étranger magnétique dans la chambre antérieure de l'oeil
+H44.6	rétention d'un corps étranger magnétique dans le corps ciliaire ou l'iris
+H44.6	rétention d'un corps étranger magnétique dans le cristallin
+H44.6	rétention d'un corps étranger magnétique dans le corps vitré
+H44.6	rétention d'un corps étranger magnétique dans la paroi postérieure du globe oculaire
+H44.6	rétention de corps étrangers magnétiques de localisations multiples
+H44.7	rétention intraoculaire d'un corps étranger non magnétique
+H44.7	rétention d'un corps étranger non magnétique dans la chambre antérieure de l'oeil
+H44.7	rétention d'un corps étranger non magnétique dans le corps ciliaire ou l'iris
+H44.7	rétention d'un corps étranger non magnétique dans le cristallin
+H44.7	rétention d'un corps étranger non magnétique dans le corps vitré
+H44.7	rétention d'un corps étranger non magnétique dans la paroi postérieure de l'oeil
+H44.7	rétention de corps étrangers non magnétiques de localisations multiples
+H44.8	luxation du globe oculaire
+H05.2	hématome périorbitaire
+H05.2	oedème périorbitaire
+H30.9	choriorétinite
+H30.8	choriorétinite granulomateuse
+H30.8	syndrome de Sabin-Feldman
+H30.9	choroïdite
+H30.8	choroïdite granulomateuse
+H32.0*	choroïdite tuberculeuse
+H35.0	rétinite
+H35.0	rétinopathie
+H35.0	rétinite granulomateuse
+H30.9	uvéite postérieure
+H30.8	maladie de Harada
+H30.8	uvéo-encéphalite
+H30.2	inflammation de la zone postérieure ciliaire
+H30.2	cyclite postérieure
+H30.0	choriorétinite focale
+H30.0	choroïdite focale
+H30.0	rétinite focale
+H30.0	choroïdite focale juxtapapilliaire et choriorétinite
+H30.0	choroïdite focale et chorirétinite du pôle postérieur
+H30.0	choriorétinite focale périphérique et choriorétinite
+H30.0	rétinite focale juxtapapillaire et rétinochoroïdite
+H30.0	neurorétinite
+H30.0	rétinite focale maculaire et rétinochoroïdite
+H30.0	rétinite focale paramaculaire et rétinochoroïdite
+H30.0	rétinite focale et rétinochoroïte du pôle postérieur
+H30.0	rétinite focale périphérique et rétinochoroïdite
+H30.1	choriorétinite disséminée
+H30.1	rétinochoroïdite disséminée
+H30.1	choroïdite disséminée
+H30.1	rétinite disséminée
+H30.1	choroïdite disséminée et choriorétinite du pôle postérieur
+H30.1	choroïdite disséminée périphérique et choriorétinite
+H30.1	choroïdite disséminée généralisée et choriorétinite
+H30.1	rétinite disséminée métastatique et rétinochoroïdite
+H30.1	épithéliopathie en plaques
+H30.1	chorio-capillarite segmentaire multifocale postérieure aiguë
+H31.0	cicatrice chorio-rétinienne
+H31.0	cicatrice chorio-rétinienne post-inflammatoire
+H31.0	cicatrice chorio-rétinienne post-chirurgicale
+H31.0	cicatrice chorio-rétinienne post-traumatique
+H31.0	cicatrice choroïdienne
+H31.0	cicatrice choroïdienne post-inflammatoire
+H31.0	cicatrice choroïdienne post-chirurgicale
+H31.0	cicatrice choroïdienne post-traumatique
+H31.0	cicatrice rétinienne
+H31.0	cicatrice rétinienne post-inflammatoire
+H31.0	cicatrice rétinienne post-chirurgicale
+H31.0	cicatrice rétinienne post-traumatique
+H35.9	lésion rétinienne
+H31.0	rétinopathie radique
+H31.0	rétinopathie solaire
+H31.0	cicatrice maculaire
+H31.0	cicatrice du pôle postérieur de l'oeil
+H31.0	cicatrice périphérique du pôle postérieur de l'oeil
+H31.0	cicatrice disséminée de la rétine et de la choroïde
+H31.1	dégénérescence choroïdienne
+H31.1	choroïdose
+H31.1	sclérose choroïdienne
+H31.1	atrophie chorio-rétinienne
+H31.1	atrophie sénile de la choroïde
+H31.1	atrophie secondaire diffuse de la choroïde
+H35.3	stries angioïdes de la rétine
+H31.8	hypopigmentation acquise de la choroïde
+H31.2	dystrophie héréditaire de la choroïde
+H31.2	dégénérescence choroïdienne héréditaire
+H31.2	dystrophie péripapillaire partielle de la choroïde
+H31.2	dystrophie péripapillaire totale de la choroïde
+H31.2	dystrophie péripapillaire de la choroïde
+H31.2	dystrophie centrale partielle de la choroïde
+H31.2	dystrophie choroïdienne circinée
+H31.1	atrophie choroïdienne centrale totale
+H31.1	dystrophie centrale totale de la choroïde
+H31.1	dystrophie choroïdienne centrale totale
+H31.1	dystrophie choroïdienne serpigineuse
+H31.2	choroïdérémie
+H31.2	dystrophie choroïdienne partielle généralisée
+H31.2	dystrophie choroïdienne partielle diffuse
+H31.1	sclérose choroïdienne diffuse
+H31.2	dystrophie choroïdienne totale généralisée
+H31.2	dystrophie choroïdienne totale diffuse
+H31.2	atrophie spiroïde généralisée de la choroïde
+H31.3	hémorragie choroïdienne
+H31.3	hémorragie de la choroïde
+H31.3	hémorragie choroïdienne expulsive
+H31.3	hémorragie expulsive de la choroïde
+H31.3	rupture de la choroïde
+H31.4	décollement de la choroïde
+H31.4	décollement séreux de la choroïde
+H31.4	décollement hémorragique de la choroïde
+H31.4	décollement hémorragique choroïdien
+H35.6	hémorragie rétinienne
+H35.6	hémorragie de la rétine
+H35.6	hémorragie rétinienne profonde
+H35.6	hémorragie en points et taches
+H35.6	hémorragie profonde de la rétine
+H35.6	hémorragie rétinienne superficielle
+H35.6	hémorragie superficielle de la rétine
+H35.6	hémorragie prérétinienne
+H35.6	hémorragie sous-rétinienne
+H35.6	taches de Roth
+H34.2	ischémie rétinienne
+H34.2	pâleur rétinienne
+H35.8	oedème rétinien
+H35.8	oedème de la rétine
+H35.8	oedème rétinien localisé
+H35.8	oedème localisé de la rétine
+H35.8	oedème de la macula
+H35.8	oedème rétinien périphérique
+H35.8	oedème périphérique de la rétine
+H34.2	taches rétiniennes en flocon d'ouate
+H34.2	exsudats rétiniens
+H34.2	exsudats blancs ouatés
+H34.2	exsudats blancs floconneux
+H35.8	dépôts rétiniens
+H35.8	anomalies des fibres nerveuses fasciculées de la rétine
+H33.3	déchirure rétinienne
+H33.2	décollement de la rétine
+H33.0	décollement rétinien rhegmatogène
+H33.2	décollement total récent de la rétine
+H33.2	décollement partiel récent de la rétine avec anomalie unique
+H33.2	décollement partiel récent de la rétine avec anomalies multiples
+H33.0	décollement partiel récent de la rétine avec déchirure importante
+H33.0	décollement partiel récent de la rétine avec dialyse rétinienne
+H33.5	décollement de la rétine avec anomalie rétinienne
+H33.2	décollement subtotal récent de la rétine
+H33.2	décollement partiel ancien de la rétine
+H33.2	décollement délimité ancien de la rétine
+H33.2	décollement total ancien de la rétine
+H33.2	décollement subtotal ancien de la rétine
+H33.1	rétinoschisis
+H33.1	rétinoschisis plat
+H33.1	rétinoschisis bulleux
+H33.1	pseudokyste de la rétine
+H33.1	kyste primaire de la rétine
+H33.1	kyste secondaire de la rétine
+H33.1	kyste de la rétine
+H33.2	décollement de la rétine sans anomalie rétinienne
+H33.2	décollement séreux de la rétine
+H35.9	anomalie rétinienne
+H33.3	trou rond de la rétine, sans décollement
+H33.3	déchirure en fer à cheval de la rétine, sans décollement
+H33.3	opercule de la rétine, sans mention de décollement
+H33.3	anomalies multiples de la rétine, sans décollement
+H33.4	décollement par traction de la rétine
+H33.4	décollement par traction de la rétine avec adhérences vitréo-rétiniennes
+H36.8*	rétinopathie artérioscléreuse
+H36.8*	artériosclérose rétinienne
+H36.0*	rétinopathie diabétique
+H36.0*	micro-anévrisme rétinien diabétique
+H36.0*	rétinopathie sur terrain diabétique
+H36.0*	rétinopathie diabétique proliférante
+H35.0	rétinopathie avec antécédents
+H35.0	rétinopathie hypertensive
+H35.0	rétinite exsudative externe
+H35.0	rétinite de Coats
+H35.0	maladie de Coats
+H35.0	altérations vasculaires de la rétine
+H35.0	affection vasculaire rétinienne
+H35.0	gaine vasculaire rétinienne
+H36.8*	lipidémie rétinienne
+H36.8*	lipémie rétinienne
+H36.8*	rétinopathie au cours de maladie à hématies falciformes
+H35.8	rétinopathie d'hyperviscosité
+H35.0	micro-anévrisme rétinien
+H35.0	télangiectasie rétinienne
+H34.2	spasme artériel rétinien
+H35.0	néovascularisation rétinienne
+H35.0	néovascularisation chorio-rétinienne
+H35.0	néovascularisation sous-rétinienne
+H35.0	varices rétiniennes
+H35.0	vascularite rétinienne
+H35.0	vasculite rétinienne
+H35.0	artérite rétinienne
+H35.0	endartérite rétinienne
+H35.0	périvascularite rétinienne
+H35.0	phlébite rétinienne
+H35.0	syndrome d'Eales
+H35.0	périphlébite rétinienne
+H35.1	fibroplasie rétrolentale
+H35.1	fibroplasie rétro-cristallinienne
+H35.1	rétinopathie de la prématurité
+H35.1	maladie de Terry
+H35.2	rétinopathie proliférante non diabétique
+H35.0	sténose artérielle de la rétine
+H34.2	thrombose artérielle de la rétine
+H34.2	embolie artérielle de la rétine
+H34.2	occlusion vasculaire de la rétine
+H34.1	occlusion artérielle centrale de la rétine
+H34.2	occlusion d'une branche artérielle de la rétine
+H34.2	occlusion artérielle partielle de la rétine
+H34.0	occlusion transitoire artérielle de la rétine
+H34.8	occlusion veineuse centrale de la rétine
+H34.8	occlusion d'une branche veineuse de la rétine
+H34.8	occlusion d'une veine tributaire de la rétine
+H34.2	infarctus chorio-rétinien
+H34.2	plaque d'Hollenhorst
+H34.2	micro-embolie rétinienne
+H34.8	turgescence veineuse rétinienne
+H34.8	occlusion veineuse débutante de la rétine
+H34.8	occlusion veineuse partielle de la rétine
+H34.8	thrombose veineuse de la rétine
+H34.8	thrombophlébite veineuse de la rétine
+H35.7	décollement des couches de la rétine
+H35.7	rétinopathie séreuse centrale
+H35.7	dépigmentation rétinienne
+H35.7	décollement séreux de l'épithélium pigmentaire rétinien
+H35.7	décollement exsudatif de l'épithélium pigmentaire rétinien
+H35.7	décollement hémorragique de l'épithélium pigmentaire rétinien
+H35.3	dégénérescence sénile de la macula lutea
+H35.3	dégénérescence sénile non exsudative de la macula lutea
+H35.3	dégénérescence sénile sèche de la macula lutea
+H35.3	dégénérescence sénile atrophique de la macula lutea
+H35.3	dégénérescence sénile exsudative de la macula lutea
+H35.3	dégénérescence de Junius-Kuhnt
+H35.3	syndrome de Junius et Kuhnt
+H35.3	dégénérescence maculaire de Coppez et Danis
+H35.3	dégénérescence maculaire disciforme sénile
+H35.3	dégénérescence cystoïde de la macula lutea
+H35.3	kyste de la macula lutea
+H35.3	trou de la macula lutea
+H35.3	maculopathie toxique
+H35.3	plis de la macula lutea
+H35.3	fibrose prérétinienne
+H35.3	druses dégénératives
+H35.3	dégénérescence maculaire pseudo-inflammatoire de Sorsby
+H35.4	dégénérescence de la rétine
+H35.4	dégénérescence rétinienne
+H35.4	dégénérescence rétinienne glaucomateuse
+H35.4	dégénérescence rétinienne généralisée
+H35.4	dégénérescence rétinienne multifocale
+H35.4	dégénérescence acquise aiguë de la rétine
+H35.8	atrophie rétinienne progressive généralisée
+H35.8	atrophie rétinienne progressive centrale
+H35.8	atrophie rétinienne progressive multifocale
+H35.4	dégénérescence rétinienne périphérique
+H35.4	dégénérescence rétinienne pavimenteuse
+H35.4	dégénérescence rétinienne microcystoïde
+H35.4	kystes de Blessig
+H35.4	kystes de Blessig-Iwanoff
+H35.4	dégénérescence palissadique de la rétine
+H35.4	dégénérescence rétinienne en palissade
+H35.4	dégénérescence rétinienne sénile réticulaire
+H35.4	dégénérescence rétinienne pigmentaire secondaire
+H35.4	pseudorétinite pigmentaire
+H35.4	dégénérescence vitréo-rétinienne secondaire
+H35.8	atrophie de la rétine
+H35.8	atrophie rétinienne
+H35.5	dystrophie rétinienne héréditaire
+H36.8*	dystrophie rétinienne au cours d'une lipoïdose
+H36.8*	dystrophie rétinienne au cours d'idiotie amaurotique familiale
+H35.5	dystrophie vitréo-rétinienne
+H33.1	rétinoschisis juvénile
+H35.5	dystrophie rétinienne pigmentaire
+H35.5	fundus albipunctatus
+H35.5	maladie de Lauber
+H35.5	dystrophie rétinienne ponctuée albescente
+H35.5	rétinite pigmentaire
+H35.5	dystrophie progressive des cônes et bâtonnets
+H35.5	maladie de Stargardt
+H35.5	syndrome de Stargardt
+H35.5	fundus flavimaculatus
+H35.5	dystrophie rétinienne vitelliforme
+H35.5	dégénérescence hyaline de la membrane de Bruch
+H35.5	dystrophie fovéale pseudo-inflammatoire
+H35.5	druses héréditaires
+H35.5	syndrome de rétinite pigmentaire-surdité
+H35.5	syndrome d'Usher
+H35.5	syndrome de rétinite pigmentaire-surdité-ataxie
+H35.5	syndrome d'Hallgren
+H35.9	affection rétinienne
+H35.9	maladie de la rétine
+H21.9	affection de l'iris et du corps ciliaire
+H21.9	affection de l'iris
+H21.9	affection du corps ciliaire
+H21.5	prolapsus de l'iris
+H21.5	iridoptose
+H20.9	iridocyclite
+H20.9	uvéite antérieure
+H20.8	iridocyclite primaire
+H20.0	iridocyclite récidivante
+H20.8	iridocyclite secondaire infectieuse
+H20.8	iridocyclite secondaire non infectieuse
+H20.0	uvéite antérieure aiguë
+H20.0	iridocyclite aiguë
+H20.0	uvéite antérieure subaiguë
+H20.0	iridocyclite subaiguë
+H20.0	cyclite aiguë
+H20.0	cyclite
+H20.0	cyclite subaiguë
+H20.0	iritis aigu
+H20.0	iritis
+H20.0	iritis subaigu
+H20.1	nodules de Koeppe
+H20.0	hypopyon
+H20.0	hypopion
+H20.1	iridocyclite chronique
+H20.8	cyclite hétérochromique de Fuchs
+H40.8	crise d'hypertonie oculaire paroxystique
+H40.8	syndrome de Terrien-Viel
+H40.8	syndrome de Posner-Schlossmann
+H20.2	iridocyclite due à des lentilles de contact
+H20.2	uvéite antérieure due à des lentilles de contact
+H20.8	uvéite phaco-antigénique
+H20.8	uvéite phacotoxique
+H30.8	syndrome de Vogt-Koyanagi
+H21.1	affection vasculaire de l'iris et du corps ciliaire
+H21.5	congestion ciliaire
+H21.5	injection ciliaire
+H21.0	hémorragie de l'iris et du corps ciliaire
+H21.0	hyphéma
+H21.0	hypohéma
+H21.1	néovascularisation de l'iris et du corps ciliaire
+H21.1	rubéose de l'iris
+H21.2	dégénérescence de l'iris et du corps ciliaire
+H21.2	atrophie essentielle de l'iris
+H21.2	atrophie progressive de l'iris
+H21.2	atrophie iridienne
+H21.2	atrophie de l'iris
+H21.2	iridoschisis
+H21.2	dégénérescence pigmentaire de l'iris
+H21.2	syndrome de dispersion pigmentaire de l'iris
+H21.2	vitiligo iridis
+H21.2	hétérochromie acquise de l'iris
+H21.2	translucidité de l'iris
+H21.2	lentigo de l'iris
+H21.2	mélanose bénigne de l'iris
+H21.2	naevus pigmentaire commun de l'iris
+H21.2	dégénérescence du rebord pupillaire de l'iris
+H21.2	atrophie du sphincter pupillaire
+H21.5	ectropion de l'épithélium pigmentaire de l'iris
+H21.5	entropion de l'uvée
+H21.2	kyste pupillaire miotique
+H21.2	affections dégénératives de l'angle iridocornéen
+H21.2	lipidose de l'humeur aqueuse
+H21.2	lipoïdose de l'humeur aqueuse
+H21.2	affections dégénératives du corps ciliaire
+H21.2	atrophie généralisée de l'iris
+H21.2	atrophie sectorielle de l'iris
+H21.3	kyste de l'iris
+H21.3	kyste idiopathique de l'iris
+H21.3	kyste de l'iris après implant
+H21.3	kyste exsudatif de l'iris
+H21.3	kyste du corps ciliaire
+H21.3	kyste idiopathique du corps ciliaire
+H21.3	kyste du corps ciliaire après implant
+H21.3	kyste exsudatif de la couronne ciliaire
+H21.3	kyste primaire de la couronne ciliaire
+H21.3	kyste secondaire de la couronne ciliaire
+H21.3	kyste de la chambre antérieure de l'oeil
+H21.3	kyste idiopathique de la chambre antérieure de l'oeil
+H21.3	kyste de la chambre antérieure de l'oeil après implant
+H21.3	prolifération épithéliale de la chambre antérieure de l'oeil
+H21.3	kyste exsudatif de la chambre antérieure de l'oeil
+H52.5	spasme du corps ciliaire
+H21.5	adhérences de l'iris
+H21.5	synéchie de l'iris
+H21.5	synéchie postérieure de l'iris
+H21.5	synéchie antérieure de l'iris
+H21.5	synéchie antérieure focale de l'iris
+H21.5	goniosynéchies
+H21.9	affection pupillaire
+H21.4	occlusion pupillaire
+H21.4	séclusion pupillaire
+H21.4	iris bombé
+H21.5	pupille déformée
+H21.5	dyscorie
+H21.5	forme anormale de la pupille
+H21.5	rupture du sphincter pupillaire
+H21.5	iridodialyse
+H21.5	récession de l'angle iridocornéen
+H57.0	anomalie fonctionnelle de la pupille
+H57.0	myosis persistant
+H57.0	mydriase persistante
+H57.0	signe d'Argyll Robertson atypique
+H57.0	signe d'Argyll-Robertson non syphilitique
+H57.0	pupillotonie
+H57.0	syndrome d'Adie
+H57.0	hippus
+H57.0	athétose pupillaire
+H57.0	paralysie pupillaire
+H40.9	glaucome
+H40.0	glaucome limite
+H40.1	glaucome à angle ouvert paucisymptomatique
+H40.1	glaucome à angle ouvert à tension basse
+H40.1	glaucome à angle ouvert avec excavation de la papille optique
+H40.2	glaucome à angle étroit
+H40.2	glaucome à angle fermé
+H40.0	glaucome des répondeurs aux corticoïdes
+H40.0	hypertension oculaire
+H40.5	glaucome secondaire
+H40.6	glaucome médicamenteux
+H40.1	glaucome à angle ouvert
+H40.1	glaucome primitif à angle ouvert
+H40.1	glaucome chronique simple
+H40.1	glaucome à tension basse
+H40.1	glaucome pigmentaire
+H40.8	glaucome juvénile
+H40.1	glaucome à angle ouvert avancé
+H40.1	glaucome simple
+H40.1	glaucome résiduel à angle ouvert
+H40.5	glaucome secondaire à angle ouvert
+H40.2	glaucome primitif à angle fermé
+H40.2	glaucome intermittent à angle fermé
+H40.2	glaucome subaigu à angle fermé
+H40.2	glaucome intermittent à angle étroit
+H40.2	glaucome aigu à angle fermé
+H40.2	glaucome chronique à angle fermé
+H40.2	glaucome résiduel à angle fermé
+H40.5	glaucome secondaire à angle fermé
+H40.6	glaucome provoqué par des corticostéroïdes
+H40.6	stade d'un glaucome cortico-induit
+H40.6	stade résiduel d'un glaucome cortico-induit
+H40.5	glaucome associé à des anomalies de l'angle iridocornéen
+H40.5	glaucome associé à des anomalies de l'iris
+H40.5	glaucome associé à d'autres anomalies du segment antérieur de l'oeil
+H42.8	glaucome associé à des maladies systémiques
+H40.5	glaucome phakolytique
+H40.1	glaucome capsulaire avec pseudo-exfoliation cristallinienne
+H40.5	glaucome associé à d'autres affections du cristallin
+H40.5	glaucome associé à une affection oculaire non précisée
+H40.5	glaucome associé à un blocage pupillaire
+H40.4	glaucome associé à des inflammations oculaires
+H40.8	glaucome associé à des affections vasculaires
+H40.5	glaucome associé à des tumeurs ou kystes du globe
+H40.5	glaucome secondaire à des tumeurs ou kystes du globe
+H40.3	glaucome associé à un traumatisme oculaire
+H40.3	glaucome dû à une perforation oculaire
+H40.3	glaucome dû à une contusion du globe
+H40.3	glaucome par contusion oculaire
+H40.3	glaucome secondaire à une contusion de l'oeil
+H40.8	glaucome par hypersécrétion
+H40.5	glaucome lié à une élévation de la pression veineuse épisclérale
+H40.2	glaucome malin
+H40.2	glaucoma fulminans
+H40.8	glaucome post-opératoire à angle fermé
+H40.8	glaucome aphaque
+H40.8	glaucome secondaire à une ablation du cristallin
+H40.8	glaucome plurifactoriel
+H40.8	glaucome primitif plurifactoriel
+H40.8	glaucome secondaire plurifactoriel
+H21.5	syndrome de P.A. Chandler
+H21.5	syndrome endothélial iridocornéen
+H21.5	syndrome de Cogan-Reese
+H21.5	glaucome unilatéral nodulaire
+H27.9	affection du cristallin
+H26.1	rupture du cristallin
+H27.0	aphakie
+H27.0	absence du cristallin
+H27.1	déplacement du cristallin
+H27.1	luxation du cristallin
+H27.1	luxation antérieur du cristallin
+H27.1	luxation postérieur du cristallin
+H27.1	subluxation du cristallin
+H27.8	phaco-mercurialisme
+H27.8	phaco-anaphylaxie
+H27.8	pigmentation capsulaire antérieure acquise
+H26.9	cataracte
+H26.9	opacité du cristallin
+H26.9	cataracte unilatérale
+H26.9	cataractes bilatérales
+H26.8	cataracte partielle
+H26.0	cataracte non sénile
+H26.0	cataracte infantile
+H26.0	cataracte juvénile
+H26.0	cataracte présénile
+H25.0	cataracte polaire sous-capsulaire antérieure
+H25.0	cataracte polaire sous-capsulaire postérieure
+H25.0	cataracte sous-capsulaire
+H25.0	cataracte corticale
+H26.8	cataracte axiale
+H25.1	cataracte nucléaire
+H26.8	forme combinée de la cataracte non sénile
+H25.9	cataracte sénile
+H26.8	pseudo-exfoliation de la capsule cristallinienne
+H25.0	cataracte incipiente
+H25.0	cataracte immature
+H25.0	cataracte débutante
+H25.0	cataracte coronaire
+H25.0	cataracte punctiforme
+H25.0	cataracte sénile polaire sous-capsulaire antérieure
+H25.0	cataracte sénile polaire sous-capsulaire postérieure
+H25.0	cataracte sénile corticale
+H25.1	cataracte sénile nucléaire
+H25.1	sclérose lenticulaire
+H25.1	sclérose nucléaire
+H25.1	cataracte brunescente
+H26.8	cataracte totale
+H26.8	cataracte mûre
+H25.2	cataracte hypermûre
+H25.2	cataracte de Morgagni
+H25.2	cataracte morgagnienne
+H25.8	forme combinée de la cataracte sénile
+H26.1	cataracte traumatique
+H26.1	opacité traumatique localisée
+H26.1	cataracte traumatique totale
+H26.1	résolution partielle d'une cataracte traumatique
+H26.8	cataracte stationnaire
+H26.8	cataracte adhérente
+H26.2	cataracte secondaire à une affection oculaire
+H26.2	cataracte compliquée
+H26.2	opacités glaucomateuses sous-capsulaires
+H26.2	cataracte secondaire à une affection inflammatoire
+H26.2	cataracte avec néovascularisation
+H26.2	cataracte secondaire à une affection dégénérative
+H28.0*	cataracte diabétique
+H26.9	intumescence du cristallin
+H26.8	cataracte tétanique
+H28.2*	cataracte myotonique
+H26.3	cataracte toxique
+H26.8	cataracte syndermatotique
+H26.8	cataracte dermatogène
+H26.8	syndrome d'Andogsky
+H26.8	cataracte radique
+H26.4	cataracte secondaire
+H26.4	anneau de Soemmering
+H26.4	cataracte secondaire sans diminution de l'acuité visuelle
+H26.4	cataracte secondaire avec diminution de l'acuité visuelle
+H26.8	calcification du cristallin
+H26.8	syndrome post-opératoire de la cataracte
+H26.8	syndrome d'Irvine-Gass
+H52.7	vices de réfraction et troubles de l'accommodation
+H52.7	vices de réfraction dus à un agent toxique
+H52.7	vices de réfraction dus à un médicament
+H52.7	vices de réfraction
+H52.0	hypermétropie
+H52.1	myopie
+H52.1	myopie forte
+H52.2	astigmatisme
+H52.2	astigmatisme régulier
+H52.2	astigmatisme irrégulier
+H52.3	anisométropie
+H52.3	aniséiconie
+H52.4	presbytie
+H52.6	vice de réfraction transitoire
+H52.5	trouble de l'accommodation
+H52.5	cycloplégie
+H52.5	paralysie de l'accommodation visuelle
+H52.5	parésie de l'accommodation
+H52.5	ophtalmoplégie interne totale
+H52.5	ophtalmoplégie interne complète
+H52.5	spasme de l'accommodation
+H53.9	trouble visuel
+H53.9	vision brouillée
+H53.0	amblyopie
+H53.0	amblyopie ex anopsia
+H53.0	amblyopie par défaut d'usage
+H53.0	amblyopie due au strabisme
+H53.0	amblyopie de suppression
+H53.0	amblyopie d'origine carentielle
+H53.0	amblyopie d'origine nutritionnelle
+H53.0	amblyopie anisométrique
+H53.0	amblyopie alcoolique
+H53.0	amblyopie due au tabac
+H53.1	trouble subjectif de la vision
+H53.1	perte subite de la vision
+H53.1	perte transitoire de la vision
+H53.4	rétrécissement concentrique du champ visuel
+H53.1	scotome scintillant
+H53.1	teichopsie
+H53.1	distorsions visuelles de la forme et de la dimension
+H53.1	métamorphopsie
+H53.1	photopsie
+H53.2	diplopie réfractaire
+H53.8	polyopie réfractaire
+H53.1	halos visuels
+H53.8	trouble visuel psychophysique
+H53.8	syndrome de désorientation visuelle
+H53.3	trouble visuel binoculaire
+H53.2	diplopie
+H53.2	vision double
+H53.2	diplopie monoculaire
+H53.3	disparition de la vision binoculaire
+H53.3	perception visuelle simultanée sans fusion
+H53.3	fusion avec anomalie de la vision stéréoscopique
+H53.3	anomalie de la correspondance rétinienne
+H53.4	anomalie du champ visuel
+H53.4	scotome
+H53.4	anomalie du champ visuel nasal
+H53.4	anomalie du champ visuel périphérique
+H53.4	scotome relatif
+H53.4	scotome absolu
+H53.4	scotome central
+H53.4	scotome centrocaecal
+H53.4	scotome paracentral
+H53.4	scotome de la zone de la tache aveugle
+H53.4	angioscotome élargi
+H53.4	scotome paracaecal élargi
+H53.4	tache élargie
+H53.4	scotome arciforme
+H53.4	scotome de Seidel
+H53.4	scotome de Bjerrum
+H53.4	scotome annulaire
+H53.4	scotome en quadrant
+H53.4	rétrécissement généralisé du champ visuel
+H53.4	hémianopsie
+H53.4	hémianopie
+H53.4	hémianopsie homonyme
+H53.4	hémianopie homonyme
+H53.4	anomalies des champs visuels bilatéraux homonymes
+H53.4	hémianopsie homonyme droite
+H53.4	hémianopsie homonyme gauche
+H53.4	hémianopsie altitudinale
+H53.4	hémianopsie en quadrant
+H53.4	hémianopie en quadrant
+H53.4	quadrantanopsie
+H53.4	quadranopsie
+H53.4	anomalies des champs visuels bilatéraux hétéronymes
+H53.4	hémianopie hétéronyme
+H53.4	hémianopsie hétéronyme
+H53.4	hémianopsie binasale
+H53.4	hémianopie binasale
+H53.4	hémianopsie bitemporale
+H53.4	hémianopie bitemporale
+H53.4	hémianopsie croisée
+H53.4	hémianopie croisée
+H53.5	perturbation de la vision des couleurs
+H53.5	trouble de la vision des couleurs
+H53.5	dyschromatopsie
+H53.5	dyschromasie
+H53.5	perturbation acquise de la vision des couleurs
+H53.5	chromatopsie
+H53.5	anomalie chromatique type Hart
+H53.5	protanopie
+H53.5	protanomalie
+H53.5	daltonisme
+H53.5	deutéranopie
+H53.5	deutéranomalie
+H53.5	tritanomalie
+H53.5	tritanopie
+H53.5	xanthopsie
+H53.5	érythropsie
+H53.5	achromatopsie
+H53.5	achromatisme
+H53.5	cécité complète des couleurs
+H53.5	achromatopsie due à une altération des cônes rétiniens
+H53.5	achromatopsie due à une altération des bâtonnets rétiniens
+H53.6	cécité nocturne
+H53.6	cécité nocturne congénitale
+H53.6	cécité nocturne héréditaire
+H53.6	maladie d'Oguchi
+H53.6	cécité nocturne acquise
+H53.8	courbe anormale d'adaptation à l'obscurité
+H53.8	seuil anormal des cônes rétiniens
+H53.8	seuil anormal des bâtonnets rétiniens
+H53.8	adaptation retardée des cônes rétiniens
+H53.8	adaptation retardée des bâtonnets rétiniens
+H53.1	cécité diurne
+H54.7	cécité
+H54.2	baisse de la vision
+H54.2	diminution de la vue
+H54.7	perte de la vision
+H54.0	amaurose
+H54.0	cécité transitoire
+H54.7	cécité légale
+H54.2	déficit visuel des deux yeux
+H54.0	cécité totale des deux yeux
+H54.5	déficit visuel quasi total de l'oeil dominant, sans autre précision sur l'autre oeil
+H54.1	déficit visuel quasi total de l'oeil dominant, cécité totale de l'autre oeil
+H54.2	cécité quasi totale des deux yeux
+H54.4	déficit visuel profond de l'oeil dominant, sans précision sur l'autre oeil
+H54.1	déficit visuel profond de l'oeil dominant, cécité totale de l'autre oeil
+H54.1	déficit visuel profond de l'oeil dominant, cécité quasi totale de l'autre oeil
+H54.0	déficit visuel profond des deux yeux
+H54.1	cécité d'un oeil, baisse de vision de l'autre oeil
+H54.1	déficit visuel sévère de l'oeil dominant,cécité de l'autre oeil sans autre précision
+H54.1	déficit visuel sévère de l'oeil dominant, cécité totale de l'autre oeil
+H54.2	déficit visuel sévère de l'oeil dominant, cécité quasi totale de l'autre oeil
+H54.2	déficit visuel sévère de l'oeil dominant, cécité profonde de l'autre oeil
+H54.1	déficit visuel modéré de l'oeil dominant, cécité de l'autre oeil, sans autre précision
+H54.1	déficit visuel modéré de l'oeil dominant, cécité totale de l'autre oeil
+H54.2	déficit visuel modéré de l'oeil dominant, cécité quasi totale de l'autre oeil
+H54.2	déficit visuel de l'oeil dominant, déficit profond de l'autre oeil
+H54.2	baisse de la vision des deux yeux
+H54.5	déficit visuel sévère de l'oeil dominant, sans précision sur l'autre oeil
+H54.0	déficit visuel sévère des deux yeux
+H54.5	déficit visuel modéré de l'oeil dominant, sans précision sur l'autre oeil
+H54.1	déficit visuel de l'oeil dominant, déficit visuel sévère de l'autre oeil
+H54.2	déficit visuel modéré des deux yeux
+H54.3	perte de vision non qualifiée des deux yeux
+H54.4	cécité d'un oeil
+H54.4	cécité d'un oeil, sans précision sur l'autre oeil
+H54.4	cécité totale d'un oeil, vision quasi normale de l'autre oeil
+H54.4	cécité totale d'un oeil, vision normale de l'autre oeil
+H54.4	cécité quasi totale d'un oeil, sans précision sur l'autre oeil
+H54.1	cécité quasi totale d'un oeil, vision quasi normale de l'autre oeil
+H54.4	cécité quasi totale d'un oeil, vision normale de l'autre oeil
+H54.4	déficit visuel profond d'un oeil, sans précision sur l'autre oeil
+H54.1	déficit visuel profond d'un oeil, vision quasi normale de l'autre oeil
+H54.4	déficit visuel profond d'un oeil, vision normale de l'autre oeil
+H54.5	baisse de vision d'un oeil
+H54.4	déficit visuel sévère d'un oeil, sans précision sur l'autre oeil
+H54.1	déficit visuel sévère d'un oeil, vision quasi normale de l'autre oeil
+H54.4	déficit visuel sévère d'un oeil, vision normale de l'autre oeil
+H54.5	déficit visuel modéré d'un oeil, sans précision sur l'autre oeil
+H54.2	déficit visuel modéré d'un oeil, vision quasi normale de l'autre oeil
+H54.4	déficit visuel modéré d'un oeil, vision normale de l'autre oeil
+H54.6	perte de vision non précisée d'un oeil
+H53.6	syndrome de Kandori
+H53.6	cécité nocturne avec rétine mouchetée
+H18.9	maladie de la cornée
+H18.9	kératopathie
+H18.9	affection de la cornée
+H18.3	lésion de la cornée
+H17.9	cicatrice de la cornée
+H16.9	kératite
+H16.0	ulcère de la cornée
+H16.0	ulcère marginal de la cornée
+H16.0	ulcère annulaire de la cornée
+H16.0	ulcère central de la cornée
+H16.0	ulcère à hypopyon
+H16.0	ulcère serpigineux de la cornée
+H19.2*	kératomycose
+H16.0	ulcère perforé de la cornée
+H16.0	ulcère de Mooren
+H16.0	ulcère superficiel de la cornée
+H16.0	ulcère cornéen superficiel
+H16.0	érosion cornéenne
+H16.0	perforation de la cornée
+H16.0	perforation cornéenne
+H16.0	ulcère épithélial rebelle de la cornée
+H18.8	kyste dermoïde de la cornée
+H18.8	kyste épidermoïde de la cornée
+H16.1	kératite superficielle
+H16.1	kératite ponctuée
+H16.1	aquo-capsulite
+H16.1	descemétite
+H16.1	kératite ponctuée superficielle
+H16.1	kératite de Thygeson
+H16.1	kératite maculaire
+H16.1	kératite aréolaire
+H16.1	kératite nummulaire de Dimmer
+H16.1	kératite stellaire
+H16.1	kératite striée
+H18.1	kératite bulleuse
+H16.1	kératite scléro-cornéenne
+H16.1	kératite annulaire
+H16.1	kératite filamenteuse
+H16.1	kératite fibrillaire
+H16.8	kératite pigmentaire
+H16.8	kératite nécrosante
+H16.8	kératite éosinophile
+H16.8	kératite granulomateuse
+H16.1	photokératite
+H16.1	ophtalmie des neiges
+H16.1	cécité des neiges
+H16.1	opthalmia nivialis
+H16.8	kératite des soudeurs
+H16.2	kératoconjonctivite
+H16.2	kératite superficielle avec conjonctivite
+H16.2	kératoconjonctivite phlycténulaire
+H16.2	scrofulo-tuberculide de la cornée et de la conjonctive
+H16.2	ophtalmie phlycténulaire
+H16.2	conjonctivite phlycténulaire
+H16.2	conjonctivite impétigineuse
+H16.2	kératite lymphatique
+H16.2	kératite pustuleuse
+H16.2	kératite phlycténulaire
+H16.2	kératoconjonctivite sèche, précisée non-Sjogren
+H10.2	conjonctivite printanière avec atteinte cornéo-limbique
+H16.2	kératoconjonctivite d'exposition
+H16.2	kératoconjonctivite médicamenteuse
+H16.2	kératoconjonctivite neurotrophique
+H16.2	kératite d'exanthème
+H16.2	kératoconjonctivite d'exanthème
+H19.3*	kératite rosacée
+H16.3	kératite interstitielle
+H16.3	kératite profonde
+H16.3	kératite interstitielle diffuse
+H16.3	kératite parenchymateuse
+H16.3	kératite de Hutchinson
+H16.3	syndrome de Cogan
+H16.3	apraxie oculomotrice de Cogan
+H16.3	kératite sclérosante
+H16.8	kératite xérotique
+H16.3	abcès de la cornée
+H16.4	néovascularisation cornéenne
+H16.4	vascularisation localisée de la cornée
+H17.8	opalescence de la cornée
+H16.4	pannus de la cornée
+H16.4	vascularisation profonde de la cornée
+H16.4	vaisseaux fantômes de la cornée
+H17.9	opacité cornéenne
+H17.9	taie cornéenne
+H17.8	albugo de la cornée
+H17.8	néphélion de la cornée
+H17.8	opacité cornéenne périphérique
+H17.8	taie cornéenne n'affectant pas la vision centrale
+H17.1	opacité cornéenne centrale
+H17.1	leucome de la cornée affectant la vision centrale
+H17.1	taie cornéenne affectant la vision centrale
+H17.0	leucome adhérent
+H16.9	cornée phtisique
+H18.8	fibrose cornéenne
+H18.0	dépôts cornéens
+H18.0	pigmentation antérieure de la cornée
+H18.0	lignes de Stähli
+H18.0	pigmentation du stroma de la cornée
+H18.0	hématocornée
+H18.0	infiltration hématique de la cornée
+H18.0	disque hématique de la cornée
+H18.0	pigmentation postérieure de la cornée
+H18.0	faisceaux de Krukenberg
+H18.0	anneau de Kayser-Fleischer
+H18.0	anneau cornéen de Kayser-Fleischer
+H18.0	dépôts cornéens associés à un trouble du métabolisme
+H18.0	dépôts cornéens argyriques
+H18.0	hémorragie stromale de la cornée
+H18.0	hémorragie du stroma de la cornée
+H18.2	oedème de la cornée
+H18.2	oedème cornéen
+H18.2	oedème idiopathique de la cornée
+H18.2	oedème cornéen idiopathique
+H18.2	oedème secondaire de la cornée
+H18.2	oedème cornéen secondaire
+H18.1	kératopathie bulleuse
+H18.2	oedème de la cornée dû au port de lentilles cornéennes
+H18.2	oedème cornéen dû au port de lentilles cornéennes
+H18.3	altération des membranes cornéennes
+H18.3	plis et rupture de la membrane de Bowman
+H18.3	plis de la membrane de Descemet
+H18.3	rupture de la membrane de Descemet
+H18.3	décollement de la membrane de Descemet
+H18.4	dégénérescence de la cornée
+H18.4	dégénérescence sénile de la cornée
+H18.4	arc sénile
+H18.4	gérontotoxon
+H18.4	xanthome cornéen
+H18.4	gérontoxon
+H18.4	verrues de Hassall-Henle
+H18.8	érosion récidivante de la cornée
+H18.4	kératopathie en bandelettes
+H18.4	dégénérescence calcaire de la cornée
+H18.4	calcification de la cornée
+H18.4	dégénérescence calcaire cornéenne
+H18.4	kératomalacie
+H18.4	dégénérescence nodulaire de la cornée
+H18.4	kératite nodulaire de Salzmann
+H18.4	dégénérescence périphérique de la cornée
+H18.4	maladie de Terrien
+H18.4	kératopathie aqueuse discrète
+H18.5	dystrophie cornéenne héréditaire
+H18.5	dystrophie cornéenne
+H18.5	dystrophie cornéenne de Meesmann
+H18.5	dystrophie cornéenne kystique microscopique
+H18.5	syndrome de Cogan-Guerry
+H18.5	dystrophie cornéenne de Reis-Bücklers
+H18.5	maladie de Reis-Bücklers
+H18.5	dystrophie granuleuse de Groenouw type I
+H18.5	dystrophie cornéenne de Haab-Dimmer
+H18.5	dystrophie cornéenne de Fehr
+H18.5	dystrophie de Fleischer
+H18.5	dystrophie de Groenouw type II
+H18.5	dystrophie cristalline de la cornée de Schnyder
+H18.5	dégénérescence cornéenne endo-épithéliale de Fuchs
+H18.5	dystrophie de Fuchs
+H18.5	dystrophie de la cornée épithéliale
+H18.5	cornea guttata
+H18.4	dégénérescence graisseuse primitive de la cornée
+H18.5	dystrophie cornéenne polymorphe
+H18.6	kératocône
+H18.6	staphylome pellucide conique
+H18.6	cornée conique
+H18.6	kératocône stabilisé
+H18.8	hydropisie aiguë de la chambre antérieure de l'oeil
+H18.7	déformation de la cornée
+H18.7	ectasie de la cornée
+H18.7	descemétocèle
+H18.7	staphylome cornéen
+H18.8	anesthésie de la cornée
+H18.8	anesthésie cornéenne
+H18.8	hypoesthésie de la cornée
+H18.8	hypoesthésie cornéenne
+H11.9	affection de la conjonctive
+H10.9	conjonctivite
+H10.3	conjonctivite aiguë
+H10.8	conjonctivite séreuse non virale
+H10.2	conjonctivite folliculaire
+H10.2	conjonctivite folliculaire aiguë
+H13.1*	conjonctivite membraneuse
+H10.8	conjonctivite pseudomembraneuse
+H10.1	conjonctivite atopique aiguë
+H10.1	syndrome d'Angelucci
+H10.4	conjonctivite chronique
+H10.4	conjonctivite chronique simple
+H10.4	conjonctivite folliculaire chronique
+H10.1	conjonctivite printanière
+H16.2	kératoconjonctivite printanière
+H10.1	conjonctivite allergique
+H10.1	ophtalmie allergique
+H10.4	conjonctivite allergique chronique
+H10.5	blépharoconjonctivite
+H10.5	blépharoconjonctivite angulaire
+H10.5	blépharoconjonctivite de contact
+H13.2*	conjonctivite au cours d'une maladie cutanéo-muqueuse
+H13.2*	conjonctivite rosacée
+H13.2*	conjonctivite rosacée aiguë
+H11.0	ptérygion
+H11.0	ptérygion périphérique
+H11.0	ptérygion périphérique stabilisé
+H11.0	ptérygion périphérique évolutif
+H11.0	ptérygion central
+H11.0	ptérygion double
+H11.0	ptérygion récidivant
+H11.1	dégénérescence de la conjonctive
+H11.1	pinguécula
+H11.1	pinguicula
+H11.8	pseudo-ptérygion
+H11.1	xérosis de la conjonctive
+H11.1	concrétion de la conjonctive
+H11.1	pigmentation de la conjonctive
+H11.1	mélanose de la conjonctive
+H11.1	argyrose de la conjonctive
+H11.1	coloration anormale de la conjonctive
+H11.1	coloration conjonctivale anormale
+H11.1	dépôt conjonctival
+H10.8	ulcère de la conjonctive
+H10.8	ulcération conjonctivale
+H11.2	cicatrice de la conjonctive
+H11.2	cicatrice conjonctivale
+H10.4	granulome de la conjonctive
+H11.2	adhérences et brides localisées de la conjonctive
+H11.2	symblépharon
+H11.2	atrétoblépharie
+H10.0	abcès de la conjonctive
+H10.2	conjonctivite nécrosante
+H10.2	conjonctivite granulomateuse
+H10.2	conjonctivite pyogranulomateuse
+H11.3	hémorragie de la conjonctive
+H11.3	hémorragie conjonctivale
+H11.3	hyposphagme
+H11.3	hémorragie sous-conjonctivale
+H11.4	kyste sous-conjonctival
+H11.4	hyperémie de la conjonctive
+H11.4	hyperhémie conjonctivale
+H11.4	hyperémie des yeux
+H11.4	hyperémie oculaire
+H11.4	hyperhémie des yeux
+H11.4	hyperhémie oculaire
+H11.4	oedème de la conjonctive
+H11.4	oedème conjonctival
+H11.4	chémosis conjonctival
+H11.4	chémosis
+H11.4	oedème sous-conjonctival
+H11.4	anomalie vasculaire de la conjonctive
+H11.4	anévrisme de la conjonctive
+H02.9	affection de la paupière
+H02.8	anomalie acquise d'une paupière
+H02.8	oedème de la paupière
+H02.8	oedème palpébral
+H02.8	hyperémie de la paupière
+H02.8	hyperhémie palpébrale
+H02.8	hémorragie de la paupière
+H02.8	hémorragie palpébrale
+H02.8	éléphantiasis de la paupière
+H02.8	kyste de la paupière
+H02.8	kyste sébacé de la paupière
+H02.8	anomalie vasculaire de la paupière
+H02.8	rétention d'un corps étranger sous la paupière
+H01.0	blépharite
+H01.9	inflammation de la paupière
+H01.0	blépharite aiguë
+H01.0	blépharite ulcéreuse
+H01.0	blépharite chronique
+H01.0	blépharite desquamante
+H01.0	blépharite marginale
+H01.0	blépharite ciliaire
+H00.0	orgelet
+H00.0	orgelet externe
+H00.0	orgelet interne
+H00.0	orgelet meibomien
+H00.0	infection des glandes de Meibomius
+H00.0	abcès de la paupière
+H00.0	furoncle de la paupière
+H00.0	clou palpébral
+H00.1	chalazion
+H00.1	kyste meibomien
+H00.1	kyste tarsien palpébral
+H00.1	kyste de la glande de Meibomius
+H00.0	kyste infecté des glandes de Meibomius
+H02.8	kyste de la glande de Moll
+H01.1	dermatose non infectieuse de la paupière
+H01.1	dermite de la paupière
+H01.1	dermatite palpébrale
+H01.1	dermatite de contact de la paupière
+H01.1	blépharite allergique
+H01.1	dermatite allergique de la paupière
+H01.1	dermatite eczémateuse de la paupière
+H01.1	eczéma de la paupière
+H01.1	xérodermie de la paupière
+H01.1	lupus érythémateux discoïde de la paupière
+H01.8	dermatite infectieuse de la paupière
+H01.8	dermatite infectieuse de la paupière résultant en déformation
+H02.0	entropion
+H02.0	entropion sénile
+H02.0	entropion mécanique
+H02.0	entropion spasmodique
+H02.0	entropion cicatriciel
+H02.0	trichiasis sans entropion
+H02.0	entropion de la paupière supérieure
+H02.0	entropion de la paupière inférieure
+H02.0	entropion canthal nasal
+H02.0	entropion canthal interne
+H02.1	ectropion
+H02.1	éversion de la paupière
+H02.1	ectropion sénile
+H02.1	ectropion mécanique
+H02.1	ectropion spasmodique
+H02.1	ectropion cicatriciel
+H02.8	entropion et ectropion combinés
+H02.1	ectropion de la paupière supérieure
+H02.1	ectropion de la paupière inférieure
+H02.2	lagophtalmie
+H02.2	lagophtalmie paralytique
+H02.2	lagophtalmie mécanique
+H02.2	lagophtalmie cicatricielle
+H02.4	ptosis de la paupière
+H02.4	blépharoptose
+H02.4	ptosis paralytique
+H02.4	ptosis myogène
+H02.4	ptose mécanique
+H02.3	blépharochalasis
+H02.5	pseudoptosis
+H02.5	syndrome d'innervation anormale
+H02.5	clignement paradoxal
+H02.5	affection sensorielle de la paupière
+H02.5	affection sensori-motrice de la paupière
+H02.5	blépharophimosis acquis
+H02.5	ankyloblépharon acquis
+H02.7	affection dégénérative de la paupière
+H02.6	xanthome de la paupière
+H02.6	xanthélasma palpébral
+H02.6	xanthélasma de la paupière
+H02.6	xanthome plan de la paupière
+H02.8	hyperpigmentation de la paupière
+H02.8	hypopigmentation de la paupière
+H02.7	vitiligo de la paupière
+H02.8	hypertrichose de la paupière
+H02.8	hypotrichose de la paupière
+H02.7	madarosis de la paupière
+H02.3	syndrome d'Ascher
+H04.9	affection de l'appareil lacrymal
+H04.1	affection des glandes lacrymales
+H04.6	affection du canal lacrymo-nasal
+H04.5	sténose de l'appareil lacrymal
+H04.0	dacryoadénite
+H04.0	dacryoadénite aiguë
+H04.0	dacryoadénite chronique
+H04.0	hypertrophie chronique de la glande lacrymale
+H04.1	dacryops
+H04.1	kyste lacrymal
+H04.1	dégénérescence kystique de la glande lacrymale
+H04.1	atrophie lacrymale primitive
+H04.1	atrophie lacrymale secondaire
+H04.1	insuffisance du film lacrymal
+H04.1	syndrome des yeux secs
+H04.1	atrophie de la glande lacrymale
+H04.1	dislocation de la glande lacrymale
+H04.2	épiphora
+H04.2	épiphora due à un larmoiement excessif
+H04.2	épiphora due à un drainage insuffisant
+H04.1	syndrome des larmes de crocodile
+H04.1	syndrome de larmoiement paroxystique
+H04.1	syndrome de Bogorad
+H04.3	dacryocystite
+H04.3	canaliculite lacrymale
+H04.3	canaliculite lacrymale aiguë
+H04.3	dacryocystite aiguë
+H04.3	dacryopéricystite aiguë
+H04.3	dacryocystite phlegmoneuse
+H04.3	phlegmon du sac lacrymal
+H04.4	dacryocystite chronique
+H04.4	canaliculite lacrymale chronique
+H04.4	mucocèle du sac lacrymal
+H04.5	éversion du point lacrymal
+H04.5	sténose du point lacrymal
+H04.5	sténose des canalicules lacrymaux
+H04.5	sténose du sac lacrymal
+H04.5	sténose acquise du canal lacrymo-nasal
+H04.5	dacryolithe
+H04.6	déplacement acquis du point lacrymal
+H04.6	fistule lacrymale
+H04.6	granulome des voies lacrymales
+H04.5	obstruction des canaux lacrymaux
+H04.5	obstruction des canalicules lacrymaux
+H05.9	affection de l'orbite
+H05.5	rétention ancienne d'un corps étranger secondaire à une plaie pénétrante de l'orbite
+H05.5	corps étranger rétro-oculaire
+H05.8	kyste de l'orbite
+H05.1	inflammation de l'orbite
+H05.0	inflammation aiguë de l'orbite
+H05.0	abcès de l'orbite
+H05.0	abcès orbitaire
+H05.0	périostite de l'orbite
+H05.0	ostéomyélite de l'orbite
+H05.0	ténonite
+H05.1	inflammation chronique de l'orbite
+H05.1	granulome de l'orbite
+H05.1	pseudotumeur inflammatoire de l'orbite
+H05.2	exophtalmie
+H05.2	exophtalmie permanente
+H05.2	exophtalmie intermittente
+H05.2	exophtalmie pulsatile
+H05.2	hémorragie de l'orbite
+H05.2	hémorragie orbitaire
+H05.2	oedème de l'orbite
+H05.2	oedème orbitaire
+H05.2	congestion de l'orbite
+H06.2*	exophtalmie endocrinienne
+H06.2*	exophtalmie thyréotoxique
+H06.2*	ophtalmoplégie exophtalmique
+H05.2	déplacement externe du globe oculaire
+H05.2	déplacement latéral du globe oculaire
+H05.8	écoulement orbitaire post-énucléation
+H05.8	écoulement orbitaire après énucléation
+H05.3	déformation de l'orbite
+H05.3	déformation orbitaire
+H05.3	exostose de l'orbite
+H05.3	déformation de l'orbite due à une maladie osseuse
+H05.3	déformation de l'orbite associée à une déformation cranio-faciale
+H05.3	atrophie de l'orbite
+H05.3	atrophie orbitaire
+H05.8	hypertrophie de l'orbite
+H05.3	déformation de l'orbite due à un traumatisme
+H05.3	déformation de l'orbite due à une chirurgie
+H05.4	énophtalmie
+H05.4	énophtalmie due à une atrophie des tissus de l'orbite
+H05.4	énophtalmie secondaire à une atrophie du muscle temporal
+H05.4	énophtalmie secondaire à une atrophie musculaire temporale
+H05.4	énophtalmie due à un traumatisme
+H05.4	énophtalmie due à une chirurgie
+H06.3*	syndrome du plancher de l'orbite
+H06.3*	syndrome de Dejean
+H05.3	contraction de l'orbite après énucléation
+H47.0	affection du nerf optique
+H47.1	papilloedème
+H47.1	oedème papillaire
+H47.8*	papilloedème associé à une augmentation de la pression intracrânienne
+H47.8*	papilloedème associé à une diminution de la pression oculaire
+H47.8*	papilloedème associé à une affection rétinienne
+H48.0*	syndrome de Foster-Kennedy
+H47.2	atrophie optique
+H47.2	atrophie optique primaire
+H47.2	atrophie optique post-inflammatoire
+H47.2	atrophie optique associée à une dystrophie rétinienne
+H47.2	atrophie glaucomateuse de la papille optique
+H47.2	atrophie optique partielle
+H47.2	atrophie optique de Leber
+H47.2	maladie de Leber
+H47.2	atrophie de la papille optique
+H47.2	atrophie optique secondaire
+H47.3	druses de la papille optique
+H47.3	trous cratériformes de la papille optique
+H47.3	pseudo-oedème papillaire
+H47.0	infarctus du nerf optique
+H46	névrite optique
+H46	papillite optique
+H46	névrite rétrobulbaire aiguë
+H47.2	atrophie rétrobulbaire du nerf optique
+H46	neuropathie optique nutritionnelle
+H46	neuropathie optique toxique
+H53.8	amblyopie toxique
+H47.0	neuropathie optique ischémique
+H47.0	hémorragie de la gaine du nerf optique
+H47.0	hémorragie du nerf optique
+H47.0	compression du nerf optique
+H47.4	syndrome chiasmatique
+H47.0	syndrome de compression optique préchiasmatique débutante
+H47.7	affection des voies optiques
+H48.8*	affection du chiasma optique associée à des affections ou tumeurs de l'hypophyse
+H48.8*	affection du chiasma optique associée à une autre tumeur
+H48.8*	affection du chiasma optique associée à une affection vasculaire
+H48.8*	affection du chiasma optique associée à une affection inflammatoire
+H48.8*	affection des voies optiques associée à une tumeur
+H48.8*	affection des voies optiques associée à une affection vasculaire
+H48.8*	affection des voies optiques associée à une affection inflammatoire
+H47.5	affection de la bandelette optique
+H48.8*	affection du cortex visuel associée à une tumeur
+H48.8*	affection du cortex visuel associée à une affection vasculaire
+H48.8*	affection du cortex visuel associée à une affection inflammatoire
+H47.6	cécité corticale
+H49.9	affection des mouvements oculaires
+H49.0	maladie du nerf moteur oculaire commun
+H49.0	affection du nerf moteur oculaire commun
+H49.0	affection du nerf oculomoteur
+H49.0	maladie du nerf oculomoteur
+H49.1	maladie du nerf pathétique
+H49.1	affection du nerf pathétique
+H49.2	maladie du nerf moteur oculaire externe
+H49.2	affection du nerf moteur oculaire externe
+H50.9	strabisme
+H50.9	hétérotropie
+H50.4	microtropie
+H49.9	strabisme incomitant
+H49.9	strabisme non concomitant
+H50.4	strabisme concomitant
+H50.4	hétérotropie concomitante
+H50.8	strabisme accommodatif
+H50.8	hétérotropie accommodative
+H50.4	strabisme non paralytique
+H50.0	ésotropie
+H50.0	strabisme convergent
+H50.0	ésotropie avec composante accommodative
+H50.8	pseudo-ésotropie
+H50.0	ésotropie monoculaire
+H50.0	ésotropie monoculaire de forme A
+H50.0	ésotropie monoculaire de forme V
+H50.0	ésotropie monoculaire avec autres incomitances
+H50.0	ésotropie monoculaire de forme X ou Y
+H50.0	ésotropie alternante
+H50.0	ésotropie alternante de forme A
+H50.0	ésotropie alternante de forme V
+H50.0	ésotropie alternante avec autres incomitances
+H50.0	ésotropie alternante de forme X ou Y
+H50.1	exotropie
+H50.1	strabisme divergent concomitant
+H50.1	strabisme divergent
+H50.1	exotropie monoculaire
+H50.1	exotropie monoculaire de forme A
+H50.1	exotropie monoculaire de forme V
+H50.1	exotropie monoculaire avec autres incomitances
+H50.1	exotropie monoculaire de forme X ou Y
+H50.1	exotropie alternante
+H50.1	exotropie alternante de forme A
+H50.1	exotropie alternante de forme V
+H50.1	exotropie alternante avec autres incomitances
+H50.1	exotropie alternante de forme X ou Y
+H50.3	hétérotropie intermittente
+H50.3	ésotropie intermittente
+H50.3	exotropie intermittente
+H50.3	ésotropie intermittente monoculaire
+H50.3	ésotropie intermittente alternante
+H50.3	exotropie intermittente monoculaire
+H50.3	exotropie intermittente alternante
+H50.2	hétérotropie verticale
+H50.2	strabisme vertical
+H50.2	hypertropie
+H50.2	strabisme sursumvergent
+H50.2	strabisme vertical intermittent
+H50.2	hypotropie
+H50.4	cyclotropie
+H50.4	strabisme rotatoire
+H50.4	incyclotropie
+H50.4	excyclotropie
+H50.4	syndrome de monofixation
+H50.5	hétérophorie
+H50.5	strabisme latent
+H50.5	ésophorie
+H50.5	exophorie
+H50.8	pseudo-exophorie
+H50.5	hétérophorie verticale
+H50.5	hyperphorie
+H50.5	hyperphorie alternante
+H50.5	hypophorie
+H50.5	cyclophorie
+H49.9	strabisme paralytique
+H49.9	hétérotropie paralytique
+H49.0	paralysie partielle du nerf moteur oculaire commun
+H49.0	paralysie partielle du nerf oculomoteur
+H49.0	paralysie complète du nerf moteur oculaire commun
+H49.0	paralysie complète du nerf oculomoteur
+H49.0	paralysie du nerf moteur oculaire commun
+H49.0	parésie du nerf moteur oculaire commun
+H49.0	parésie du nerf oculomoteur
+H49.0	phénomène cyclique du moteur oculaire commun
+H49.0	phénomène d'Axenfeld-Schürenberg
+H49.1	paralysie du nerf pathétique
+H49.1	parésie du nerf pathétique
+H49.2	paralysie du nerf moteur oculaire externe
+H49.2	parésie du nerf moteur oculaire externe
+H49.8	ophtalmoplégie externe
+H49.8	paralysie des muscles extrinsèques de l'oeil
+H49.8	parésie des muscles extrinsèques de l'oeil
+H49.3	ophtalmoplégie totale
+H49.9	ophtalmoplégie
+H49.8	syndrome de Raymond-Cestan
+H50.6	strabisme mécanique
+H50.6	syndrome de Brown
+H50.6	syndrome de la gaine du grand oblique
+H50.6	strabisme mécanique dû à une autre affection musculo-faciale
+H50.8	duction limitée associée à une autre affection de l'oeil
+H50.8	syndrome de Duane
+H50.8	syndrome de Türk-Stilling-Duane
+H49.4	ophtalmoplégie externe progressive
+H49.4	ophtalmoplégie externe nucléaire progressive
+H49.4	maladie de von Graefe
+H50.8	strabisme dû à une autre affection neuro-musculaire
+H51.0	paralysie de la conjugaison du regard
+H51.0	spasme de la conjugaison du regard
+H51.1	insuffisance de convergence
+H51.1	paralysie de la convergence oculaire
+H51.1	excès de convergence
+H51.1	spasme de convergence
+H51.8	anomalie de divergence
+H51.2	ophtalmoplégie internucléaire
+H51.2	syndrome de Bielschowsky-Lutz-Cogan
+H51.8	phénomène d'Hertwig-Magendie
+H51.8	stéréodéviation
+H55	nystagmus
+H55	nystagmus congénital
+H55	nystagmus latent
+H55	nystagmus temporaire
+H55	nystagmus permanent
+H55	nystagmus unidirectionnel
+H55	nystagmus multidirectionnel
+H55	nystagmus par défaut d'usage
+H55	nystagmus dissocié
+H55	nystagmus conjugué
+H55	nystagmus alternant périodique
+H55	nystagmus en bascule
+H55	nystagmus associé à des affections de l'appareil vestibulaire
+H55	nystagmus labyrinthique
+H55	nystagmus vestibulaire
+H55	défaut des mouvements oculaires saccadés
+H55	nystagmus optocinétique
+H55	défaut des mouvements de poursuites oculaires lentes
+H55	nystagmus symptomatique
+H55	nystagmus oculaire spontané
+H55	nystagmus amaurotique
+H55	nystagmus oculaire
+H55	nystagmus horizontal
+H55	nystagmus rotatoire
+H55	nystagmus vertical
+H55	nystagmus à rebond
+H55	nystagmus pendulaire
+H55	nystagmus à ressort
+H55	nystagmus giratoire
+H55	pseudo-nystagmus
+H55	nystagmus retractorius
+H55	nystagmus convergent
+H55	nystagmus de position
+H55	nystagmus de posture
+H55	nystagmus de position dû à la fatigue
+H55	nystagmus de position non dû à la fatigue
+H55	nystagmus de position, direction oculaire variable
+H55	nystagmus par rotation cervicale
+H55	nystagmus de fixation
+H55	nystagmus augmenté lors du détachement du regard
+H55	nystagmus inchangé lors du détachement du regard
+H55	nystagmus inhibé lors du détachement du regard
+H49.8	dyskinésie oculaire paroxystique
+H49.8	ophtalmoplégie douloureuse
+H49.8	syndrome de Tolosa-Hunt
+H49.8	pseudo-ophtalmoplégie
+H49.8	syndrome de Roth-Bielschowsky
+H15.9	affection de la sclérotique
+H15.0	sclérite
+H15.0	sclérotite
+H15.0	sclérite rhumatoïde
+H15.1	épisclérite
+H15.1	épisclérite rhumatoïde
+H15.1	épisclérite périodique fugace
+H15.0	sclérite superficielle
+H15.1	épisclérite nodulaire
+H15.0	sclérite nodulaire
+H15.0	sclérite antérieure
+H15.0	sclérite profonde
+H15.0	sclérite nécrosante
+H15.8	scléromalacie perforante
+H15.0	sclérite avec atteinte cornéenne
+H15.0	scléro-kératite
+H15.0	sclérite scléreuse
+H15.0	sclérite postérieure
+H15.0	scléroténonite
+H15.0	abcès scléral
+H15.8	staphylome scléral
+H15.8	sclérectasie
+H15.8	staphylome postérieur
+H15.8	staphylome équatorial
+H15.8	staphylome antérieur localisé
+H15.8	staphylome annulaire
+H15.8	affection dégénérative de la sclérotique
+H15.8	coloration anormale de la sclérotique
+H15.8	coloration anormale de la sclère
+H43.9	affection du corps vitré
+H43.8	dégénérescence du corps vitré
+H43.8	cavitation du corps vitré
+H43.8	décollement du corps vitré
+H43.8	liquéfaction du corps vitré
+H43.2	dépôts cristallins dans le corps vitré
+H43.2	hyalose astéroïde
+H43.2	maladie de Benson
+H43.2	hyalite astéroïde
+H43.8	synchysis étincelant
+H43.1	hémorragie du corps vitré
+H43.3	opacités du corps vitré
+H43.8	corps flottants du vitré
+H53.1	mouches volantes
+H53.1	myiodésopsie
+H43.3	membranes hyaloïdes
+H43.3	membranes vitrées
+H43.3	fibres hyaloïdes
+H43.0	prolapsus du corps vitré
+H43.8	adhérences vitréo-rétiniennes
+H43.2	hyalite
+H93.9	affection de l'oreille
+H61.8	anomalie acquise de l'oreille
+H93.8	affection vasculaire et dégénérative de l'oreille
+H66.9	otite
+H92.0	otalgie
+H92.0	douleur à l'oreille
+H92.0	otodynie
+H92.0	douleur otogène
+H92.0	douleur attribuée à l'oreille
+H92.1	otorrhée
+H92.1	écoulement par le conduit auditif externe
+H92.1	écoulement par l'oreille
+H92.1	écoulement séreux par le conduit auditif externe
+H92.1	écoulement purulent par le conduit auditif externe
+H92.1	écoulement nauséabond par le conduit auditif externe
+H92.1	otorrhée nauséabonde
+H92.2	otorragie
+H92.2	hémorragie par le conduit auditif externe
+H61.9	affection de l'oreille externe
+H61.8	anomalie acquise de l'oreille externe
+H60.1	cellulite de l'oreille externe
+H61.9	affection du pavillon de l'oreille
+H61.8	tuméfaction du pavillon de l'oreille
+H61.8	intumescence du pavillon de l'oreille
+H61.1	hématome du pavillon de l'oreille
+H61.1	déformation acquise du pavillon de l'oreille
+H61.0	périchondrite du pavillon de l'oreille
+H61.0	périchondrite aiguë du pavillon de l'oreille
+H61.0	périchondrite chronique du pavillon de l'oreille
+H61.0	chondrodermite nodulaire chronique de l'hélix
+H61.0	maladie de Winkler
+H60.9	otite externe
+H60.3	otite externe infectieuse
+H60.5	otite externe aiguë
+H60.8	otite externe circonscrite
+H60.3	infection du lobe de l'oreille
+H60.3	otite externe diffuse
+H60.3	otite externe hémorragique
+H60.3	infection aiguë du pavillon de l'oreille
+H60.4	cholestéatome de l'oreille externe
+H60.4	kératose obturante du conduit auditif externe
+H61.2	bouchon de cérumen
+H61.2	excès de cérumen dans l'oreille
+H60.5	otite externe aiguë actinique
+H60.5	otite externe aiguë chimique
+H60.5	otite externe aiguë de contact
+H60.5	otite externe aiguë réactionnelle
+H60.5	otite externe aiguë eczématoïde
+H60.5	eczéma du lobe de l'oreille
+H60.8	otite externe chronique
+H61.8	élastose nodulaire de l'anthélix
+H61.3	sténose acquise du conduit auditif externe
+H61.3	collapsus du conduit auditif externe
+H61.3	sténose acquise du conduit auditif externe secondaire à un traumatisme
+H61.3	sténose acquise du conduit auditif externe secondaire à une chirurgie
+H61.3	sténose acquise du conduit auditif externe secondaire à une inflammation
+H61.8	exostose du conduit auditif externe
+H60.3	infection du conduit auditif externe
+H60.0	abcès du conduit auditif externe
+H60.5	eczéma du conduit auditif externe
+H74.9	affection de l'oreille moyenne
+H74.9	maladie tubo-tympanique
+H66.9	otite moyenne
+H66.9	otite moyenne aiguë
+H65.1	otite moyenne aiguë non suppurée
+H65.1	catarrhe tubo-tympanique aigu
+H65.1	otite moyenne aiguë catarrhale
+H65.1	otite moyenne aiguë exsudative
+H65.1	otite moyenne aiguë transsudative
+H65.1	otite moyenne aiguë avec épanchement
+H65.1	otite moyenne subaiguë non suppurée
+H65.1	catarrhe tubo-tympanique subaigu
+H65.1	otite moyenne subaiguë catarrhale
+H65.1	otite moyenne subaiguë exsudative
+H65.1	otite moyenne subaiguë transsudative
+H65.1	otite moyenne subaiguë avec épanchement
+H65.0	otite moyenne séreuse aiguë
+H65.0	otite moyenne aiguë sécrétoire
+H65.1	otite moyenne aiguë mucoïde
+H65.1	syndrome des tympans bleus
+H65.1	otite moyenne aiguë séromuqueuse
+H65.1	otite moyenne aiguë sanglante
+H65.1	otite moyenne séreuse aiguë allergique
+H65.1	otite moyenne aiguë mucoïde allergique
+H65.1	otite moyenne aiguë sanglante allergique
+H65.2	otite moyenne séreuse chronique
+H65.2	otite moyenne séreuse chronique simple
+H65.2	catarrhe tubo-tympanique chronique
+H65.4	otite moyenne chronique séro-sanglante
+H65.3	otite moyenne mucoïde chronique
+H65.3	otite moyenne mucoïde chronique simple
+H65.3	otite moyenne chronique muco-sanglante
+H66.9	otite moyenne chronique
+H65.4	otite moyenne chronique allergique
+H65.4	otite moyenne chronique exsudative
+H65.3	otite moyenne chronique sécrétoire
+H65.3	otite moyenne chronique transsudative
+H65.4	otite moyenne chronique avec épanchement
+H65.4	otite moyenne chronique séromuqueuse
+H65.9	otite moyenne non suppurée
+H65.9	otite moyenne allergique
+H65.9	otite moyenne catarrhale
+H65.9	otite moyenne exsudative
+H65.9	otite moyenne mucoïde
+H65.9	otite moyenne sécrétoire
+H65.9	otite moyenne transsudative
+H65.9	otite moyenne avec épanchement
+H65.9	otite moyenne séromuqueuse
+H65.9	otite moyenne séreuse
+H66.0	otite moyenne aiguë suppurée
+H66.0	otite moyenne aiguë nécrosante
+H66.0	otite moyenne aiguë purulente
+H66.0	otite moyenne aiguë suppurée sans rupture spontanée du tympan
+H66.0	otite moyenne aiguë suppurée avec rupture spontanée du tympan
+H66.4	otite moyenne purulente
+H66.4	otite moyenne suppurée
+H66.3	otite moyenne chronique purulente
+H66.3	otite moyenne chronique suppurée
+H66.1	otite moyenne chronique suppurée tubo-tympanique
+H66.1	maladie chronique tubo-tympanique avec perforation antérieure du tympan
+H66.1	otite moyenne chronique suppurée bénigne avec perforation antérieure du tympan
+H66.2	otite moyenne chronique attico-antrale suppurée
+H66.2	maladie muqueuse persistante avec perforation marginale supérieure ou postérieure du tympan
+H66.2	maladie attico-antrale chronique avec perforation marginale supérieure ou postérieure du tympan
+H74.1	maladie adhésive de l'oreille moyenne
+H74.1	otite moyenne adhésive fibreuse
+H74.1	otite moyenne adhésive
+H74.1	otite moyenne adhésive chronique
+H74.1	maladie adhésive de l'oreille moyenne avec adhérences du tympan à l'enclume
+H74.1	maladie adhésive de l'oreille moyenne avec adhérences du tympan à l'étrier
+H74.1	maladie adhésive de l'oreille moyenne avec adhérences du tympan au promontoire
+H74.3	anomalie de la mobilité du marteau
+H74.3	anomalie de la mobilité des osselets de l'oreille
+H74.3	ankylose des osselets de l'oreille, à l'exclusion du marteau
+H74.2	dissociation des osselets de l'oreille
+H74.2	dislocation des osselets de l'oreille
+H74.2	désarticulation de la chaîne des osselets de l'oreille
+H74.3	perte partielle des osselets de l'oreille
+H74.3	nécrose partielle des osselets de l'oreille
+H71	cholestéatome de l'oreille moyenne et de l'apophyse mastoïde
+H71	épithélioma pavimenteux perlé de l'oreille moyenne
+H71	cholestérolose de l'oreille moyenne
+H71	kératose de l'oreille moyenne
+H71	cholestéatome de l'attique
+H71	cholestéatome de l'oreille moyenne
+H71	cholestéatose diffuse de l'oreille moyenne
+H71	granulome sur dépôt de cholestérol de l'oreille moyenne
+H73.8	hématotympan
+H73.8	hémorragie dans l'oreille moyenne
+H73.8	saignement dans l'oreille moyenne
+H73.8	hémotympan
+H69.9	affection de la trompe d'Eustache
+H68.0	salpingite de la trompe d'Eustache
+H68.0	tubotympanite
+H68.0	otosalpingite
+H68.0	salpingite aiguë de la trompe d'Eustache
+H68.0	salpingite chronique de la trompe d'Eustache
+H68.1	obstruction de la trompe d'Eustache
+H68.1	sténose de la trompe d'Eustache
+H68.1	rétrécissement de la trompe d'Eustache
+H68.1	obstruction osseuse de la trompe d'Eustache
+H68.1	obstruction de la trompe d'Eustache due à un cholestéatome, un polype ou une autre lésion osseuse
+H68.1	obstruction cartilagineuse intrinsèque de la trompe d'Eustache
+H68.1	obstruction cartilagineuse extrinsèque de la trompe d'Eustache
+H68.1	compression de la trompe d'Eustache
+H69.8	dysfonctionnement de la trompe d'Eustache
+H69.0	distension de la trompe d'Eustache
+H74.9	affection de l'apophyse mastoïde
+H70.9	mastoïdite
+H70.0	mastoïdite aiguë
+H70.0	mastoïdite aiguë sans complications
+H70.0	mastoïdite purulente aiguë
+H70.0	abcès de l'apophyse mastoïde
+H70.0	empyème de l'apophyse mastoïde
+H70.1	fistule rétro-auriculaire
+H70.0	abcès sous-périosté de l'apophyse mastoïde
+H70.0	mastoïdite aiguë avec autres complications
+H66.0	syndrome de Gradenigo
+H66.0	syndrome de la pointe du rocher
+H70.1	mastoïdite chronique
+H70.1	mastoïdite purulente chronique
+H70.1	nécrose de l'apophyse mastoïde
+H70.1	caries de l'apophyse mastoïde
+H70.1	fistule de l'apophyse mastoïde
+H70.2	apexite
+H70.2	rochérite
+H70.2	pétrosite
+H70.2	inflammation du rocher
+H70.2	ostéomyélite du rocher
+H70.2	ostéite coalescente du rocher
+H70.2	pétrosite aiguë
+H70.2	pétrosite chronique
+H95.1	complication après mastoïdectomie
+H95.1	kyste muqueux de la cavité après mastoïdectomie
+H95.0	cholestéatome récidivant de la cavité après mastoïdectomie
+H95.1	granulations de la cavité après mastoïdectomie
+H95.1	inflammation chronique de la cavité après mastoïdectomie
+H73.9	affection du tympan
+H73.8	myringite
+H73.0	myringite aiguë
+H73.0	tympanite aiguë
+H73.0	myringite bulleuse
+H73.0	myringite bulleuse hémorragique
+H73.1	tympanite chronique
+H73.1	myringite chronique
+H73.1	myringite chronique sans mention d'otite moyenne
+H72.9	perforation du tympan
+H72.9	perforation de la membrane du tympan
+H72.9	perforation post-traumatique persistante du tympan
+H72.9	perforation post-inflammatoire du tympan
+H72.0	perforation centrale du tympan
+H72.1	perforation de l'attique
+H72.1	perforation du récessus épitympanique
+H72.1	perforation de la pars flaccida
+H72.2	perforation marginale du tympan
+H72.9	perforations multiples du tympan
+H72.8	perforation totale du tympan
+H73.8	atrophie de la pars flaccida
+H72.8	perforation guérie du tympan
+H73.8	atrophie de la pars densa
+H72.8	perforation du tympan avec prolifération épidermoïde vers l'oreille externe
+H74.0	tympanosclérose
+H74.0	tympanosclérose intéressant le tympan seulement
+H74.0	tympanosclérose intéressant le tympan et les osselets
+H74.0	tympanosclérose intéressant le tympan, les osselets et l'oreille moyenne
+H74.0	tympanosclérose intéressant d'autres localisations combinées
+H81.9	syndrome vertigineux
+H81.9	affection vertigineuse
+H81.0	syndrome labyrinthique
+H81.9	syndrome vestibulaire
+H81.0	vertige labyrinthique
+H81.0	maladie de Ménière
+H81.0	syndrome de Ménière
+H81.0	oticodinie
+H81.0	vertige auriculaire
+H81.0	surdité apoplectiforme
+H81.0	maladie de Ménière active
+H81.0	hydrops endolymphatique
+H81.0	hydrolabyrinthe
+H81.0	hydrops endolabyrinthique
+H81.3	syndrome de Lermoyez
+H81.0	maladie de Ménière cochléo-vestibulaire active
+H81.0	maladie de Ménière cochléaire active
+H81.0	maladie de Ménière vestibulaire active
+H81.0	maladie de Ménière quiescente
+H81.0	maladie de Ménière en rémission
+H81.9	syndrome vestibulaire périphérique
+H81.3	vertige périphérique
+H81.1	vertige de position paroxystique bénin
+H81.1	nystagmus de position paoxystique bénin
+H81.1	vertige paroxystique bénin de l'enfance
+H81.4	vertige d'origine centrale
+H81.4	vertige organique
+H81.4	vertige de position central
+H81.4	nystagmus de position central
+H81.4	vertige de position invalidant
+H81.4	vertige positionnel invalidant
+H83.0	labyrinthite
+H83.0	labyrinthite séreuse
+H83.0	labyrinthite diffuse
+H83.0	labyrinthite circonscrite
+H83.0	labyrinthite focale
+H83.0	labyrinthite suppurée
+H83.0	labyrinthite purulente
+H83.0	labyrinthite toxique
+H83.8	labyrinthite récidivante
+H83.1	fistule labyrinthique
+H83.1	fistule périlymphatique
+H83.1	fistule de la fenêtre ronde
+H83.1	fistule de la fenêtre ovale
+H83.1	fistule d'un canal semi-circulaire
+H83.1	fistule labyrinthique de localisations combinées
+H83.8	commotion labyrinthique
+H83.2	dysfonctionnement labyrinthique
+H83.2	hyperfonction unilatérale du labyrinthe
+H83.2	hyperfonction bilatérale du labyrinthe
+H83.2	hypofonction unilatérale du labyrinthe
+H83.2	hypofonction bilatérale du labyrinthe
+H83.2	perte de fonction unilatérale du labyrinthe
+H83.2	perte de fonction bilatérale du labyrinthe
+H81.8	maladie otolithique
+H80.9	otosclérose
+H80.9	otospongiose
+H80.0	otosclérose non oblitérante intéressant la fenêtre ovale
+H80.1	otosclérose oblitérante intéressant la fenêtre ovale
+H80.2	otosclérose cochléaire
+H80.2	otosclérose intéressant la capsule labyrinthique
+H80.2	otosclérose intéressant la fenêtre ronde
+H80.8	syndrome ophtalmo-auriculaire angiospastique
+H80.8	syndrome de Bazzana
+H91.9	surdité
+H91.9	perte auditive
+H91.9	surdité totale
+H91.9	surdité partielle
+H91.9	altération auditive
+H91.9	perte auditive unilatérale
+H91.9	perte auditive bilatérale
+H93.2	surdité paradoxale
+H93.2	paracousie de Willis
+H91.1	presbyacousie
+H91.1	surdité sénile
+H91.1	presbyacousie métabolique
+H91.1	presbyacousie mécanique
+H93.0	surdité ischémique transitoire
+H91.2	perte auditive soudaine
+H91.2	perte auditive néonatale
+H93.1	acouphène
+H93.1	sensation auditive sans bruit
+H93.1	acouphène subjectif
+H93.1	acouphène objectif
+H93.1	acouphène à cliquetis
+H93.1	bruit de cliquetis dans les oreilles
+H93.1	signe de Leudet
+H93.1	bruit de craquements dans les oreilles
+H93.1	acouphène nerveux
+H93.1	acouphène non vibratoire
+H93.1	acouphène vibratoire
+H91.8	affection congénitale de l'audition
+H91.8	surdité congénitale
+H90.2	perte auditive par conduction
+H90.2	surdité de transmission
+H90.2	surdité de conduction
+H90.2	surdité de conduction osseuse
+H90.2	surdité de conduction ostéo-tympanique
+H90.2	surdité de conduction aérienne
+H90.2	surdité de conduction aéro-tympanique
+H90.5	surdité de conduction nerveuse
+H90.5	surdité nerveuse
+H90.2	perte auditive par conduction de l'oreille externe
+H90.2	perte auditive par conduction du tympan
+H90.2	perte auditive par conduction de l'oreille moyenne
+H90.2	perte auditive par conduction de l'oreille interne
+H90.2	perte auditive par conduction de localisations combinées
+H90.5	perte auditive neurosensorielle
+H90.5	surdité neurosensorielle
+H90.5	surdité de perception
+H90.5	perte de perception auditive
+H90.5	surdité sensorielle
+H90.5	surdité rétrocochléaire
+H91.8	surdité de l'organe terminal
+H90.5	perte de l'audition centrale
+H90.5	surdité centrale
+H90.5	surdité neurosensorielle de localisations combinées
+H90.8	surdité mixte de transmission et neurosensorielle
+H90.8	surdité mixte
+H91.3	surdi-mutité
+H91.3	syndrome d'Amalric
+H91.3	syndrome de Jervell et Lange-Nielsen
+H91.3	syndrome cardio-auditif de Jervell et Lange-Nielsen
+H83.3	conséquences du bruit sur l'oreille interne
+H83.3	traumatisme acoustique explosif de l'oreille
+H83.3	accident du souffle otitique
+H83.3	perte auditive due au bruit
+H83.3	surdité professionnelle
+H91.0	ototoxicité
+H91.0	surdité toxique
+H93.2	perception auditive anormale
+H93.2	diplacousie
+H93.2	paracousie double
+H93.2	diplacousie dysharmonique
+H93.2	diplacousie en écho
+H93.2	hyperacousie
+H93.2	anomalie de la discrimination auditive
+H93.2	recrutement auditif
+H90.3	surdité musicale
+H90.3	amusie sensorielle
+H91.9	surdité pour fréquences hautes
+H91.9	surdité pour fréquences moyennes
+H91.9	surdité pour fréquences basses
+H93.2	dysacousie
+H93.2	dysesthésie auditive
+H93.3	affection du nerf auditif
+H93.3	affection du nerf acoustique
+H93.3	affection du nerf vestibulo-cochléaire
+H93.3	affection du huitième nerf crânien
+H93.3	lésion du nerf auditif
+H93.3	lésion du nerf acoustique
+H93.3	lésion du huitième nerf crânien
+H93.3	lésion du nerf vestibulo-cochléaire
+H93.3	dégénérescence du nerf auditif
+H93.3	dégénérescence du nerf acoustique
+H93.3	dégénérescence du nerf vestibulo-cochléaire
+H93.3	dégénérescence du huitième nerf crânien
+H93.3	névrite acoustique
+H94.8*	syndrome de l'angle ponto-cérébelleux
+H94.8*	syndrome de Cushing I
+H94.8*	syndrome du neurinome de l'acoustique
+H01.8	dermite infectieuse de la paupière
+H44.4	hypotonie oculaire due à une fistule
+H34.8	occlusion d'une veine rétinienne affluente
+H40.0	hypertension oculaire dépistée par test aux stéroïdes
+H26.8	cataracte présénile combinée
+H26.1	cataracte traumatique localisée
+H26.4	cataracte secondaire sans opacification de la vision
+H26.4	cataracte secondaire avec opacification de la vision
+H53.1	amaurose temporaire
+H53.1	perte passagère de la vue
+H53.1	perte temporaire de la vision
+H53.5	anérythropsie
+H53.5	monochromatisme des cônes rétiniens
+H53.5	monochromatisme des bâtonnets rétiniens
+H53.8	adaptation anormale à l'obscurité
+H53.8	retard d'adaptation des bâtonnets rétiniens
+H53.8	retard d'adaptation des cônes rétiniens
+H54.7	cécité économique
+H16.1	kératite ulcéreuse marginale
+H17.8	taie cornéenne périphérique
+H17.8	leucome cornéen central
+H17.1	taie cornéenne centrale
+H18.0	argyrose cornéenne
+H18.6	kératocône stable
+H18.8	kératocône aigu
+H11.0	ptérygion temporal
+H11.0	ptérygion temporal évolutif
+H11.0	ptérygion nasal
+H47.3	excavations de la papille optique
+H48.8*	atteinte de la vue au cours d'une affection tumorale
+H48.8*	atteinte de la vue au cours d'une affection vasculaire
+H48.8*	atteinte de la vue au cours d'une affection inflammatoire
+H55	anomalie des mouvements oculaires saccadés
+H55	anomalie de la poursuite oculaire lente
+H55	nystagmus positionnel fatigable
+H55	nystagmus positionnel non fatigable
+H55	nystagmus positionnel, direction oculaire variable
+H15.0	sclérite indurée
+H65.1	otite moyenne aiguë muqueuse
+H65.3	otite moyenne muqueuse
+H71	cholestéatome diffus de l'oreille moyenne
+H74.0	tympanosclérose avec lésions associées
+H83.1	fistule labyrinthique à localisations multiples
+H83.3	traumatisme acoustique par explosion
+H59.0	syndrome du corps vitré après intervention pour cataracte
+H60.3	inflammation bactérienne aiguë de l'oreille externe
+H60.3	oreille du nageur
+H60.3	otite externe généralisée
+H60.8	otite bactérienne chronique externe
+H60.8	otite infectieuse chronique externe
+H93.8	infection bactérienne de l'oreille
+H10.0	conjonctivite angulaire
+H10.0	conjonctivite de Morax
+H10.0	infection à Moraxella lacunata
+H10.0	infection à bacille de Morax-Axenfeld
+H10.0	conjonctivite mucopurulente
+H10.0	conjonctivite bactérienne
+H10.0	conjonctivite purulente
+H10.0	conjonctivite à bacille de Koch-Weeks
+H10.0	conjonctivite aiguë épidémique
+H10.0	conjonctivite à bacille de Weeks
+H10.0	conjonctivite à Haemophilus aegyptius
+H10.0	conjonctivite de Koch-Weeks
+H10.0	conjonctivite aiguë contagieuse
+H10.2	conjonctivite catarrhale
+H10.8	fièvre purpurique brésilienne
+H10.8	conjonctivite de la fièvre purpurique brésilienne
+H60.2	otite externe maligne
+H60.2	otite externe à Pseudomonas aeruginosa
+H81.3	vestibulopathie périphérique aiguë

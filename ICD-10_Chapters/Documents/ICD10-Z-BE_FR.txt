@@ -1,0 +1,1211 @@
+Z00.0	contact pour examen médical général d'adulte sans résultats anormaux
+Z00.1	contact pour examen médical général d'adulte avec résultats anormaux
+Z00.110	examen de santé pour nouveau-né de moins de 8 jours
+Z00.111	examen de santé pour nouveau-né de 8 à 28 jours
+Z00.121	contact pour examen de santé de routine d'enfant avec résultats anormaux
+Z00.129	contact pour examen de santé de routine d'enfant sans résultats anormaux
+Z00.2	contact pour examen lors de la période de croissance rapide de l'enfant
+Z00.3	contact pour examen d'adolescent en cours de croissance
+Z00.5	contact pour examen de donneur potentiel d'organe et de tissu
+Z00.6	contact pour examen de comparaison et de contrôle dans le cadre d'un programme de recherche clinique
+Z00.70	contact pour examen lors de période de croissance retardée d'enfance sans résultats anormaux
+Z00.71	contact pour examen lors de période de croissance retardée d'enfance avec résultats anormaux
+Z00.8	contact pour autre examen général
+Z01.0	contact pour examen des yeux et de la vision sans résultats anormaux
+Z01.1	contact pour examen des yeux et de la vision avec résultats anormaux
+Z01.10	contact pour examen des oreilles et d'audition sans résultats anormaux
+Z01.110	contact pour examen d'audition après échec de dépistage d'audition
+Z01.118	contact pour examen des oreilles et d'audition avec autres résultats anormaux
+Z01.12	contact pour conservation et traitement d'audition
+Z01.20	contact pour examen et nettoyage dentaire sans résultats anormaux
+Z01.21	contact pour examen et nettoyage dentaire avec résultats anormaux
+Z01.30	contact pour examen de la tension artérielle sans résultats anormaux
+Z01.31	contact pour examen de la tension artérielle avec résultats anormaux
+Z01.411	contact pour examen gynécologique avec résultats anormaux
+Z01.411	contact pour examen gynécologique de routine avec résultats anormaux
+Z01.411	contact pour examen gynécologique général avec résultats anormaux
+Z01.419	contact pour examen gynécologique sans résultats anormaux
+Z01.419	contact pour examen gynécologique de routine sans résultats anormaux
+Z01.419	contact pour examen gynécologique général sans résultats anormaux
+Z01.42	contact pour frottis cervical afin de confirmer les résultats normaux de frottis récent après des résultats anormaux de frottis initial
+Z01.810	contact pour examen cardiovasculaire avant procédure
+Z01.811	contact pour examen respiratoire avant procédure
+Z01.812	contact pour examen de laboratoire avant procédure
+Z01.818	contact pour autre examen avant procédure
+Z01.82	contact pour tests d'allergie
+Z01.83	contact pour détermination de groupe sanguin
+Z01.84	contact pour examen de la réponse d'anticorps
+Z01.89	contact pour autres examens spéciaux spécifiés
+Z02.0	contact pour examen pour admission dans une institution éducative
+Z02.1	contact pour examen d'embauche
+Z02.2	contact pour examen pour admission dans une institution résidentielle
+Z02.3	contact pour examen d'incorporation dans l'armée
+Z02.4	contact pour examen pour le permis de conduire
+Z02.5	contact pour examen pour la pratique de sport
+Z02.6	contact pour examen pour fins d'assurances
+Z02.71	contact pour détermination d'invalidité
+Z02.79	contact pour délivrance d'autre certificat médical
+Z02.81	contact pour test de paternité
+Z02.82	contact pour examen pour adoption
+Z02.83	contact pour recherche d'alcool et de substances pharmacologiques dans sang
+Z02.89	contact pour autres examens à des fins administratives
+Z02.9	contact pour examens à des fins administratives, non spécifiés
+Z03.6	contact pour suspicion infirmée d'effet toxique par substance ingérée
+Z03.71	contact pour suspicion infirmée de problème de cavité et de membrane amniotique
+Z03.72	contact pour suspicion infirmée de problème placentaire
+Z03.73	contact pour suspicion infirmée d'anomalie fotale
+Z03.74	contact pour suspicion infirmée de problème de croissance fotale
+Z03.75	contact pour suspicion infirmée de raccourcissement de col utérin
+Z03.79	contact pour suspicion infirmée d'autres affections maternelles et fotales
+Z03.810	contact pour suspicion infirmée d'exposition à l'anthrax
+Z03.818	contact pour suspicion infirmée d'exposition à d'autres agents biologiques
+Z03.89	contact pour suspicion infirmée d'autres maladies et affections
+Z04.1	contact pour examen et observation après un accident de transport
+Z04.2	contact pour examen et observation après un accident de travail
+Z04.3	contact pour examen et observation après un autre accident
+Z04.41	contact pour examen et observation après allégation de viol d'adulte
+Z04.42	contact pour examen et observation après allégation de viol d'enfant
+Z04.6	contact pour examen psychiatrique général, à la demande des autorités
+Z04.71	contact pour examen et observation après allégation de sévices physiques d'adulte
+Z04.72	contact pour examen et observation après allégation de sévices physiques d'enfant
+Z04.8	contact pour examen et observation pour autres raisons spécifiées
+Z04.9	contact pour examen et observation pour raison non spécifiée
+Z08	contact pour examen de contrôle après traitement complet de néoplasme malin
+Z09	contact pour examen de contrôle après traitement complet de conditions autre qu'un néoplasme malin
+Z11.0	contact pour examen de dépistage de maladies infectieuses intestinales
+Z11.1	contact pour examen de dépistage de tuberculose pulmonaire
+Z11.2	contact pour examen de dépistage d'autres maladies bactériennes
+Z11.3	contact pour examen de dépistage d'infections à mode de transmission essentiellement sexuel
+Z11.4	contact pour examen de dépistage du virus de l'immunodéficience humaine [VIH]
+Z11.51	contact pour examen de dépistage du papillomavirus humain
+Z11.51	contact pour examen de dépistage du HPV
+Z11.59	contact pour examen de dépistage d'autres maladies à virus
+Z11.6	contact pour examen de dépistage d'autres maladies à protozoaires et helminthiases
+Z11.8	contact pour examen de dépistage d'autres maladies infectieuses et parasitaires
+Z11.9	contact pour examen de dépistage de maladies infectieuses et parasitaires, non spécifiées
+Z12.0	contact pour examen de dépistage de néoplasme malin d'estomac
+Z12.10	contact pour examen de dépistage de néoplasme malin du tractus intestinal, non spécifié
+Z12.11	contact pour examen de dépistage de néoplasme malin de côlon
+Z12.12	contact pour examen de dépistage de néoplasme malin de rectum
+Z12.13	contact pour examen de dépistage de néoplasme malin d'intestin grêle
+Z12.2	contact pour examen de dépistage de néoplasme malin d'organes respiratoires
+Z12.31	contact pour mammographie de dépistage pour néoplasme malin de sein
+Z12.39	contact pour autre examen de dépistage de néoplasme malin de sein
+Z12.4	contact pour examen de dépistage de néoplasme malin de col utérin
+Z12.5	contact pour examen de dépistage de néoplasme malin de prostate
+Z12.6	contact pour examen de dépistage de néoplasme malin de vessie
+Z12.71	contact pour examen de dépistage de néoplasme malin de testicule
+Z12.72	contact pour examen de dépistage de néoplasme malin de vagin
+Z12.73	contact pour examen de dépistage de néoplasme malin d'ovaire
+Z12.79	contact pour examen de dépistage de néoplasme malin d'autres organes génito-urinaires
+Z12.81	contact pour examen de dépistage de néoplasme malin de cavité buccale
+Z12.82	contact pour examen de dépistage de néoplasme malin de système nerveux
+Z12.83	contact pour examen de dépistage de néoplasme malin de peau
+Z12.89	contact pour examen de dépistage de néoplasme malin d'autres sites
+Z12.9	contact pour examen de dépistage de néoplasme malin de site non spécifié
+Z13.0	contact pour examen de dépistage de maladies du sang, des organes hématopoïétiques et de certains troubles de système immunitaire
+Z13.1	contact pour examen de dépistage de diabète sucré
+Z13.21	contact pour examen de dépistage de troubles nutritionnels
+Z13.220	contact pour examen de dépistage de troubles lipoïdiques
+Z13.228	contact pour examen de dépistage d'autres troubles métaboliques
+Z13.29	contact pour examen de dépistage pour suspicion d'autre trouble endocrinien
+Z13.4	contact pour examen de dépistage de certains troubles de développement d'enfance
+Z13.5	contact pour examen de dépistage de troubles d'oeil et d'oreille
+Z13.6	contact pour examen de dépistage de troubles cardiovasculaires
+Z13.71	contact pour examen de dépistage non procréatif de sujet porteur de maladie génétique
+Z13.79	contact pour autre examen de dépistage d'anomalies génétiques et chromosomiques
+Z13.810	contact pour examen de dépistage de trouble de partie supérieure du système gastro-intestinal
+Z13.811	contact pour examen de dépistage de trouble de partie inférieure du système gastro-intestinal
+Z13.818	contact pour examen de dépistage d'autres troubles du système digestif
+Z13.820	contact pour examen de dépistage d'ostéoporose
+Z13.828	contact pour examen de dépistage d'autre trouble musculosquelettique
+Z13.83	contact pour examen de dépistage de trouble respiratoire, non classé ailleurs
+Z13.84	contact pour examen de dépistage de troubles dentaires
+Z13.850	contact pour examen de dépistage de lésion traumatique de cerveau
+Z13.858	contact pour examen de dépistage d'autres troubles du système nerveux
+Z13.88	contact pour examen de dépistage de trouble par exposition à contaminants
+Z13.89	contact pour examen de dépistage d'autre trouble
+Z13.9	contact pour examen de dépistage, non spécifié
+Z14.1	sujet porteur asymptomatique d'hémophilie A
+Z14.2	sujet porteur symptomatique d'hémophilie A
+Z14.1	sujet porteur de fibrose kystique
+Z14.1	sujet porteur de mucoviscidose
+Z14.8	sujet porteur génétique d'autre maladie
+Z15.1	prédisposition génétique au néoplasme malin de sein
+Z15.2	prédisposition génétique au néoplasme malin d'ovaire
+Z15.3	prédisposition génétique au néoplasme malin de prostate
+Z15.4	prédisposition génétique au néoplasme malin d'endomètre
+Z15.9	prédisposition génétique à un autre néoplasme malin
+Z15.81	prédisposition génétique à une néoplasie endocrinienne multiple [MEN]
+Z15.89	prédisposition génétique à une autre maladie
+Z16.10	résistance aux bêta-lactamines non spécifiés
+Z16.11	résistance aux pénicillines
+Z16.12	résistance aux bêtalactamases à spectre étendu
+Z16.19	résistance à d'autres antibiotiques bêta-lactamines spécifiés
+Z40.0	contact pour enlèvement prophylactique d'organe non spécifié
+Z40.1	contact pour enlèvement prophylactique de sein
+Z40.2	contact pour enlèvement prophylactique d'ovaire
+Z40.9	contact pour enlèvement prophylactique d'autre organe
+Z40.8	contact pour autre chirurgie prophylactique
+Z40.9	contact pour chirurgie prophylactique, non spécifiée
+Z41.1	contact pour chirurgie esthétique
+Z41.2	contact pour circoncision rituelle et de routine
+Z41.3	contact pour perçage d'oreille
+Z41.8	contact pour autres procédures à des fins autres que celles de corriger l'état de santé
+Z41.9	contact pour procédure à des fins autres que remédier l'état de santé, non spécifié
+Z42.1	contact pour reconstruction de sein après mastectomie
+Z42.8	contact pour autre chirurgie plastique et reconstructive après procédure médicale ou traumatisme guéri
+Z43.0	contact pour soins de trachéostomie
+Z47.31	suite de soins après explantation de prothèse de l'épaule
+Z47.32	suite de soins après explantation de prothèse de la hanche
+Z47.33	suite de soins après explantation de prothèse du genou
+Z47.81	contact pour suite de soins orthopédiques après amputation chirurgicale
+Z47.82	contact pour suite de soins orthopédiques après chirurgie pour scoliose
+Z47.89	contact pour autre suite de soins orthopédiques
+Z80.0	antécédents familiaux de néoplasme malin d'organes digestifs
+Z80.1	antécédents familiaux de néoplasme malin de trachée, bronche et poumon
+Z80.2	antécédents familiaux de néoplasme malin d'autres organes respiratoires et intrathoraciques
+Z80.3	antécédents familiaux de néoplasme malin de sein
+Z80.41	antécédents familiaux de néoplasme malin d'ovaire
+Z80.42	antécédents familiaux de néoplasme malin de prostate
+Z80.43	antécédents familiaux de néoplasme malin de testicule
+Z87.76	antécédent personnel de malformations congénitales des téguments, membres et système musculosquelettique
+Z87.76	antécédent personnel de malformations congénitales corrigées des téguments, membres et système musculosquelettique
+Z87.790	antécédent personnel de malformations congénitales de face et cou
+Z87.790	antécédent personnel de malformations congénitales corrigées de face et cou
+Z87.798	antécédent personnel d'autres malformations congénitales corrigées
+Z87.798	antécédent personnel d'autres malformations congénitales 
+Z87.81	antécédent personnel de fracture traumatique, guérie
+Z87.820	antécédent personnel de lésion traumatique de cerveau
+Z87.821	antécédent personnel de rétention de corps étranger, entièrement enlevé
+Z87.828	antécédent personnel d'autre traumatisme physique, guéri
+Z87.890	antécédent personnel de changement de sexe
+Z87.891	antécédent personnel de dépendance à la nicotine
+Z87.892	antécédent personnel d'anaphylaxie
+Z87.898	antécédent personnel d'autres affections spécifiées
+Z88.0	allergie à la pénicilline
+Z88.1	allergie à d'autres antibiotiques
+Z16.20	résistance à un antibiotique non spécifié
+Z16.21	résistance à la vancomycine
+Z16.22	résistance aux antibiotiques liés à la vancomycine
+Z16.23	résistance aux quinolones et les fluoroquinolones
+Z16.24	résistance aux multiples antibiotiques
+Z16.29	résistance à autre antibiotique spécifié unique
+Z16.30	résistance aux médicaments antimicrobiens
+Z16.31	résistance aux médicaments antiparasitaires
+Z16.32	résistance aux médicaments antimycotiques
+Z16.33	résistance aux médicaments antiviraux
+Z16.341	résistance à un médicament antimycobacériel unique
+Z16.342	résistance à de multiples médicaments antimycobactériaux
+Z16.35	résistance à de multiples médicaments antimicrobiens
+Z16.39	résistance à autre médicament antimicrobien spécifié
+Z17.0	récepteurs oestrogéniques positifs
+Z17.0	récepteurs ER+
+Z17.1	récepteurs oestrogéniques négatifs
+Z17.1	récepteurs ER-
+Z18.1	rétention de fragments d'uranium appauvris
+Z18.9	rétention d'autre fragments radioactifs
+Z18.10	rétention de fragments de métal non spécifié
+Z18.11	rétention de fragments de métal magnétique
+Z18.12	rétention de fragments de métal non magnétique
+Z18.2	rétention de fragments de plastique
+Z18.31	rétention d'épines ou piquants animaux
+Z18.32	rétention de dents
+Z18.33	rétention de fragments de bois
+Z18.39	autre rétention de fragments organiques
+Z18.81	rétention de fragments de verre
+Z18.83	rétention de fragments de pierre ou de cristal
+Z18.89	rétention d'autres fragments spécifiés de corps étranger
+Z18.9	rétention de fragments de corps étranger, matériel non spécifié
+Z20.1	contact avec et exposition à des maladies infectieuses intestinales dues à Escherichia coli 
+Z20.1	contact avec et exposition suspectée à des maladies infectieuses intestinales dues à Escherichia coli
+Z20.1	contact avec et exposition à des maladies infectieuses intestinales dues à E. coli
+Z20.1	contact avec et exposition suspectée à des maladies infectieuses intestinales dues à E. coli
+Z20.9	contact avec et exposition à d'autres maladies infectieuses intestinales
+Z20.9	contact avec et exposition suspectée à d'autres maladies infectieuses intestinales
+Z20.1	contact avec et exposition à la tuberculose
+Z20.1	contact avec et exposition suspectée à la tuberculose
+Z20.2	contact avec et exposition à des infections à mode de transmission essentiellement sexuel
+Z20.2	contact avec et exposition suspectée à des infections à mode de transmission essentiellement sexuel
+Z20.3	contact avec et exposition à la rage
+Z20.3	contact avec et exposition suspectée à la rage
+Z20.4	contact avec et exposition à la rubéole
+Z20.4	contact avec et exposition suspectée à la rubéole
+Z20.5	contact avec et exposition à l'hépatite virale
+Z20.5	contact avec et exposition suspectée à l'hépatite virale
+Z20.6	contact avec et exposition suspectée au virus d'immunodéficience humaine
+Z20.6	contact avec et exposition au virus d'immunodéficience humaine
+Z20.6	contact avec et exposition au VIH
+Z20.6	contact avec et exposition suspectée au VIH
+Z20.7	contact avec et exposition à la pédiculose, l'acariase et à d'autres infestations
+Z20.7	contact avec et exposition suspectée à la pédiculose, l'acariase et à d'autres infestations
+Z20.810	contact avec et exposition à l'anthrax
+Z20.810	contact avec et exposition suspectée à l'anthrax
+Z20.811	contact avec et exposition au méningocoque
+Z20.811	contact avec et exposition suspectée au méningocoque
+Z20.818	contact avec et exposition à d'autres maladies transmissibles bactériennes
+Z20.818	contact avec et exposition suspectée à d'autres maladies transmissibles bactériennes
+Z20.820	contact avec et exposition à la varicelle
+Z20.820	contact avec et exposition suspectée à la varicelle
+Z20.828	contact avec et exposition à d'autres maladies transmissibles virales
+Z20.828	contact avec et exposition suspectée à d'autres maladies transmissibles virales
+Z20.89	contact avec et exposition à d'autres maladies transmissibles
+Z20.89	contact avec et exposition suspectée à d'autres maladies transmissibles
+Z20.9	contact avec et exposition à une maladie transmissible non spécifiée
+Z20.9	contact avec et exposition suspectée à une maladie transmissible non spécifiée
+Z21	statut d'infection asymptomatique par virus d'immunodéficience humaine
+Z21	statut d'infection asymptomatique par VIH
+Z22.0	sujet porteur du typhus
+Z22.1	sujet porteur d'autres maladies infectieuses intestinales
+Z22.2	sujet porteur de diphtérie
+Z22.31	sujet porteur de maladie bactérienne due aux méningocoques
+Z22.321	porteur ou porteur suspect de staphylocoque doré susceptible à la méthicilline
+Z22.322	porteur ou porteur suspect de staphylocoque doré résistant à la méthicilline
+Z22.330	sujet porteur de streptocoques du groupe B
+Z22.338	sujet porteur d'autre streptocoque
+Z22.39	sujet porteur d'autres maladies bactériennes spécifiées
+Z22.4	sujet porteur d'infections à mode de transmission essentiellement sexuel
+Z22.50	sujet porteur d'hépatite virale non spécifiée
+Z22.51	sujet porteur d'hépatite virale B
+Z22.52	sujet porteur d'hépatite virale C
+Z22.59	sujet porteur d'une autre hépatite virale
+Z22.6	sujet porteur d'infection à virus lymphotrope des lymphocytes T humains de type 1
+Z22.6	sujet porteur d'infection à HTLV-1
+Z22.8	sujet porteur d'autres maladies infectieuses
+Z22.9	sujet porteur de maladie infectieuse, non spécifiée
+Z23	contact pour immunisation
+Z28.1	immunisation non faite à cause d'une maladie aiguë du patient
+Z28.2	immunisation non faite à cause d'une maladie chronique ou d'un statut chronique du patient
+Z28.3	immunisation non faite à cause d'un état d'immunodépression du patient
+Z28.4	immunisation non faite à cause d'une allergie du patient contre un vaccin ou composant
+Z28.9	immunisation non faite à cause d'une autre contre-indication
+Z28.1	immunisation non faite à cause d'une décision de patient pour des raisons de conviction et de pression sociale
+Z28.20	immunisation non faite à cause d'une décision de patient pour des raisons non spécifiées
+Z28.21	immunisation non faite à cause d'un refus du patient
+Z28.29	immunisation non faite à cause d'une décision du patient pour d'autres raisons
+Z28.3	état de sous-immunisation
+Z28.81	immunisation non faite car le patient a déjà fait la maladie en question
+Z28.82	immunisation non faite à cause d'un refus du prestataire de soins
+Z28.89	immunisation non faite pour d'autres raisons
+Z28.9	immunisation non faite pour des raisons non spécifiées
+Z30.11	contact pour prescription initiale de pilule contraceptive
+Z30.12	contact pour prescription de contraception d'urgence
+Z30.13	contact pour prescription initiale de contraceptif injectable
+Z30.14	contact pour prescription initiale de dispositif intra-utérin contraceptif
+Z30.18	contact pour prescription initiale d'autres contraceptifs
+Z30.19	contact pour prescription initiale de contraceptifs non spécifiés
+Z30.2	conseil et instruction pour la planification familiale naturelle afin d'éviter grossesse
+Z30.9	contact pour autre conseil et avis généraux concernant la contraception
+Z30.2	contact pour stérilisation
+Z30.40	contact pour surveillance de contraceptifs non spécifiés
+Z30.41	contact pour surveillance de pilule contraceptive
+Z30.42	contact pour surveillance de contraceptif injectable
+Z30.430	contact pour insertion de dispositif intra-utérin contraceptif
+Z30.431	contact pour examen de routine de dispositif intra-utérin contraceptif
+Z30.432	contact pour enlèvement de dispositif intra-utérin contraceptif
+Z30.433	contact pour enlèvement et réinsertion de dispositif intra-utérin contraceptif
+Z30.49	contact pour surveillance d'autres contraceptifs
+Z30.8	contact pour prise en charge d'autre contraceptif
+Z30.9	contact pour prise en charge de contraceptifs, non spécifiés
+Z31.0	contact pour conversion de stérilisation précédente
+Z31.41	contact pour examen de fertilité
+Z31.42	suite de soins de conversion de stérilisation
+Z31.430	contact pour examen de femme porteuse de maladie génétique en vue de la procréation
+Z31.438	contact pour autre examen génétique de femme en vue de la procréation
+Z31.440	contact pour examen d'homme porteur de maladie génétique en vue de la procréation
+Z31.441	contact pour examen de partenaire masculin de patiente avec avortements récidivants
+Z31.448	contact pour examen génétique d'homme en vue de la procréation
+Z31.49	contact pour autre investigation et examen en vue de la procréation
+Z31.5	contact pour conseil génétique
+Z31.61	conseil et avis pour la planification familiale naturelle en vue de la procréation
+Z31.62	contact pour conseil en vue de la préservation de la fertilité
+Z31.69	contact pour autre conseil et avis en vue de la procréation
+Z31.81	contact pour recherche de stérilité masculine chez une patiente
+Z31.82	contact pour incompatibilité rhésus
+Z31.83	contact pour insémination artificielle
+Z31.84	contact pour procédure de préservation de fertilité
+Z31.89	contact pour autres mesures procréatives
+Z31.9	contact pour mesures procréatives non spécifiées
+Z32.0	contact pour test de grossesse, résultat inconnu
+Z32.1	contact pour test de grossesse, résultat positif
+Z32.2	contact pour test de grossesse, résultat négatif
+Z32.2	contact pour instruction concernant l'accouchement
+Z32.3	contact pour instruction concernant les soins d'enfant
+Z33.1	grossesse constatée fortuitement
+Z33.2	contact pour interruption volontaire de grossesse
+Z34.0	contact pour surveillance de première grossesse normale, trimestre non spécifié
+Z34.1	contact pour surveillance de première grossesse normale, premier trimestre
+Z34.2	contact pour surveillance de première grossesse normale, deuxième trimestre
+Z34.3	contact pour surveillance de première grossesse normale, troisième trimestre
+Z34.80	contact pour surveillance d'autre grossesse normale, trimestre non spécifié
+Z34.81	contact pour surveillance d'autre grossesse normale, premier trimestre
+Z34.82	contact pour surveillance d'autre grossesse normale, deuxième trimestre
+Z34.83	contact pour surveillance d'autre grossesse normale, troisième trimestre
+Z34.90	contact pour surveillance de grossesse normale, non spécifiée, trimestre non spécifié
+Z34.91	contact pour surveillance de grossesse normale, non spécifiée, premier trimestre
+Z34.92	contact pour surveillance de grossesse normale, non spécifiée, deuxième trimestre
+Z34.93	contact pour surveillance de grossesse normale, non spécifiée, troisième trimestre
+Z36	contact pour dépistage prénatal de la mère
+Z37.0	naissance unique, enfant vivant
+Z37.1	naissance unique, enfant mort-né
+Z37.2	naissance gémellaire, jumeaux nés vivants
+Z37.3	naissance gémellaire, l'un des jumeaux né vivant, l'autre mort-né
+Z37.4	naissance gémellaire, jumeaux mort-nés
+Z37.50	naissances multiples, non spécifiées, tous nés vivants
+Z37.51	triplés, tous nés vivants
+Z37.52	quadruplés, tous nés vivants
+Z37.53	quintuplés, tous nés vivants
+Z37.54	sextuplés, tous nés vivants
+Z37.59	autres naissances multiples, tous nés vivants
+Z37.60	naissances multiples, non spécifiées, certains enfants nés vivants
+Z37.61	triplés, certains enfants nés vivants
+Z37.62	quadruplés, certains enfants nés vivants
+Z37.63	quintuplés, certains enfants nés vivants
+Z37.64	sextuplés, certains enfants nés vivants
+Z37.69	autres naissances multiples, certains enfants nés vivants
+Z37.7	autres naissances multiples, tous mort-nés
+Z37.9	résultat d'accouchement, non spécifié
+Z38.0	enfant unique né vivant, par voie vaginale
+Z38.1	enfant unique né vivant, par césarienne
+Z38.1	enfant unique né vivant, né hors d'hôpital
+Z38.2	enfant unique né vivant, lieu de naissance non spécifié
+Z38.30	enfant jumeau né vivant, par voie vaginale
+Z38.31	enfant jumeau né vivant, par césarienne
+Z38.4	enfant jumeau né vivant, né hors d'hôpital
+Z38.5	enfant jumeau né vivant, lieu de naissance non spécifié
+Z38.61	enfant de triplés né vivant, par voie vaginale
+Z38.62	enfant de triplés né vivant, par césarienne
+Z38.63	enfant de quadruplés né vivant, par voie vaginale
+Z38.64	enfant de quadruplés né vivant, par césarienne
+Z38.65	enfant de quintuplés né vivant, par voie vaginale
+Z38.66	enfant de quintuplés né vivant, par césarienne
+Z38.68	enfant d'autres naissances multiples né vivant, par voie vaginale
+Z38.69	enfant d'autres naissances multiples né vivant, par césarienne
+Z38.7	enfant d'autres naissances multiples né vivant, né hors d'hôpital
+Z38.8	enfant d'autres naissances multiples né vivant, lieu de naissance non spécifié
+Z39.0	contact pour soins et examen de mère immédiatement après accouchement
+Z39.1	contact pour soins et examen de mère allaitant
+Z39.2	contact pour contrôle de routine en post-partum
+Z3A.0	semaines de grossesse non spécifiées
+Z3A.1	moins de 8 semaines de grossesse
+Z3A.8	8 semaines de grossesse
+Z3A.9	9 semaines de grossess
+Z3A.10	10 semaines de grossess
+Z3A.11	11 semaines de grossess
+Z3A.12	12 semaines de grossess
+Z3A.13	13 semaines de grossess
+Z3A.14	14 semaines de grossess
+Z3A.15	15 semaines de grossess
+Z3A.16	16 semaines de grossess
+Z3A.17	17 semaines de grossess
+Z3A.18	18 semaines de grossess
+Z3A.19	19 semaines de grossess
+Z3A.20	20 semaines de grossess
+Z3A.21	21 semaines de grossess
+Z3A.22	22 semaines de grossess
+Z3A.23	23 semaines de grossess
+Z3A.24	24 semaines de grossess
+Z3A.25	25 semaines de grossess
+Z3A.26	26 semaines de grossess
+Z3A.27	27 semaines de grossess
+Z3A.28	28 semaines de grossess
+Z3A.29	29 semaines de grossess
+Z3A.30	30 semaines de grossess
+Z3A.31	31 semaines de grossess
+Z3A.32	32 semaines de grossess
+Z3A.33	33 semaines de grossess
+Z3A.34	34 semaines de grossess
+Z3A.35	35 semaines de grossess
+Z3A.36	36 semaines de grossess
+Z3A.37	37 semaines de grossess
+Z3A.38	38 semaines de grossess
+Z3A.39	39 semaines de grossess
+Z3A.40	40 semaines de grossess
+Z3A.41	41 semaines de grossess
+Z3A.42	42 semaines de grossess
+Z3A.49	plus de 42 semaines de grossess
+Z43.1	contact pour soins de gastrostomie
+Z43.2	contact pour soins d'iléostomie
+Z43.3	contact pour soins de colostomie
+Z43.4	contact pour soins d'autres stomies du tractus digestif
+Z43.5	contact pour soins de cystostomie
+Z43.6	contact pour soins d'autres stomies du tractus urinaire
+Z43.7	contact pour soins de vagin artificiel
+Z43.8	contact pour soins d'autres stomies artificielles
+Z43.9	contact pour soins de stomie artificielle non spécifiée
+Z44.1	contact pour mise en place et ajustement de membre supérieur droit artificiel non spécifié
+Z44.2	contact pour mise en place et ajustement de membre supérieur gauche artificiel non spécifié
+Z44.9	contact pour mise en place et ajustement de membre supérieur artificiel non spécifié, côté non spécifié
+Z44.11	contact pour mise en place et ajustement de membre supérieur droit artificiel complet
+Z44.12	contact pour mise en place et ajustement de membre supérieur gauche artificiel complet
+Z44.19	contact pour mise en place et ajustement de membre supérieur artificiel complet, côté non spécifié
+Z44.21	contact pour mise en place et ajustement de membre supérieur droit artificiel partiel
+Z44.22	contact pour mise en place et ajustement de membre supérieur gauche artificiel partiel
+Z44.29	contact pour mise en place et ajustement de membre supérieur artificiel partiel, côté non spécifié
+Z44.101	contact pour mise en place et ajustement de membre inférieur artificiel droite non spécifié
+Z44.102	contact pour mise en place et ajustement de membre inférieur artificiel gauche non spécifié
+Z44.109	contact pour mise en place et ajustement de membre inférieur artificiel non spécifié, côté non spécifié
+Z44.111	contact pour mise en place et ajustement de membre inférieur artificiel droit complet
+Z44.112	contact pour mise en place et ajustement de membre inférieur artificiel gauche complet
+Z44.119	contact pour mise en place et ajustement de membre inférieur artificiel complet, côté non spécifié
+Z44.121	contact pour mise en place et ajustement de membre inférieur artificiel droit partiel
+Z44.122	contact pour mise en place et ajustement de membre inférieur artificiel gauche partiel
+Z44.129	contact pour mise en place et ajustement de membre inférieur artificiel partiel, côté non spécifié
+Z44.20	contact pour mise en place et ajustement d'oeil artificiel, non spécifié
+Z44.21	contact pour mise en place et ajustement d'oeil artificiel droit
+Z44.22	contact pour mise en place et ajustement d'oeil artificiel gauche
+Z44.30	contact pour mise en place et ajustement de prothèse externe de sein, sein non spécifié
+Z44.31	contact pour mise en place et ajustement de prothèse externe de sein droit
+Z44.32	contact pour mise en place et ajustement de prothèse externe de sein gauche
+Z44.8	contact pour mise en place et ajustement d'autres prothèses externes
+Z44.9	contact pour mise en place et ajustement de prothèse externe non spécifiée
+Z45.10	contact pour contrôle et vérification de générateur d'impulsions [pile] de stimulateur cardiaque
+Z45.18	contact pour ajustement et entretien d'autre partie de stimulateur cardiaque
+Z45.2	contact pour ajustement et entretien de défibrillateur cardiaque automatique interne
+Z45.9	contact pour ajustement et entretien d'autres appareils cardiaques
+Z45.1	contact pour ajustement et entretien de pompe à perfusion
+Z45.2	contact pour ajustement et entretien de dispositif d'accès vasculaire
+Z45.31	contact pour ajustement et entretien de prothèse de substitution visuelle implantée
+Z45.320	contact pour ajustement et entretien de prothèse de conduction osseuse
+Z45.321	contact pour ajustement et entretien de prothèse cochléaire
+Z45.328	contact pour ajustement et entretien d'autre prothèse auditive implantée
+Z45.41	contact pour ajustement et entretien d'appareil de drainage de liquide céphalo-rachidien
+Z45.42	contact pour ajustement et entretien de neurostimulateur (cerveau) (nerf périphériques) (moelle épinière)
+Z45.49	contact pour ajustement et entretien d'autre appareil de système nerveux implanté
+Z45.811	contact pour ajustement ou enlèvement de prothèse de sein droit
+Z45.812	contact pour ajustement ou enlèvement de prothèse de sein gauche
+Z45.819	contact pour ajustement ou enlèvement de prothèse de sein non spécifié
+Z45.82	contact pour ajustement ou enlèvement de dispositif de myringotomie (stent) (drain)
+Z45.89	contact pour ajustement et entretien d'autres appareils implantés
+Z45.9	contact pour ajustement et entretien de prothèse implantée non spécifiée
+Z46.0	contact pour mise en place et ajustement de lunettes et verres de contact
+Z46.1	contact pour mise en place et ajustement d'appareil auditif
+Z46.2	contact pour mise en place et ajustement d'autres appareils pour le système nerveux et les organes sensoriels
+Z46.3	contact pour mise en place et ajustement de prothèse dentaire
+Z46.4	contact pour mise en place et ajustement d'appareil orthodontique
+Z46.51	contact pour mise en place et ajustement d'anneau gastrique
+Z46.59	contact pour mise en place et ajustement d'autre appareil et dispositif gastro-intestinaux
+Z46.6	contact pour mise en place et ajustement d'appareil urinaire
+Z46.81	contact pour mise en place et ajustement de pompe à insuline
+Z46.82	contact pour mise en place et ajustement de cathéter non vasculaire
+Z46.89	contact pour mise en place et ajustement d'autres appareils spécifiés
+Z46.9	contact pour mise en place et ajustement d'appareil non spécifié
+Z47.1	suite de soins de prothèse articulaire chirurgicale
+Z47.2	contact pour enlèvement d'appareil de fixation interne
+Z48.0	contact pour changement ou enlèvement de pansements non chirurgicaux
+Z48.1	contact pour changement ou enlèvement de pansements chirurgicaux
+Z48.2	contact pour enlèvement de sutures
+Z48.3	contact pour changement ou enlèvement de drains
+Z48.1	contact pour fermeture (secondaire) planifiée de plaie après intervention
+Z48.21	contact pour suite de soins après transplantation de cour
+Z48.22	contact pour suite de soins après transplantation de rein
+Z48.23	contact pour suite de soins après transplantation de foie
+Z48.24	contact pour suite de soins après transplantation de poumon
+Z48.280	contact pour suite de soins après transplantation de cour-poumon
+Z48.288	contact pour suite de soins après transplantation d'organes multiples
+Z48.290	contact pour suite de soins après transplantation de moelle osseuse
+Z48.298	contact pour suite de soins après transplantation d'autre organe
+Z48.3	suite de soins après chirurgie pour néoplasme
+Z48.810	contact pour suite de soins chirurgicale après chirurgie d'organes sensoriels
+Z48.811	contact pour suite de soins chirurgicale après chirurgie du système nerveux
+Z48.812	contact pour suite de soins chirurgicale après chirurgie du système circulatoire
+Z48.813	contact pour suite de soins chirurgicale après chirurgie du système respiratoire
+Z48.814	contact pour suite de soins chirurgicale après chirurgie de dents ou cavité buccale
+Z48.815	contact pour suite de soins chirurgicale après chirurgie du système digestif
+Z48.816	contact pour suite de soins chirurgicale après chirurgie du système génito-urinaire
+Z48.817	contact pour suite de soins chirurgicale après chirurgie de peau et tissu sous-cutané
+Z48.89	contact pour autre suite de soins chirurgicale spécifiée
+Z49.1	contact pour mise en place et ajustement de cathéter de dialyse extracorporelle
+Z49.2	contact pour mise en place et ajustement de cathéter de dialyse péritonéale
+Z49.31	contact pour test d'adéquation pour hémodialyse
+Z49.32	contact pour test d'adéquation pour dialyse péritonéale
+Z51.0	contact pour radiothérapie antinéoplasique
+Z51.11	contact pour chimiothérapie antinéoplasique
+Z51.12	contact pour immunothérapie antinéoplasique
+Z51.5	contact pour soins palliatifs
+Z51.81	contact pour surveillance thérapeutique de taux de médicament
+Z51.89	contact pour autre suite de soins spécifiée
+Z52.0	donneur non spécifié, sang complet
+Z52.1	donneur non spécifié, cellules souches
+Z52.8	donneur non spécifié, autre sang
+Z52.10	donneur autologue, sang complet
+Z52.11	donneur autologue, cellules souches
+Z52.18	donneur autologue, autre sang
+Z52.90	autre donneur de sang, sang complet
+Z52.91	autre donneur de sang, cellules souches
+Z52.98	autre donneur de sang, autre sang
+Z52.10	donneur de peau, non spécifié
+Z52.11	donneur de peau, autologue
+Z52.19	donneur de peau, autre
+Z52.20	donneur d'os, non spécifié
+Z52.21	donneur d'os, autologue
+Z52.29	donneur d'os, autre
+Z52.3	donneur de moelle osseuse
+Z52.4	donneur de rein
+Z52.5	donneur de cornée
+Z52.6	donneur de foie
+Z52.810	donneuse d'ovule (ovocyte) de moins de 35 ans, destinataire anonyme
+Z52.811	donneuse d'ovule (ovocyte) de moins de 35 ans, destinataire désignée
+Z52.812	donneuse d'ovule (ovocyte) de 35 ans et plus, destinataire anonyme
+Z52.813	donneuse d'ovule (ovocyte) de 35 ans et plus, destinataire désignée
+Z52.819	donneuse d'ovule (ovocyte), non spécifiée
+Z52.89	donneur d'autres organes ou tissus spécifiés
+Z52.9	donneur d'organe ou tissu non spécifié
+Z53.1	procédure et traitement non effectués à cause du tabagisme du patient
+Z53.9	procédure et traitement non effectués à cause d'autre contre-indication
+Z53.1	procédure et traitement non effectués à cause d'une décision du patient pour raisons de conviction et de pression sociale
+Z53.20	procédure et traitement non effectués à cause d'une décision du patient pour raison non spécifiée
+Z53.21	procédure et traitement non effectués à cause du patient partant avant d'être vu par prestataire de soins
+Z53.29	procédure et traitement non effectués à cause d'une décision du patient pour d'autres raisons
+Z53.8	procédure et traitement non effectués à cause d'autres raisons
+Z53.9	procédure et traitement non effectués pour raison non spécifiée
+Z55.0	analphabétisme et faible niveau d'alphabétisation
+Z55.1	scolarisation inexistante ou inaccessible
+Z55.2	échec aux examens
+Z55.3	mauvais résultats scolaires
+Z55.4	mauvaise adaptation éducative (scolaire) et désaccord entre enseignants et élèves
+Z55.8	autres problèmes liés à l'éducation et l'alphabétisation
+Z55.9	problèmes liés à l'éducation et l'alphabétisation, non spécifiées
+Z56.0	chômage, non spécifié
+Z56.1	changement d'emploi
+Z56.2	menace de perte d'emploi
+Z56.3	rythme de travail pénible
+Z56.4	désaccord avec le supérieur et les collègues
+Z56.5	conditions de travail difficiles
+Z56.6	autres problèmes physiques et mentaux liés à l'emploi
+Z56.81	harcèlement sexuel au travail
+Z56.82	état de déploiement militaire
+Z56.89	autres problèmes liés à l'emploi
+Z56.9	problèmes non spécifiées liés à l'emploi
+Z57.0	exposition professionnelle à bruit
+Z57.1	exposition professionnelle à des rayonnements
+Z57.2	exposition professionnelle à la poussière
+Z57.31	exposition professionnelle à la fumée de tabac environnementale
+Z57.39	exposition professionnelle à d'autres polluants atmosphériques
+Z57.4	exposition professionnelle à des substances toxiques en agriculture
+Z57.5	exposition professionnelle à des substances toxiques dans d'autres industries
+Z57.6	exposition professionnelle à des températures extrêmes
+Z57.7	exposition professionnelle à des vibrations
+Z57.8	exposition professionnelle à d'autres facteurs de risques
+Z57.9	exposition professionnelle à facteur de risque, non spécifié
+Z59.0	sans abri
+Z59.1	logement inadéquat
+Z59.2	désaccord avec les voisins, les locataires et le propriétaire
+Z59.3	problèmes liés à la vie en institution résidentielle
+Z59.4	alimentation défectueuse et manque d'eau potable
+Z59.5	pauvreté extrême
+Z59.6	faibles revenus
+Z59.7	couverture sociale et secours insuffisants
+Z59.8	autres problèmes liés au logement et aux conditions économiques
+Z59.9	problème lié au logement et aux conditions économiques, non spécifiées
+Z60.0	problèmes d'ajustement aux transitions entre les différentes périodes de vie
+Z60.2	problèmes liés à la solitude
+Z60.3	problèmes liés à l'acculturation
+Z60.4	exclusion et rejet sociaux
+Z60.5	cible de discrimination et de persécution (perçues)
+Z60.8	Autres problèmes liés à l'environnement social
+Z60.9	problème lié à l'environnement social, non spécifié
+Z62.0	surveillance inadéquate de la part des parents
+Z62.1	surprotection parentale
+Z62.21	prise en charge et protection de l'enfant
+Z62.22	éducation en institution
+Z62.29	autre éducation à l'écart des parents
+Z62.3	hostilité envers enfant transformé en bouc émissaire
+Z62.6	pression parentale inappropriée (excessive)
+Z62.810	antécédent personnel de sévices sexuels et physiques pendant l'enfance
+Z62.811	antécédent personnel d'abus psychologique pendant l'enfance
+Z62.812	antécédent personnel de négligence pendant l'enfance
+Z62.819	antécédent personnel d'abus non spécifié pendant l'enfance
+Z62.820	conflit entre enfant et parent biologique
+Z62.821	conflit entre enfant et parent adoptif
+Z62.822	conflit entre enfant et parent d'accueil
+Z62.890	séparation entre parents et enfants, non classée ailleurs
+Z62.891	rivalité entre frère(s) et sour(s)
+Z62.898	autres problèmes spécifiés liés à l'éducation
+Z62.9	problème lié à l'éducation, non spécifiée
+Z63.0	problèmes relationnels avec conjoint ou partenaire
+Z63.1	problèmes relationnels avec beaux-parents
+Z63.31	absence de membre de la famille due à un déploiement militaire
+Z63.32	autre absence de membre de la famille
+Z63.4	disparition et décès de membre de famille
+Z63.5	dislocation de famille par séparation et divorce
+Z63.6	parent nécessitant des soins, à charge au domicile
+Z63.71	tension familiale suite au retour de membre de la famille après déploiement militaire
+Z63.72	alcoolisme et toxicomanie dans la famille
+Z63.79	autres événements stressants ayant une incidence sur la famille et le foyer
+Z63.8	autres problèmes spécifiés liés à l'entourage immédiat
+Z63.9	problème lié à l'entourage immédiat, non spécifiée
+Z64.0	problèmes liés à une grossesse non désirée
+Z64.1	problèmes liés à la multiparité
+Z64.4	désaccord avec les conseillers
+Z65.0	condamnation, sans emprisonnement, après procès civil ou pénal
+Z65.1	emprisonnement et autre incarcération
+Z65.2	problèmes liés à la libération de prison
+Z65.3	problèmes liés à d'autres situations juridiques
+Z65.4	victime de crime et de terrorisme
+Z65.5	exposition à une catastrophe, une guerre et d'autres hostilités
+Z65.8	autres problèmes spécifiés liés à des situations psycho-sociales
+Z65.9	problème lié à des situations psycho-sociales non spécifiées
+Z66	Ne pas réanimer
+Z67.10	groupe sanguin A, Rh positif
+Z67.11	groupe sanguin A, Rh négatif
+Z67.20	groupe sanguin B, Rh positif
+Z67.21	groupe sanguin B, Rh négatif
+Z67.30	groupe sanguin AB, Rh positif
+Z67.31	groupe sanguin AB, Rh négatif
+Z67.40	groupe sanguin O, Rh positif
+Z67.41	groupe sanguin O, Rh négatif
+Z67.90	groupe sanguin non spécifié, Rh positif
+Z67.91	groupe sanguin non spécifié, Rh négatif
+Z68.1	indice de masse corporelle (IMC) 19 ou moins , adulte
+Z68.20	indice de masse corporelle (IMC) 20,0 à 20.9 , adulte
+Z68.21	indice de masse corporelle (IMC) 21,0 à 21.9 , adulte
+Z68.22	indice de masse corporelle (IMC) 22,0 à 22.9 , adulte
+Z68.23	indice de masse corporelle (IMC) 23,0 à 23.9 , adulte
+Z68.24	indice de masse corporelle (IMC) 24,0 à 24.9 , adulte
+Z68.25	indice de masse corporelle (IMC) 25,0 à 25.9 , adulte
+Z68.26	indice de masse corporelle (IMC) 26,0 à 26.9 , adulte
+Z68.27	indice de masse corporelle (IMC) 27,0 à 27.9 , adulte
+Z68.28	indice de masse corporelle (IMC) 28,0 à 28.9 , adulte
+Z68.29	indice de masse corporelle (IMC) 29,0 à 29.9 , adulte
+Z68.30	indice de masse corporelle (IMC) 30,0 à 30.9 , adulte
+Z68.31	indice de masse corporelle (IMC) 31,0 à 31.9 , adulte
+Z68.32	indice de masse corporelle (IMC) 32,0 à 32.9 , adulte
+Z68.33	indice de masse corporelle (IMC) 33,0 à 33.9 , adulte
+Z68.34	indice de masse corporelle (IMC) 34,0 à 34.9 , adulte
+Z68.35	indice de masse corporelle (IMC) 35,0 à 35.9 , adulte
+Z68.36	indice de masse corporelle (IMC) 36,0 à 36.9 , adulte
+Z68.37	indice de masse corporelle (IMC) 37,0 à 37.9 , adulte
+Z68.38	indice de masse corporelle (IMC) 38,0 à 38.9 , adulte
+Z68.39	indice de masse corporelle (IMC) 39,0 à 39.9 , adulte
+Z68.41	indice de masse corporelle (IMC) 40,0 à 44.9 , adulte
+Z68.42	indice de masse corporelle (IMC) 45,0 à 49.9 , adulte
+Z68.43	indice de masse corporelle (IMC) 50.0-59.9, adulte
+Z68.44	indice de masse corporelle (IMC) 60,0 à 69.9 , adulte
+Z68.45	indice de masse corporelle (IMC) 70 ou plus , adulte
+Z68.51	indice de masse corporelle (IMC) pédiatrique, inférieur au percentile 5 pour l'âge
+Z68.52	indice de masse corporelle (IMC) pédiatrique, égal ou supérieur au percentile 5 et inférieur au percentile 85 pour l'âge
+Z68.53	indice de masse corporelle (IMC) pédiatrique, égal ou supérieur au percentile 85 et inférieur au percentile 95 pour l'âge
+Z68.54	indice de masse corporelle (IMC) pédiatrique, égal ou supérieur au percentile 95 pour l'âge
+Z69.10	contact avec services de santé mentale pour une victime d'abus parental d'enfant
+Z69.11	contact avec services de santé mentale pour un auteur d'abus parental d'enfant
+Z69.20	contact avec services de santé mentale pour une victime d'abus non parental d'enfant
+Z69.21	contact avec services de santé mentale pour un auteur d'abus non parental d'enfant
+Z69.11	contact avec services de santé mentale pour une victime d'abus conjugal
+Z69.12	contact avec services de santé mentale pour un auteur d'abus conjugal
+Z69.81	contact avec services de santé mentale pour une victime d'autre abus
+Z69.82	contact avec services de santé mentale pour un auteur d'autre abus
+Z70.0	conseil relatif aux attitudes en matière de sexualité
+Z70.1	conseil relatif au comportement et à l'orientation du patient en matière de sexualité
+Z70.2	conseil relatif au comportement et à l'orientation de tiers en matière de sexualité
+Z70.3	conseil relatif à des inquiétudes concernant l'attitude, le comportement et l'orientation en matière de sexualité
+Z70.8	autres formes de conseils en matière de sexualité
+Z70.9	conseil en matière de sexualité, non spécifié
+Z71.0	personne contactant les services de santé pour le compte d'un tiers
+Z71.1	personne inquiète de son état de santé mais sans diagnostic posé
+Z71.2	personne consultant pour explications des résultats d'examen ou tests
+Z71.3	surveillance et conseils diététiques
+Z71.41	conseil et surveillance pour alcoolisme
+Z71.42	conseil pour membre de la famille d'un alcoolique
+Z71.51	conseil et surveillance pour toxicomanie et pharmacodépendance
+Z71.52	conseil pour membre de la famille d'un toxicomane ou pharmacodépendant
+Z71.6	conseil pour tabagisme
+Z71.7	conseil à propos du virus de l'immunodéficience humaine [VIH]
+Z71.81	conseil d'ordre spirituel ou religieux
+Z71.89	autres conseils spécifiés
+Z71.9	conseil, non spécifié
+Z72.0	usage de tabac
+Z72.3	manque d'exercice physique
+Z72.4	régime et habitudes alimentaires inadéquats
+Z72.51	Comportement hétérosexuel à haut risque
+Z72.52	Comportement homosexuel à haut risque
+Z72.53	Comportement bisexuel à haut risque
+Z72.6	jeu et pari
+Z72.810	comportement antisocial d'enfant et d'adolescent
+Z72.811	comportement antisocial d'adulte
+Z72.820	privation de sommeil
+Z72.821	hygiène du sommeil inadéquat
+Z72.89	autres problèmes liés au mode de vie
+Z72.9	problème lié au mode de vie, non spécifié
+Z73.0	surmenage, épuisement
+Z73.1	comportement de type A
+Z73.2	manque de repos et de loisirs
+Z73.3	stress, non classé ailleurs
+Z73.4	compétences sociales inadéquates, non classées ailleurs
+Z73.5	conflit sur le rôle social, non classé ailleurs
+Z73.6	limites imposées aux activités par un handicap, une infirmité
+Z73.810	insomnie d'enfant, trouble associatif d'endormissement
+Z73.811	insomnie d'enfant, refus de dormir
+Z73.812	insomnie d'enfant, type combiné
+Z73.819	insomnie d'enfant, type non spécifié
+Z73.82	double déficience sensorielle
+Z73.89	autres problèmes liés à l'orientation de mode de vie
+Z73.9	problème lié à l'orientation de mode de vie, non spécifiée
+Z74.1	grabataire
+Z74.9	autre mobilité restreinte
+Z74.1	besoin d'assistance pour les soins personnels
+Z74.2	besoin d'assistance à domicile, aucun autre membre de foyer n'étant capable d'assurer des soins
+Z74.3	nécessité de surveillance permanente
+Z74.8	autres problèmes liés à la dépendance envers la personne qui donne des soins
+Z74.9	problème lié à la dépendance envers la personne qui donne les soins, non spécifiée
+Z75.0	absence de services médicaux à domicile
+Z75.1	personne en attente d'admission dans un établissement adéquat
+Z75.2	autre période d'attente pour investigation et traitement
+Z75.3	établissements de soins non disponibles et non accessibles
+Z75.4	autres organisations d'aide non disponibles et non accessibles
+Z75.5	prise en charge des soins pendant les vacances
+Z75.8	autres problèmes liés aux installations médicales et autres soins de santé
+Z75.9	problème lié aux institutions médicales et autres formes de soins de santé, non spécifiée
+Z76.0	contact pour renouvellement d'une ordonnance
+Z76.1	contact pour surveillance médicale et soins médicaux d'enfant trouvé
+Z76.2	contact pour surveillance médicale et soins médicaux d'autre nourrisson et enfant en bonne santé
+Z76.3	personne en bonne santé accompagnant une personne malade
+Z76.4	autre pensionnaire d'établissement de soins
+Z76.5	simulateur [simulation consciente]
+Z76.81	consultation pédiatrique pré-natale par de futurs parents
+Z76.82	statut d'attente de transplantation d'organe
+Z76.89	personne ayant recours aux services de santé dans d'autres circonstances
+Z77.10	contact avec et exposition (suspectée) à arsenic
+Z77.11	contact avec et exposition (suspectée) au plomb
+Z77.12	contact avec et exposition (suspectée) à uranium
+Z77.18	contact avec et exposition (suspectée) à d'autres métaux dangereux
+Z77.20	contact avec et exposition (suspectée) aux amines aromatiques
+Z77.21	contact avec et exposition (suspectée) au benzène
+Z77.28	contact avec et exposition (suspectée) à d'autres dangereux composés aromatiques
+Z77.90	contact avec et exposition (suspectée) à amiante
+Z77.98	contact avec et exposition (suspectée) à d'autres produits chimiques principalement non médicinaux
+Z77.110	contact avec et exposition (suspectée) à la pollution de l'air
+Z77.111	contact avec et exposition (suspectée) à la pollution de l'eau
+Z77.112	contact avec et exposition (suspectée) à la pollution du sol
+Z77.118	contact avec et exposition (suspectée) à une autre pollution environnementale
+Z77.120	contact avec et exposition (suspectée) à des moisissures (toxiques)
+Z77.121	contact avec et exposition (suspectée) à des algues nocives et toxines d'algues
+Z77.122	contact avec et exposition (suspectée) au bruit
+Z77.123	contact avec et exposition (suspectée) au radon et tout autre rayonnement d'origine naturelle
+Z77.128	contact avec et exposition (suspectée) à d'autres dangers dans l'environnement physique
+Z77.21	contact avec et exposition (suspectée) à des fluides corporels potentiellement dangereux
+Z77.22	contact avec et exposition (suspectée) à la fumée de tabac environnementale (aiguë) (chronique)
+Z77.29	contact avec et exposition (suspectée) à d'autres substances dangereuses
+Z77.9	autre contact avec et exposition (suspectée) dangereuses pour la santé
+Z78.0	ménopause asymptomatique
+Z78.1	présence de contrainte physique
+Z78.9	autre statut spécifié de santé
+Z79.1	utilisation à long terme (en cours) d'anticoagulants
+Z79.2	utilisation à long terme (en cours) d'antithrombotiques / antiplaquettaires
+Z79.1	utilisation à long terme (en cours) d'anti-inflammatoires non-stéroïdiens (NSAID)
+Z79.2	utilisation à long terme (en cours) d'antibiotiques
+Z79.3	utilisation à long terme (en cours) de contraceptifs hormonaux
+Z79.4	utilisation à long terme (en cours) d'insuline
+Z79.51	utilisation à long terme (en cours) de stéroïdes inhalés
+Z79.52	utilisation à long terme (en cours) de stéroïdes systémiques
+Z79.810	utilisation à long terme (en cours) de modulateurs sélectifs des récepteurs aux oestrogènes (SERMs)
+Z79.811	utilisation à long terme (en cours) d'inhibiteurs d'aromatase
+Z79.818	utilisation à long terme (en cours) d'autres agents affectant récepteurs d'ostrogène et niveaux d'ostrogène
+Z79.82	utilisation à long terme (en cours) d'aspirine
+Z79.83	utilisation à long terme (en cours) de bisphosphonates
+Z79.890	traitement hormonal substitutif (post-ménopausique)
+Z79.891	utilisation à long terme (en cours) d'analgésique opiacé
+Z79.899	autre utilisation à long terme (en cours) de médicaments
+Z80.49	antécédents familiaux de néoplasme malin d'autres organes génitaux
+Z80.51	antécédents familiaux de néoplasme malin de rein
+Z80.52	antécédents familiaux de néoplasme malin de vessie
+Z80.59	antécédents familiaux de néoplasme malin d'autre organe du tractus urinaire
+Z80.6	antécédents familiaux de leucémie
+Z80.7	antécédents familiaux d'autres néoplasmes malins des tissus lymphoïde, hématopoïétique et apparentés
+Z80.8	antécédents familiaux de néoplasme malin d'autres organes ou systèmes
+Z80.9	antécédents familiaux de néoplasme malin, non spécifiés
+Z81.0	antécédents familiaux de déficience intellectuelle
+Z81.1	antécédents familiaux d'abus et de dépendance d'alcool
+Z81.2	antécédents familiaux d'abus et dépendance de tabac
+Z81.3	antécédents familiaux d'abus et de dépendance d'autre substance psychoactive
+Z81.4	antécédents familiaux d'abus et de dépendance d'autres substances
+Z81.8	antécédents familiaux d'autres troubles mentaux et du comportement
+Z82.0	antécédents familiaux d'épilepsie et d'autres maladies de système nerveux
+Z82.1	antécédents familiaux de cécité et perte de vision
+Z82.2	antécédents familiaux de surdité et perte d'audition
+Z82.3	antécédents familiaux d'accident cérébrovasculaire
+Z82.41	antécédents familiaux de mort subite d'origine cardiaque
+Z82.49	antécédents familiaux de cardiopathie ischémique et autres maladies circulatoires
+Z82.5	antécédents familiaux d'asthme et autres maladies chroniques des voies respiratoires inférieures
+Z82.61	antécédents familiaux d'arthrite
+Z82.62	antécédents familiaux d'ostéoporose
+Z82.69	antécédents familiaux d'autres maladies du système musculosquelettique et du tissu conjonctif
+Z82.71	antécédents familiaux de rein polykystique
+Z82.79	antécédents familiaux d'autres malformations congénitales et anomalies chromosomiques
+Z82.8	antécédents familiaux d'autres infirmités et maladies chroniques conduisant à l'invalidité, non classées ailleurs
+Z83.0	antécédents familiaux de maladie due au virus d'immunodéficience humaine [VIH]
+Z83.1	antécédents familiaux d'autres maladies infectieuses et parasitaires
+Z83.2	antécédents familiaux de maladies du sang et des organes hématopoïétiques et de certains troubles du système immunitaire
+Z83.3	antécédents familiaux de diabète sucré
+Z83.41	antécédents familiaux de néoplasie endocrinienne multiple [MEN]
+Z83.49	antécédents familiaux d'autres maladies endocriniennes, nutritionnelles et métaboliques
+Z83.511	antécédents familiaux de glaucome
+Z83.518	antécédents familiaux d'autre trouble d'oeil spécifié
+Z83.52	antécédents familiaux de troubles de troubles de l'oreille
+Z83.6	antécédents familiaux d'autres maladies du système respiratoire
+Z83.71	antécédents familiaux de polypes de côlon
+Z83.79	antécédents familiaux d'autres maladies du système digestif
+Z84.0	antécédents familiaux de maladies de peau et tissu sous-cutané
+Z84.1	antécédents familiaux de troubles de rein et d'uretère
+Z84.2	antécédents familiaux d'autres maladies de système génito-urinaire
+Z84.3	antécédents familiaux de consanguinité
+Z84.81	antécédents familiaux de sujet porteur de maladie génétique
+Z84.89	antécédents familiaux d'autres affections spécifiées
+Z85.0	antécédent personnel de néoplasme malin d'organe digestif non spécifié
+Z85.1	antécédent personnel de néoplasme malin d'oesophage
+Z85.20	antécédent personnel de tumeur carcinoïde maligne d'estomac
+Z85.28	antécédent personnel d'autre néoplasme malin d'estomac
+Z85.30	antécédent personnel de tumeur carcinoïde maligne de gros intestin
+Z85.38	antécédent personnel d'autre néoplasme malin de gros intestin
+Z85.40	antécédent personnel de tumeur carcinoïde maligne de rectum
+Z85.48	antécédent personnel d'autre néoplasme malin de rectum, jonction recto-sigmoïdienne, et anus
+Z85.5	antécédent personnel de néoplasme malin de foie
+Z85.60	antécédent personnel de tumeur carcinoïde maligne d'intestin grêle
+Z85.68	antécédent personnel d'autre néoplasme malin d'intestin grêle
+Z85.7	antécédent personnel de néoplasme malin de pancréas
+Z85.9	antécédent personnel de néoplasme malin d'autres organes digestifs
+Z85.110	antécédent personnel de tumeur carcinoïde maligne de bronche et poumon
+Z85.118	antécédent personnel d'autre néoplasme malin de bronche et poumon
+Z85.12	antécédent personnel de néoplasme malin de trachée
+Z85.20	antécédent personnel de néoplasme malin d'organe respiratoire non spécifié
+Z85.21	antécédent personnel de néoplasme malin de larynx
+Z85.22	antécédent personnel de néoplasme malin d'oreille moyenne, fosses nasales et sinus
+Z85.230	antécédent personnel de tumeur carcinoïde maligne de thymus
+Z85.238	antécédent personnel d'autre néoplasme malin de thymus
+Z85.29	antécédent personnel de néoplasme malin d'autres organes respiratoires et intrathoraciques
+Z85.3	antécédent personnel de néoplasme malin de sein
+Z85.40	antécédent personnel de néoplasme malin d'organe génital féminin non spécifié
+Z85.41	antécédent personnel de néoplasme malin de col utérin
+Z85.42	antécédent personnel de néoplasme malin d'autres parties d'utérus
+Z85.43	antécédent personnel de néoplasme malin d'ovaire
+Z85.44	antécédent personnel de néoplasme malin d'autres organes génitaux féminins
+Z85.45	antécédent personnel de néoplasme malin d'organe génital masculin non spécifié
+Z85.46	antécédent personnel de néoplasme malin de prostate
+Z85.47	antécédent personnel de néoplasme malin de testicule
+Z85.48	antécédent personnel de néoplasme malin d'épididyme
+Z85.49	antécédent personnel de néoplasme malin d'autres organes génitaux masculins
+Z85.50	antécédent personnel de néoplasme malin d'organe non spécifié du tractus urinaire
+Z85.51	antécédent personnel de néoplasme malin de vessie
+Z85.520	antécédent personnel de tumeur carcinoïde maligne de rein
+Z85.528	antécédent personnel d'autre néoplasme malin de rein
+Z85.53	antécédent personnel de néoplasme malin du bassinet rénal
+Z85.54	antécédent personnel de néoplasme malin de l'uretère
+Z85.59	antécédent personnel de néoplasme malin d'autre organe du tractus urinaire
+Z85.6	antécédent personnel de leucémie
+Z85.71	antécédent personnel de lymphome hodgkinien
+Z85.72	antécédent personnel de lymphomes non-hodgkiniens
+Z85.79	antécédent personnel d'autres néoplasmes malins de tissus lymphoïde, hématopoïétique et apparentés
+Z85.810	antécédent personnel de néoplasme malin de langue
+Z85.818	antécédent personnel de néoplasme malin d'autres sites de lèvre, cavité buccale, et pharynx
+Z85.819	antécédent personnel de néoplasme malin de site non spécifié de lèvre, cavité buccale, et pharynx
+Z85.820	antécédent personnel de mélanome malin de peau
+Z85.821	antécédent personnel de carcinome à cellules de Merkel
+Z85.828	antécédent personnel d'autre néoplasme malin de peau
+Z85.830	antécédent personnel de néoplasme malin d'os
+Z85.831	antécédent personnel de néoplasme malin de tissus mous
+Z85.840	antécédent personnel de néoplasme malin d'oeil
+Z85.841	antécédent personnel de néoplasme malin de cerveau
+Z85.848	antécédent personnel de néoplasme malin d'autres parties de tissu nerveux
+Z85.850	antécédent personnel de néoplasme malin de thyroïde
+Z85.858	antécédent personnel de néoplasme malin d'autres glandes endocriniennes
+Z85.89	antécédent personnel de néoplasme malin d'autres organes et systèmes
+Z85.9	antécédent personnel de néoplasme malin, non spécifié
+Z86.0	antécédent personnel de néoplasme in situ de sein
+Z86.1	antécédent personnel de néoplasme in situ de col utérin
+Z86.8	antécédent personnel de néoplasme in situ d'autre site
+Z86.10	antécédent personnel de polypes de côlon
+Z86.11	antécédent personnel de néoplasme bénin de cerveau
+Z86.12	antécédent personnel de tumeur carcinoïde bénigne
+Z86.18	antécédent personnel d'autre néoplasme bénin
+Z86.3	antécédent personnel de néoplasme d'évolution imprévisible
+Z86.11	antécédent personnel de tuberculose
+Z86.12	antécédent personnel de poliomyélite
+Z86.13	antécédent personnel de paludisme
+Z86.14	antécédent personnel d'infection due à staphylocoque doré résistant à la méthicilline
+Z86.19	antécédent personnel d'autres maladies infectieuses et parasitaires
+Z86.2	antécédent personnel de maladies de sang et d'organes hématopoïétiques et de certains troubles du système immunitaire
+Z86.31	antécédent personnel d'ulcère de pied diabétique
+Z86.32	antécédent personnel de diabète gestationnel
+Z86.39	antécédent personnel d'autre maladie endocrinienne, nutritionnelle et métabolique
+Z86.51	antécédent personnel de combat en réaction au stress opérationnel
+Z86.59	antécédent personnel d'autres troubles mentaux et du comportement
+Z86.61	antécédent personnel de, infections de système nerveux
+Z86.69	antécédent personnel d'autres maladies du système nerveux et des organes sensoriels
+Z86.711	antécédent personnel d'embolie pulmonaire
+Z86.718	antécédent personnel d'autres thrombose veineuse et embolie
+Z86.72	antécédent personnel de thrombophlébite
+Z86.73	antécédent personnel de accident ischémique transitoire (TIA), et infarctus cérébral sans déficits résiduels
+Z86.74	antécédent personnel d'arrêt cardiaque soudain
+Z86.79	antécédent personnel d'autres maladies de système circulatoire
+Z87.1	antécédent personnel de pneumonie (récidivante)
+Z87.9	antécédent personnel d'autres maladies de système respiratoire
+Z87.11	antécédent personnel d'ulcère peptique
+Z87.19	antécédent personnel d'autres maladies du système digestif
+Z87.2	antécédent personnel de maladies de peau et tissu sous-cutané
+Z87.310	antécédent personnel de fracture ostéoporotique (guérie)
+Z87.311	antécédent personnel d'autre fracture pathologique (guérie)
+Z87.312	antécédent personnel de fracture de stress (guérie)
+Z87.39	antécédent personnel d'autres maladies de système musculosquelettique et tissu conjonctif
+Z87.410	antécédent personnel de dysplasie de col utérin
+Z87.411	antécédent personnel de dysplasie de vagin
+Z87.412	antécédent personnel de dysplasie de vulve
+Z87.42	antécédent personnel d'autres maladies du tractus génital féminin
+Z87.430	antécédent personnel de dysplasie de prostate
+Z87.438	antécédent personnel d'autres maladies d'organes génitaux masculins
+Z87.440	antécédent personnel d'infections (du tractus) urinaire
+Z87.441	antécédent personnel de syndrome néphrotique
+Z87.442	antécédent personnel de calcul urinaire
+Z87.448	antécédent personnel d'autres maladies de système urinaire
+Z87.51	antécédent personnel de travail avant terme
+Z87.59	antécédent personnel d'autres complications de grossesse, accouchement et puerpéralité
+Z87.710	antécédent personnel d'hypospadias (corrigé)
+Z87.718	antécédent personnel d'autres malformations congénitales spécifiées (corrigées) de système génito-urinaire
+Z87.720	antécédent personnel de malformations congénitales (corrigées) d'oil
+Z87.721	antécédent personnel de malformations congénitales (corrigées) d'oreille
+Z87.728	antécédent personnel de malformations congénitales spécifiées (corrigées) du système nerveux et organes sensoriels
+Z87.730	antécédent personnel de fente labiale et palatine (corrigée)
+Z87.738	antécédent personnel d'autres malformations congénitales spécifiées (corrigées) du système digestif
+Z87.74	antécédent personnel de malformations congénitales (corrigées) du cour et système circulatoire
+Z87.75	antécédent personnel de malformations congénitales (corrigées) du système respiratoire
+Z88.2	allergie aux sulfamides
+Z88.3	allergie à d'autres agents anti-infectieux
+Z88.4	allergie aux anesthésiques
+Z88.5	allergie aux narcotiques
+Z88.6	allergie aux analgésiques
+Z88.7	allergie aux sérum et vaccin
+Z88.8	allergie à d'autres médicaments et substances biologiques
+Z88.9	allergie à médicaments et substances biologiques non spécifiés
+Z89.11	absence acquise de pouce droit
+Z89.12	absence acquise de pouce gauche
+Z89.19	absence acquise de pouce non spécifié
+Z89.21	absence acquise de doigt(s) droit(s)
+Z89.22	absence acquise de doigt(s) gauche(s)
+Z89.29	absence acquise de doigt(s) non spécifié(s)
+Z89.111	absence acquise de main droite
+Z89.112	absence acquise de main gauche
+Z89.119	absence acquise de main non spécifiée
+Z89.121	absence acquise de poignet droit
+Z89.122	absence acquise de poignet gauche
+Z89.129	absence acquise de poignet non spécifié
+Z89.201	absence acquise de membre supérieur droit, niveau non spécifié
+Z89.202	absence acquise de membre supérieur gauche, niveau non spécifié
+Z89.209	absence acquise de membre supérieur non spécifié, niveau non spécifié
+Z89.211	absence acquise de membre supérieur droit en dessous de coude
+Z89.212	absence acquise de membre supérieur gauche en dessous de coude
+Z89.219	absence acquise de membre supérieur non spécifié, en dessous du coude
+Z89.221	absence acquise de membre supérieur droit, au-dessus du coude
+Z89.222	absence acquise de membre supérieur gauche, au-dessus du coude
+Z89.229	absence acquise de membre supérieur non spécifié, au-dessus du coude
+Z89.231	absence acquise d'épaule droite
+Z89.232	absence acquise d'épaule gauche
+Z89.239	absence acquise d'épaule non spécifiée
+Z89.411	absence acquise de gros orteil droit
+Z89.412	absence acquise de gros orteil gauche
+Z89.419	absence acquise de gros orteil non spécifié
+Z89.421	absence acquise d'autre(s) orteil(s) droit(s)
+Z89.422	absence acquise d'autre(s) orteil(s) gauche(s)
+Z89.429	absence acquise d'autre(s) orteil(s), côté non spécifié
+Z89.431	absence acquise de pied droit
+Z89.432	absence acquise de pied gauche
+Z89.439	absence acquise de pied non spécifié
+Z89.441	absence acquise de cheville droite
+Z89.442	absence acquise de cheville gauche
+Z89.449	absence acquise de cheville non spécifiée
+Z89.511	absence acquise de membre inférieur droit, en dessous du genou
+Z89.512	absence acquise de membre inférieur gauche, en dessous du genou
+Z89.519	absence acquise de membre inférieur non spécifié, en dessous du genou
+Z89.521	absence acquise de genou droit
+Z89.522	absence acquise de genou gauche
+Z89.529	absence acquise de genou non spécifié
+Z89.611	absence acquise de membre inférieur droit, au-dessus du genou
+Z89.612	absence acquise de membre inférieur gauche, au-dessus du genou
+Z89.619	absence acquise de membre inférieur non spécifié, au-dessus du genou
+Z89.621	absence acquise de l'articulation de la hanche droite
+Z89.622	absence acquise de l'articulation de la hanche gauche
+Z89.629	absence acquise de l'articulation de la hanche non spécifiée
+Z89.9	absence acquise de membre, non spécifié
+Z90.1	absence acquise d'oeil
+Z90.2	absence acquise de larynx
+Z90.9	absence acquise d'autre partie de tête et cou
+Z90.10	absence acquise de sein et mamelon non spécifiés
+Z90.11	absence acquise de sein et mamelon droits
+Z90.12	absence acquise de sein et mamelon gauches
+Z90.13	absence acquise de sein et mamelon bilatéraux
+Z90.2	absence acquise de poumon (ou partie de poumon)
+Z90.3	absence acquise d'estomac (ou partie d'estomac)
+Z90.410	absence complète acquise de pancréas
+Z90.411	absence partielle acquise de pancréas
+Z90.49	absence acquise d'autres parties spécifiées de système digestif
+Z90.5	absence acquise de rein
+Z90.6	absence acquise d'autres parties du tractus urinaire
+Z90.710	absence acquise simultanée de col utérin et d'utérus
+Z90.711	absence acquise d'utérus avec col restant
+Z90.712	absence acquise de col utérin avec utérus restant
+Z90.721	absence acquise d'ovaire, unilatéral
+Z90.722	absence acquise d'ovaires, bilatéral
+Z90.79	absence acquise d'autre(s) organe(s) génital(aux)
+Z90.81	absence acquise de rate
+Z90.89	absence acquise d'autres organes
+Z91.10	allergie aux arachides
+Z91.11	allergie aux produits laitiers
+Z91.12	allergie aux oeufs
+Z91.13	allergie aux fruits de mer
+Z91.18	allergie à d'autres alimentaires
+Z91.2	allergie aux additifs alimentaires
+Z91.30	allergie aux abeilles
+Z91.38	allergie à d'autres insectes
+Z91.40	allergie au latex
+Z91.41	allergie au colorant radiographique
+Z91.48	allergie à d'autres substances non médicinales
+Z91.9	allergie autre qu'aux médicaments et substances biologiques
+Z91.11	patient non docile au régime alimentaire
+Z91.120	sous-dosage médicamenteux volontaire par le patient, en raison de difficultés financières
+Z91.128	sous-dosage médicamenteux volontaire par le patient, pour autre raison
+Z91.130	sous-dosage médicamenteux involontaire par le patient, en raison de débilité liée à l'âge
+Z91.138	sous-dosage médicamenteux involontaire par le patient, pour autre raison
+Z91.14	autre non observance du patient au traitement médical
+Z91.15	patient non docile à la dialyse rénale
+Z91.19	non observance du patient à un autre traitement médical
+Z91.410	antécédent personnel de sévices sexuels et physiques d'adulte
+Z91.411	antécédent personnel d'abus psychologique d'adulte
+Z91.412	antécédent personnel de négligence d'adulte
+Z91.419	antécédent personnel d'abus non spécifié d'adulte
+Z91.49	autre antécédent personnel de trauma psychologique, non classé ailleurs
+Z91.5	antécédent personnel de lésion auto-infligée
+Z91.81	antécédents de chute
+Z91.82	antécédent personnel de déploiement militaire
+Z91.83	errer dans des maladies classées ailleurs
+Z91.89	autres facteurs de risque, non classés ailleurs
+Z92.0	antécédent personnel de contraception
+Z92.21	antécédent personnel de chimiothérapie antinéoplasique
+Z92.22	antécédent personnel de thérapie médicamenteuse monoclonale
+Z92.23	antécédent personnel d'oestrogénothérapie
+Z92.240	antécédent personnel de thérapie de stéroïdes inhalées
+Z92.241	antécédent personnel de thérapie de stéroïdes systémiques
+Z92.25	antécédent personnel de thérapie d'immunosuppresseurs
+Z92.29	antécédent personnel d'autre thérapie médicamenteuse
+Z92.3	antécédent personnel de rayonnements
+Z92.81	antécédent personnel d'oxygénation par membrane extracorporelle (ECMO)
+Z92.82	statut après administration de tPA (rtPA) dans un autre lieu,  dans les 24 dernières heures avant l'admission actuelle
+Z92.83	antécédent personnel d'échec de sédation modérée
+Z92.89	antécédent personnel d'autre traitement médical
+Z93.0	porteur de trachéostomie
+Z93.1	porteur de gastrostomie
+Z93.2	porteur d'iléostomie
+Z93.3	porteur de colostomie
+Z93.4	porteur d'autres stomies du tractus digestif
+Z93.50	porteur de cystostomie non spécifiée
+Z93.51	porteur de vésicostomie cutanée
+Z93.52	porteur d'appendico-vésicostomie
+Z93.59	porteur d'autre cystostomie
+Z93.6	porteur d'autres stomies du tractus urinaire
+Z93.8	porteur d'autre stomie
+Z93.9	porteur de stomie non spécifiée
+Z94.0	porteur de transplant de rein
+Z94.1	porteur de transplant de cour
+Z94.2	porteur de transplant de poumon
+Z94.3	porteur de transplant de coeur et poumon
+Z94.4	porteur de transplant de foie
+Z94.5	porteur de transplant de peau
+Z94.6	porteur de transplant d'os
+Z94.7	porteur de transplant de cornée
+Z94.81	porteur de transplant de moelle osseuse
+Z94.82	porteur de transplant d'intestin
+Z94.83	porteur de transplant de pancréas
+Z94.84	porteur de transplant de cellules souches
+Z94.89	porteur d'autre transplant d'organe et de tissu
+Z94.9	porteur de transplant d'organe et de tissu, non spécifiés
+Z95.0	présence de stimulateur cardiaque
+Z95.1	présence de pontage aortocoronaire
+Z95.2	présence de prothèse de valvule cardiaque
+Z95.3	présence de valvule cardiaque xénogénique
+Z95.4	présence d'autre valvule cardiaque de remplacement
+Z95.5	statut d'angioplastie coronaire (PTCA) avec implant ou greffe
+Z95.810	présence de défibrillateur cardiaque automatique (implantable)
+Z95.811	présence de dispositif d'assistance cardiaque
+Z95.812	présence de coeur artificiel complètement implantable
+Z95.818	présence d'autres implants et greffes cardiaques
+Z95.820	statut d'angioplastie périphérique (PTA) avec implants et greffe
+Z95.828	présence d'autres implants et greffes vasculaires
+Z95.9	présence d'implant et de greffe cardiaques et vasculaires, non spécifiée
+Z96.0	présence d'implants urogénitaux
+Z96.1	présence d'implant intraoculaire de cristallin
+Z96.20	présence d'implant otologique et audiologique, non spécifié
+Z96.21	porteur d'implant de cochléaire
+Z96.22	porteur de tube(s) de myringotomie [diabolo]
+Z96.29	présence d'autres implants otologiques et audiologiques
+Z96.3	présence de larynx artificiel
+Z96.41	présence de pompe à insuline (externe) (interne)
+Z96.49	présence d'autres implants endocriniens
+Z96.5	présence d'implants mandibulaires et dentaires
+Z96.60	présence d'implant articulaire, non spécifié
+Z96.611	présence d'articulation artificielle d'épaule droite
+Z96.612	présence d'articulation artificielle d'épaule gauche
+Z96.619	présence d'articulation artificielle d'épaule non spécifiée
+Z96.621	présence d'articulation artificielle de coude droit
+Z96.622	présence d'articulation artificielle de coude gauche
+Z96.629	présence d'articulation artificielle de coude non spécifié
+Z96.631	présence d'articulation artificielle de poignet droit
+Z96.632	présence d'articulation artificielle de poignet gauche
+Z96.639	présence d'articulation artificielle de poignet non spécifié
+Z96.641	présence d'articulation artificielle de hanche droite
+Z96.642	présence d'articulation artificielle de hanche gauche
+Z96.643	présence d'articulation artificielle de hanche, bilatéral
+Z96.649	présence d'articulation artificielle de hanche non spécifiée
+Z96.651	présence d'articulation artificielle de genou droit
+Z96.652	présence d'articulation artificielle de genou gauche
+Z96.653	présence d'articulation artificielle de genou, bilatéral
+Z96.659	présence d'articulation artificielle de genou non spécifié
+Z96.661	présence d'articulation artificielle de cheville droit
+Z96.662	présence d'articulation artificielle de cheville gauche
+Z96.669	présence d'articulation artificielle de cheville non spécifiée
+Z96.691	remplacement d'articulation de doigt de main droite
+Z96.692	remplacement d'articulation de doigt de main gauche
+Z96.693	remplacement d'articulation de doigt, bilatéral
+Z96.698	présence d'autres implants d'articulations orthopédiques
+Z96.7	présence d'autres implants osseux et tendineux
+Z96.81	présence de peau artificielle
+Z96.89	présence d'autres implants fonctionnels spécifiés
+Z96.9	présence d'implant fonctionnel, non spécifié
+Z97.0	présence d'oeil artificiel
+Z97.10	présence de membre artificiel (complet) (partiel), non spécifiée
+Z97.11	présence de membre artificiel supérieur droit (complet) (partiel)
+Z97.12	présence de membre artificiel supérieur gauche (complet) (partiel)
+Z97.13	présence de membre artificiel inférieur droit (complet) (partiel)
+Z97.14	présence de membre artificiel inférieur gauche (complet) (partiel)
+Z97.15	présence de membres artificiels supérieurs (complets) (partiels), bilatéral
+Z97.16	présence de membres artificiels inférieurs (complets) (partiels), bilatéral
+Z97.2	présence de prothèse dentaire (complète) (partielle)
+Z97.3	présence de lunettes et lentilles de contact
+Z97.4	présence d'appareil auditif externe
+Z97.5	présence dispositif contraceptif (intra-utérin) [stérilet]
+Z97.8	présence d'autres appareils spécifiés
+Z98.0	porteur de dérivation et anastomose intestinale
+Z98.1	porteur d'arthrodèse
+Z98.2	présence de matériel de drainage du liquide céphalo-rachidien
+Z98.3	statut d'effondrement de poumon post-thérapeutique
+Z98.41	statut d'extraction de cataracte, oeil droit
+Z98.42	statut d'extraction de cataracte, oeil gauche
+Z98.49	statut d'extraction de cataracte, oeil non spécifié
+Z98.51	statut de ligature des trompes
+Z98.52	statut de vasectomie
+Z98.61	statut d'angioplastie coronaire (PTCA)
+Z98.62	statut d'angioplastie vasculaire périphérique (PTA)
+Z98.810	porteur de scellement dentaire
+Z98.811	statut de restauration dentaire
+Z98.818	statut d'autre procédure dentaire
+Z98.82	porteur d'implant mammaire
+Z98.83	statut de soupape de filtration (vitré) après chirurgie de glaucome
+Z98.84	statut de chirurgie bariatrique
+Z98.85	statut d'enlèvement d'organe transplanté
+Z98.86	antécédent personnel d'enlèvement d'implant mammaire
+Z98.870	antécédent personnel de procédure in utero au cours de grossesse
+Z98.871	antécédent personnel de procédure in utero étant fotus
+Z98.89	autres états post-chirurgicaux spécifiés
+Z99.0	dépendance à l'aspirateur
+Z99.11	dépendance au respirateur [ventilateur]
+Z99.12	contact pour dépendance au respirateur [ventilateur] lors d'une panne de courant
+Z99.2	dépendance à la dialyse rénale
+Z99.3	dépendance au fauteuil roulant
+Z99.81	dépendance à l'oxygène supplémentaire
+Z99.89	dépendance à d'autres machines et appareils auxiliaires

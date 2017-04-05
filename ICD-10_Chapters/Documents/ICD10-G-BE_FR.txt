@@ -1,0 +1,670 @@
+G57.42	lésion du nerf sciatique poplité interne, membre inférieur gauche
+G57.50	syndrome du canal tarsien, membre inférieur non spécifié
+G57.51	syndrome du canal tarsien, membre inférieur droit
+G57.52	syndrome du canal tarsien, membre inférieur gauche
+G57.60	lésion du nerf plantaire, membre inférieur non spécifié
+G57.61	lésion du nerf plantaire, membre inférieur droit
+G57.62	lésion du nerf plantaire, membre inférieur gauche
+G00.0	méningite à Haemophilus
+G00.1	méningite à pneumocoques
+G00.2	méningite à streptocoques
+G00.3	méningite à staphylocoques
+G00.8	d'autres méningites bactériennes
+G00.9	méningite bactérienne, non spécifiée
+G01	méningite au cours de maladies bactériennes classées ailleurs
+G02	méningite au cours d'autres maladies infectieuses et parasitaires classées ailleurs
+G03.0	méningite à liquide clair
+G03.1	méningite chronique
+G03.2	méningite récurrente bénigne
+G03.2	méningite de Mollaret
+G03.8	méningite due à d'autres causes spécifiées
+G03.9	méningite, non spécifiée
+G04.0	encéphalite et encéphalomyélite disséminées
+G04.1	encéphalite et encéphalomyélite, disséminées, aiguës, post-infectieuses
+G04.2	encéphalites, myélites et encéphalomyélite, disséminées, aiguës, post-vaccinales
+G04.1	paraplégie spastique tropicale
+G04.2	méningo-encéphalite et méningomyélite bactériennes, non classées ailleurs
+G04.30	encéphalopathie hémorragique nécrosante aiguë, non spécifiée
+G04.31	encéphalopathie hémorragique nécrosante aiguë post-infectieuse
+G04.32	encéphalopathie hémorragique nécrosante aiguë post-vaccinale
+G04.39	autre encéphalopathie hémorragique nécrosante aiguë
+G04.81	autre forme d'encéphalite et encéphalomyélite
+G04.89	autre forme de myélite
+G04.90	encéphalite et encéphalomyélite, non spécifiées
+G04.91	myélite, non spécifiée
+G05.3	encéphalite et encéphalomyélite au cours de maladies classées ailleurs
+G05.4	myélite au cours de maladies classées ailleurs
+G06.0	abcès et granulome intracrâniens
+G06.1	abcès et granulome intrarachidiens
+G06.2	abcès extra-dural et sous-dural, non spécifié
+G07	abcès et granulome intracrâniens et intrarachidiens au cours de maladies classées ailleurs
+G08	phlébite et thrombophlébite intracrâniennes et intrarachidiennes
+G09	séquelles d'affections inflammatoires du système nerveux central
+G10	chorée de Huntington
+G11.0	ataxie congénitale non progressive
+G11.1	ataxie cérébelleuse à début précoce
+G11.2	ataxie cérébelleuse tardive
+G11.3	ataxie cérébelleuse avec un défaut de la réparation d'ADN
+G11.4	paraplégie spastique héréditaire
+G11.8	d'autres ataxies héréditaires
+G11.9	ataxie héréditaire, non spécifiée
+G12.0	amyotrophie spinale infantile, type 1
+G12.0	maladie de Werdnig-Hoffman
+G12.1	d'autres amyotrophies spinales héréditaires
+G12.20	maladies du neurone moteur, non spécifiées
+G12.21	sclérose latérale amyotrophique
+G12.22	paralysie bulbaire progressive
+G12.29	d'autres maladies du neurone moteur
+G12.8	d'autres amyotrophies spinales et des syndromes apparentés
+G12.9	amyotrophie spinale, non spécifiée
+G13.0	neuromyopathie et neuropathie paranéoplasiques
+G13.1	d'autres affections dégénératives systémiques affectant principalement le système nerveux central au cours de néoplasmes
+G13.2	d'autres affections dégénératives systémiques affectant principalement le système nerveux central au cours myxoedème
+G13.8	affections dégénératives systémiques affectant principalement le système nerveux central au cours d'autres maladies classées ailleurs
+G14	syndrome post-polio
+G20	maladie de Parkinson
+G21.0	syndrome malin des neuroleptiques
+G21.11	syndrome parkinsonien induit par des neuroleptiques
+G21.19	d'autres syndromes secondaires parkinsoniens dus à des médicaments
+G21.2	syndrome parkinsonien secondaire dû à d'autres agents externes
+G21.3	syndrome parkinsonien postencéphalitique
+G21.4	syndrome parkinsonien vasculaire
+G21.8	d'autres syndromes parkinsoniens secondaires
+G21.9	syndrome parkinsonien secondaire, non spécifié
+G23.0	maladie de Hallervorden-Spatz
+G23.1	ophtalmoplégie supranucléaire progressive
+G23.1	maladie de Steele-Richardson-Olszewski
+G23.2	dégénérescence striato-nigrique
+G23.2	dégénérescence nigrostriée
+G23.8	d'autres maladies dégénératives spécifiées des noyaux gris centraux
+G23.9	maladie dégénérative des noyaux gris centraux, non spécifiée
+G24.1	dyskinésie subaiguë induite par des médicaments
+G24.2	dystonie acute induite par des médicaments
+G24.9	autre dystonie induite par des médicaments
+G24.1	dystonie idiopathique familiale
+G24.2	dystonie idiopathique non familiale
+G24.3	torticolis spasmodique
+G24.4	dystonie bucco-faciale idiopathique
+G24.5	blépharospasme
+G24.8	d'autres dystonies
+G24.9	dystonie, non spécifiée
+G25.0	tremblement essentiel
+G25.1	tremblement dû à des médicaments
+G25.2	d'autres formes spécifiées de tremblement
+G25.3	myoclonie
+G25.4	chorée médicamenteuse
+G25.5	d'autres chorées
+G25.61	tics médicamenteux
+G25.69	d'autres tics d'origine organique
+G25.70	troubles de motricité induit par des médicaments, non spécifiés
+G25.71	acathésie induite par des médicaments
+G25.79	d'autres troubles de motricité
+G25.81	syndrome de jambes sans repos
+G25.81	syndrome des jambes sans repos
+G25.82	syndrome de homme raide
+G25.82	syndrome des homme raide
+G25.83	attaques bénignes de frissons
+G25.89	d'autres syndromes spécifiés extrapyramidaux et des troubles de la motricité
+G25.9	syndrome extrapyramidal et trouble de la motricité, non spécifiés
+G26	syndromes extrapyramidaux et des troubles de la motricité au cours de maladies classées ailleurs
+G30.0	maladie d'Alzheimer à début précoce
+G30.1	maladie d'Alzheimer à début tardif
+G30.8	d'autres formes de la maladie d'Alzheimer
+G30.9	maladie d'Alzheimer, non spécifiée
+G31.1	maladie de Pick
+G31.9	autre démence fronto-temporale
+G31.1	dégénérescence cérébrale sénile, non classée ailleurs
+G31.2	dégénérescence du système nerveux lié à l'alcool
+G31.81	dégénérescence de la substance grise
+G31.81	syndrome d'Alpers
+G31.82	encéphalopathie nécrosante subaiguë
+G31.82	syndrome de Leigh
+G31.83	démence à corps de Lewy
+G31.84	déficience cognitive légère, ainsi précisée
+G31.85	dégénération cortico-basale
+G31.89	d'autres affections dégénératives spécifiées du système nerveux
+G31.9	affection dégénérative du système nerveux, non spécifiée
+G32.0	dégénérescence combinée subaiguë de la moelle épinière au cours de maladies classées ailleurs
+G32.81	ataxie cérébelleuse au cours de maladies classées ailleurs
+G32.89	d'autres troubles dégénératifs spécifiés du système nerveux au cours de maladies classées ailleurs
+G35	sclérose en plaques
+G36.0	neuromyélite optique
+G36.0	maladie de Devic
+G36.1	leucoencéphalite hémorragique aiguë et subaiguë
+G36.1	maladie de Hurst
+G36.8	autre démyélinisation aiguë disséminée spécifiée
+G36.9	démyélinisation aiguë disséminée, non spécifiée
+G37.0	sclérose diffuse
+G37.1	démyélinisation centrale du corps calleux
+G37.2	myélinolyse centropontique
+G37.3	myélite transverse aiguë au cours d'affections démyélinisantes du système nerveux central
+G37.4	myélite nécrosante subaiguë
+G37.5	sclérose concentrique 
+C37.5	sclérose concentrique de Baló
+C37.5	maladie de Baló
+G37.8	d'autres affections démyélinisantes spécifiées du système nerveux central
+G37.9	affection démyélinisante du système nerveux central, non spécifiée
+G40.1	épilepsie et syndromes épileptiques idiopathiques définis par leur localisation avec des crises à début focal, sans mention d'épilepsie intraitable, avec l'état de mal épileptique
+G40.1	épilepsie et syndromes épileptiques idiopathiques focale avec des crises à début focal, sans mention d'épilepsie intraitable, avec l'état de mal épileptique
+G40.1	épilepsie et syndromes épileptiques idiopathiques partielle avec des crises à début focal, sans mention d'épilepsie intraitable, avec l'état de mal épileptique
+G40.9	épilepsie et syndromes épileptiques idiopathiques définis par leur localisation avec des crises à début focal, sans mention d'épilepsie intraitable, sans état de mal épileptique
+G40.9	épilepsie et syndromes épileptiques idiopathiques focale avec des crises à début focal, sans mention d'épilepsie intraitable, sans état de mal épileptique
+G40.9	épilepsie et syndromes épileptiques idiopathiques partielle avec des crises à début focal, sans mention d'épilepsie intraitable, sans état de mal épileptique
+G40.11	épilepsie et syndromes épileptiques idiopathiques définis par leur localisation avec des crises à début focal, avec mention d'épilepsie intraitable, avec l'état de mal épileptique
+G40.11	épilepsie et syndromes épileptiques idiopathiques focale avec des crises à début focal, avec mention d'épilepsie intraitable, avec l'état de mal épileptique
+G40.11	épilepsie et syndromes épileptiques idiopathiques partielle avec des crises à début focal, avec mention d'épilepsie intraitable, avec l'état de mal épileptique
+G40.19	épilepsie et syndromes épileptiques idiopathiques définis par leur localisation avec des crises à début focal, avec mention d'épilepsie intraitable, sans état de mal épileptique
+G40.19	épilepsie et syndromes épileptiques idiopathiques focale avec des crises à début focal, avec mention d'épilepsie intraitable, sans état de mal épileptique
+G40.19	épilepsie et syndromes épileptiques idiopathiques partielle avec des crises à début focal, avec mention d'épilepsie intraitable, sans état de mal épileptique
+G40.101	épilepsie et syndromes épileptiques symptomatiques définis par leur localisation avec des crises partielles simples, sans mention d'épilepsie intraitable, avec l'état de mal épileptique
+G40.101	épilepsie et syndromes épileptiques symptomatiques focale avec des crises partielles simples, sans mention d'épilepsie intraitable, avec l'état de mal épileptique
+G40.101	épilepsie et syndromes épileptiques symptomatiques partielle avec des crises partielles simples, sans mention d'épilepsie intraitable, avec l'état de mal épileptique
+G40.109	épilepsie et syndromes épileptiques symptomatiques définis par leur localisation avec des crises partielles simples, sans état de mal épileptique
+G40.109	épilepsie et syndromes épileptiques symptomatiques focale avec des crises partielles simples, sans état de mal épileptique
+G40.109	épilepsie et syndromes épileptiques symptomatiques partielle avec des crises partielles simples, sans état de mal épileptique
+G40.109	épilepsie et syndromes épileptiques symptomatiques définis par leur localisation avec des crises partielles simples, traitable, sans état de mal épileptique
+G40.109	épilepsie et syndromes épileptiques symptomatiques focale avec des crises partielles simples, traitable, sans état de mal épileptique
+G40.109	épilepsie et syndromes épileptiques symptomatiques partielle avec des crises partielles simples, traitable, sans état de mal épileptique
+G40.111	épilepsie et syndromes épileptiques symptomatiques définis par leur localisation avec des crises partielles simples, avec mention d'épilepsie intraitable, avec l'état de mal épileptique
+G40.111	épilepsie et syndromes épileptiques symptomatiques focale avec des crises partielles simples, avec mention d'épilepsie intraitable, avec l'état de mal épileptique
+G40.111	épilepsie et syndromes épileptiques symptomatiques partielle avec des crises partielles simples, avec mention d'épilepsie intraitable, avec l'état de mal épileptique
+G40.119	épilepsie et syndromes épileptiques symptomatiques définis par leur localisation avec des crises partielles simples, intraitable, sans état de mal épileptique
+G40.119	épilepsie et syndromes épileptiques symptomatiques focale avec des crises partielles simples, intraitable, sans état de mal épileptique
+G40.119	épilepsie et syndromes épileptiques symptomatiques partielle avec des crises partielles simples, intraitable, sans état de mal épileptique
+G40.201	épilepsie et syndromes épileptiques symptomatiques définis par leur localisation avec des crises complexes simples, avec l'état de mal épileptique
+G40.201	épilepsie et syndromes épileptiques symptomatiques focale avec des crises complexes simples, avec l'état de mal épileptique
+G40.201	épilepsie et syndromes épileptiques symptomatiques partielle avec des crises complexes simples, avec l'état de mal épileptique
+G40.201	épilepsie et syndromes épileptiques symptomatiques définis par leur localisation avec des crises complexes simples, traitable, avec l'état de mal épileptique
+G40.201	épilepsie et syndromes épileptiques symptomatiques focale avec des crises complexes simples, traitable, avec l'état de mal épileptique
+G40.201	épilepsie et syndromes épileptiques symptomatiques partielle avec des crises complexes simples, traitable, avec l'état de mal épileptique
+G40.209	épilepsie et syndromes épileptiques symptomatiques définis par leur localisation avec des crises complexes simples, sans état de mal épileptique
+G40.209	épilepsie et syndromes épileptiques symptomatiques focale avec des crises complexes simples, sans état de mal épileptique
+G40.209	épilepsie et syndromes épileptiques symptomatiques partielle avec des crises complexes simples, sans état de mal épileptique
+G40.209	épilepsie et syndromes épileptiques symptomatiques définis par leur localisation avec des crises complexes simples, traitable, sans état de mal épileptique
+G40.209	épilepsie et syndromes épileptiques symptomatiques focale avec des crises complexes simples, traitable, sans état de mal épileptique
+G40.209	épilepsie et syndromes épileptiques symptomatiques partielle avec des crises complexes simples, traitable, sans état de mal épileptique
+G40.211	épilepsie et syndromes épileptiques symptomatiques définis par leur localisation avec des crises complexes simples, intraitable, avec l'état de mal épileptique
+G40.211	épilepsie et syndromes épileptiques symptomatiques focale avec des crises complexes simples, intraitable, avec l'état de mal épileptique
+G40.211	épilepsie et syndromes épileptiques symptomatiques partielle avec des crises complexes simples, intraitable, avec l'état de mal épileptique
+G40.219	épilepsie et syndromes épileptiques symptomatiques définis par leur localisation avec des crises complexes simples, intraitable, sans état de mal épileptique
+G40.219	épilepsie et syndromes épileptiques symptomatiques focale avec des crises complexes simples, intraitable, sans état de mal épileptique
+G40.219	épilepsie et syndromes épileptiques symptomatiques partielle avec des crises complexes simples, intraitable, sans état de mal épileptique
+G40.301	épilepsie et syndromes épileptiques généralisés idiopathiques, sans mention d'épilepsie intraitable, avec l'état de mal épileptique
+G40.309	épilepsie et syndromes épileptiques généralisés idiopathiques, sans mention d'épilepsie intraitable, sans état de mal épileptique
+G40.311	épilepsie et syndromes épileptiques généralisés idiopathiques, intraitable, avec l'état de mal épileptique
+G40.319	épilepsie et syndromes épileptiques généralisés idiopathiques, intraitable, sans état de mal épileptique
+G40.401	d'autres épilepsies et syndromes épileptiques généralisés, avec l'état de mal épileptique
+G40.401	d'autres épilepsies et syndromes épileptiques généralisés, traitable, avec l'état de mal épileptique
+G40.409	d'autres épilepsies et syndromes épileptiques généralisés, sans état de mal épileptique
+G40.409	d'autres épilepsies et syndromes épileptiques généralisés, traitable, sans état de mal épileptique
+G40.411	d'autres épilepsies et syndromes épileptiques généralisés, intraitable, avec l'état de mal épileptique
+G40.419	d'autres épilepsies et syndromes épileptiques généralisés, intraitable, sans état de mal épileptique
+G40.501	crises épileptiques apparentées à des causes extérieures,  avec l'état de mal épileptique
+G40.501	crises épileptiques apparentées à des causes extérieures, traitable, avec l'état de mal épileptique
+G40.509	crises épileptiques apparentées à des causes extérieures,  sans l'état de mal épileptique
+G40.509	crises épileptiques apparentées à des causes extérieures, traitable, sans l'état de mal épileptique
+G40.801	d'autres épilepsies, avec l'état de mal épileptique
+G40.801	d'autres épilepsies, traitable, avec l'état de mal épileptique
+G40.802	d'autres épilepsies, sans état de mal épileptique
+G40.802	d'autres épilepsies, traitable, sans état de mal épileptique
+G40.803	d'autres épilepsies, intraitable, avec l'état de mal épileptique
+G40.804	d'autres épilepsies, intraitable, sans état de mal épileptique
+G40.811	syndrome de Lennox-Gastaut, avec l'état de mal épileptique
+G40.811	syndrome de Lennox-Gastaut, traitable, avec l'état de mal épileptique
+G40.812	syndrome de Lennox-Gastaut, sans état de mal épileptique
+G40.812	syndrome de Lennox-Gastaut, traitable, sans état de mal épileptique
+G40.813	syndrome de Lennox-Gastaut, intraitable, avec l'état de mal épileptique
+G40.814	syndrome de Lennox-Gastaut, intraitable, sans état de mal épileptique
+G40.821	spasmes épileptiques, avec l'état de mal épileptique
+G40.821	spasmes épileptiques, traitable, avec l'état de mal épileptique
+G40.822	spasmes épileptiques, sans état de mal épileptique
+G40.822	spasmes épileptiques, traitable, sans état de mal épileptique
+G40.823	spasmes épileptiques, intraitable, avec l'état de mal épileptique
+G40.824	spasmes épileptiques, intraitable, sans état de mal épileptique
+G40.89	d'autres crises épileptiques
+G40.901	épilepsie, non spécifiée, avec l'état de mal épileptique
+G40.901	épilepsie, non spécifiée, traitable, avec l'état de mal épileptique
+G40.909	épilepsie, non spécifiée, traitable, sans état de mal épileptique
+G40.911	épilepsie, non spécifiée, intraitable, avec l'état de mal épileptique
+G40.919	épilepsie, non spécifiée, intraitable, sans état de mal épileptique
+G40.A01	syndrome d'épilepsy-absences, traitable, avec l'état de mal épileptique
+G40.A09	syndrome d'épilepsy-absences, traitable, sans état de mal épileptique
+G40.A11	syndrome d'épilepsy-absences, intraitable, avec l'état de mal épileptique
+G40.A19	syndrome d'épilepsy-absences, intraitable, sans état de mal épileptique
+G40.B01	épilepsie myoclonique juvénile, traitable, avec l'état de mal épileptique
+G40.B09	épilepsie myoclonique juvénile, traitable, sans l'état de mal épileptique
+G40.B11	épilepsie myoclonique juvénile, intraitable, avec l'état de mal épileptique
+G40.B19	épilepsie myoclonique juvénile, intraitable, sans état de mal épileptique
+G43.1	migraine sans aura, non intraitable, avec l'état de mal migraineux
+G43.9	migraine sans aura, non intraitable, sans état de mal migraineux
+G43.11	migraine sans aura, intraitable, avec l'état de mal migraineux
+G43.19	migraine sans aura, intraitable, sans état de mal migraineux
+G43.101	migraine avec aura, non intraitable, avec l'état de mal migraineux
+G43.109	migraine avec aura, non intraitable, sans état de mal migraineux
+G43.111	migraine avec aura, intraitable, avec l'état de mal migraineux
+G43.119	migraine avec aura, intraitable, sans état de mal migraineux
+G43.401	migraine hémiplégique, non intraitable, avec l'état de mal migraineux
+G43.409	migraine hémiplégique, non intraitable, sans état de mal migraineux
+G43.411	migraine hémiplégique, intraitable, avec l'état de mal migraineux
+G43.419	migraine hémiplégique, intraitable, sans état de mal migraineux
+G43.501	migraine aura persistante sans infarctus cérébral, non intraitable, avec l'état de mal migraineux
+G43.509	migraine aura persistante sans infarctus cérébral, non intraitable, sans état de mal migraineux
+G43.511	migraine aura persistante sans infarctus cérébral, intraitable, avec l'état de mal migraineux
+G43.519	migraine aura persistante sans infarctus cérébral, intraitable, sans état de mal migraineux
+G43.601	migraine aura persistante avec infarctus cérébral, non intraitable, avec l'état de mal migraineux
+G43.609	migraine aura persistante avec infarctus cérébral, non intraitable, sans état de mal migraineux
+G43.611	migraine aura persistante avec infarctus cérébral, intraitable, avec l'état de mal migraineux
+G43.619	migraine aura persistante avec infarctus cérébral, intraitable, sans état de mal migraineux
+G43.701	migraine chronique sans aura, non intraitable, avec l'état de mal migraineux
+G43.709	migraine chronique sans aura, non intraitable, sans état de mal migraineux
+G43.711	migraine chronique sans aura, intraitable, avec l'état de mal migraineux
+G43.719	migraine chronique sans aura, intraitable, sans état de mal migraineux
+G43.801	d'autres migraines, non intraitable, avec l'état de mal migraineux
+G43.809	d'autres migraines, non intraitable, sans état de mal migraineux
+G43.811	d'autres migraines, intraitable, avec l'état de mal migraineux
+G43.819	d'autres migraines, intraitable, sans état de mal migraineux
+G43.821	migraine menstruelle, non intraitable, avec status migrainosus
+G43.829	migraine menstruelle, non intraitable, sans status migrainosus
+G43.831	migraine menstruelle, intraitable, avec status migrainosus
+G43.839	migraine menstruelle, intraitable, sans status migrainosus
+G43.901	migraine, non spécifiée, non intraitable, avec l'état de mal migraineux
+G43.909	migraine, non spécifiée, non intraitable, sans état de mal migraineux
+G43.911	migraine, non spécifiée, intraitable, avec l'état de mal migraineux
+G43.919	migraine, non spécifiée, intraitable, sans état de mal migraineux
+G43.A0	vomissement cyclique, non intraitable
+G43.A1	vomissement cyclique, intraitable
+G43.B0	migraine ophtalmique, non intraitable
+G43.B1	migraine ophtalmique, intraitable
+G43.C0	syndrome de migraine périodique, non intraitable
+G43.C1	syndrome de migraine périodique, intraitable
+G43.D0	migraine abdominale, non intraitable
+G43.D1	migraine abdominale, intraitable
+G44.1	syndrome d'algie vasculaire de la face, non spécifié, intraitable
+G44.9	syndrome d'algie vasculaire de la face, non spécifié, non intraitable
+G44.11	algie vasculaire de la face épisodique, intraitable
+G44.19	algie vasculaire de la face épisodique, non intraitable
+G44.21	algie vasculaire de la face chronique, intraitable
+G44.29	algie vasculaire de la face chronique, non intraitable
+G44.31	hémicrânie paroxystique épisodique, intraitable
+G44.39	hémicrânie paroxystique épisodique, non intraitable
+G44.41	hémicrânie paroxystique chronique, intraitable
+G44.49	hémicrânie paroxystique chronique, non intraitable
+G44.51	céphalée névralgique unilatérale brève avec injection conjonctivale et larmoiement, intraitable
+G44.59	céphalée névralgique unilatérale brève avec injection conjonctivale et larmoiement, non intraitable
+G44.91	d'autres céphalalgies autonomes du trijumeau, intraitable
+G44.99	d'autres céphalalgies autonomes du trijumeau, non intraitable
+G44.1	céphalée vasculaire, non classée ailleurs
+G44.201	céphalée dite de tension, non spécifiée, intraitable
+G44.209	céphalée dite de tension, non spécifiée, non intraitable
+G44.211	céphalée de tension épisodique, intraitable
+G44.219	céphalée de tension épisodique, non intraitable
+G44.221	céphalée chronique dite de tension, intraitable
+G44.229	céphalée chronique dite de tension, non intraitable
+G44.301	céphalée post-traumatique, non spécifiée, intraitable
+G44.309	céphalée post-traumatique, non spécifiée, non intraitable
+G44.311	céphalée aiguë post-traumatique, intraitable
+G44.319	céphalée aiguë post-traumatique, non intraitable
+G44.321	céphalée chronique post-traumatique, intraitable
+G44.329	céphalée chronique post-traumatique, non intraitable
+G44.40	céphalée induite par des médicaments, non classée ailleurs, non intraitable
+G44.41	céphalée induite par des médicaments, non classée ailleurs, intraitable
+G44.51	hémicrânie continue
+G44.52	céphalées soudaines quotidiennes
+G44.53	céphalées en coup de tonnerre primaire
+G44.59	d'autres syndromes précisés d'algies céphaliques
+G44.81	céphalée hypnique
+G44.82	céphalée sexuelle primaire
+G44.83	céphalée primaire liée à la toux
+G44.84	céphalées primaires à l'effort
+G44.85	céphalée primaire en coup de poignard
+G44.89	d'autres syndromes d'algies céphaliques
+G45.0	syndrome vertébro-basilaire
+G45.1	syndrome carotidien
+G45.1	syndrome carotidien hémisphérique
+G45.2	accident ischémique transitoire de territoires artériels précérébraux multiples et bilatéraux
+G45.3	amaurose fugace
+G45.4	amnésie globale transitoire
+G45.8	d'autres accidents ischémiques cérébraux transitoires et des syndromes apparentés
+G45.9	accident ischémique cérébral transitoire, non spécifié
+G46.0	syndrome de l'artère cérébrale moyenne
+G46.1	syndrome de l'artère cérébrale antérieure
+G46.2	syndrome de l'artère cérébrale postérieure
+G46.3	syndromes vasculaires du tronc cérébral
+G46.4	syndrome cérébelleux vasculaire
+G46.5	syndrome lacunaire moteur pur
+G46.6	syndrome lacunaire sensitif pur
+G46.7	d'autres syndromes lacunaires
+G46.8	d'autres syndromes vasculaires cérébraux au cours de maladies cérébrovasculaires
+G47.0	insomnie, non spécifiée
+G47.1	insomnie due à une affection médicale
+G47.9	autre insomnie
+G47.10	hypersomnie, non spécifiée
+G47.11	hypersomnie idiopathique avec long temps de sommeil
+G47.12	hypersomnie idiopathique sans long temps de sommeil
+G47.13	hypersomnie récurrente
+G47.14	hypersomnie due à une affection médicale
+G47.19	autre hypersomnie
+G47.20	trouble du rythme circadien du sommeil, non spécifié
+G47.21	trouble du rythme circadien du sommeil, type de retard de phase
+G47.22	trouble du rythme circadien du sommeil, type d'avance de phase
+G47.23	trouble du rythme circadien du sommeil, type de veille-sommeil irrégulier
+G47.24	trouble du rythme circadien du sommeil, type free running
+G47.25	trouble du rythme circadien du sommeil dû à un décalage horaire
+G47.26	trouble du rythme circadien du sommeil dû à quart de travail
+G47.27	trouble du rythme circadien du sommeil au cours d'affections classées ailleurs
+G47.29	autre trouble du rythme circadien du sommeil
+G47.30	apnée du sommeil, non spécifiée
+G47.31	apnée primaire du sommeil centrale
+G47.32	respiration périodique de haute altitude
+G47.33	apnée du sommeil obstructive
+G47.33	apnée du sommeil obstructive adulte
+G47.33	apnée du sommeil obstructive enfant
+G47.34	hypoventilation alvéolaire non obstructive idiopathique au cours du sommeil
+G47.35	syndrome d'hypoventilation alvéolaire central congénital
+G47.36	hypoventilation liées au sommeil au cours d'affections classées ailleurs
+G47.37	apnée du sommeil centrale au cours d'affections classées ailleurs
+G47.39	d'autres formes d'apnée du sommeil
+G47.411	narcolepsie avec cataplexie
+G47.419	narcolepsie sans cataplexie
+G47.421	narcolepsie au cours d'affections classées ailleurs avec cataplexie
+G47.429	narcolepsie au cours d'affections classées ailleurs sans cataplexie
+G47.50	parasomnie, non spécifiée
+G47.51	éveils confusionnels
+G47.52	trouble comportemental en sommeil paradoxal
+G47.53	paralysie du sommeil isolée récurrente
+G47.54	parasomnie au cours d'affections classées ailleurs
+G47.59	autre parasomnie
+G47.61	trouble des mouvements périodiques des membres
+G47.62	crampes dans les membre inférieurs liées au sommeil
+G47.63	bruxisme du sommeil
+G47.69	d'autres troubles du mouvement liés au sommeil
+G47.8	d'autres troubles du sommeil
+G47.9	trouble du sommeil, non spécifié
+G50.0	névralgie du trijumeau
+G50.1	algie faciale atypique
+G50.8	d'autres troubles du nerf trijumeau
+G50.9	trouble du nerf trijumeau, non spécifié
+G51.0	paralysie de Bell
+G51.1	atteinte du ganglion géniculé
+G51.2	syndrome de Melkersson-Rosenthal
+G51.3	hémispasme facial clonique
+G51.4	myokymies faciales
+G51.8	d'autres troubles du nerf facial
+G51.9	trouble du nerf facial, non spécifié
+G52.0	troubles du nerf olfactif
+G52.1	troubles du nerf glossopharyngien
+G52.2	troubles du nerf vagal
+G52.3	troubles du nerf grand hypoglosse
+G52.7	troubles de plusieurs nerfs crâniens
+G52.8	troubles d'autres nerfs crâniens spécifiés
+G52.9	trouble des nerfs crâniens, non spécifié
+G53	troubles des nerfs crâniens au cours de maladies classées ailleurs
+G54.0	troubles du plexus brachial
+G54.1	troubles du plexus lombo-sacré
+G54.2	troubles radiculaires cervicaux, non classées ailleurs
+G54.3	troubles radiculaires thoraciques, non classées ailleurs
+G54.4	troubles radiculaires lombo-sacrés, non classées ailleurs
+G54.5	névralgie amyotrophique
+G54.6	syndrome douloureux d'un membre fantôme
+G54.7	syndrome du membre fantôme sans élément douloureux
+G54.8	d'autres troubles des racines et des plexus nerveux
+G54.9	trouble des racines et des plexus nerveux, non spécifié
+G55	compression des racines et des plexus nerveux au cours de maladies classées ailleurs
+G56.0	syndrome du canal carpien, membre supérieur non spécifié
+G56.1	syndrome du canal carpien, membre supérieur droit
+G56.2	syndrome du canal carpien, membre supérieur gauche
+G56.10	d'autres lésions du nerf médial, membre supérieur non spécifié
+G56.11	d'autres lésions du nerf médial, membre supérieur droit
+G56.12	d'autres lésions du nerf médial, membre supérieur gauche
+G56.20	lésion du nerf cubital, membre supérieur non spécifié
+G56.21	lésion du nerf cubital, membre supérieur droit
+G56.22	lésion du nerf cubital, membre supérieur gauche
+G56.30	lésion du nerf radial, membre supérieur non spécifié
+G56.31	lésion du nerf radial, membre supérieur droit
+G56.32	lésion du nerf radial, membre supérieur gauche
+G56.40	causalgie d'un membre supérieur non spécifié
+G56.41	causalgie du membre supérieur droit
+G56.42	causalgie du membre supérieur gauche
+G56.80	d'autres mononévrites d'un membre supérieur non spécifié
+G56.81	d'autres mononévrites du membre supérieur droit
+G56.82	d'autres mononévrites du membre supérieur gauche
+G56.90	mononévrite non spécifiée d'un membre supérieur non spécifié
+G56.91	mononévrite non spécifiée du membre supérieur droit
+G56.92	mononévrite non spécifiée du membre supérieur gauche
+G57.0	lésion du nerf sciatique, membre inférieur non spécifié
+G57.1	lésion du nerf sciatique, membre inférieur droit
+G57.2	lésion du nerf sciatique, membre inférieur gauche
+G57.10	méralgie paresthésique, membre inférieur non spécifié
+G57.11	méralgie paresthésique, membre inférieur droit
+G57.12	méralgie paresthésique, membre inférieur gauche
+G57.20	lésion du nerf fémoral, membre inférieur non spécifié
+G57.21	lésion du nerf fémoral, membre inférieur droit
+G57.22	lésion du nerf fémoral, membre inférieur gauche
+G57.30	lésion du nerf sciatique poplité externe, membre inférieur non spécifié
+G57.31	lésion du nerf sciatique poplité externe, membre inférieur droit
+G57.32	lésion du nerf sciatique poplité externe, membre inférieur gauche
+G57.40	lésion du nerf sciatique poplité interne, membre inférieur non spécifié
+G57.41	lésion du nerf sciatique poplité interne, membre inférieur droit
+G57.70	causalgie du membre inférieur non spécifié
+G57.71	causalgie du membre inférieur droit
+G57.72	causalgie du membre inférieur gauche
+G57.80	d'autres mononévrites du membre inférieur non spécifié
+G57.81	d'autres mononévrites du membre inférieur droit
+G57.82	d'autres mononévrites du membre inférieur gauche
+G57.90	mononévrite non spécifiée du membre inférieur non spécifié
+G57.91	mononévrite non spécifiée du membre inférieur droit
+G57.92	mononévrite non spécifiée du membre inférieur gauche
+G58.0	névrite intercostale
+G58.7	mononévrite de sièges multiples
+G58.8	d'autres mononévrites spécifiées
+G58.9	mononévrite, non spécifiée
+G59	mononévrite au cours de maladies classées ailleurs
+G60.0	neuropathie héréditaire motrice et sensorielle
+G60.1	maladie de Refsum
+G60.2	neuropathie associée à une ataxie héréditaire
+G60.3	neuropathie progressive idiopathique
+G60.8	d'autres neuropathies héréditaires et idiopathiques
+G60.9	neuropathie héréditaire et idiopathique, non spécifiée
+G61.0	syndrome de Guillain-Barré
+G61.1	neuropathie sérique
+G61.81	polynévrite démyélinisante inflammatoire chronique
+G61.89	d'autres polynévrites inflammatoires
+G61.9	polynévrite inflammatoire, non spécifiée
+G62.0	polynévrite médicamenteuse
+G62.1	polynévrite alcoolique
+G62.2	polynévrite due à d'autres agents toxiques
+G62.81	polyneuropathie du type Critical illness
+G62.82	polynévrite dû à l'irradiation
+G62.89	d'autres polynévrite
+G62.9	polynévrite, non spécifiée
+G63	polynévrite au cours de maladies classées ailleurs
+G64	d'autres troubles du système nerveux périphérique
+G65.0	séquelles du syndrome de Guillain-Barré
+G65.1	séquelles d'autres polynévrites inflammatoires
+G65.2	séquelles de polyneuropathie toxique
+G70.0	myasthénie sans exacerbation
+G70.0	myasthénie sans exacerbation aiguë
+G70.1	myasthénie avec exacerbation
+G70.1	myasthénie avec exacerbation aiguë
+G70.1	troubles neuromusculaires toxiques
+G70.2	myasthénie congénitale
+G70.2	myasthénie au cours du développement
+G70.80	syndrome de Lambert-Eaton, non spécifié
+G70.81	syndrome de Lambert-Eaton, dans des maladies classées ailleurs
+G70.89	d'autres troubles neuromusculaires spécifiées
+G70.9	trouble neuromusculaire, non spécifié
+G71.0	dystrophie musculaire
+G71.11	dystrophie myotonique
+G71.12	myotonie congénitale
+G71.13	myotonie chondrodystrophique
+G71.14	myotonie médicamenteuse
+G71.19	d'autres troubles myotoniques
+G71.2	myopathies congénitales
+G71.3	myopathie mitochondriale, non classée ailleurs
+G71.8	d'autres troubles musculaires primitifs
+G71.9	trouble musculaire primitif, non spécifié
+G72.0	myopathie médicamenteuse
+G72.1	myopathie alcoolique
+G72.2	myopathie due à d'autres agents toxiques
+G72.3	paralysies périodiques
+G72.41	myosite à corps d'inclusion
+G72.41	inclusion body myositis
+G72.41	IBM
+G72.49	d'autres myopathies inflammatoires et immunes, non classée ailleurs
+G72.81	myopathie du type Critical illness
+G72.89	d'autres myopathies spécifiées
+G72.9	myopathie, non spécifiée
+G73.1	syndrome de Lambert-Eaton dans des maladies néoplasiques
+G73.3	syndrome myasthénique au cours d'autres maladies classées ailleurs
+G73.7	myopathie au cours d'autres maladies classées ailleurs
+G80.0	paralysie cérébrale spastique
+G80.1	diplégie spastique
+G80.2	hémiplégie infantile
+G80.3	paralysie cérébrale dyskinétique
+G80.4	paralysie cérébrale ataxique
+G80.8	d'autres paralysies cérébrales infantiles
+G80.9	paralysie cérébrale infantile, non spécifiée
+G81.0	hémiplégie flasque affectant un côté non spécifié
+G81.1	hémiplégie flasque affectant le côté droit dominant
+G81.2	hémiplégie flasque affectant le côté gauche dominant
+G81.3	hémiplégie flasque affectant le côté droit non-dominant
+G81.4	hémiplégie flasque affectant le côté gauche non-dominant
+G81.10	hémiplégie spastique affectant un côté non spécifié
+G81.11	hémiplégie spastique affectant le côté droit dominant
+G81.12	hémiplégie spastique affectant le côté gauche dominant
+G81.13	hémiplégie spastique affectant le côté droit non-dominant
+G81.14	hémiplégie spastique affectante le côté gauche non-dominant
+G81.90	hémiplégie, non spécifiée, affectant un côté non spécifié
+G81.91	hémiplégie, non spécifiée, affectant le côté droit dominant
+G81.92	hémiplégie, non spécifiée, affectant le côté gauche dominant
+G81.93	hémiplégie, non spécifiée, affectant le côté droit non-dominant
+G81.94	hémiplégie, non spécifiée, affectant le côté gauche non-dominant
+G82.20	paraplégie, non spécifiée
+G82.21	paraplégie, complète
+G82.22	paraplégie, incomplète
+G82.50	quadriplégie, non spécifiée
+G82.51	quadriplégie, C1-C4 complète
+G82.52	quadriplégie, C1-C4 incomplète
+G82.53	quadriplégie, C5-C7 complète
+G82.54	quadriplégie, C5-C7 incomplète
+G83.0	diplégie des membres supérieurs
+G83.10	monoplégie du membre inférieur, affectant un côté non spécifié
+G83.11	monoplégie du membre inférieur, affectant le côté droit dominant
+G83.12	monoplégie du membre inférieur, affectant le côté gauche dominant
+G83.13	monoplégie du membre inférieur, affectant le côté droit non-dominant
+G83.14	monoplégie du membre inférieur, affectant le côté gauche non-dominant
+G83.20	monoplégie du membre supérieur, affectant un côté non spécifié
+G83.21	monoplégie du membre supérieur, affectant le côté droit dominant
+G83.22	monoplégie du membre supérieur, affectant le côté gauche dominant
+G83.23	monoplégie du membre supérieur, affectant le côté droit non-dominant
+G83.24	monoplégie du membre supérieur, affectant le côté gauche non-dominant
+G83.30	monoplégie, non spécifiée affectant un côté non spécifié
+G83.31	monoplégie, non spécifiée affectant le côté droit dominant
+G83.32	monoplégie, non spécifiée affectant le côté gauche dominant
+G83.33	monoplégie, non spécifiée affectant le côté droit non-dominant
+G83.34	monoplégie, non spécifiée affectant le côté gauche non-dominant
+G83.4	syndrome de la queue de cheval
+G83.5	syndrome de verrouillage
+G83.5	locked-in syndrome
+G83.81	syndrome de Brown-Séquard
+G83.82	syndrome de cordon antérieur
+G83.83	syndrome de cordon postérieur
+G83.84	paralysie de Todd
+G83.84	paralysie de Todd post-critique
+G83.84	paralysie de Todd post-épileptique
+G83.89	d'autres syndromes paralytiques
+G83.9	syndrome paralytique, non spécifié
+G89.0	syndrome de douleur centrale
+G89.11	douleur aiguë due au traumatisme
+G89.12	douleur aiguë post-thoracotomie
+G89.18	autre douleur aiguë postprocédurale
+G89.21	douleur chronique due au traumatisme
+G89.22	douleur chronique post-thoracotomie
+G89.28	autre douleur chronique postprocédurale
+G89.29	autre douleur chronique
+G89.3	douleur liée au néoplasme 
+G89.3	douleur liée au néoplasme aigu
+G89.3	douleur liée au néoplasme chronique
+G89.4	syndrome de douleur chronique
+G90.1	syncope par hyperexcitabilité du sinus carotidien
+G90.9	autre neuropathie autonome périphérique idiopathique
+G90.1	dysautonomie familiale 
+G90.1	syndrome de Riley-Day
+G90.2	syndrome de Claude Bernard-Horner
+G90.3	dégénérescence disséminée
+G90.4	dysréflexie autonome
+G90.50	syndrome douloureux régional complexe du type I, non spécifié
+G90.511	syndrome douloureux régional complexe du type I, membre supérieur droit
+G90.512	syndrome douloureux régional complexe du type I, membre supérieur gauche
+G90.513	syndrome douloureux régional complexe du type I, membre supérieur, bilatéral
+G90.519	syndrome douloureux régional complexe du type I, membre supérieur non spécifié
+G90.521	syndrome douloureux régional complexe du type I, membre inférieur droit
+G90.522	syndrome douloureux régional complexe du type I, membre inférieur gauche
+G90.523	syndrome douloureux régional complexe du type I, membre inférieur, bilatéral
+G90.529	syndrome douloureux régional complexe du type I, membre inférieur non spécifié
+G90.59	syndrome douloureux régional complexe du type I, autre site
+G90.8	d'autres troubles du système nerveux autonome
+G90.9	trouble du système nerveux autonome, non spécifié
+G91.0	hydrocéphalie communicante
+G91.1	hydrocéphalie obstructive
+G91.1	hydrocéphalie obstructive non communicante
+G91.2	hydrocéphalie à pression normale
+G91.3	hydrocéphalie post-traumatique, non spécifiée
+G91.4	hydrocéphalie au cours de maladies classées ailleurs
+G91.8	d'autres hydrocéphalies
+G91.9	hydrocéphalie, non spécifiée
+G92	encéphalopathie toxique
+G93.0	kystes cérébraux
+G93.1	lésion cérébrale anoxique, non classée ailleurs
+G93.2	hypertension intracrânienne bénigne
+G93.3	syndrome de fatigue post-virale
+G93.40	encéphalopathie, non spécifiée
+G93.41	encéphalopathie métabole
+G93.49	autre encéphalopathie
+G93.5	compression de l'encéphale
+G93.6	oedème cérébral
+G93.7	syndrome de Reye
+G93.81	sclérose temporale
+G93.82	mort cérébrale
+G93.89	d'autres troubles de l'encéphale
+G93.9	trouble de l'encéphale, non spécifié
+G94	d'autres troubles de l'encéphale au cours de maladies classées ailleurs
+G95.0	syringomyélie et syringobulbie
+G95.11	infarctus aigu de la moelle épinière
+G95.11	infarctus aigu de la moelle épinière embolique
+G95.11	infarctus aigu de la moelle épinière non embolique
+G95.19	d'autres myélopathies vasculaires
+G95.20	compression médullaire, non spécifiée
+G95.29	autre compression médullaire
+G95.81	syndrome du cône médullaire
+G95.89	d'autres affections de la moelle épinière
+G95.9	affection de la moelle épinière, non spécifiée
+G96.0	écoulement du liquide céphalorachidien
+G96.11	brèche durale
+G96.12	adhérences méningées
+G96.12	adhérences méningées cérébrales
+G96.12	adhérences méningées rachidiennes
+G96.19	d'autres troubles des méninges, non classés ailleurs
+G96.8	d'autres troubles spécifiés du système nerveux central
+G96.9	trouble du système nerveux central, non spécifié
+G97.0	écoulement du liquide céphalorachidien après une rachicentèse
+G97.1	autre réaction secondaire à une rachicentèse
+G97.2	hypotension intracrânienne suite au pontage ventriculaire
+G97.31	hémorragie peropératoire et hématome d'un organe ou d'une structure du système nerveux avec complication pour une procédure du système nerveux
+G97.32	hémorragie peropératoire et hématome d'un organe ou d'une structure du système nerveux avec complication pour une autre procédure
+G97.41	ponction ou lacération accidentelle de la dure-mère au cours d'une procédure
+G97.48	ponction ou lacération accidentelle d'un organe du système nerveux au cours d'une procédure du système nerveux
+G97.49	ponction ou lacération accidentelle d'un organe du système nerveux au cours d'une autre procédure
+G97.51	hémorragie postprocédurale et hématome d'un organe du système nerveux suite d'une procédure sur le système nerveux
+G97.52	hémorragie postprocédurale et hématome d'un organe du système nerveux suite d'une procédure
+G97.48	ponction ou lacération accidentelle d'une structure du système nerveux au cours d'une procédure du système nerveux
+G97.49	ponction ou lacération accidentelle d'une structure du système nerveux au cours d'une autre procédure
+G97.51	hémorragie postprocédurale et hématome d'une structure du système nerveux suite d'une procédure sur le système nerveux
+G97.52	hémorragie postprocédurale et hématome d'une structure du système nerveux suite d'une procédure
+G97.81	d'autres complications peropératoires du système nerveux
+G97.82	d'autres complications et troubles du système nerveux après une procédure
+G98.0	arthrite neurogène, non classée ailleurs
+G98.8	autre affection du système nerveux
+G99.0	neuropathie du système nerveux autonome au cours de maladies endocriniennes et métaboliques
+G99.2	myélopathies au cours de maladies classées ailleurs
+G99.8	d'autres troubles spécifiés du système nerveux au cours de maladies classées ailleurs

@@ -1,0 +1,307 @@
+A04.7	entérocolite à Clostridium difficile
+A41.51	septicémie à Escherichia coli
+A41.51	septicémie à E. coli
+A41.9	septicémie, organisme non spécifiée
+B18.1	hépatite virale chronique B sans agent delta
+B37.49	candidose d'autres localisations uro-génitales
+B37.81	oesophagite à Candida
+B95.2	entérocoques, groupe D, cause de maladies classées ailleurs
+B96.1	klebsiella pneumoniae, cause de maladies classées ailleurs
+B96.1	subsp. pneumoniae, cause de maladies classées ailleurs
+B96.20	escherichia coli non spécifié, cause de maladies classées ailleurs
+B96.20	E. coli non spécifié, cause de maladies classées ailleurs
+B96.5	pseudomonas, cause de maladies classées ailleurs
+B96.5	P. aeruginosa, cause de maladies classées ailleurs
+B96.5	P. mallei, cause de maladies classées ailleurs
+B96.5	P. pseudomallei, cause de maladies classées ailleurs
+B96.81	helicobacter pylori,  cause de maladies classées ailleurs
+B96.81	H. pylori,  cause de maladies classées ailleurs
+B96.89	d'autres agents bactériens spécifiés, cause de maladies classées ailleurs
+C18.7	néoplasme malin du côlon sigmoïde
+C22.9	néoplasme malin du foie, non spécifié si primaire ou secondaire
+C56.1	néoplasme malin de l'ovaire droit
+C61	néoplasme malin de la prostate
+D32.0	néoplasme bénin des méninges cérébrales
+D47.2	gammapathie monoclonale
+D50.9	anémie par carence en fer, non spécifiée
+D64.89	autre anémie spécifiée
+D64.9	anémie, non spécifiée
+D68.4	carence acquise en facteur de la coagulation
+D69.59	autre thrombocytopénie secondaire
+D86.9	sarcoïdose, non spécifiée
+E03.2	hypothyroïdie due à des médicaments et à d'autres substances exogènes
+E03.9	hypothyroïdie, non spécifiée
+E05.20	hyperthyroïdie avec goitre multinodulaire toxique sans crise thyrotoxique
+E07.9	trouble de la thyroïde, non spécifié
+E11.21	diabète sucré du type 2 avec néphropathie diabétique
+E11.42	diabète sucré du type 2 avec polyneuropathie diabétique
+E11.65	diabète sucré du type 2 avec hyperglycémie
+E11.9	diabète sucré du type 2 sans complications
+E16.2	hypoglycémie, non spécifiée
+E43	malnutrition protéino-calorique sévère, non spécifiée
+E44.0	malnutrition protéino-calorique moyenne
+E46	malnutrition protéino-calorique, non spécifiée
+E55.9	carence en vitamine D, non spécifiée
+E66.1	obésite morbide due à un excès de calories
+E66.1	obésite sévère due à un excès de calories
+E66.1	obésite morbide sévère due à un excès de calories
+E66.9	obésité, non spécifiée
+E78.0	hypercholestérolémie essentielle
+E78.5	hyperlipidémie, non spécifiée
+E79.0	hyperuricémie sans signes d'arthrite inflammatoire et de maladie tophacée
+E83.51	hypocalcémie
+E86.0	déshydratation
+E87.0	hyperosmolalité et hypernatrémie
+E87.1	hypoosmolalité et hyponatrémie
+E87.2	acidose
+E87.6	hypokaliémie
+E87.8	d'autres troubles hydro-électrolytiques, non classés ailleurs
+E89.0	hypothyroïdie après une procédure
+F01.51	démence vasculaire avec des troubles du comportement
+F02.80	démence au cours d'autres maladies classées ailleurs sans troubles du comportement
+F02.81	démence au cours d'autres maladies classées ailleurs avec des troubles du comportement
+F05	delirium dû à une affection physiologique connue
+F06.0	trouble psychotique avec des hallucinations dû à une affection physiologique connue
+F10.21	dépendance à l'alcool, en rémission
+F22	troubles délirants persistants
+F31.9	trouble affectif bipolaire, non spécifié
+F33.9	trouble dépressif récurrent, non spécifié
+F41.1	trouble d'anxiété généralisée
+F91.9	trouble du comportement, non spécifié
+G20	maladie de Parkinson
+G23.1	ophtalmoplégie supranucléaire progressive
+G23.1	maladie de Steele-Richardson-Olszewski
+G24.1	dyskinésie subaiguë induite par des médicaments
+G25.9	syndrome extrapyramidal et trouble de la motricité, non spécifiés
+G30.9	maladie d'Alzheimer, non spécifiée
+G31.83	démence à corps de Lewy
+G62.0	polynévrite médicamenteuse
+G62.1	polynévrite alcoolique
+G62.81	polyneuropathie du type  Critical illness
+G80.9	paralysie cérébrale infantile, non spécifiée
+H40.9	glaucome, non spécifié
+I07.1	insuffisance tricuspidienne rhumatismale
+I10	hypertension essentielle
+I10	hypertension primitive
+I10	hypertension essentielle primitive
+I11.0	cardiopathie hypertensive, avec défaillance cardiaque
+I11.0	cardiopathie hypertensive, avec défaillance cardiaque congestive
+I11.9	cardiopathie hypertensive, sans défaillance cardiaque congestive
+I12.9	néphropathie hypertensive chronique avec néphropathie hypertensive chronique stade 1
+I12.9	néphropathie hypertensive chronique avec néphropathie hypertensive chronique stade 2
+I12.9	néphropathie hypertensive chronique avec néphropathie hypertensive chronique stade 3
+I12.9	néphropathie hypertensive chronique avec néphropathie hypertensive chronique stade 4
+I12.9	néphropathie chronique non spécifiée
+I20.1	angine de poitrine avec un spasme coronaire vérifié
+I20.9	angine de poitrine, non spécifiée
+I25.5	myocardiopathie ischémique
+I35.0	sténose non rhumatismale aortique
+I35.0	sténose non rhumatismale de la valvule aortique
+I42.0	myocardiopathie avec dilatation
+I43	myocardiopathie au cours de maladies classées ailleurs
+I44.0	bloc auriculo-ventriculaire du premier degré
+I46.2	arrêt cardiaque, dû à une maladie cardiaque sous-jacente
+I46.8	arrêt cardiaque, dû à une autre maladie sous-jacente
+I48.0	fibrillation auriculaire paroxysmale
+I48.2	fibrillation auriculaire chronique
+I48.91	fibrillation auriculaire non spécifiée
+I50.1	défaillance ventriculaire gauche
+I50.40	défaillance cardiaque mixte systolique et diastolique, non spécifiée
+I50.40	défaillance cardiaque congestive mixte systolique et diastolique, non spécifiée
+I50.9	défaillance cardiaque, non spécifiée
+I65.21	occlusion et sténose de l'artère carotide droite
+I67.4	encéphalopathie hypertensive
+I69.354	hémiplégie et hémiparésie après un infarctus cérébral affectant le côté non-dominant gauche
+I71.4	anévrisme aortique abdominal, sans mention de rupture
+I77.810	ectasie aortique thoracique
+I81	thrombose de la veine porte
+I86.8	varices d'autres localisations spécifiées
+I87.2	insuffisance veineuse
+I87.2	insuffisance veineuse chronique
+I87.2	insuffisance veineuse périphérique
+I87.2	insuffisance veineuse chronique périphérique
+I87.313	hypertension veineuse chronique avec un ulcère de l'extrémité inférieure, bilatérale
+I87.313	hypertension veineuse chronique idiopathique avec un ulcère de l'extrémité inférieure, bilatérale
+I95.2	hypotension médicamenteuse
+I95.89	d'autres formes de hypotension
+I95.9	hypotension, non spécifiée
+J18.0	bronchopneumonie à germe non spécifié
+J39.2	autres maladies du pharynx
+J40	bronchite, non spécifiée comme aiguë ou chronique
+J44.0	broncho-pneumopathie chronique obstructive avec une infection aiguë des voies respiratoires inférieures
+J44.1	broncho-pneumopathie chronique obstructive avec une exacerbation
+J44.1	broncho-pneumopathie chronique obstructive avec une exacerbation aiguë
+J44.9	broncho-pneumopathie chronique obstructive, sans précision
+J45.909	asthme non spécifié, non compliqué
+J69.0	pneumonie due à l'inhalation d'aliments ou de  vomissements
+J80	syndrome de détresse respiratoire aiguë
+J90	épanchement pleural, non classé ailleurs
+J96.1	insuffisance respiratoire aiguë avec une hypoxie
+J98.8	autres affections respiratoires spécifiées
+K21.0	reflux gastro-oesophagien avec oesophagite
+K21.9	reflux gastro-oesophagien sans oesophagite
+K22.10	ulcère non hémorragique de l'oesophage
+K25.9	ulcère gastrique non spécifié comme étant aigu ou chronique, sans hémorragie ni perforation
+K26.9	ulcère duodénal non spécifié comme étant aigu ou chronique, sans hémorragie ni perforation
+K29.50	gastrite chronique, non spécifiée, sans hémorragie
+K31.0	dilatation aiguë de l'estomac
+K40.90	hernie inguinale unilatérale, sans obstruction ni gangrène, non spécifiée comme recurrente
+K44.9	hernie diaphragmatique, sans obstruction ni gangrène
+K56.41	impaction fécale
+K56.5	adhérences de l'intestin, avec obstruction
+K56.5	adhérences de l'intestin brides, avec obstruction
+K56.5	adhérences de l'intestin, avec obstruction après une procédure
+K56.5	adhérences de l'intestin brides, avec obstruction après une procédure
+K56.5	adhérences de l'intestin, avec obstruction après une infection
+K56.5	adhérences de l'intestin brides, avec obstruction après une infection
+K56.69	autre obstruction intestinale
+K56.7	iléus, non spécifié
+K57.30	diverticulose du gros intestin, sans perforation ni abcès, sans hémorragie
+K59.9	autre constipation
+K64.9	hémorroïdes non spécifiés
+K65.0	péritonite généralisée
+K65.0	péritonite généralisée aiguë
+K70.31	cirrhose hépatique alcoolique avec ascite
+K72.0	défaillance hépatique aiguë et subaiguë sans coma
+K72.11	défaillance hépatique chronique avec coma
+K74.60	cirrhose non spécifiée
+K74.60	cirrhose du foie non spécifiée
+K76.7	syndrome hépatorénal
+K80.20	calcul de la vésicule biliaire sans cholécystite, sans obstruction
+L40.9	psoriasis, non spécifié
+L97.902	ulcère chronique, non dû à la pression, d'une partie non spécifiée d'une jambe non spécifiée, avec l'exposition du tissu graisseux
+M11.261	autre chondrocalcinose, genou droit
+M15.9	polyarthrose, non spécifiée
+M16.12	coxarthrose primaire unilatérale, hanche gauche
+M17.0	gonarthrose primaire bilatérale du genou
+M21.61	déformation en valgus, non classée ailleurs, genou droit
+M21.62	déformation en valgus, non classée ailleurs, genou gauche
+M25.552	douleur de la hanche gauche
+M47.812	spondylarthrose sans myélopathie ou radiculopathie, région cervicale
+M47.816	spondylarthrose sans myélopathie ou radiculopathie, région lombaire
+M48.6	rétrécissement du canal médulaire, région lombaire
+M51.16	atteintes d'un disque intervertébral avec radiculopathie, région lombaire
+M51.36	autre dégénéresence d'un disque vertébral, région lombaire
+M54.5	lombalgie basse
+M62.50	fonte et atrophie musculaires, non classées ailleurs, site non spécifié
+M66.811	rupture spontanée d'autres tendons, épaule droite
+M75.31	tendinite calcifiante de l'épaule droite
+M81.0	ostéoporose liée à l'âge sans fracture pathologique récente
+N10	néphrite tubulo-interstitielle aiguë
+N17.9	insuffisance rénale aiguë non spécifiée
+N18.4	néphropathie chronique, stade 4
+N18.4	néphropathie chronique sévère
+N18.4	néphropathie chronique, stade 4 sévère
+N19	insuffisance rénale non spécifiée
+N28.9	affection rénale et urétérale, non spécifiée
+N30.90	cystite sans hématurie, non spécifiée
+N31.2	vessie neuropathique flasque, non classée ailleurs
+N31.2	vessie neuropathique flasque périphérique, non classée ailleurs
+N39.0	infection du tractus urinaire, site non spécifié
+N39.46	incontinence urinaire mixte
+Q82.0	lymphoedème héréditaire
+R00.1	bradycardie, non spécifiée
+R04.0	épistaxis
+R06.6	hoquet
+R10.9	douleur abdominale non spécifiée
+R11.13	vomissement fécaloïde
+R13.0	aphagie
+R13.10	dysphagie, non spécifiée
+R14.0	distension abdominale
+R14.0	distension abdominale gazeux
+R15.9	incontinence fécale totale
+R19.7	diarrhée, non spécifiée
+R26.89	d'autres anormalités de la démarche et de la mobilité
+R29.6	chutes répétées
+R31.0	hématurie macroscopique
+R32	incontinence urinaire, non spécifiée
+R33.8	autre rétention urinaire
+R33.9	rétention urinaire, non spécifiée
+R41.0	désorientation, non spécifiée
+R41.81	altération de la fonction cognitive liée à l'âge
+R41.843	déficit psychomoteur
+R42	étourdissements et éblouissements
+R45.3	découragement et apathie
+R46.0	hygiène personnelle très faible
+R47.2	dysphasie
+R49.0	dysphonie
+R53.1	faiblesse
+R53.2	quadriplégie fonctionnelle
+R63.0	anorexie
+R63.4	perte de poids anormale
+R64	cachexie
+R65.21	sepsis sévère avec un choc septique
+R69	maladie non spécifiée
+R73.9	autre glucose anormal
+R73.9	hyperglycémie, non spécifiée
+S72.345A	fracture spiroïde de la diaphyse du fémur gauche sans déplacement, contact initial pour une fracture fermée
+T38.0X5A	réaction secondaire aux glucocorticoïdes et analogues synthétiques, contact initial
+T40.2X5A	réaction secondaire aux d'autres opioïdes, contact initial
+T43.4X5A	réaction secondaire aux neuroleptiques du type butyrophénone et thioxanthène, contact initial
+T44.7X5A	réaction secondaire aux bêtabloquants, contact initial
+T45.1X5S	réaction secondaire aux médicaments antitumoraux et immunosuppresseurs, séquelle
+T46.2X5A	réaction secondaire aux d'autres antiarythmisants, contact initial
+T46.5X5A	réaction secondaire aux d'autres antihypertenseurs, contact initial
+T47.3X6A	sous-dosage en laxatifs salins et osmotiques, contact initial
+T68.XXXA	hypothermie, contact initial
+T79.5XXA	anurie traumatique, contact initial
+T79.6XXA	ischémie traumatique d'un muscle, contact initial
+T81.32XA	rupture d'une plaie opératoire interne, non classée ailleurs, contact initial
+T81.32XA	rupture d'une plaie opératoire chirurgicale interne, non classée ailleurs, contact initial
+T81.4XXA	infection suite à une procédure, contact initial
+T83.51XA	infection et réaction inflammatoire dues à un cathéter urinaire constant, contact initial
+T84.051A	ostéolyse périprothétique d'une prothèse articulaire interne de la hanche gauche, contact initial
+W19.XXXA	chute non spécifiée, contact initial
+Y73.1	incidents liés à des matériels de la gastro-entérologie et de l'urologie pour un traitement et une revalidation
+Y73.1	incidents liés à des matériels de la gastro-entérologie et de l'urologie pour un traitement non chirurgical et une revalidation
+Y84.6	sondage urinaire à l'origine d'une réaction anormale du patient ou d'une complication ultérieure, sans mention d'un accident en cours de la procédure
+Y92.9	lieu d'occurrence de la cause externe : une pièce non spécifiée d'une résidence non-institutionnelle non spécifiée
+Y92.9	lieu d'occurrence de la cause externe : une pièce non spécifiée d'une résidence non-institutionnelle privée non spécifiée
+Y92.39	lieu d'occurrence de la cause externe : un endroit non spécifié d'un appartement
+Y92.199	lieu d'occurrence de la cause externe : un endroit non spécifié d'une autre institution résidentielle spécifiée
+Y92.239	lieu d'occurrence de la cause externe : un endroit non spécifié d'un hôpital
+Z16.10	résistance aux bêta-lactamines non spécifiés
+Z22.322	porteur ou porteur suspect de staphylocoque doré résistant à la méthicilline
+Z48.811	contact pour suite de soins chirurgicale après chirurgie du système nerveux
+Z59.3	problèmes liés à la vie en institution résidentielle
+Z60.2	problèmes liés à la solitude
+Z68.30	indice de masse corporelle 30,0 à 30.9 , adulte
+Z68.34	indice de masse corporelle 34,0 à 34.9 , adulte
+Z68.35	indice de masse corporelle 35,0 à 35.9 , adulte
+Z68.36	indice de masse corporelle 36,0 à 36.9 , adulte
+Z68.30	IMC 30,0 à 30.9 , adulte
+Z68.34	IMC 34,0 à 34.9 , adulte
+Z68.35	IMC 35,0 à 35.9 , adulte
+Z68.36	IMC 36,0 à 36.9 , adulte
+Z74.1	grabataire
+Z75.1	personne en attente d'admission dans un établissement adéquat
+Z76.3	personne en bonne santé accompagnant une personne malade
+Z79.1	utilisation à long terme d'anticoagulants
+Z79.4	utilisation à long terme d'insuline
+Z79.82	utilisation à long terme d'aspirine
+Z79.899	autre utilisation à long terme de médicaments
+Z79.1	utilisation à long terme en cours d'anticoagulants
+Z79.4	utilisation à long terme en cours d'insuline
+Z79.82	utilisation à long terme en cours d'aspirine
+Z79.899	autre utilisation à long terme en cours de médicaments
+Z85.3	antécédent personnel de néoplasme malin de sein
+Z85.72	antécédent personnel de lymphomes non-hodgkiniens
+Z85.828	antécédent personnel d'autre néoplasme malin de peau
+Z86.711	antécédent personnel d'embolie pulmonaire
+Z86.72	antécédent personnel de thrombophlébite
+Z87.11	antécédent personnel d'ulcère peptique
+Z88.6	allergie aux analgésiques
+Z90.81	absence acquise de rate
+Z91.41	allergie au colorant radiographique
+Z91.19	non observance du patient à un autre traitement médical
+Z91.81	antécédents de chute
+Z95.0	présence de stimulateur cardiaque
+Z95.5	statut d'angioplastie coronaire avec implant
+Z95.5	statut d'angioplastie coronaire avec greffe
+Z95.5	PTCA avec implant
+Z95.5	PTCA avec greffe
+Z96.641	présence d'articulation artificielle de hanche droite
+Z96.642	présence d'articulation artificielle de hanche gauche
+Z96.653	présence d'articulation artificielle de genou, bilatéral
+Z98.61	statut d'angioplastie coronaire
+Z98.61	PTCA

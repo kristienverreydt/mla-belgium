@@ -1,0 +1,1527 @@
+M1A.4611	autre goutte chronique secondaire, genou droit, avec tophus 
+M1A.4620	autre goutte chronique secondaire, genou gauche, sans tophus 
+M61.72	myosite ossifiante traumatique, cheville et pied gauches
+M61.79	myosite ossifiante traumatique, cheville et pied non spécifiés
+M61.8	myosite ossifiante traumatique, autre site
+M61.9	myosite ossifiante traumatique, multiples sites
+M61.10	myosite ossifiante progressive, site non spécifié
+M61.111	myosite ossifiante progressive, épaule droite
+M61.112	myosite ossifiante progressive, épaule gauche
+M61.119	myosite ossifiante progressive, épaule non spécifiée
+M61.121	myosite ossifiante progressive, bras droit
+M61.122	myosite ossifiante progressive, bras gauche
+M61.129	myosite ossifiante progressive, membre supérieur non spécifié
+M61.131	myosite ossifiante progressive, avant-bras droit
+M61.132	myosite ossifiante progressive, avant-bras gauche
+M61.139	myosite ossifiante progressive, avant-bras non spécifié
+M61.141	myosite ossifiante progressive, main droite
+M61.142	myosite ossifiante progressive, main gauche
+M61.143	myosite ossifiante progressive, main non spécifiée
+M61.144	myosite ossifiante progressive, doigt(s) droit(s)
+M61.145	myosite ossifiante progressive, doigt(s) gauche(s)
+M61.146	myosite ossifiante progressive, doigt(s) non spécifié(s)
+M61.151	myosite ossifiante progressive, cuisse droite
+M61.152	myosite ossifiante progressive, cuisse gauche
+M61.159	myosite ossifiante progressive, cuisse non spécifiée
+M61.161	myosite ossifiante progressive, jambe droite
+M61.162	myosite ossifiante progressive, jambe gauche
+M61.169	myosite ossifiante progressive, jambe non spécifiée
+M61.171	myosite ossifiante progressive, cheville droite
+M61.172	myosite ossifiante progressive, cheville gauche
+M61.173	myosite ossifiante progressive, cheville non spécifiée
+M61.174	myosite ossifiante progressive, pied droit
+M61.175	myosite ossifiante progressive, pied gauche
+M61.176	myosite ossifiante progressive, pied non spécifié
+M61.177	myosite ossifiante progressive, orteil(s) droit(s)
+M61.178	myosite ossifiante progressive, orteil(s) gauche(s)
+M61.179	myosite ossifiante progressive, orteil(s) non spécifié(s)
+M61.18	myosite ossifiante progressive, autre site
+M61.19	myosite ossifiante progressive, multiples sites
+M61.20	calcification et ossification paralytiques d'un muscle, site non spécifié
+M61.211	calcification et ossification paralytiques d'un muscle, épaule droite
+M61.212	calcification et ossification paralytiques d'un muscle, épaule gauche
+M61.219	calcification et ossification paralytiques d'un muscle, épaule non spécifiée
+M61.221	calcification et ossification paralytiques d'un muscle, bras droit
+M61.222	calcification et ossification paralytiques d'un muscle, bras gauche
+M61.229	calcification et ossification paralytiques d'un muscle, bras non spécifié
+M61.231	calcification et ossification paralytiques d'un muscle, avant-bras droit
+M61.232	calcification et ossification paralytiques d'un muscle, avant-bras gauche
+M61.239	calcification et ossification paralytiques d'un muscle, avant-bras non spécifié
+M61.241	calcification et ossification paralytiques d'un muscle, main droite
+M61.242	calcification et ossification paralytiques d'un muscle, main gauche
+M61.249	calcification et ossification paralytiques d'un muscle, main non spécifiée
+M61.251	calcification et ossification paralytiques d'un muscle, cuisse droite
+M61.252	calcification et ossification paralytiques d'un muscle, cuisse gauche
+M61.259	calcification et ossification paralytiques d'un muscle, cuisse non spécifiée
+M61.261	calcification et ossification paralytiques d'un muscle, jambe droite
+M61.262	calcification et ossification paralytiques d'un muscle, jambe gauche
+M61.269	calcification et ossification paralytiques d'un muscle, jambe non spécifiée
+M61.271	calcification et ossification paralytiques d'un muscle, cheville et pied droits
+M61.272	calcification et ossification paralytiques d'un muscle, cheville et pied gauches
+M61.279	calcification et ossification paralytiques d'un muscle, cheville et pied non spécifiés
+M61.28	calcification et ossification paralytiques d'un muscle, autre site
+M61.29	calcification et ossification paralytiques d'un muscle, multiples sites
+M61.30	calcification et ossification des muscles associées à des brûlures, site non spécifié
+M61.311	calcification et ossification des muscles associées à des brûlures, épaule droite
+M61.312	calcification et ossification des muscles associées à des brûlures, épaule gauche
+M61.319	calcification et ossification des muscles associées à des brûlures, épaule non spécifiée
+M61.321	calcification et ossification des muscles associées à des brûlures, bras droit
+M61.322	calcification et ossification des muscles associées à des brûlures, bras gauche
+M61.329	calcification et ossification des muscles associées à des brûlures, bras non spécifié
+M61.331	calcification et ossification des muscles associées à des brûlures, avant-bras droit
+M61.332	calcification et ossification des muscles associées à des brûlures, avant-bras gauche
+M61.339	calcification et ossification des muscles associées à des brûlures, avant-bras non spécifié
+M61.341	calcification et ossification des muscles associées à des brûlures, main droite
+M61.342	calcification et ossification des muscles associées à des brûlures, main gauche
+M61.349	calcification et ossification des muscles associées à des brûlures, main non spécifiée
+M61.351	calcification et ossification des muscles associées à des brûlures, cuisse droite
+M61.352	calcification et ossification des muscles associées à des brûlures, cuisse gauche
+M61.359	calcification et ossification des muscles associées à des brûlures, cuisse non spécifiée
+M61.361	calcification et ossification des muscles associées à des brûlures, jambe droite
+M61.362	calcification et ossification des muscles associées à des brûlures, jambe gauche
+M61.369	calcification et ossification des muscles associées à des brûlures, jambe non spécifiée
+M61.371	calcification et ossification des muscles associées à des brûlures, cheville et pied droits
+M61.372	calcification et ossification des muscles associées à des brûlures, cheville et pied gauches
+M61.379	calcification et ossification des muscles associées à des brûlures, cheville et pied non spécifiés
+M61.38	calcification et ossification des muscles associées à des brûlures, autre site
+M61.39	calcification et ossification des muscles associées à des brûlures, multiples sites
+M61.40	autre calcification d'un muscle, site non spécifié
+M61.411	autre calcification d'un muscle, épaule droite
+M61.412	autre calcification d'un muscle, épaule gauche
+M61.419	autre calcification d'un muscle, épaule non spécifiée
+M61.421	autre calcification d'un muscle, bras droit
+M61.422	autre calcification d'un muscle, bras gauche
+M61.429	autre calcification d'un muscle, bras non spécifié
+M61.431	autre calcification d'un muscle, avant-bras droit
+M61.432	autre calcification d'un muscle, avant-bras gauche
+M61.439	autre calcification d'un muscle, avant-bras non spécifié
+M61.441	autre calcification d'un muscle, main droite
+M61.442	autre calcification d'un muscle, main gauche
+M61.449	autre calcification d'un muscle, main non spécifiée
+M61.451	autre calcification d'un muscle, cuisse droite
+M61.452	autre calcification d'un muscle, cuisse gauche
+M61.459	autre calcification d'un muscle, cuisse non spécifiée
+M61.461	autre calcification d'un muscle, jambe droite
+M61.462	autre calcification d'un muscle, jambe gauche
+M61.469	autre calcification d'un muscle, jambe non spécifiée
+M61.471	autre calcification d'un muscle, cheville et pied droits
+M61.472	autre calcification d'un muscle, cheville et pied gauches
+M61.479	autre calcification d'un muscle, cheville et pied non spécifiés
+M61.48	autre calcification d'un muscle, autre site
+M61.49	autre calcification d'un muscle, multiples sites
+M61.50	autre ossification d'un muscle, site non spécifié
+M61.511	autre ossification d'un muscle, épaule droite
+M61.512	autre ossification d'un muscle, épaule gauche
+M61.519	autre ossification d'un muscle, épaule non spécifiée
+M61.521	autre ossification d'un muscle, bras droit
+M61.522	autre ossification d'un muscle, bras gauche
+M61.529	autre ossification d'un muscle, bras non spécifié
+M61.531	autre ossification d'un muscle, avant-bras droit
+M61.532	autre ossification d'un muscle, avant-bras gauche
+M61.539	autre ossification d'un muscle, avant-bras non spécifié
+M61.541	autre ossification d'un muscle, main droite
+M61.542	autre ossification d'un muscle, main gauche
+M61.549	autre ossification d'un muscle, main non spécifiée
+M61.551	autre ossification d'un muscle, cuisse droite
+M61.552	autre ossification d'un muscle, cuisse gauche
+M61.559	autre ossification d'un muscle, cuisse non spécifiée
+M61.561	autre ossification d'un muscle, jambe droite
+M61.562	autre ossification d'un muscle, jambe gauche
+M61.569	autre ossification d'un muscle, jambe non spécifiée
+M61.571	autre ossification d'un muscle, cheville et pied droits
+M61.572	autre ossification d'un muscle, cheville et pied gauches
+M61.579	autre ossification d'un muscle, cheville et pied non spécifiés
+M61.58	autre ossification d'un muscle, autre site
+M61.59	autre ossification d'un muscle, multiples sites
+M61.9	calcification et ossification d'un muscle, sans précision
+M62.0	diastasis musculaire (non traumatique), site non spécifié
+M62.11	diastasis musculaire (non traumatique), épaule droite
+M62.12	diastasis musculaire (non traumatique), épaule gauche
+M62.19	diastasis musculaire (non traumatique), épaule non spécifiée
+M62.21	diastasis musculaire (non traumatique), bras droit
+M62.22	diastasis musculaire (non traumatique), bras gauche
+M62.29	diastasis musculaire (non traumatique), bras non spécifié
+M62.31	diastasis musculaire (non traumatique), avant-bras droit
+M62.32	diastasis musculaire (non traumatique), avant-bras gauche
+M62.39	diastasis musculaire (non traumatique), avant-bras non spécifié
+M62.41	diastasis musculaire (non traumatique), main droite
+M62.42	diastasis musculaire (non traumatique), main gauche
+M62.49	diastasis musculaire (non traumatique), main non spécifiée
+M62.51	diastasis musculaire (non traumatique), cuisse droite
+M62.52	diastasis musculaire (non traumatique), cuisse gauche
+M62.59	diastasis musculaire (non traumatique), cuisse non spécifiée
+M62.61	diastasis musculaire (non traumatique), jambe droite
+M62.62	diastasis musculaire (non traumatique), jambe gauche
+M62.69	diastasis musculaire (non traumatique), jambe non spécifiée
+M62.71	diastasis musculaire (non traumatique), cheville et pied droits
+M62.72	diastasis musculaire (non traumatique), cheville et pied gauches
+M62.79	diastasis musculaire (non traumatique), cheville et pied non spécifiés
+M62.8	diastasis musculaire (non traumatique), autre site
+M62.10	autre déchirure musculaire (non traumatique), site non spécifié
+M62.111	autre déchirure musculaire (non traumatique), épaule droite
+M62.112	autre déchirure musculaire (non traumatique), épaule gauche
+M62.119	autre déchirure musculaire (non traumatique), épaule non spécifiée
+M62.121	autre déchirure musculaire (non traumatique), bras droit
+M62.122	autre déchirure musculaire (non traumatique), bras gauche
+M62.129	autre déchirure musculaire (non traumatique), bras non spécifié
+M62.131	autre déchirure musculaire (non traumatique), avant-bras droit
+M62.132	autre déchirure musculaire (non traumatique), avant-bras gauche
+M62.139	autre déchirure musculaire (non traumatique), avant-bras non spécifié
+M62.141	autre déchirure musculaire (non traumatique), main droite
+M62.142	autre déchirure musculaire (non traumatique), main gauche
+M62.149	autre déchirure musculaire (non traumatique), main non spécifiée
+M62.151	autre déchirure musculaire (non traumatique), cuisse droite
+M62.152	autre déchirure musculaire (non traumatique), cuisse gauche
+M62.159	autre déchirure musculaire (non traumatique), cuisse non spécifiée
+M62.161	autre déchirure musculaire (non traumatique), jambe droite
+M62.162	autre déchirure musculaire (non traumatique), jambe gauche
+M62.169	autre déchirure musculaire (non traumatique), jambe non spécifiée
+M62.171	autre déchirure musculaire (non traumatique), cheville et pied droits
+M62.172	autre déchirure musculaire (non traumatique), cheville et pied gauches
+M62.179	autre déchirure musculaire (non traumatique), cheville et pied non spécifiés
+M62.18	autre déchirure musculaire (non traumatique), autre site
+M62.20	infarctus ischémique non traumatique d'un muscle, site non spécifié
+M62.211	infarctus ischémique non traumatique d'un muscle, épaule droite
+M62.212	infarctus ischémique non traumatique d'un muscle, épaule gauche
+M62.219	infarctus ischémique non traumatique d'un muscle, épaule non spécifiée
+M62.221	infarctus ischémique non traumatique d'un muscle, bras droit
+M62.222	infarctus ischémique non traumatique d'un muscle, bras gauche
+M62.229	infarctus ischémique non traumatique d'un muscle, bras non spécifié
+M62.231	infarctus ischémique non traumatique d'un muscle, avant-bras droit
+M62.232	infarctus ischémique non traumatique d'un muscle, avant-bras gauche
+M62.239	infarctus ischémique non traumatique d'un muscle, avant-bras non spécifié
+M62.241	infarctus ischémique non traumatique d'un muscle, main droite
+M62.242	infarctus ischémique non traumatique d'un muscle, main gauche
+M62.249	infarctus ischémique non traumatique d'un muscle, main non spécifiée
+M62.251	infarctus ischémique non traumatique d'un muscle, cuisse droite
+M62.252	infarctus ischémique non traumatique d'un muscle, cuisse gauche
+M62.259	infarctus ischémique non traumatique d'un muscle, cuisse non spécifiée
+M62.261	infarctus ischémique non traumatique d'un muscle, jambe droite
+M62.262	infarctus ischémique non traumatique d'un muscle, jambe gauche
+M62.269	infarctus ischémique non traumatique d'un muscle, jambe non spécifiée
+M62.271	infarctus ischémique non traumatique d'un muscle, cheville et pied droits
+M62.272	infarctus ischémique non traumatique d'un muscle, cheville et pied gauches
+M62.279	infarctus ischémique non traumatique d'un muscle, cheville et pied non spécifiés
+M62.28	infarctus ischémique non traumatique d'un muscle, autre site
+M62.3	syndrome d'immobilité 
+M62.3	paraplégique
+M62.40	contracture d'un muscle, site non spécifié
+M62.411	contracture musculaire, épaule droite
+M62.412	contracture musculaire, épaule gauche
+M62.419	contracture musculaire, épaule non spécifiée
+M62.421	contracture musculaire, bras droit
+M62.422	contracture musculaire, bras gauche
+M62.429	contracture musculaire, bras non spécifié
+M62.431	contracture musculaire, avant-bras droit
+M62.432	contracture musculaire, avant-bras gauche
+M62.439	contracture musculaire, avant-bras non spécifié
+M62.441	contracture musculaire, main droite
+M62.442	contracture musculaire, main gauche
+M62.449	contracture musculaire, main non spécifié
+M62.451	contracture musculaire, cuisse droite
+M62.452	contracture musculaire, cuisse gauche
+M62.459	contracture musculaire, cuisse non spécifiée
+M62.461	contracture musculaire, jambe droite
+M62.462	contracture musculaire, jambe gauche
+M62.469	contracture musculaire, jambe non spécifiée
+M62.471	contracture musculaire, cheville et pied droits
+M62.472	contracture musculaire, cheville et pied gauches
+M62.479	contracture musculaire, cheville et pied non spécifiés
+M62.48	contracture musculaire, autre site
+M62.49	contracture musculaire, multiples sites
+M62.50	fonte et atrophie musculaires, non classées ailleurs, site non spécifié
+M62.511	fonte et atrophie musculaires, non classées ailleurs, épaule droite
+M62.512	fonte et atrophie musculaires, non classées ailleurs, épaule gauche
+M62.519	fonte et atrophie musculaires, non classées ailleurs, épaule non spécifiée
+M62.521	fonte et atrophie musculaires, non classées ailleurs, bras droit
+M62.522	fonte et atrophie musculaires, non classées ailleurs, bras gauche
+M62.529	fonte et atrophie musculaires, non classées ailleurs, bras non spécifié
+M62.531	fonte et atrophie musculaires, non classées ailleurs, avant-bras droit
+M62.532	fonte et atrophie musculaires, non classées ailleurs, avant-bras gauche
+M62.539	fonte et atrophie musculaires, non classées ailleurs, avant-bras non spécifié
+M62.541	fonte et atrophie musculaires, non classées ailleurs, main droite
+M62.542	fonte et atrophie musculaires, non classées ailleurs, main gauche
+M62.549	fonte et atrophie musculaires, non classées ailleurs, main non spécifiée
+M62.551	fonte et atrophie musculaires, non classées ailleurs, cuisse droite
+M62.552	fonte et atrophie musculaires, non classées ailleurs, cuisse gauche
+M62.559	fonte et atrophie musculaires, non classées ailleurs, cuisse non spécifiée
+M62.561	fonte et atrophie musculaires, non classées ailleurs, jambe droite
+M62.562	fonte et atrophie musculaires, non classées ailleurs, jambe gauche
+M62.569	fonte et atrophie musculaires, non classées ailleurs, jambe non spécifiée
+M62.571	fonte et atrophie musculaires, non classées ailleurs, cheville et pied droits
+M62.572	fonte et atrophie musculaires, non classées ailleurs, cheville et pied gauches
+M62.579	fonte et atrophie musculaires, non classées ailleurs, cheville et pied non spécifiés
+M62.58	fonte et atrophie musculaires, non classées ailleurs, autre site
+M62.59	fonte et atrophie musculaires, non classées ailleurs, multiples sites
+M62.81	faiblesse musculaire (généralisée)
+M62.82	rhabdomyolyse
+M62.830	spasme musculaire du dos
+M62.831	spasme musculaire du mollet
+M62.838	autre spasme musculaire
+M62.89	d'autres atteintes musculaires spécifiques
+M62.9	atteinte musculaire, non spécifique
+M63.80	atteintes musculaires au cours de maladies classées ailleurs, site non spécifié
+M63.811	atteintes musculaires au cours de maladies classées ailleurs, épaule droite
+M63.812	atteintes musculaires au cours de maladies classées ailleurs, épaule gauche
+M63.819	atteintes musculaires au cours de maladies classées ailleurs, épaule non spécifiée
+M63.821	atteintes musculaires au cours de maladies classées ailleurs, bras droit
+M63.822	atteintes musculaires au cours de maladies classées ailleurs, bras gauche
+M63.829	atteintes musculaires au cours de maladies classées ailleurs, bras non spécifié
+M63.831	atteintes musculaires au cours de maladies classées ailleurs, avant-bras droit
+M63.832	atteintes musculaires au cours de maladies classées ailleurs, avant-bras gauche
+M63.839	atteintes musculaires au cours de maladies classées ailleurs, avant-bras non spécifié
+M63.841	atteintes musculaires au cours de maladies classées ailleurs, main droite
+M63.842	atteintes musculaires au cours de maladies classées ailleurs, main gauche
+M63.849	atteintes musculaires au cours de maladies classées ailleurs, main non spécifiée
+M63.851	atteintes musculaires au cours de maladies classées ailleurs, cuisse droite
+M63.852	atteintes musculaires au cours de maladies classées ailleurs, cuisse gauche
+M63.859	atteintes musculaires au cours de maladies classées ailleurs, cuisse non spécifiée
+M63.861	atteintes musculaires au cours de maladies classées ailleurs, jambe droite
+M63.862	atteintes musculaires au cours de maladies classées ailleurs, jambe gauche
+M63.869	atteintes musculaires au cours de maladies classées ailleurs, jambe non spécifiée
+M63.871	atteintes musculaires au cours de maladies classées ailleurs, cheville et pied droits
+M63.872	atteintes musculaires au cours de maladies classées ailleurs, cheville et pied gauches
+M63.879	atteintes musculaires au cours de maladies classées ailleurs, cheville et pied non spécifiés
+M63.88	atteintes musculaires au cours de maladies classées ailleurs, autre site
+M63.89	atteintes musculaires au cours de maladies classées ailleurs, multiples sites
+M65.0	abcès de la gaine du tendon, site non spécifié
+M65.11	abcès de la gaine du tendon, épaule droite
+M65.12	abcès de la gaine du tendon, épaule gauche
+M65.19	abcès de la gaine du tendon, épaule non spécifiée
+M65.21	abcès de la gaine du tendon, bras droit
+M65.22	abcès de la gaine du tendon, bras gauche
+M65.29	abcès de la gaine du tendon, bras non spécifié
+M65.31	abcès de la gaine du tendon, avant-bras droit
+M65.32	abcès de la gaine du tendon, avant-bras gauche
+M65.39	abcès de la gaine du tendon, avant-bras non spécifié
+M65.41	abcès de la gaine du tendon, main droite
+M65.42	abcès de la gaine du tendon, main gauche
+M65.49	abcès de la gaine du tendon, main non spécifiée
+M65.51	abcès de la gaine du tendon, cuisse droite
+M65.52	abcès de la gaine du tendon, cuisse gauche
+M65.59	abcès de la gaine du tendon, cuisse non spécifiée
+M65.61	abcès de la gaine du tendon, jambe droite
+M65.62	abcès de la gaine du tendon, jambe gauche
+M65.69	abcès de la gaine du tendon, jambe non spécifiée
+M65.71	abcès de la gaine du tendon, cheville et pied droits
+M65.72	abcès de la gaine du tendon, cheville et pied gauches
+M65.79	abcès de la gaine du tendon, cheville et pied non spécifiés
+M65.8	abcès de la gaine du tendon, autre site
+M65.10	autre ténosynovite  infectieuse, site non spécifié
+M65.111	autre ténosynovite  infectieuse, épaule droite
+M65.112	autre ténosynovite  infectieuse, épaule gauche
+M65.119	autre ténosynovite  infectieuse, épaule non spécifiée
+M65.121	autre ténosynovite  infectieuse, coude droit
+M65.122	autre ténosynovite  infectieuse, coude gauche
+M65.129	autre ténosynovite  infectieuse, coude non spécifié
+M65.131	autre ténosynovite  infectieuse, poignet droit
+M65.132	autre ténosynovite  infectieuse, poignet gauche
+M65.139	autre ténosynovite  infectieuse, poignet non spécifié
+M65.141	autre ténosynovite  infectieuse, main droite
+M65.142	autre ténosynovite  infectieuse, main gauche
+M65.149	autre ténosynovite  infectieuse, main non spécifiée
+M65.151	autre ténosynovite  infectieuse, hanche droite
+M65.152	autre ténosynovite  infectieuse, hanche gauche
+M65.159	autre ténosynovite  infectieuse, hanche non spécifiée
+M65.161	autre ténosynovite  infectieuse, genou droit
+M65.162	autre ténosynovite  infectieuse, genou gauche
+M65.169	autre ténosynovite  infectieuse, genou non spécifié
+M65.171	autre ténosynovite  infectieuse, cheville et pied droits
+M65.172	autre ténosynovite  infectieuse, cheville et pied gauches
+M65.179	autre ténosynovite  infectieuse, cheville et pied non spécifiés
+M65.18	autre ténosynovite  infectieuse, autre site
+M65.19	autre ténosynovite  infectieuse, multiples sites
+M65.10	autre synovite  infectieuse, site non spécifié
+M65.111	autre synovite  infectieuse, épaule droite
+M65.112	autre synovite  infectieuse, épaule gauche
+M65.119	autre synovite  infectieuse, épaule non spécifiée
+M65.121	autre synovite  infectieuse, coude droit
+M65.122	autre synovite  infectieuse, coude gauche
+M65.129	autre synovite  infectieuse, coude non spécifié
+M65.131	autre synovite  infectieuse, poignet droit
+M65.132	autre synovite  infectieuse, poignet gauche
+M65.139	autre synovite  infectieuse, poignet non spécifié
+M65.141	autre synovite  infectieuse, main droite
+M65.142	autre synovite  infectieuse, main gauche
+M65.149	autre synovite  infectieuse, main non spécifiée
+M65.151	autre synovite  infectieuse, hanche droite
+M65.152	autre synovite  infectieuse, hanche gauche
+M65.159	autre synovite  infectieuse, hanche non spécifiée
+M65.161	autre synovite  infectieuse, genou droit
+M65.162	autre synovite  infectieuse, genou gauche
+M65.169	autre synovite  infectieuse, genou non spécifié
+M65.171	autre synovite  infectieuse, cheville et pied droits
+M65.172	autre synovite  infectieuse, cheville et pied gauches
+M65.179	autre synovite  infectieuse, cheville et pied non spécifiés
+M65.18	autre synovite  infectieuse, autre site
+M65.19	autre ssynovite  infectieuse, multiples sites
+M65.20	tendinite calcifiante, site non spécifiée
+M65.221	tendinite calcifiante, bras droit
+M65.222	tendinite calcifiante, bras gauche
+M65.229	tendinite calcifiante, bras non spécifié
+M65.231	tendinite calcifiante, avant-bras droit
+M65.232	tendinite calcifiante, avant-bras gauche
+M65.239	tendinite calcifiante, avant-bras non spécifié
+M65.241	tendinite calcifiante, main droite
+M65.242	tendinite calcifiante, main gauche
+M65.249	tendinite calcifiante, main non spécifiée
+M65.251	tendinite calcifiante, cuisse droite
+M65.252	tendinite calcifiante, cuisse gauche
+M65.259	tendinite calcifiante, cuisse non spécifiée
+M65.261	tendinite calcifiante, jambe droite
+M65.262	tendinite calcifiante, jambe gauche
+M65.269	tendinite calcifiante, jambe non spécifiée
+M65.271	tendinite calcifiante, cheville et pied droits
+M65.272	tendinite calcifiante, cheville et pied gauches
+M65.279	tendinite calcifiante, cheville et pied non spécifiés
+M65.28	tendinite calcifiante, autre site
+M65.29	tendinite calcifiante, multiples sites
+M65.30	doigt à ressort, doigt non spécifié
+M65.311	pouce à ressort, pouce droit
+M65.312	pouce à ressort, pouce gauche
+M65.319	pouce à ressort, pouce non spécifié
+M65.321	doigt à ressort, index droit
+M65.322	doigt à ressort, index gauche
+M65.329	doigt à ressort, index non spécifié
+M65.331	doigt à ressort, majeur droit
+M65.332	doigt à ressort, majeur gauche
+M65.339	doigt à ressort, majeur non spécifié
+M65.341	doigt à ressort, annulaire droit
+M65.342	doigt à ressort, annulaire gauche
+M65.349	doigt à ressort, annulaire non spécifié
+M65.351	doigt à ressort, petit doigt droit
+M65.352	doigt à ressort, petit doigt gauche
+M65.359	doigt à ressort, petit doigt non spécifié
+M65.4	ténosynovite chronique sténosante du pouce
+M65.4	ténosynovite chronique sténosante du pouce De Quervain
+M65.80	d'autres synovite et ténosynovite, site non spécifié
+M65.811	d'autres synovite et ténosynovite, épaule droite
+M65.812	d'autres synovite et ténosynovite, épaule gauche
+M65.819	d'autres synovite et ténosynovite, épaule non spécifiée
+M65.821	d'autres synovite et ténosynovite, bras droit
+M65.822	d'autres synovite et ténosynovite, bras gauche
+M65.829	d'autres synovite et ténosynovite, bras non spécifié
+M65.831	d'autres synovite et ténosynovite, avant-bras droit
+M65.832	d'autres synovite et ténosynovite, avant-bras gauche
+M65.839	d'autres synovite et ténosynovite, avant-bras non spécifié
+M65.841	d'autres synovite et ténosynovite, main droite
+M65.842	d'autres synovite et ténosynovite, main gauche
+M65.849	d'autres synovite et ténosynovite, main non spécifiée
+M65.851	d'autres synovite et ténosynovite, cuisse droite
+M65.852	d'autres synovite et ténosynovite, cuisse gauche
+M65.859	d'autres synovite et ténosynovite, cuisse non spécifiée
+M65.861	d'autres synovite et ténosynovite, jambe droite
+M65.862	d'autres synovite et ténosynovite, jambe gauche
+M65.869	d'autres synovite et ténosynovite, jambe non spécifiée
+M65.871	d'autres synovite et ténosynovite, cheville et pied droits
+M65.872	d'autres synovite et ténosynovite, cheville et pied gauches
+M65.879	d'autres synovite et ténosynovite, cheville et pied non spécifiés
+M65.88	d'autres synovite et ténosynovite, autre site
+M65.89	d'autres synovite et ténosynovite, multiples sites
+M65.9	synovite et ténosynovite, sans précision
+M66.0	rupture de kyste poplité
+M66.10	rupture de la synoviale, articulation non spécifiée
+M66.111	rupture de la synoviale, épaule droite
+M66.112	rupture de la synoviale, épaule gauche
+M66.119	rupture de la synoviale, épaule non spécifiée
+M66.121	rupture de la synoviale, coude droit
+M66.122	rupture de la synoviale, coude gauche
+M66.129	rupture de la synoviale, coude non spécifié
+M66.131	rupture de la synoviale, poignet droit
+M66.132	rupture de la synoviale, poignet gauche
+M66.139	rupture de la synoviale, poignet non spécifié
+M66.141	rupture de la synoviale, main droite
+M66.142	rupture de la synoviale, main gauche
+M66.143	rupture de la synoviale, poignet non spécifié
+M66.144	rupture de la synoviale, doigt(s) droit(s)
+M66.145	rupture de la synoviale, doigt(s) gauche(s)
+M66.146	rupture de la synoviale, doigt(s) non spécifié(s)
+M66.151	rupture de la synoviale, hanche droite
+M66.152	rupture de la synoviale, hanche gauche
+M66.159	rupture de la synoviale, hanche non spécifiée
+M66.171	rupture de la synoviale, cheville droite
+M66.172	rupture de la synoviale, cheville gauche
+M66.173	rupture de la synoviale, cheville non spécifiée
+M66.174	rupture de la synoviale, pied droit
+M66.175	rupture de la synoviale, pied gauche
+M66.176	rupture de la synoviale, pied non spécifié
+M66.177	rupture de la synoviale, orteil(s) droit(s)
+M66.178	rupture de la synoviale, orteil(s) gauche(s)
+M66.179	rupture de la synoviale, orteil(s) non spécifié(s)
+M66.18	rupture de la synoviale, autre site
+M66.20	rupture spontanée des tendons extenseurs, site non spécifié
+M66.211	rupture spontanée des tendons extenseurs, épaule droite
+M66.212	rupture spontanée des tendons extenseurs, épaule gauche
+M66.219	rupture spontanée des tendons extenseurs, épaule non spécifiée
+M66.221	rupture spontanée des tendons extenseurs, bras droit
+M66.222	rupture spontanée des tendons extenseurs, bras gauche
+M66.229	rupture spontanée des tendons extenseurs, bras non spécifié
+M66.231	rupture spontanée des tendons extenseurs, avant-bras droit
+M66.232	rupture spontanée des tendons extenseurs, avant-bras gauche
+M66.239	rupture spontanée des tendons extenseurs, avant-bras non spécifié
+M66.241	rupture spontanée des tendons extenseurs, main droite
+M66.242	rupture spontanée des tendons extenseurs, main gauche
+M66.249	rupture spontanée des tendons extenseurs, main non spécifiée
+M66.251	rupture spontanée des tendons extenseurs, cuisse droite
+M66.252	rupture spontanée des tendons extenseurs, cuisse gauche
+M66.259	rupture spontanée des tendons extenseurs, cuisse non spécifiée
+M66.261	rupture spontanée des tendons extenseurs, jambe droite
+M66.262	rupture spontanée des tendons extenseurs, jambe gauche
+M66.269	rupture spontanée des tendons extenseurs, jambe non spécifiée
+M66.271	rupture spontanée des tendons extenseurs, cheville et pied droits
+M66.272	rupture spontanée des tendons extenseurs, cheville et pied gauches
+M66.279	rupture spontanée des tendons extenseurs, cheville et pied non spécifiés
+M66.28	rupture spontanée des tendons extenseurs, autre site
+M66.29	rupture spontanée des tendons extenseurs, multiples sites
+M66.30	rupture spontanée des tendons fléchisseurs, site non spécifié
+M66.311	rupture spontanée des tendons fléchisseurs, épaule droite
+M66.312	rupture spontanée des tendons fléchisseurs, épaule gauche
+M66.319	rupture spontanée des tendons fléchisseurs, épaule non spécifiée
+M66.321	rupture spontanée des tendons fléchisseurs, bras droit
+M66.322	rupture spontanée des tendons fléchisseurs, bras gauche
+M66.329	rupture spontanée des tendons fléchisseurs, bras non spécifié
+M66.331	rupture spontanée des tendons fléchisseurs, avant-bras droit
+M66.332	rupture spontanée des tendons fléchisseurs, avant-bras gauche
+M66.339	rupture spontanée des tendons fléchisseurs, avant-bras non spécifié
+M66.341	rupture spontanée des tendons fléchisseurs, main droite
+M66.342	rupture spontanée des tendons fléchisseurs, main gauche
+M66.349	rupture spontanée des tendons fléchisseurs, main non spécifiée
+M66.351	rupture spontanée des tendons fléchisseurs, cuisse droite
+M66.352	rupture spontanée des tendons fléchisseurs, cuisse gauche
+M66.359	rupture spontanée des tendons fléchisseurs, cuisse non spécifiée
+M66.361	rupture spontanée des tendons fléchisseurs, jambe droite
+M66.362	rupture spontanée des tendons fléchisseurs, jambe gauche
+M66.369	rupture spontanée des tendons fléchisseurs, jambe non spécifiée
+M66.371	rupture spontanée des tendons fléchisseurs, cheville et pied droits
+M66.372	rupture spontanée des tendons fléchisseurs, cheville et pied gauches
+M66.379	rupture spontanée des tendons fléchisseurs, cheville et pied non spécifiés
+M66.38	rupture spontanée des tendons fléchisseurs, autre site
+M66.39	rupture spontanée des tendons fléchisseurs, multiples sites
+M66.80	rupture spontanée d'autres tendons, site non spécifié
+M66.811	rupture spontanée d'autres tendons, épaule droite
+M66.812	rupture spontanée d'autres tendons, épaule gauche
+M66.819	rupture spontanée d'autres tendons, épaule non spécifiée
+M66.821	rupture spontanée d'autres tendons, bras droit
+M66.822	rupture spontanée d'autres tendons, bras gauche
+M66.829	rupture spontanée d'autres tendons, bras non spécifié
+M66.831	rupture spontanée d'autres tendons, avant-bras droit
+M66.832	rupture spontanée d'autres tendons, avant-bras gauche
+M66.839	rupture spontanée d'autres tendons, avant-bras non spécifié
+M66.841	rupture spontanée d'autres tendons, main droite
+M66.842	rupture spontanée d'autres tendons, main gauche
+M66.849	rupture spontanée d'autres tendons, main non spécifiée
+M66.851	rupture spontanée d'autres tendons, cuisse droite
+M66.852	rupture spontanée d'autres tendons, cuisse gauche
+M66.859	rupture spontanée d'autres tendons, cuisse non spécifiée
+M66.861	rupture spontanée d'autres tendons, jambe droite
+M66.862	rupture spontanée d'autres tendons, jambe gauche
+M66.869	rupture spontanée d'autres tendons, jambe non spécifiée
+M66.871	rupture spontanée d'autres tendons, cheville et pied droits
+M66.872	rupture spontanée d'autres tendons, cheville et pied gauches
+M66.879	rupture spontanée d'autres tendons, cheville et pied non spécifiés
+M66.88	rupture spontanée d'autres tendons, sans précision
+M66.89	rupture spontanée d'autres tendons, multiples sites
+M66.9	rupture spontanée du tendon non spécifié
+M67.0	brièveté du tendon d'Achille (acquis), cheville non spécifiée
+M67.1	brièveté du tendon d'Achille (acquis), cheville droite
+M67.2	brièveté de tendon d'Achille (acquis), cheville gauche
+M67.20	hypertrophie synoviale, non classée ailleurs, site non spécifié
+M67.211	hypertrophie synoviale, non classée ailleurs, épaule droite
+M67.212	hypertrophie synoviale, non classée ailleurs, épaule gauche
+M67.219	hypertrophie synoviale, non classée ailleurs, épaule non spécifiée
+M67.221	hypertrophie synoviale, non classée ailleurs, bras droit
+M67.222	hypertrophie synoviale, non classée ailleurs, bras gauche
+M67.229	hypertrophie synoviale, non classée ailleurs, bras non spécifié
+M67.231	hypertrophie synoviale, non classée ailleurs, avant-bras droit
+M67.232	hypertrophie synoviale, non classée ailleurs, avant-bras gauche
+M67.239	hypertrophie synoviale, non classée ailleurs, avant-bras non spécifié
+M67.241	hypertrophie synoviale, non classée ailleurs, main droite
+M67.242	hypertrophie synoviale, non classée ailleurs, main gauche
+M67.249	hypertrophie synoviale, non classée ailleurs, main non spécifiée
+M67.251	hypertrophie synoviale, non classée ailleurs, cuisse droite
+M67.252	hypertrophie synoviale, non classée ailleurs, cuisse gauche
+M67.259	hypertrophie synoviale, non classée ailleurs, cuisse non spécifiée
+M67.261	hypertrophie synoviale, non classée ailleurs, jambe droite
+M67.262	hypertrophie synoviale, non classée ailleurs, jambe gauche
+M67.269	hypertrophie synoviale, non classée ailleurs, jambe non spécifiée
+M67.271	hypertrophie synoviale, non classée ailleurs, cheville et pied droits
+M67.272	hypertrophie synoviale, non classée ailleurs, cheville et pied gauches
+M67.279	hypertrophie synoviale, non classée ailleurs, cheville et pied non spécifiés
+M67.28	hypertrophie synoviale, non classée ailleurs, autre site
+M67.29	hypertrophie synoviale, non classée ailleurs, multiples sites
+M67.30	synovite transitoire, site non spécifié
+M67.311	synovite transitoire, épaule droite
+M67.312	synovite transitoire, épaule gauche
+M67.319	synovite transitoire, épaule non spécifiée
+M67.321	synovite transitoire, coude droit
+M67.322	synovite transitoire, coude gauche
+M67.329	synovite transitoire, coude non spécifié
+M67.331	synovite transitoire, poignet droit
+M67.332	synovite transitoire, poignet gauche
+M67.339	synovite transitoire, poignet non spécifié
+M67.341	synovite transitoire, main droite
+M67.342	synovite transitoire, main gauche
+M67.349	synovite transitoire, main non spécifiée
+M67.351	synovite transitoire, hanche droite
+M67.352	synovite transitoire, hanche gauche
+M67.359	synovite transitoire, hanche non spécifiée
+M67.361	synovite transitoire, genou droit
+M67.362	synovite transitoire, genou gauche
+M67.369	synovite transitoire, genou non spécifié
+M67.371	synovite transitoire, cheville et pied droits
+M67.372	synovite transitoire, cheville et pied gauches
+M67.379	synovite transitoire, cheville et pied non spécifiés
+M67.38	synovite transitoire, autre site
+M67.39	synovite transitoire, multiples sites
+M67.40	kyste (articulaire), site non spécifié
+M67.411	kyste (articulaire), épaule droite
+M67.412	kyste (articulaire), épaule gauche
+M67.419	kyste (articulaire), épaule non spécifiée
+M67.421	kyste (articulaire), coude droit
+M67.422	kyste (articulaire), coude gauche
+M67.429	kyste (articulaire), coude non spécifié
+M67.431	kyste (articulaire), poignet droit
+M67.432	kyste (articulaire), poignet gauche
+M67.439	kyste (articulaire), poignet non spécifié
+M67.441	kyste (articulaire), main droite
+M67.442	kyste (articulaire), main gauche
+M67.449	kyste (articulaire), main non spécifiée
+M67.451	kyste (articulaire), hanche droite
+M67.452	kyste (articulaire), hanche gauche
+M67.459	kyste (articulaire), hanche non spécifiée
+M67.461	kyste (articulaire), genou droit
+M67.462	kyste (articulaire), genou gauche
+M67.469	kyste (articulaire), genou non spécifié
+M67.471	kyste (articulaire), cheville et pied droits
+M67.472	kyste (articulaire), cheville et pied gauches
+M67.479	kyste (articulaire), cheville et pied non spécifiés
+M67.48	kyste (articulaire), autre site
+M67.49	kyste (articulaire), multiples sites
+M67.50	syndrome de la bride synoviale, plica syndrome, genou non spécifié
+M67.51	syndrome de la bride synoviale (Plica syndrome), genou droit
+M67.52	syndrome de la bride synoviale (Plica syndrome), genou gauche
+M67.80	d'autres atteintes spécifiées de la synoviale et du tendon, site non précisé
+M67.811	d'autres atteintes spécifiées de la synoviale, épaule droite
+M67.812	d'autres atteintes spécifiées de la synoviale, épaule gauche
+M67.813	d'autres atteintes spécifiées du tendon, épaule droite
+M67.814	d'autres atteintes spécifiées du tendon, épaule gauche
+M67.819	d'autres atteintes spécifiées de la synoviale et du tendon, épaule non précisée
+M67.821	d'autres atteintes spécifiées de la synoviale, coude droit
+M67.822	d'autres atteintes spécifiées de la synoviale, coude gauche
+M67.823	d'autres atteintes spécifiées du tendon, coude droit
+M67.824	d'autres atteintes spécifiées du tendon, coude gauche
+M67.829	d'autres atteintes spécifiées de la synoviale et du tendon, coude non précisé
+M67.831	d'autres atteintes spécifiées de la synoviale, poignet droit
+M67.832	d'autres atteintes spécifiées de la synoviale, poignet gauche
+M67.833	d'autres atteintes spécifiées du tendon, poignet droit
+M67.834	d'autres atteintes spécifiées du tendon, poignet gauche
+M67.839	d'autres atteintes spécifiées de la synoviale et du tendon, avant-bras non précisé
+M67.841	d'autres atteintes spécifiées de la synoviale, main droite
+M67.842	d'autres atteintes spécifiées de la synoviale, main gauche
+M67.843	d'autres atteintes spécifiées du tendon, main droite
+M67.844	d'autres atteintes spécifiées du tendon, main gauche
+M67.849	d'autres atteintes spécifiées de la synoviale et du tendon, main non précisée
+M67.851	d'autres atteintes spécifiées de la synoviale, hanche droite
+M67.852	d'autres atteintes spécifiées de la synoviale, hanche gauche
+M67.853	d'autres atteintes spécifiées du tendon, hanche droite
+M67.854	d'autres atteintes spécifiées du tendon, hanche gauche
+M67.859	d'autres atteintes spécifiées de la synoviale et du tendon, hanche non précisée
+M67.861	d'autres atteintes spécifiées de la synoviale, genou droit
+M67.862	d'autres atteintes spécifiées de la synoviale, genou gauche
+M67.863	d'autres atteintes spécifiées du tendon, genou droit
+M67.864	d'autres atteintes spécifiées du tendon, genou gauche
+M67.869	d'autres atteintes spécifiées de la synoviale et du tendon, genou non précisé
+M67.871	d'autres atteintes spécifiées de la synoviale, cheville et pied droits
+M67.872	d'autres atteintes spécifiées de la synoviale, cheville et pied gauches
+M67.873	d'autres atteintes spécifiées du tendon, cheville et pied droits
+M67.874	d'autres atteintes spécifiées du tendon, cheville et pied gauches
+M67.879	d'autres atteintes spécifiées de la synoviale et du tendon, cheville et pied non précisés
+M67.88	d'autres atteintes spécifiées de la synoviale et du tendon, autre site
+M67.89	d'autres atteintes spécifiées de la synoviale et du tendon, multiples sites
+M67.90	atteinte non spécifiée de la synoviale et du tendon, site non précisé
+M67.911	atteinte non spécifiée de la synoviale et du tendon, épaule droite
+M67.912	atteinte non spécifiée de la synoviale et du tendon, épaule gauche
+M67.919	atteinte non spécifiée de la synoviale et du tendon, épaule non précisée
+M67.921	atteinte non spécifiée de la synoviale et du tendon, bras droit
+M67.922	atteinte non spécifiée de la synoviale et du tendon, bras gauche
+M67.929	atteinte non spécifiée de la synoviale et du tendon, bras non spécifié
+M67.931	atteinte non spécifiée de la synoviale et du tendon,avant-bras droit
+M67.932	atteinte non spécifiée de la synoviale et du tendon, avant-bras gauche
+M67.939	atteinte non spécifiée de la synoviale et du tendon,avant-bras non spécifié
+M67.941	atteinte non spécifiée de la synoviale et du tendon,main droite
+M67.942	atteinte de la synoviale et du tendon, sans précision, main gauche
+M67.949	atteinte de la synoviale et du tendon, sans précision, main non spécifiée
+M67.951	atteinte de la synoviale et du tendon, sans précision, cuisse droite
+M67.952	atteinte de la synoviale et du tendon, sans précision, cuisse gauche
+M67.959	atteinte de la synoviale et du tendon, sans précision, cuisse non spécifiée
+M67.961	atteinte de la synoviale et du tendon, sans précision, jambe droite
+M67.962	atteinte de la synoviale et du tendon, sans précision, jambe gauche
+M67.969	atteinte de la synoviale et du tendon, sans précision, jambe non spécifiée
+M67.971	atteinte de la synoviale et du tendon, sans précision, cheville et pied droits
+M67.972	atteinte de la synoviale et du tendon, sans précision, cheville et pied gauches
+M67.979	atteinte de la synoviale et du tendon, sans précision, cheville et pied non spécifiés
+M67.98	atteinte de la synoviale et du tendon, sans précision, autre site
+M67.99	atteinte de la synoviale et du tendon, sans précision, multiples sites
+M70.31	synovite crépitante (aiguë) (chronique), poignet droit
+M70.32	synovite crépitante (aiguë) (chronique), poignet gauche
+M70.39	synovite crépitante (aiguë) (chronique), poignet non spécifié
+M70.41	synovite crépitante (aiguë) (chronique), main droite
+M70.42	synovite crépitante (aiguë) (chronique), main gauche
+M70.49	synovite crépitante (aiguë) (chronique), main non spécifiée
+M70.10	bursite, main non spécifiée
+M70.11	bursite, main droite
+M70.12	bursite, main gauche
+M70.20	bursite olécrânienne, coude non spécifié
+M70.21	bursite olécrânienne, coude droit
+M70.22	bursite olécrânienne, coude gauche
+M70.30	autre bursite du coude, coude non spécifié
+M70.31	autre bursite du coude, coude droit
+M70.32	autre bursite du coude, coude gauche
+M70.40	bursite prépatellaire, genou non spécifié
+M70.41	bursite prépatellaire, genou droit
+M70.42	bursite prépatellaire, genou gauche
+M70.50	autre bursite du genou, genou non spécifié
+M70.51	autre bursite du genou, genou droit
+M70.52	autre bursite du genou, genou gauche
+M70.60	bursite trochantérienne, hanche non spécifiée
+M70.61	bursite trochantérienne, hanche droite
+M70.62	bursite trochantérienne, hanche gauche
+M70.70	autre bursite de la hanche, hanche non spécifiée
+M70.71	autre bursite de la hanche, hanche droite
+M70.72	autre bursite de la hanche, hanche gauche
+M70.80	d'autres affections du tissu mou liées à une sollicitation excessive d'un site non spécifié
+M70.811	d'autres affections du tissu mou liées à une sollicitation excessive, épaule droite
+M70.812	d'autres affections du tissu mou liées à une sollicitation excessive, épaule gauche
+M70.819	d'autres affections du tissu mou liées à une sollicitation excessive, épaule non spécifié
+M70.821	d'autres affections du tissu mou liées à une sollicitation excessive, bras droit
+M70.822	d'autres affections du tissu mou liées à une sollicitation excessive, bras gauche
+M70.829	d'autres affections du tissu mou liées à une sollicitation excessive, bras non spécifiés
+M70.831	d'autres affections du tissu mou liées à une sollicitation excessive, avant-bras droit
+M70.832	d'autres affections du tissu mou liées à une sollicitation excessive, avant-bras gauche
+M70.839	d'autres affections du tissu mou liées à une sollicitation excessive, avant-bras non spécifié
+M70.841	d'autres affections du tissu mou liées à une sollicitation excessive, main droite
+M70.842	d'autres affections du tissu mou liées à une sollicitation excessive, main gauche
+M70.849	d'autres affections du tissu mou liées à une sollicitation excessive, main non spécifiée
+M70.851	d'autres affections du tissu mou liées à une sollicitation excessive, cuisse droite
+M70.852	d'autres affections du tissu mou liées à une sollicitation excessive, cuisse gauche
+M70.859	d'autres affections du tissu mou liées à une sollicitation excessive, cuisse non spécifiée
+M70.861	d'autres affections du tissu mou liées à une sollicitation excessive, jambe droite
+M70.862	d'autres affections du tissu mou liées à une sollicitation excessive, jambe gauche
+M70.869	d'autres affections du tissu mou liées à une sollicitation excessive, jambe non spécifiée
+M70.871	d'autres affections du tissu mou liées à une sollicitation excessive, cheville et pied droits
+M70.872	d'autres affections du tissu mou liées à une sollicitation excessive, cheville et pied gauches
+M70.879	d'autres affections du tissu mou liées à une sollicitation excessive, cheville et pied non spécifiés
+M70.88	d'autres affections du tissu mou liées à une sollicitation excessive, autre site
+M70.89	troubles du tissu mou apparentés au charge, surcharge et pression multiples sites
+M70.90	affection du tissu mou par sollicitation excessive, sans précision, d'un site non spécifié
+M70.911	affection du tissu mou par sollicitation excessive, sans précision, épaule droite
+M70.912	affection du tissu mou par sollicitation excessive, sans précision, épaule gauche
+M70.919	affection du tissu mou par sollicitation excessive, sans précision, épaule non spécifiée
+M70.921	affection du tissu mou par sollicitation excessive, sans précision, bras droit
+M70.922	affection du tissu mou par sollicitation excessive, sans précision, bras gauche
+M70.929	affection du tissu mou par sollicitation excessive, sans précision, bras non spécifié
+M70.931	affection du tissu mou par sollicitation excessive, sans précision, avant-bras droit
+M70.932	affection du tissu mou par sollicitation excessive, sans précision, avant-bras gauche
+M70.939	affection du tissu mou par sollicitation excessive, sans précision, avant-bras non spécifié
+M70.941	affection du tissu mou par sollicitation excessive, sans précision, main droite
+M70.942	affection du tissu mou par sollicitation excessive, sans précision, main gauche
+M70.949	affection du tissu mou par sollicitation excessive, sans précision, main non spécifiée
+M70.951	affection du tissu mou par sollicitation excessive, sans précision, cuisse droite
+M70.952	affection du tissu mou par sollicitation excessive, sans précision, cuisse gauche
+M70.959	affection du tissu mou par sollicitation excessive, sans précision, cuisse non spécifiée
+M70.961	affection du tissu mou par sollicitation excessive, sans précision, jambe droite
+M70.962	affection du tissu mou par sollicitation excessive, sans précision, jambe gauche
+M70.969	affection du tissu mou par sollicitation excessive, sans précision, jambe non spécifiée
+M70.971	affection du tissu mou par sollicitation excessive, sans précision, cheville et pied droits
+M70.972	affection du tissu mou par sollicitation excessive, sans précision, cheville et pied gauches
+M70.979	affection du tissu mou par sollicitation excessive, sans précision, cheville et pied non spécifiés
+M70.98	affection du tissu mou par sollicitation excessive, sans précision, autre
+M70.99	affection du tissu mou par sollicitation excessive, sans précision, multiples sites
+M71.0	abcès d'une bourse séreuse, site non spécifié
+M71.11	abcès d'une bourse séreuse, épaule droite
+M71.12	abcès d'une bourse séreuse, épaule gauche
+M71.19	abcès d'une bourse séreuse, épaule non spécifiée
+M71.21	abcès d'une bourse séreuse, coude droit
+M71.22	abcès d'une bourse séreuse, coude gauche
+M71.29	abcès d'une bourse séreuse, coude non spécifié
+M71.31	abcès d'une bourse séreuse, poignet droit
+M71.32	abcès d'une bourse séreuse, poignet gauche
+M71.39	abcès d'une bourse séreuse, poignet non spécifié
+M71.41	abcès d'une bourse séreuse, main droite
+M71.42	abcès d'une bourse séreuse, main gauche
+M71.49	abcès d'une bourse séreuse, main non spécifiée
+M71.51	abcès d'une bourse séreuse, hanche droite
+M71.52	abcès d'une bourse séreuse, hanche gauche
+M71.59	abcès d'une bourse séreuse, hanche non spécifiée
+M71.61	abcès d'une bourse séreuse, genou droit
+M71.62	abcès d'une bourse séreuse, genou gauche
+M71.69	abcès d'une bourse séreuse, genou non spécifié
+M71.71	abcès d'une bourse séreuse, cheville et pied droits
+M71.72	abcès d'une bourse séreuse, cheville et pied gauches
+M71.79	abcès d'une bourse séreuse, cheville et pied non spécifiés
+M71.8	abcès d'une bourse séreuse, autre site
+M71.9	abcès d'une bourse séreuse, multiples sites
+M71.10	autre bursite infectieuse, site non spécifié
+M71.111	autre bursite infectieuse, épaule droite
+M71.112	autre bursite infectieuse, épaule gauche
+M71.119	autre bursite infectieuse, épaule non spécifiée
+M71.121	autre bursite infectieuse, coude droit
+M71.122	autre bursite infectieuse, coude gauche
+M71.129	autre bursite infectieuse, coude non spécifié
+M71.131	autre bursite infectieuse, poignet droit
+M71.132	autre bursite infectieuse, poignet gauche
+M71.139	autre bursite infectieuse, poignet non spécifié
+M71.141	autre bursite infectieuse, main droite
+M71.142	autre bursite infectieuse, main gauche
+M71.149	autre bursite infectieuse, main non spécifiée
+M71.151	autre bursite infectieuse, hanche droite
+M71.152	autre bursite infectieuse, hanche gauche
+M71.159	autre bursite infectieuse, hanche non spécifiée
+M71.161	autre bursite infectieuse, genou droit
+M71.162	autre bursite infectieuse, genou gauche
+M71.169	autre bursite infectieuse, genou non spécifié
+M71.171	autre bursite infectieuse, cheville et pied droits
+M71.172	autre bursite infectieuse, cheville et pied gauches
+M71.179	autre bursite infectieuse, cheville et pied non spécifiés
+M71.18	autre bursite infectieuse, autre site
+M71.19	autre bursite infectieuse, multiples sites
+M71.20	kyste synovial poplité, genou non spécifié
+M71.21	kyste synovial poplité, genou droit
+M71.22	kyste synovial poplité, genou gauche
+M71.20	kyste de Baker, genou non spécifié
+M71.21	kyste de Baker, genou droit
+M71.22	kyste de Baker, genou gauche
+M71.30	autre kyste d'une bourse séreuse, site non spécifié
+M71.311	autre kyste d'une bourse séreuse, épaule droite
+M71.312	autre kyste d'une bourse séreuse, épaule gauche
+M71.319	autre kyste d'une bourse séreuse, épaule non spécifiée
+M71.321	autre kyste d'une bourse séreuse, coude droit
+M71.322	autre kyste d'une bourse séreuse, coude gauche
+M71.329	autre kyste d'une bourse séreuse, coude non spécifié
+M71.331	autre kyste d'une bourse séreuse, poignet droit
+M71.332	autre kyste d'une bourse séreuse, poignet gauche
+M71.339	autre kyste d'une bourse séreuse, poignet non spécifié
+M71.341	autre kyste d'une bourse séreuse, main droite
+M71.342	autre kyste d'une bourse séreuse, main gauche
+M71.349	autre kyste d'une bourse séreuse, main non spécifiée
+M71.351	autre kyste d'une bourse séreuse, hanche droite
+M71.352	autre kyste d'une bourse séreuse, hanche gauche
+M71.359	autre kyste d'une bourse séreuse, hanche non spécifiée
+M71.371	autre kyste d'une bourse séreuse, cheville et pied droits
+M71.372	autre kyste d'une bourse séreuse, cheville et pied gauches
+M71.379	autre kyste d'une bourse séreuse, cheville et pied non spécifiés
+M71.38	autre kyste d'une bourse séreuse, autre site
+M71.39	autre kyste d'une bourse séreuse, multiples sites
+M71.40	dépôt calcique dans une bourse séreuse, site non spécifié
+M71.421	dépôt calcique dans une bourse séreuse, coude droit
+M71.422	dépôt calcique dans une bourse séreuse, coude gauche
+M71.429	dépôt calcique dans une bourse séreuse, coude non spécifié
+M71.431	dépôt calcique dans une bourse séreuse, poignet droit
+M71.432	dépôt calcique dans une bourse séreuse, poignet gauche
+M71.439	dépôt calcique dans une bourse séreuse, poignet non spécifié
+M71.441	dépôt calcique dans une bourse séreuse, main droite
+M71.442	dépôt calcique dans une bourse séreuse, main gauche
+M71.449	dépôt calcique dans une bourse séreuse, main non spécifiée
+M71.451	dépôt calcique dans une bourse séreuse, hanche droite
+M71.452	dépôt calcique dans une bourse séreuse, hanche gauche
+M71.459	dépôt calcique dans une bourse séreuse, hanche non spécifiée
+M71.461	dépôt calcique dans une bourse séreuse, genou droit
+M71.462	dépôt calcique dans une bourse séreuse, genou gauche
+M71.469	dépôt calcique dans une bourse séreuse, genou non spécifié
+M71.471	dépôt calcique dans une bourse séreuse, cheville et pied droits
+M71.472	dépôt calcique dans une bourse séreuse, cheville et pied gauches
+M71.479	dépôt calcique dans une bourse séreuse, cheville et pied non spécifiés
+M71.48	dépôt calcique dans une bourse séreuse, autre site
+M71.49	dépôt calcique dans une bourse séreuse, multiples sites
+M71.50	autre bursite, non classée ailleurs, site non spécifié
+M71.521	autre bursite, non classée ailleurs, coude droit
+M71.522	autre bursite, non classée ailleurs, coude gauche
+M71.529	autre bursite, non classée ailleurs, coude non spécifié
+M71.531	autre bursite, non classée ailleurs, poignet droit
+M71.532	autre bursite, non classée ailleurs, poignet gauche
+M71.539	autre bursite, non classée ailleurs, poignet non spécifié
+M71.541	autre bursite, non classée ailleurs, main droite
+M71.542	autre bursite, non classée ailleurs, main gauche
+M71.549	autre bursite, non classée ailleurs, main non spécifiée
+M71.551	autre bursite, non classée ailleurs, hanche droite
+M71.552	autre bursite, non classée ailleurs, hanche gauche
+M71.559	autre bursite, non classée ailleurs, hanche non spécifiée
+M71.561	autre bursite, non classée ailleurs, genou droit
+M71.562	autre bursite, non classée ailleurs, genou gauche
+M71.569	autre bursite, non classée ailleurs, genou non spécifié
+M71.571	autre bursite, non classée ailleurs, cheville et pied droits
+M71.572	autre bursite, non classée ailleurs, cheville et pied gauches
+M71.579	autre bursite, non classée ailleurs, cheville et pied non spécifiés
+M71.58	autre bursite, non classée ailleurs, autre site
+M71.80	d'autres bursopathies spécifiées, site non spécifié
+M71.811	d'autres bursopathies spécifiées, épaule droite
+M71.812	d'autres bursopathies spécifiées, épaule gauche
+M71.819	d'autres bursopathies spécifiées, épaule non spécifiée
+M71.821	d'autres bursopathies spécifiées, coude droit
+M71.822	d'autres bursopathies spécifiées, coude gauche
+M71.829	d'autres bursopathies spécifiées, coude non spécifié
+M71.831	d'autres bursopathies spécifiées, poignet droit
+M71.832	d'autres bursopathies spécifiées, poignet gauche
+M71.839	d'autres bursopathies spécifiées, poignet non spécifié
+M71.841	d'autres bursopathies spécifiées, main droite
+M71.842	d'autres bursopathies spécifiées, main gauche
+M71.849	d'autres bursopathies spécifiées, main non spécifiée
+M71.851	d'autres bursopathies spécifiées, hanche droite
+M71.852	d'autres bursopathies spécifiées, hanche gauche
+M71.859	d'autres bursopathies spécifiées, hanche non spécifiée
+M71.861	d'autres bursopathies spécifiées, genou droit
+M71.862	d'autres bursopathies spécifiées, genou gauche
+M71.869	d'autres bursopathies spécifiées, genou non spécifié
+M71.871	d'autres bursopathies spécifiées, cheville et pied droits
+M71.872	d'autres bursopathies spécifiées, cheville et pied gauches
+M71.879	d'autres bursopathies spécifiées, cheville et pied non spécifiés
+M71.88	d'autres bursopathies spécifiées, autre site
+M71.89	d'autres bursopathies spécifiées, multiples sites
+M71.9	bursopathie, non spécifiée
+M72.0	fibromatose de l'aponévrose palmaire [Dupuytren]
+M72.1	coussinets (dorsaux) des phalanges
+M72.2	fibromatose de l'aponévrose plantaire
+M72.4	fibromatose pseudo-sarcomateuse
+M72.6	fasciite nécrosante
+M72.8	d'autres affections fibroblastiques
+M72.9	affection fibroblastique, sans précision
+M75.0	capsulite rétractile d'une épaule non spécifiée
+M75.1	capsulite rétractile de l'épaule droite
+M75.2	capsulite rétractile de l'épaule gauche
+M75.100	déchirure ou rupture non spécifiées de la coiffe des rotateurs d'une épaule non spécifiée, non spécifiées comme traumatiques
+M75.101	déchirure ou rupture non spécifiées de la coiffe des rotateurs de l'épaule droite, non spécifiées comme traumatiques
+M75.102	déchirure ou rupture non spécifiées de la coiffe des rotateurs de l'épaule gauche, non spécifiées comme traumatiques
+M75.110	déchirure ou rupture incomplètes de la coiffe des rotateurs d'une épaule non spécifiée, non spécifiées comme traumatiques
+M75.111	déchirure ou rupture incomplètes de la coiffe des rotateurs de l'épaule droite, non spécifiées comme traumatiques
+M75.112	déchirure ou rupture incomplètes de la coiffe des rotateurs de l'épaule gauche, non spécifiées comme traumatiques
+M75.120	déchirure ou rupture complètes de la coiffe des rotateurs d'une épaule non spécifiée, non spécifiées comme traumatiques
+M75.121	déchirure ou rupture complètes de la coiffe des rotateurs de l'épaule droite, non spécifiées comme traumatiques
+M75.122	déchirure ou rupture complètes de la coiffe des rotateurs de l'épaule gauche, non spécifiées comme traumatiques
+M75.20	tendinite bicipitale, épaule non spécifiée
+M75.21	tendinite bicipitale, épaule droite
+M75.22	tendinite bicipitale, épaule gauche
+M75.30	tendinite calcifiante d'une épaule non spécifiée
+M75.31	tendinite calcifiante de l'épaule droite
+M75.32	tendinite calcifiante de l'épaule gauche
+M75.40	syndrome d'impingement d'une épaule non spécifiée
+M75.41	syndrome d'impingement de l'épaule droite
+M75.42	syndrome d'impingement de l'épaule gauche
+M75.50	bursite d'une épaule non spécifiée
+M75.51	bursite de l'épaule droite
+M75.52	bursite de l'épaule gauche
+M75.80	d'autres lésions de l'épaule, épaule non spécifiée
+M75.81	d'autres lésions de l'épaule, épaule droite
+M75.82	d'autres lésions de l'épaule, épaule gauche
+M75.90	lésion de l'épaule, non spécifiée, épaule non précisée
+M75.91	lésion de l'épaule, non spécifiée, épaule droite
+M75.92	lésion de l'épaule, non spécifiée, épaule gauche
+M76.0	tendinite fessière, hanche non spécifiée
+M76.1	tendinite de la région fessière, hanche droite
+M76.2	tendinite de la région fessière, hanche gauche
+M76.10	tendinite du psoas, hanche non spécifiée
+M76.11	tendinite du psoas, hanche droite
+M76.12	tendinite du psoas, hanche gauche
+M76.20	exostose de la crête iliaque, hanche non spécifiée
+M76.21	exostose de la crête iliaque, hanche droite
+M76.22	exostose de la crête iliaque, hanche gauche
+M76.30	syndrome de la bandelette de Maissiat, membre inférieur non spécifié
+M76.31	syndrome de la bandelette de Maissiat, membre inférieur droit
+M76.32	syndrome de la bandelette de Maissiat, membre inférieur gauche
+M76.30	syndrome ilio-tibiale, membre inférieur non spécifié
+M76.31	syndrome ilio-tibiale, membre inférieur droit
+M76.32	syndrome ilio-tibiale, membre inférieur gauche
+M76.40	bursite du ligament latéral interne du genou, membre inférieur non spécifié
+M76.41	bursite du ligament latéral interne du genou, membre inférieur droit
+M76.42	bursite du ligament latéral interne du genou, membre inférieur gauche
+M76.50	tendinite rotulienne, genou non spécifié
+M76.51	tendinite rotulienne, genou droit
+M76.52	tendinite rotulienne, genou gauche
+M76.60	tendinite du tendon d'Achille, membre inférieur non spécifié
+M76.61	tendinite du tendon d'Achille, membre inférieur droit
+M76.62	tendinite du tendon d'Achille, membre inférieur gauche
+M76.70	tendinite péronière, membre inférieur non spécifié
+M76.71	tendinite péronière, membre inférieur droit
+M76.72	tendinite péronière, membre inférieur gauche
+M76.811	syndrome tibial antérieur, membre inférieur droit
+M76.812	syndrome tibial antérieur, membre inférieur gauche
+M76.819	syndrome tibial antérieur, membre inférieur non spécifié
+M76.821	tendinite du muscle tibial postérieur, membre inférieur droit
+M76.822	tendinite du muscle tibial postérieur, membre inférieur gauche
+M76.829	tendinite du muscle tibial postérieur, membre inférieur non spécifié
+M76.891	d'autres enthésopathies  spécifiées du membre inférieur droit, à l'exclusion du pied
+M76.892	d'autres enthésopathies  spécifiées du membre inférieur gauche, à l'exclusion du pied
+M76.899	d'autres enthésopathies  spécifiées d'un membre inférieur non précisé, à l'exclusion du pied
+M76.9	enthésopathie non spécifiée, membre inférieur, à l'exclusion du pied
+M77.0	épicondylite médiale, coude non spécifié
+M77.1	épicondylite médiale, coude droit
+M77.2	épicondylite médiale, coude gauche
+M77.10	épicondylite latérale, coude non spécifié
+M77.11	épicondylite latérale, coude droit
+M77.12	épicondylite latérale, coude gauche
+M77.20	périarthrite, poignet non spécifié
+M77.21	périarthrite, poignet droit
+M77.22	périarthrite, poignet gauche
+M77.30	exostose calcanéenne, pied non spécifié
+M77.31	exostose calcanéenne, pied droit
+M77.32	exostose calcanéenne, pied gauche
+M77.40	métatarsalgie, pied non spécifié
+M77.41	métatarsalgie, pied droit
+M77.42	métatarsalgie, pied gauche
+M77.50	autre enthésopathie d'un pied non spécifié
+M77.51	autre enthésopathie du pied droit
+M77.52	autre enthésopathie du pied gauche
+M77.8	autre enthésopathies, non classées ailleurs
+M77.9	enthésopathie, non spécifiée
+M79.0	rhumatisme, sans précision
+M79.1	myalgie
+M79.2	névralgie et névrite, sans précision
+M79.3	panniculite, sans précision
+M79.4	hypertrophie du coussinet graisseux (rotulien)
+M79.5	corps étranger résiduel dans le tissu mou
+M79.601	douleur du membre supérieur droit
+M79.602	douleur du membre supérieur gauche
+M79.603	douleur du membre supérieur non spécifiée
+M79.604	douleur du membre inférieur droit
+M79.605	douleur du membre inférieur gauche
+M79.606	douleur d'un membre inférieur, non spécifiée
+M79.609	douleur d'un membre non spécifié
+M79.621	douleur du bras droit
+M79.622	douleur du bras gauche
+M79.629	douleur d'un bras non spécifié
+M79.631	douleur de l'avant-bras droit
+M79.632	douleur de l'avant-bras gauche
+M79.639	douleur d' un avant-bras non spécifié
+M79.641	douleur de la main droite
+M79.642	douleur de la main gauche
+M79.643	douleur d'une main non spécifiée
+M79.644	douleur de doigt(s) droit(s)
+M79.645	douleur de doigt(s) gauche(s)
+M79.646	douleur de doigt(s) non spécifié(s)
+M79.651	douleur de la cuisse droite
+M79.652	douleur de la cuisse gauche
+M79.659	douleur d'une cuisse non spécifiée
+M79.661	douleur de la jambe droite
+M79.662	douleur de la jambe gauche
+M79.669	douleur d'une jambe non spécifiée
+M79.671	douleur du pied droit
+M79.672	douleur du pied gauche
+M79.673	douleur d'un pied non spécifié
+M79.674	douleur d'orteil(s) droit(s)
+M79.675	douleur d'orteil(s) gauche(s)
+M79.676	douleur d'orteil(s) non spécifié(s)
+M79.7	fibromyalgie
+M79.81	hématome du tissu mou non traumatique
+M79.89	d'autres affections spécifiées du tissu mou
+M79.9	affection du tissu mou, non spécifiée
+M79.A11	syndrome de loge non-traumatique du membre supérieur droite
+M79.A12	syndrome de loge non-traumatique du membre supérieur gauche
+M79.A19	syndrome de loge non-traumatique d'un membre supérieur non spécifié
+M79.A21	syndrome de loge non-traumatique du membre inférieur droite
+M79.A22	syndrome de loge non-traumatique du membre inférieur gauche
+M79.A29	syndrome de loge non-traumatique d'un membre inférieur non spécifié
+M79.A3	syndrome de loge non-traumatique de l'abdomen
+M79.A9	syndrome de loge non-traumatique d'autres sites
+M80.00XA	ostéoporose liée à l'âge avec une fracture pathologique récente, site non spécifié, contact initial pour une fracture
+M80.00XD	ostéoporose liée à l'âge avec une fracture pathologique récente, site non spécifié, contact subséquent pour une fracture avec une cicatrisation normale
+M80.00XG	ostéoporose liée à l'âge avec une fracture pathologique récente, site non spécifié, contact subséquent pour une fracture avec retard de consolidation
+M80.00XK	ostéoporose liée à l'âge avec une fracture pathologique récente, site non spécifié, contact subséquent pour une fracture avec pseudarthrose
+M80.00XP	ostéoporose liée à l'âge avec une fracture pathologique récente, site non spécifié, contact subséquent pour une fracture avec cal vicieux
+M80.00XS	ostéoporose liée à l'âge avec une fracture pathologique récente, site non spécifié, séquelle
+M80.011A	ostéoporose liée à l'âge avec une fracture pathologique récente, épaule droite, contact initial pour une fracture
+M80.011D	ostéoporose liée à l'âge avec une fracture pathologique récente, épaule droite, contact subséquent pour une fracture avec une cicatrisation normale
+M80.011G	ostéoporose liée à l'âge avec une fracture pathologique récente, épaule droite, contact subséquent pour une fracture avec une cicatrisation retardée
+M80.011K	ostéoporose liée à l'âge avec une fracture pathologique récente, épaule droite, contact subséquent pour une fracture avec pseudarthrose
+M80.011P	ostéoporose liée à l'âge avec une fracture pathologique récente, épaule droite, contact subséquent pour une fracture avec cal vicieux
+M80.011S	ostéoporose liée à l'âge avec une fracture pathologique récente, épaule droite, séquelle
+M80.012A	ostéoporose liée à l'âge avec une fracture pathologique récente, épaule gauche, contact initial pour une fracture
+M80.012D	ostéoporose liée à l'âge avec une fracture pathologique récente, épaule gauche, contact subséquent pour une fracture avec une cicatrisation normale
+M80.012G	ostéoporose liée à l'âge avec une fracture pathologique récente, épaule gauche, contact subséquent pour une fracture avec une cicatrisation retardée
+M80.012K	ostéoporose liée à l'âge avec une fracture pathologique récente, épaule gauche, contact subséquent pour une fracture avec pseudarthrose
+M80.012P	ostéoporose liée à l'âge avec une fracture pathologique récente, épaule gauche, contact subséquent pour une fracture avec cal vicieux
+M80.012S	ostéoporose liée à l'âge avec une fracture pathologique récente, épaule gauche, séquelle
+M80.019A	ostéoporose liée à l'âge avec une fracture pathologique récente, épaule non spécifiée, contact initial pour une fracture
+M80.019D	ostéoporose liée à l'âge avec une fracture pathologique récente, épaule non spécifiée, contact subséquent pour une fracture avec une cicatrisation normale
+M80.019G	ostéoporose liée à l'âge avec une fracture pathologique récente, épaule non spécifiée, contact subséquent pour une fracture avec une cicatrisation retardée
+M80.019K	ostéoporose liée à l'âge avec une fracture pathologique récente, épaule non spécifiée, contact subséquent pour une fracture avec pseudarthrose
+M80.019P	ostéoporose liée à l'âge avec une fracture pathologique récente, épaule non spécifiée, contact subséquent pour une fracture avec cal vicieux
+M80.019S	ostéoporose liée à l'âge avec une fracture pathologique récente, épaule non spécifiée, séquelle
+M80.021A	ostéoporose liée à l'âge avec une fracture pathologique récente, humérus droit, contact initial pour une fracture
+M80.021D	ostéoporose liée à l'âge avec une fracture pathologique récente, humérus droit, contact subséquent pour une fracture avec une cicatrisation normale
+M80.021G	ostéoporose liée à l'âge avec une fracture pathologique récente, humérus droit, contact subséquent pour une fracture avec une cicatrisation retardée
+M80.021K	ostéoporose liée à l'âge avec une fracture pathologique récente, humérus droit, contact subséquent pour une fracture avec pseudarthrose
+M80.021P	ostéoporose liée à l'âge avec une fracture pathologique récente, humérus droit, contact subséquent pour une fracture avec cal vicieux
+M80.021S	ostéoporose liée à l'âge avec une fracture pathologique récente, humérus droit, séquelle
+M80.022A	ostéoporose liée à l'âge avec une fracture pathologique récente, humérus gauche, contact initial pour une fracture
+M80.022D	ostéoporose liée à l'âge avec une fracture pathologique récente, humérus gauche, contact subséquent pour une fracture avec une cicatrisation normale
+M80.022G	ostéoporose liée à l'âge avec une fracture pathologique récente, humérus gauche, contact subséquent pour une fracture avec une cicatrisation retardée
+M80.022K	ostéoporose liée à l'âge avec une fracture pathologique récente, humérus gauche, contact subséquent pour une fracture avec pseudarthrose
+M80.022P	ostéoporose liée à l'âge avec une fracture pathologique récente, humérus gauche, contact subséquent pour une fracture avec cal vicieux
+M80.022S	ostéoporose liée à l'âge avec une fracture pathologique récente, humérus gauche, séquelle
+M80.029A	ostéoporose liée à l'âge avec une fracture pathologique récente, humérus non spécifié, contact initial pour une fracture
+M80.029D	ostéoporose liée à l'âge avec une fracture pathologique récente, humérus non spécifié, contact subséquent pour une fracture avec une cicatrisation normale
+M80.029G	ostéoporose liée à l'âge avec une fracture pathologique récente, humérus non spécifié, contact subséquent pour une fracture avec une cicatrisation retardée
+M80.029K	ostéoporose liée à l'âge avec une fracture pathologique récente, humérus non spécifié, contact subséquent pour une fracture avec pseudarthrose
+M80.029P	ostéoporose liée à l'âge avec une fracture pathologique récente, humérus non spécifié, contact subséquent pour une fracture avec cal vicieux
+M80.029S	ostéoporose liée à l'âge avec une fracture pathologique récente, humérus non spécifié, séquelle
+M80.031A	ostéoporose liée à l'âge avec une fracture pathologique récente, avant-bras droit, contact initial pour une fracture
+M80.031D	ostéoporose liée à l'âge avec une fracture pathologique récente, avant-bras droit, contact subséquent pour une fracture avec une cicatrisation normale
+M80.031G	ostéoporose liée à l'âge avec une fracture pathologique récente, avant-bras droit, contact subséquent pour une fracture avec une cicatrisation retardée
+M80.031K	ostéoporose liée à l'âge avec une fracture pathologique récente, avant-bras droit, contact subséquent pour une fracture avec pseudarthrose
+M80.031P	ostéoporose liée à l'âge avec une fracture pathologique récente, avant-bras droit, contact subséquent pour une fracture avec cal vicieux
+M80.031S	ostéoporose liée à l'âge avec une fracture pathologique récente, avant-bras droit, séquelle
+M80.032A	ostéoporose liée à l'âge avec une fracture pathologique récente, avant-bras gauche, contact initial pour une fracture
+M80.032D	ostéoporose liée à l'âge avec une fracture pathologique récente, avant-bras gauche, contact subséquent pour une fracture avec une cicatrisation normale
+M80.032G	ostéoporose liée à l'âge avec une fracture pathologique récente, avant-bras gauche, contact subséquent pour une fracture avec une cicatrisation retardée
+M80.032K	ostéoporose liée à l'âge avec une fracture pathologique récente, avant-bras gauche, contact subséquent pour une fracture avec pseudarthrose
+M80.032P	ostéoporose liée à l'âge avec une fracture pathologique récente, avant-bras gauche, contact subséquent pour une fracture avec cal vicieux
+M80.032S	ostéoporose liée à l'âge avec une fracture pathologique récente, avant-bras gauche, séquelle
+M80.039A	ostéoporose liée à l'âge avec une fracture pathologique récente, avant-bras non spécifié, contact initial pour une fracture
+M80.039D	ostéoporose liée à l'âge avec une fracture pathologique récente, avant-bras non spécifié, contact subséquent pour une fracture avec une cicatrisation normale
+M80.039G	ostéoporose liée à l'âge avec une fracture pathologique récente, avant-bras non spécifié, contact subséquent pour une fracture avec une cicatrisation retardée
+M80.039K	ostéoporose liée à l'âge avec une fracture pathologique récente, avant-bras non spécifié, contact subséquent pour une fracture avec pseudarthrose
+M80.039P	ostéoporose liée à l'âge avec une fracture pathologique récente, avant-bras non spécifié, contact subséquent pour une fracture avec cal vicieux
+M80.039S	ostéoporose liée à l'âge avec une fracture pathologique récente, avant-bras non spécifié, séquelle
+M80.041A	ostéoporose liée à l'âge avec une fracture pathologique récente, main droite, contact initial pour une fracture
+M80.041D	ostéoporose liée à l'âge avec une fracture pathologique récente, main droite, contact subséquent pour une fracture avec une cicatrisation normale
+M80.041G	ostéoporose liée à l'âge avec une fracture pathologique récente, main droite, contact subséquent pour une fracture avec une cicatrisation retardée
+M80.041K	ostéoporose liée à l'âge avec une fracture pathologique récente, main droite, contact subséquent pour une fracture avec pseudarthrose
+M80.041P	ostéoporose liée à l'âge avec une fracture pathologique récente, main droite, contact subséquent pour une fracture avec cal vicieux
+M80.041S	ostéoporose liée à l'âge avec une fracture pathologique récente, main droite, séquelle
+M80.042A	ostéoporose liée à l'âge avec une fracture pathologique récente, main gauche, contact initial pour une fracture
+M80.042D	ostéoporose liée à l'âge avec une fracture pathologique récente, main gauche, contact subséquent pour une fracture avec une cicatrisation normale
+M80.042G	ostéoporose liée à l'âge avec une fracture pathologique récente, main gauche, contact subséquent pour une fracture avec une cicatrisation retardée
+M80.042K	ostéoporose liée à l'âge avec une fracture pathologique récente, main gauche, contact subséquent pour une fracture avec pseudarthrose
+M80.042P	ostéoporose liée à l'âge avec une fracture pathologique récente, main gauche, contact subséquent pour une fracture avec cal vicieux
+M80.042S	ostéoporose liée à l'âge avec une fracture pathologique récente, main gauche, séquelle
+M80.049A	ostéoporose liée à l'âge avec une fracture pathologique récente, main non spécifiée, contact initial pour une fracture
+M80.049D	ostéoporose liée à l'âge avec une fracture pathologique récente, main non spécifiée, contact subséquent pour une fracture avec une cicatrisation normale
+M80.049G	ostéoporose liée à l'âge avec une fracture pathologique récente, main non spécifiée, contact subséquent pour une fracture avec une cicatrisation retardée
+M80.049K	ostéoporose liée à l'âge avec une fracture pathologique récente, main non spécifiée, contact subséquent pour une fracture avec pseudarthrose
+M80.049P	ostéoporose liée à l'âge avec une fracture pathologique récente, main non spécifiée, contact subséquent pour une fracture avec cal vicieux
+M80.049S	ostéoporose liée à l'âge avec une fracture pathologique récente, main non spécifiée, séquelle
+M80.051A	ostéoporose liée à l'âge avec une fracture pathologique récente, fémur droit, contact initial pour une fracture
+M80.051D	ostéoporose liée à l'âge avec une fracture pathologique récente, fémur droit, contact subséquent pour une fracture avec une cicatrisation normale
+M80.051G	ostéoporose liée à l'âge avec une fracture pathologique récente, fémur droit, contact subséquent pour une fracture avec une cicatrisation retardée
+M80.051K	ostéoporose liée à l'âge avec une fracture pathologique récente, fémur droit, contact subséquent pour une fracture avec pseudarthrose
+M80.051P	ostéoporose liée à l'âge avec une fracture pathologique récente, fémur droit, contact subséquent pour une fracture avec cal vicieux
+M80.051S	ostéoporose liée à l'âge avec une fracture pathologique récente, fémur droit, séquelle
+M80.052A	ostéoporose liée à l'âge avec une fracture pathologique récente, fémur gauche, contact initial pour une fracture
+M80.052D	ostéoporose liée à l'âge avec une fracture pathologique récente, fémur gauche, contact subséquent pour une fracture avec une cicatrisation normale
+M80.052G	ostéoporose liée à l'âge avec une fracture pathologique récente, fémur gauche, contact subséquent pour une fracture avec une cicatrisation retardée
+M80.052K	ostéoporose liée à l'âge avec une fracture pathologique récente, fémur gauche, contact subséquent pour une fracture avec pseudarthrose
+M80.052P	ostéoporose liée à l'âge avec une fracture pathologique récente, fémur gauche, contact subséquent pour une fracture avec cal vicieux
+M80.052S	ostéoporose liée à l'âge avec une fracture pathologique récente, fémur gauche, séquelle
+M80.059A	ostéoporose liée à l'âge avec une fracture pathologique récente, fémur non spécifié, contact initial pour une fracture
+M80.059D	ostéoporose liée à l'âge avec une fracture pathologique récente, fémur non spécifié, contact subséquent pour une fracture avec une cicatrisation normale
+M80.059G	ostéoporose liée à l'âge avec une fracture pathologique récente, fémur non spécifié, contact subséquent pour une fracture avec une cicatrisation retardée
+M80.059K	ostéoporose liée à l'âge avec une fracture pathologique récente, fémur non spécifié, contact subséquent pour une fracture avec pseudarthrose
+M80.059P	ostéoporose liée à l'âge avec une fracture pathologique récente, fémur non spécifié, contact subséquent pour une fracture avec cal vicieux
+M80.059S	ostéoporose liée à l'âge avec une fracture pathologique récente, fémur non spécifié, séquelle
+M80.061A	ostéoporose liée à l'âge avec une fracture pathologique récente, jambe droite, contact initial pour une fracture
+M80.061D	ostéoporose liée à l'âge avec une fracture pathologique récente, jambe droite, contact subséquent pour une fracture avec une cicatrisation normale
+M80.061G	ostéoporose liée à l'âge avec une fracture pathologique récente, jambe droite, contact subséquent pour une fracture avec une cicatrisation retardée
+M80.061K	ostéoporose liée à l'âge avec une fracture pathologique récente, jambe droite, contact subséquent pour une fracture avec pseudarthrose
+M80.061P	ostéoporose liée à l'âge avec une fracture pathologique récente, jambe droite, contact subséquent pour une fracture avec cal vicieux
+M80.061S	ostéoporose liée à l'âge avec une fracture pathologique récente, jambe droite, séquelle
+M80.062A	ostéoporose liée à l'âge avec une fracture pathologique récente, jambe gauche, contact initial pour une fracture
+M80.062D	ostéoporose liée à l'âge avec une fracture pathologique récente, jambe gauche, contact subséquent pour une fracture avec une cicatrisation normale
+M80.062G	ostéoporose liée à l'âge avec une fracture pathologique récente, jambe gauche, contact subséquent pour une fracture avec une cicatrisation retardée
+M80.062K	ostéoporose liée à l'âge avec une fracture pathologique récente, jambe gauche, contact subséquent pour une fracture avec pseudarthrose
+M80.062P	ostéoporose liée à l'âge avec une fracture pathologique récente, jambe gauche, contact subséquent pour une fracture avec cal vicieux
+M80.062S	ostéoporose liée à l'âge avec une fracture pathologique récente, jambe gauche, séquelle
+M80.069A	ostéoporose liée à l'âge avec une fracture pathologique récente, jambe non spécifiée, contact initial pour une fracture
+M80.069D	ostéoporose liée à l'âge avec une fracture pathologique récente, jambe non spécifiée, contact subséquent pour une fracture avec une cicatrisation normale
+M80.069G	ostéoporose liée à l'âge avec une fracture pathologique récente, jambe non spécifiée, contact subséquent pour une fracture avec une cicatrisation retardée
+M80.069K	ostéoporose liée à l'âge avec une fracture pathologique récente, jambe non spécifiée, contact subséquent pour une fracture avec pseudarthrose
+M80.069P	ostéoporose liée à l'âge avec une fracture pathologique récente, jambe non spécifiée, contact subséquent pour une fracture avec cal vicieux
+M80.069S	ostéoporose liée à l'âge avec une fracture pathologique récente, jambe non spécifiée, séquelle
+M80.071A	ostéoporose liée à l'âge avec une fracture pathologique récente, cheville et pied droits, contact initial pour une fracture
+M80.071D	ostéoporose liée à l'âge avec une fracture pathologique récente, cheville et pied droits, contact subséquent pour une fracture avec une cicatrisation normale
+M80.071G	ostéoporose liée à l'âge avec une fracture pathologique récente, cheville et pied droits, contact subséquent pour une fracture avec une cicatrisation retardée
+M80.071K	ostéoporose liée à l'âge avec une fracture pathologique récente, cheville et pied droits, contact subséquent pour une fracture avec pseudarthrose
+M80.071P	ostéoporose liée à l'âge avec une fracture pathologique récente, cheville et pied droits, contact subséquent pour une fracture avec cal vicieux
+M80.071S	ostéoporose liée à l'âge avec une fracture pathologique récente, cheville et pied droits, séquelle
+M80.072A	ostéoporose liée à l'âge avec une fracture pathologique récente, cheville et pied gauches, contact initial pour une fracture
+M80.072D	ostéoporose liée à l'âge avec une fracture pathologique récente, cheville et pied gauches, contact subséquent pour une fracture avec une cicatrisation normale
+M80.072G	ostéoporose liée à l'âge avec une fracture pathologique récente, cheville et pied gauches, contact subséquent pour une fracture avec une cicatrisation retardée
+M80.072K	ostéoporose liée à l'âge avec une fracture pathologique récente, cheville et pied gauches, contact subséquent pour une fracture avec pseudarthrose
+M80.072P	ostéoporose liée à l'âge avec une fracture pathologique récente, cheville et pied gauches, contact subséquent pour une fracture avec cal vicieux
+M80.072S	ostéoporose liée à l'âge avec une fracture pathologique récente, cheville et pied gauches, séquelle
+M80.079A	ostéoporose liée à l'âge avec une fracture pathologique récente, cheville et pied non spécifiés, contact initial pour une fracture
+M80.079D	ostéoporose liée à l'âge avec une fracture pathologique récente, cheville et pied non spécifiés, contact subséquent pour une fracture avec une cicatrisation normale
+M80.079G	ostéoporose liée à l'âge avec une fracture pathologique récente, cheville et pied non spécifiés, contact subséquent pour une fracture avec une cicatrisation retardée
+M80.079K	ostéoporose liée à l'âge avec une fracture pathologique récente, cheville et pied non spécifiés, contact subséquent pour une fracture avec pseudarthrose
+M80.079P	ostéoporose liée à l'âge avec une fracture pathologique récente, cheville et pied non spécifiés, contact subséquent pour une fracture avec cal vicieux
+M80.079S	ostéoporose liée à l'âge avec une fracture pathologique récente, cheville et pied non spécifiés, séquelle
+M80.08XA	ostéoporose liée à l'âge avec une fracture pathologique récente, vertèbre(s), contact initial pour une fracture
+M80.08XD	ostéoporose liée à l'âge avec une fracture pathologique récente, vertèbre(s), contact subséquent pour une fracture avec une cicatrisation normale
+M80.08XG	ostéoporose liée à l'âge avec une fracture pathologique récente, vertèbre(s), contact subséquent pour une fracture avec une cicatrisation retardée
+M80.08XK	ostéoporose liée à l'âge avec une fracture pathologique récente, vertèbre(s), contact subséquent pour une fracture avec pseudarthrose
+M80.08XP	ostéoporose liée à l'âge avec une fracture pathologique récente, vertèbre(s), contact subséquent pour une fracture avec cal vicieux
+M80.08XS	ostéoporose liée à l'âge avec une fracture pathologique récente, vertèbre(s), séquelle
+M80.80XA	autre ostéoporose avec une fracture pathologique récente, site non spécifié, contact initial pour une fracture
+M80.80XD	autre ostéoporose avec une fracture pathologique récente, site non spécifié, contact subséquent pour une fracture avec une cicatrisation normale
+M80.80XG	autre ostéoporose avec une fracture pathologique récente, site non spécifié, contact subséquent pour une fracture avec une cicatrisation retardée
+M80.80XK	autre ostéoporose avec une fracture pathologique récente, site non spécifié, contact subséquent pour une fracture avec pseudarthrose
+M80.80XP	autre ostéoporose avec une fracture pathologique récente, site non spécifié, contact subséquent pour une fracture avec cal vicieux
+M80.80XS	autre ostéoporose avec une fracture pathologique récente, site non spécifié, séquelle
+M80.811A	autre ostéoporose avec une fracture pathologique récente, épaule droite, contact initial pour une fracture
+M80.811D	autre ostéoporose avec une fracture pathologique récente, épaule droite, contact subséquent pour une fracture avec une cicatrisation normale
+M80.811G	autre ostéoporose avec une fracture pathologique récente, épaule droite, contact subséquent pour une fracture avec une cicatrisation retardée
+M80.811K	autre ostéoporose avec une fracture pathologique récente, épaule droite, contact subséquent pour une fracture avec pseudarthrose
+M80.811P	autre ostéoporose avec une fracture pathologique récente, épaule droite, contact subséquent pour une fracture avec cal vicieux
+M80.811S	autre ostéoporose avec une fracture pathologique récente, épaule droite, séquelle
+M80.812A	autre ostéoporose avec une fracture pathologique récente, épaule gauche, contact initial pour une fracture
+M80.812D	autre ostéoporose avec une fracture pathologique récente, épaule gauche, contact subséquent pour une fracture avec une cicatrisation normale
+M80.812G	autre ostéoporose avec une fracture pathologique récente, épaule gauche, contact subséquent pour une fracture avec une cicatrisation retardée
+M80.812K	autre ostéoporose avec une fracture pathologique récente, épaule gauche, contact subséquent pour une fracture avec pseuarthrose
+M80.812P	autre ostéoporose avec une fracture pathologique récente, épaule gauche, contact subséquent pour une fracture avec cal vicieux
+M80.812S	autre ostéoporose avec une fracture pathologique récente, épaule gauche, séquelle
+M80.819A	autre ostéoporose avec une fracture pathologique récente, épaule non spécifiée, contact initial pour une fracture
+M80.819D	autre ostéoporose avec une fracture pathologique récente, épaule non spécifiée, contact subséquent pour une fracture avec une cicatrisation normale
+M80.819G	autre ostéoporose avec une fracture pathologique récente, épaule non spécifiée, contact subséquent pour une fracture avec une cicatrisation retardée
+M80.819K	autre ostéoporose avec une fracture pathologique récente, épaule non spécifiée, contact subséquent pour une fracture avec pseudarthrose
+M80.819P	autre ostéoporose avec une fracture pathologique récente, épaule non spécifiée, contact subséquent pour une fracture avec cal vicieux
+M80.819S	autre ostéoporose avec une fracture pathologique récente, épaule non spécifiée, séquelle
+M80.821A	autre ostéoporose avec une fracture pathologique récente, humérus droit, contact initial pour une fracture
+M80.821D	autre ostéoporose avec une fracture pathologique récente, humérus droit, contact subséquent pour une fracture avec une cicatrisation normale
+M80.821G	autre ostéoporose avec une fracture pathologique récente, humérus droit, contact subséquent pour une fracture avec une cicatrisation retardée
+M80.821K	autre ostéoporose avec une fracture pathologique récente, humérus droit, contact subséquent pour une fracture avec pseudarthrose
+M80.821P	autre ostéoporose avec une fracture pathologique récente, humérus droit, contact subséquent pour une fracture avec cal vicieux
+M80.821S	autre ostéoporose avec une fracture pathologique récente, humérus droit, séquelle
+M80.822A	autre ostéoporose avec une fracture pathologique récente, humérus gauche, contact initial pour une fracture
+M80.822D	autre ostéoporose avec une fracture pathologique récente, humérus gauche, contact subséquent pour une fracture avec une cicatrisation normale
+M80.822G	autre ostéoporose avec une fracture pathologique récente, humérus gauche, contact subséquent pour une fracture avec une cicatrisation retardée
+M80.822K	autre ostéoporose avec une fracture pathologique récente, humérus gauche, contact subséquent pour une fracture avec pseudarthrose
+M80.822P	autre ostéoporose avec une fracture pathologique récente, humérus gauche, contact subséquent pour une fracture avec cal vicieux
+M80.822S	autre ostéoporose avec une fracture pathologique récente, humérus gauche, séquelle
+M80.829A	autre ostéoporose avec une fracture pathologique récente, humérus non spécifié, contact initial pour une fracture
+M80.829D	autre ostéoporose avec une fracture pathologique récente, humérus non spécifié, contact subséquent pour une fracture avec une cicatrisation normale
+M80.829G	autre ostéoporose avec une fracture pathologique récente, humérus non spécifié, contact subséquent pour une fracture avec une cicatrisation retardée
+M80.829K	autre ostéoporose avec une fracture pathologique récente, humérus non spécifié, contact subséquent pour une fracture avec pseudarthrose
+M80.829P	autre ostéoporose avec une fracture pathologique récente, humérus non spécifié, contact subséquent pour une fracture avec cal vicieux
+M80.829S	autre ostéoporose avec une fracture pathologique récente, humérus non spécifié, séquelle
+M80.831A	autre ostéoporose avec une fracture pathologique récente, avant-bras droit, contact initial pour une fracture
+M80.831D	autre ostéoporose avec une fracture pathologique récente, avant-bras droit, contact subséquent pour une fracture avec une cicatrisation normale
+M80.831G	autre ostéoporose avec une fracture pathologique récente, avant-bras droit, contact subséquent pour une fracture avec une cicatrisation retardée
+M80.831K	autre ostéoporose avec une fracture pathologique récente, avant-bras droit, contact subséquent pour une fracture avec pseudarthrose
+M80.831P	autre ostéoporose avec une fracture pathologique récente, avant-bras droit, contact subséquent pour une fracture avec cal vicieux
+M80.831S	autre ostéoporose avec une fracture pathologique récente, avant-bras droit, séquelle
+M80.832A	autre ostéoporose avec une fracture pathologique récente, avant-bras gauche, contact initial pour une fracture
+M80.832D	autre ostéoporose avec une fracture pathologique récente, avant-bras gauche, contact subséquent pour une fracture avec une cicatrisation normale
+M80.832G	autre ostéoporose avec une fracture pathologique récente, avant-bras gauche, contact subséquent pour une fracture avec une cicatrisation retardée
+M80.832K	autre ostéoporose avec une fracture pathologique récente, avant-bras gauche, contact subséquent pour une fracture avec pseudarthrose
+M80.832P	autre ostéoporose avec une fracture pathologique récente, avant-bras gauche, contact subséquent pour une fracture avec cal vicieux
+M80.832S	autre ostéoporose avec une fracture pathologique récente, avant-bras gauche, séquelle
+M80.839A	autre ostéoporose avec une fracture pathologique récente, avant-bras non spécifié, contact initial pour une fracture
+M80.839D	autre ostéoporose avec une fracture pathologique récente, avant-bras non spécifié, contact subséquent pour une fracture avec une cicatrisation normale
+M80.839G	autre ostéoporose avec une fracture pathologique récente, avant-bras non spécifié, contact subséquent pour une fracture avec une cicatrisation retardée
+M80.839K	autre ostéoporose avec une fracture pathologique récente, avant-bras non spécifié, contact subséquent pour une fracture avec pseudarthrose
+M80.839P	autre ostéoporose avec une fracture pathologique récente, avant-bras non spécifié, contact subséquent pour une fracture avec cal vicieux
+M80.839S	autre ostéoporose avec une fracture pathologique récente, avant-bras non spécifié, séquelle
+M80.841A	autre ostéoporose avec une fracture pathologique récente, main droite, contact initial pour une fracture
+M80.841D	autre ostéoporose avec une fracture pathologique récente, main droite, contact subséquent pour une fracture avec une cicatrisation normale
+M80.841G	autre ostéoporose avec une fracture pathologique récente, main droite, contact subséquent pour une fracture avec une cicatrisation retardée
+M80.841K	autre ostéoporose avec une fracture pathologique récente, main droite, contact subséquent pour une fracture avec pseudarthrose
+M80.841P	autre ostéoporose avec une fracture pathologique récente, main droite, contact subséquent pour une fracture avec cal vicieux
+M80.841S	autre ostéoporose avec une fracture pathologique récente, main droite, séquelle
+M80.842A	autre ostéoporose avec une fracture pathologique récente, main gauche, contact initial pour une fracture
+M80.842D	autre ostéoporose avec une fracture pathologique récente, main gauche, contact subséquent pour une fracture avec une cicatrisation normale
+M80.842G	autre ostéoporose avec une fracture pathologique récente, main gauche, contact subséquent pour une fracture avec une cicatrisation retardée
+M80.842K	autre ostéoporose avec une fracture pathologique récente, main gauche, contact subséquent pour une fracture avec pseuarthrose
+M80.842P	autre ostéoporose avec une fracture pathologique récente, main gauche, contact subséquent pour une fracture avec cal vicieux
+M80.842S	autre ostéoporose avec une fracture pathologique récente, main gauche, séquelle
+M80.849A	autre ostéoporose avec une fracture pathologique récente, main non spécifiée, contact initial pour une fracture
+M80.849D	autre ostéoporose avec une fracture pathologique récente, main non spécifiée, contact subséquent pour une fracture avec une cicatrisation normale
+M80.849G	autre ostéoporose avec une fracture pathologique récente, main non spécifiée, contact subséquent pour une fracture avec une cicatrisation retardée
+M80.849K	autre ostéoporose avec une fracture pathologique récente, main non spécifiée, contact subséquent pour une fracture avec pseudarthrose
+M80.849P	autre ostéoporose avec une fracture pathologique récente, main non spécifiée, contact subséquent pour une fracture avec cal vicieux
+M80.849S	autre ostéoporose avec une fracture pathologique récente, main non spécifiée, séquelle
+M80.851A	autre ostéoporose avec une fracture pathologique récente, fémur droit, contact initial pour une fracture
+M80.851D	autre ostéoporose avec une fracture pathologique récente, fémur droit, contact subséquent pour une fracture avec une cicatrisation normale
+M80.851G	autre ostéoporose avec une fracture pathologique récente, fémur droit, contact subséquent pour une fracture avec une cicatrisation retardée
+M80.851K	autre ostéoporose avec une fracture pathologique récente, fémur droit, contact subséquent pour une fracture avec pseudarthrose
+M80.851P	autre ostéoporose avec une fracture pathologique récente, fémur droit, contact subséquent pour une fracture avec cal vicieux
+M80.851S	autre ostéoporose avec une fracture pathologique récente, fémur droit, séquelle
+M80.852A	autre ostéoporose avec une fracture pathologique récente, fémur gauche, contact initial pour une fracture
+M80.852D	autre ostéoporose avec une fracture pathologique récente, fémur gauche, contact subséquent pour une fracture avec une cicatrisation normale
+M80.852G	autre ostéoporose avec une fracture pathologique récente, fémur gauche, contact subséquent pour une fracture avec une cicatrisation retardée
+M80.852K	autre ostéoporose avec une fracture pathologique récente, fémur gauche, contact subséquent pour une fracture avec pseudarthrose
+M80.852P	autre ostéoporose avec une fracture pathologique récente, fémur gauche, contact subséquent pour une fracture avec cal vicieux
+M80.852S	autre ostéoporose avec une fracture pathologique récente, fémur gauche, séquelle
+M80.859A	autre ostéoporose avec une fracture pathologique récente, fémur non spécifié, contact initial pour une fracture
+M80.859D	autre ostéoporose avec une fracture pathologique récente, fémur non spécifié, contact subséquent pour une fracture avec une cicatrisation normale
+M80.859G	autre ostéoporose avec une fracture pathologique récente, fémur non spécifié, contact subséquent pour une fracture avec une cicatrisation retardée
+M80.859K	autre ostéoporose avec une fracture pathologique récente, fémur non spécifié, contact subséquent pour une fracture avec pseudarthrose
+M80.859P	autre ostéoporose avec une fracture pathologique récente, fémur non spécifié, contact subséquent pour une fracture avec cal vicieux
+M80.859S	autre ostéoporose avec une fracture pathologique récente, fémur non spécifié, séquelle
+M80.861A	autre ostéoporose avec une fracture pathologique récente, jambe droite, contact initial pour une fracture
+M80.861D	autre ostéoporose avec une fracture pathologique récente, jambe droite, contact subséquent pour une fracture avec une cicatrisation normale
+M80.861G	autre ostéoporose avec une fracture pathologique récente, jambe droite, contact subséquent pour une fracture avec une cicatrisation retardée
+M80.861K	autre ostéoporose avec une fracture pathologique récente, jambe droite, contact subséquent pour une fracture avec pseudarthrose
+M80.861P	autre ostéoporose avec une fracture pathologique récente, jambe droite, contact subséquent pour une fracture avec cal vicieux
+M80.861S	autre ostéoporose avec une fracture pathologique récente, jambe droite, séquelle
+M80.862A	autre ostéoporose avec une fracture pathologique récente, jambe gauche, contact initial pour une fracture
+M80.862D	autre ostéoporose avec une fracture pathologique récente, jambe gauche, contact subséquent pour une fracture avec une cicatrisation normale
+M80.862G	autre ostéoporose avec une fracture pathologique récente, jambe gauche, contact subséquent pour une fracture avec une cicatrisation retardée
+M80.862K	autre ostéoporose avec une fracture pathologique récente, jambe gauche, contact subséquent pour une fracture avec pseudarthrose
+M80.862P	autre ostéoporose avec une fracture pathologique récente, jambe gauche, contact subséquent pour une fracture avec cal vicieux
+M80.862S	autre ostéoporose avec une fracture pathologique récente, jambe gauche, séquelle
+M80.869A	autre ostéoporose avec une fracture pathologique récente, jambe non spécifiée, contact initial pour une fracture
+M80.869D	autre ostéoporose avec une fracture pathologique récente, jambe non spécifiée, contact subséquent pour une fracture avec une cicatrisation normale
+M80.869G	autre ostéoporose avec une fracture pathologique récente, jambe non spécifiée, contact subséquent pour une fracture avec une cicatrisation retardée
+M80.869K	autre ostéoporose avec une fracture pathologique récente, jambe non spécifiée, contact subséquent pour une fracture avec pseudarthrose
+M80.869P	autre ostéoporose avec une fracture pathologique récente, jambe non spécifiée, contact subséquent pour une fracture avec cal vicieux
+M80.869S	autre ostéoporose avec une fracture pathologique récente, jambe non spécifiée séquelle
+M80.871A	autre ostéoporose avec une fracture pathologique récente, cheville et pied droits, contact initial pour une fracture
+M80.871D	autre ostéoporose avec une fracture pathologique récente, cheville et pied droits, contact subséquent pour une fracture avec une cicatrisation normale
+M80.871G	autre ostéoporose avec une fracture pathologique récente, cheville et pied droits, contact subséquent pour une fracture avec une cicatrisation retardée
+M80.871K	autre ostéoporose avec une fracture pathologique récente, cheville et pied droits, contact subséquent pour une fracture avec pseudarthrose
+M80.871P	autre ostéoporose avec une fracture pathologique récente, cheville et pied droits, contact subséquent pour une fracture avec cal vicieux
+M80.871S	autre ostéoporose avec une fracture pathologique récente, cheville et pied droits, séquelle
+M80.872A	autre ostéoporose avec une fracture pathologique récente, cheville et pied gauches, contact initial pour une fracture
+M80.872D	autre ostéoporose avec une fracture pathologique récente, cheville et pied gauches, contact subséquent pour une fracture avec une cicatrisation normale
+M80.872G	autre ostéoporose avec une fracture pathologique récente, cheville et pied gauches, contact subséquent pour une fracture avec une cicatrisation retardée
+M80.872K	autre ostéoporose avec une fracture pathologique récente, cheville et pied gauches, contact subséquent pour une fracture avec pseudarthrose
+M80.872P	autre ostéoporose avec une fracture pathologique récente, cheville et pied gauches, contact subséquent pour une fracture avec cal vicieux
+M80.872S	autre ostéoporose avec une fracture pathologique récente, cheville et pied gauches, séquelle
+M80.879A	autre ostéoporose avec une fracture pathologique récente, cheville et pied non spécifiés, contact initial pour une fracture
+M80.879D	autre ostéoporose avec une fracture pathologique récente, cheville et pied non spécifiés, contact subséquent pour une fracture avec une cicatrisation normale
+M80.879G	autre ostéoporose avec une fracture pathologique récente, cheville et pied non spécifiés, contact subséquent pour une fracture avec une cicatrisation retardée
+M80.879K	autre ostéoporose avec une fracture pathologique récente, cheville et pied non spécifiés, contact subséquent pour une fracture avec pseudarthrose
+M80.879P	autre ostéoporose avec une fracture pathologique récente, cheville et pied non spécifiés, contact subséquent pour une fracture avec cal vicieux
+M80.879S	autre ostéoporose avec une fracture pathologique récente, cheville et pied non spécifiés, séquelle
+M80.88XA	autre ostéoporose avec une fracture pathologique récente, vertèbre(s), contact initial pour une fracture
+M80.88XD	autre ostéoporose avec une fracture pathologique récente, vertèbre(s), contact subséquent pour une fracture avec une cicatrisation normale
+M80.88XG	autre ostéoporose avec une fracture pathologique récente, vertèbre(s), contact subséquent pour une fracture avec une cicatrisation retardée
+M80.88XK	autre ostéoporose avec une fracture pathologique récente, vertèbre(s), contact subséquent pour une fracture avec pseudarthrose
+M80.88XP	autre ostéoporose avec une fracture pathologique récente, vertèbre(s), contact subséquent pour une fracture avec cal vicieux
+M80.88XS	autre ostéoporose avec une fracture pathologique récente, vertèbre(s), séquelle
+M81.0	ostéoporose liée à l'âge sans fracture pathologique récente
+M81.6	ostéoporose localisée [Lequesne]
+M81.8	autre ostéoporose sans fracture pathologique récente
+M83.0	ostéomalacie puerpérale
+M83.1	ostéomalacie sénile
+M83.2	ostéomalacie d'un adulte due à malabsorption
+M83.3	ostéomalacie d'un adulte due à malnutrition
+M83.4	maladie osseuse due à l'aluminium
+M83.5	d'autres ostéomalacies médicamenteuses d'un adulte
+M83.8	d'autres ostéomalacies d'un adulte
+M83.9	ostéomalacie d'un adulte, non spécifiée
+M84.30XA	fracture de stress, site non spécifié, contact initial pour une fracture
+M84.30XD	fracture de stress, site non spécifié, contact subséquent pour une fracture avec une cicatrisation normale
+M84.30XG	fracture de stress, site non spécifié, contact subséquent pour une fracture avec une cicatrisation retardée
+M84.30XK	fracture de stress, site non spécifié, contact secondaire avec une fracture en pseudarthrose
+M84.30XP	fracture de stress, site non spécifié, contact secondaire avec une fracture présentant un cal vicieux
+M84.30XS	fracture de stress, site non spécifié, séquelle
+M84.311A	fracture de stress, épaule droite, contact initial pour une fracture
+M84.311D	fracture de stress, épaule droite, contact secondaire avec une fracture présentant une consolidation normale
+M84.311G	fracture de stress, épaule droite, contact secondaire avec une fracture présentant un retard de consolidation
+M84.311K	fracture de stress, épaule droite, contact secondaire avec une fracture en pseudarthrose
+M84.311P	fracture de stress, épaule droite, contact secondaire avec une fracture présentant un cal vicieux
+M84.311S	fracture de stress, épaule droite, séquelle
+M84.312A	fracture de stress, épaule gauche, contact initial pour une fracture
+M84.312D	fracture de stress, épaule gauche, contact secondaire avec une fracture présentant une consolidation normale
+M84.312G	fracture de stress, épaule gauche, contact secondaire avec une fracture présentant un retard de consolidation
+M84.312K	fracture de stress, épaule gauche, contact secondaire avec une fracture en pseudarthrose
+M84.312P	fracture de stress, épaule gauche, contact secondaire avec une fracture présentant un cal vicieux
+M84.312S	fracture de stress, épaule gauche, séquelle
+M84.319A	fracture de stress, épaule non spécifiée, contact initial pour une fracture
+M84.319D	fracture de stress, épaule non spécifiée, contact secondaire avec une fracture présentant une consolidation normale
+M84.319G	fracture de stress, épaule non spécifiée, contact secondaire avec une fracture présentant un retard de consolidation
+M84.319K	fracture de stress, épaule non spécifiée, contact secondaire avec une fracture en pseudarthrose
+M84.319P	fracture de stress, épaule non spécifiée, contact secondaire avec une fracture présentant un cal vicieux
+M84.319S	fracture de stress, épaule non spécifiée, séquelle
+M84.321A	fracture de stress, humérus droit, contact initial pour une fracture
+M84.321D	fracture de stress, humérus droit, contact secondaire avec une fracture présentant une consolidation normale
+M84.321G	fracture de stress, humérus droit, contact secondaire avec une fracture présentant une consolidation retardée
+M84.321K	fracture de stress, humérus droit, contact secondaire avec une fracture présentant une pseudarthrose
+M84.321P	fracture de stress, humérus droit, contact secondaire avec une fracture présentant un cal vicieux
+M84.321S	fracture de stress, humérus droit, séquelle
+M84.322A	fracture de stress, humérus gauche, contact initial pour une fracture
+M84.322D	fracture de stress, humérus gauche, contact secondaire avec une fracture présentant une consolidation normale
+M84.322G	fracture de stress, humérus gauche, contact secondaire avec une fracture présentant une consolidation retardée
+M84.322K	fracture de stress, humérus gauche, contact secondaire avec une fracture présentant une pseudarthrose
+M84.322P	fracture de stress, humérus gauche, contact secondaire avec une fracture présentant un cal vicieux
+M84.322S	fracture de stress, humérus gauche, séquelle
+M84.329A	fracture de stress, humérus non spécifié, contact initial pour une fracture
+M84.329D	fracture de stress, humérus non spécifié, contact secondaire avec une fracture présentant une consolidation normale
+M84.329G	fracture de stress, humérus non spécifié, contact secondaire avec une fracture présentant une consolidation retardée
+M84.329K	fracture de stress, humérus non spécifié, contact secondaire avec une fracture présentant une pseudarthrose
+M84.329P	fracture de stress, humérus non spécifié, contact secondaire avec une fracture présentant un cal vicieux
+M84.329S	fracture de stress, humérus non précisié, séquelle
+M84.331A	fracture de stress, cubitus droit, contact initial pour une fracture
+M84.331D	fracture de stress, cubitus droit, contact secondaire avec une fracture présentant une cicatrisation normale
+M84.331G	fracture de stress, cubitus droit, contact secondaire avec une fracture présentant une cicatrisation retardée
+M84.331K	fracture de stress, cubitus droit, contact secondaire avec une fracture présentant une pseudarthrose
+M84.331P	fracture de stress, cubitus droit, contact secondaire avec une fracture présentant un cal vicieux
+M84.331S	fracture de stress, cubitus droit, séquelle
+M84.332A	fracture de stress, cubitus gauche, contact initial pour une fracture
+M84.332D	fracture de stress, cubitus gauche, contact secondaire avec une fracture présentant une cicatrisation normale
+M84.332G	fracture de stress, cubitus gauche, contact secondaire avec une fracture présentant une cicatrisation retardée
+M84.332K	fracture de stress, cubitus gauche, contact secondaire avec une fracture présentant une pseudarthrose
+M84.332P	fracture de stress, cubitus gauche, contact secondaire avec une fracture présentant un cal vicieux
+M84.332S	fracture de stress, cubitus gauche, séquelle
+M84.333A	fracture de stress, radius droit, contact initial pour une fracture
+M84.333D	fracture de stress, radius droit, contact subséquent pour une fracture avec une cicatrisation normale
+M84.333G	fracture de stress, radius droit, contact subséquent pour une fracture avec une cicatrisation retardée
+M84.333K	fracture de stress, radius droit, contact subséquent pour une fracture avec pseudarthrose
+M84.333P	fracture de stress, radius droit, contact subséquent pour une fracture avec cal vicieux
+M84.333S	fracture de stress, radius droit, séquelle
+M84.334A	fracture de stress, radius gauche, contact initial pour une fracture
+M84.334D	fracture de stress, radius gauche, contact subséquent pour une fracture avec une cicatrisation normale
+M84.334G	fracture de stress, radius gauche, contact subséquent pour une fracture avec une cicatrisation retardée
+M84.334K	fracture de stress, radius gauche, contact subséquent pour une fracture avec pseudarthrose
+M84.334P	fracture de stress, radius gauche, contact subséquent pour une fracture avec cal vicieux
+M84.334S	fracture de stress, radius gauche, séquelle
+M84.339A	fracture de stress, cubitus et radius non spécifiés, contact initial pour une fracture
+M84.339D	fracture de stress, cubitus et radius non spécifiés, contact subséquent pour une fracture avec une cicatrisation normale
+M84.339G	fracture de stress, cubitus et radius non spécifiés, contact subséquent pour une fracture avec une cicatrisation retardée
+M84.339K	fracture de stress, cubitus et radius non spécifiés, contact subséquent pour une fracture avec pseudarthrose
+M84.339P	fracture de stress, cubitus et radius non spécifiés, contact subséquent pour une fracture avec cal vicieux
+M84.339S	fracture de stress, cubitus et radius non spécifiés, séquelle
+M84.341A	fracture de stress, main droite, contact initial pour une fracture
+M84.341D	fracture de stress, main droite, contact subséquent pour une fracture avec une cicatrisation normale
+M84.341G	fracture de stress, main droite, contact subséquent pour une fracture avec une cicatrisation retardée
+M84.341K	fracture de stress, main droite, contact subséquent pour une fracture avec pseudarthrose
+M84.341P	fracture de stress, main droite, contact subséquent pour une fracture avec cal vicieux
+M84.341S	fracture de stress, main droite, séquelle
+M84.342A	fracture de stress, main gauche, contact initial pour une fracture
+M84.342D	fracture de stress, main gauche, contact subséquent pour une fracture avec une cicatrisation normale
+M84.342G	fracture de stress, main gauche, contact subséquent pour une fracture avec une cicatrisation retardée
+M84.342K	fracture de stress, main gauche, contact subséquent pour une fracture avec pseudarthrose
+M84.342P	fracture de stress, main gauche, contact subséquent pour une fracture avec cal vicieux
+M84.342S	fracture de stress, main gauche, séquelle
+M84.343A	fracture de stress, main non spécifiée, contact initial pour une fracture
+M84.343D	fracture de stress, main non spécifiée, contact subséquent pour une fracture avec une cicatrisation normale
+M84.343G	fracture de stress, main non spécifiée, contact subséquent pour une fracture avec une cicatrisation retardée
+M84.343K	fracture de stress, main non spécifiée, contact subséquent pour une fracture avec pseudarthrose
+M84.343P	fracture de stress, main non spécifiée, contact subséquent pour une fracture avec cal vicieux
+M84.343S	fracture de stress, main non spécifiée, séquelle
+M84.344A	fracture de stress, doigt(s) droit(s), contact initial pour une fracture
+M84.344D	fracture de stress, doigt(s) droit(s), contact subséquent pour une fracture avec une cicatrisation normale
+M84.344G	fracture de stress, doigt(s) droit(s), contact subséquent pour une fracture avec une cicatrisation retardée
+M84.344K	fracture de stress, doigt(s) droit(s), contact subséquent pour une fracture avec pseudarthrose
+M84.344P	fracture de stress, doigt(s) droit(s), contact subséquent pour une fracture avec cal vicieux
+M84.344S	fracture de stress, doigt(s) droit(s), séquelle
+M84.345A	fracture de stress, doigt(s) gauche(s), contact initial pour une fracture
+M84.345D	fracture de stress, doigt(s) gauche(s), contact subséquent pour une fracture avec une cicatrisation normale
+M84.345G	fracture de stress, doigt(s) gauche(s), contact subséquent pour une fracture avec une cicatrisation retardée
+M84.345K	fracture de stress, doigt(s) gauche(s), contact subséquent pour une fracture avec pseudarthrose
+M84.345P	fracture de stress, doigt(s) gauche(s), contact subséquent pour une fracture avec cal vicieux
+M84.345S	fracture de stress, doigt(s) gauche(s), séquelle
+M84.346A	fracture de stress, doigt(s) non spécifié(s), contact initial pour une fracture
+M84.346D	fracture de stress, doigt(s) non spécifié(s), contact subséquent pour une fracture avec une cicatrisation normale
+M84.346G	fracture de stress, doigt(s) non spécifié(s), contact subséquent pour une fracture avec une cicatrisation retardée
+M84.346K	fracture de stress, doigt(s) non spécifié(s), contact subséquent pour une fracture avec pseudarthrose
+M84.346P	fracture de stress, doigt(s) non spécifié(s), contact subséquent pour une fracture avec cal vicieux
+M84.346S	fracture de stress, doigt(s) non spécifié(s), séquelle
+M84.350A	fracture de stress, bassin, contact initial pour une fracture
+M84.350D	fracture de stress, bassin, contact subséquent pour une fracture avec une cicatrisation normale
+M84.350G	fracture de stress, bassin, contact subséquent pour une fracture avec une cicatrisation retardée
+M84.350K	fracture de stress, bassin, contact subséquent pour une fracture avec pseudarthrose
+M84.350P	fracture de stress, bassin, contact subséquent pour une fracture avec cal vicieux
+M84.350S	fracture de stress, bassin, séquelle
+M84.351A	fracture de stress, fémur droit, contact initial pour une fracture
+M84.351D	fracture de stress, fémur droit, contact subséquent pour une fracture avec une cicatrisation normale
+M84.351G	fracture de stress, fémur droit, contact subséquent pour une fracture avec une cicatrisation retardée
+M84.351K	fracture de stress, fémur droit, contact subséquent pour une fracture avec pseudarthrose
+M84.351P	fracture de stress, fémur droit, contact subséquent pour une fracture avec cal vicieux
+M84.351S	fracture de stress, fémur droit, séquelle
+M84.352A	fracture de stress, fémur gauche, contact initial pour une fracture
+M84.352D	fracture de stress, fémur gauche, contact subséquent pour une fracture avec une cicatrisation normale
+M84.352G	fracture de stress, fémur gauche, contact subséquent pour une fracture avec une cicatrisation retardée
+M84.352K	fracture de stress, fémur gauche, contact subséquent pour une fracture avec pseudarthrose
+M84.352P	fracture de stress, fémur gauche, contact subséquent pour une fracture avec cal vicieux
+M84.352S	fracture de stress, fémur gauche, séquelle
+M84.353A	fracture de stress, fémur non spécifié, contact initial pour une fracture
+M84.353D	fracture de stress, fémur non spécifié, contact subséquent pour une fracture avec une cicatrisation normale
+M84.353G	fracture de stress, fémur non spécifié, contact subséquent pour une fracture avec une cicatrisation retardée
+M84.353K	fracture de stress, fémur non spécifié, contact subséquent pour une fracture pseudarthrose
+M84.353P	fracture de stress, fémur non spécifié, contact subséquent pour une fracture avec cal vicieux
+M84.353S	fracture de stress, fémur non spécifié, séquelle
+M84.359A	fracture de stress, hanche, non spécifiée, contact initial pour une fracture
+M84.359D	fracture de stress, hanche, non spécifiée, contact subséquent pour une fracture avec une cicatrisation normale
+M84.359G	fracture de stress, hanche, non spécifiée, contact subséquent pour une fracture avec une cicatrisation retardée
+M84.359K	fracture de stress, hanche, non spécifiée, contact subséquent pour une fracture avec pseudarthrose
+M84.359P	fracture de stress, hanche, non spécifiée, contact subséquent pour une fracture avec cal vicieux
+M84.359S	fracture de stress, hanche, non spécifiée, séquelle
+M84.361A	fracture de stress, tibia droit, contact initial pour une fracture
+M84.361D	fracture de stress, tibia droit, contact subséquent pour une fracture avec une cicatrisation normale
+M84.361G	fracture de stress, tibia droit, contact subséquent pour une fracture avec une cicatrisation retardée
+M84.361K	fracture de stress, tibia droit, contact subséquent pour une fracture avec pseudarthrose
+M84.361P	fracture de stress, tibia droit, contact subséquent pour une fracture avec cal vicieux
+M84.361S	fracture de stress, tibia droit, séquelle
+M84.362A	fracture de stress, tibia gauche, contact initial pour une fracture
+M84.362D	fracture de stress, tibia gauche, contact subséquent pour une fracture avec une cicatrisation normale
+M84.362G	fracture de stress, tibia gauche, contact subséquent pour une fracture avec une cicatrisation retardée
+M84.362K	fracture de stress, tibia gauche, contact subséquent pour une fracture avec pseudarthrose
+M84.362P	fracture de stress, tibia gauche, contact subséquent pour une fracture avec cal vicieux
+M84.362S	fracture de stress, tibia gauche, séquelle
+M84.363A	fracture de stress, péroné droit, contact initial pour une fracture
+M84.363D	fracture de stress, péroné droit, contact subséquent pour une fracture avec une cicatrisation normale
+M84.363G	fracture de stress, péroné droit, contact subséquent pour une fracture avec une cicatrisation retardée
+M84.363K	fracture de stress, péroné droit, contact subséquent pour une fracture avec pseudarthrose
+M84.363P	fracture de stress, péroné droit, contact subséquent pour une fracture avec cal vicieux
+M84.363S	fracture de stress, péroné droit, séquelle
+M84.364A	fracture de stress, péroné gauche, contact initial pour une fracture
+M84.364D	fracture de stress, péroné gauche, contact subséquent pour une fracture avec une cicatrisation normale
+M84.364G	fracture de stress, péroné gauche, contact subséquent pour une fracture avec une cicatrisation retardée
+M84.364K	fracture de stress, péroné gauche, contact subséquent pour une fracture avec pseudarthrose
+M84.364P	fracture de stress, péroné gauche, contact subséquent pour une fracture avec cal vicieux
+M84.364S	fracture de stress, péroné gauche, séquelle
+M84.369A	fracture de stress, tibia et péroné non spécifiés, contact initial pour une fracture
+M84.369D	fracture de stress, tibia et péroné non spécifiés, contact subséquent pour une fracture avec une cicatrisation normale
+M84.369G	fracture de stress, tibia et péroné non spécifiés, contact subséquent pour une fracture avec une cicatrisation retardée
+M84.369K	fracture de stress, tibia et péroné non spécifiés, contact subséquent pour une fracture avec pseudarthrose
+M84.369P	fracture de stress, tibia et péroné non spécifiés, contact subséquent pour une fracture avec cal vicieux
+M84.369S	fracture de stress, tibia et péroné non spécifiés, séquelle
+M84.371A	fracture de stress, cheville droite, contact initial pour une fracture
+M84.371D	fracture de stress, cheville droite, contact subséquent pour une fracture avec une cicatrisation normale
+M84.371G	fracture de stress, cheville droite, contact subséquent pour une fracture avec une cicatrisation retardée
+M84.371K	fracture de stress, cheville droite, contact subséquent pour une fracture avec pseudarthrose
+M84.371P	fracture de stress, cheville droite, contact subséquent pour une fracture avec cal vicieux
+M84.371S	fracture de stress, cheville droite, séquelle
+M84.372A	fracture de stress, cheville gauche, contact initial pour une fracture
+M84.372D	fracture de stress, cheville gauche, contact subséquent pour une fracture avec une cicatrisation normale
+M84.372G	fracture de stress, cheville gauche, contact subséquent pour une fracture avec une cicatrisation retardée
+M84.372K	fracture de stress, cheville gauche, contact subséquent pour une fracture avec pseudarthrose
+M84.372P	fracture de stress, cheville gauche, contact subséquent pour une fracture avec cal vicieux
+M84.372S	fracture de stress, cheville gauche, séquelle
+M84.373A	fracture de stress, cheville non spécifiée, contact initial pour une fracture
+M84.373D	fracture de stress, cheville non spécifiée, contact subséquent pour une fracture avec une cicatrisation normale
+M84.373G	fracture de stress, cheville non spécifiée, contact subséquent pour une fracture avec une cicatrisation retardée
+M84.373K	fracture de stress, cheville non spécifiée, contact subséquent pour une fracture avec pseudarthrose
+M84.373P	fracture de stress, cheville non spécifiée, contact subséquent pour une fracture avec cal vicieux
+M84.373S	fracture de stress, cheville non spécifiée, séquelle
+M84.374A	fracture de stress, pied droit, contact initial pour une fracture
+M84.374D	fracture de stress, pied droit, contact subséquent pour une fracture avec une cicatrisation normale
+M84.374G	fracture de stress, pied droit, contact subséquent pour une fracture avec une cicatrisation retardée
+M84.374K	fracture de stress, pied droit, contact subséquent pour une fracture avec pseudarthrose
+M84.374P	fracture de stress, pied droit, contact subséquent pour une fracture avec cal vicieux
+M84.374S	fracture de stress, pied droit, séquelle
+M84.375A	fracture de stress, pied gauche, contact initial pour une fracture
+M84.375D	fracture de stress, pied gauche, contact subséquent pour une fracture avec une cicatrisation normale
+M84.375G	fracture de stress, pied gauche, contact subséquent pour une fracture avec une cicatrisation retardée
+M84.375K	fracture de stress, pied gauche, contact subséquent pour une fracture avec pseudarthrose
+M84.375P	fracture de stress, pied gauche, contact subséquent pour une fracture avec cal vicieux
+M84.375S	fracture de stress, pied gauche, séquelle
+M84.376A	fracture de stress, pied non spécifié, contact initial pour une fracture
+M84.376D	fracture de stress, pied non spécifié, contact subséquent pour une fracture avec une cicatrisation normale
+M84.376G	fracture de stress, pied non spécifié, contact subséquent pour une fracture avec une cicatrisation retardée
+M84.376K	fracture de stress, pied non spécifié, contact subséquent pour une fracture avec pseudarthrose
+M84.376P	fracture de stress, pied non spécifié, contact subséquent pour une fracture avec cal vicieux
+M84.376S	fracture de stress, pied non spécifié, séquelle
+M84.377A	fracture de stress, orteil(s) droit(s), contact initial pour une fracture
+M84.377D	fracture de stress, orteil(s) droit(s), contact subséquent pour une fracture avec une cicatrisation normale
+M84.377G	fracture de stress, orteil(s) droit(s), contact subséquent pour une fracture avec une cicatrisation retardée
+M84.377K	fracture de stress, orteil(s) droit(s), contact subséquent pour une fracture avec pseudarthrose
+M84.377P	fracture de stress, orteil(s) droit(s), contact subséquent pour une fracture avec cal vicieux
+M84.377S	fracture de stress, orteil(s) droit(s), séquelle
+M84.378A	fracture de stress, orteil(s) gauche(s), contact initial pour une fracture
+M84.378D	fracture de stress, orteil(s) gauche(s), contact subséquent pour une fracture avec une cicatrisation normale
+M84.378G	fracture de stress, orteil(s) gauche(s), contact subséquent pour une fracture avec une cicatrisation retardée
+M84.378K	fracture de stress, orteil(s) gauche(s), contact subséquent pour une fracture avec pseudarthrose
+M84.378P	fracture de stress, orteil(s) gauche(s), contact subséquent pour une fracture avec cal vicieux
+M84.378S	fracture de stress, orteil(s) gauche(s), séquelle
+M84.379A	fracture de stress, orteil(s) non spécifié(s), contact initial pour une fracture

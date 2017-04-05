@@ -1,0 +1,1438 @@
+M06.3	nodules rhumatoïdes sous-cutanés
+M30.0	périartérite noueuse cutanée bénigne
+M31.2	granulome facial
+M34.8	scléroedème
+M34.8	scléroedème de Buschke
+M35.6	panniculite fébrile nodulaire récidivante non suppurée
+M35.6	panniculite récidivante
+M35.6	maladie de Weber-Christian
+M35.9	maladie cutanée auto-immune
+M54.0	panniculite affectant le cou
+M54.0	panniculite affectant le dos
+M54.07	panniculite sacrée
+M79.3	panniculite
+M79.3	panniculite septale
+M79.3	panniculite lobulaire
+M79.8	syndrome de Profichet
+M79.8	nécrose graisseuse sous-cutanée de la pancréatite
+M79.8	adiponécrose sous-cutanée due à une pancréatite
+M89.59	acro-ostéolyse
+M89.59	acro-ostéolyse idiopathique
+M89.59	acro-ostéolyse professionnelle
+M99.8	papules pigmentées douloureuses à la pression
+M99.86	papules piézogéniques plantaires douloureuses
+M99.9	maladie de l'appareil locomoteur
+M99.9	affection de l'appareil locomoteur
+M35.3	polymyalgie rhumatismale
+M35.3	syndrome de Forestier et Certonciny
+M35.3	rhumatisme rhizomélique inflammatoire des sujets âgés
+M35.3	pseudopolyarthrite rhizomélique
+M25.9	maladie du système ostéo-articulaire
+M25.9	ostéo-arthropathie
+M25.9	maladie des os et des articulations
+M25.9	affection du système ostéo-articulaire
+M35.9	connectivite
+M35.9	collagénose
+M35.9	maladie du collagène
+M35.9	maladie diffuse du tissu conjonctif
+M35.9	atteinte systémique du tissu conjonctif
+M35.8	maladie du collagène éosinophile disséminée
+M35.8	collagénose éosinophile généralisée
+M35.8	connectivite éosinophilique disséminée
+M35.9	maladie du collagène vasculaire
+M35.9	connectivite mixte
+M32.9	lupus érythémateux systémique
+M32.9	lupus érythémateux disséminé
+M14.8*	arthrite au cours du lupus érythémateux disséminé
+M34.0	sclérodermie généralisée
+M34.0	sclérodermie généralisée progressive
+M34.0	sclérodermie
+M34.0	sclérodermie circonscrite généralisée
+M34.0	morphée généralisée
+M34.8	acrosclérose
+M34.8	acrosclérodermie
+M34.8	sclérodactylie progressive
+M34.1	syndrome CRST
+M34.1	calcinose sous-cutanée, syndrome de Raynaud, sclérodactylie et télangiectasie
+M34.1	syndrome CREST
+M34.1	calcinose sous-cutanée, syndrome de Raynaud, sclérodactylie, hypomotilité oesophagienne et télangiectasie
+M35.0	syndrome de Sjögren
+M35.0	syndrome de Gougerot-Sjögren
+M35.0	maladie de Sjögren
+M33.1	dermatomyosite
+M33.1	polymyosite oedémateuse de Wagner-Unverricht
+M33.1	maladie de Wagner-Unverricht
+M33.1	dermatomyosite de l'adulte
+M33.1	dermatomyosite de Wagner-Unverricht
+M33.1	polymyosite avec atteinte cutanée
+M33.0	dermatomyosite juvénile
+M33.1	poïkilodermatomyosite
+M33.1	maladie de Petges-Cléjat
+M33.2	polymyosite
+M60.8	myosite avec inclusions cytoplasmiques
+M60.8	neuro-myosite
+M35.5	syndrome fibroscléreux diffus
+M35.5	fibrosclérose idiopathique à foyers multiples
+M35.8	atteinte systémique précisée du tissu conjonctif
+M13.99	arthropathie
+M13.99	affection des articulations
+M13.99	maladie des articulations
+M24.99	lésion d'une articulation
+M13.99	arthropathie aiguë
+M13.99	arthropathie subaiguë
+M13.99	arthropathie chronique
+M13.00	polyarthropathie
+M15.90	polyarthrose
+M13.99	rhumatisme articulaire chronique
+M13.99	arthrite
+M13.99	arthrite aiguë
+M13.99	arthrite subaiguë
+M13.99	arthrite chronique
+M13.00	polyarthrite
+M13.00	polyarthrite aiguë
+M13.00	polyarthrite migratoire
+M00.99	arthropathie associée à une infection
+M00.99	arthropathie infectieuse
+M00.99	arthrite associée à une infection
+M00.99	arthrite pyogène
+M00.99	arthrite aiguë suppurée
+M00.99	pyoarthrose
+M00.91	arthrite pyogène des articulations de l'épaule
+M00.92	arthrite pyogène du coude
+M00.93	arthrite pyogène du poignet
+M00.94	arthrite pyogène de la main
+M00.95	arthrite pyogène de l'articulation sacro-iliaque
+M00.95	arthrite pyogène de la hanche
+M00.96	arthrite pyogène du genou
+M00.97	arthrite pyogène de la cheville
+M00.97	arthrite pyogène du pied
+M00.90	polyarthrite pyogène
+M02.39	arthropathie de la maladie de Reiter
+M02.89	arthropathie au cours d'une urétrite non spécifique
+M35.2	arthropathie du syndrome de Behçet
+M02.19	arthropathie post-dysentérique
+M01.39*	arthropathie au cours d'une maladie bactérienne
+M01.59*	arthropathie au cours d'une maladie virale
+M01.69*	arthropathie au cours d'une mycose
+M01.89*	arthropathie au cours d'une helminthiase
+M01.89*	arthropathie au cours d'une maladie infectieuse ou parasitaire
+M00.99	arthrite infectieuse
+M00.90	polyarthrite infectieuse
+M00.99	arthrite infectieuse aiguë
+M00.90	polyarthrite infectieuse aiguë
+M00.99	arthrite infectieuse subaiguë
+M00.90	polyarthrite infectieuse subaiguë
+M00.99	arthrite infectieuse chronique
+M00.90	polyarthrite infectieuse chronique
+M11.99	arthropathie due à des microcristaux
+M11.99	arthrite due à des microcristaux
+M11.99	arthrite et synovite dues à des microcristaux
+M11.91	arthropathie due à des microcristaux des articulations de l'épaule
+M11.92	arthropathie due à des microcristaux du coude
+M11.93	arthropathie due à des microcristaux du poignet
+M11.94	arthropathie due à des microcristaux de la main
+M11.95	arthropathie due à des microcristaux de l'articulation sacro-iliaque
+M11.95	arthropathie due à des microcristaux de la hanche
+M11.96	arthropathie due à des microcristaux du genou
+M11.97	arthropathie due à des microcristaux de la cheville et du pied
+M11.98	arthropathie due à des microcristaux d'une articulation précisée
+M11.90	polyarthropathie due à des microcristaux
+M14.8*	arthropathie au cours d'affections précisées
+M14.8*	polyarthropathie au cours d'affections précisées
+M14.8*	arthrite au cours d'affections précisées
+M14.8*	polyarthrite au cours d'affections précisées
+M14.5*	arthropathie au cours d'une affection endocrinienne ou métabolique
+M07.69*	arthropathie au cours d'une affection gastro-intestinale non infectieuse
+M36.3*	arthropathie au cours d'une affection hématologique
+M36.2*	arthropathie hémophilique
+M14.8*	arthropathie au cours d'une affection dermatologique
+M14.8*	arthropathie au cours d'une affection respiratoire
+M14.6*	arthropathie au cours d'une affection neurologique
+M14.6*	arthropathie nerveuse
+M14.6*	arthropathie neuropathique
+M14.6*	arthropathie ossifiante neurogène
+M36.4*	arthropathie au cours d'une réaction d'hypersensibilité
+M14.8*	arthropathie au cours d'une maladie systémique
+M06.99	arthrite rhumatoïde
+M06.99	goutte asthénique primitive
+M06.90	polyarthrite chronique évolutive
+M06.90	polyarthrite rhumatismale chronique
+M07.19*	arthrite mutilante
+M05.09	syndrome de Felty
+M05.09	arthrite rhumatoïde, splénomégalie et leucopénie
+M08.99*	syndrome de Wissler-Fanconi
+M08.99*	subsepsis allergica
+M14.8*	syndrome d'arthrite rhumatoïde et d'uvéite
+M07.69*	arthrite entéropathique
+M05.39	arthrite rhumatoïde avec atteinte d'autres organes et appareils
+M14.5*	syndrome de Marie-Léri
+M14.5*	acro-ostéolyse rhumatoïde
+M14.5*	syndrome de la main en lorgnette
+M08.30	polyarthrite juvénile chronique
+M08.20	polyarthrite juvénile avec début systémique
+M08.20	arthrite rhumatoïde juvénile
+M08.20	maladie de Still
+M08.20	polyarthrite rhumatoïde juvénile chronique
+M08.20	polyarthrite rhumatoïde juvénile aiguë
+M08.20	arthrite rhumatoïde juvénile aiguë
+M08.49	polyarthrite rhumatoïde pauci-articulaire juvénile
+M08.09	arthrite monoarticulaire rhumatoïde juvénile
+M12.09	fibrose nodulaire rhumatoïde chronique
+M12.09	syndrome de Jaccoud
+M12.09	maladie de Jaccoud
+M12.09	arthrite rhumatoïde de Jaccoud
+M12.09	arthropathie chronique post-rhumatismale
+M79.09	rhumatisme extra-articulaire
+M06.8	ostéopériostite rhumatoïde
+M06.40	polyarthropathie inflammatoire
+M06.40	polyarthrite inflammatoire
+M19.99	arthrose
+M19.99	arthrite déformante
+M19.99	arthropathie dégénérative
+M19.99	ostéo-arthrose
+M19.99	arthrite dégénérative
+M15.9	polyarthrite dégénérative
+M15.9	polyarthrite hypertrophique
+M19.90	arthrite hypertrophique
+M19.99	ostéo-arthrite
+M19.91	arthrose des articulations de l'épaule
+M19.92	arthrose du coude
+M19.93	arthrose du poignet
+M19.94	arthrose de la main
+M19.95	arthrose sacro-iliaque
+M16.9	arthrose de la hanche
+M16.9	coxarthrose
+M17.9	arthrose du genou
+M17.9	gonarthrose
+M19.97	arthrose de la cheville et du pied
+M19.98	arthrose d'une localisation précisée
+M19.99	ostéo-arthrose localisée
+M19.99	ostéo-arthropathie localisée
+M19.99	arthrose localisée
+M15.9	arthrose pluri-articulaire
+M15.9	ostéoarthrite généralisée
+M15.9	ostéo-arthrose hypertrophique généralisée primaire
+M15.9	ostéo-arthrose généralisée
+M19.09	ostéo-arthrose primaire localisée
+M19.09	ostéo-arthropathie idiopathique localisée
+M19.01	ostéo-arthrose primaire des articulations de l'épaule
+M19.02	ostéo-arthrose primaire du coude
+M19.03	ostéo-arthrose primaire du poignet
+M19.04	ostéo-arthrose primaire de la main
+M19.05	ostéo-arthrose primaire sacro-iliaque
+M16.1	ostéoarthrose primaire de la hanche
+M16.1	coxarthrose primaire
+M17.1	ostéo-arthrose primaire du genou
+M17.1	gonarthrose primaire
+M19.07	ostéo-arthrose primaire de la cheville et du pied
+M19.08	ostéo-arthrose primaire d'une localisation précisée
+M19.00	ostéo-arthrose primaire de localisations multiples
+M19.29	ostéo-arthrose localisée secondaire
+M19.21	ostéo-arthrose secondaire des articulations de l'épaule
+M19.22	ostéo-arthrose secondaire du coude
+M19.23	ostéo-arthrose secondaire du poignet
+M19.24	ostéo-arthrose secondaire de la main
+M19.25	ostéo-arthrose secondaire sacro-iliaque
+M16.7	ostéoarthrose secondaire de la hanche
+M16.7	coxarthrose secondaire
+M17.5	ostéo-arthrose secondaire du genou
+M17.5	gonarthrose secondaire
+M19.27	ostéo-arthrose secondaire de la cheville et du pied
+M19.28	ostéo-arthrose secondaire d'une localisation précisée
+M19.20	ostéo-arthrose secondaire de localisations multiples
+M16.9	coxarthrose bilatérale sénile
+M18.9	arthrose de la première articulation carpo-métacarpienne
+M19.99	ostéo-arthrose localisée, primaire ou secondaire
+M19.90	ostéo-arthrose avec atteinte de localisations multiples, non généralisée
+M12.59	arthropathie d'origine traumatique
+M12.59	arthropathie post-traumatique
+M12.59	arthropathie traumatique aiguë
+M13.89	arthrite allergique
+M13.89	arthrite climatérique
+M13.89	arthrite de la ménopause
+M12.89	arthropathie transitoire
+M13.19	monoarthrite, non précisée
+M13.19	monoarthrite
+M13.15	coxite
+M12.89	arthropathie précisée
+M13.99	rhumatisme articulaire chronique partiel
+M13.99	arthrite sèche
+M13.99	rhumatisme osseux partiel
+M15.1	nodosité d'Heberden
+M15.1	arthrose interphalangienne
+M15.2	nodosités de Bouchard
+M23.99	lésion articulaire du genou
+M23.99	lésion articulaire interne du genou
+M23.39	dégénérescence du cartilage ou du ménisque du genou
+M23.29	ancienne rupture du cartilage ou du ménisque du genou
+M23.29	déchirure ancienne du cartilage ou du ménisque du genou
+M23.23	déchirure en anse de seau d'un ménisque interne
+M23.31	lésion de la corne antérieure d'un ménisque interne
+M23.32	lésion de la corne postérieure d'un ménisque interne
+M23.33	dégénérescence du ménisque interne du genou
+M23.33	autre lésion non précisée d'un ménisque interne
+M23.29	déchirure en anse de seau d'un cartilage non précisé
+M23.36	lésion d'un ménisque externe
+M23.26	déchirure en anse de seau d'un ménisque externe
+M23.34	lésion de la corne antérieure d'un ménisque externe
+M23.35	lésion de la corne postérieure d'un ménisque externe
+M23.36	autre lésion d'un ménisque externe
+M23.39	lésion d'un ménisque
+M23.39	lésion d'un cartilage semilunaire
+M23.09	kyste d'un cartilage semilunaire
+M23.4	corps étranger intra-articulaire du genou
+M23.4	souris intra-articulaire du genou
+M23.4	grains riziformes d'une articulation du genou
+M23.69	déchirure ancienne d'un ligament du genou
+M23.64	déchirure ancienne du ligament latéral externe
+M23.63	déchirure ancienne du ligament latéral interne
+M23.61	déchirure ancienne du ligament croisé antéro-externe
+M23.62	déchirure ancienne du ligament croisé postérieur
+M23.67	déchirure ancienne de la capsule articulaire du genou
+M23.69	déchirure ancienne d'un autre ligament du genou
+M22.4	chondromalacie de la rotule
+M22.4	rotule chondromalacique
+M22.4	dégénérescence du cartilage articulaire de la rotule
+M22.4	maladie de Buedinger-Ludloff-Laewen
+M22.4	maladie de Büdinger-Ludloff-Lawen
+M24.19	lésion du cartilage articulaire
+M24.19	atteinte du cartilage articulaire
+M24.11	lésion du cartilage articulaire de la région de l'épaule
+M24.12	lésion du cartilage articulaire du coude
+M24.13	lésion du cartilage articulaire du poignet
+M24.14	lésion du cartilage articulaire des articulations de la main
+M24.15	lésion du cartilage articulaire de l'articulation sacro-iliaque
+M24.15	lésion du cartilage articulaire de la hanche
+M24.16	lésion du cartilage articulaire du genou
+M24.17	lésion du cartilage articulaire de la cheville et du pied
+M24.18	lésion du cartilage articulaire d'une localisation précisée
+M24.10	lésion du cartilage articulaire de localisations multiples
+M24.19	lésion d'un ménisque, autre que le genou
+M24.19	rupture ancienne d'un ménisque, autre que le genou
+M24.19	déchirure ancienne d'un ménisque, autre que le genou
+M24.29	déchirure ancienne des ligaments articulaires, autre que le genou
+M24.09	corps étranger articulaire
+M24.09	souris articulaires
+M24.09	corps étrangers organiques
+M24.09	corps mobile et flottant
+M24.09	arthrophytes
+M24.09	arthrolithe
+M24.39	luxation pathologique d'une articulation
+M24.39	luxation d'une articulation
+M24.39	luxation ou subluxation d'une articulation, non récidivante et non consécutive à un traumatisme récent
+M24.39	luxation spontanée d'une articulation
+M24.31	luxation pathologique d'une articulation de l'épaule
+M24.32	luxation pathologique du coude
+M24.33	luxation pathologique du poignet
+M24.34	luxation pathologique des articulations de la main
+M24.35	luxation pathologique sacro-iliaque
+M24.35	luxation pathologique de la hanche
+M24.36	luxation pathologique du genou
+M24.37	luxation pathologique de la cheville et du pied
+M24.38	luxation pathologique d'une localisation précisée
+M24.30	luxation pathologique de localisations multiples
+M24.4	luxation récidivante d'une articulation
+M24.41	luxation récidivante d'une articulation de l'épaule
+M24.42	luxation récidivante du coude
+M24.43	luxation récidivante du poignet
+M24.44	luxation récidivante des articulations de la main
+M24.45	luxation récidivante sacro-iliaque
+M24.45	luxation récidivante de la hanche
+M24.46	luxation récidivante du genou
+M24.47	luxation récidivante de la cheville et du pied
+M24.48	luxation récidivante d'une localisation précisée
+M24.40	luxation récidivante de localisations multiples
+M24.5	contracture articulaire
+M24.51	contracture articulaire d'une articulation de l'épaule
+M24.52	contracture articulaire du coude
+M24.53	contracture articulaire du poignet
+M24.54	contractures articulaires des articulations des os de la main
+M24.55	contracture articulaire sacro-iliaque
+M24.55	contracture articulaire de la hanche
+M24.56	contracture articulaire du genou
+M24.57	contracture articulaire de la cheville et du pied
+M24.58	contracture articulaire d'une localisation précisée
+M24.50	contractures articulaires de localisations multiples
+M24.61	ankylose articulaire d'une articulation de l'épaule
+M24.62	ankylose articulaire du coude
+M24.63	ankylose articulaire du poignet
+M24.64	ankylose articulaire des articulations de la main
+M24.65	ankylose articulaire sacro-iliaque
+M24.65	ankylose articulaire de la hanche
+M24.66	ankylose articulaire du genou
+M24.67	ankylose articulaire de la cheville et du pied
+M24.68	ankylose articulaire d'une localisation précisée
+M24.60	ankylose articulaire de localisations multiples
+M24.75	protrusion acétabulaire
+M24.75	bassin de Chrobak
+M24.75	maladie d'Otto
+M24.75	bassin d'Otto
+M25.29	paralysie articulaire paradoxale
+M25.39	instabilité articulaire
+M25.39	articulation instable
+M25.89	autre affection articulaire
+M25.49	épanchement articulaire
+M25.49	hydarthrose
+M25.49	tuméfaction articulaire douloureuse
+M25.41	épanchement articulaire de l'épaule
+M25.42	épanchement articulaire du coude
+M25.43	épanchement articulaire du poignet
+M25.44	épanchement articulaire de la main
+M25.45	épanchement articulaire sacro-iliaque
+M25.45	épanchement articulaire de la hanche
+M25.46	épanchement articulaire du genou
+M25.47	épanchement articulaire de la cheville et du pied
+M25.48	épanchement articulaire d'une localisation précisée
+M25.40	épanchement articulaire de localisations multiples
+M25.09	hémarthrose
+M25.01	hémarthrose de la région de l'épaule
+M25.02	hémarthrose du coude
+M25.03	hémarthrose du poignet
+M25.04	hémarthrose de la main
+M25.05	hémarthrose sacro-iliaque
+M25.05	hémarthrose de la hanche
+M25.06	hémarthrose du genou
+M25.07	hémarthrose de la cheville et du pied
+M25.08	hémarthrose d'une localisation précisée
+M25.00	hémarthrose de localisations multiples
+M12.39	rhumatisme palindromique
+M12.39	syndrome de Hench-Rosenberg
+M12.49	hydarthrose intermittente
+M25.89	autre lésion articulaire précisée
+M25.89	calcification articulaire
+M25.19	fistule articulaire
+M48.99	affection de la colonne vertébrale
+M48.99	spondylopathie
+M48.99	arthropathie vertébrale
+M48.99	dorsopathie
+M48.99	affection rachidienne
+M46.99	spondylite
+M46.99	spondylopathie inflammatoire
+M45.9	spondylarthrite ankylosante
+M45.9	maladie de Bechterew
+M45.9	spondylose déformante
+M45.9	spondylose rhizomélique
+M45.9	maladie de Pierre Marie-Strümpell
+M45.9	pelvispondylite rhumatismale
+M46.09	enthésopathie spinale
+M46.09	enthésopathie rachidienne
+M46.18	sacro-iliite
+M46.18	inflammation articulaire sacro-iliaque
+M49.89*	spondylopathie inflammatoire au cours d'une maladie classée ailleurs
+M45	maladie de Gringolo
+M45	syndrome de Gringolo
+M45	spondylarthrite ankylosante et lésions oculaires
+M47.99	spondylose
+M47.99	spondylarthrose
+M47.89	spondylose sans mention de myélopathie
+M47.89	ostéo-arthrite rachidienne
+M47.89	spondylarthrose déformante
+M47.89	spondylarthrose hypertrophique
+M47.89	spondylarthrose dégénérative
+M47.82	cervicarthrose sans myélopathie
+M47.82	arthrose cervicale
+M46.92	spondylarthrite cervicale
+M46.92	arthrite cervicale
+M47.92	spondylose cervicale
+M47.92	spondylarthrose cervicale
+M47.84	dorsarthrose sans myélopathie
+M47.84	arthrose dorsale
+M46.94	arthrite dorsale
+M46.94	spondylarthrite dorsale
+M47.94	spondylose dorsale
+M47.94	spondylarthrose dorsale
+M47.87	spondylarthrose lombo-sacrée sans myélopathie
+M47.87	arthrose lombo-sacrée
+M46.97	arthrite lombo-sacrée
+M46.97	spondylarthrite lombo-sacrée
+M47.97	spondylose lombo-sacrée
+M47.97	spondylarthrose lombo-sacrée
+M48.29	arthrose interépineuse
+M48.29	ostéo-arthrose interépineuse
+M48.29	syndrome de Baastrup
+M48.19	hyperostose vertébrale ankylosante
+M48.19	maladie de Forestier
+M48.39	spondylopathie traumatique
+M48.39	maladie de Kümmell
+M48.39	spondylite traumatique
+M48.39	syndrome de Kümmell-Verneuil
+M48.39	spondylite de Kümmell
+M47.89	syndrome SAPHO
+M51.9	lésion d'un disque intervertébral
+M51.8	hernie d'un disque intervertébral, localisation non précisée, sans myélopathie
+M51.8	discopathie
+M51.8	hernie d'un nucleus pulposus
+M51.8	hernie d'un disque intervertébral
+M51.8	hernie de l'anneau fibreux d'un disque intervertébral
+M51.8	protrusion d'un disque intervertébral
+M51.8	prolapsus d'un disque intervertébral
+M51.8	rupture d'un disque intervertébral
+M50.2	hernie d'un disque intervertébral cervical sans myélopathie
+M51.2	hernie d'un disque intervertébral dorsal sans myélopathie
+M51.2	hernie d'un disque intervertébral lombaire sans myélopathie
+M51.4	nodule de Schmorl
+M51.4	hernie intrasomatique
+M51.4	nodule de Schmorl de la région dorsale
+M51.4	nodule de Schmorl de la région lombaire
+M51.4	nodule de Schmorl d'une région précisée
+M51.3	détérioration structurale d'un disque intervertébral
+M51.3	dégénérescence d'un disque intervertébral
+M51.8	pincement discal
+M50.3	détérioration structurale d'un disque intervertébral cervico-dorsal
+M50.3	détérioration structurale d'un disque intervertébral cervical
+M51.3	détérioration structurale d'un disque intervertébral dorsal
+M51.3	détérioration structurale d'un disque intervertébral dorso-lombaire
+M51.3	détérioration structurale d'un disque intervertébral lombaire
+M51.3	détérioration structurale d'un disque intervertébral lombo-sacré
+M96.1	syndrome post-laminectomie
+M96.1	syndrome post-laminectomie de la région cervicale
+M96.1	syndrome post-laminectomie de la région dorsale
+M96.1	syndrome post-laminectomie de la région lombaire
+M51.8	calcification d'un cartilage ou d'un disque intervertébral
+M50.8	calcification d'un cartilage ou d'un disque intervertébral de la région cervicale
+M51.8	calcification d'un cartilage ou d'un disque intervertébral de la région dorsale
+M51.8	calcification d'un cartilage ou d'un disque intervertébral de la région lombaire
+M46.49	discite
+M46.42	discite de la région cervicale
+M46.44	discite de la région dorsale
+M46.46	discite de la région lombaire
+M48.02	sténose du canal médullaire de la région cervicale
+M48.02	rétrécissement du canal médullaire cervical
+M53.0	syndrome de Fuchs
+M53.0	syndrome de Barré et Liéou
+M53.0	syndrome sympathique cervical postérieur
+M54.12	névrite brachiale
+M54.12	radiculite brachiale
+M54.12	radiculite cervicale
+M54.12	syndrome radiculaire des membres supérieurs
+M43.6	torticolis
+M43.6	contracture cervicale
+M43.6	maladie de Grisel
+M43.6	torticolis naso-pharyngien
+M43.6	torticolis atloïdo-axoïdien
+M48.82	ossification du ligament longitudinal postérieur de la région cervicale
+M50.9	syndrome cervical
+M53.9	affection musculo-squelettique du cou non précisée
+M53.9	affection de la région cervicale
+M53.9	affection du dos
+M43.29	ankylose de la colonne vertébrale
+M43.20	ankylose complète de la colonne vertébrale
+M43.20	colonne vertébrale en bambou
+M54.1	compression de la racine d'un nerf rachidien
+M48.09	sténose rachidienne
+M48.09	sténose rachidienne autre que cervicale
+M48.04	sténose rachidienne dorsale
+M48.04	sténose rachidienne thoracique
+M48.06	sténose rachidienne lombaire
+M48.09	sténose rachidienne d'une région précisée
+M54.5	lumbago
+M54.5	douleur lombaire
+M54.5	lombalgie
+M54.5	syndrome de douleur lombaire basse
+M54.5	lombalgie aiguë
+M54.3	sciatique
+M54.3	sciatalgie
+M54.3	névralgie sciatique
+M54.3	syndrome de Putti
+M54.3	syndrome vertébral lombaire
+M54.3	syndrome vertébral
+M54.3	sciatique vertébrale
+M54.3	syndrome Putti-Chavany
+M54.3	sciatique paralysante
+M54.1	névrite thoracique
+M54.1	radiculite thoracique
+M54.1	névrite lombo-sacrée
+M54.1	radiculite lombo-sacrée
+M54.1	syndrome radiculaire des membres inférieurs
+M54.9	dorsalgie
+M54.9	dorsolombalgie
+M54.9	douleurs d'origine vertébrale
+M53.3	affection du sacrum
+M43.2	ankylose de l'articulation lombo-sacrée
+M24.65	ankylose de l'articulation sacro-iliaque
+M53.2	instabilité de l'articulation lombo-sacrée
+M25.35	instabilité de l'articulation sacro-iliaque
+M53.3	affection du coccyx
+M53.3	hypermobilité du coccyx
+M53.3	affection précisée du coccyx
+M43.4	subluxation atloïdo-axoïdienne
+M48.89	ossification du ligament longitudinal postérieur
+M77.99	enthésopathie de localisation non précisée
+M77.99	capsulite
+M77.99	périarthrite
+M77.89	périarthrite calcifiante aiguë
+M77.99	tendinite
+M77.88	tendinite calcifiante rétropharyngée
+M75.8	affection d'une bourse de la région de l'épaule
+M75.8	affection d'un tendon de la région de l'épaule
+M75.1	syndrome de la coiffe des rotateurs
+M75.1	syndrome sus-épineux
+M75.0	épaule bloquée
+M75.0	maladie de Duplay
+M75.0	périarthrite scapulo-humérale ankylosante
+M75.0	capsulite rétractile de l'épaule
+M75.0	épaule gelée
+M75.3	tendinite calcifiante de l'épaule
+M75.5	tendinite calcifiante des courts rotateurs de l'épaule
+M75.2	ténosynovite du biceps
+M75.5	bursite sous-coracoïdienne
+M75.0	périarthrite de l'épaule
+M89.0	syndrome épaule-main
+M89.0	rhumatisme neurotrophique du membre supérieur
+M75.8	syndrome scapulo-costal
+M75.8	affection précisée de la région de l'épaule
+M77.82	enthésopathie de la région du coude
+M77.82	enthésopathie du coude
+M77.1	épicondylite
+M77.0	épitrochléite
+M77.1	épicondylite latérale
+M77.1	épicondylite des joueurs de golf
+M77.1	épicondylite des joueurs de tennis
+M70.2	bursite olécrânienne
+M70.2	bursite du coude
+M77.82	enthésopathie précisée du coude
+M77.83	enthésopathie du poignet et du carpe
+M71.53	bursite du poignet
+M70.1	bursite de la main
+M77.2	périarthrite du poignet
+M76.85	enthésopathie de la région de la hanche
+M70.7	bursite de la hanche
+M67.3	coxite transitoire
+M76.0	tendinite fessière
+M76.2	exostose de la crête iliaque
+M76.1	tendinite du psoas
+M70.6	tendinite trochantérienne
+M76.86	enthésopathie du genou
+M70.5	bursite du genou
+M76.86	tendinite de la patte d'oie
+M71.56	bursite de la patte d'oie
+M76.4	bursite du ligament latéral interne du genou
+M76.4	syndrome de Pellegrini-Stieda
+M76.4	ossification du ligament latéral interne du genou
+M71.56	bursite du ligament latéral externe du genou
+M76.5	tendinite rotulienne
+M70.4	bursite prérotulienne
+M70.5	bursite sous-rotulienne
+M70.5	bursite rétro-rotulienne
+M77.5	enthésopathie de la cheville et du tarse
+M10.97	podagre
+M76.6	bursite du tendon d'Achille
+M76.6	talalgie de Swediaur
+M76.6	maladie de Schanz
+M76.6	syndrome de Haglund
+M76.6	ténosite achilléenne
+M76.6	achilléite
+M76.6	tendinite achilléenne
+M76.86	tendinite tibiale
+M76.86	tendinite tibiale antérieure
+M76.86	tendinite tibiale postérieure
+M77.3	épine calcanéenne
+M77.3	éperon calcanéen
+M76.7	tendinite péronière
+M77.5	enthésopathie précisée de la cheville et du tarse
+M77.8	enthésopathie précisée périphérique
+M67.9	affection d'une synoviale
+M67.9	affection d'un tendon
+M71.9	affection d'une bourse
+M67.8	hernie synoviale
+M65.99	synovite
+M65.89	synovite séreuse aiguë
+M65.89	synovite proliférante
+M65.89	synovite hypertrophique
+M12.29	synovite villo-nodulaire
+M12.29	synovite villo-nodulaire pigmentaire
+M12.29	synovite villeuse hémopigmentée
+M12.29	synovite polypoïde hémopigmentée
+M12.29	synovite villeuse
+M65.99	ténosynovite
+M65.99	ténovaginite
+M65.89	synovite crépitante
+M65.89	ténosynovite aiguë sèche
+M65.89	ténalgie crépitante
+M65.89	ténosynovite sténosante
+M65.89	ténosynovite constrictive
+M65.89	ténosynovite nodulaire
+M68.0*	synovite ou ténosynovite au cours d'une maladie classée ailleurs
+M65.3	doigt à ressort acquis
+M65.3	pouce à ressort
+M65.4	ténosynovite chronique sténosante
+M65.4	maladie de de Quervain
+M65.84	ténosynovite de la main et du poignet
+M65.87	ténosynovite du pied et de la cheville
+M20.1	bursite du gros orteil
+M20.1	oignon du gros orteil
+M20.1	oignon de tailleur
+M70.89	bursite spécifique d'origine professionnelle
+M70.3	bursite du coude par traumatisme répété
+M70.1	bursite de la main par traumatisme répété
+M70.4	bursite prépatellaire par traumatisme répété
+M70.4	bursite prérotulienne par traumatisme répété
+M70.0	synovite crépitante chronique du poignet
+M70.2	coude des mineurs
+M70.5	genou des mineurs
+M71.99	bursite
+M71.59	bursite aiguë
+M71.59	bursite subaiguë
+M71.59	bursite chronique
+M71.19	bourse séreuse infectée
+M71.19	bursite infectieuse
+M71.39	kyste arthrosynovial
+M67.4	kyste de la gaine tendineuse
+M79.89	kyste aponévrotique
+M66.19	déchirure de la synoviale
+M71.2	kyste synovial poplité
+M71.2	kyste poplité
+M71.2	kyste de Baker
+M66.59	déchirure non traumatique d'un tendon
+M75.1	rupture complète de la coiffe des rotateurs
+M66.32	déchirure du tendon du long biceps
+M66.24	déchirure des tendons extenseurs de la main et du poignet
+M66.34	déchirure des tendons fléchisseurs de la main et du poignet
+M66.25	déchirure d'un tendon du quadriceps
+M66.46	déchirure d'un tendon rotulien
+M66.27	déchirure du tendon d'Achille
+M66.47	déchirure de tendons précisés du pied et de la cheville
+M67.8	affections précisées des synoviales, des tendons et des bourses
+M67.1	contracture d'une gaine tendineuse
+M67.0	brièveté acquise du tendon d'Achille
+M65.29	dépôts calciques d'un tendon et d'une bourse séreuse
+M65.29	ostéodesmose
+M65.29	calcification tendineuse
+M65.29	tendinite calcifiée
+M71.0	abcès des bourses séreuses
+M65.0	abcès tendineux
+M62.99	affection musculaire
+M79.1	polymyalgie
+M24.29	affection ligamentaire
+M62.89	affection aponévrotique
+M79.99	affection des tissus mous
+M60.09	myosite infectieuse
+M60.09	myosite purulente
+M60.09	myosite suppurée
+M61.99	calcification musculaire
+M61.29	calcification massive liée à une paraplégie
+M61.99	ossification musculaire
+M61.99	myosite ossifiante
+M61.19	myosite ossifiante progressive
+M61.19	maladie de Münchmeyer
+M61.19	polymyosite ossifiante progressive
+M61.09	myosite ossifiante traumatique
+M61.59	myosite ossifiante localisée
+M61.49	calcification hétérotopique post-opératoire
+M61.19	polymyosite ossifiante
+M62.50	amyotrophie
+M62.50	atrophie des muscles
+M62.50	fonte musculaire
+M62.50	atrophie musculaire
+M62.50	myatrophie
+M62.89	myomalacie
+M62.59	atrophie musculaire ischémique
+M62.89	myofibrose
+M62.59	atrophie musculaire due à l'inactivité
+M62.89	arthrogrypose
+M62.39	syndrome d'immobilité paraplégique
+M62.89	autre affection musculaire précisée
+M79.19	syndrome d'éosinophilie-myalgies
+M24.29	laxité ligamentaire
+M35.7	syndrome d'hypermobilité
+M72.0	rétraction de l'aponévrose palmaire
+M72.0	maladie de Dupuytren
+M72.0	fibromatose palmaire
+M72.84	fibromatose digitale
+M72.84	fibromatose digitale infantile
+M72.84	fibrome digital récurrent de l'enfant
+M72.2	fibromatose de l'aponévrose plantaire
+M72.2	aponévrosite plantaire
+M72.2	maladie de Ledderhose
+M72.2	rétraction de l'aponévrose plantaire
+M72.2	fasciite plantaire traumatique
+M72.2	aponévrosite plantaire traumatique
+M72.14	hélodermie
+M72.14	coussinet des phalanges
+M72.39	fasciite nodulaire
+M72.49	fasciite infiltrante
+M72.49	fibromatose pseudo-sarcomateuse
+M72.49	fasciite pseudosarcomateuse
+M72.49	fasciite proliférante
+M60.8	myosite proliférative
+M60.19	myosite interstitielle
+M60.19	myosite fibreuse
+M60.29	granulome à corps étranger d'un muscle
+M60.29	talcome d'un muscle
+M62.19	déchirure non traumatique d'un muscle
+M62.09	diastasis d'un muscle
+M62.08	diastasis du grand droit
+M79.09	rhumatisme
+M79.09	fibrosite
+M79.09	fibrosite primaire
+M79.09	fibrosite secondaire
+M60.99	myosite
+M79.09	fibromyosite
+M79.09	syndrome polyalgique idiopathique diffus
+M79.09	fibromyalgie
+M79.09	syndrome de fibromyalgie primaire
+M62.49	contracture musculaire
+M79.4	hypertrophie du coussinet graisseux rotulien
+M79.4	hypertrophie du coussinet graisseux du genou
+M72.59	aponévrosite
+M35.4	fasciite diffuse à éosinophiles
+M35.4	pseudo-sclérodermie à éosinophiles
+M35.4	fasciite à éosinophiles
+M35.4	syndrome de Shulman
+M79.69	mélalgie
+M79.69	douleur au niveau d'un membre
+M79.59	corps étranger résiduel dans les tissus mous
+M79.89	tuméfaction d'un membre
+M76.86	syndrome de la loge tibiale antérieure
+M62.48	spasmes musculaires de la tête et du cou
+M24.58	raideur musculaire aiguë du cou
+M24.58	limitation anormale chronique des mouvements du cou
+M79.18	myalgie intercostale
+M89.99	maladie osseuse
+M89.99	ostéopathie
+M90.89*	ostéodystrophie hépatique
+M89.89	ostéodystrophie par inactivité
+M81.89	syndrome de déminéralisation osseuse des astronautes
+M48.1	hyperostose diffuse idiopathique
+M86.99	ostéite
+M86.99	inflammation des os
+M86.91	ostéite de la région de la clavicule et de l'omoplate
+M86.92	ostéite de l'humérus
+M86.93	ostéite du cubitus et du radius
+M86.94	ostéite des os du carpe, du métacarpe et des doigts
+M86.95	ostéite des os du bassin
+M86.95	ostéite des os du pubis
+M86.95	ostéite du fémur
+M86.96	ostéite du péroné et du tibia
+M86.97	ostéite des os du tarse, du métatarse et des orteils
+M86.98	ostéite d'une localisation précisée
+M86.90	ostéite de localisations multiples
+M86.99	ostéomyélite
+M86.99	inflammation pyogène d'un os
+M86.91	ostéomyélite de la clavicule et de l'omoplate
+M86.92	ostéomyélite de l'humérus
+M86.93	ostéomyélite du cubitus et du radius
+M86.94	ostéomyélite des os du carpe, du métacarpe et des doigts
+M86.95	ostéomyélite des os du bassin
+M86.95	ostéomyélite du fémur
+M86.96	ostéomyélite du péroné et du tibia
+M86.97	ostéomyélite des os du tarse, du métatarse et des orteils
+M86.98	ostéomyélite d'une localisation précisée
+M86.90	ostéomyélite de localisations multiples
+M86.98	ostéomyélite du crâne
+M86.98	ostéomyélite crânienne
+M86.19	ostéomyélite aiguë
+M86.19	ostéomyélite aiguë avec ou sans périostite
+M86.11	ostéomyélite aiguë de la clavicule et de l'omoplate
+M86.12	ostéomyélite aiguë de l'humérus
+M86.13	ostéomyélite aiguë du cubitus et du radius
+M86.14	ostéomyélite aiguë des os du carpe, du métacarpe et des doigts
+M86.15	ostéomyélite aiguë des os du bassin
+M86.15	ostéomyélite aiguë du fémur
+M86.16	ostéomyélite aiguë du péroné et du tibia
+M86.17	ostéomyélite aiguë des os du tarse, du métatarse et des orteils
+M86.18	ostéomyélite aiguë d'une localisation précisée
+M86.10	ostéomyélite aiguë de localisations multiples
+M86.18	ostéomyélite aiguë du crâne
+M86.18	ostéomyélite crânienne aiguë
+M86.69	ostéomyélite chronique
+M86.69	ostéomyélite chronique avec ou sans périostite
+M86.61	ostéomyélite chronique de la clavicule et de l'omoplate
+M86.62	ostéomyélite chronique de l'humérus
+M86.63	ostéomyélite chronique du cubitus et du radius
+M86.64	ostéomyélite chronique des os du carpe, du métacarpe et des doigts
+M86.65	ostéomyélite chronique des os du bassin
+M86.65	ostéomyélite chronique du fémur
+M86.66	ostéomyélite chronique du péroné et du tibia
+M86.67	ostéomyélite chronique des os du tarse, du métatarse et des orteils
+M86.68	ostéomyélite chronique d'une localisation précisée
+M86.60	ostéomyélite chronique de localisations multiples
+M86.68	ostéomyélite chronique du crâne
+M86.68	ostéomyélite crânienne chronique
+M86.29	ostéomyélite subaiguë avec ou sans périostite
+M86.89	abcès de Brodie
+M89.89	lésion radique d'un os
+M89.89	os radique
+M87.89	nécrose osseuse aiguë
+M87.89	ostéonécrose aiguë
+M86.89	ostéomyélite de Garré
+M86.89	ostéomyélite sclérosante non suppurée
+M86.89	maladie de Garré
+M86.89	ostéite de Garré
+M86.89	ostéite chronique condensante
+M85.39	ostéite condensante diffuse
+M86.99	périostite
+M86.99	périostite sans mention d'ostéomyélite
+M86.91	périostite aiguë de la clavicule et de l'omoplate
+M86.92	périostite aiguë de l'humérus
+M86.93	périostite aiguë du cubitus et du radius
+M86.94	périostite aiguë des os du carpe, du métacarpe et des doigts
+M86.95	périostite aiguë des os du bassin
+M86.95	périostite aiguë du fémur
+M86.96	périostite aiguë du péroné et du tibia
+M86.97	périostite aiguë des os du tarse, du métatarse et des orteils
+M86.98	périostite aiguë d'une localisation précisée
+M86.90	périostite de localisations multiples
+M86.89	abcès périostique sans mention d'ostéomyélite
+M86.99	abcès de l'os, à l'exclusion des os des sinus de la face, de la machoire ou de la mastoïde
+M89.89	périostose sans mention d'ostéomyélite
+M89.69	ostéopathie due à une poliomyélite
+M90.8*	infections osseuses au cours d'autres maladies
+M86.99	infection osseuse
+M86.98	ostéomyélite des os de la face
+M86.98	ostéomyélite de l'os frontal
+M86.98	ostéomyélite de l'os malaire
+M86.98	ostéomyélite de l'os sphénoïde
+M86.98	ostéomyélite de l'os temporal
+M86.98	ostéomyélite du complexe orbito-nasal
+M86.18	ostéomyélite aiguë des os de la face
+M86.18	ostéomyélite aiguë de l'os frontal
+M86.18	ostéomyélite aiguë de l'os malaire
+M86.18	ostéomyélite aiguë de l'os sphénoïde
+M86.18	ostéomyélite aiguë de l'os temporal
+M86.18	ostéomyélite aiguë du complexe orbito-nasal
+M86.68	ostéomyélite chronique des os de la face
+M86.68	ostéomyélite chronique de l'os frontal
+M86.68	ostéomyélite chronique de l'os malaire
+M86.68	ostéomyélite chronique de l'os sphénoïde
+M86.68	ostéomyélite chronique de l'os temporal
+M86.68	ostéomyélite chronique du complexe orbito-nasal
+M86.88	ostéomyélite de Garré des os de la face
+M86.88	ostéomyélite de Garré de l'os frontal
+M86.88	ostéomyélite de Garré de l'os malaire
+M86.88	ostéomyélite de Garré de l'os sphénoïde
+M86.88	ostéomyélite de Garré de l'os temporal
+M86.88	ostéomyélite de Garré du complexe orbito-nasal
+M86.88	abcès d'un os de la face
+M86.88	abcès de l'os frontal
+M86.88	abcès de l'os malaire
+M86.88	abcès de l'os sphénoïde
+M86.88	abcès de l'os temporal
+M86.88	abcès du complexe orbito-nasal
+M87.89	ostéoradionécrose
+M87.89	nécrose par irradiation d'un os
+M87.88	ostéoradionécrose des os de la face
+M87.88	ostéoradionécrose de l'os frontal
+M87.88	ostéoradionécrose de l'os malaire
+M87.88	ostéoradionécrose de l'os sphénoïde
+M87.88	ostéoradionécrose de l'os temporal
+M87.88	ostéoradionécrose du complexe orbito-nasal
+M87.88	séquestre des os de la face
+M87.88	séquestre de l'os frontal
+M87.88	séquestre de l'os malaire
+M87.88	séquestre de l'os sphénoïde
+M87.88	séquestre de l'os temporal
+M87.88	séquestre du complexe orbito-nasal
+M88.99	ostéite déformante
+M88.99	ostéite déformante sans mention de tumeur osseuse
+M88.99	maladie osseuse de Paget
+M88.99	ostéite déformante au cours d'une affection classée ailleurs
+M89.49	ostéoarthropathie hypertrophiante pneumique
+M89.49	ostéite engainante des diaphyses
+M89.49	périostose engainante acromégalique
+M89.49	maladie de Pierre Marie-Bamberger
+M89.49	acropachie
+M92.2	ostéoarthropathie familiale des doigts
+M92.2	maladie de Thiemann
+M89.89	hyperostose corticale infantile
+M89.89	maladie de Caffey-Smyth
+M93.9	ostéochondropathie
+M93.9	maladie ostéo-cartilagineuse
+M42.09	épiphysite vertébrale douloureuse juvénile
+M42.09	cyphose des adolescents
+M42.09	épiphysite vertébrale
+M42.09	maladie de Scheuermann
+M42.09	ostéochondrite vertébrale juvénile
+M42.09	cyphose de Scheuermann
+M42.09	cyphose douloureuse des adolescents
+M91.9	ostéochondrite juvénile de la hanche
+M91.1	épiphysite fémorale supérieure
+M91.3	pseudocoxalgie
+M91.2	coxa plana
+M91.1	ostéochondrite juvénile de la tête du fémur
+M91.1	maladie de Legg-Perthes-Calvé
+M91.0	ostéochondrite juvénile du bassin
+M91.0	ostéochondrite ischio-pubienne de Van Neck Odelberg
+M91.0	ostéochondrite juvénile de la crête iliaque
+M91.0	ostéochondrite juvénile de Buchanan
+M91.0	ostéochondrite juvénile de l'acétabulum
+M91.0	ostéochondrite juvénile de la symphyse pubienne
+M91.0	maladie de Pierson
+M93.0	glissement de l'épiphyse supérieure du fémur
+M93.0	épiphysiolyse de la tête fémorale
+M93.0	coxa vara retrosa
+M93.0	glissement non traumatique de l'épiphyse supérieure du fémur
+M92.3	ostéochondrite juvénile du membre supérieur
+M92.0	ostéochondrite du condyle huméral
+M92.0	ostéochondrite juvénile du condyle huméral
+M92.0	maladie de Haas
+M92.0	maladie de Panner
+M92.2	ostéochondrite du semi-lunaire
+M92.2	maladie de Kienböck
+M92.2	atrophie de Kienböck
+M92.2	ostéochondrite juvénile de la main
+M92.2	ostéochondrite juvénile des têtes métacarpiennes
+M92.2	maladie de Mauclaire
+M92.1	ostéochondrite juvénile de l'épiphyse inférieure du cubitus
+M92.1	maladie de Burns
+M92.1	ostéochondrite juvénile de la tête radiale
+M92.1	maladie de Brailsford
+M92.8	ostéochondrite juvénile du membre inférieur
+M92.8	ostéochondrite juvénile du membre inférieur, à l'exclusion du pied
+M92.5	tibia vara
+M92.5	ostéochondrite déformante du tibia
+M92.5	nécrose aseptique de la tubérosité interne du tibia
+M92.5	ostéochondrite juvénile de l'épiphyse supérieure du tibia
+M92.5	maladie de Blount
+M92.4	ostéochondrite juvénile du centre d'ossification primaire de la rotule
+M92.4	ostéochondrite juvénile du centre d'ossification secondaire de la rotule
+M92.5	ostéochondrite juvénile du tubercule tibial
+M92.5	maladie d'Osgood-Schlatter
+M92.4	patellite des adolescents
+M92.4	maladie de Sinding Larsen-Johansson
+M92.8	ostéochondrite juvénile du pied
+M92.6	apophysite postérieure du calcanéum
+M92.6	maladie de Sever
+M92.6	épiphysite du calcanéum
+M92.6	ostéochondrite juvénile du calcanéum
+M92.6	ostéochondrite juvénile de l'astragale
+M92.7	ostéochondrite juvénile du deuxième métatarsien
+M92.7	maladie de Freiberg
+M92.7	ostéochondrite juvénile du cinquième métatarsien
+M92.5	ostéochondrite juvénile du tibia
+M92.6	ostéochondrite juvénile du scaphoïde tarsien
+M92.6	scaphoïdite tarsienne de Köhler
+M92.6	maladie de Müller-Weiss
+M92.6	scaphoïdite tarsienne de l'adulte
+M92.9	apophysite juvénile
+M92.9	épiphysite juvénile
+M92.9	ostéochondrite juvénile
+M92.9	ostéochondrose juvénile
+M93.2	ostéochondrite disséquante
+M93.8	ostéochondrite vertébrale de l'adulte
+M93.8	forme précisée d'ostéochondropathie
+M93.9	apophysite
+M93.9	sclérose apophysaire
+M93.9	épiphysite
+M93.9	dysplasie de la plaque épiphyséale
+M93.9	ostéochondrite
+M93.9	maladie de Martin du Pan et Rutishauser
+M93.9	ostéochondrite laminaire
+M93.9	ostéochondrose
+M93.9	nécrose ischémique épiphysaire
+M93.9	nécrose ischémique de l'épiphyse
+M93.9	chondro-épiphysose
+M81.99	ostéoporose
+M81.89	anomalie ostéoporotique de la moelle osseuse
+M48.5	tassement vertébral
+M81.89	ostéoporose sénile
+M81.09	ostéoporose ménopausique
+M81.09	ostéoporose post-ménopausique
+M81.59	ostéoporose idiopathique
+M81.29	ostéoporose d'inactivité
+M89.09	algodystrophie sympathique
+M89.09	algodystrophie sympathique réflexe
+M89.09	ostéoporose algique post-traumatique
+M89.09	atrophie de Sudeck
+M89.09	atrophie osseuse post-traumatique
+M83.88	craniotabès
+M89.59	ostéolyse migratoire
+M89.59	maladie de Gorham
+M89.59	angiomatose osseuse
+M89.59	ostéolyse massive idiopathique
+M81.49	ostéoporose médicamenteuse
+M81.89	syndrome de Riley-Shwachman
+M89.99	autre affection des os et des cartilages
+M48.5	affaissement d'une vertèbre
+M48.5	affaissement vertébral
+M48.5	spondylomalacie
+M85.09	dysplasie fibreuse des os
+M85.09	fibroblastose médullaire
+M85.09	dysplasie fibreuse monostotique
+M85.09	ostéite fibreuse localisée
+M85.09	dysplasie fibreuse localisée
+M85.2	hyperostose du crâne
+M85.2	épaississement du crâne
+M85.2	hyperostose frontale interne
+M85.2	craniopathie métabolique
+M85.2	syndrome de Morgagni-Morel
+M85.2	ostéose hypertrophiante diffuse bilatérale
+M85.2	leontiasis ossea
+M85.2	faciès léonin
+M87.99	nécrose aseptique d'un os, localisation non précisée
+M87.92	nécrose aseptique de la tête de l'humérus
+M87.95	nécrose aseptique de la tête et du col du fémur
+M87.95	nécrose aseptique du condyle fémoral interne
+M87.97	nécrose aseptique du talon
+M87.98	nécrose aseptique de localisation précisée
+M85.39	ostéite condensante
+M85.35	sclérose piriforme de l'os iliaque
+M94.08	syndrome de Tietze
+M94.08	rhumatisme intercostal
+M94.08	périchondrite péristernale
+M94.08	syndrome des articulations costo-chondrales
+M89.09	algoneurodystrophie
+M89.09	atrophie par inactivité
+M89.59	ostéoclasie
+M89.29	arrêt du développement d'un os
+M89.19	arrêt épiphysaire
+M94.29	chondromalacie
+M94.29	chondromalacie localisée
+M94.29	chondromalacie systématisée
+M94.26	chondromalacie du plateau tibial
+M86.89	diaphysite
+M94.89	chondrite
+M94.88	chondrite costale
+M94.88	costochondrite
+M94.89	périchondrite
+M94.19	polychondrite récidivante
+M94.89	polychondrite chronique
+M94.19	syndrome de von Meyenburg
+M89.89	hémorragie sous-périostée
+M24.88	syndrome de Cyriax
+M24.88	syndrome des côtes glissantes
+M95.9	déformation musculo-squelettique acquise
+M21.4	pied plat acquis
+M21.4	pied bot plat acquis
+M21.4	platypodie acquise
+M20.6	déformation acquise d'un orteil
+M20.1	hallux valgus acquis
+M20.1	hallux valgus
+M20.1	hallux valgus avec oignon
+M20.3	hallux varus acquis
+M20.2	hallux rigidus acquis
+M20.4	hallux malleus acquis
+M20.4	hallux flexus acquis
+M20.4	orteil en marteau
+M20.4	orteil en col de cygne
+M20.4	orteil en marteau acquis, autre que le gros orteil
+M21.5	gampsodactylie
+M21.5	pied en griffe acquis
+M20.5	déformation précisée acquise d'un orteil
+M21.93	déformation acquise de l'avant-bras, à l'exclusion des doigts
+M21.82	déformation acquise du coude
+M21.83	déformation acquise de l'avant-bras
+M21.83	déformation acquise du poignet
+M21.83	signe de la corde des radiaux
+M21.83	déformation de la main en dos de fourchette
+M21.94	déformation acquise de la main
+M21.84	main bêche
+M21.84	main en battoir
+M21.84	main acromégalique
+M21.84	main du myxoedème
+M21.03	cubitus valgus acquis
+M21.13	cubitus varus acquis
+M21.13	déformation en canon de fusil
+M21.03	déformation en valgus acquise du poignet
+M21.13	déformation en varus acquise du poignet
+M21.54	main en griffe acquise
+M21.54	griffe cubitale
+M21.54	main en griffe
+M21.84	main de prédicateur
+M21.84	main de bénisseur
+M21.54	main bote acquise
+M21.84	main de singe acquise
+M20.0	déformation acquise d'un doigt
+M20.0	doigt en maillet
+M20.0	doigt en marteau
+M20.0	déformation en boutonnière des doigts
+M20.0	déformation en col de cygne des doigts
+M77.97	exostose sous-unguéale
+M20.0	déformation acquise précisée d'un doigt
+M21.95	déformation acquise de la hanche
+M21.05	coxa valga acquise
+M21.15	coxa vara acquise
+M21.85	déformation acquise précisée de la hanche
+M21.96	déformation acquise du genou
+M21.06	genu valgum acquis
+M21.06	genou cagneux acquis
+M21.16	genu varum acquis
+M21.16	jambe arquée acquise
+M21.86	genu recurvatum acquis
+M21.86	déformation acquise précisée du genou
+M21.86	tibia en fourreau de sabre
+M21.86	tibia en lame de sabre
+M21.6	déformation acquise de la cheville et du pied
+M21.57	pied bot varus équin acquis
+M21.57	pied varus équin acquis
+M21.57	pied bot équin acquis
+M21.6	pied creux acquis
+M21.57	gampsodactylie acquise du pied
+M21.6	pied creux varus acquis
+M21.4	pied plat flexible acquis
+M21.4	pied plat flasque acquis
+M21.4	pied plat non rigide acquis
+M21.4	pied plat spasmodique acquis
+M21.4	pied plat rigide acquis
+M20.5	hippocratisme des orteils
+M21.6	déformation acquise précisée du calcanéum
+M21.57	pied bot acquis
+M21.99	déformation acquise d'un membre, localisation non précisée
+M21.99	déformation acquise d'un membre
+M21.76	inégalité de longueur des membres inférieurs acquise
+M21.92	déformation acquise du membre supérieur
+M21.96	déformation acquise du membre inférieur
+M21.91	déformation acquise de l'épaule
+M43.99	anomalie acquise de la courbure de la colonne vertébrale
+M40.09	cyphose posturale de l'adolescent
+M40.19	cyphose acquise
+M40.19	gibbosité acquise
+M40.09	cyphose posturale acquise
+M96.2	cyphose après irradiation
+M96.3	cyphose après laminectomie
+M40.29	autre cyphose acquise
+M40.49	lordose acquise
+M40.49	lordose posturale acquise
+M96.4	lordose après laminectomie
+M96.4	lordose après chirurgie
+M41.29	scoliose idiopathique et cyphoscoliose
+M41.09	scoliose idiopathique infantile résolutive
+M41.09	scoliose idiopathique infantile évolutive
+M96.5	scoliose après irradiation
+M41.39	scoliose thoracogénique
+M41.89	scoliose acquise
+M43.99	incurvation vertébrale
+M40.29	cyphose
+M40.29	gibbosité
+M41.99	cyphoscoliose
+M40.59	lordose
+M40.59	hyperlordose lombaire
+M40.59	hyperlordose
+M40.59	ensellure lombaire
+M43.89	lordoscoliose
+M41.99	scoliose
+M43.89	courbure précisée de la colonne vertébrale
+M95.0	déformation du nez
+M95.0	anomalie acquise du nez
+M95.0	nez en lorgnette
+M95.0	nez en pied de marmite
+M95.0	hypertrophie des os du nez
+M95.2	déformation acquise de la tête
+M95.3	déformation acquise du cou
+M95.3	cou anormalement court
+M95.3	cou court
+M95.4	thorax en tonneau
+M95.4	déformation acquise du thorax
+M95.4	thorax en carène acquis
+M95.4	thorax en carène
+M95.4	thorax en bréchet
+M95.4	thorax aplati
+M95.4	thorax plat
+M95.4	pectus excavatum acquis
+M95.4	cuvette sternale
+M95.4	thorax en entonnoir
+M95.4	déformation acquise d'une côte
+M43.9	déformation acquise de la colonne vertébrale
+M43.19	spondylolisthésis
+M43.19	spondylolisthésis acquis
+M43.09	spondylolyse acquise
+M43.19	spondylolisthésis, grade 1
+M43.19	spondylolisthésis, grade 2
+M43.19	spondylolisthésis, grade 3
+M43.19	spondylolisthésis, grade 4
+M43.19	spondylolisthésis dégénératif
+M95.5	déformation acquise du bassin
+M95.5	bassin coxalgique
+M24.75	coxarhtrolisthésis
+M95.5	bassin cypho-rachitique
+M95.5	bassin cypho-scoliotique rachitique
+M95.5	bassin cypho-scoliotique
+M95.5	bassin cyphotique
+M43.18	pelvis obtecta
+M43.18	bassin couvert
+M95.5	obliquité du bassin
+M95.5	bassin lordotique
+M95.5	bassin en éteignoir
+M95.5	bassin ilio-fémoral double
+M83.95	bassin ostéomalacique
+M95.5	bassin pseudo-ostéomalacique
+M95.5	bassin scoliotique
+M95.5	bassin épineux
+M95.5	acanthopelvis
+M43.18	spondylolisthésis pelvien
+M95.1	oreille en chou-fleur
+M95.4	déformation acquise de la clavicule
+M95.8	déformation acquise de l'abdomen
+M95.8	ventre en bateau
+M95.8	déformation acquise du tronc
+M95.8	raccourcissement du tronc
+M95.8	tronc raccourci
+M95.8	tronc court
+M99.9	lésion biomécanique
+M99.0	dysfonctionnement segmentaire
+M99.0	dysfonctionnement somatique
+M99.90	lésion biomécanique de la région céphalique
+M99.91	lésion biomécanique de la région occipito-cervicale
+M99.91	lésion biomécanique de la région cervicale
+M99.91	lésion biomécanique de la région cervico-thoracique
+M99.82	lésion biomécanique de la région thoracique
+M99.93	lésion biomécanique de la région thoraco-lombaire
+M99.93	lésion biomécanique de la région lombaire
+M99.93	lésion biomécanique de la région sacro-lombaire
+M99.94	lésion biomécanique de la région sacrée
+M99.94	lésion biomécanique de la région sacro-coccygienne
+M99.94	lésion biomécanique de la région sacro-iliaque
+M99.95	lésion biomécanique de la région pelvienne
+M99.95	lésion biomécanique de la région de la hanche
+M99.95	lésion biomécanique de la région pubienne
+M99.96	lésion biomécanique des membres inférieurs
+M99.97	lésion biomécanique des membres supérieurs
+M99.97	lésion biomécanique de la région acromio-claviculaire
+M99.97	lésion biomécanique de la région sterno-claviculaire
+M99.98	lésion biomécanique de la cage thoracique
+M99.98	lésion biomécanique de la région costo-chondrale
+M99.98	lésion biomécanique de la région costo-vertébrale
+M99.98	lésion biomécanique de la région sterno-chondrale
+M99.99	lésion biomécanique de l'abdomen
+M25.41	hydarthrose douloureuse de l'épaule
+M25.42	hydarthrose douloureuse du coude
+M25.43	hydarthrose douloureuse du poignet
+M25.44	hydarthrose douloureuse de la main
+M25.45	hydarthrose douloureuse sacro-iliaque
+M25.45	hydarthrose douloureuse de la hanche
+M25.46	hydarthrose douloureuse du genou
+M25.47	hydarthrose duloureuse de la cheville et du pied
+M25.48	hydarthrose douloureuse d'une localisation précisée
+M25.40	hydarthrose douloureuse de localisations multiples
+M45.9	cyphose hérédotraumatique
+M47.89	syndrome synovite-acné-pustulose-hyperostose-ostéomyélite
+M79.09	syndrome de fibromyalgie primitive
+M91.9	osteochondrite juvénile de la hanche et du bassin
+M92.4	ostéochondrite juvénile du noyau d'ossification primaire de la rotule
+M92.4	ostéochondrite juvénile du noyau d'ossification secondaire de la rotule
+M89.49	maladie de Hagner
+M30.0	polyangéite
+M31.9	vasculite nécrosante
+M31.9	vascularite nécrosante
+M30.0	périartérite
+M30.0	polyartérite noueuse
+M30.0	maladie de Kussmaul-Maïer
+M30.0	angéite nécrosante
+M30.0	panartérite noueuse
+M30.0	périartérite noueuse
+M30.0	polyartérite
+M31.6	artérite à cellules géantes
+M31.6	péri-artérite segmentaire superficielle
+M31.6	maladie de Horton
+M31.6	artérite temporale
+M31.6	artérite giganto-cellulaire
+M31.5	artérite rhumatoïde
+M30.3	syndrome adéno-cutanéo-muqueux
+M30.3	fièvre cutanéo-muqueuse et ganglionnaire
+M30.3	syndrome de Kawasaki
+M30.1	angéite allergique
+M30.1	angéite leucocytoclasique
+M30.1	vascularite allergique
+M30.1	vasculite allergique
+M30.1	angéite granulomateuse allergique
+M30.1	syndrome de Churg et Strauss
+M31.2	granulome malin de la face
+M31.2	granulome malin centro-facial
+M31.3	granulomatose de Wegener
+M31.3	granulome rhinogène
+M31.3	syndrome de Wegener
+M31.3	granulomatose de Wegener, forme limitée
+M31.3	granulomatose lymphoïde pulmonaire
+M31.3	granulomatose lymphoïde du poumon
+M31.4	maladie de Takayasu
+M31.4	artérite de Takayasu
+M31.4	syndrome de la crosse aortique
+M31.4	maladie sans pouls
+M31.4	syndrome d'oblitération des troncs supra-aortiques
+M31.4	maladie des femmes sans pouls
+M31.4	syndrome de Martorell et Fabré-Tersol
+M31.4	syndrome de l'arc aortique
+M31.4	syndrome de Takayasu
+M31.4	thromboaortopathie occlusive
+M31.4	aorto-artérite non spécifique
+M89.4	syndrome de pachydermopériostose
+M89.4	maladie hypertrophique singulière
+M89.4	syndrome ostéodermopathique
+M89.4	syndrome d'Uelinger
+M89.4	pachydermie plicaturée avec pachypériostose de la face et des extrémités
+M89.4	hyperostose généralisée avec pachydermie
+M89.4	syndrome de Touraine, Solente et Golé
+M89.4	ostéophytose familiale généralisée de Friedrich-Erb-Arnold
+M89.4	syndrome de Roy-Jutras
+M89.4	syndrome de Friedrich-Erb-Arnold
+M13.88	arthrite infectieuse de l'articulation temporo-mandibulaire
+M13.88	infection de l'articulation temporo-mandibulaire
+M13.88	arthrite infectieuse de l'articulation temporo-mandibulaire due à une prothèse articulaire interne
+M13.88	infection de l'articulation temporo-mandibulaire due à une prothèse articulaire interne
+M13.88	arthrite dégénérative de l'articulation temporo-mandibulaire
+M13.88	arthrite traumatique de l'articulation temporo-mandibulaire
+M86.88	ostéomyélite de Garré de la mâchoire
+M86.88	ostéomyélite de Garré du maxillaire supérieur
+M86.88	ostéite chronique condensante du maxillaire supérieur
+M86.88	ostéite de Garré du maxillaire supérieur
+M86.88	ostéomyélite de Garré de la mandibule
+M86.88	ostéite chronique condensante de la mandibule
+M86.88	ostéite de Garré de la mandibule
+M11.2	chondrocalcinose articulaire
+M11.2	chondrocalcinose articulaire idiopathique
+M11.2	chondrocalcinose articulaire due aux cristaux de pyrophosphate
+M11.2	chondrocalcinose articulaire diffuse
+M11.0	chondrocalcinose articulaire due aux cristaux d'hydroxyapatite
+M11.0	arthropathie à l'hydroxyapatite
+M10.9	goutte
+M10.9	goutte articulaire
+M10.9	rhumatisme goutteux
+M10.9	arthropathie goutteuse aiguë
+M10.9	rhumatisme goutteux aigu
+M10.9	goutte d'intervalle
+M10.9	goutte intercritique
+M10.9	arthropathie goutteuse chronique
+M10.9	goutte tophacée chronique
+M10.9+	tophus goutteux de l'oreille
+M10.0+	tophus goutteux du coeur
+M10.9+	iritis goutteuse
+M10.0+	névrite goutteuse
+M10.0	goutte primitive
+M10.3	goutte juvénile familiale
+M10.3	néphropathie goutteuse familiale
+M10.9	goutte avec autres manifestations
+M35.8	maladie métabolique du collagène
+M35.8	syndrome du déficit en collagène
+M31.0	syndrome de Goodpasture
+M63.8*	syndrome de dystrophie musculaire climatérique
+M63.8*	dystrophie musculaire tardive
+M79.2	névrite
+M79.2	névrite périphérique
+M79.2	névralgie
+M79.2	névralgie paroxystique
+M54.1	radiculite
+M62.8	myotonie acquise
+M62.8	myotonie sporadique
+M62.8	maladie de Talma
+M60.98	myosite de l'orbite
+M54.10	polyradiculopathie adbominale
+M-54.19	polyradiculopathie
+M81.89	ostéopénie sénile
+M81.89	ostéopénie des personnes âgées
+M83.59	ostéomalacie provoquée par un médicament anticonvulsivant
+M81.4	ostéopénie provoquée par les stéroïdes
+M31.1	purpura thrombopénique thrombotique
+M31.1	PTT
+M31.1	syndrome de Moschowitz
+M31.1	microangiopathie thrombotique
+M00.99	arthrite bactérienne
+M00.99	arthrite septique
+M00.99	arthrite bactérienne aiguë
+M00.19	arthrite pneumococcique
+M00.09	arthrite staphylococcique
+M35.9+	fasciite nécrosante
+M35.9+	érysipèle nécrotique
+M35.9+	myosite nécrosante
+M60.09	pyomyosite tropicale
+M60.09	pyomyosite
+M35.2	syndrome de Behçet
+M35.2	maladie de Behçet
+M35.2	grande aphtose
+M35.2	syndrome de Behçet, de type complet
+M35.2	syndrome de Behçet, de type incomplet
+M35.2	syndrome de Behçet, de type vasculaire
+M35.2	syndrome de Behçet, de type intestinal
+M35.2	syndrome de Behçet, de type neurologique
+M02;39	syndrome de Reiter
+M02;39	syndrome oculo-urétro-synovial
+M02;39	syndrome de Fiessinger-Leroy-Reiter

@@ -1,0 +1,2644 @@
+S60.8	phlyctènes palmaires par frottement
+S90.8	phlyctènes plantaires par frottement
+S33.3	symphysiolyse pubienne
+S33.3	disjonction de la symphyse pubienne
+S27.5	perforation traumatique de la trachée
+S26.8	communication interventriculaire traumatique
+S09.8	trauma occlusal
+S09.8	trauma occlusal primaire
+S09.8	trauma occlusal secondaire
+S09.8	trauma occlusal secondaire localisé
+S09.8	trauma occlusal parafonctionnel
+S02.5	lésion traumatique des dents
+S02.5	lésion traumatique d'une dent
+S02.5	lésion traumatique dentaire
+S02.5	fracture d'une dent
+S02.5	dent fracturée
+S02.5	fracture d'une fissure dentaire
+S02.5	fracture d'une dent migrée
+S02.5	dent migrée fracturée
+S03.2	luxation dentaire
+S03.2	dislocation complète d'une dent
+S03.2	luxation latérale d'une dent
+S03.2	luxation extrusive d'une dent
+S03.2	luxation intrusive d'une dent
+S02.5	fracture d'une racine dentaire
+S02.5	commotion d'une dent
+S02.5	dent fêlée
+S02.5	couronne dentaire fêlée
+S02.5	racine dentaire fêlée
+S02.5	abfraction
+S02.5	fracture d'une couronne dentaire, émail seulement
+S02.5	fracture d'une couronne dentaire, émail et dentine, sans exposition de la pulpe
+S02.5	fracture d'une couronne dentaire, émail et dentine, avec exposition de la pulpe
+S02.5	fracture de la couronne et de la racine d'une dent
+S02.5	fracture d'une cuspide dentaire pendant la mastication
+S02.5	fracture horizontale d'une dent
+S02.5	fracture horizontale du tiers moyen de la racine d'une dent
+S02.5	fracture horizontale du tiers cervical de la racine d'une dent
+S02.5	fracture horizontale du tiers apical de la racine d'une dent
+S02.5	fracture radiculaire à la bifurcation d'une dent
+S02.5	fractures radiculaires multiples
+S02.5	fracture verticale d'une racine dentaire
+S27.8	lésion traumatique oesophagienne
+S27.8	traumatisme de l'oesophage
+S36.4	perforation traumatique de l'intestin grêle
+S36.5	perforation traumatique du gros intestin
+S02.5	traumatisme dentaire
+S05.8	oedème de Berlin
+S05.8	syndrome de Berlin
+S05.1	anneau de Vossius
+S05.3	lacération de la cornée
+S05.3	lacération sclérale
+S19.9	lésion traumatique du cou
+S09.9	lésion traumatique de l'oreille
+S09.9	lésion traumatique du sourcil
+S09.9	lésion traumatique de la lèvre
+S09.9	lésion traumatique de la bouche
+S09.9	lésion traumatique du nez
+S19.9	lésion traumatique de la gorge
+S19.9	lésion traumatique de la partie antérieure du cou
+S09.9	lésion traumatique de la tête
+S09.9	traumatisme de la tête
+S09.9	lésion traumatique de la tête avec otorragie
+S09.9	lésion traumatique de la tête avec hémorragie de l'oreille
+S09.9	traumatisme de la tête avec hémorragie de l'oreille
+S19.9	lésion traumatique du cou incluant le coup du lapin
+S19.9	traumatisme du cou incluant le coup de fouet
+S18	décapitation
+S39.9	lésion traumatique de la paroi abdominale
+S39.9	lésion traumatique du dos
+S39.9	lésion traumatique des fesses
+S29.9	lésion traumatique de la région interscapulaire
+S29.9	lésion traumatique du sein
+S29.9	lésion traumatique de la paroi thoracique
+S39.9	lésion traumatique des organes génitaux externes féminins
+S39.9	lésion traumatique des organes génitaux externes masculins
+S39.8	lésions traumatiques du pénis
+S39.8	rupture des corps caverneux du pénis
+S39.8	fracture du pénis
+S39.8	fracture pénienne
+S39.9	lésion traumatique du flanc
+S39.9	lésion traumatique de l'aine
+S39.9	lésion traumatique du périnée
+S49.9	lésion traumatique de l'épaule et du bras
+S49.9	lésion traumatique de l'aisselle
+S49.9	lésion traumatique de la région scapulaire
+S49.7	lésion traumatique du coude, de l'avant-bras et du poignet
+S69.9	lésion traumatique de la main à l'exclusion des doigts
+S69.9	lésion traumatique des doigts
+S79.9	lésion traumatique de la hanche et de la cuisse
+S79.9	traumatisme de la cuisse
+S79.9	lésion traumatique de la cuisse
+S89.7	lésion traumatique du genou, de la jambe, de la cheville et du pied
+S02.9	fracture du crâne
+S02.9	enfoncement localisé du crâne
+S02.9	embarrure crânienne
+S02.8	fracture de l'orbite
+S02.8	fracture orbitaire
+S02.7	fractures multiples du crâne
+S02.0	fracture de la voûte du crâne
+S02.0	fracture de l'os frontal
+S02.0	fracture de l'os pariétal
+S02.00	fracture fermée de la voûte du crâne sans lésion traumatique intracrânienne
+S02.00	fracture fermée de la voûte du crâne avec lacération et contusion cérébrales
+S02.00	fracture fermée de la voûte du crâne avec hémorragies traumatiques extradurale, sous-durale et sous-arachnoïdienne
+S02.00	fracture fermée de la voûte du crâne avec hémorragie traumatique intracrânienne non précisée
+S02.00	fracture fermée de la voûte du crâne avec lésion traumatique intracrânienne non précisée
+S02.01	fracture ouverte de la voûte du crâne sans lésion traumatique intracrânienne
+S02.01	fracture ouverte de la voûte du crâne avec lacération et contusion cérébrales
+S02.01	fracture ouverte de la voûte du crâne avec hémorragies traumatiques extradurale, sous-durale et sous-arachnoïdienne
+S02.01	fracture exposée de la voûte du crâne avec hémorragies traumatiques extradurale, sous-durale et sous-arachnoïdienne
+S02.01	fracture ouverte de la voûte du crâne avec hémorragie traumatique intracrânienne non précisée
+S02.01	fracture exposée de la voûte du crâne avec hémorragie traumatique intracrânienne non précisée
+S02.01	fracture ouverte de la voûte du crâne avec lésion traumatique intracrânienne non précisée
+S02.1	fracture de la base du crâne
+S02.1	fracture de la fosse antérieure
+S02.1	fracture de la fosse moyenne
+S02.1	fracture de la fosse postérieure
+S02.1	fracture de l'os occipital
+S02.1	fracture du toit de l'orbite
+S02.1	fracture du sinus ethmoïdal
+S02.1	fracture du sinus frontal
+S02.1	fracture de l'os temporal
+S02.1	fracture de l'os sphénoïde
+S02.10	fracture fermée de la base du crâne sans mention de lésion traumatique intracrânienne
+S02.10	fracture fermée de la base du crâne avec lacération et contusion cérébrales
+S02.10	fracture fermée de la base du crâne avec hémorragies traumatiques extradurale, sous-durale et sous-arachnoïdienne
+S02.10	fracture fermée de la base du crâne avec hémorragie traumatique intracrânienne non précisée
+S02.10	fracture fermée de la base du crâne avec lésion traumatique intracrânienne non précisée
+S02.11	fracture ouverte de la base du crâne sans lésion traumatique intracrânienne
+S02.11	fracture ouverte de la base du crâne avec lacération et contusion cérébrales
+S02.11	fracture ouverte de la base du crâne avec hémorragies traumatiques extradurale, sous-durale et sous-arachnoïdienne
+S02.11	fracture exposée de la base du crâne avec hémorragies traumatiques extradurale, sous-durale et sous-arachnoïdienne
+S02.11	fracture ouverte de la base du crâne avec hémorragie traumatique intracrânienne non précisée
+S02.11	fracture exposée de la base du crâne avec hémorragie traumatique intracrânienne non précisée
+S02.11	fracture ouverte de la base du crâne avec lésion traumatique intracrânienne non précisée
+S02.9	fracture des os de la face
+S02.8	fracture de Le Fort
+S02.8	fracture de Le Fort I
+S02.8	fracture de Guérin
+S02.8	fracture horizontale du maxillaire supérieur
+S02.8	fracture de Le Fort II
+S02.8	fracture moyenne du maxillaire supérieur
+S02.8	fracture de Le Fort III
+S02.8	disjonction craniofaciale
+S02.20	fracture fermée des os du nez
+S02.21	fracture ouverte des os du nez
+S02.60	fracture fermée de la mandibule
+S02.60	fracture fermée du maxillaire inférieur
+S02.60	fracture fermée de la mâchoire inférieure
+S02.60	fracture fermée du condyle mandibulaire
+S02.60	fracture sous-condylienne fermée de la mandibule
+S02.60	fracture fermée de l'apophyse coronoïde de la mandibule
+S02.60	fracture fermée de la branche montante de la mandibule
+S02.60	fracture fermée de l'angle de la mâchoire
+S02.60	fracture fermée de l'angle de la mandibule
+S02.60	fracture fermée de la symphyse mentonnière
+S02.60	fracture fermée du bord alvéolaire de la mandibule
+S02.60	fracture fermée du corps de la mandibule
+S02.60	fractures multiples fermées de la mandibule
+S02.61	fracture ouverte de la mandibule
+S02.61	fracture ouverte du condyle mandibulaire
+S02.61	fracture sous-condylienne ouverte de la mandibule
+S02.61	fracture ouverte de l'apophyse coronoïde de la mandibule
+S02.61	fracture ouverte de la branche montante de la mandibule
+S02.61	fracture ouverte de l'angle de la mâchoire
+S02.61	fracture ouverte de l'angle de la mandibule
+S02.61	fracture ouverte de la symphyse mentonnière
+S02.61	fracture ouverte du bord alvéolaire de la mandibule
+S02.61	fracture ouverte du corps de la mandibule
+S02.61	fractures multiples ouvertes de la mandibule
+S02.40	fracture fermée des os malaire et maxillaire
+S02.40	fracture fermée du maxillaire supérieur
+S02.40	fracture fermée de la mâchoire supérieure
+S02.40	fracture fermée de l'apophyse zygomatique
+S02.40	fracture fermée de l'arcade zygomatique
+S02.40	fracture fermée du trépied zygomatique
+S02.41	fracture ouverte des os malaire et maxillaire
+S02.41	fracture ouverte du maxillaire supérieur
+S02.41	fracture ouverte de la mâchoire supérieure
+S02.41	fracture ouverte de l'apophyse zygomatique
+S02.41	fracture ouverte de l'arcade zygomatique
+S02.41	fracture ouverte du trépied zygomatique
+S02.30	éclatement fermé du plancher de l'orbite
+S02.31	éclatement ouvert du plancher de l'orbite
+S02.30	fracture fermée du plancher de l'orbite
+S02.40	fracture fermée de la face orbitaire de l'os zygomatique
+S02.31	fracture ouverte du plancher de l'orbite
+S02.41	fracture ouverte de la face orbitaire de l'os zygomatique
+S02.40	fracture fermée d'une alvéole dentaire
+S02.80	fracture fermée de l'orbite
+S02.80	fracture fermée du palais osseux
+S02.81	fracture ouverte d'autres os de la face
+S02.40	fracture fermée du bord alvéolaire du maxillaire supérieur
+S02.40	fracture horizontale fermée du maxillaire supérieur
+S02.40	fracture de Guérin fermée
+S02.40	fracture de Le Fort I fermée
+S02.40	fracture moyenne fermée du maxillaire supérieur
+S02.40	fracture de Le Fort II fermée
+S02.40	fracture complète fermée du maxillaire supérieur
+S02.40	disjonction craniofaciale fermée
+S02.40	fracture de Le Fort III fermée
+S02.41	fracture ouverte du bord alvéolaire du maxillaire supérieur
+S02.41	fracture horizontale ouverte du maxillaire supérieur
+S02.41	fracture de Guérin ouverte
+S02.41	fracture de Le Fort I ouverte
+S02.41	fracture moyenne ouverte du maxillaire supérieur
+S02.41	fracture de Le Fort II ouverte
+S02.41	fracture complète ouverte du maxillaire supérieur
+S02.41	disjonction craniofaciale ouverte
+S02.41	fracture de Le Fort III ouverte
+S02.90	fracture fermée du crâne sans lésion traumatique intracrânienne
+S02.90	fracture fermée du crâne avec lacération et contusion cérébrales
+S02.90	fracture fermée du crâne avec hémorragies traumatiques extradurale, sous-durale et sous-arachnoïdienne
+S02.90	fracture fermée du crâne avec hémorragie traumatique intracrânienne non précisée
+S02.90	fracture fermée du crâne avec lésion traumatique intracrânienne non précisée
+S02.91	fracture ouverte du crâne sans lésion traumatique intracrânienne
+S02.91	fracture ouverte du crâne avec lacération et contusion cérébrales
+S02.91	fracture ouverte du crâne avec hémorragies traumatiques extradurale, sous-durale et sous-arachnoïdienne
+S02.91	fracture exposée du crâne avec hémorragies traumatiques extradurale, sous-durale et sous-arachnoïdienne
+S02.91	fracture ouverte du crâne avec hémorragie traumatique intracrânienne non précisée
+S02.91	fracture exposée du crâne avec hémorragie traumatique intracrânienne non précisée
+S02.91	fracture ouverte du crâne avec lésion traumatique intracrânienne non précisée
+S02.70	fractures multiples fermées du crâne et des os de la face sans lésion traumatique intracrânienne
+S02.70	fractures multiples fermées du crâne et des os de la face avec lacération et contusion cérébrales
+S02.70	fractures multiples fermées du crâne et des os de la face avec hémorragies traumatiques extradurale, sous-durale et sous-arachnoïdienne
+S02.70	fractures multiples fermées du crâne et des os de la face avec hémorragie traumatique intracrânienne non précisée
+S02.70	fractures multiples fermées du crâne et des os de la face avec lésion traumatique intracrânienne non précisée
+S02.71	fractures multiples ouvertes du crâne et des os de la face sans lésion traumatique intracrânienne
+S02.71	fractures multiples ouvertes du crâne et des os de la face avec lacération et contusion cérébrales
+S02.71	fractures multiples ouvertes du crâne et des os de la face avec hémorragies traumatiques extradurale, sous-durale et sous-arachnoïdienne
+S02.71	fractures multiples exposées du crâne et des os de la face avec hémorragies traumatiques extradurale, sous-durale et sous-arachnoïdienne
+S02.71	fractures multiples ouvertes du crâne et des os de la face avec hémorragie traumatique intracrânienne non précisée
+S02.71	fractures multiples exposées du crâne et des os de la face avec hémorragie traumatique intracrânienne non précisée
+S02.71	fractures multiples ouvertes du crâne et des os de la face avec lésion traumatique intracrânienne non précisée
+S22.8	fracture des os du tronc
+S22.80	fracture fermée des os du tronc
+S22.81	fracture ouverte des os du tronc
+S12.20	fracture fermée d'une vertèbre cervicale sans lésion traumatique de la moelle épinière
+S12.00	fracture fermée de la première vertèbre cervicale sans lésion traumatique de la moelle épinière
+S12.00	fracture fermée de l'atlas sans lésion traumatique de la moelle épinière
+S12.10	fracture fermée de la deuxième vertèbre cervicale sans lésion traumatique de la moelle épinière
+S12.10	fracture fermée de l'axis sans lésion traumatique de la moelle épinière
+S12.20	fracture fermée de la troisième vertèbre cervicale sans lésion traumatique de la moelle épinière
+S12.20	fracture fermée de la quatrième vertèbre cervicale sans lésion traumatique de la moelle épinière
+S12.20	fracture fermée de la cinquième vertèbre cervicale sans lésion traumatique de la moelle épinière
+S12.20	fracture fermée de la sixième vertèbre cervicale sans lésion traumatique de la moelle épinière
+S12.20	fracture fermée de la septième vertèbre cervicale sans lésion traumatique de la moelle épinière
+S12.70	fracture fermée de plusieurs vertèbres cervicales sans lésion traumatique de la moelle épinière
+S12.21	fracture ouverte d'une vertèbre cervicale sans lésion traumatique de la moelle épinière
+S12.01	fracture ouverte de la première vertèbre cervicale sans lésion traumatique de la moelle épinière
+S12.01	fracture exposée de l'atlas sans lésion traumatique de la moelle épinière
+S12.11	fracture ouverte de la deuxième vertèbre cervicale sans lésion traumatique de la moelle épinière
+S12.11	fracture exposée de l'axis sans lésion traumatique de la moelle épinière
+S12.21	fracture ouverte de la troisième vertèbre cervicale sans lésion traumatique de la moelle épinière
+S12.21	fracture ouverte de la quatrième vertèbre cervicale sans lésion traumatique de la moelle épinière
+S12.21	fracture ouverte de la cinquième vertèbre cervicale sans lésion traumatique de la moelle épinière
+S12.21	fracture ouverte de la sixième vertèbre cervicale sans lésion traumatique de la moelle épinière
+S12.21	fracture ouverte de la septième vertèbre cervicale sans lésion traumatique de la moelle épinière
+S12.71	fracture ouverte de plusieurs vertèbres cervicales sans lésion traumatique de la moelle épinière
+S22.00	fracture fermée d'une vertèbre dorsale sans lésion traumatique de la moelle épinière
+S22.00	fracture fermée d'une vertèbre thoracique sans lésion traumatique de la moelle épinière
+S22.01	fracture ouverte d'une vertèbre dorsale sans lésion traumatique de la moelle épinière
+S22.01	fracture ouverte d'une vertèbre thoracique sans lésion traumatique de la moelle épinière
+S32.00	fracture fermée d'une vertèbre lombaire sans lésion traumatique de la moelle épinière
+S32.01	fracture ouverte d'une vertèbre lombaire sans lésion traumatique de la moelle épinière
+S32.10	fracture fermée du sacrum et du coccyx sans lésion traumatique de la moelle épinière
+S32.11	fracture ouverte du sacrum et du coccyx sans lésion traumatique de la moelle épinière
+S12.90	fracture cervicale fermée avec lésion traumatique de la moelle épinière
+S12.20	fracture cervicale fermée, niveau C1-C4, avec lésion traumatique non précisée de la moelle épinière
+S12.20	fracture cervicale fermée, niveau C1-C4, avec lésion traumatique complète de la moelle épinière
+S12.20	fracture cervicale fermée, niveau C1-C4, avec syndrome de l'artère spinale antérieure
+S12.20	fracture cervicale fermée, niveau C1-C4, avec syringomyélie
+S12.20	fracture cervicale fermée, niveau C1-C4, avec syndrome de l'artère spinale postérieure
+S12.20	fracture cervicale fermée, niveau C1-C4, avec lésion traumatique incomplète de la moelle épinière
+S12.20	fracture cervicale fermée, niveau C1-C4, avec lésion traumatique précisée de la moelle épinière
+S12.20	fracture cervicale fermée, niveau C5-C7, avec lésion traumatique non précisée de la moelle épinière
+S12.20	fracture cervicale fermée, niveau C5-C7, avec lésion traumatique complète de la moelle épinière
+S12.20	fracture cervicale fermée, niveau C5-C7, avec syndrome de l'artère spinale antérieure
+S12.20	fracture cervicale fermée, niveau C5-C7, avec syringomyélie
+S12.20	fracture cervicale fermée, niveau C5-C7, avec syndrome de l'artère spinale postérieure
+S12.20	fracture cervicale fermée, niveau C5-C7, avec lésion traumatique incomplète de la moelle épinière
+S12.20	fracture cervicale fermée, niveau C5-C7, avec lésion traumatique précisée de la moelle épinière
+S12.21	fracture cervicale ouverte, niveau C1-C4, avec lésion traumatique non précisée de la moelle épinière
+S12.21	fracture cervicale ouverte, niveau C1-C4, avec lésion traumatique complète de la moelle épinière
+S12.21	fracture cervicale ouverte, niveau C1-C4, avec syndrome de l'artère spinale antérieure
+S12.21	fracture cervicale ouverte, niveau C1-C4, avec syringomyélie
+S12.21	fracture cervicale ouverte, niveau C1-C4, avec syndrome de l'artère spinale postérieure
+S12.21	fracture cervicale ouverte, niveau C1-C4, avec lésion traumatique incomplète de la moelle épinière
+S12.21	fracture cervicale ouverte, niveau C1-C4, avec lésion traumatique précisée de la moelle épinière
+S12.21	fracture cervicale ouverte, niveau C5-C7, avec lésion traumatique non précisée de la moelle épinière
+S12.21	fracture cervicale ouverte, niveau C5-C7, avec lésion traumatique complète de la moelle épinière
+S12.21	fracture cervicale ouverte, niveau C5-C7, avec syndrome de l'artère spinale antérieure
+S12.21	fracture cervicale ouverte, niveau C5-C7, avec syringomyélie
+S12.21	fracture cervicale ouverte, niveau C5-C7, avec syndrome de l'artère spinale postérieure
+S12.21	fracture cervicale ouverte, niveau C5-C7, avec lésion traumatique incomplète de la moelle épinière
+S12.21	fracture cervicale ouverte, niveau C5-C7, avec lésion traumatique précisée de la moelle épinière
+S22.90	fracture thoracique fermée avec lésion traumatique de la moelle épinière
+S22.00	fracture thoracique fermée, niveau T1-T6, avec lésion traumatique non précisée de la moelle épinière
+S22.00	fracture thoracique fermée, niveau T1-T6, avec lésion traumatique complète de la moelle épinière
+S22.00	fracture thoracique fermée, niveau T1-T6, avec syndrome de l'artère spinale antérieure
+S22.00	fracture thoracique fermée, niveau T1-T6, avec syringomyélie
+S22.00	fracture thoracique fermée, niveau T1-T6, avec syndrome de l'artère spinale postérieure
+S22.00	fracture thoracique fermée, niveau T1-T6, avec lésion traumatique incomplète de la moelle épinière
+S22.00	fracture thoracique fermée, niveau T1-T6, avec lésion traumatique précisée de la moelle épinière
+S22.00	fracture thoracique fermée, niveau T7-T12, avec lésion traumatique non précisée de la moelle épinière
+S22.00	fracture thoracique fermée, niveau T7-T12, avec lésion traumatique complète de la moelle épinière
+S22.00	fracture thoracique fermée, niveau T7-12, avec syndrome de l'artère spinale antérieure
+S22.00	fracture thoracique fermée, niveau T7-T12, avec syringomyélie
+S22.00	fracture thoracique fermée, niveau T7-T12, avec syndrome de l'artère spinale postérieure
+S22.00	fracture thoracique fermée, niveau T7-T12, avec lésion traumatique incomplète de la moelle épinière
+S22.00	fracture thoracique fermée, niveau T7-T12, avec lésion traumatique précisée de la moelle épinière
+S22.91	fracture thoracique ouverte avec lésion traumatique de la moelle épinière
+S22.01	fracture thoracique ouverte, niveau T1-T6, avec lésion traumatique non précisée de la moelle épinière
+S22.01	fracture thoracique ouverte, niveau T1-T6, avec lésion traumatique complète de la moelle épinière
+S22.01	fracture thoracique ouverte, niveau T1-T6, avec syndrome de l'artère spinale antérieure
+S22.01	fracture thoracique ouverte, niveau T1-T6, avec syringomyélie
+S22.01	fracture thoracique ouverte, niveau T1-T6, avec syndrome de l'artère spinale postérieure
+S22.01	fracture thoracique ouverte, niveau T1-T6, avec lésion traumatique incomplète de la moelle épinière
+S22.01	fracture thoracique ouverte, niveau T1-T6, avec lésion traumatique précisée de la moelle épinière
+S22.01	fracture thoracique ouverte, niveau T7-T12, avec lésion traumatique non précisée de la moelle épinière
+S22.01	fracture thoracique ouverte, niveau T7-T12, avec lésion traumatique complète de la moelle épinière
+S22.01	fracture thoracique ouverte, niveau T7-T12, avec syndrome de l'artère spinale antérieure
+S22.01	fracture thoracique ouverte, niveau T7-T12, avec syringomyélie
+S22.01	fracture thoracique ouverte, niveau T7-T12, avec syndrome de l'artère spinale postérieure
+S22.01	fracture thoracique ouverte, niveau T7-T12, avec lésion traumatique incomplète de la moelle épinière
+S22.01	fracture thoracique ouverte, niveau T7-T12, avec lésion traumatique précisée de la moelle épinière
+S32.00	fracture fermée d'une vertèbre lombaire avec lésion traumatique de la moelle épinière
+S32.01	fracture ouverte d'une vertèbre lombaire avec lésion traumatique de la moelle épinière
+S32.10	fracture fermée du sacrum et du coccyx avec lésion traumatique non précisée de la moelle épinière
+S32.10	fracture fermée du sacrum et du coccyx avec lésion traumatique complète de la queue de cheval
+S32.10	fracture fermée du sacrum et du coccyx avec lésion traumatique de la queue de cheval
+S32.10	fracture fermée du sacrum et du coccyx avec lésion traumatique précisée de la moelle épinière
+S32.11	fracture ouverte du sacrum et du coccyx avec lésion traumatique non précisée de la moelle épinière
+S32.11	fracture ouverte du sacrum et du coccyx avec lésion traumatique complète de la queue de cheval
+S32.11	fracture ouverte du sacrum et du coccyx avec lésion traumatique précisée de la queue de cheval
+S32.11	fracture ouverte du sacrum et du coccyx avec lésion traumatique précisée de la moelle épinière
+S22.3	fracture costale
+S22.3	fracture d'une côte
+S22.4	fracture de deux côtes
+S22.4	fracture de trois côtes
+S22.4	fracture de quatre côtes
+S22.4	fracture de cinq côtes
+S22.4	fracture de six côtes
+S22.4	fracture de sept côtes
+S22.4	fracture de huit côtes et plus
+S22.4	fracture de plusieurs côtes
+S22.30	fracture costale fermée
+S22.30	fracture fermée d'une côte
+S22.40	fracture fermée de deux côtes
+S22.40	fracture fermée de trois côtes
+S22.40	fracture fermée de quatre côtes
+S22.40	fracture fermée de cinq côtes
+S22.40	fracture fermée de six côtes
+S22.40	fracture fermée de sept côtes
+S22.40	fracture fermée de huit côtes et plus
+S22.40	fracture fermée de plusieurs côtes
+S22.31	fracture costale ouverte
+S22.31	fracture ouverte d'une côte
+S22.41	fracture ouverte de deux côtes
+S22.41	fracture ouverte de trois côtes
+S22.41	fracture ouverte de quatre côtes
+S22.41	fracture ouverte de cinq côtes
+S22.41	fracture ouverte de six côtes
+S22.41	fracture ouverte de sept côtes
+S22.41	fracture ouverte de huit côtes et plus
+S22.41	fracture ouverte de plusieurs côtes
+S22.2	fracture du sternum
+S22.2	fracture sternale
+S22.20	fracture fermée du sternum
+S22.21	fracture ouverte du sternum
+S22.5	volet costal
+S22.5	volet thoracique
+S12.8	fracture du larynx
+S12.80	fracture fermée du larynx
+S12.80	fracture fermée de la trachée
+S12.80	fracture fermée de l'os hyoïde
+S12.80	fracture fermée du cartilage thyroïdien
+S12.81	fracture ouverte du larynx
+S12.81	fracture ouverte de la trachée
+S32.8	fracture du bassin
+S32.80	fracture fermée du bassin
+S32.81	fracture ouverte du bassin
+S32.40	fracture fermée de l'acétabulum
+S32.41	fracture ouverte de l'acétabulum
+S32.4	fracture de l'acétabulum
+S32.50	fracture fermée du pubis
+S32.51	fracture ouverte du pubis
+S32.5	fracture du pubis
+S32.5	fracture des branches pubiennes
+S32.3	fracture de l'ilion
+S32.30	fracture fermée de l'ilion
+S32.8	fracture de Du Verney
+S32.8	fracture transversale de l'os iliaque
+S32.80	fracture fermée de l'ischion
+S32.80	fracture fermée de l'os iliaque
+S32.80	fracture fermée de l'os coxal
+S32.70	fractures multiples fermées du bassin avec rupture du cercle pelvien
+S32.31	fracture ouverte de l'ilion
+S32.81	fracture ouverte de l'ischion
+S32.81	fracture ouverte de l'os iliaque
+S32.81	fracture ouverte de l'os coxal
+S32.71	fractures multiples ouvertes du bassin avec rupture du cercle pelvien
+S42.0	fracture de la clavicule
+S42.0	fracture de l'extrémité interne de la clavicule
+S42.0	fracture du corps de la clavicule
+S42.0	fracture de l'extrémité externe de la clavicule
+S42.0	fracture de la partie interligamenteuse de la clavicule
+S42.00	fracture fermée de la clavicule
+S42.00	fracture fermée de l'extrémité interne de la clavicule
+S42.00	fracture fermée du corps de la clavicule
+S42.00	fracture fermée de l'extrémité externe de la clavicule
+S42.01	fracture ouverte de la clavicule
+S42.01	fracture ouverte de l'extrémité interne de la clavicule
+S42.01	fracture ouverte du corps de la clavicule
+S42.01	fracture ouverte de l'extrémité externe de la clavicule
+S42.1	fracture de l'omoplate
+S42.1	fracture scapulaire
+S42.1	fracture de l'acromion
+S42.1	fracture acromiale
+S42.1	fracture de l'apophyse coracoïde de l'omoplate
+S42.1	fracture de la cavité glénoïde et du col de l'omoplate
+S42.1	fracture du corps de l'omoplate
+S42.10	fracture fermée de l'omoplate
+S42.10	fracture scapulaire fermée
+S42.10	fracture fermée de l'acromion
+S42.10	fracture acromiale fermée
+S42.10	fracture fermée de l'apophyse coracoïde de l'omoplate
+S42.10	fracture fermée de la cavité glénoïde et du col de l'omoplate
+S42.11	fracture ouverte de l'omoplate
+S42.11	fracture scapulaire ouverte
+S42.11	fracture ouverte de l'acromion
+S42.11	fracture acromiale ouverte
+S42.11	fracture ouverte de l'apophyse coracoïde de l'omoplate
+S42.11	fracture ouverte de la cavité glénoïde et du col de l'omoplate
+S42.3	fracture de l'humérus
+S42.3	fracture du bras
+S42.30	fracture fermée de l'humérus
+S42.30	fracture fermée du bras
+S42.31	fracture ouverte de l'humérus
+S42.31	fracture ouverte du bras
+S42.20	fracture fermée de l'extrémité supérieure de l'humérus
+S42.20	fracture fermée de la diaphyse proximale de l'humérus
+S42.20	fracture fermée du col chirurgical de l'humérus
+S42.20	fracture fermée du col de l'humérus
+S42.20	fracture fermée du col anatomique de l'humérus
+S42.20	fracture fermée du trochiter
+S42.20	fracture fermée de la tête de l'humérus
+S42.20	fracture fermée de l'épiphyse supérieure de l'humérus
+S42.21	fracture ouverte de l'extrémité supérieure de l'humérus
+S42.21	fracture ouverte de la diaphyse proximale de l'humérus
+S42.21	fracture ouverte du col chirurgical de l'humérus
+S42.21	fracture ouverte du col de l'humérus
+S42.21	fracture ouverte du col anatomique de l'humérus
+S42.21	fracture ouverte du trochiter
+S42.3	fracture de la diaphyse de l'humérus
+S42.30	fracture fermée de la diaphyse de l'humérus
+S42.31	fracture ouverte de la diaphyse de l'humérus
+S42.4	fracture de l'extrémité inférieure de l'humérus
+S52.0	fracture du coude
+S42.4	fracture de l'extrémité distale de l'humérus
+S42.40	fracture fermée de l'extrémité inférieure de l'humérus
+S52.00	fracture fermée du coude
+S42.40	fracture fermée de l'extrémité distale de l'humérus
+S42.40	fracture supracondylienne fermée de l'humérus
+S42.40	fracture condylienne fermée de l'humérus
+S42.40	fracture fermée de l'épiphyse inférieure de l'humérus
+S42.40	fracture fermée de l'apophyse articulaire de l'humérus
+S42.40	fracture fermée de l'épicondyle
+S42.40	fracture fermée du condyle externe de l'humérus
+S42.40	fracture fermée de l'épitrochlée
+S42.40	fracture fermée de la trochlée humérale
+S42.70	fractures multiples fermées de l'extrémité inférieure de l'humérus
+S42.41	fracture ouverte de l'extrémité inférieure de l'humérus
+S52.01	fracture ouverte du coude
+S42.41	fracture ouverte de l'extrémité distale de l'humérus
+S42.41	fracture supracondylienne ouverte de l'humérus
+S42.41	fracture condylienne ouverte de l'humérus
+S42.41	fracture ouverte de l'apophyse articulaire de l'humérus
+S42.41	fracture ouverte de l'épiphyse inférieure de l'humérus
+S42.41	fracture ouverte de l'épicondyle
+S42.41	fracture ouverte du condyle externe de l'humérus
+S42.41	fracture ouverte de l'épitrochlée
+S52.9	fracture de l'avant-bras
+S52.8	fracture du radius
+S52.8	fracture du cubitus
+S52.7	fracture du radius et du cubitus
+S52.5	fracture de Colles
+S52.5	fracture de Pouteau-Colles
+S52.5	fracture de Pouteau-Colles inversée
+S52.5	fracture de Goyrand
+S52.0	fracture de Monteggia
+S52.90	fracture fermée de l'avant-bras
+S52.80	fracture fermée du radius
+S52.80	fracture fermée du cubitus
+S52.70	fracture fermée du radius et du cubitus
+S52.91	fracture ouverte de l'avant-bras
+S52.81	fracture ouverte du radius
+S52.81	fracture ouverte du cubitus
+S52.71	fracture ouverte du radius et du cubitus
+S52.80	fracture fermée de l'extrémité supérieure de l'avant-bras
+S52.80	fracture fermée de l'extrémité proximale de l'avant-bras
+S52.00	fracture fermée de l'olécrâne
+S52.00	fracture fermée de l'apophyse coronoïde du cubitus
+S52.00	fracture de Monteggia fermée
+S52.00	fracture fermée de l'extrémité proximale du cubitus
+S52.70	fractures multiples fermées de l'extrémité supérieure du cubitus
+S52.10	fracture fermée de la tête du radius
+S52.10	fracture fermée du col du radius
+S52.10	fracture fermée de l'extrémité proximale du radius
+S52.70	fractures multiples fermées de l'extrémité supérieure du radius
+S52.70	fracture fermée des extrémités supérieures radiale et cubitale
+S52.81	fracture ouverte de l'extrémité supérieure de l'avant-bras
+S52.81	fracture ouverte de l'extrémité proximale de l'avant-bras
+S52.01	fracture ouverte de l'olécrâne
+S52.01	fracture ouverte de l'apophyse coronoïde du cubitus
+S52.01	fracture de Monteggia ouverte
+S52.01	fracture ouverte de l'extrémité proximale du cubitus
+S52.71	fractures multiples ouvertes de l'extrémité supérieure du cubitus
+S52.11	fracture ouverte de la tête du radius
+S52.11	fracture ouverte du col du radius
+S52.11	fracture ouverte de l'extrémité proximale du radius
+S52.71	fractures multiples ouvertes de l'extrémité supérieure du radius
+S52.81	fracture ouverte des extrémités supérieures radiale et cubitale
+S52.80	fracture fermée de la diaphyse d'un os de l'avant-bras
+S52.30	fracture fermée de la diaphyse du radius
+S52.20	fracture fermée de la diaphyse du cubitus
+S52.40	fracture fermée des diaphyses radiale et cubitale
+S52.81	fracture ouverte de la diaphyse d'un os de l'avant-bras
+S52.31	fracture ouverte de la diaphyse du radius
+S52.21	fracture ouverte de la diaphyse du cubitus
+S52.41	fracture ouverte des diaphyses radiale et cubitale
+S52.80	fracture fermée de l'extrémité inférieure de l'avant-bras
+S52.80	fracture fermée de l'extrémité distale de l'avant-bras
+S52.50	fracture de Colles fermée
+S52.50	fracture fermée de l'extrémité distale du radius
+S52.50	fracture fermée de l'extrémité inférieure du radius
+S52.5	fracture de Dupuytren du membre supérieur
+S52.5	fracture de Galeazzi
+S52.5	fracture de Barton
+S52.80	fracture fermée de l'extrémité distale du cubitus
+S52.80	fracture fermée de l'extrémité inférieure du cubitus
+S52.80	fracture fermée de l'épiphyse inférieure
+S52.80	fracture fermée de la tête du cubitus
+S52.80	fracture fermée de l'apophyse styloïde du cubitus
+S52.60	fracture fermée des extrémités inférieures radiale et cubitale
+S52.50	fracture de Moore
+S52.50	fracture de Pouteau-Colles inversée fermée
+S52.50	fracture de Goyrand fermée
+S52.50	fracture de Smith fermée
+S52.81	fracture ouverte de l'extrémité inférieure de l'avant-bras
+S52.81	fracture ouverte de l'extrémité distale de l'avant-bras
+S52.51	fracture de Colles ouverte
+S52.51	fracture ouverte de l'extrémité distale du radius
+S52.81	fracture ouverte de l'extrémité distale du cubitus
+S52.61	fracture ouverte des extrémités inférieures radiale et cubitale
+S52.61	fracture de Skillern
+S52.51	fracture de Pouteau-Colles inversée ouverte
+S52.51	fracture de Goyrand ouverte
+S52.61	fracture de Smith ouverte
+S62.1	fracture d'un os du carpe
+S62.8	fracture du poignet
+S62.0	fracture de l'os scaphoïde de la main
+S62.0	fracture du scaphoïde carpien
+S62.1	fracture de l'os semi-lunaire du poignet
+S62.1	fracture de l'os semi-lunaire du carpe
+S62.1	fracture de l'os pyramidal du poignet
+S62.1	fracture de l'os pyramidal du carpe
+S62.1	fracture de l'os pisiforme du poignet
+S62.1	fracture de l'os trapèze du poignet
+S62.1	fracture du grand multiangulaire du carpe
+S62.1	fracture de l'os trapézoïde du poignet
+S62.1	fracture du petit multiangulaire du carpe
+S62.1	fracture du grand os du poignet
+S62.1	fracture du grand os du carpe
+S62.1	fracture de l'os crochu du poignet
+S62.1	fracture de l'os crochu du carpe
+S62.0	fracture de de Quervain
+S62.10	fracture fermée d'un os du carpe
+S62.10	fracture fermée du poignet
+S62.00	fracture fermée de l'os scaphoïde du poignet
+S62.00	fracture fermée du scaphoïde carpien
+S62.10	fracture fermée de l'os semi-lunaire du poignet
+S62.10	fracture fermée de l'os semi-lunaire du carpe
+S62.10	fracture fermée de l'os pyramidal du poignet
+S62.10	fracture fermée de l'os pyramidal du carpe
+S62.10	fracture fermée de l'os pisiforme du poignet
+S62.10	fracture fermée de l'os trapèze du poignet
+S62.10	fracture fermée du grand multiangulaire du carpe
+S62.10	fracture fermée de l'os trapézoïde du poignet
+S62.10	fracture fermée du petit multiangulaire du carpe
+S62.10	fracture fermée du grand os du poignet
+S62.10	fracture fermée du grand os du carpe
+S62.10	fracture fermée de l'os crochu du poignet
+S62.10	fracture fermée de l'os crochu du carpe
+S62.11	fracture ouverte d'un os du carpe
+S62.11	fracture ouverte du carpe
+S62.01	fracture ouverte de l'os scaphoïde du poignet
+S62.01	fracture ouverte du scaphoïde carpien
+S62.11	fracture ouverte de l'os semi-lunaire du poignet
+S62.11	fracture ouverte de l'os semi-lunaire du carpe
+S62.11	fracture ouverte de l'os pyramidal du poignet
+S62.11	fracture ouverte de l'os pyramidal du carpe
+S62.11	fracture ouverte de l'os pisiforme du poignet
+S62.11	fracture ouverte de l'os trapèze du poignet
+S62.11	fracture ouverte du grand multiangulaire du carpe
+S62.11	fracture ouverte de l'os trapézoïde du poignet
+S62.11	fracture ouverte du petit multiangulaire du carpe
+S62.11	fracture ouverte du grand os du poignet
+S62.11	fracture ouverte du grand os du carpe
+S62.11	fracture ouverte de l'os crochu du poignet
+S62.11	fracture ouverte de l'os crochu du carpe
+S62.3	fracture d'un métacarpien
+S62.3	fracture de la main à l'exclusion des doigts
+S62.2	fracture de la base du premier métacarpien
+S62.2	fracture de Bennett
+S62.3	fracture de la base d'un autre métacarpien
+S62.3	fracture du corps d'un métacarpien
+S62.3	fracture de la tête d'un métacarpien
+S62.3	fracture des boxeurs
+S62.8	fracture de la main
+S62.8	fracture d'un os de la main
+S62.4	fractures multiples du métacarpe
+S62.30	fracture fermée d'un métacarpien
+S62.20	fracture fermée de la base du premier métacarpien
+S62.20	fracture de Bennett fermée
+S62.30	fracture fermée de la base d'un autre métacarpien
+S62.30	fracture fermée du corps d'un métacarpien
+S62.30	fracture fermée de la tête d'un métacarpien
+S62.40	fractures multiples fermées du métacarpe
+S62.31	fracture ouverte d'un métacarpien
+S62.21	fracture ouverte de la base du premier métacarpien
+S62.21	fracture de Bennett ouverte
+S62.31	fracture ouverte de la base d'un autre métacarpien
+S62.31	fracture ouverte du corps d'un métacarpien
+S62.31	fracture ouverte de la tête d'un métacarpien
+S62.41	fractures multiples ouvertes du métacarpe
+S62.6	fracture d'une phalange d'un doigt
+S62.6	fracture d'un doigt
+S62.6	fracture de la phalange moyenne ou proximale d'un doigt
+S62.6	fracture de la phalange distale d'un doigt
+S62.7	fractures multiples des phalanges de la main
+S62.60	fracture fermée d'une phalange d'un doigt
+S62.60	fracture fermée d'un doigt
+S62.60	fracture fermée de la phalange moyenne ou proximale d'un doigt
+S62.60	fracture fermée de la phalange distale d'un doigt
+S62.70	fractures multiples fermées des phalanges de la main
+S62.61	fracture ouverte d'une phalange d'un doigt
+S62.61	fracture ouverte d'un doigt
+S62.61	fracture ouverte de la phalange moyenne ou proximale d'un doigt
+S62.61	fracture ouverte de la phalange distale d'un doigt
+S62.71	fractures multiples ouvertes des phalanges de la main
+S62.7 S62.4	fractures multiples des os de la main
+S62.70 S62.40	fractures multiples fermées des os de la main
+S62.71 S62.41	fractures multiples ouvertes des os de la main
+S72.9	fracture du fémur
+S72.9	fracture de la cuisse
+S72.90	fracture fermée du fémur
+S72.90	fracture fermée de la cuisse
+S72.91	fracture ouverte du fémur
+S72.91	fracture ouverte de la cuisse
+S72.0	fracture du col du fémur
+S72.0	fracture du col fémoral
+S72.0	fracture de la hanche
+S72.00	fracture transcervicale fermée du fémur
+S72.00	fracture fermée de la partie intracapsulaire du col du fémur
+S72.00	fracture épiphysaire fermée du fémur
+S72.00	fracture transépiphysaire fermée du fémur
+S72.00	fracture médiocervicale fermée du fémur
+S72.00	fracture fermée de la base du col du fémur
+S72.00	fracture cervico-trochantérienne fermée du fémur
+S72.00	fracture fermée de la tête du fémur
+S72.00	fracture sous-capitale fermée du fémur
+S72.01	fracture transcervicale ouverte du fémur
+S72.01	fracture ouverte de la partie intracapsulaire du col du fémur
+S72.01	fracture épiphysaire ouverte du fémur
+S72.01	fracture transépiphysaire ouverte du fémur
+S72.01	fracture médiocervicale ouverte du fémur
+S72.01	fracture ouverte de la base du col du fémur
+S72.01	fracture cervico-trochantérienne ouverte du fémur
+S72.01	fracture ouverte de la tête du fémur
+S72.01	fracture sous-capitale ouverte du fémur
+S72.10	fracture pertrochantérienne fermée
+S72.10	fracture fermée du grand trochanter du fémur
+S72.10	fracture fermée du petit trochanter du fémur
+S72.10	fracture intertrochantérienne fermée
+S72.20	fracture sous-trochantérienne fermée
+S72.11	fracture pertrochantérienne ouverte
+S72.11	fracture ouverte du grand trochanter du fémur
+S72.11	fracture ouverte du petit trochanter du fémur
+S72.11	fracture intertrochantérienne ouverte
+S72.21	fracture sous-trochantérienne ouverte
+S72.00	fracture fermée du col du fémur
+S72.00	fracture fermée de la hanche
+S72.01	fracture ouverte du col du fémur
+S72.01	fracture ouverte de la hanche
+S72.3	fracture de la diaphyse du fémur
+S72.30	fracture fermée de la diaphyse du fémur
+S72.31	fracture ouverte de la diaphyse du fémur
+S72.40	fracture fermée de l'extrémité inférieure du fémur
+S72.40	fracture fermée de l'extrémité distale du fémur
+S72.40	fracture fermée du condyle du fémur
+S72.4	fracture du condyle interne du fémur
+S72.40	fracture fermée de l'épiphyse inférieure du fémur
+S72.40	fracture suscondylienne fermée du fémur
+S72.70	fractures multiples fermées de l'extrémité inférieure du fémur
+S72.41	fracture ouverte de l'extrémité inférieure du fémur
+S72.41	fracture ouverte de l'extrémité distale du fémur
+S72.41	fracture ouverte du condyle fémoral
+S72.41	fracture ouverte de l'épiphyse inférieure du fémur
+S72.41	fracture suscondylienne ouverte du fémur
+S72.71	fractures multiples ouvertes de l'extrémité inférieure du fémur
+S82.0	fracture de la rotule
+S82.00	fracture fermée de la rotule
+S82.01	fracture ouverte de la rotule
+S82.9	fracture de la jambe
+S82.9	fracture du tibia et du péroné
+S82.90	fracture fermée de la jambe
+S82.90	fracture fermée du tibia et du péroné
+S82.91	fracture ouverte de la jambe
+S82.91	fracture ouverte du tibia et du péroné
+S82.4	fracture du péroné
+S82.8	fracture du tibia
+S82.1	fracture de l'extrémité supérieure de la jambe
+S82.1	fracture de l'extrémité supérieure du tibia et du péroné
+S82.10	fracture fermée de l'extrémité supérieure de la jambe
+S82.10	fracture fermée de l'extrémité supérieure du tibia et du péroné
+S82.11	fracture ouverte de l'extrémité supérieure de la jambe
+S82.11	fracture ouverte de l'extrémité supérieure du tibia et du péroné
+S82.40	fracture fermée de la tête du péroné
+S82.10	fracture condylienne fermée du tibia
+S82.10	fracture fermée de la tubérosité antérieure du tibia
+S82.1	fracture de l'extrémité supérieure du tibia
+S82.4	fracture de l'extrémité supérieure du péroné
+S82.10	fracture fermée de l'extrémité supérieure du tibia
+S82.40	fracture fermée de l'extrémité supérieure du péroné
+S82.11	fracture ouverte de l'extrémité supérieure du tibia
+S82.41	fracture ouverte de l'extrémité supérieure du péroné
+S82.2	fracture de la diaphyse du tibia
+S82.4	fracture de la diaphyse du péroné
+S82.20	fracture fermée de la diaphyse du tibia
+S82.40	fracture fermée de la diaphyse du péroné
+S82.21	fracture ouverte de la diaphyse du tibia
+S82.41	fracture ouverte de la diaphyse du péroné
+S82.8	fracture de la cheville
+S82.80	fracture fermée de la cheville
+S82.81	fracture ouverte de la cheville
+S82.3	fracture hélicoïdale de Gosselin
+S82.3	fracture spiroïde de Gerdy
+S82.50	fracture fermée de la malléole interne
+S82.5	fracture de Wagstaffe
+S82.51	fracture ouverte de la malléole interne
+S82.60	fracture fermée de la malléole externe
+S82.61	fracture ouverte de la malléole externe
+S82.80	fracture bimalléolaire fermée
+S82.8	fracture bimalléolaire
+S82.5	fracture de Pott
+S82.6	fracture de Dupuytren du péroné
+S82.81	fracture bimalléolaire ouverte
+S82.80	fracture trimalléolaire fermée
+S82.8	fracture trimalléolaire
+S82.81	fracture trimalléolaire ouverte
+S92.9	fracture du pied
+S92.90	fracture fermée du pied
+S92.90	fracture fermée d'un os non précisé du pied, à l'exclusion des orteils
+S92.91	fracture ouverte du pied
+S92.91	fracture ouverte d'un os non précisé du pied, à l'exclusion des orteils
+S92.00	fracture fermée du calcanéum
+S92.01	fracture ouverte du calcanéum
+S92.1	fracture de Shepherd
+S92.10	fracture fermée de l'astragale
+S92.20	fracture fermée de l'os naviculaire du pied
+S92.20	fracture fermée du scaphoïde tarsien
+S92.20	fracture fermée du cuboïde du pied
+S92.20	fracture fermée d'un os cunéiforme du pied
+S92.20	fracture fermée de l'os cunéiforme externe du pied
+S92.20	fracture fermée de l'os cunéiforme intermédiaire du pied
+S92.20	fracture fermée de l'os cunéiforme interne du pied
+S92.30	fracture fermée d'un métatarsien
+S92.30	fracture fermée du premier métatarsien
+S92.30	fracture fermée du deuxième métatarsien
+S92.30	fracture fermée du troisième métatarsien
+S92.30	fracture fermée du quatrième métatarsien
+S92.30	fracture fermée du cinquième métatarsien
+S92.70	fractures multiples fermées du tarse et du métatarse
+S92.11	fracture ouverte de l'astragale
+S92.21	fracture ouverte de l'os naviculaire du pied
+S92.21	fracture ouverte du scaphoïde tarsien
+S92.21	fracture ouverte du cuboïde du pied
+S92.21	fracture ouverte d'un os cunéiforme du pied
+S92.21	fracture ouverte de l'os cunéiforme externe du pied
+S92.21	fracture ouverte de l'os cunéiforme intermédiaire du pied
+S92.21	fracture ouverte de l'os cunéiforme interne du pied
+S92.31	fracture ouverte d'un métatarsien
+S92.31	fracture ouverte du premier métatarsien
+S92.31	fracture ouverte du deuxième métatarsien
+S92.31	fracture ouverte du troisième métatarsien
+S92.31	fracture ouverte du quatrième métatarsien
+S92.31	fracture ouverte du cinquième métatarsien
+S92.71	fractures ouvertes multiples du tarse et du métatarse
+S92.5	fracture d'une phalange du pied
+S92.5	fracture d'un orteil
+S92.50	fracture fermée d'une phalange du pied
+S92.50	fracture fermée d'un orteil
+S92.51	fracture ouverte d'une phalange du pied
+S92.51	fracture ouverte d'un orteil
+S03.0	luxation de la mâchoire
+S03.0	luxation de la mandibule
+S03.0	luxation du maxillaire inférieur
+S03.0	luxation de l'articulation temporo-mandibulaire
+S03.0	luxation temporo-mandibulaire
+S03.0	subluxation de l'articulation temporo-mandibulaire
+S03.0	luxation fermée de la mâchoire
+S03.0	dislocation fermée de la mandibule
+S03.0	luxation fermée du maxillaire inférieur
+S03.0	luxation fermée de l'articulation temporo-mandibulaire
+S03.0	luxation ouverte de la mâchoire
+S03.0	dislocation ouverte de la mandibule
+S03.0	luxation ouverte du maxillaire inférieur
+S03.0	luxation ouverte de l'articulation temporo-mandibulaire
+S13.1	luxation d'une vertèbre cervicale
+S13.1	luxation fermée d'une vertèbre cervicale
+S13.1	luxation fermée de la première vertèbre cervicale
+S13.1	luxation de Bell-Dally
+S13.1	luxation fermée de la deuxième vertèbre cervicale
+S13.1	luxation fermée de la troisième vertèbre cervicale
+S13.1	luxation fermée de la quatrième vertèbre cervicale
+S13.1	luxation fermée de la cinquième vertèbre cervicale
+S13.1	luxation fermée de la sixième vertèbre cervicale
+S13.1	luxation fermée de la septième vertèbre cervicale
+S13.1	luxations fermées de plusieurs vertèbres cervicales
+S13.1	luxation ouverte d'une vertèbre cervicale
+S13.1	luxation ouverte de la première vertèbre cervicale
+S13.1	luxation ouverte de la deuxième vertèbre cervicale
+S13.1	luxation ouverte de la troisième vertèbre cervicale
+S13.1	luxation ouverte de la quatrième vertèbre cervicale
+S13.1	luxation ouverte de la cinquième vertèbre cervicale
+S13.1	luxation ouverte de la sixième vertèbre cervicale
+S13.1	luxation ouverte de la septième vertèbre cervicale
+S13.1	luxations ouvertes de plusieurs vertèbres cervicales
+S23.1	luxation fermée d'une vertèbre thoracique
+S23.1	luxation fermée d'une vertèbre dorsale
+S23.1	luxation fermée d'une vertèbre lombaire
+S23.1	luxation ouverte d'une vertèbre thoracique
+S23.1	luxation ouverte d'une vertèbre dorsale
+S23.1	luxation ouverte d'une vertèbre lombaire
+S33.2	luxation fermée du sacrum
+S33.2	luxation fermée de l'articulation sacro-iliaque
+S33.2	luxation ouverte du sacrum
+S33.2	luxation ouverte de l'articulation sacro-iliaque
+S33.2	luxation fermée du coccyx
+S33.2	luxation ouverte du coccyx
+S23.2	luxation fermée du sternum
+S43.2	luxation fermée de l'articulation sterno-claviculaire
+S23.2	luxation ouverte du sternum
+S43.2	luxation ouverte de l'articulation sterno-claviculaire
+S33.3	luxation fermée du bassin
+S33.3	luxation ouverte du bassin
+S43.0	luxation fermée de l'épaule
+S43.0	luxation fermée de l'humérus
+S43.0	luxation antérieure fermée de l'humérus
+S43.0	luxation postérieure fermée de l'humérus
+S43.0	luxation inférieure fermée de l'humérus
+S43.1	luxation fermée de l'articulation acromio-claviculaire
+S43.1	luxation fermée de la clavicule
+S43.0	luxation fermée de l'omoplate
+S43.0	luxation ouverte de l'épaule
+S43.0	luxation ouverte de l'humérus
+S43.0	luxation antérieure ouverte de l'humérus
+S43.0	luxation postérieure ouverte de l'humérus
+S43.0	luxation inférieure ouverte de l'humérus
+S43.1	luxation ouverte de l'articulation acromio-claviculaire
+S43.1	luxation ouverte de la clavicule
+S43.0	luxation ouverte de l'omoplate
+S53.1	luxation fermée du coude
+S53.1	luxation antérieure fermée du coude
+S53.1	luxation postérieure fermée du coude
+S53.1	luxation interne fermée du coude
+S53.1	luxation externe fermée du coude
+S53.1	subluxation incomplète du coude
+S53.1	luxation ouverte du coude
+S53.1	luxation antérieure ouverte du coude
+S53.1	luxation postérieure ouverte du coude
+S53.1	luxation interne ouverte du coude
+S53.1	luxation externe ouverte du coude
+S63.0	luxation fermée du poignet
+S63.0	luxation fermée de l'articulation radio-ulnaire distale du poignet
+S63.0	luxation fermée de l'articulation radio-carpienne du poignet
+S63.0	luxation fermée de l'articulation médio-carpienne du poignet
+S63.0	luxation fermée de l'articulation carpo-métacarpienne du poignet
+S63.0	luxation fermée de l'extrémité proximale d'un métacarpien
+S63.0	luxation fermée de l'extrémité distale du cubitus
+S63.0	luxation isolée du semi-lunaire
+S63.0	luxation isolée de l'os semi-lunaire
+S63.0	luxation de l'os semi-lunaire
+S63.0	luxation ouverte du poignet
+S63.0	luxation ouverte de l'articulation radio-ulnaire distale du poignet
+S63.0	luxation ouverte de l'articulation radio-carpienne du poignet
+S63.0	luxation ouverte de l'articulation médio-carpienne du poignet
+S63.0	luxation ouverte de l'articulation carpo-métacarpienne du poignet
+S63.0	luxation ouverte de l'extrémité proximale d'un métacarpien
+S63.0	luxation ouverte de l'extrémité distale du cubitus
+S63.1	luxation fermée d'un doigt
+S63.1	luxation fermée d'une phalange de la main
+S63.1	luxation fermée de l'articulation métacarpo-phalangienne d'un doigt
+S63.1	luxation fermée d'une articulation interphalangienne de la main
+S63.1	luxation fermée du pouce
+S63.1	luxation fermée de l'articulation métacarpo-phalangienne du pouce
+S63.1	luxation fermée d'une articulation interphalangienne du pouce
+S63.1	luxation ouverte d'un doigt
+S63.1	luxation ouverte d'une phalange de la main
+S63.1	luxation ouverte de l'articulation métacarpo-phalangienne d'un doigt
+S63.1	luxation ouverte d'une articulation interphalangienne de la main
+S63.1	luxation ouverte du pouce
+S63.1	luxation ouverte de l'articulation métacarpo-phalangienne du pouce
+S63.1	luxation ouverte d'une articulation interphalangienne du pouce
+S73.0	luxation fermée de la hanche
+S73.0	luxation postérieure fermée de la hanche
+S73.0	luxation obturatrice fermée de la hanche
+S73.0	luxation de Monteggia
+S73.0	autre luxation antérieure fermée de la hanche
+S73.0	luxation ouverte de la hanche
+S73.0	luxation postérieure ouverte de la hanche
+S73.0	luxation obturatrice ouverte de la hanche
+S73.0	autre luxation antérieure ouverte de la hanche
+S83.1	luxation du genou
+S83.2	déchirure récente d'un cartilage semilunaire
+S83.2	déchirure d'un ménisque du genou
+S83.2	déchirure récente d'un ménisque du genou
+S83.2	déchirure récente du ménisque interne du genou
+S83.2	déchirure du ménisque interne du genou
+S83.2	déchirure récente du ménisque externe du genou
+S83.2	déchirure du ménisque latéral du genou
+S83.0	luxation fermée de la rotule
+S83.0	luxation ouverte de la rotule
+S83.1	luxation fermée du genou
+S83.1	luxation antérieure fermée de l'extrémité proximale du tibia
+S83.1	luxation postérieure fermée de l'extrémité distale du fémur
+S83.1	luxation postérieure fermée de l'extrémité proximale du tibia
+S83.1	luxation antérieure fermée de l'extrémité distale du fémur
+S83.1	luxation interne fermée de l'extrémité proximale du tibia
+S83.1	luxation externe fermée de l'extrémité proximale du tibia
+S83.1	luxation ouverte du genou
+S83.1	luxation antérieure ouverte de l'extrémité proximale du tibia
+S83.1	luxation postérieure ouverte de l'extrémité distale du fémur
+S83.1	luxation postérieure ouverte de l'extrémité proximale du tibia
+S83.1	luxation antérieure ouverte de l'extrémité distale du fémur
+S83.1	luxation interne ouverte de l'extrémité proximale du tibia
+S83.1	luxation externe ouverte de l'extrémité proximale du tibia
+S93.0	luxation fermée de la cheville
+S93.0	luxation fermée de l'astragale
+S93.0	luxation fermée de l'extrémité distale du péroné
+S93.3	luxation fermée de l'os naviculaire du pied
+S93.3	luxation fermée du scaphoïde tarsien
+S93.3	luxation de Smith
+S93.0	luxation fermée de l'extrémité distale du tibia
+S93.0	luxation de Nélaton
+S93.0	luxation ouverte de la cheville
+S93.0	luxation ouverte de l'astragale
+S93.0	luxation ouverte de l'extrémité distale du péroné
+S93.3	luxation ouverte de l'os naviculaire du pied
+S93.3	luxation ouverte du scaphoïde tarsien
+S93.0	luxation ouverte de l'extrémité distale du tibia
+S93.3	luxation fermée du pied
+S93.3	luxation fermée d'une articulation tarsienne
+S93.3	luxation fermée de l'articulation médio-tarsienne
+S93.3	luxation fermée de l'articulation tarso-métatarsienne
+S93.3	luxation de l'interligne de Lisfranc
+S93.3	luxation fermée d'une articulation métatarsienne
+S93.1	luxation fermée d'une articulation métatarso-phalangienne
+S93.1	luxation fermée d'une phalange du pied
+S93.1	luxation fermée d'un orteil
+S93.1	luxation fermée d'une articulation interphalangienne du pied
+S93.3	luxation ouverte du pied
+S93.3	luxation ouverte d'une articulation tarsienne
+S93.3	luxation ouverte de l'articulation médio-tarsienne
+S93.3	luxation ouverte de l'articulation tarso-métatarsienne
+S93.3	luxation ouverte d'une articulation métatarsienne
+S93.1	luxation ouverte d'une articulation métatarso-phalangienne
+S93.1	luxation ouverte d'une phalange du pied
+S93.1	luxation ouverte d'un orteil
+S93.1	luxation ouverte d'une articulation interphalangienne du pied
+S43.4	entorse de l'épaule
+S43.5	entorse acromio-claviculaire
+S43.5	entorse d'un ligament coraco-claviculaire
+S43.4	entorse du ligament coraco-huméral
+S43.7	entorse du tendon ou du muscle sous-épineux
+S43.4	entorse de la capsule articulaire de la coiffe des rotateurs
+S43.7	entorse du muscle subscapulaire
+S43.7	entorse du tendon ou du muscle sus-épineux
+S43.7	entorse d'une autre localisation de l'épaule et du bras
+S43.4	entorse du bras
+S53.4	entorse du coude
+S53.4	entorse du ligament latéral externe du coude
+S53.4	entorse du ligament latéral interne du coude
+S53.4	entorse de l'articulation huméro-radiale
+S53.4	entorse de l'articulation huméro-cubitale
+S53.4	entorse d'une autre localisation précisée du coude et de l'avant-bras
+S63.5	entorse du poignet
+S63.5	entorse d'une articulation carpienne
+S63.5	entorse radio-carpienne
+S63.5	entorse de l'articulation radio-cubitale distale
+S63.7	entorse de la main
+S63.7	entorse de l'articulation carpo-métacarpienne
+S63.6	entorse d'une articulation métacarpo-phalangienne
+S63.6	entorse d'une articulation interphalangienne du doigt
+S63.5	entorse de l'articulation médio-carpienne
+S73.1	entorse de la hanche
+S73.1	entorse du ligament ilio-fémoral de Bertin
+S73.1	entorse du ligament ischio-fémoral
+S73.1	entorse d'une localisation précisée de la hanche et de la cuisse
+S73.1	entorse de la cuisse
+S83.6	entorse du genou
+S83.4	entorse du ligament latéral externe du genou
+S83.4	entorse du ligament latéral interne du genou
+S83.5	entorse d'un ligament croisé du genou
+S83.6	entorse péronéo-tibiale supérieure
+S83.6	entorse d'une autre localisation précisée du genou et de la jambe
+S83.6	entorse de la jambe
+S93.4	entorse de la cheville
+S93.4	entorse du ligament deltoïde de l'articulation tibio-tarsienne
+S93.4	entorse du ligament latéral interne de l'articulation tibio-tarsienne
+S93.4	entorse du ligament calcanéo-péronier
+S93.4	entorse du ligament tibio-péronier distal
+S86.0	entorse du tendon d'Achille
+S99.8	lésion traumatique par supination-rotation interne de la cheville
+S99.8	lésion traumatique par supination-adduction de la cheville
+S99.8	lésion traumatique par supination-adduction de la cheville, stade 1
+S99.8	lésion traumatique par supination-adduction de la cheville, stade 2
+S99.8	lésion traumatique par supination-éversion de la cheville
+S99.8	lésion traumatique par supination-éversion de la cheville, stade 1
+S99.8	lésion traumatique par supination-éversion de la cheville, stade 2
+S99.8	lésion traumatique par supination-éversion de la cheville, stade 3
+S99.8	lésion traumatique par supination-éversion de la cheville, stade 4
+S93.6	entorse du pied
+S93.6	entorse tarso-métatarsienne
+S93.5	entorse d'une articulation métatarso-phalangienne
+S93.5	entorse d'une articulation interphalangienne de l'orteil
+S13.6	entorse du cou
+S13.4	coup de lapin
+S13.4	entorse cervicale aiguë
+S13.4	entorse de l'articulation atlanto-axiale
+S13.4	entorse de l'articulation atlanto-occipitale
+S23.3	entorse du dos
+S23.3	entorse de la région thoracique
+S33.5	entorse de la région lombaire
+S33.6	entorse du sacrum
+S33.7	entorse d'un ligament sacro-coccygien
+S33.7	entorse du coccyx
+S33.7	entorse ou foulure de la région sacro-iliaque
+S33.6	entorse lombo-sacrée
+S33.7	entorse d'un ligament sacro-iliaque
+S33.7	entorse du petit ligament sacro-sciatique
+S33.7	entorse du grand ligament sacro-sciatique
+S33.7	entorse d'une localisation précisée de la région sacro-iliaque
+S03.5	entorse du cartilage de la cloison nasale
+S03.4	entorse de la mâchoire
+S03.4	entorse temporo-mandibulaire
+S13.5	entorse crico-aryténoïdienne
+S13.5	entorse crico-thyroïdienne
+S13.5	entorse du cartilage thyroïde
+S23.4	entorse d'une articulation chondro-costale sans lésion traumatique du sternum
+S23.4	entorse d'un cartilage costal sans lésion traumatique du sternum
+S23.4	entorse du sternum
+S43.5	entorse sterno-claviculaire
+S23.4	entorse d'une articulation chondro-sternale
+S23.5	entorse de l'appendice xiphoïde
+S33.7	entorse de la symphyse pubienne
+S06.8	lésion intracrânienne traumatique, sans fracture du crâne
+S06.8	lésion traumatique de la tête, sans fracture du crâne
+S06.0	traumatisme cérébral, sans fracture du crâne
+S06.0	commotion cérébrale
+S06.00	traumatisme cérébral sans plaie intracrânienne ouverte
+S06.00	traumatisme cérébral sans plaie intracrânienne ouverte, avec état de conscience non précisé
+S06.00	traumatisme cérébral sans plaie intracrânienne ouverte ni perte de conscience
+S06.00	traumatisme cérébral sans plaie intracrânienne ouverte, avec perte de conscience brève (moins d'une heure)
+S06.70	traumatisme cérébral sans plaie intracrânienne ouverte, avec perte de conscience modérée (1-24 heures)
+S06.70	traumatisme cérébral sans plaie intracrânienne ouverte, avec perte de conscience prolongée (plus de 24 heures) et retour du niveau de conscience pré-existant
+S06.70	traumatisme cérébral sans plaie intracrânienne ouverte, avec perte de conscience prolongée (plus de 24 heures), sans retour du niveau de conscience pré-existant
+S06.70	traumatisme cérébral sans plaie intracrânienne ouverte, avec perte de conscience de durée non précisée
+S06.00	traumatisme cérébral sans plaie intracrânienne ouverte, avec commotion non précisée
+S06.01	traumatisme cérébral avec plaie intracrânienne ouverte
+S06.01	traumatisme cérébral avec plaie intracrânienne ouverte et état de conscience non précisé
+S06.01	traumatisme cérébral avec plaie intracrânienne ouverte, sans perte de conscience
+S06.01	traumatisme cérébral avec plaie intracrânienne ouverte et perte de conscience brève (moins d'une heure)
+S06.71	traumatisme cérébral avec plaie intracrânienne ouverte et perte de conscience modérée
+S06.71	traumatisme cérébral avec plaie intracrânienne ouverte, perte de conscience prolongée (plus de 24 heures) et retour du niveau de conscience pré-existant
+S06.71	traumatisme cérébral avec plaie intracrânienne ouverte et perte de conscience prolongée (plus de 24 heures), sans retour du niveau de conscience pré-existant
+S06.71	traumatisme cérébral avec plaie intracrânienne ouverte et perte de conscience de durée non précisée
+S06.01	traumatisme cérébral avec plaie intracrânienne ouverte et commotion non précisée
+S06.0	commotion sans perte de conscience
+S06.0	commotion avec confusion mentale ou désorientation, sans perte de conscience
+S06.0	commotion avec perte de conscience brève
+S06.0	commotion avec perte de conscience pendant moins d'une heure
+S06.7	commotion avec perte de conscience modérée
+S06.7	commotion avec perte de conscience pendant 1 à 24 heures
+S06.7	commotion avec perte de conscience prolongée et retour du niveau de conscience pré-existant
+S06.7	commotion avec perte de conscience pendant plus de 24 heures avec rétablissement complet
+S06.7	commotion avec perte de conscience prolongée sans retour du niveau de conscience pré-existant
+S06.7	commotion avec perte de conscience de durée non précisée
+S06.2	contusion du cerveau
+S06.2	contusion cérébrale
+S06.2	lacération du cerveau
+S06.2	lacération cérébrale
+S06.20	contusion cérébrale sans plaie intracrânienne ouverte
+S06.20	lacération cérébrale sans plaie intracrânienne ouverte
+S06.21	contusion cérébrale avec plaie intracrânienne ouverte
+S06.21	lacération cérébrale avec plaie intracrânienne ouverte
+S06.2	contusion du cortex cérébral
+S06.20	contusion du cortex cérébral sans plaie intracrânienne ouverte
+S06.20	contusion du cortex cérébral sans plaie intracrânienne ouverte, avec état de conscience non précisé
+S06.20	contusion du cortex cérébral sans plaie intracrânienne ouverte ni perte de conscience
+S06.00	contusion du cortex cérébral sans plaie intracrânienne ouverte avec perte de conscience brève (moins d'une heure)
+S06.70	contusion du cortex cérébral sans plaie intracrânienne ouverte, avec perte de conscience modérée (1-24 heures)
+S06.70	contusion du cortex cérébral sans plaie intracrânienne ouverte, avec perte de conscience prolongée (plus de 24 heures) et retour du niveau de conscience pré-existant
+S06.70	contusion du cortex cérébral sans plaie intracrânienne ouverte, avec perte de conscience prolongée (plus de 24 heures), sans retour du niveau de conscience pré-existant
+S06.70	contusion du cortex cérébral sans plaie intracrânienne ouverte, avec perte de conscience de durée non précisée
+S06.20	contusion du cortex cérébral sans plaie intracrânienne ouverte, avec commotion non précisée
+S06.21	contusion du cortex cérébral avec plaie intracrânienne ouverte
+S06.21	contusion du cortex cérébral avec plaie intracrânienne ouverte avec état de conscience non précisé
+S06.21	contusion du cortex cérébral avec plaie intracrânienne ouverte, sans perte de conscience
+S06.01	contusion du cortex cérébral avec plaie intracrânienne ouverte et perte de conscience brève (moins d'une heure)
+S06.71	contusion du cortex cérébral avec plaie intracrânienne ouverte et perte de conscience modérée (1-24 heures)
+S06.71	contusion du cortex cérébral avec plaie intracrânienne ouverte, perte de conscience prolongée (plus de 24 heures) et retour du niveau de conscience pré-existant
+S06.71	contusion du cortex cérébral avec plaie intracrânienne ouverte et perte de conscience prolongée (plus de 24 heures) sans retour du niveau de conscience pré-existant
+S06.71	contusion du cortex cérébral avec plaie intracrânienne ouverte et perte de conscience de durée non précisée
+S06.21	contusion du cortex cérébral avec plaie intracrânienne ouverte et commotion non précisée
+S06.20	lacération du cortex cérébral sans plaie intracrânienne ouverte
+S06.20	lacération du cortex cérébral sans plaie intracrânienne ouverte, avec état de conscience non précisé
+S06.20	lacération du cortex cérébral sans plaie intracrânienne ouverte ni perte de conscience
+S06.20	lacération du cortex cérébral sans plaie intracrânienne ouverte, avec perte de conscience brève (moins d'une heure)
+S06.70	lacération du cortex cérébral sans plaie intracrânienne ouverte, avec perte de conscience modérée (1-24 heures)
+S06.70	lacération du cortex cérébral sans plaie intracrânienne ouverte, avec perte de conscience prolongée (plus de 24 heures) et retour du niveau de conscience pré-existant
+S06.70	lacération du cortex cérébral sans plaie intracrânienne ouverte, avec perte de conscience prolongée (plus de 24 heures), sans retour du niveau de conscience pré-existant
+S06.70	lacération du cortex cérébral sans plaie intracrânienne ouverte, avec perte de conscience de durée non précisée
+S06.20	lacération du cortex cérébral sans plaie intracrânienne ouverte, avec commotion non précisée
+S06.21	lacération du cortex cérébral avec plaie intracrânienne ouverte
+S06.21	lacération du cortex cérébral avec plaie intracrânienne ouverte et état de conscience non précisé
+S06.21	lacération du cortex cérébral avec plaie intracrânienne ouverte, sans perte de conscience
+S06.21	lacération du cortex cérébral avec plaie intracrânienne ouverte et perte de conscience brève (moins d'une heure)
+S06.71	lacération du cortex cérébral avec plaie intracrânienne ouverte et perte de conscience modérée (1-24 heures)
+S06.71	lacération du cortex cérébral avec plaie intracrânienne ouverte, perte de conscience prolongée (plus de 24 heures) et retour du niveau de conscience pré-existant
+S06.71	lacération du cortex cérébral avec plaie intracrânienne ouverte et perte de conscience prolongée (plus de 24 heures), sans retour du niveau de conscience pré-existant
+S06.71	lacération du cortex cérébral avec plaie intracrânienne ouverte et perte de conscience de durée non précisée
+S06.21	lacération du cortex cérébral avec plaie intracrânienne ouverte et commotion non précisée
+S06.80	contusion cérébelleuse sans plaie intracrânienne ouverte
+S06.80	contusion cérébelleuse sans plaie intracrânienne ouverte, avec état de conscience non précisé
+S06.80	contusion cérébelleuse sans plaie intracrânienne ouverte ni perte de conscience
+S06.80	contusion cérébelleuse sans plaie intracrânienne ouverte, avec perte de conscience brève (moins d'une heure)
+S06.70	contusion cérébelleuse sans plaie intracrânienne ouverte, avec perte de conscience modérée (1-24 heures)
+S06.70	contusion cérébelleuse sans plaie intracrânienne ouverte, avec perte de conscience prolongée (plus de 24 heures) et retour du niveau de conscience pré-existant
+S06.70	contusion cérébelleuse sans plaie intracrânienne ouverte, avec perte de conscience prolongée (plus de 24 heures), sans retour du niveau de conscience pré-existant
+S06.70	contusion cérébelleuse sans plaie intracrânienne ouverte, avec perte de conscience de durée non précisée
+S06.20	contusion cérébelleuse sans plaie intracrânienne ouverte, avec commotion non précisée
+S06.80	contusion du tronc cérébral sans plaie intracrânienne ouverte
+S06.80	contusion du tronc cérébral sans plaie intracrânienne ouverte, avec état de conscience non précisé
+S06.80	contusion du tronc cérébral sans plaie intracrânienne ouverte ni perte de consience
+S06.80	contusion du tronc cérébral sans plaie intracrânienne ouverte, avec perte de conscience brève (moins d'une heure)
+S06.80	contusion du tronc cérébral sans plaie intracrânienne ouverte, avec perte de conscience modérée (1-24 heures)
+S06.80	contusion du tronc cérébral sans plaie intracrânienne ouverte, avec perte de conscience prolongée (plus de 24 heures) et retour du niveau de conscience pré-existant
+S06.80	contusion du tronc cérébral sans plaie intracrânienne ouverte, avec perte de conscience prolongée (plus de 24 heures), sans retour du niveau de conscience pré-existant
+S06.80	contusion du tronc cérébral sans plaie intracrânienne ouverte, avec perte de conscience de durée non précisée
+S06.80	contusion du tronc cérébral sans plaie intracrânienne ouverte, avec commotion non précisée
+S06.81	contusion cérébelleuse avec plaie intracrânienne ouverte
+S06.81	contusion cérébelleuse avec plaie intracrânienne ouverte et état de conscience non précisé
+S06.81	contusion cérébelleuse avec plaie intracrânienne ouverte, sans perte de conscience
+S06.81	contusion cérébelleuse avec plaie intracrânienne ouverte et perte de conscience brève
+S06.71	contusion cérébelleuse avec plaie intracrânienne ouverte et perte de conscience modérée (1-24 heures)
+S06.71	contusion cérébelleuse avec plaie intracrânienne ouverte, perte de conscience prolongée (plus de 24 heures) et retour du niveau de conscience pré-existant
+S06.71	contusion cérébelleuse avec plaie intracrânienne ouverte et perte de conscience prolongée (plus de 24 heures), sans retour du niveau de conscience pré-existant
+S06.71	contusion cérébelleuse avec plaie intracrânienne ouverte et perte de conscience de durée non précisée
+S06.81	contusion cérébelleuse avec plaie intracrânienne ouverte et commotion non précisée
+S06.81	contusion du tronc cérébral avec plaie intracrânienne ouverte
+S06.81	contusion du tronc cérébral avec plaie intracrânienne ouverte et état de conscience non précisé
+S06.81	contusion du tronc cérébral avec plaie intracrânienne ouverte, sans perte de conscience
+S06.81	contusion du tronc cérébral avec plaie intracrânienne ouverte et perte de conscience brève (moins d'une heure)
+S06.81	contusion du tronc cérébral avec plaie intracrânienne ouverte et perte de conscience modérée (1-24 heures)
+S06.81	contusion du tronc cérébral avec plaie intracrânienne ouverte, perte de conscience prolongée (plus de 24 heures) et retour du niveau de conscience pré-existant
+S06.81	contusion du tronc cérébral avec plaie intracrânienne ouverte et perte de conscience prolongée (plus de 24 heures), sans retour du niveau de conscience pré-existant
+S06.81	contusion du tronc cérébral avec plaie intracrânienne ouverte et perte de conscience de durée non précisée
+S06.81	contusion du tronc cérébral avec plaie intracrânienne ouverte et commotion non précisée
+S06.80	lacération cérébelleuse sans plaie intracrânienne ouverte
+S06.80	lacération cérébelleuse sans plaie intracrânienne ouverte, avec état de conscience non précisé
+S06.80	lacération cérébelleuse sans plaie intracrânienne ouverte ni perte de conscience
+S06.80	lacération cérébelleuse sans plaie intracrânienne ouverte, avec perte de conscience brève (moins d'une heure)
+S06.70	lacération cérébelleuse sans plaie intracrânienne ouverte, avec perte de conscience modérée (1-24 heures)
+S06.70	lacération cérébelleuse sans plaie intracrânienne ouverte, avec perte de conscience prolongée (plus de 24 heures) et retour du niveau de conscience pré-existant
+S06.70	lacération cérébelleuse sans plaie intracrânienne ouverte, avec perte de conscience prolongée (plus de 24 heures), sans retour du niveau de conscience pré-existant
+S06.70	lacération cérébelleuse sans plaie intracrânienne ouverte, avec perte de conscience de durée non précisée
+S06.80	lacération cérébelleuse sans plaie intracrânienne ouverte, avec commotion non précisée
+S06.80	lacération du tronc cérébral sans plaie intracrânienne ouverte
+S06.80	lacération du tronc cérébral sans plaie intracrânienne ouverte, avec état de conscience non précisé
+S06.80	lacération du tronc cérébral sans plaie intracrânienne ouverte ni perte de conscience
+S06.80	lacération du tronc cérébral sans plaie intracrânienne ouverte, avec perte de conscience brève (moins d'une heure)
+S06.80	lacération du tronc cérébral sans plaie intracrânienne ouverte, avec perte de conscience modérée (1-24 heures)
+S06.80	lacération du tronc cérébral sans plaie intracrânienne ouverte, avec perte de conscience prolongée (plus de 24 heures) et retour du niveau de conscience pré-existant
+S06.80	lacération du tronc cérébral sans plaie intracrânienne ouverte, avec perte de conscience prolongée (plus de 24 heures), sans retour du niveau de conscience pré-existant
+S06.80	lacération du tronc cérébral sans plaie intracrânienne ouverte, avec perte de conscience de durée non précisée
+S06.80	lacération du tronc cérébral sans plaie intracrânienne ouverte, avec commotion non précisée
+S06.81	lacération cérébelleuse avec plaie intracrânienne ouverte
+S06.81	lacération cérébelleuse avec plaie intracrânienne ouverte et état de conscience non précisé
+S06.81	lacération cérébelleuse avec plaie intracrânienne ouverte, sans perte de conscience
+S06.81	lacération cérébelleuse avec plaie intracrânienne ouverte et perte de conscience brève (moins d'une heure)
+S06.71	lacération cérébelleuse avec plaie intracrânienne ouverte et perte de conscience modérée (1-24 heures)
+S06.71	lacération cérébelleuse avec plaie intracrânienne ouverte, perte de conscience prolongée (plus de 24 heures) et retour du niveau de conscience pré-existant
+S06.71	lacération cérébelleuse avec plaie intracrânienne ouverte et perte de conscience prolongée (plus de 24 heures), sans retour du niveau de conscience pré-existant
+S06.71	lacération cérébelleuse avec plaie intracrânienne ouverte et perte de conscience de durée non précisée
+S06.81	lacération cérébelleuse avec plaie intracrânienne ouverte et commotion non précisée
+S06.81	lacération du tronc cérébral avec plaie intracrânienne ouverte
+S06.81	lacération du tronc cérébral avec plaie intracrânienne ouverte et état de conscience non précisé
+S06.81	lacération du tronc cérébral avec plaie intracrânienne ouverte, sans perte de conscience
+S06.81	lacération du tronc cérébral avec plaie intracrânienne ouverte et perte de conscience brève (moins d'une heure)
+S06.81	lacération du tronc cérébral avec plaie intracrânienne ouverte et perte de conscience modérée (1-24 heures)
+S06.81	lacération du tronc cérébral avec plaie intracrânienne ouverte, perte de conscience prolongée (plus de 24 heures) et retour du niveau de conscience pré-existant
+S06.81	lacération du tronc cérébral avec plaie intracrânienne ouverte et perte de conscience prolongée (plus de 24 heures) sans retour du niveau de conscience pré-existant
+S06.81	lacération du tronc cérébral avec plaie intracrânienne ouverte avec perte de conscience de durée indéterminée
+S06.81	lacération du tronc cérébral avec plaie intracrânienne ouverte et commotion non précisée
+S06.8	hémorragie intracrânienne après lésion traumatique
+S06.8	hémorragie intracrânienne après traumatisme
+S06.8	hémorragie cérébrale traumatique
+S06.8	hématome intracrânien après lésion traumatique
+S06.8	hématome intracrânien après traumatisme
+S06.2	compression cérébrale due à une lésion traumatique
+S06.80	hémorragie intracrânienne après lésion traumatique sans plaie intracrânienne ouverte
+S06.80	hémorragie intracrânienne après traumatisme sans plaie intracrânienne ouverte
+S06.80	hémorragie intracrânienne après lésion traumatique sans plaie intracrânienne ouverte, avec état de conscience non précisé
+S06.80	hémorragie intracrânienne après traumatisme sans plaie intracrânienne ouverte, avec état de conscience non précisé
+S06.80	hémorragie intracrânienne après lésion traumatique sans plaie intracrânienne ouverte ni perte de conscience
+S06.80	hémorragie intracrânienne après traumatisme sans plaie intracrânienne ouverte ni perte de conscience
+S06.80	hémorragie intracrânienne après lésion traumatique sans plaie intracrânienne ouverte, avec perte de conscience brève (moins d'une heure)
+S06.80	hémorragie intracrânienne après traumatisme sans plaie intracrânienne ouverte, avec perte de conscience brève (moins d'une heure)
+S06.70	hémorragie intracrânienne après lésion traumatique sans plaie intracrânienne, avec perte de conscience modérée (1-24 heures)
+S06.70	hémorragie intracrânienne après traumatisme sans plaie intracrânienne, avec perte de conscience modérée (1-24 heures)
+S06.70	hémorragie intracrânienne après lésion traumatique sans plaie intracrânienne ouverte, avec perte de conscience prolongée (plus de 24 heures) et retour du niveau de conscience pré-existant
+S06.70	hémorragie intracrânienne après traumatisme sans plaie intracrânienne ouverte, avec perte de conscience prolongée (plus de 24 heures) et retour du niveau de conscience pré-existant
+S06.70	hémorragie intracrânienne après lésion traumatique sans plaie intracrânienne ouverte, avec perte de conscience prolongée (plus de 24 heures), sans retour du niveau de conscience pré-existant
+S06.70	hémorragie intracrânienne après traumatisme sans plaie intracrânienne ouverte, avec perte de conscience prolongée (plus de 24 heures) sans retour du niveau de conscience pré-existant
+S06.70	hémorragie intracrânienne après lésion traumatique sans plaie intracrânienne ouverte, avec perte de conscience de durée non précisée
+S06.70	hémorragie intracrânienne après traumatisme sans plaie intracrânienne ouverte, avec perte de conscience de durée non précisée
+S06.80	hémorragie intracrânienne après lésion traumatique sans plaie intracrânienne ouverte avec commotion non précisée
+S06.80	hémorragie intracrânienne après traumatisme sans plaie intracrânienne ouverte avec commotion non précisée
+S06.81	hémorragie intracrânienne après lésion traumatique avec plaie intracrânienne ouverte
+S06.81	hémorragie intracrânienne après traumatisme avec plaie intracrânienne ouverte
+S06.81	hémorragie intracrânienne après lésion traumatique avec plaie intracrânienne ouverte et état de conscience non précisé
+S06.81	hémorragie intracrânienne après traumatisme avec plaie intracrânienne ouverte et état de conscience non précisé
+S06.81	hémorragie intracrânienne après lésion traumatique avec plaie intracrânienne ouverte, sans perte de conscience
+S06.81	hémorragie intracrânienne après traumatisme avec plaie intracrânienne ouverte, sans perte de conscience
+S06.81	hémorragie intracrânienne après lésion traumatique avec plaie intracrânienne ouverte et perte de conscience brève (moins d'une heure)
+S06.81	hémorragie intracrânienne après traumatisme avec plaie intracrânienne ouverte et perte de conscience brève (moins d'une heure)
+S06.71	hémorragie intracrânienne après lésion traumatique avec plaie intrâcranienne et perte de conscience (1-24 heures)
+S06.71	hémorragie intracrânienne après traumatisme avec plaie intracrânienne et perte de conscience modérée (1-24 heures)
+S06.71	hémorragie intracrânienne après lésion traumatique avec plaie intracrânienne ouverte et perte de conscience prolongée (plus de 24 heures) et retour du niveau de conscience pré-existant
+S06.71	hémorragie intracrânienne après traumatisme avec plaie intracrânienne ouverte et perte de conscience prolongée (plus de 24 heures) et retour du niveau de conscience pré-existant
+S06.71	hémorragie intracrânienne après lésion traumatique avec plaie intracrânienne ouverte et perte de conscience prolongée (plus de 24 heures) sans retour du niveau de conscience pré-existant
+S06.71	hémorragie intracrânienne après traumatisme avec plaie intracrânienne ouverte et perte de conscience prolongée (plus de 24 heures) sans retour du niveau de conscience pré-existant
+S06.71	hémorragie intracrânienne après lésion traumatique avec plaie intracrânienne ouverte et perte de conscience de durée non précisée
+S06.71	hémorragie intracrânienne après traumatisme avec plaie intracrânienne ouverte et perte de conscience de durée non précisée
+S06.81	hémorragie intracrânienne après lésion traumatique avec plaie intracrânienne ouverte et commotion non précisée
+S06.81	hémorragie intracrânienne après traumatisme avec plaie intracrânienne ouverte et commotion non pécisée
+S06.60	hémorragie sous-arachnoïdienne après lésion traumatique sans plaie intracrânienne ouverte
+S06.60	hémorragie sous-arachnoïdienne après traumatisme sans plaie intracrânienne ouverte
+S06.60	hémorragie sous-arachnoïdienne après lésion traumatique sans plaie intracrânienne ouverte, avec état de conscience non précisé
+S06.60	hémorragie sous-arachnoïdienne après traumatisme sans plaie intracrânienne ouverte, avec état de conscience non précisé
+S06.60	hémorragie sous-arachnoïdienne après lésion traumatique sans plaie intracrânienne ouverte ni perte de conscience
+S06.60	hémorragie sous-arachnoïdienne après traumatisme sans plaie intracrânienne ouverte ni perte de conscience
+S06.60	hémorragie sous-arachnoïdienne après lésion traumatique sans plaie intracrânienne ouverte, avec perte de conscience brève (moins d'une heure)
+S06.70	hémorragie sous-arachnoïdienne après traumatisme sans plaie intracrânienne ouverte, avec perte de conscience brève (moins d'une heure)
+S06.70	hémorragie sous-arachnoïdienne après lésion traumatique sans plaie intracrânienne ouverte, avec perte de conscience modérée (1-24 heures)
+S06.70	hémorragie sous-arachnoïdienne après traumatisme sans plaie intracrânienne ouverte, avec perte de conscience modérée (1-24 heures)
+S06.70	hémorragie sous-arachnoïdienne après lésion traumatique sans plaie intracrânienne ouverte, avec perte de conscience prolongée (plus de 24 heures) et retour du niveau de conscience pré-existant
+S06.70	hémorragie sous-arachnoïdienne après traumatisme sans plaie intracrânienne ouverte, avec perte de conscience prolongée (plus de 24 heures) et retour du niveau de conscience pré-existant
+S06.70	hémorragie sous-arachnoïdienne après lésion traumatique sans plaie intracrânienne ouverte, avec perte de conscience prolongée (plus de 24 heures), sans retour du niveau de conscience pré-existant
+S06.70	hémorragie sous-arachnoïdienne après traumatisme sans plaie intracrânienne ouverte, avec perte de conscience prolongée (plus de 24 heures) sans retour du niveau de conscience pré-existant
+S06.70	hémorragie sous-arachnoïdienne après lésion traumatique sans plaie intracrânienne ouverte, avec perte de conscience de durée non précisée
+S06.70	hémorragie sous-arachnoïdienne après traumatisme sans plaie intracrânienne ouverte, avec perte de conscience de durée non précisée
+S06.60	hémorragie sous-arachnoïdienne après lésion traumatique sans plaie intracrânienne ouverte, avec commotion non précisée
+S06.60	hémorragie sous-arachnoïdienne après traumatisme sans plaie intracrânienne ouverte, avec commotion non précisée
+S06.5	hémorragie méningée moyenne après lésion traumatique
+S06.5	hémorragie méningée moyenne après traumatisme
+S06.61	hémorragie sous-arachnoïdienne après lésion traumatique avec plaie intracrânienne ouverte
+S06.61	hémorragie sous-arachnoïdienne après traumatisme avec plaie intracrânienne ouverte
+S06.61	hémorragie sous-arachnoïdienne après lésion traumatique avec plaie intracrânienne ouverte et état de conscience non précisé
+S06.61	hémorragie sous-arachnoïdienne après traumatisme avec plaie intracrânienne ouverte et état de conscience non précisé
+S06.61	hémorragie sous-arachnoïdienne après lésion traumatique avec plaie intracrânienne ouverte, sans perte de conscience
+S06.61	hémorragie sous-arachnoïdienne après traumatisme avec plaie intracrânienne ouverte, sans perte de conscience
+S06.61	hémorragie sous-arachnoïdienne après lésion traumatique avec plaie intracrânienne ouverte et perte de conscience brève (moins d'une heure)
+S06.61	hémorragie sous-arachnoïdienne après traumatisme avec plaie intracrânienne ouverte et perte de conscience brève (moins d'une heure)
+S06.71	hémorragie sous-arachnoïdienne après lésion traumatique avec plaie intracrânienne ouverte et perte de conscience modérée (1-24 heures)
+S06.71	hémorragie sous-arachnoïdienne après traumatisme avec plaie intracrânienne ouverte et perte de conscience modérée (1-24 heures)
+S06.71	hémorragie sous-arachnoïdienne après lésion traumatique avec plaie intracrânienne ouverte, perte de conscience prolongée (plus de 24 heures) et retour du niveau de conscience pré-existant
+S06.71	hémorragie sous-arachnoïdienne après traumatisme avec plaie intracrânienne ouverte, perte de conscience prolongée (plus de 24 heures) et retour du niveau de conscience pré-existant
+S06.71	hémorragie sous-arachnoïdienne après lésion traumatique avec plaie intracrânienne ouverte et perte de conscience prolongée (plus de 24 heures) sans retour du niveau de conscience pré-existant
+S06.71	hémorragie sous-arachnoïdienne après traumatisme avec plaie intracrânienne ouverte et perte de conscience prolongée (plus de 24 heures) sans retour du niveau de conscience pré-existant
+S06.71	hémorragie sous-arachnoïdienne après lésion traumatique avec plaie intracrânienne ouverte et perte de conscience de durée non précisée
+S06.71	hémorragie sous-arachnoïdienne après traumatisme avec plaie intracrânienne ouverte et perte de conscience de durée non précisée
+S06.61	hémorragie sous-arachnoïdienne après lésion traumatique avec plaie intracrânienne ouverte et commotion non précisée
+S06.61	hémorragie sous-arachnoïdienne après traumatisme avec plaie intracrânienne ouverte et commotion non précisée
+S06.50	hémorragie sous-durale après lésion traumatique sans plaie intracrânienne ouverte
+S06.50	hémorragie sous-durale après traumatisme sans plaie intracrânienne ouverte
+S06.50	hémorragie sous-durale après lésion traumatique sans plaie intracrânienne ouverte, avec état de conscience non précisé
+S06.50	hémorragie sous-durale après traumatisme sans plaie intracrânienne ouverte, avec état de conscience non précisé
+S06.50	hémorragie sous-durale après lésion traumatique sans plaie intracrânienne ouverte ni perte de conscience
+S06.50	hémorragie sous-durale après traumatisme sans plaie intracrânienne ouverte ni perte de conscience
+S06.50	hémorragie sous-durale après lésion traumatique sans plaie intracrânienne ouverte, avec perte de conscience brève (moins d'une heure)
+S06.50	hémorragie sous-durale après traumatisme sans plaie intracrânienne ouverte, avec perte de conscience brève (moins d'une heure)
+S06.70	hémorragie sous-durale après lésion traumatique sans plaie intracrânienne ouverte, avec perte de conscience modérée (1-24 heures)
+S06.70	hémorragie sous-durale après traumatisme sans plaie intracrânienne ouverte, avec perte de conscience modérée (1-24 heures)
+S06.70	hémorragie sous-durale après lésion traumatique sans plaie intracrânienne ouverte, avec perte de conscience prolongée (plus de 24 heures) et retour du niveau de conscience pré-existant
+S06.70	hémorragie sous-durale après traumatisme sans plaie intracrânienne ouverte, avec perte de conscience prolongée (plus de 24 heures) et retour du niveau de conscience pré-existant
+S06.70	hémorragie sous-durale après lésion traumatique sans plaie intracrânienne ouverte, avec perte de conscience prolongée (plus de 24 heures), sans retour du niveau de conscience pré-existant
+S06.70	hémorragie sous-durale après traumatisme sans plaie intracrânienne ouverte, avec perte de conscience prolongée (plus de 24 heures), sans retour du niveau de conscience pré-existant
+S06.70	hémorragie sous-durale après lésion traumatique sans plaie intracrânienne ouverte, avec perte de conscience de durée non précisée
+S06.70	hémorragie sous-durale après traumatisme sans plaie intracrânienne ouverte, avec perte de conscience de durée non précisée
+S06.50	hémorragie sous-durale après lésion traumatique sans plaie intracrânienne ouverte, avec commotion non précisée
+S06.50	hémorragie sous-durale après traumatisme sans plaie intracrânienne ouverte, avec commotion non précisée
+S06.51	hémorragie sous-durale après lésion traumatique avec plaie intracrânienne ouverte
+S06.51	hémorragie sous-durale après traumatisme avec plaie intracrânienne ouverte
+S06.51	hémorragie sous-durale après lésion traumatique avec plaie intracrânienne ouverte et état de conscience non précisé
+S06.51	hémorragie sous-durale après traumatisme avec plaie intracrânienne ouverte et état de conscience non précisé
+S06.51	hémorragie sous-durale après lésion traumatique avec plaie intracrânienne ouverte, sans perte de conscience
+S06.51	hémorragie sous-durale après traumatisme avec plaie intracrânienne ouverte, sans perte de conscience
+S06.51	hémorragie sous-durale après lésion traumatique avec plaie intracrânienne ouverte et perte de conscience brève (moins d'une heure)
+S06.51	hémorragie sous-durale après traumatisme avec plaie intracrânienne ouverte et perte de conscience (moins d'une heure)
+S06.71	hémorragie sous-durale après lésion traumatique avec plaie intracrânienne ouverte et perte de conscience modérée (1-24 heures)
+S06.71	hémorragie sous-durale après traumatisme avec plaie intracrânienne ouverte et perte de conscience modérée (1-24 heures)
+S06.71	hémorragie sous-durale après lésion traumatique avec plaie intracrânienne ouverte, perte de conscience prolongée (plus de 24 heures) et retour du niveau de conscience pré-existant
+S06.71	hémorragie sous-durale après traumatisme avec plaie intracrânienne ouverte, perte de conscience prolongée (plus de 24 heures) et retour du niveau de conscience pré-existant
+S06.71	hémorragie sous-durale après lésion traumatique avec plaie intracrânienne ouverte et perte de conscience prolongée (plus de 24 heures) sans retour du niveau de conscience pré-existant
+S06.71	hémorragie sous-durale après traumatisme avec plaie intracrânienne ouverte et perte de conscience prolongée (plus de 24 heures) sans retour du niveau de conscience pré-existant
+S06.71	hémorragie sous-durale après lésion traumatique avec plaie intracrânienne ouverte et perte de conscience de durée non précisée
+S06.71	hémorragie sous-durale après traumatisme avec plaie intracrânienne ouverte et perte de conscience de durée non précisée
+S06.51	hémorragie sous-durale après lésion traumatique avec plaie intracrânienne ouverte et commotion non précisée
+S06.51	hémorragie sous-durale après traumatisme avec plaie intracrânienne ouverte et commotion non précisée
+S06.40	hémorragie extra-durale après lésion traumatique sans plaie intracrânienne ouverte
+S06.40	hémorragie extra-durale après traumatisme sans plaie intracrânienne ouverte
+S06.40	hémorragie extra-durale après lésion traumatique sans plaie intracrânienne ouverte, avec état de conscience non précisé
+S06.40	hémorragie extra-durale après traumatisme sans plaie intracrânienne ouverte, avec état de conscience non précisé
+S06.40	hémorragie extra-durale après lésion traumatique sans plaie intracrânienne ouverte ni perte de conscience
+S06.40	hémorragie extra-durale après traumatisme sans plaie intracrânienne ouverte ni perte de conscience
+S06.40	hémorragie extra-durale après lésion traumatique sans plaie intracrânienne ouverte, avec perte de conscience brève (moins d'une heure)
+S06.40	hémorragie extra-durale après traumatisme sans plaie intracrânienne ouverte, avec perte de conscience brève (moins d'une heure)
+S06.70	hémorragie extra-durale après lésion traumatique sans plaie intracrânienne ouverte et perte de conscience modérée (1-24 heures)
+S06.70	hémorragie extra-durale après traumatisme sans plaie intracrânienne ouverte et perte de conscience modérée (1-24 heures)
+S06.70	hémorragie extra-durale après lésion traumatique sans plaie intracrânienne ouverte avec perte de conscience prolongée (plus de 24 heures) et retour du niveau de conscience pré-existant
+S06.70	hémorragie extra-durale après traumatisme sans plaie intracrânienne ouverte, avec perte de conscience prolongée (plus de 24 heures) et retour du niveau de conscience pré-existant
+S06.70	hémorragie extra-durale après lésion traumatique sans plaie intracrânienne ouverte, avec perte de conscience prolongée (plus de 24 heures), sans retour du niveau de conscience pré-existant
+S06.70	hémorragie extra-durale après traumatisme sans plaie intracrânienne ouverte, avec perte de conscience prolongée (plus de 24 heures), sans retour du niveau de conscience pré-existant
+S06.70	hémorragie extra-durale après lésion traumatique sans plaie intracrânienne ouverte, avec perte de conscience de durée non précisée
+S06.70	hémorragie extra-durale après traumatisme sans plaie intracrânienne ouverte, avec perte de conscience de durée non précisée
+S06.40	hémorragie extra-durale après lésion traumatique sans plaie intracrânienne ouverte, avec commotion non précisée
+S06.40	hémorragie extra-durale après traumatisme sans plaie intracrânienne ouverte, avec commotion non précisée
+S06.41	hémorragie extra-durale après lésion traumatique avec plaie intracrânienne ouverte
+S06.41	hémorragie extra-durale après traumatisme avec plaie intracrânienne ouverte
+S06.41	hémorragie extra-durale après lésion traumatique avec plaie intracrânienne ouverte et état de conscience non précisé
+S06.41	hémorragie extra-durale après traumatisme avec plaie intracrânienne ouverte et état de conscience non précisé
+S06.41	hémorragie extra-durale après lésion traumatique avec plaie intracrânienne ouverte, sans perte de conscience
+S06.41	hémorragie extra-durale après traumatisme avec plaie intracrânienne ouverte, sans perte de conscience
+S06.41	hémorragie extra-durale après lésion traumatique avec plaie intracrânienne ouverte et perte de conscience brève (moins d'une heure)
+S06.41	hémorragie extra-durale après traumatisme avec plaie intracrânienne ouverte et perte de conscience brève (moins d'une heure)
+S06.71	hémorragie extra-durale après lésion traumatique avec plaie intracrânienne ouverte et perte de conscience modérée (1-24 heures)
+S06.71	hémorragie extra-durale après traumatisme avec plaie intracrânienne ouverte et perte de conscience modérée (1-24 heures)
+S06.71	hémorragie extra-durale après lésion traumatique avec plaie intracrânienne ouverte, perte de conscience prolongée (plus de 24 heures) et retour du niveau de conscience pré-existant
+S06.71	hémorragie extra-durale après traumatisme avec plaie intracrânienne ouverte, perte de conscience prolongée (plus de 24 heures) et retour du niveau de conscience pré-existant
+S06.71	hémorragie extra-durale après lésion traumatique avec plaie intracrânienne ouverte et perte de conscience prolongée (plus de 24 heures) sans retour du niveau de conscience pré-existant
+S06.71	hémorragie extra-durale après traumatisme avec plaie intracrânienne ouverte et perte de conscience prolongée (plus de 24 heures) sans retour du niveau de conscience pré-existant
+S06.71	hémorragie extra-durale après lésion traumatique avec plaie intracrânienne ouverte et perte de conscience de durée non précisée
+S06.71	hémorragie extra-durale après traumatisme avec plaie intracrânienne ouverte et perte de conscience de durée non précisée
+S06.41	hémorragie extra-durale après lésion traumatique avec plaie intracrânienne ouverte et commotion non précisée
+S06.41	hémorragie extra-durale après traumatisme avec plaie intracrânienne ouverte et commotion non précisée
+S29.8	lésion traumatique interne du thorax
+S27.00	pneumothorax traumatique sans plaie ouverte de la cavité thoracique
+S27.0	pneumothorax traumatique
+S27.01	pneumothorax traumatique avec plaie ouverte de la cavité thoracique
+S27.10	hémothorax traumatique sans plaie ouverte de la cavité thoracique
+S27.11	hémothorax traumatique avec plaie ouverte de la cavité thoracique
+S27.1	hémothorax traumatique
+S27.20	hémopneumothorax traumatique sans plaie ouverte de la cavité thoracique
+S27.21	hémopneumothorax traumatique avec plaie ouverte de la cavité thoracique
+S27.2	hémopneumothorax traumatique
+S27.2	pneumo-hémothorax traumatique
+S27.3	atélectasie traumatique
+S27.3	collapsus pulmonaire traumatique
+S26.9	lésion traumatique du coeur
+S26.90	lésion traumatique du coeur sans plaie ouverte de la cavité thoracique
+S26.8	contusion du coeur
+S26.8	contusion cardiaque
+S26.8	contusion myocardique
+S26.8	lacération du coeur sans pénétration des cavités du coeur
+S26.8	lacération du coeur avec pénétration des cavités du coeur
+S26.81	lésion traumatique non précisée du coeur avec plaie ouverte de la cavité thoracique
+S26.81	contusion du coeur avec plaie ouverte de la cavité thoracique
+S26.81	lacération du coeur avec plaie ouverte de la cavité thoracique, sans pénétration des cavités du coeur
+S26.81	lacération du coeur avec plaie ouverte de la cavité thoracique et pénétration des cavités du coeur
+S27.3	lésion traumatique non précisée du poumon
+S27.30	lésion traumatique du poumon sans plaie ouverte de la cavité thoracique
+S27.30	contusion du poumon sans plaie ouverte de la cavité thoracique
+S27.30	lacération du poumon sans plaie ouverte de la cavité thoracique
+S27.31	lésion traumatique non précisée du poumon avec plaie ouverte de la cavité thoracique
+S27.31	contusion du poumon avec plaie ouverte de la cavité thoracique
+S27.31	lacération du poumon avec plaie ouverte de la cavité thoracique
+S27.6	lésion traumatique de la plèvre
+S27.40	lésion traumatique des bronches sans plaie ouverte de la cavité thoracique
+S27.41	lésion traumatique des bronches avec plaie ouverte de la cavité thoracique
+S27.80	lésion traumatique du diaphragme sans plaie ouverte de la cavité thoracique
+S27.81	lésion traumatique du diaphragme avec plaie ouverte de la cavité thoracique
+S27.80	lésion traumatique de l'oesophage sans plaie ouverte de la cavité thoracique
+S27.81	lésion traumatique de l'oesophage avec plaie ouverte de la cavité thoracique
+S27.8	lésion traumatique du thymus
+S27.70	lésions traumatiques multiples des organes intrathoraciques sans plaie ouverte de la cavité thoracique
+S28.0	écrasement du thorax sans plaie ouverte de la cavité thoracique
+S28.0	écrasement traumatique du thorax
+S28.0	écrasement du thorax
+S28.0	thorax écrasé
+S28.0	écrasement du thorax avec plaie ouverte de la cavité thoracique
+S27.71	lésions traumatiques multiples des organes intrathoraciques avec plaie ouverte dans la cavité thoracique
+S36.9	lésion traumatique interne des organes intra-abdominaux
+S36.9	lésion traumatique interne de l'abdomen
+S36.70	lésion traumatique des organes intra-abdominaux sans plaie pénétrante de la cavité abdominale
+S36.71	lésion traumatique interne des organes intra-abdominaux avec plaie pénétrante de la cavité abdominale
+S36.7	lésions traumatiques multiples graves des organes intra-abdominaux
+S36.70	lésions traumatiques multiples des organes intra-abdominaux sans plaie pénétrante de la cavité abdominale
+S36.71	lésions traumatiques multiples graves des organes intra-abdominaux avec plaie pénétrante de la cavité abdominale
+S38.1	écrasement grave des organes intra-abdominaux
+S38.1	écrasement grave des organes intra-abdominaux sans plaie pénétrante de la cavité abdominale
+S38.1	écrasement grave des organes intra-abdominaux avec plaie pénétrante de la cavité abdominale
+S38.1	écrasement de l'abdomen
+S38.1	écrasement abdominal
+S38.1	abdomen écrasé
+S36.9	lésion traumatique du tube digestif
+S36.90	lésion traumatique du tube digestif sans plaie pénétrante de la cavité abdominale
+S36.91	lésion traumatique du tube digestif avec plaie pénétrante de la cavité abdominale
+S36.90	lésion traumatique de l'intestin sans plaie pénétrante de la cavité abdominale
+S36.91	lésion traumatique de l'intestin avec plaie pénétrante de la cavité abdominale
+S36.30	lésion traumatique de l'estomac sans plaie pénétrante de la cavité abdominale
+S36.31	lésion traumatique de l'estomac avec plaie pénétrante de la cavité abdominale
+S36.40	lésion traumatique de l'intestin grêle sans plaie pénétrante de la cavité abdominale
+S36.40	lésion traumatique du duodénum sans plaie pénétrante de la cavité abdominale
+S36.41	lésion traumatique de l'intestin grêle avec plaie pénétrante de la cavité abdominale
+S36.41	lésion traumatique du duodénum avec plaie pénétrante de la cavité abdominale
+S36.50	lésion traumatique du côlon sans plaie pénétrante de la cavité abdominale
+S36.50	lésion traumatique de l'appendice sans plaie pénétrante de la cavité abdominale
+S36.50	lésion traumatique du côlon ascendant droit sans plaie pénétrante de la cavité abdominale
+S36.50	lésion traumatique du côlon transverse sans plaie pénétrante de la cavité abdominale
+S36.50	lésion traumatique du côlon descendant gauche sans plaie pénétrante de la cavité abdominale
+S36.50	lésion traumatique du côlon sigmoïde sans plaie pénétrante de la cavité abdominale
+S36.60	lésion traumatique du rectum sans plaie pénétrante de la cavité abdominale
+S36.70	lésion traumatique de localisations multiples du côlon et du rectum sans plaie pénétrante de la cavité abdominale
+S36.51	lésion traumatique du côlon avec plaie pénétrante de la cavité abdominale
+S36.81	lésion traumatique de l'appendice avec plaie pénétrante de la cavité abdominale
+S36.51	lésion traumatique du côlon ascendant droit avec plaie pénétrante de la cavité abdominale
+S36.51	lésion traumatique du côlon transverse avec plaie pénétrante de la cavité abdominale
+S36.51	lésion traumatique du côlon descendant gauche avec plaie pénétrante de la cavité abdominale
+S36.51	lésion traumatique du côlon sigmoïde avec plaie pénétrante de la cavité abdominale
+S36.61	lésion traumatique du rectum avec plaie pénétrante de la cavité abdominale
+S36.71	lésion traumatique de localisations multiples du côlon et du rectum avec plaie pénétrante de la cavité abdominale
+S36.2	lésion traumatique du pancréas
+S36.20	lésion traumatique de la tête du pancréas sans plaie pénétrante de la cavité abdominale
+S36.20	lésion traumatique du corps du pancréas sans plaie pénétrante de la cavité abdominale
+S36.20	lésion traumatique de la queue du pancréas sans plaie pénétrante de la cavité abdominale
+S36.20	lésion traumatique de localisations multiples du pancréas sans plaie pénétrante de la cavité abdominale
+S36.21	lésion traumatique de la tête du pancréas avec plaie pénétrante de la cavité abdominale
+S36.21	lésion traumatique du corps du pancréas avec plaie pénétrante de la cavité abdominale
+S36.21	lésion traumatique de la queue du pancréas avec plaie pénétrante de la cavité abdominale
+S36.21	lésion traumatique de localisations multiples du pancréas avec plaie pénétrante de la cavité abdominale
+S36.1	lésion traumatique du foie
+S36.1	lésion traumatique hépatique
+S36.1	traumatisme hépatique
+S36.1	lacération du foie
+S36.1	rupture traumatique du foie
+S36.1	rupture traumatique hépatique
+S36.1	lacération hépatique
+S36.1	hémorragie traumatique du foie
+S36.1	hémorragie hépatique traumatique
+S36.10	lésion traumatique non précisée du foie sans plaie pénétrante de la cavité abdominale
+S36.10	hématome et contusion du foie sans plaie pénétrante de la cavité abdominale
+S36.10	lacération mineure du foie sans plaie pénétrante de la cavité abdominale
+S36.10	lacération modérée du foie sans plaie pénétrante de la cavité abdominale
+S36.10	lacération majeure du foie sans plaie pénétrante de la cavité abdominale
+S36.10	lacération stellaire du foie sans plaie pénétrante de la cavité abdominale
+S36.11	lésion traumatique non précisée du foie avec plaie pénétrante de la cavité abdominale
+S36.11	hématome et contusion du foie avec plaie pénétrante de la cavité abdominale
+S36.11	lacération mineure du foie avec plaie pénétrante de la cavité abdominale
+S36.11	lacération modérée du foie avec plaie pénétrante de la cavité abdominale
+S36.11	lacération majeure du foie avec plaie pénétrante de la cavité abdominale
+S36.11	lacération stellaire du foie avec plaie pénétrante de la cavité abdominale
+S36.0	lésion traumatique de la rate
+S36.0	rupture traumatique de la rate
+S36.0	rupture splénique traumatique
+S36.00	lésion traumatique de la rate sans plaie pénétrante de la cavité abdominale
+S36.00	hématome de la rate sans rupture de la capsule splénique ni plaie pénétrante de la cavité abdominale
+S36.00	déchirure de la capsule splénique sans rupture étendue du parenchyme splénique ni plaie pénétrante de la cavité abdominale
+S36.00	lacération s'étendant sur le parenchyme splénique sans plaie pénétrante de la cavité abdominale
+S36.00	rupture totale du parenchyme splénique sans plaie pénétrante de la cavité abdominale
+S36.01	lésion traumatique de la rate avec plaie pénétrante de la cavité abdominale
+S36.01	hématome de la rate sans rupture de la capsule splénique, avec plaie pénétrante de la cavité abdominale
+S36.01	déchirure de la capsule splénique sans rupture étendue du parenchyme splénique, avec plaie pénétrante de la cavité abdominale
+S36.01	lacération s'étendant sur le parenchyme splénique avec plaie pénétrante de la cavité abdominale
+S36.01	rupture totale du parenchyme splénique avec plaie pénétrante de la cavité abdominale
+S37.0	lésion traumatique du rein
+S37.0	lésion traumatique rénale
+S37.0	contusion du rein
+S37.00	lésion traumatique du rein sans plaie pénétrante de la cavité abdominale
+S37.00	hématome du rein sans rupture de la capsule rénale ni plaie pénétrante de la cavité abdominale
+S37.00	lacération du rein sans plaie pénétrante de la cavité abdominale
+S37.00	rupture complète du parenchyme rénal sans plaie pénétrante de la cavité abdominale
+S37.0	rupture du rein
+S37.01	lésion traumatique du rein avec plaie pénétrante de la cavité abdominale
+S37.01	hématome du rein sans rupture de la capsule rénale, avec plaie pénétrante de la cavité abdominale
+S37.01	lacération du rein avec plaie pénétrante de la cavité abdominale
+S37.01	rupture complète du parenchyme rénal avec plaie pénétrante de la cavité abdominale
+S37.80	lésion traumatique de la glande surrénale sans plaie pénétrante de la cavité abdominale
+S37.81	lésion traumatique de la glande surrénale avec plaie pénétrante de la cavité abdominale
+S36.10	lésion traumatique d'un canal biliaire sans plaie pénétrante de la cavité abdominale
+S36.10	lésion traumatique de la vésicule biliaire sans plaie pénétrante de la cavité abdominale
+S36.11	lésion traumatique d'un canal biliaire avec plaie pénétrante de la cavité abdominale
+S36.11	lésion traumatique de la vésicule biliaire avec plaie pénétrante de la cavité abdominale
+S36.80	lésion traumatique du péritoine sans plaie pénétrante de la cavité abdominale
+S36.81	lésion traumatique du péritoine avec plaie pénétrante de la cavité abdominale
+S36.80	lésion traumatique du rétropéritoine sans plaie pénétrante de la cavité abdominale
+S36.81	lésion traumatique du rétropéritoine avec plaie pénétrante de la cavité abdominale
+S36.80	lésion traumatique de multiples organes intra-abdominaux sans plaie pénétrante de la cavité abdominale
+S36.81	lésion traumatique de multiples organes intra-abdominaux avec plaie pénétrante de la cavité abdominale
+S37.8	lésion traumatique interne des organes pelviens
+S37.90	lésion traumatique d'un organe pelvien non précisé sans plaie pénétrante de la cavité pelvienne
+S37.91	lésion traumatique d'un organe pelvien non précisé avec plaie pénétrante de la cavité pelvienne
+S37.70	lésion traumatique de la vessie et de l'urètre sans plaie pénétrante de la cavité pelvienne
+S37.2	lésion traumatique de la vessie
+S37.3	lésion traumatique de l'urètre
+S37.3	lésion traumatique urétrale
+S37.71	lésion traumatique de la vessie et de l'urètre avec plaie pénétrante de la cavité pelvienne
+S37.10	lésion traumatique de l'uretère sans plaie pénétrante de la cavité pelvienne
+S37.1	lésion traumatique de l'uretère
+S37.1	traumatisme urétéral
+S37.1	lésion traumatique urétérale
+S37.11	lésion traumatique de l'uretère avec plaie pénétrante de la cavité pelvienne
+S37.60	lésion traumatique de l'utérus sans plaie pénétrante de la cavité pelvienne
+S37.61	lésion traumatique de l'utérus avec plaie pénétrante de la cavité pelvienne
+S37.50	lésion traumatique de la trompe de Fallope sans plaie pénétrante de la cavité pelvienne
+S37.51	lésion traumatique de la trompe de Fallope avec plaie pénétrante de la cavité pelvienne
+S37.40	lésion traumatique de l'ovaire sans plaie pénétrante de la cavité pelvienne
+S37.41	lésion traumatique de l'ovaire avec plaie pénétrante de la cavité pelvienne
+S37.80	lésion traumatique de la prostate sans plaie pénétrante de la cavité pelvienne
+S37.81	lésion traumatique de la prostate avec plaie pénétrante de la cavité pelvienne
+S37.80	lésion traumatique de la vésicule séminale sans plaie pénétrante de la cavité pelvienne
+S37.81	lésion traumatique de la vésicule séminale avec plaie pénétrante de la cavité pelvienne
+S37.80	lésion traumatique du canal déférent sans plaie pénétrante de la cavité pelvienne
+S37.81	lésion traumatique du canal déférent avec plaie pénétrante de la cavité pelvienne
+S01.9	plaie ouverte de la tête
+S01.9	plaie ouverte de la tête sans complication
+S01.9	plaie ouverte de la tête avec complication
+S05.6	plaie ouverte du globe oculaire
+S05.3	lacération oculaire sans protrusion du tissu intra-oculaire
+S05.2	lacération oculaire avec protrusion ou exposition du tissu intra-oculaire
+S05.2	rupture oculaire avec perte partielle du tissu intra-oculaire
+S05.7	arrachement de l'oeil
+S05.7	énucléation traumatique de l'oeil
+S05.3	lacération non précisée de l'oeil
+S05.6	pénétration oculaire
+S05.6	pénétration de l'oeil
+S05.6	plaie pénétrante du globe oculaire
+S05.5	pénétration du globe oculaire avec corps étranger magnétique
+S05.5	pénétration du globe oculaire avec corps étranger non magnétique
+S05.8	plaie ouverte des annexes de l'oeil
+S01.1	lacération de la paupière et de la région périoculaire
+S01.1	lacération profonde de la paupière sans atteinte des voies lacrymales
+S01.1	lacération de la paupière avec atteinte des voies lacrymales
+S05.4	plaie pénétrante de l'orbite sans corps étranger
+S05.4	plaie pénétrante de l'orbite avec corps étranger
+S05.8	plaie précisée des annexes oculaires
+S01.1	plaie périorbitaire simple
+S01.1	plaie périorbitaire simple contaminée
+S01.1	plaie périorbitaire compliquée
+S01.1	plaie périorbitaire compliquée contaminée
+S01.1	arrachement périorbitaire
+S01.4	plaie simple de la joue
+S01.4	plaie simple contaminée de la joue
+S01.4	plaie compliquée de la joue
+S01.4	plaie compliquée contaminée de la joue
+S08.8	arrachement de la joue
+S01.8	plaie simple de la région malaire de la face
+S01.8	plaie simple de la région zygomatique de la face
+S01.8	plaie simple contaminée de la région malaire de la face
+S01.8	plaie simple contaminée de la région zygomatique de la face
+S01.8	plaie compliquée de la région malaire de la face
+S01.8	plaie compliquée de la région zygomatique de la face
+S01.8	plaie compliquée contaminée de la région malaire de la face
+S01.8	plaie compliquée contaminée de la région zygomatique de la face
+S08.8	arrachement de la région malaire de la face
+S08.8	arrachement de la région zygomatique de la face
+S01.8	plaie simple de la région préauriculaire de la face
+S01.8	plaie simple contaminée de la région préauriculaire de la face
+S01.8	plaie compliquée de la région préauriculaire de la face
+S01.8	plaie compliquée contaminée de la région préauriculaire de la face
+S08.8	arrachement de la région préauriculaire de la face
+S01.8	plaie simple de la région péribuccale de la face
+S01.8	plaie simple de la région périorale de la face
+S01.8	plaie simple contaminée de la région péribuccale de la face
+S01.8	plaie simple contaminée de la région périorale de la face
+S01.8	plaie commpliquée de la région péribuccale de la face
+S01.8	plaie compliquée de la région périorale de la face
+S01.8	plaie compliquée contaminée de la région péribuccale de la face
+S01.8	plaie compliquée contaminée de la région périorale de la face
+S08.8	arrachement de la région péribuccale de la face
+S08.8	arrachement de la région périorale de la face
+S01.8	plaie simple du front
+S01.8	plaie simple contaminée du front
+S01.8	plaie compliquée du front
+S01.8	plaie compliquée contaminée du front
+S08.8	arrachement du front
+S01.3	plaie ouverte de l'oreille
+S01.3	plaie ouverte de l'oreille sans complication
+S01.3	plaie ouverte de l'oreille externe sans complication
+S01.3	plaie ouverte du pavillon de l'oreille sans complication
+S01.3	plaie ouverte du conduit auditif externe sans complication
+S01.3	plaie simple du pavillon de l'oreille
+S01.3	plaie simple contaminée du pavillon de l'oreille
+S01.3	plaie compliquée du pavillon de l'oreille
+S01.3	plaie compliquée contaminée du pavillon de l'oreille
+S08.1	arrachement du pavillon de l'oreille
+S01.3	plaie ouverte de l'oreille avec complication
+S01.3	plaie ouverte de l'oreille externe avec complication
+S01.3	plaie ouverte du pavillon de l'oreille avec complication
+S01.3	plaie ouverte du conduit auditif externe avec complication
+S01.3	plaie ouverte du tympan sans complication
+S01.3	plaie ouverte de la membrane du tympan sans complication
+S01.3	plaie ouverte des osselets de l'oreille sans complication
+S01.3	plaie ouverte de la trompe d'Eustache sans complication
+S01.3	plaie ouverte de la cochlée sans complication
+S01.3	plaies ouvertes multiples de l'oreille sans complication
+S01.3	plaie ouverte du tympan avec complication
+S01.3	plaie ouverte de la membrane du tympan avec complication
+S01.3	plaie ouverte des osselets de l'oreille avec complication
+S01.3	plaie ouverte de la trompe d'Eustache avec complication
+S01.3	plaie ouverte de la cochlée avec complication
+S01.3	plaies ouvertes multiples de l'oreille avec complication
+S01.0	plaie ouverte du cuir chevelu sans complication
+S01.0	plaie ouverte du cuir chevelu avec complication
+S01.0	plaie simple du cuir chevelu
+S01.0	plaie simple contaminée du cuir chevelu
+S01.0	plaie compliquée du cuir chevelu
+S01.0	plaie compliquée contaminée du cuir chevelu
+S08.0	arrachement du cuir chevelu
+S01.2	plaie ouverte du nez sans complication
+S01.2	plaie simple du nez
+S01.2	plaie ouverte de la cloison nasale sans complication
+S01.2	plaie ouverte de la cavité nasale sans complication
+S01.2	plaie ouverte des sinus du nez sans complication
+S01.2	plaie simple contaminée du nez
+S01.2	plaie compliquée du nez
+S01.2	plaie compliquée contaminée du nez
+S01.2	plaies ouvertes multiples du nez sans complication
+S08.8	arrachement du nez
+S01.2	plaie ouverte du nez avec complication
+S01.2	plaie ouverte de la cloison nasale avec complication
+S01.2	plaie ouverte de la cavité nasale avec complication
+S01.2	plaie ouverte des sinus du nez avec complication
+S01.2	plaies ouvertes multiples du nez avec complication
+S01.8	plaie ouverte de la face sans complication
+S01.4	plaie ouverte de la joue sans complication
+S01.8	plaie ouverte du front sans complication
+S01.1	plaie ouverte du sourcil sans complication
+S01.1	plaie ouverte de l'arcade sourcilière sans complication
+S01.5	plaie ouverte de la lèvre sans complication
+S01.8	plaie ouverte de la mâchoire sans complication
+S01.8	plaie simple du menton
+S01.8	plaie simple contaminée du menton
+S01.7	plaies ouvertes multiples de la face sans complication
+S01.8	plaie compliquée du menton
+S01.8	plaie compliquée contaminée du menton
+S08.8	arrachement du menton
+S01.8	plaie ouverte de la face avec complication
+S01.4	plaie ouverte de la joue avec complication
+S01.8	plaie ouverte du front avec complication
+S01.1	plaie ouverte du sourcil avec complication
+S01.1	plaie ouverte de l'arcade sourcilière avec complication
+S01.5	plaie ouverte de la lèvre avec complication
+S01.8	plaie ouverte de la mâchoire avec complication
+S08.8	arrachement de la mandibule
+S08.8	arrachement du maxillaire supérieur
+S01.7	plaies ouvertes multiples de la face avec complication
+S01.5	plaie ouverte de la bouche sans complication
+S01.5	plaie ouverte de la muqueuse buccale sans complication
+S01.5	plaie ouverte de la gencive sans complication
+S01.5	plaie ouverte du bord alvéolaire sans complication
+S02.5	dent cassée sans complication
+S01.5	plaie ouverte de la langue sans complication
+S01.5	plaie ouverte du plancher de la bouche sans complication
+S01.5	plaie ouverte du palais sans complication
+S01.5	plaies ouvertes multiples de la bouche sans complication
+S01.5	plaie ouverte de la bouche avec complication
+S01.5	plaie ouverte de la muqueuse buccale avec complication
+S01.5	plaie ouverte de la gencive avec complication
+S01.5	plaie ouverte du bord alvéolaire avec complication
+S02.5	dent cassée avec complication
+S01.5	plaie ouverte de la langue avec complication
+S01.5	plaie ouverte du plancher de la bouche avec complication
+S01.5	plaie ouverte du palais avec complication
+S01.5	plaies ouvertes multiples de la bouche avec complication
+S01.5	plaie simple de la langue
+S01.5	plaie simple contaminée de la langue
+S01.5	plaie compliquée de la langue
+S01.5	plaie compliquée contaminée de la langue
+S08.8	arrachement de la langue
+S01.5	plaie simple du plancher de la bouche
+S01.5	plaie simple contaminée du plancher de la bouche
+S01.5	plaie compliquée du plancher de la bouche
+S01.5	plaie compliquée contaminée du plancher de la bouche
+S08.8	arrachement du plancher de la bouche
+S01.5	plaie simple de la muqueuse labiale
+S01.5	plaie simple contaminée de la muqueuse labiale
+S01.5	plaie compliquée de la muqueuse labiale
+S01.5	plaie compliquée contaminée de la muqueuse labiale
+S08.8	arrachement de la muqueuse labiale
+S01.5	plaie simple de la muqueuse buccale
+S01.5	plaie simple contaminée de la muqueuse buccale
+S01.5	plaie compliquée de la muqueuse buccale
+S01.5	plaie compliquée contaminée de la muqueuse buccale
+S08.8	arrachement de la muqueuse buccale
+S01.5	plaie simple du vestibule mandibulaire
+S01.5	plaie simple contaminée du vestibule mandibulaire
+S01.5	plaie compliquée du vestibule mandibulaire
+S01.5	plaie compliquée contaminée du vestibule mandibulaire
+S08.8	arrachement du vestibule mandibulaire
+S01.5	plaie simple du vestibule maxillaire
+S01.5	plaie simple contaminée du vestibule maxillaire
+S01.5	plaie compliquée du vestibule maxillaire
+S01.5	plaie compliquée contaminée du vestibule maxillaire
+S08.8	arrachement du vestibule maxillaire
+S01.5	plaie simple de l'attache gingivo-mandibulaire
+S01.5	plaie simple contaminée de l'attache gingivo-mandibulaire
+S01.5	plaie compliquée de l'attache gingivo-mandibulaire
+S01.5	plaie compliquée contaminée de l'attache gingivo-mandibulaire
+S08.8	arrachement de l'attache gingivo-mandibulaire
+S01.5	plaie simple de l'attache gingivo-maxillaire
+S01.5	plaie simple contaminée de l'attache gingivo-maxillaire
+S01.5	plaie compliquée de l'attache gingivo-maxillaire
+S01.5	plaie compliquée contaminée de l'attache gingivo-maxillaire
+S08.8	arrachement de l'attache gingivo-maxillaire
+S01.5	plaie simple du palais dur
+S01.5	plaie simple contaminée du palais dur
+S01.5	plaie compliquée du palais dur
+S01.5	plaie compliquée contaminée du palais dur
+S08.8	arrachement du palais dur
+S01.5	plaie simple du palais mou
+S01.5	plaie simple contaminée du palais mou
+S01.5	plaie compliquée du palais mou
+S01.5	plaie compliquée contaminée du palais mou
+S08.8	arrachement du palais mou
+S01.5	plaie simple d'une amygdale
+S01.5	plaie simple contaminée d'une amygdale
+S01.5	plaie compliquée d'une amygdale
+S01.5	plaie compliquée contaminée d'une amygdale
+S08.8	arrachement d'une amygdale
+S01.5	plaie simple de l'oropharynx
+S01.5	plaie simple contaminée de l'oropharynx
+S01.5	plaie compliquée de l'oropharynx
+S01.5	plaie compliquée contaminée de l'oropharynx
+S08.8	arrachement de l'oropharynx
+S11.9	plaie ouverte du cou sans complication
+S11.8	plaie ouverte de la gorge sans complication
+S11.8	plaie ouverte de la région sus-claviculaire sans complication
+S11.8	plaie ouverte de la nuque sans complication
+S11.9	plaie simple du cou
+S11.9	plaie simple contaminée du cou
+S11.9	plaie compliquée du cou
+S11.9	plaie compliquée contaminée du cou
+S11.9	arrachement du cou
+S11.9	plaie ouverte du cou avec complication
+S11.8	plaie ouverte de la gorge avec complication
+S11.8	plaie ouverte de la région sus-claviculaire avec complication
+S11.8	plaie ouverte de la nuque avec complication
+S11.0	plaie ouverte du larynx et de la trachée sans complication
+S11.0	plaie ouverte du larynx sans complication
+S11.0	plaie ouverte de la trachée sans complication
+S11.0	plaie ouverte du larynx et de la trachée avec complication
+S11.0	plaie ouverte du larynx avec complication
+S11.0	plaie ouverte de la trachée avec complication
+S11.1	plaie ouverte de la thyroïde sans complication
+S11.1	plaie ouverte de la thyroïde avec complication
+S11.2	plaie ouverte du pharynx sans complication
+S11.2	plaie ouverte de l'oesophage cervical sans complication
+S11.2	plaie ouverte du pharynx avec complication
+S11.2	plaie ouverte de l'oesophage cervical avec complication
+S31.0	plaie ouverte de la région pelvienne sans complication
+S31.0	plaie ouverte du périnée sans complication
+S31.0	plaie ouverte de la région pelvienne avec complication
+S31.0	plaie ouverte du périnée avec complication
+S21.9	plaie ouverte de la paroi thoracique sans complication
+S21.9	plaie ouverte de la paroi thoracique avec complication
+S31.0	plaie ouverte des lombes sans complication
+S31.0	plaie ouverte de la région lombaire sans complication
+S31.0	plaie ouverte des lombes avec complication
+S31.0	plaie ouverte de la région lombaire avec complication
+S31.0	plaie ouverte de la fesse sans complication
+S31.0	plaie ouverte de la région sacro-iliaque sans complication
+S31.0	plaie ouverte de la fesse avec complication
+S31.0	plaie ouverte de la région sacro-iliaque avec complication
+S31.5	plaie ouverte des organes génitaux externes
+S31.5	plaie ouverte des organes génitaux externes sans complication
+S31.5	plaie ouverte des organes génitaux externes avec complication
+S31.2	plaie ouverte du pénis sans complication
+S31.2	plaie ouverte du pénis avec complication
+S31.3	plaie ouverte du scrotum sans complication
+S31.3	plaie ouverte du testicule sans complication
+S31.3	plaie ouverte du scrotum avec complication
+S31.3	plaie ouverte du testicule avec complication
+S31.4	plaie ouverte de la vulve sans complication
+S31.4	plaie ouverte des grandes et petites lèvres vulvaires sans complication
+S31.4	plaie ouverte de la vulve avec complication
+S31.4	plaie ouverte des grandes et petites lèvres vulvaires avec complication
+S31.4	plaie ouverte du vagin sans complication
+S31.4	plaie ouverte du vagin avec complication
+S21.0	plaie ouverte du sein sans complication
+S21.0	plaie ouverte du sein avec complication
+S31.1	plaie ouverte de la paroi abdominale sans complication
+S31.1	plaie ouverte de la paroi abdominale avec complication
+S31.1	plaie ouverte de la paroi abdominale antérieure sans complication
+S31.1	plaie ouverte de la région épigastrique sans complication
+S31.1	plaie ouverte de la région hypogastrique sans complication
+S31.1	plaie ouverte de la région pubienne sans complication
+S31.1	plaie ouverte de la région ombilicale sans complication
+S31.1	plaie ouverte de la paroi abdominale antérieure avec complication
+S31.1	plaie ouverte de la région épigastrique avec complication
+S31.1	plaie ouverte de la région hypogastrique avec complication
+S31.1	plaie ouverte de la région pubienne avec complication
+S31.1	plaie ouverte de la région ombilicale avec complication
+S31.1	plaie ouverte de la paroi abdominale latérale sans complication
+S31.1	plaie ouverte du flanc sans complication
+S31.1	plaie ouverte de l'aine sans complication
+S31.1	plaie ouverte de la région iliaque sans complication
+S31.1	plaie ouverte de la région inguinale sans complication
+S31.1	plaie ouverte de l'hypochondre sans complication
+S31.1	plaie ouverte de la paroi abdominale latérale avec complication
+S31.1	plaie ouverte du flanc avec complication
+S31.1	plaie ouverte de l'aine avec complication
+S31.1	plaie ouverte de la région iliaque avec complication
+S31.1	plaie ouverte de la région inguinale avec complication
+S31.1	plaie ouverte de l'hypochondre avec complication
+S41.8	plaie ouverte de la région de l'épaule sans complication
+S41.8	plaie ouverte de la région scapulaire sans complication
+S41.8	plaie ouverte de la région axillaire sans complication
+S41.1	plaie ouverte du bras sans complication
+S41.7	plaies ouvertes multiples de l'épaule et du bras sans complication
+S41.8	plaie ouverte de la région de l'épaule avec complication
+S41.8	plaie ouverte de la région scapulaire avec complication
+S41.8	plaie ouverte de la région axillaire avec complication
+S41.1	plaie ouverte du bras avec complication
+S41.7	plaies ouvertes multiples de l'épaule et du bras avec complication
+S41.8	plaie ouverte de la région de l'épaule avec atteinte des tendons
+S41.8	plaie ouverte de la région scapulaire avec atteinte des tendons
+S41.8	plaie ouverte de la région axillaire avec atteinte des tendons
+S41.1	plaie ouverte du bras avec atteinte des tendons
+S41.7	plaies ouvertes multiples de l'épaule et du bras avec atteinte des tendons
+S51.9	plaie ouverte de l'avant-bras sans complication
+S51.0	plaie ouverte du coude sans complication
+S61.9	plaie ouverte du poignet sans complication
+S51.9	plaie ouverte de l'avant-bras avec complication
+S51.0	plaie ouverte du coude avec complication
+S61.9	plaie ouverte du poignet avec complication
+S51.9	plaie ouverte de l'avant-bras avec atteinte des tendons
+S51.0	plaie ouverte du coude avec atteinte des tendons
+S61.9	plaie ouverte du poignet avec atteinte des tendons
+S61.9	plaie ouverte de la main à l'exclusion des doigts sans complication
+S61.9	plaie ouverte de la main à l'exclusion des doigts avec complication
+S61.9	plaie ouverte de la main à l'exclusion des doigts avec atteinte des tendons
+S61.0	plaie ouverte du doigt sans complication
+S61.0	plaie ouverte du doigt avec complication
+S61.0	plaie ouverte du doigt avec atteinte des tendons
+S61.0	plaie ouverte du pouce sans complication
+S61.0	plaie ouverte du pouce avec complication
+S61.0	plaie ouverte du pouce avec atteinte des tendons
+S61.1	plaie ouverte de l'ongle du doigt sans complication
+S61.1	plaie ouverte de l'ongle du doigt avec complication
+S61.1	plaie ouverte de l'ongle du doigt avec atteinte des tendons
+S61.1	plaie ouverte de l'ongle du pouce sans complication
+S61.1	plaie ouverte de l'ongle du pouce avec complication
+S61.1	plaie ouverte de l'ongle du pouce avec atteinte des tendons
+S68.2	amputation traumatique du pouce et des doigts de l'une ou de l'autre main
+S68.2	amputation traumatique du pouce et des doigts de l'une ou de l'autre main sans complication
+S68.2	amputation traumatique du pouce et des doigts de l'une ou de l'autre main avec complication
+S68.2	amputation traumatique du pouce et des doigts d'une main sans complication
+S68.2	amputation traumatique du pouce et des doigts d'une main avec complication
+S68.1	amputation traumatique d'un doigt sans complication
+S68.1	amputation traumatique d'un doigt
+S68.1	amputation traumatique d'un doigt avec complication
+S68.9	amputation traumatique de la main
+S48.9	amputation traumatique unilatérale du bras, niveau non précisé, sans complication
+S48.9	amputation traumatique du bras
+S48.9	amputation traumatique unilatérale du bras, niveau non précisé, avec complication
+S58.0	amputation traumatique unilatérale au niveau du coude ou au-dessus du coude sans complication
+S58.0	amputation traumatique unilatérale au niveau du coude ou au-dessus du coude avec complication
+S58.1	amputation traumatique unilatérale au-dessous du coude sans complication
+S58.1	amputation traumatique unilatérale au-dessous du coude avec complication
+S71.7	plaie ouverte de la hanche et de la cuisse sans complication
+S71.7	plaie ouverte de la hanche et de la cuisse avec complication
+S71.7	plaie ouverte de la hanche et de la cuisse avec atteinte des tendons
+S81.0	plaie ouverte du genou sans complication
+S81.0	plaie ouverte du genou avec complication
+S81.0	plaie ouverte du genou avec atteinte des tendons
+S81.9	plaie ouverte de la jambe sans complication
+S81.9	plaie ouverte de la jambe avec complication
+S81.9	plaie ouverte de la jambe avec atteinte des tendons
+S91.0	plaie ouverte de la cheville sans complication
+S91.0	plaie ouverte de la cheville avec complication
+S91.0	plaie ouverte de la cheville avec atteinte des tendons
+S91.3	plaie ouverte du pied à l'exclusion des orteils sans complication
+S91.3	plaie ouverte du pied à l'exclusion des orteils avec complication
+S91.3	plaie ouverte du pied à l'exclusion des orteils avec atteinte des tendons
+S91.1	plaie ouverte d'un orteil sans complication
+S91.1	plaie ouverte d'un orteil avec complication
+S91.1	plaie ouverte d'un orteil avec atteinte des tendons
+S98.1	amputation traumatique d'un orteil sans complication
+S98.2	amputation traumatique de plusieurs orteils sans complication
+S98.1	amputation traumatique d'un orteil
+S98.1	amputation traumatique d'un orteil avec complication
+S98.2	amputation traumatique de plusieurs orteils avec complication
+S98.4	amputation traumatique unilatérale du pied sans complication
+S98.4	amputation traumatique du pied
+S98.4	amputation traumatique unilatérale du pied avec complication
+S88.9	amputation traumatique unilatérale de la jambe, niveau non précisé, sans complication
+S88.9	amputation traumatique unilatérale de la jambe, niveau non précisé, avec complication
+S88.1	amputation traumatique unilatérale de la jambe au-dessous du genou sans complication
+S88.1	amputation traumatique unilatérale de la jambe au-dessous du genou avec complication
+S88.0	amputation traumatique unilatérale de la jambe au niveau du genou ou au-dessus du genou sans complication
+S88.0	amputation traumatique unilatérale de la jambe au niveau du genou ou au-dessus du genou avec complication
+S88.9	amputation traumatique de la jambe
+S07.0	écrasement de la face
+S07.0	écrasement de la joue
+S07.8	écrasement de l'oreille
+S07.8	écrasement du cuir chevelu
+S17.9	écrasement du cou
+S17.8	écrasement de la gorge
+S17.8	écrasement du pharynx
+S17.0	écrasement du larynx
+S38.1	écrasement des fesses
+S38.0	écrasement des organes génitaux externes
+S38.0	écrasement des organes génitaux externes féminins
+S38.0	écrasement de la vulve
+S38.0	écrasement des grandes et petites lèvres vulvaires
+S38.0	écrasement des organes génitaux externes masculins
+S38.0	écrasement du pénis
+S38.0	écrasement du scrotum
+S38.0	écrasement du testicule
+S47	écrasement de la région de l'épaule
+S47	écrasement de la région scapulaire
+S47	écrasement de la région axillaire
+S47	écrasement du bras
+S57.8	écrasement de l'avant-bras
+S57.0	écrasement du coude
+S67.8	écrasement du poignet et de la main à l'exclusion des doigts
+S67.8	écrasement de la main
+S67.8	écrasement du poignet
+S67.0	écrasement d'un doigt
+S77.2	écrasement de la hanche et de la cuisse
+S77.1	écrasement de la cuisse
+S77.0	écrasement de la hanche
+S87.8	écrasement de la jambe
+S87.0	écrasement du genou
+S97.8	écrasement de la cheville et du pied à l'exclusion des orteils
+S97.8	écrasement du pied
+S97.8	écrasement du talon
+S97.0	écrasement de la cheville
+S97.1	écrasement d'un orteil
+S15.0	lésion traumatique d'une artère carotide
+S15.0	lésion traumatique de l'artère carotide commune
+S15.0	lésion traumatique de l'artère carotide externe
+S15.0	lésion traumatique de l'artère carotide interne
+S15.3	lésion traumatique de la veine jugulaire interne
+S15.3	lésion traumatique de la veine jugulaire externe
+S25.9	lésion traumatique des vaisseaux sanguins du thorax
+S25.0	lésion traumatique de l'aorte thoracique
+S25.1	lésion traumatique de l'artère innominée
+S25.1	lésion traumatique de l'artère sous-clavière
+S25.2	lésion traumatique de la veine cave supérieure
+S25.3	lésion traumatique de la veine innominée
+S25.3	lésion traumatique de la veine sous-clavière
+S25.4	lésion traumatique des vaisseaux sanguins du poumon
+S25.4	lésion traumatique de l'artère pulmonaire
+S25.4	lésion traumatique d'une veine pulmonaire
+S25.5	lésion traumatique d'une artère intercostale
+S25.8	lésion traumatique de l'artère mammaire interne
+S25.5	lésion traumatique d'une veine intercostale
+S25.8	lésion traumatique d'une veine mammaire interne
+S25.8	lésion traumatique de la veine azygos
+S25.8	lésion traumatique de la veine hémiazygos
+S25.7	lésions traumatiques de multiples vaisseaux sanguins du thorax
+S35.9	lésion traumatique des vaisseaux sanguins de l'abdomen et du bassin
+S35.7	lésion traumatique de multiples vaisseaux sanguins de l'abdomen et du bassin
+S35.0	lésion traumatique de l'aorte abdominale
+S35.1	lésion traumatique de la veine cave inférieure
+S35.1	lésion traumatique de la veine hépatique
+S35.2	lésion traumatique des artères coeliaque et mésentérique
+S35.2	lésion traumatique de l'artère gastrique
+S35.2	lésion traumatique de l'artère hépatique
+S35.2	lésion traumatique de l'artère splénique
+S35.2	lésion traumatique d'une branche précisée du tronc coeliaque
+S35.2	lésion traumatique de l'artère mésentérique supérieure
+S35.2	lésion traumatique des branches principales de l'artère mésentérique supérieure
+S35.2	lésion traumatique de l'artère iléo-colique
+S35.2	lésion traumatique de l'artère mésentérique inférieure
+S35.3	lésion traumatique des veines porte et splénique
+S35.3	lésion traumatique de la veine mésentérique supérieure et de ses branches principales
+S35.3	lésion traumatique de la veine colique inférieure droite
+S35.3	lésion traumatique de la veine mésentérique inférieure
+S35.3	lésion traumatique de la veine porte
+S35.3	lésion traumatique de la veine splénique
+S35.3	lésion traumatique de la veine cystique
+S35.3	lésion traumatique des veines gastriques
+S35.4	lésion traumatique des vaisseaux sanguins du rein
+S35.4	lésion traumatique de l'artère rénale
+S35.4	lésion traumatique de la veine rénale
+S35.4	lésion traumatique des artères surrénales
+S35.5	lésion traumatique des vaisseaux sanguins iliaques
+S35.5	lésion traumatique de l'artère hypogastrique
+S35.5	lésion traumatique de la veine hypogastrique
+S35.5	lésion traumatique de l'artère iliaque
+S35.5	lésion traumatique de la veine iliaque
+S35.5	lésion traumatique de l'artère utérine
+S35.5	lésion traumatique de la veine utérine
+S35.8	lésion traumatique de l'artère ovarienne
+S35.8	lésion traumatique de la veine ovarienne
+S45.9	lésion traumatique d'un vaisseau sanguin axillaire
+S45.0	lésion traumatique de l'artère axillaire
+S45.2	lésion traumatique de la veine axillaire
+S45.9	lésion traumatique des vaisseaux sanguins brachiaux
+S45.1	lésion traumatique de l'artère brachiale
+S45.2	lésion traumatique de la veine brachiale
+S55.1	lésion traumatique des vaisseaux sanguins radiaux
+S55.1	lésion traumatique de l'artère radiale
+S55.2	lésion traumatique de la veine radiale
+S55.7	lésion traumatique des vaisseaux sanguins cubitaux
+S55.0	lésion traumatique de l'artère cubitale
+S55.2	lésion traumatique de la veine cubitale
+S65.2	lésion traumatique de l'artère palmaire
+S65.5	lésion traumatique des vaisseaux sanguins digitaux
+S75.0	lésion traumatique de l'artère fémorale commune
+S75.0	lésion traumatique de l'artère fémorale superficielle
+S75.1	lésion traumatique de la veine fémorale
+S75.2	lésion traumatique de la veine saphène
+S85.9	lésion traumatique des vaisseaux sanguins poplités
+S85.0	lésion traumatique de l'artère poplitée
+S85.5	lésion traumatique de la veine poplitée
+S85.7	lésion traumatique des vaisseaux sanguins tibiaux
+S85.1	lésion traumatique de l'artère tibiale antérieure
+S85.8	lésion traumatique de la veine tibiale antérieure
+S85.1	lésion traumatique de l'artère tibiale postérieure
+S85.8	lésion traumatique de la veine tibiale postérieure
+S95.7	lésion traumatique des vaisseaux sanguins plantaires profonds
+S04.9	lésion traumatique d'un nerf crânien
+S04.0	lésion traumatique du nerf optique
+S04.0	lésion traumatique du nerf crânien II
+S04.0	lésion traumatique du chiasma optique
+S04.0	lésion traumatique des voies optiques
+S04.0	lésion traumatique du cortex visuel
+S05.9	cécité traumatique
+S04.1	lésion traumatique du nerf moteur oculaire
+S04.1	lésion traumatique du nerf crânien III
+S04.2	lésion traumatique du nerf pathétique
+S04.2	lésion traumatique du nerf crânien IV
+S04.3	lésion traumatique du nerf trijumeau
+S04.3	lésion traumatique du nerf crânien V
+S04.4	lésion traumatique du nerf moteur oculaire externe
+S04.4	lésion traumatique du nerf crânien VI
+S04.5	lésion traumatique du nerf facial
+S04.5	lésion traumatique du nerf crânien VII
+S04.7	lésion traumatique du nerf spinal
+S04.7	lésion traumatique du nerf crânien XI
+S04.8	lésion traumatique du nerf grand hypoglosse
+S04.8	lésion traumatique du nerf crânien XII
+S04.8	lésion traumatique du nerf glossopharyngien
+S04.8	lésion traumatique du nerf crânien IX
+S04.8	lésion traumatique du nerf pneumogastrique
+S04.8	lésion traumatique du nerf crânien X
+S04.8	lésion traumatique du nerf vague
+S04.8	lésion traumatique du nerf olfactif
+S04.8	lésion traumatique du nerf crânien I
+S04.8	anosmie traumatique
+S04.6	lésion traumatique du nerf acoustique
+S04.6	lésion traumatique du nerf crânien VIII
+S04.6	lésion traumatique du nerf auditif
+S04.6	surdité traumatique
+S04.6	surdité traumatique professionnelle
+S04.6	surdité traumatique non professionnelle
+S14.1	lésion traumatique de la moelle épinière cervicale sans lésion vertébrale
+S14.1	lésion traumatique au niveau C1-C4, avec lésion non précisée de la moelle épinière, sans lésion vertébrale
+S14.1	lésion traumatique au niveau C1-C4, avec lésion complète de la moelle épinière, sans lésion vertébrale
+S14.1	lésion traumatique au niveau C1-C4, avec syndrome de l'artère spinale antérieure, sans lésion vertébrale
+S14.1	lésion traumatique au niveau C1-C4, avec syringomyélie, sans lésion vertébrale
+S14.1	lésion traumatique au niveau C1-C4, avec syndrome de l'artère spinale postérieure, sans lésion vertébrale
+S14.1	lésion traumatique au niveau C1-C4, avec lésion précisée de la moelle épinière, sans lésion vertébrale
+S14.1	lésion traumatique incomplète de la moelle épinière au niveau C1-C4, sans lésion vertébrale
+S14.1	lésion traumatique au niveau C5-C7, avec lésion non précisée de la moelle épinière, sans lésion vertébrale
+S14.1	lésion traumatique au niveau C5-C7, avec lésion complète de la moelle épinière, sans lésion vertébrale
+S14.1	lésion traumatique au niveau C5-C7, avec syndrome de l'artère spinale antérieure, sans lésion vertébrale
+S14.1	lésion traumatique au niveau C5-C7, avec syringomyélie, sans lésion vertébrale
+S14.1	lésion traumatique au niveau C5-C7, avec syndrome de l'artère spinale postérieure, sans lésion vertébrale
+S14.1	lésion traumatique au niveau C5-C7, avec autre lésion précisée de la moelle épinière, sans lésion vertébrale
+S14.1	lésion traumatique incomplète de la moelle épinière au niveau C5-C7, sans lésion vertébrale
+S24.1	lésion traumatique de la moelle épinière thoracique sans lésion vertébrale
+S24.1	lésion traumatique de la moelle épinière dorsale sans lésion vertébrale
+S24.1	lésion traumatique au niveau T1-T6, avec lésion non précisée de la moelle épinière, sans lésion vertébrale
+S24.1	lésion traumatique au niveau T1-T6, avec lésion complète de la moelle épinière, sans lésion vertébrale
+S24.1	lésion traumatique au niveau T1-T6, avec syndrome de l'artère spinale antérieure, sans lésion vertébrale
+S24.1	lésion traumatique au niveau T1-T6, avec syringomyélie, sans lésion vertébrale
+S24.1	lésion traumatique au niveau T1-T6, avec syndrome de l'artère spinale postérieure, sans lésion vertébrale
+S24.1	lésion traumatique incomplète de la moelle épinière au niveau T1-T6, sans lésion vertébrale
+S24.1	lésion traumatique au niveau T7-T12, avec lésion non précisée de la moelle épinière, sans lésion vertébrale
+S24.1	lésion traumatique au niveau T7-T12, avec lésion complète de la moelle épinière, sans lésion vertébrale
+S24.1	lésion traumatique au niveau T7-T12, avec syndrome de l'artère spinale antérieure, sans lésion vertébrale
+S24.1	lésion traumatique au niveau T7-T12, avec syringomyélie, sans lésion vertébrale
+S24.1	lésion traumatique au niveau T7-T12, avec syndrome de l'artère spinale postérieure, sans lésion vertébrale
+S24.1	lésion traumatique incomplète de la moelle épinière au niveau T7-T12, sans lésion vertébrale
+S34.1	lésion traumatique de la moelle épinière lombaire sans lésion vertébrale
+S34.2	lésion traumatique de la moelle épinière sacrée
+S34.3	lésion traumatique de la queue de cheval sans lésion vertébrale
+S14.2	lésion traumatique des racines nerveuses du rachis cervical
+S24.2	lésion traumatique des racines nerveuses du rachis dorsal
+S34.2	lésion traumatique des racines nerveuses du rachis lombaire
+S34.2	lésion traumatique des racines nerveuses du rachis sacré
+S14.3	lésion traumatique du plexus brachial
+S34.4	lésion traumatique du plexus lombo-sacré
+S14.5	lésion traumatique des nerfs sympathiques cervicaux
+S34.5	lésion traumatique d'un ganglion ou du plexus coeliaque
+S34.5	lésion traumatique du plexus mésentérique inférieur
+S34.5	lésion traumatique d'un nerf splanchnique
+S24.4	lésion traumatique d'un ganglion stellaire
+S44.9	lésion traumatique d'un nerf périphérique de la ceinture scapulaire et du bras
+S54.9	lésion traumatique d'un nerf périphérique de l'avant-bras
+S44.7	lésion traumatique de multiples nerfs de la ceinture scapulaire et du bras
+S54.7	lésion traumatique de multiples nerfs de l'avant-bras
+S44.3	lésion traumatique du nerf axillaire
+S54.1	lésion traumatique du nerf médian
+S54.0	lésion traumatique du nerf cubital
+S54.2	lésion traumatique du nerf radial
+S44.4	lésion traumatique d'un nerf musculo-cutané
+S44.5	lésion traumatique d'un nerf cutané sensitif du bras
+S54.3	lésion traumatique d'un nerf cutané sensitif de l'avant-bras
+S64.4	lésion traumatique d'un nerf digital
+S74.9	lésion traumatique d'un nerf périphérique de la ceinture pelvienne et de la cuisse
+S84.9	lésion traumatique d'un nerf périphérique de la jambe
+S74.7	lésion traumatique de nerfs multiples de la ceinture pelvienne et de la cuisse
+S84.7	lésion traumatique de nerfs multiples de la jambe
+S74.0	lésion traumatique du nerf sciatique
+S74.1	lésion traumatique du nerf fémoral
+S84.0	lésion traumatique du nerf sciatique poplité interne
+S84.1	lésion traumatique du nerf sciatique poplité externe
+S74.2	lésion traumatique d'un nerf cutané sensitif de la hanche et de la cuisse
+S84.2	lésion traumatique d'un nerf cutané sensitif de la jambe
+S74.8	lésion traumatique d'un nerf précisé de la ceinture pelvienne et de la cuisse
+S84.8	lésion traumatique d'un nerf précisé de la jambe
+S09.8	lésion traumatique de nerfs superficiels de la tête et du cou
+S14.6	lésion traumatique de nerfs superficiels du cou
+S00.5	lésion traumatique superficielle de la bouche
+S00.5	abrasion de la muqueuse buccale
+S00.5	abrasion du vestibule maxillaire
+S00.5	abrasion du vestibule mandibulaire
+S00.5	abrasion de l'attache gingivo-maxillaire
+S00.5	abrasion de l'attache gingivo-mandibulaire
+S00.5	abrasion du plancher de la bouche
+S00.5	lésion traumatique superficielle du palais
+S00.5	abrasion du palais dur
+S00.5	abrasion du palais mou
+S00.5	abrasion d'une amygdale
+S10.1	abrasion de l'oropharynx
+S00.5	abrasion de la langue
+S05.8	lésion traumatique superficielle d'un oeil et ses annexes
+S05.8	lésion traumatique superficielle d'un oeil
+S00.2	lésion traumatique superficielle de la paupière et de la région périoculaire
+S05.0	lésion traumatique superficielle de la cornée
+S05.0	abrasion cornéenne
+S05.0	égratignure de la cornée
+S05.0	lacération superficielle de la cornée
+S05.0	lésion traumatique superficielle de la conjonctive
+S00.8	lésion traumatique superficielle de la face sans infection
+S00.8	lésion traumatique superficielle de la face avec infection
+S00.8	abrasion ou brûlure par frottement de la face sans infection
+S00.8	abrasion ou brûlure par frottement de la face avec infection
+S00.8	phlyctène de la face sans infection
+S00.8	phlyctène de la face avec infection
+S00.8	piqûre d'insecte non venimeux de la face sans infection
+S00.8	piqûre d'insecte non venimeux de la face avec infection
+S00.8	lésion due à un corps étranger superficiel de la face sans plaie ouverte importante ni infection
+S00.8	lésion due à un corps étranger superficiel de la face sans plaie ouverte importante, avec infection
+S00.8	lésion traumatique superficielle de la joue sans infection
+S00.8	lésion traumatique superficielle de la joue avec infection
+S00.8	abrasion ou brûlure par frottement de la joue sans infection
+S00.8	abrasion ou brûlure par frottement de la joue avec infection
+S00.8	phlyctène de la joue sans infection
+S00.8	phlyctène de la joue avec infection
+S00.8	piqûre d'insecte non venimeux de la joue sans infection
+S00.8	piqûre d'insecte non venimeux de la joue avec infection
+S00.8	lésion due à un corps étranger superficiel de la joue sans plaie ouverte importante ni infection
+S00.8	lésion due à un corps étranger superficiel de la joue sans plaie ouverte importante, avec infection
+S00.4	lésion traumatique superficielle de l'oreille sans infection
+S00.4	lésion traumatique superficielle de l'oreille avec infection
+S00.4	abrasion ou brûlure par frottement de l'oreille sans infection
+S00.4	abrasion ou brûlure par frottement de l'oreille avec infection
+S00.4	phlyctène de l'oreille sans infection
+S00.4	phlyctène de l'oreille avec infection
+S00.4	piqûre d'insecte non venimeux de l'oreille sans infection
+S00.4	piqûre d'insecte non venimeux de l'oreille avec infection
+S00.4	lésion due à un corps étranger superficiel de l'oreille sans plaie ouverte importante ni infection
+S00.4	lésion due à un corps étranger superficiel de l'oreille sans plaie ouverte importante, avec infection
+S00.5	lésion traumatique superficielle de la gencive sans infection
+S00.5	lésion traumatique superficielle de la gencive avec infection
+S00.5	abrasion ou brûlure par frottement de la gencive sans infection
+S00.5	abrasion gingivale
+S00.5	abrasion ou brûlure par frottement de la gencive avec infection
+S00.5	abrasion gingivale avec infection
+S00.5	phlyctène de la gencive sans infection
+S00.5	phlyctène de la gencive avec infection
+S00.5	piqûre d'insecte non venimeux de la gencive sans infection
+S00.5	piqûre d'insecte non venimeux de la gencive avec infection
+S00.5	lésion traumatique superficielle de la lèvre sans infection
+S00.5	lésion traumatique superficielle de la lèvre avec infection
+S00.5	abrasion ou brûlure par frottement de la lèvre sans infection
+S00.5	abrasion ou brûlure par frottement de la lèvre avec infection
+S00.5	phlyctène de la lèvre sans infection
+S00.5	phlyctène de la lèvre avec infection
+S00.5	piqûre d'insecte non venimeux de la lèvre sans infection
+S00.5	piqûre d'insecte non venimeux de la lèvre avec infection
+S00.5	lésion due à un corps étranger de la lèvre sans plaie ouverte importante ni infection
+S00.5	lésion due à un corps étranger superficiel de la lèvre sans plaie ouverte importante, avec infection
+S00.3	lésion traumatique superficielle du nez sans infection
+S00.3	lésion traumatique superficielle du nez avec infection
+S00.3	abrasion ou brûlure par frottement du nez sans infection
+S00.3	abrasion ou brûlure par frottement du nez avec infection
+S00.3	phlyctène du nez sans infection
+S00.3	phlyctène du nez avec infection
+S00.3	piqûre d'insecte non venimeux du nez sans infection
+S00.3	piqûre d'insecte non venimeux du nez avec infection
+S10.9	lésion traumatique superficielle du cou sans infection
+S10.9	lésion traumatique superficielle du cou avec infection
+S10.9	abrasion ou brûlure par frottement du cou sans infection
+S10.9	abrasion ou brûlure par frottement du cou avec infection
+S10.9	phlyctène du cou sans infection
+S10.9	phlyctène du cou avec infection
+S10.9	piqûre d'insecte non venimeux du cou sans infection
+S10.9	piqûre d'insecte non venimeux du cou avec infection
+S10.9	lésion due à un corps étranger superficiel du cou sans plaie ouverte importante ni infection
+S10.9	lésion due à un corps étranger superficiel du cou sans plaie ouverte importante, avec infection
+S00.0	lésion traumatique superficielle du cuir chevelu sans infection
+S00.0	lésion traumatique superficielle du cuir chevelu avec infection
+S00.0	abrasion ou brûlure par frottement du cuir chevelu sans infection
+S00.0	abrasion ou brûlure par frottement du cuir chevelu avec infection
+S00.0	phlyctène du cuir chevelu sans infection
+S00.0	phlyctène du cuir chevelu avec infection
+S00.0	piqûre d'insecte non venimeux du cuir chevelu sans infection
+S00.0	piqûre d'insecte non venimeux du cuir chevelu avec infection
+S00.0	lésion due à un corps étranger superficiel du cuir chevelu sans plaie ouverte importante ni infection
+S00.0	lésion due à un corps étranger superficiel du cuir chevelu sans plaie ouverte importante, avec infection
+S00.8	abrasion du front
+S00.2	abrasion de la région périorbitaire de la face
+S00.8	abrasion de la région malaire de la face
+S00.8	abrasion de la région zygomatique de la face
+S00.5	abrasion de la région péribuccale de la face
+S00.5	abrasion de la région périorale de la face
+S00.8	abrasion du menton
+S00.8	abrasion de la région préauriculaire de la face
+S30.8	lésion traumatique superficielle de la paroi abdominale sans infection
+S30.8	lésion traumatique superficielle de la paroi abdominale avec infection
+S30.8	abrasion ou brûlure par frottement de la paroi abdominale sans infection
+S30.8	abrasion ou brûlure par frottement de la paroi abdominale avec infection
+S30.8	phlyctène de la paroi abdominale sans infection
+S30.8	phlyctène de la paroi abdominale avec infection
+S30.8	piqûre d'insecte non venimeux de la paroi abdominale sans infection
+S30.8	piqûre d'insecte non venimeux de la paroi abdominale avec infection
+S30.8	lésion due à un corps étranger superficiel de la paroi abdominale sans plaie ouverte importante ni infection
+S30.8	lésion due à un corps étranger superficiel de la paroi abdominale sans plaie ouverte importante, avec infection
+S20.4	lésion traumatique superficielle du dos sans infection
+S20.4	lésion traumatique superficielle du dos avec infection
+S20.4	abrasion ou brûlure par frottement du dos sans infection
+S20.4	abrasion ou brûlure par frottement du dos avec infection
+S20.4	phlyctène du dos sans infection
+S20.4	phlyctène du dos avec infection
+S20.4	piqûre d'insecte non venimeux du dos sans infection
+S20.4	piqûre d'insecte non venimeux du dos avec infection
+S20.4	lésion due à un corps étranger superficiel du dos sans plaie ouverte importante ni infection
+S20.4	lésion due à un corps étranger superficiel du dos sans plaie ouverte importante, avec infection
+S20.1	lésion traumatique superficielle du sein sans infection
+S20.1	lésion traumatique superficielle du sein avec infection
+S20.1	abrasion du brûlure par frottement du sein sans infection
+S20.1	abrasion ou brûlure par frottement du sein avec infection
+S20.1	phlyctène du sein sans infection
+S20.1	phlyctène du sein avec infection
+S20.1	piqûre d'insecte non venimeux du sein sans infection
+S20.1	piqûre d'insecte non venimeux du sein avec infection
+S20.1	lésion due à un corps étranger superficiel du sein sans plaie ouverte importante ni infection
+S20.1	lésion due à un corps étranger superficiel du sein sans plaie ouverte importante, avec infection
+S30.8	lésion traumatique superficielle de la fesse sans infection
+S30.8	lésion traumatique superficielle de la fesse avec infection
+S30.8	abrasion ou brûlure par frottement de la fesse sans infection
+S30.8	abrasion ou brûlure par frottement de la fesse avec infection
+S30.8	phlyctène de la fesse sans infection
+S30.8	phlyctène de la fesse avec infection
+S30.8	piqûre d'insecte non venimeux de la fesse sans infection
+S30.8	piqûre d'insecte non venimeux de la fesse avec infection
+S30.8	lésion due à un corps étranger superficiel de la fesse sans plaie ouverte importante ni infection
+S30.8	lésion due à un corps étranger superficiel de la fesse sans plaie ouverte importante, avec infection
+S30.8	lésion traumatique superficielle de l'anus sans infection
+S30.8	lésion traumatique superficielle de l'anus avec infection
+S30.8	abrasion ou brûlure par frottement de l'anus sans infection
+S30.8	abrasion ou brûlure par frottement de l'anus avec infection
+S30.8	phlyctène de l'anus sans infection
+S30.8	phlyctène de l'anus avec infection
+S30.8	piqûre d'insecte non venimeux de l'anus sans infection
+S30.8	piqûre d'insecte non venimeux de l'anus avec infection
+S20.8	lésion traumatique superficielle de la paroi thoracique sans infection
+S20.8	lésion traumatique superficielle de la paroi thoracique avec infection
+S20.8	abrasion ou brûlure par frottement de la paroi thoracique sans infection
+S20.8	abrasion ou brûlure par frottement de la paroi thoracique avec infection
+S20.8	phlyctène de la paroi thoracique sans infection
+S20.8	phlyctène de la paroi thoracique avec infection
+S20.8	piqûre d'insecte non venimeux de la paroi thoracique sans infection
+S20.8	piqûre d'insecte non venimeux de la paroi thoracique avec infection
+S20.8	lésion due à un corps étranger superficiel de la paroi thoracique sans plaie ouverte importante ni infection
+S20.8	lésion due à un corps étranger superficiel de la paroi thoracique sans plaie ouverte importante, avec infection
+S30.8	lésion traumatique superficielle du flanc sans infection
+S30.8	lésion traumatique superficielle du flanc avec infection
+S30.8	abrasion ou brûlure par frottement du flanc sans infection
+S30.8	abrasion ou brûlure par frottement du flanc avec infection
+S30.8	phlyctène du flanc sans infection
+S30.8	phlyctène du flanc avec infection
+S30.8	piqûre d'insecte non venimeux du flanc sans infection
+S30.8	piqûre d'insecte non venimeux du flanc avec infection
+S30.8	lésion due à un corps étranger superficiel du flanc sans plaie ouverte importante ni infection
+S30.8	lésion due à un corps étranger superficiel du flanc sans plaie ouverte importante, avec infection
+S30.8	lésion traumatique superficielle de l'aine sans infection
+S30.8	lésion traumatique superficielle de l'aine avec infection
+S30.8	abrasion ou brûlure par frottement de l'aine sans infection
+S30.8	abrasion ou brûlure par frottement de l'aine avec infection
+S30.8	phlyctène de l'aine sans infection
+S30.8	phlyctène de l'aine avec infection
+S30.8	piqûre d'insecte non venimeux de l'aine sans infection
+S30.8	piqûre d'insecte non venimeux de l'aine avec infection
+S30.8	lésion due à un corps étranger superficiel de l'aine sans plaie ouverte importante ni infection
+S30.8	lésion due à un corps étranger superficiel de l'aine sans plaie ouverte importante, avec infection
+S20.4	lésion traumatique superficielle de la région interscapulaire sans infection
+S20.4	lésion traumatique superficielle de la région interscapulaire avec infection
+S20.4	abrasion ou brûlure par frottement de la région interscapulaire sans infection
+S20.4	abrasion ou brûlure par frottement de la région interscapulaire avec infection
+S20.4	phlyctène de la région interscapulaire sans infection
+S20.4	phlyctène de la région interscapulaire avec infection
+S20.4	piqûre d'insecte non venimeux de la région interscapulaire sans infection
+S20.4	piqûre d'insecte non venimeux de la région interscapulaire avec infection
+S20.4	lésion due à un corps étranger superficiel de la région interscapulaire sans plaie ouverte importante ni infection
+S20.4	lésion due à un corps étranger superficiel de la région interscapulaire sans plaie ouverte importante, avec infection
+S30.8	lésion traumatique superficielle du pénis sans infection
+S30.8	lésion traumatique superficielle du pénis avec infection
+S30.8	abrasion ou brûlure par frottement du pénis sans infection
+S30.8	abrasion ou brûlure par frottement du pénis avec infection
+S30.8	phlyctène du pénis sans infection
+S30.8	phlyctène du pénis avec infection
+S30.8	piqûre d'insecte non venimeux du pénis sans infection
+S30.8	piqûre d'insecte non venimeux du pénis avec infection
+S30.8	lésion due à un corps étranger superficiel du pénis sans plaie ouverte importante ni infection
+S30.8	lésion due à un corps étranger superficiel du pénis sans plaie ouverte importante, avec infection
+S30.8	lésion traumatique superficielle du scrotum sans infection
+S30.8	lésion traumatique superficielle du scrotum avec infection
+S30.8	abrasion ou brûlure par frottement du scrotum sans infection
+S30.8	abrasion ou brûlure par frottement du scrotum avec infection
+S30.8	phlyctène du scrotum sans infection
+S30.8	phlyctène du scrotum avec infection
+S30.8	piqûre d'insecte non venimeux du scrotum sans infection
+S30.8	piqûre d'insecte non venimeux du scrotum avec infection
+S30.8	lésion due à un corps étranger superficiel du scrotum sans plaie ouverte importante ni infection
+S30.8	lésion due à un corps étranger superficiel du scrotum sans plaie ouverte importante, avec infection
+S30.8	lésion traumatique superficielle du testicule sans infection
+S30.8	lésion traumatique superficielle du testicule avec infection
+S30.8	abrasion ou brûlure par frottement du testicule sans infection
+S30.8	abrasion ou brûlure par frottement du testicule avec infection
+S30.8	phlyctène du testicule sans infection
+S30.8	phlyctène du testicule avec infection
+S30.8	piqûre d'insecte non venimeux du testicule sans infection
+S30.8	piqûre d'insecte non venimeux du testicule avec infection
+S30.8	lésion due à un corps étranger superficiel du testicule sans plaie ouverte importante ni infection
+S30.8	lésion due à un corps étranger superficiel du testicule sans plaie ouverte importante, avec infection
+S30.8	lésion traumatique superficielle de la vulve sans infection
+S30.8	lésion traumatique superficielle de la vulve avec infection
+S30.8	abrasion ou brûlure par frottement de la vulve sans infection
+S30.8	abrasion ou brûlure par frottement de la vulve avec infection
+S30.8	phlyctène de la vulve sans infection
+S30.8	phlyctène de la vulve avec infection
+S30.8	piqûre d'insecte non venimeux de la vulve sans infection
+S30.8	piqûre d'insecte non venimeux de la vulve avec infection
+S30.8	lésion traumatique superficielle du vagin sans infection
+S30.8	lésion traumatique superficielle du vagin avec infection
+S30.8	abrasion ou brûlure par frottement du vagin sans infection
+S30.8	abrasion ou brûlure par frottement du vagin avec infection
+S30.8	phlyctène du vagin sans infection
+S30.8	phlyctène du vagin avec infection
+S30.8	piqûre d'insecte non venimeux du vagin sans infection
+S30.8	piqûre d'insecte non venimeux du vagin avec infection
+S30.8	lésion traumatique superficielle du périnée sans infection
+S30.8	lésion traumatique superficielle du périnée avec infection
+S30.8	abrasion ou brûlure par frottement du périnée sans infection
+S30.8	abrasion ou brûlure par frottement du périnée avec infection
+S30.8	phlyctène du périnée sans infection
+S30.8	phlyctène du périnée avec infection
+S30.8	piqûre d'insecte non venimeux du périnée sans infection
+S30.8	piqûre d'insecte non venimeux du périnée avec infection
+S30.8	lésion due à un corps étranger superficiel du périnée sans plaie ouverte importante ni infection
+S30.8	lésion due à un corps étranger superficiel du périnée sans plaie ouverte importante, avec infection
+S40.9	lésion traumatique superficielle de l'épaule sans infection
+S40.9	lésion traumatique superficielle de l'épaule avec infection
+S40.8	abrasion ou brûlure par frottement de l'épaule sans infection
+S40.8	abrasion ou brûlure par frottement de l'épaule avec infection
+S40.8	phlyctène de l'épaule sans infection
+S40.8	phlyctène de l'épaule avec infection
+S40.8	piqûre d'insecte non venimeux de l'épaule sans infection
+S40.8	piqûre d'insecte non venimeux de l'épaule avec infection
+S40.8	lésion due à un corps étranger superficiel de l'épaule sans plaie ouverte importante ni infection
+S40.8	lésion due à un corps étranger superficiel de l'épaule sans plaie ouverte importante, avec infection
+S40.9	lésion traumatique superficielle de l'aisselle sans infection
+S40.9	lésion traumatique superficielle de l'aisselle avec infection
+S40.8	abrasion ou brûlure par frottement de l'aisselle sans infection
+S40.8	abrasion ou brûlure par frottement de l'aisselle avec infection
+S40.8	phlyctène de l'aisselle sans infection
+S40.8	phlyctène de l'aisselle avec infection
+S40.8	piqûre d'insecte non venimeux de l'aisselle sans infection
+S40.8	piqûre d'insecte non venimeux de l'aisselle avec infection
+S40.8	lésion due à un corps étranger superficiel de l'aisselle sans plaie ouverte importante ni infection
+S40.8	lésion due à un corps étranger superficiel de l'aisselle sans plaie ouverte importante, avec infection
+S40.9	lésion traumatique superficielle de la région scapulaire sans infection
+S40.9	lésion traumatique superficielle de la région scapulaire avec infection
+S40.8	abrasion ou brûlure par frottement de la région scapulaire sans infection
+S40.8	abrasion ou brûlure par frottement de la région scapulaire avec infection
+S40.8	phlyctène de la région scapulaire sans infection
+S40.8	phlyctène de la région scapulaire avec infection
+S40.8	piqûre d'insecte non venimeux de la région scapulaire sans infection
+S40.8	piqûre d'insecte non venimeux de la région scapulaire avec infection
+S40.8	lésion due à un corps étranger superficiel de la région scapulaire sans plaie ouverte importante ni infection
+S40.8	lésion due à un corps étranger superficiel de la région scapulaire sans plaie ouverte importante, avec infection
+S40.9	lésion traumatique superficielle du bras sans infection
+S40.9	lésion traumatique superficielle du bras avec infection
+S40.8	abrasion ou brûlure par frottement du bras sans infection
+S40.8	abrasion ou brûlure par frottement du bras avec infection
+S40.8	phlyctène du bras sans infection
+S40.8	phlyctène du bras avec infection
+S40.8	piqûre d'insecte non venimeux du bras sans infection
+S40.8	piqûre d'insecte non venimeux du bras avec infection
+S40.8	lésion due à un corps étranger superficiel du bras sans plaie ouverte importante ni infection
+S40.8	lésion due à un corps étranger superficiel du bras sans plaie ouverte importante, avec infection
+S50.9	lésion traumatique superficielle du coude sans infection
+S50.9	lésion traumatique superficielle du coude avec infection
+S50.8	abrasion ou brûlure par frottement du coude sans infection
+S50.8	abrasion ou brûlure par frottement du coude avec infection
+S50.8	phlyctène du coude sans infection
+S50.8	phlyctène du coude avec infection
+S50.8	piqûre d'insecte non venimeux du coude sans infection
+S50.8	piqûre d'insecte non venimeux du coude avec infection
+S50.8	lésion due à un corps étranger superficiel du coude sans plaie ouverte importante ni infection
+S50.8	lésion due à un corps étranger superficiel du coude sans plaie ouverte importante, avec infection
+S50.9	lésion traumatique superficielle de l'avant-bras sans infection
+S50.9	lésion traumatique superficielle de l'avant-bras avec infection
+S50.8	abrasion ou brûlure par frottement de l'avant-bras sans infection
+S50.8	abrasion ou brûlure par frottement de l'avant-bras avec infection
+S50.8	phlyctène de l'avant-bras sans infection
+S50.8	phlyctène de l'avant-bras avec infection
+S50.8	piqûre d'insecte non venimeux de l'avant-bras sans infection
+S50.8	piqûre d'insecte non venimeux de l'avant-bras avec infection
+S50.8	lésion due à un corps étranger superficiel de l'avant-bras sans plaie ouverte importante ni infection
+S50.8	lésion due à un corps étranger superficiel de l'avant-bras sans plaie ouverte importante, avec infection
+S60.9	lésion traumatique superficielle du poignet sans infection
+S60.9	lésion traumatique superficielle du poignet avec infection
+S60.8	abrasion ou brûlure par frottement du poignet sans infection
+S60.8	abrasion ou brûlure par frottement du poignet avec infection
+S60.8	phlyctène du poignet sans infection
+S60.8	phlyctène du poignet avec infection
+S60.8	piqûre d'insecte non venimeux du poignet sans infection
+S60.8	piqûre d'insecte non venimeux du poignet avec infection
+S60.8	lésion due à un corps étranger superficiel du poignet sans plaie ouverte importante ni infection
+S60.8	lésion due à un corps étranger superficiel du poignet sans plaie ouverte importante, avec infection
+S60.9	lésion traumatique superficielle de la main sans infection
+S60.9	lésion traumatique superficielle de la main avec infection
+S60.8	abrasion ou brûlure par frottement de la main sans infection
+S60.8	abrasion ou brûlure par frottement de la main avec infection
+S60.8	phlyctène de la main sans infection
+S60.8	phlyctène de la main avec infection
+S60.8	piqûre d'insecte non venimeux de la main sans infection
+S60.8	piqûre d'insecte non venimeux de la main avec infection
+S60.8	lésion due à un corps étranger superficiel de la main sans plaie ouverte importante ni infection
+S60.8	lésion due à un corps étranger superficiel de la main sans plaie ouverte importante, avec infection
+S60.9	lésion traumatique superficielle du doigt sans infection
+S60.9	lésion traumatique superficielle du doigt avec infection
+S60.8	abrasion ou brûlure par frottement du doigt sans infection
+S60.8	abrasion ou brûlure par frottement du doigt avec infection
+S60.8	phlyctène du doigt sans infection
+S60.8	phlyctène du doigt avec infection
+S60.8	piqûre d'insecte non venimeux du doigt sans infection
+S60.8	piqûre d'insecte non venimeux du doigt avec infection
+S60.8	lésion due à un corps étranger superficiel du doigt sans plaie ouverte importante ni infection
+S60.8	lésion due à un corps étranger superficiel du doigt sans plaie ouverte importante, avec infection
+S70.9	lésion traumatique superficielle de la hanche sans infection
+S70.9	lésion traumatique superficielle de la hanche avec infection
+S70.8	abrasion ou brûlure par frottement de la hanche sans infection
+S70.8	abrasion ou brûlure par frottement de la hanche avec infection
+S70.8	phlyctène de la hanche sans infection
+S70.8	phlyctène de la hanche avec infection
+S70.8	piqûre d'insecte non venimeux de la hanche sans infection
+S70.8	piqûre d'insecte non venimeux de la hanche avec infection
+S70.8	lésion due à un corps étranger superficiel de la hanche sans plaie ouverte importante ni infection
+S70.8	lésion due à un corps étranger superficiel de la hanche sans plaie ouverte importante, avec infection
+S70.9	lésion traumatique superficielle de la cuisse sans infection
+S70.9	lésion traumatique superficielle de la cuisse avec infection
+S70.8	abrasion ou brûlure par frottement de la cuisse sans infection
+S70.8	abrasion ou brûlure par frottement de la cuisse avec infection
+S70.8	phlyctène de la cuisse sans infection
+S70.8	phlyctène de la cuisse avec infection
+S70.8	piqûre d'insecte non venimeux de la cuisse sans infection
+S70.8	piqûre d'insecte non venimeux de la cuisse avec infection
+S70.8	lésion due à un corps étranger superficiel de la cuisse sans plaie ouverte importante ni infection
+S70.8	lésion due à un corps étranger superficiel de la cuisse sans plaie ouverte importante, avec infection
+S80.9	lésion traumatique superficielle de la jambe sans infection
+S80.9	lésion traumatique superficielle de la jambe avec infection
+S80.8	abrasion ou brûlure par frottement de la jambe sans infection
+S80.8	abrasion ou brûlure par frottement de la jambe avec infection
+S80.8	phlyctène de la jambe sans infection
+S80.8	phlyctène de la jambe avec infection
+S80.8	piqûre d'insecte non venimeux de la jambe sans infection
+S80.8	piqûre d'insecte non venimeux de la jambe avec infection
+S80.8	lésion due à un corps étranger superficiel de la jambe sans plaie ouverte importante ni infection
+S80.8	lésion due à un corps étranger superficiel de la jambe sans plaie ouverte importante avec infection
+S90.9	lésion traumatique superficielle de la cheville sans infection
+S90.9	lésion traumatique superficielle de la cheville avec infection
+S90.8	abrasion ou brûlure par frottement de la cheville sans infection
+S90.8	abrasion ou brûlure par frottement de la cheville avec infection
+S90.8	phlyctène de la cheville sans infection
+S90.8	phlyctène de la cheville avec infection
+S90.8	piqûre d'insecte non venimeux de la cheville sans infection
+S90.8	piqûre d'insecte non venimeux de la cheville avec infection
+S90.8	lésion due à un corps étranger superficiel de la cheville sans plaie ouverte importante ni infection
+S90.8	lésion due à un corps étranger superficiel de la cheville sans plaie ouverte importante, avec infection
+S90.9	lésion traumatique superficielle du pied sans infection
+S90.9	lésion traumatique superficielle du pied avec infection
+S90.8	abrasion ou brûlure par frottement du pied sans infection
+S90.8	abrasion ou brûlure par frottement du pied avec infection
+S90.8	phlyctène du pied sans infection
+S90.8	phlyctène du pied avec infection
+S90.8	piqûre d'insecte non venimeux du pied sans infection
+S90.8	piqûre d'insecte non venimeux du pied avec infection
+S90.8	lésion due à un corps étranger superficiel du pied sans plaie ouverte importante ni infection
+S90.8	lésion due à un corps étranger superficiel du pied sans plaie ouverte importante, avec infection
+S90.9	lésion traumatique superficielle d'un orteil sans infection
+S90.9	lésion traumatique superficielle d'un orteil avec infection
+S90.8	abrasion ou brûlure par frottement d'un orteil sans infection
+S90.8	abrasion ou brûlure par frottement d'un orteil avec infection
+S90.8	phlyctène d'un orteil sans infection
+S90.8	phlyctène d'un orteil avec infection
+S90.8	piqûre d'insecte non venimeux d'un orteil sans infection
+S90.8	piqûre d'insecte non venimeux d'un orteil avec infection
+S90.8	lésion due à un corps étranger superficiel d'un orteil sans plaie ouverte importante ni infection
+S90.8	lésion due à un corps étranger superficiel d'un orteil sans plaie ouverte importante, avec infection
+S23.2	brûlure au deuxième degré du poignet
+S00.8	contusion de la face, à l'exclusion de l'oeil
+S00.8	contusion de la joue
+S00.4	contusion de l'oreille
+S00.3	contusion du nez
+S00.5	contusion de la lèvre
+S00.5	contusion de la gencive
+S00.5	contusion de la région articulaire de la mandibule
+S00.8	contusion du condyle mandibulaire
+S00.8	contusion sous-condylienne de la mandibule
+S00.8	contusion de l'apophyse coronoïde de la mandibule
+S00.8	contusion de la branche montante de la mandibule
+S00.8	contusion de la symphyse mentonnière
+S00.8	contusion du bord alvéolaire de la mandibule
+S00.8	contusion du maxillaire supérieur
+S00.0	contusion du cuir chevelu
+S00.8	contusion du front
+S00.4	contusion du pavillon de l'oreille
+S00.8	contusion de la région préauriculaire de la face
+S00.8	contusion de la région malaire de la face
+S00.8	contusion de la région zygomatique de la face
+S00.5	contusion de la région péribuccale de la face
+S00.5	contusion de la région périorale de la face
+S10.9	contusion du cou
+S10.0	contusion de la gorge
+S00.8	contusion du menton
+S00.5	contusion de la bouche
+S00.5	contusion du vestibule maxillaire
+S00.5	contusion du vestibule mandibulaire
+S00.5	contusion de l'attache gingivo-maxillaire
+S00.5	contusion de l'attache gingivo-mandibulaire
+S00.5	contusion du plancher de la bouche
+S00.5	contusion de la langue
+S00.5	contusion de la muqueuse buccale
+S00.5	contusion du palais mou
+S00.5	contusion du palais dur
+S00.5	contusion d'une amygdale
+S00.5	contusion de l'oropharynx
+S05.8	contusion de l'oeil et de ses annexes
+S05.1	contusion de l'oeil
+S00.1	oeil au beurre noir
+S05.1	contusion du globe oculaire
+S05.8	lésion traumatique de l'oeil
+S00.1	contusion des paupières et de la région périoculaire
+S00.1	contusion périorbitaire
+S05.1	contusion des tissus orbitaux
+S20.2	contusion du thorax
+S20.0	contusion du sein
+S30.1	contusion de la paroi abdominale
+S30.1	contusion du flanc
+S30.1	contusion de l'aine
+S20.4	contusion du dos
+S30.0	contusion de la fesse
+S20.4	contusion de la région interscapulaire
+S30.2	contusion des organes génitaux masculins
+S30.2	contusion du pénis
+S30.2	contusion du scrotum
+S30.2	contusion du testicule
+S30.2	contusion des organes génitaux féminins
+S30.2	contusion des lèvres de la vulve
+S30.2	contusion de la vulve
+S30.2	contusion du vagin
+S30.2	contusion du périnée
+S40.0	contusion de l'épaule et du bras
+S40.0	contusion de la région de l'épaule
+S40.0	contusion de la région scapulaire
+S40.0	contusion de la région axillaire
+S40.0	contusion du bras
+S50.0 S50.1	contusion du coude et de l'avant-bras
+S50.1	contusion de l'avant-bras
+S50.0	contusion du coude
+S60.2	contusion du poignet et de la main, à l'exclusion des doigts
+S60.2	contusion de la main
+S60.2	contusion du poignet
+S60.0	contusion d'un doigt
+S60.1	contusion de l'ongle d'un doigt
+S60.0	contusion du pouce
+S60.1	contusion de l'ongle du pouce
+S70.0 S70.1	contusion de la hanche et de la cuisse
+S70.1	contusion de la cuisse
+S70.0	contusion de la hanche
+S80.0 S80.1	contusion du genou et de la jambe
+S80.9	contusion de la jambe
+S80.0	contusion du genou
+S90.0	contusion de la cheville et du pied, à l'exclusion des orteils
+S90.3	contusion du pied
+S90.3	contusion du talon
+S90.0	contusion de la cheville
+S90.1	contusion d'un orteil
+S90.2	contusion d'un ongle d'orteil
+S13.4	coup de fouet cervical

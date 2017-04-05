@@ -1,0 +1,582 @@
+A00.0	à Vibrio cholerae 01, biovar cholerae
+A00.1	à Vibrio cholerae 01, biovar El Tor
+A00.9	choléra, non spécifié
+A01.0	fièvre typhoïde, non spécifiée
+A01.1	méningite typhoïde
+A01.2	fièvre typhoïde avec une atteinte cardiaque
+A01.3	pneumonie typhoïde
+A01.4	arthrite typhoïde
+A01.5	ostéomyélite typhoïde
+A01.9	fièvre typhoïde avec d'autres complications
+A01.1	paratyphoïde A
+A01.2	paratyphoïde B
+A01.3	paratyphoïde C
+A01.4	paratyphoïde, non spécifiée
+A02.0	entérite à Salmonella
+A02.1	septicémie à Salmonella
+A02.20	infection localisée à Salmonella, non spécifiée
+A02.21	méningite à Salmonella
+A02.22	pneumonie à Salmonella
+A02.23	arthrite à Salmonella
+A02.24	ostéomyélite à Salmonella
+A02.25	pyélonéphrite à Salmonella
+A02.29	salmonella avec d'autres infections localisées
+A02.8	d'autres infections spécifiées à Salmonella
+A02.9	salmonellose, non spécifiée
+A03.0	shigellose à Shigella dysenteriae
+A03.1	shigellose à Shigella flexneri
+A03.2	shigellose à Shigella boydii
+A03.3	shigellose à Shigella sonnei
+A03.8	d'autres shigelloses
+A03.9	shigellose, non spécifiée
+A04.0	infection entéropathogène à Escherichia coli
+A04.1	infection entérotoxigène à Escherichia coli
+A04.2	infection entéro-invasive à Escherichia coli
+A04.3	infection entéro-hémorragique à Escherichia coli
+A04.4	d'autres infections intestinales à Escherichia coli
+A04.5	entérite à Campylobacter
+A04.6	entérite à Yersinia enterocolitica
+A04.7	entérocolite à Clostridium difficile
+A04.8	d'autres infections intestinales bactériennes spécifiées
+A04.9	infection intestinale bactérienne, non spécifiée
+A05.0	intoxication alimentaire à staphylocoques
+A05.1	botulisme
+A05.2	intoxication alimentaire à Clostridium perfringens
+A05.2	Clostridium welchii
+A05.3	intoxication alimentaire à Vibrio parahaemolyticus
+A05.4	intoxication alimentaire à Bacillus cereus
+A05.5	intoxication alimentaire à Vibrio vulnificus
+A05.8	d'autres intoxications bactériennes spécifiées, d'origine alimentaire
+A05.9	intoxication bactérienne d'origine alimentaire, non spécifiée
+A06.0	dysenterie amibienne aiguë
+A06.1	amibiase intestinale chronique
+A06.2	colite amibienne non dysentérique
+A06.3	amoebome de l'intestin
+A06.4	abcès amibien du foie
+A06.5	abcès amibien du poumon
+A06.6	abcès amibien de l'encéphale
+A06.7	amibiase cutanée
+A06.81	cystite amibien
+A06.82	d'autres infections amibiennes génito-urinaires
+A06.89	d'autres infections amibiennes
+A06.9	amibiase, non spécifiée
+A07.0	balantidiose
+A07.1	giardiase 
+A07.1	lambliase
+A07.2	cryptosporidiose
+A07.3	infection à Isospora
+A07.4	cyclosporiasis
+A07.8	d'autres maladies intestinales spécifiées, à protozoaires
+A07.9	maladie intestinale à protozoaires, non spécifiée
+A08.0	entérite à rotavirus
+A08.11	gastro-enteropathie aiguë à virus Norwalk
+A08.19	gastro-enteropathie aiguë à d'autres petits virus ronds
+A08.2	entérite à adénovirus
+A08.31	entérite à calicivirus
+A08.32	entérite à astrovirus
+A08.39	d'autres entérites virales
+A08.4	infection intestinale virale, non spécifiée
+A08.8	d'autres infections intestinales spécifiées
+A09	diarrhée et gastro-entérite d'origine présumée infectieuse
+A15.0	tuberculose pulmonaire, confirmée par un examen microscopique de l'expectoration, avec ou sans culture
+A15.4	tuberculose des ganglions intrathoraciques, avec confirmation bactériologique et histologique
+A15.5	tuberculose du larynx, de la trachée et des bronches, avec confirmation bactériologique et histologique
+A15.6	pleurésie tuberculeuse, avec confirmation bactériologique et histologique
+A15.7	primo-infection tuberculeuse de l'appareil respiratoire, avec confirmation bactériologique et histologique
+A15.8	d'autres formes de tuberculose de l'appareil respiratoire, avec confirmation bactériologique et histologique
+A15.9	tuberculose de l'appareil respiratoire, non spécifiée
+A17.0	méningite tuberculeuse
+A17.1	tuberculome méningé
+A17.81	tuberculome de l'encéphale et de la moelle épinière
+A17.82	méningo-encéphalite tuberculeuse
+A17.83	névrite tuberculeuse
+A17.89	d'autres formes de tuberculose du système nerveux
+A17.9	tuberculose du système nerveux, non spécifiée
+A18.1	tuberculose de la colonne vertébrale
+A18.2	arthrite tuberculeuse d'autres articulations
+A18.3	tuberculose d'autres os
+A18.9	autre tuberculose ostéo-articulaire
+A18.10	tuberculose du système génito-urinaire, non spécifiée
+A18.11	tuberculose rénale et uretère
+A18.12	tuberculose de la vessie
+A18.13	tuberculose des autres organes urinaires
+A18.14	tuberculose de la prostate
+A18.15	tuberculose des autres organes génitaux de l'homme
+A18.16	tuberculose du col de l'utérus
+A18.17	affection inflammatoire tuberculeuse des organes pelviens de la femme
+A18.18	tuberculose des autres organes génitaux de la femme
+A18.2	adénopathie tuberculeuse périphérique
+A18.31	péritonite tuberculeuse
+A18.32	entérite tuberculeuse
+A18.39	tuberculose rétropéritonéale
+A18.4	tuberculose de la peau et du tissu cellulaire sous-cutané
+A18.50	tuberculose de l'oeil, non spécifiée
+A18.51	épisclérite tuberculeuse
+A18.52	kératite tuberculeuse
+A18.53	choriorétinite tuberculeuse
+A18.54	iridocyclite tuberculeuse
+A18.59	d'autres formes de tuberculose de l'oeil
+A18.6	tuberculose de l'oreille
+A18.7	tuberculose des surrénales
+A18.81	tuberculose de la thyroïde
+A18.82	tuberculose des autres glandes endocrines
+A18.83	tuberculose des organes du système digestif, non classée ailleurs
+A18.84	tuberculose du coeur
+A18.85	tuberculose de la rate
+A18.89	tuberculose d'autres sites
+A19.0	tuberculose miliaire aiguë, site unique et spécifiée
+A19.1	tuberculose miliaire aiguë, multiples sites
+A19.2	tuberculose miliaire aiguë, non spécifiée
+A19.8	d'autres tuberculoses miliaires
+A19.9	tuberculose miliaire, non spécifiée
+A20.0	peste bubonique
+A20.1	peste cutanée
+A20.2	peste pulmonaire
+A20.3	peste méningée
+A20.7	peste septicémique
+A20.8	d'autres formes de la peste
+A20.9	peste, non spécifiée
+A21.0	tularémie ulcéro­glandulaire
+A21.1	tularémie oculo-glandulaire
+A21.2	tularémie pulmonaire
+A21.3	tularémie gastro-intestinale
+A21.7	tularémie généralisée
+A21.8	d'autres formes de tularémie
+A21.9	tularémie, non spécifiée
+A22.0	charbon cutané
+A22.1	charbon pulmonaire
+A22.2	charbon gastro-intestinal
+A22.7	septicémie charbonneuse
+A22.8	d'autres formes de charbon
+A22.9	charbon, non spécifié
+A23.0	brucellose à Brucella melitensis
+A23.1	brucellose à Brucella abortus
+A23.2	brucellose à Brucella suis
+A23.3	brucellose à Brucella canis
+A23.8	d'autres brucelloses
+A23.9	brucellose, non spécifiée
+A24.0	morve
+A24.1	mélioïdose aiguë et galopante
+A24.2	mélioïdose subaiguë et chronique
+A24.3	d'autres mélioïdoses
+A24.9	mélioïdose, non spécifiée
+A25.0	spirillose
+A25.1	streptobacillose
+A25.9	fièvre causée par la morsure d'un rat, non spécifiée
+A26.0	érysipéloïde cutanée
+A26.7	septicémie à Erysipelothrix
+A26.8	d'autres formes d'érysipéloïde
+A26.9	érysipéloïde, non spécifié
+A27.0	leptospirose ictéro-hémorragique
+A27.81	méningite à leptospire, aseptique
+A27.89	d'autres formes de leptospirose
+A27.9	leptospirose, non spécifiée
+A28.0	pasteurellose
+A28.1	maladie des griffes du chat
+A28.2	yersiniose extra-intestinale
+A28.8	d'autres anthropozoonoses bactériennes spécifiées, non classées ailleurs
+A28.9	anthropozoonose bactérienne, non spécifiée
+A30.0	lèpre indéterminée
+A30.1	lèpre tuberculoïde
+A30.2	lèpre tuberculoïde du type intermédiaire atypique
+A30.3	lèpre du type intermédiaire atypique
+A30.4	lèpre lépromateuse du type intermédiaire atypique
+A30.5	lèpre lépromateuse
+A30.8	d'autres formes de lèpre
+A30.9	lèpre, non spécifiée
+A31.0	infection pulmonaire à Mycobactérie
+A31.1	infection cutanée à Mycobactérie
+A31.2	complexe mycobactérium avium-intracellulaire disséminé
+A31.8	d'autres infections à Mycobactérie
+A31.9	infection à Mycobactérie, non spécifiée
+A32.0	listériose cutanée
+A32.11	méningite listérienne
+A32.12	méningo-encéphalite listérienne
+A32.7	septicémie listérienne
+A32.81	listériose oculo-glandulaire
+A32.82	endocardite listérienne
+A32.89	d'autres formes de listériose
+A32.9	listériose, non spécifiée
+A33	tétanos néonatal
+A34	tétanos obstétrical
+A35	d'autres formes de tétanos
+A36.0	diphtérie pharyngée
+A36.1	diphtérie rhinopharyngée
+A36.2	diphtérie laryngée
+A36.3	diphtérie cutanée
+A36.81	cardiomyopathie diphtérique
+A36.82	radiculomyélopathie diphtérique
+A36.83	polynévrite diphtérique
+A36.84	néphropathie tubulo-interstitielle diphtérique
+A36.85	cystite diphtérique
+A36.86	conjonctivite diphtérique
+A36.89	d'autres complications diphtériques
+A36.9	diphtérie, non spécifiée
+A37.0	coqueluche à Bordetella pertussis sans pneumonie
+A37.1	coqueluche à Bordetella pertussis avec pneumonie
+A37.10	coqueluche à Bordetella parapertussis sans pneumonie
+A37.11	coqueluche à Bordetella parapertussis avec pneumonie
+A37.80	coqueluche due à d'autres espèces de Bordetella sans pneumonie
+A37.81	coqueluche due à d'autres espèces de Bordetella avec pneumonie
+A37.90	coqueluche, non spécifiée sans pneumonie
+A37.91	coqueluche, non spécifiée avec pneumonie
+A38.0	scarlatine à otite moyenne
+A38.1	scarlatine avec une myocardite
+A38.8	scarlatine avec d'autres complications
+A38.9	scarlatine, non compliquée
+A39.0	méningite à méningocoques
+A39.1	syndrome de Waterhouse-Friderichsen
+A39.2	méningococcémie aiguë
+A39.3	méningococcémie chronique
+A39.4	méningococcémie, non spécifiée
+A39.50	cardite à méningocoques, non spécifiée
+A39.51	endocardite méningococcique
+A39.52	myocardite méningococcique
+A39.53	péricardite méningococcique
+A39.81	encéphalite méningococcique
+A39.82	névrite rétrobulbaire méningococcique
+A39.83	arthrite méningococcique
+A39.84	arthrite post-méningococcique
+A39.89	d'autres infections à méningocoques
+A39.9	infection méningococcique, non spécifiée
+A40.0	septicémie à streptocoques, groupe A
+A40.1	septicémie à streptocoques, groupe B
+A40.3	septicémie à Streptococcus pneumoniae
+A40.8	d'autres septicémies à streptocoques
+A40.9	septicémie à streptocoques, non spécifiée
+A41.1	septicémie due à staphylocoque doré sensible à la méthicilline
+A41.2	septicémie due à staphylocoque doré résistant à la méthicilline
+A41.1	septicémie à d'autres staphylocoques spécifiés
+A41.2	septicémie à staphylocoques non spécifiés
+A41.3	septicémie à Haemophilus influenzae
+A41.4	septicémie à micro-organismes anaérobies
+A41.50	septicémie à micro-organismes Gram-négatif, non spécifiée
+A41.51	septicémie à Escherichia coli
+A41.51	septicémie à E. coli
+A41.52	septicémie à Pseudomonas
+A41.53	septicémie à Serratia
+A41.59	septicémie à d'autres micro-organismes Gram négatif
+A41.81	septicémie à Enterococcus
+A41.89	d'autres septicémies spécifiées
+A41.9	septicémie, organisme non spécifiée
+A42.0	actinomycose pulmonaire
+A42.1	actinomycose abdominale
+A42.2	actinomycose cervico-faciale
+A42.7	septicémie actinomycosique
+A42.81	méningite actinomycosique
+A42.82	encéphalite actinomycosique
+A42.89	d'autres formes d'actinomycose
+A42.9	actinomycose, non spécifiée
+A43.0	nocardiose pulmonaire
+A43.1	nocardiose cutanée
+A43.8	d'autres formes de nocardiose
+A43.9	nocardiose, non spécifiée
+A44.0	bartonellose généralisée
+A44.1	bartonellose cutanée et muco-cutanée
+A44.8	d'autres formes de bartonellose
+A44.9	bartonellose, non spécifiée
+A46	érysipèle
+A48.0	gangrène gazeuse
+A48.1	maladie des légionnaires
+A48.2	maladie des légionnaires, sans signes pulmonaires
+A48.2	fièvre de Pontiac
+A48.3	syndrome du choc toxique
+A48.4	fièvre purpurique du Brésil
+A48.51	botulisme infantile
+A48.52	botulisme par une plaie
+A48.8	d'autres maladies bactériennes spécifiées
+A49.1	infection à staphylocoque doré sensible à la méthicilline, site non spécifié
+A49.2	infection à staphylocoque doré résistant à la méthicilline, site non spécifié
+A49.1	infection à streptocoques, site non spécifié
+A49.2	infection à Haemophilus influenzae, site non spécifié
+A49.3	infection à Mycoplasme, site non spécifié
+A49.8	d'autres infections bactériennes, site non spécifié
+A49.9	infection bactérienne, non spécifiée
+A50.1	oculopathie syphilitique congénitale précoce
+A50.2	oculopathie syphilitique congénitale précoce
+A50.3	pharyngite syphilitique congénitale précoce
+A50.4	pneumonie syphilitique congénitale précoce
+A50.5	rhinite syphilitique congénitale précoce
+A50.6	syphilis congénitale précoce cutanée
+A50.7	syphilis congénitale précoce muco-cutanée
+A50.8	syphilis congénitale précoce viscérale
+A50.9	d'autre syphilis congénitale précoce, symptomatique
+A50.1	syphilis congénitale précoce, latente
+A50.2	syphilis congénitale précoce, non spécifiée
+A50.30	oculopathie syphilitique congénitale tardive, non spécifiée
+A50.31	kératite interstitielle syphilitique congénitale tardive
+A50.32	choriorétinite syphilitique congénitale tardive
+A50.39	autre oculopathie syphilitique congénitale tardive
+A50.40	syphilis congénitale nerveuse tardive, non spécifié
+A50.41	méningite syphilitique congénitale tardive
+A50.42	encéphalite syphilitique congénitale tardive
+A50.43	polynévrite syphilitique congénitale tardive
+A50.44	atrophie syphilitique congénitale tardive du nerf optique
+A50.45	paralysie générale juvénile
+A50.49	autre forme de syphilis congénitale nerveuse tardive 
+A50.49	neuro-syphilis juvénile
+A50.51	maladie de Clutton
+A50.52	dents de Hutchinson
+A50.53	triade de Hutchinson
+A50.54	syphilis cardio-vasculaire congénitale tardive
+A50.55	arthropathie syphilitique congénitale tardive
+A50.56	ostéochondropathie syphilitique congénitale tardive
+A50.57	nez en selle attribuable à la syphilis
+A50.59	d'autres formes tardives de syphilis congénitale, symptomatique
+A50.6	syphilis congénitale tardive, latente
+A50.7	syphilis congénitale tardive, non spécifiée
+A50.9	syphilis congénitale, non spécifiée
+A51.0	syphilis génitale primaire
+A51.1	syphilis anale primaire
+A51.2	syphilis primaire d'autres sites
+A51.31	condylome plat
+A51.32	alopécie syphilitique
+A51.39	autre syphilis secondaire de la peau
+A51.41	méningite syphilitique secondaire
+A51.42	maladie inflammatoire des organes pelviens de la femme syphilitique secondaire
+A51.43	oculopathie syphilitique secondaire
+A51.44	néphrite syphilitique secondaire
+A51.45	hépatite syphilitique secondaire
+A51.46	ostéopathie syphilitique secondaire
+A51.49	d'autres affections par syphilis secondaire
+A51.5	syphilis précoce, latente
+A51.9	syphilis précoce, non spécifiée
+A52.0	syphilis cardio-vasculaire, non spécifiée
+A52.1	anévrisme syphilitique de l'aorte
+A52.2	aortite syphilitique
+A52.3	endocardite syphilitique
+A52.4	artérite cérébrale syphilitique
+A52.5	d'autres formes de syphilis cérébrovasculaire
+A52.6	autre atteinte cardiaque syphilitique
+A52.9	d'autres formes de syphilis cardiovasculaire
+A52.10	syphilis nerveuse symptomatique, non spécifiée
+A52.11	tabès
+A52.12	d'autres formes de syphilis cérébrospinale
+A52.13	méningite syphilitique tardive
+A52.14	encéphalite syphilitique tardive
+A52.15	neuropathie  syphilitique tardive
+A52.16	arthropathie de Charcot
+A52.17	paralysie générale
+A52.19	d'autres formes de syphilis nerveuse symptomatique
+A52.2	syphilis nerveuse asymptomatique
+A52.3	syphilis nerveuse, non spécifiée
+A52.71	oculopathie syphilitique tardive
+A52.72	syphilis pulmonaire et bronchique
+A52.73	syphilis tardive symptomatique des autres organes respiratoires
+A52.74	syphilis hépatique et des autres viscères
+A52.75	syphilis du rein et de l'uretère
+A52.76	d'autres formes de syphilis tardive génito-urinaire symptomatique
+A52.77	syphilis osseuse et ostéo-articulaire
+A52.78	syphilis d'autres tissus ostéo-articulaires
+A52.79	d'autres formes tardives de syphilis symptomatique
+A52.8	syphilis tardive, latente
+A52.9	syphilis tardive, non spécifiée
+A53.0	syphilis latente, non spécifiée précoce ou tardive
+A53.9	syphilis, non spécifiée
+A54.0	infection gonococcique de la partie inférieure du tractus génito-urinaire, non spécifiée
+A54.1	cystite et urétrite gonococcique, non spécifiées
+A54.2	vulvo-vaginite gonococcique, non spécifiée
+A54.3	cervicite gonococcique, non spécifiée
+A54.9	d'autres formes d'infection gonococcique de la partie inférieure du tractus génito-urinaire
+A54.1	infection gonococcique de la partie inférieure du tractus génito-urinaire, avec un abcès périurétral et des glandes annexes
+A54.21	infection gonococcique du rein et de l'uretère
+A54.22	prostatite gonococcique
+A54.23	infection gonococcique des autres organes génitaux masculins
+A54.24	maladie gonococcique inflammatoire des organes pelviens de la femme
+A54.29	d'autres infections gonococciques génito-urinaires
+A54.30	infection gonococcique de l'oeil, non spécifiée
+A54.31	conjonctivite gonococcique
+A54.32	iridocyclite gonococcique
+A54.33	kératite gonococcique
+A54.39	d'autres infections gonococciques oculaires
+A54.40	infection gonococcique du système musculosquelettique et des muscles, non spécifiée
+A54.41	spondylopathy gonococcique
+A54.42	arthrite gonococcique
+A54.43	ostéomyélite gonococcique
+A54.49	infection gonococcique d'un autre tissu ostéo-articulaire
+A54.5	pharyngite gonococcique
+A54.6	infection gonococcique de l'anus et du rectum
+A54.81	méningite gonococcique
+A54.82	abcès de l'encéphale gonococcique
+A54.83	myocardite gonococcique
+A54.84	pneumonie gonococcique
+A54.85	péritonite gonococcique
+A54.86	septicémie gonococcique
+A54.89	d'autres infections gonococciques
+A54.9	infection gonococcique, non spécifiée
+A55	lymphogranulomatose vénérienne à Chlamydia
+A56.0	infection à Chlamydia de la partie inférieure du tractus génito-urinaire, non spécifiée
+A56.1	cystite et urétrite à Chlamydia
+A56.2	vulvo-vaginite à Chlamydia
+A56.9	d'autres formes d'infection à Chlamydia de la partie inférieure du tractus génito-urinaire
+A56.11	maladie inflammatoire des organes pelviens de la femme à Chlamydia
+A56.19	autre infection génito-urinaire à Chlamydia
+A56.2	infection à Chlamydia du tractus génito-urinaire, non spécifiée
+A56.3	infection à Chlamydia de l'anus et du rectum
+A56.4	infection à Chlamydia du pharynx
+A56.8	infection à Chlamydia transmise par voie sexuelle, d'autres sites
+A57	chancre mou
+A58	granulome inguinal
+A59.0	trichomonase uro-génitale, non spécifiée
+A59.1	vulvo-vaginite à Trichomonas
+A59.2	prostatite à Trichomonas
+A59.2	prostatite à Trichomonas vaginalis
+A59.3	cystite et urétrite à Trichomonas
+A59.9	d'autres formes de trichomonase uro-génitale
+A59.8	d'autres sites de trichomonase
+A59.9	trichomonase, non spécifiée
+A60.0	infection du système génito-urinaire par le virus de l'herpès, non spécifiée
+A60.1	infection du pénis par le virus de l'herpès
+A60.2	infection des autres organes génitaux de l'homme par le virus de l'herpès
+A60.3	cervicite par le virus de l'herpès
+A60.4	vulvo-vaginite par le virus de l'herpès
+A60.9	d'autres formes d'infection de l'appareil génito-urinaire par le virus de l'herpès, non spécifiées
+A60.1	infection de la marge cutanée de l'anus et du rectum, par le virus de l'herpès
+A60.9	infection ano-génitale par le virus de l'herpès, non spécifiée
+A63.0	condylomes ano-génitaux (vénériens)
+A63.8	d'autres maladies spécifiées dont le mode de transmission est essentiellement sexuel
+A64	maladie sexuellement transmissible, non spécifiée
+A65	syphilis non vénérienne
+A66.0	lésions initiales du pian
+A66.1	papillomes multiples et pian plantaire humide 
+A66.1	pian-crabe
+A66.2	d'autres lésions cutanées précoces du pian
+A66.3	hyperkératose pianique
+A66.4	gommes et ulcères pianiques
+A66.5	gangosa
+xA66.6	lésions ostéo-articulaires pianiques
+A66.7	d'autres manifestations du pian
+A66.8	pian latent
+A66.9	pian, non spécifié
+A67.0	lésions initiales de la pinta
+A67.1	lésions intermédiaires de la pinta
+A67.2	lésions tardives de la pinta
+A67.3	lésions mixtes de la pinta
+A67.9	pinta, non spécifiée
+A68.0	fièvre récurrente à poux
+A68.1	fièvre récurrente à tiques
+A68.9	fièvre récurrente, non spécifiée
+A69.0	stomatite ulcéro-nécrotique
+A69.1	d'autres infections dites de Vincent
+A69.20	maladie de Lyme, non spécifiée
+A69.21	méningite due à la maladie de Lyme
+A69.22	d'autres troubles neurologiques dans la maladie de Lyme
+A69.23	arthrite due à la maladie de Lyme
+A69.29	d'autres affections associées à la maladie de Lyme
+A69.8	d'autres infections à spirochètes spécifiées
+A69.9	infection à spirochètes, non spécifiée
+A70	infection à Chlamydia psittaci
+A71.0	phase initiale du trachome
+A71.1	phase active du trachome
+A71.9	trachome, non spécifié
+A74.0	conjonctivite à Chlamydia
+A74.81	péritonite à Chlamydia
+A74.89	d'autres maladies à Chlamydia
+A74.9	infection à Chlamydia, non spécifiée
+A75.0	typhus épidémique à poux dû à Rickettsia prowazekii
+A75.1	typhus résurgent 
+A75.1	maladie de Brill
+A75.2	typhus à Rickettsia typhi
+A75.3	typhus à Rickettsia tsutsugamushui
+A75.9	typhus, non spécifié
+A77.0	fièvre pourprée à Rickettsia rickettsii
+A77.1	fièvre pourprée à Rickettsia conorii
+A77.2	fièvre pourprée due à Rickettsia sibirica
+A77.3	fièvre pourprée due à Rickettsia australis
+A77.40	ehrlichiose, non spécifiée
+A77.41	ehrlichiose, chafeensis 
+A77.41	E. chafeensis
+A77.49	autre forme d'Ehrlichiose
+A77.8	d'autres fièvres pourprées
+A77.9	fièvre pourprée, non spécifiée
+A78	fièvre Q
+A79.0	fièvre des tranchées
+A79.1	rickettsiose varicelliforme due à Rickettsia akari
+A79.81	rickettsiose à Ehrlichia sennetsu
+A79.89	d'autres types spécifiés de rickettsiose
+A79.9	rickettsiose, non spécifiée
+A80.0	poliomyélite paralytique aiguë, associée au virus vaccinal
+A80.1	poliomyélite paralytique aiguë, virus sauvage importé
+A80.2	poliomyélite paralytique aiguë, virus sauvage indigène
+A80.30	poliomyélite paralytique aiguë, non spécifiée
+A80.39	d'autres poliomyélites paralytiques aiguës
+A80.4	poliomyélite aiguë non paralytique
+A80.9	poliomyélite aiguë, non spécifiée
+A81.0	maladie de Creutzfeldt-Jakob, non spécifiée
+A81.1	variante de la maladie de Creutzfeldt-Jakob
+A81.9	d'autres formes de la maladie de Creutzfeldt-Jakob
+A81.1	panencéphalite sclérosante subaiguë
+A81.2	leucoencéphalopathie multifocale progressive
+A81.81	kuru
+A81.82	syndrome de Gerstmann-Straussler-Scheinker
+A81.83	insomnie fatale familiale
+A81.89	d'autres infections virales atypiques, du système nerveux central
+A81.9	infection virale atypique, du système nerveux central, non spécifiée
+A82.0	rage sylvatique
+A82.1	rage des rues 
+A82.1	rage citadine
+A82.9	rage, non spécifiée
+A83.0	encéphalite japonaise
+A83.1	encéphalite équine occidentale
+A83.2	encéphalite équine orientale
+A83.3	encéphalite de Saint-Louis
+A83.4	encéphalite australienne
+A83.5	encéphalite de Californie
+A83.6	maladie à virus de Rocio
+A83.8	d'autres encéphalites virales transmises par des moustiques
+A83.9	encéphalite virale transmise par des moustiques, non spécifiée
+A84.0	encéphalite de la taïga [encéphalite verno-estivale russe]
+A84.1	encéphalite d'Europe centrale transmise par des tiques
+A84.8	d'autres encéphalites virales transmises par des tiques
+A84.9	encéphalite virale transmise par des tiques, non spécifiée
+A85.0	encéphalite à entérovirus
+A85.1	encéphalite à adénovirus
+A85.2	encéphalite virale transmise par des arthropodes, non spécifiée
+A85.8	d'autres encéphalites virales spécifiées
+A86	encéphalite virale, non spécifiée
+A87.0	méningite à entérovirus
+A87.1	méningite à adénovirus
+A87.2	chorioméningite lymphocytaire
+A87.8	d'autres méningites virales
+A87.9	méningite virale, non spécifiée
+A88.0	fièvre exanthémateuse à entérovirus 
+A88.0	exanthème de Boston
+A88.1	vertige épidémique
+A88.8	d'autres infections virales spécifiées du système nerveux central
+A89	infection virale du système nerveux central, non spécifiée
+A90	dengue 
+A90	dengue classique
+A91	fièvre hémorragique due au virus de la dengue
+A92.0	fièvre de Chikungunya
+A92.1	fièvre due au virus O'nyong-nyong
+A92.2	fièvre équine vénézuélienne
+A92.30	infection par le virus du Nil occidental, non spécifiée
+A92.31	encéphalite à virus du Nil occidental
+A92.32	d'autres manifestations neurologiques d'infection par le virus du Nil occidental
+A92.39	infection par le virus du Nil occidental avec d'autres complications
+A92.4	fièvre de la vallée de Rift
+A92.8	d'autres fièvres virales spécifiées, transmises par des moustiques
+A92.9	fièvre virale transmise par des moustiques, non spécifiée
+A93.0	fièvre d'Oropouche
+A93.1	fièvre à phlébotome
+A93.2	fièvre à tiques du Colorado
+A93.8	d'autres fièvres virales spécifiées, transmises par des arthropodes
+A94	fièvre virale transmise par des arthropodes, non spécifiée
+A95.0	fièvre jaune sylvatique
+A95.1	fièvre jaune citadine
+A95.9	fièvre jaune, non spécifiée
+A96.0	fièvre hémorragique de Junin
+A96.1	fièvre hémorragique de Machupo
+A96.2	fièvre de Lassa
+A96.8	d'autres fièvres hémorragiques à arénavirus
+A96.9	fièvre hémorragique à arénavirus, non spécifiée
+A98.0	fièvre hémorragique de Crimée 
+A98.0	fièvre hémorragique du Congo
+A98.1	fièvre hémorragique d'Omsk
+A98.2	maladie de la forêt de Kyasanur
+A98.3	maladie de Marburg
+A98.4	maladie à virus Ebola
+A98.5	fièvre hémorragique avec un syndrome rénal
+A98.8	autre fièvre hémorragique virale spécifiée
+A99	fièvre hémorragique virale, non spécifiée
+			

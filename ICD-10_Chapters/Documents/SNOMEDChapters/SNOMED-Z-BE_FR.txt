@@ -1,0 +1,39 @@
+Z86.7	endocardite bactérienne guérie
+Z95.8	shunt vasculaire porto-cave
+Z95.8	shunt vasculaire porto-splénique
+Z87.4	glomérulonéphrite guérie
+Z87.4	pyélonéphrite guérie
+Z64.1	grande multiparité
+Z35.5	primigeste âgée
+Z39.1	lactation excessive puerpérale
+Z39.1	lactation excessive du post-partum
+Z03.2	absence de diagnostic sur l'Axe I
+Z03.2	absence d'affection sur l'Axe I
+Z03.2	absence de diagnostic sur l'Axe II
+Z03.2	absence d'affection sur l'Axe II
+Z03.2	absence de diagnostic sur l'Axe III
+Z03.2	absence d'affection sur l'Axe III
+Z03.2	absence de diagnostic sur l'Axe IV
+Z03.2	absence d'agent stressant psychosocial sur l'Axe IV
+Z03.2	absence d'affection sur l'Axe IV
+Z03.2	absence de diagnostic sur l'Axe V
+Z03.2	absence d'évaluation globale du fonctionnement sur l'Axe V
+Z56.6	état de stress lié à la profession
+Z56.6	état de stress lié à l'emploi
+Z73.0	état d'épuisement émotionnel et physique
+Z73.0	épuisement professionnel
+Z96.1	pseudophakie
+Z56.6	microtraumatismes répétés
+Z56.6	RSI
+Z58.4	exposition aux rayonnements
+Z57.1	exposition professionnelle aux rayonnements
+Z58.8	exposition à une température extrême
+Z57.6	exposition professionnelle à une température extrême
+Z58.8	exposition non professionnelle à une température extrême
+Z58.8	exposition à la chaleur
+Z21	infection asymptomatique à virus de l'immunodéficience humaine
+Z21	infection asymptomatique à VIH
+Z21	infection asymptomatique à virus de l'immunodéficience humaine au cours de la grossesse
+Z21	infection asymptomatique à VIH au cours de la grossesse
+Z21	séropositivité au VIH
+Z72.8	abus de soi

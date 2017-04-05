@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<RegisterSequence>
+    <RegisterGroup>
+        <Register codesystem="ICD10">
+            <File>FileA</File>
+            <File>FileB</File>
+        </Register>
+        <Register>
+            <File>MedDRA-abc</File>
+            <File>MedDRA-xyz</File>
+        </Register>
+    </RegisterGroup>
+    <RegisterGroup>
+        <Register codesystem="ICD10-AT">
+            <File>ICD10_BMG</File>
+        </Register>
+    </RegisterGroup>
+</RegisterSequence>

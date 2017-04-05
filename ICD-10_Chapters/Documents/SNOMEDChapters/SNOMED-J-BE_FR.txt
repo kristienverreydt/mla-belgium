@@ -1,0 +1,1085 @@
+J34.0	anthrax du nez
+J34.0	anthrax de la cloison nasale
+J34.0	furoncle du nez
+J34.0	furoncle de la cloison nasale
+J34.0	abcès de la partie externe du nez
+J34.0	phlegmon de la partie externe du nez
+J98.9	maladie de l'appareil respiratoire
+J98.9	trouble respiratoire
+J98.9	maladie respiratoire
+J98.9	maladie respiratoire aiguë
+J98.9	maladie respiratoire chronique
+J39.9	maladie des voies respiratoires supérieures
+J39.9	maladie des voies aériennes supérieures
+J06.9	infection des voies respiratoires supérieures
+J00	rhume du cerveau
+J06.9	infection aiguë des voies respiratoires supérieures
+J06.9	infection aiguë des voies aériennes supérieures
+J06.8	infection aiguë des voies respiratoires supérieures à localisations multiples
+J06.8	infection aiguë des voies aériennes supérieures à localisations multiples
+J39.3	réaction d'hypersensibilité des voies respiratoires supérieures
+J39.8	obstruction des voies respiratoires supérieures
+J98.8	obstruction des voies aériennes
+J98.8	paralysie des voies respiratoires
+J98.8	infection des voies respiratoires inférieures
+J98.8	infection des voies aériennes inférieures
+J34.8	maladie des sinus paranasaux
+J34.8	maladie des sinus du nez
+J34.8	maladie des sinus nasaux
+J34.8	maladie des sinus de la face
+J01.4	pansinusite aiguë
+J32.4	pansinusite chronique
+J34.8	congestion des sinus de la face
+J34.8	congestion des sinus du nez
+J34.8	congestion des sinus paranasaux
+J33.1	polypose rhino-sinusienne déformante
+J33.1	syndrome de Woakes
+J33.1	ethmoïdite de Woakes
+J32.9	sinusite
+J01.9	sinusite aiguë
+J01.9	inflammation aiguë des sinus de la face
+J01.9	infection aiguë des sinus de la face
+J01.9	abcès aigu des sinus de la face
+J01.9	empyème aigu des sinus de la face
+J01.9	suppuration aiguë des sinus de la face
+J01.9	sinusite aiguë suppurée
+J01.9	inflammation suppurée aiguë des sinus de la face
+J32.9	sinusite chronique
+J32.9	infection chronique des sinus
+J33.8	polype des sinus paranasaux
+J33.8	polype des sinus du nez
+J33.8	polype des sinus nasaux
+J33.8	polype des sinus de la face
+J34.1	kyste des sinus paranasaux
+J34.1	kyste des sinus du nez
+J34.1	kyste des sinus nasaux
+J34.1	mucocèle des sinus du nez
+J34.1	kyste mucoïde des sinus du nez
+J34.1	mucocèle des sinus nasaux
+J34.1	kyste mucoïde des sinus nasaux
+J34.1	mucocèle des sinus de la face
+J34.1	kyste mucoïde des sinus de la face
+J32.0	sinusite maxillaire
+J01.0	sinusite maxillaire aiguë
+J01.0	abcès aigu des sinus maxillaires
+J01.0	empyème aigu des sinus maxillaires
+J01.0	suppuration aiguë des sinus maxillaires
+J01.0	inflammation suppurée aiguë des sinus maxillaires
+J32.0	sinusite maxillaire chronique
+J33.8	polype des sinus maxillaires
+J33.8	polype hernié des sinus maxillaires
+J33.8	polype antral maxillaire hernié
+J98.4	kyste cilié chirurgical
+J32.1	sinusite frontale
+J01.1	sinusite frontale aiguë
+J01.1	abcès aigu des sinus frontaux
+J01.1	empyème aigu des sinus frontaux
+J01.1	suppuration aiguë des sinus frontaux
+J01.1	inflammation suppurée aiguë des sinus frontaux
+J32.1	sinusite frontale chronique
+J32.2	sinusite ethmoïdale
+J01.2	sinusite ethmoïdale aiguë
+J01.2	abcès aigu des sinus ethmoïdaux
+J01.2	empyème aigu des sinus ethmoïdaux
+J01.2	suppuration aiguë des sinus ethmoïdaux
+J01.2	inflammation suppurée aiguë des sinus ethmoïdaux
+J32.2	sinusite ethmoïdale chronique
+J33.8	polype des sinus ethmoïdaux
+J01.0	antrite aiguë
+J32.0	antrite chronique
+J32.3	sinusite sphénoïdale
+J01.3	sinusite sphénoïdale aiguë
+J01.3	abcès aigu des sinus sphénoïdaux
+J01.3	empyème aigu des sinus sphénoïdaux
+J01.3	suppuration aiguë des sinus sphénoïdaux
+J01.3	inflammation suppurée aiguë des sinus sphénoïdaux
+J32.3	sinusite sphénoïdale chronique
+J33.8	polype des sinus sphénoïdaux
+J34.8	maladie du nez
+J30.4	rhinite allergique
+J30.1	rhinite allergique saisonnière
+J30.1	rhume des foins
+J30.1	rhinorrhée spasmodique
+J30.1	rhinite allergique due à une substance allergène
+J30.1	rhinite allergique due au pollen
+J30.1	pollinose
+J30.1	rhinite allergique due au pollen des arbres
+J30.1	rhinite allergique due au pollen des graminées
+J30.1	rhinite allergique due au pollen des mauvaises herbes
+J30.4	rhinite atopique
+J30.4	rhinite allergique apériodique
+J30.4	rhinite allergique non saisonnière
+J30.3	rhinite allergique causée par des animaux
+J30.0	rhinite vasomotrice
+J00	rhinite éosinophile non allergique
+J34.0	nécrose des cornets du nez
+J34.8	atrophie des cornets du nez
+J34.3	hypertrophie des cornets du nez
+J34.8	rhinolithe
+J34.8	calcul nasal
+J34.8	anomalie de la cloison nasale
+J34.2	déviation acquise de la cloison nasale
+J34.0	abcès du nez
+J34.0	abcès nasal
+J34.0	abcès de la cloison nasale
+J34.0	nécrose du nez
+J34.0	nécrose nasale
+J34.0	nécrose de la cloison nasale
+J34.0	ulcère du nez
+J34.0	ulcère nasal
+J34.0	ulcère de la cloison nasale
+J34.8	perforation de la cloison nasale
+J34.8	cloison nasale perforée
+J33.9	polype nasal
+J33.9	polype de la cavité nasale
+J31.0	rhinite
+J31.0	irritation du nez
+J31.0	rhinite chronique
+J31.0	rhinite médicamenteuse
+J31.0	rhinite sèche
+J31.0	rhinite atrophique
+J31.0	rhinite granulomateuse
+J31.0	rhinite hypertrophique
+J31.0	rhinite obstructive
+J31.0	rhinite purulente
+J31.0	rhinite ulcéreuse
+J31.0	inflammation vestibulaire nasale
+J31.0	vestibulite nasale
+J00	écoulement nasal
+J00	sécrétion nasale
+J00	écoulement nasal catarrhal
+J00	écoulement nasal purulent
+J00	sécrétion rétro-nasale
+J00	écoulement dans l'arrière-nez
+J00	nasopharyngite
+J00	rhinopharyngite
+J31.1	rhinopharyngite chronique
+J39.1	cellulite du rhinopharynx
+J39.1	abcès du rhinopharynx
+J39.2	kyste du rhinopharynx
+J39.2	oedème du rhinopharynx
+J39.2	oedème du nasopharynx
+J33.0	polype choanal
+J33.0	polype des choanes
+J33.0	polype rhinopharyngé
+J33.0	polype du rhinopharynx
+J39.2	maladie du pharynx
+J02.9	pharyngite
+J02.9	irritation de la gorge
+J02.9	pharyngite aiguë
+J02.9	mal de gorge aigu
+J02.9	pharyngite infectieuse
+J02.9	pharyngite gangréneuse
+J39.1	pharyngite phlegmoneuse
+J02.9	pharyngite suppurée
+J02.9	pharyngite ulcéreuse
+J31.2	pharyngite chronique
+J31.2	mal de gorge chronique
+J31.2	pharyngite atrophique
+J31.2	pharyngite granuleuse chronique
+J31.2	pharyngite hypertrophique
+J39.1	cellulite du pharynx
+J39.1	cellulite pharyngée
+J39.1	cellulite parapharyngée
+J39.0	abcès parapharyngé
+J39.0	abcès rétropharyngé
+J39.2	oedème du pharynx
+J39.2	oedème de la gorge
+J39.2	oedème pharyngé
+J39.2	kyste du pharynx
+J39.1	abcès du pharynx
+J39.2	paralysie pharyngée
+J39.2	parésie du pharynx
+J39.2	parésie pharyngée
+J39.2	diverticulite pharyngée
+J39.2	catarrhe rétronasal chronique
+J39.2	angine de Tornwaldt
+J39.2	inflammation de la bourse pharyngienne
+J39.2	perforation du pharynx
+J39.2	perforation pharyngée
+J39.2	perforation traumatique du pharynx
+J39.2	perforation iatrogénique du pharynx
+J39.2	perforation du diverticule pharyngien
+J38.7	maladie du larynx
+J04.0	laryngite
+J04.0	laryngite aiguë
+J04.0	laryngite oedémateuse
+J04.0	laryngite suppurée
+J04.0	laryngite ulcéreuse
+J05.0	laryngite obstructive aiguë
+J37.0	ozène du larynx
+J37.0	laryngite chronique
+J37.0	laryngite catarrhale
+J37.0	laryngite hypertrophique
+J37.0	laryngite sèche
+J06.0	laryngopharyngite aiguë
+J37.1	laryngotrachéite chronique
+J38.7	abcès du larynx
+J38.7	nécrose du larynx
+J38.7	laryngomalacie
+J04.2	laryngotrachéite
+J40	laryngotrachéobronchite
+J04.2	laryngotrachéite aiguë
+J04.2	laryngotrachéite aiguë sans mention d'obstruction
+J05.0	laryngotrachéite aiguë avec obstruction
+J38.7	périchondrite du larynx
+J38.7	cellulite du larynx
+J38.0	paralysie du larynx
+J38.0	laryngoplégie
+J38.0	parésie du larynx
+J38.0	parésie laryngée
+J38.0	hémiplégie laryngée
+J38.6	sténose du larynx
+J38.6	obstruction du larynx
+J38.5	spasme laryngé
+J38.7	leucoplasie laryngée
+J38.7	pachydermie blanche laryngée
+J38.7	pachydermie laryngée
+J38.7	ulcère du larynx
+J38.7	ulcération du larynx
+J38.4	oedème du larynx
+J38.4	oedème laryngé
+J38.1	polype du larynx
+J38.2	nodule laryngé
+J38.1	polype laryngé
+J38.7	granulome du larynx
+J38.3	maladie des cordes vocales
+J38.0	paralysie de la glotte
+J38.0	paralysie des cordes vocales
+J38.0	parésie des cordes vocales
+J38.0	paralysie unilatérale partielle des cordes vocales
+J38.0	paralysie unilatérale complète des cordes vocales
+J38.0	paralysie bilatérale partielle des cordes vocales
+J38.0	paralysie bilatérale complète des cordes vocales
+J38.3	épaississement des cordes vocales
+J38.1	polype des cordes vocales
+J38.2	nodules des chanteurs
+J38.3	abcès des cordes vocales
+J38.3	cellulite des cordes vocales
+J38.3	granulome des cordes vocales
+J38.3	leucoplasie des cordes vocales
+J38.2	cordite
+J38.4	oedème de la glotte
+J38.4	oedème glottique
+J38.4	oedème sous-glottique
+J38.4	sténose sous-glottique
+J38.4	oedème sus-glottique
+J05.1	épiglottite
+J05.1	épiglottite aiguë
+J05.1	épiglottite aiguë sans mention d'obstruction
+J05.1	épiglottite aiguë avec obstruction
+J98.0	maladie de la trachée
+J04.1	trachéite
+J04.1	trachéite aiguë
+J04.1	trachéite catarrhale
+J04.1	trachéite aiguë sans mention d'obstruction
+J04.1	trachéite aiguë avec obstruction
+J39.8	abcès de la trachée
+J39.8	cicatrice de la trachée
+J39.8	obstruction de la trachée
+J39.8	obstruction trachéale
+J39.8	obstruction extrinsèque de la trachée
+J39.8	déviation de la trachée
+J39.8	déviation trachéale
+J42	trachéobronchite
+J20.9	trachéobronchite aiguë
+J42	trachéite chronique
+J42	trachéobronchite chronique
+J39.8	calcification de la trachée
+J39.8	trachéopathie ostéoplastique
+J39.8	trachéobronchopathie chondro-ostéoplastique
+J38.6	sténose de la trachée
+J38.6	sténose trachéale
+J39.8	ulcère de la trachée
+J39.8	trachéocèle
+J39.8	diverticulose de la trachée
+J39.8	trachéomalacie
+J39.8	perforation de la trachée
+J39.8	perforation trachéale
+J95.0	complication de trachéostomie
+J95.0	hémorragie de l'orifice de trachéostomie
+J95.0	infection de l'orifice de trachéostomie
+J95.0	obstruction de l'orifice de trachéostomie
+J95.0	sténose de la trachée consécutive à une trachéostomie
+J95.0	fistule trachéo-oesophagienne consécutive à une trachéostomie
+J86.0	fistule trachéo-oesophagienne
+J98.0	collapsus acquis de la trachée
+J98.0	maladie des bronches
+J40	bronchite
+J40	bronchite catarrhale
+J20.9	bronchite aiguë
+J20.9	bronchite aiguë avec bronchospasme
+J20.9	bronchite aiguë avec obstruction
+J20.9	bronchite subaiguë
+J20.9	bronchite croupale
+J20.9	bronchite fibrineuse
+J20.9	bronchite pseudo-membraneuse
+J20.9	bronchite purulente
+J20.9	bronchite septique
+J42	bronchite chronique
+J41.0	bronchite chronique simple
+J41.0	bronchite catarrhale chronique
+J41.0	toux des fumeurs
+J41.1	bronchite chronique mucopurulente
+J41.1	bronchite chronique purulente
+J41.1	bronchite chronique fétide
+J44.8	bronchite chronique obstructive
+J44.8	bronchite asthmatique chronique
+J44.8	bronchite emphysémateuse
+J44.8	bronchite avec obstruction des voies respiratoires
+J44.8	bronchite chronique avec emphysème
+J98.0	bronchomucocèle
+J98.0	enclavement mucoïde des bronches
+J98.0	calcification bronchique
+J98.0	calcification des bronches
+J98.0	minéralisation bronchique
+J98.0	sténose bronchique
+J98.0	sténose des bronches
+J98.0	bronchosténose
+J98.0	compression bronchique
+J98.0	obstruction des bronches
+J98.0	obstruction bronchique
+J98.0	ulcère bronchique
+J98.0	ulcère des bronches
+J98.0	bronchomalacie
+J98.0	broncholithiase
+J86.0	fistule broncho-oesophagienne acquise
+J86.0	fistule broncho-pleurale acquise
+J47	bronchiectasie
+J47	bronchectasie
+J47	bronchiectasie de l'enfant
+J47	bronchectasie de l'enfant
+J47	bronchiectasie de l'adulte
+J47	bronchectasie de l'adulte
+J47	bronchiectasie cylindrique
+J47	bronchectasie cylindrique
+J47	bronchiectasie fusiforme
+J47	bronchectasie fusiforme
+J47	bronchiectasie sacciforme
+J47	bronchectasie sacciforme
+J47	bronchiectasie de traction
+J47	bronchectasie de traction
+J47	bronchocèle
+J98.0	diverticule bronchique
+J98.0	maladie des bronchioles
+J21.9	bronchiolite
+J21.9	bronchiolite aiguë
+J21.9	bronchite capillaire
+J21.9	bronchiolite nécrosante
+J21.9	bronchiolite aiguë avec bronchospasme
+J21.9	bronchiolite aiguë avec obstruction
+J21.9	bronchiolite oblitérante
+J21.9	bronchiolite oblitérante aiguë
+J21.9	bronchiolite exsudative
+J21.9	bronchiolite oblitérante subaiguë
+J21.9	bronchiolite oblitérante chronique
+J21.9	bronchiolite fibreuse oblitérante
+J47	bronchiolectasie
+J98.0	constriction des bronchioles
+J98.0	ulcération des bronchioles
+J98.4	maladie du poumon
+J98.4	maladie pulmonaire
+J96.1	syndrome respiratoire restrictif
+J84.8	condensation pulmonaire
+J98.4	coloration anormale du poumon
+J98.4	marbrure du poumon
+J98.4	poumon marbré
+J98.4	pâleur du poumon
+J98.4	poumon pâle
+J18.0	bronchopneumonie
+J18.0	pneumonie segmentaire
+J18.0	bronchopneumonie aiguë
+J18.0	bronchopneumonie confluente avec formation d'abcès
+J18.0	pneumonie péribronchique
+J18.0	bronchopneumonie hémorragique
+J18.8	bronchopneumonie nécrosante
+J18.0	bronchopneumonie terminale
+J18.8	pleuropneumonie
+J18.9	pneumonie
+J18.9	pneumopathie inflammatoire
+J18.8	pneumonie focale
+J18.0	pneumonie confluente
+J18.8	pneumonie mucineuse aiguë
+J18.0	pneumonie résiduelle
+J18.1	pneumonie lobaire résiduelle
+J18.8	pneumonie organisée
+J69.0	pneumonie par aspiration
+J95.4	pneumopathie par aspiration
+J69.0	pneumonie par inhalation
+J69.8	pneumonie à corps étranger
+J69.0	pneumonie par aspiration d'aliments régurgités
+J69.0	pneumonie par aspiration de sécrétions gastriques régurgitées
+J69.0	pneumonie par aspiration de lait
+J69.0	pneumonie par aspiration de vomissements
+J69.8	pneumonie par aspiration due à une quasi-noyade
+J69.1	pneumopathie par aspiration de substance huileuse
+J69.1	pneumonie graisseuse
+J69.1	pneumonie lipoïdique exogène
+J69.1	pneumonie lipidique
+J69.1	pneumonie lipoïdique
+J69.1	pneumonie par aspiration d'huile
+J69.1	pneumopathie huileuse
+J69.1	pneumopathie lipidique
+J69.1	pneumopathie due à l'inhalation d'essences
+J43.9	emphysème pulmonaire
+J43.9	emphysème du poumon
+J44.8	emphysème obstructif
+J43.2	emphysème centro-acinaire
+J43.2	emphysème centrolobulaire
+J43.1	emphysème panacinaire
+J43.1	emphysème panlobulaire
+J43.1	emphysème vésiculaire
+J43.8	emphysème paraseptal
+J43.8	emphysème lobulaire périphérique
+J43.8	emphysème sous-pleural
+J43.0	emphysème unilatéral
+J43.0	syndrome de Swyer-James
+J43.0	poumon hyperclair unilatéral
+J43.0	syndrome de MacLeod
+J43.9	bulle d'emphysème pulmonaire
+J43.9	emphysème bulleux
+J43.9	bulle d'emphysème pulmonaire rompue
+J43.9	emphysème bulleux géant
+J43.9	poumon évanescent
+J98.2	emphysème pulmonaire interstitiel
+J98.3	emphysème compensateur
+J45.9	asthme
+J45.9	asthme bronchique
+J45.9	bronchite asthmatique
+J45.1	asthme d'effort
+J69.8	asthme dû à un agent chimique
+J69.8	asthme dû à l'action d'un médicament
+J45.9	asthme sans état de mal asthmatique
+J46	asthme avec état de mal asthmatique
+J45.0	asthme extrinsèque
+J45.0	bronchite allergique
+J45.0	asthme atopique
+J45.0	asthme infantile
+J45.0	asthme allergique
+J45.0	asthme allergique de cause précisée
+J45.8	asthme allergique et infectieux
+J45.0	asthme des foins
+J45.0	rhume des foins avec asthme
+J45.0	asthme extrinsèque sans état de mal asthmatique
+J46	asthme extrinsèque avec état de mal asthmatique
+J45.1	asthme intrinsèque
+J45.1	asthme tardif
+J45.1	asthme dû à un processus immunologique interne
+J45.1	asthme intrinsèque sans état de mal asthmatique
+J46	asthme intrinsèque avec état de mal asthmatique
+J46	état de mal asthmatique
+J46	attaque d'asthme
+J68.9	maladie pulmonaire liée à l'environnement
+J68.8	syndrome respiratoire du fumeur
+J68.8	tabagisme passif
+J70.9	pneumopathie professionnelle
+J70.9	maladie pulmonaire professionnelle
+J70.9	maladie respiratoire professionnelle
+J70.9	maladie professionnelle par inhalation
+J70.9	bronchite professionnelle
+J70.9	bronchite chronique professionnelle
+J45.9	asthme professionnel
+J64	pneumoconiose
+J60	pneumoconiose des mineurs de charbon
+J60	anthracose
+J60	pneumopathie des mineurs de charbon
+J60	poumon des mineurs de charbon
+J60	pneumomélanose
+J60	anthracose des mineurs
+J60	pneumoconiose des houilleurs
+J60	pneumoconiose anthracosique
+J60	anthracosilicose
+J62.8	pneumoconiose à la silice
+J62.8	silicose
+J62.8	silicose simple
+J62.8	silicose compliquée
+J62.8	fibrose silicotique massive du poumon
+J62.8	pneumoconiose due aux silicates
+J62.8	silicatose
+J62.0	pneumoconiose due au talc
+J62.0	talcose
+J62.0	pneumoconiose du talc
+J62.0	maladie du poumon due au talc
+J62.0	pneumoconiose due à la poussière du talc
+J63.8	platinose
+J61	asbestose
+J61	amiantose
+J61	pneumoconiose à l'amiante
+J99.0*	pneumoconiose rhumatoïde
+J99.0*	silicoarthrite
+J99.0*	pneumopathie rhumatoïde
+J99.0*	syndrome de Caplan
+J99.0*	poumon rhumatoïde
+J63.8	maladie due à la terre de diatomées
+J63.8	maladie de la terre d'infusoires
+J63.8	maladie de la terre à foulon
+J62.8	chalicose
+J62.8	liparitose
+J63.4	sidérosilicose
+J63.4	maladie pulmonaire des mineurs d'hématite
+J63.4	poumon des fondeurs d'hématite
+J63.4	pneumoconiose à hématite
+J63.4	silicosidérose
+J64	pneumoconiose due à des poussières inorganiques
+J64	pneumoconiose de surcharge
+J64	pneumoconiose non sclérogène
+J63.8	pneumoconiose collagène
+J63.8	pneumoconiose sclérogène
+J63.8	pneumoconiose fibrogène
+J63.8	pneumoconiose au métal dur
+J63.8	kaolinose
+J63.8	pneumoconiose due à l'argile à porcelaine
+J63.8	pneumoconiose due au kaolin
+J63.8	pneumoconiose à poussières mixtes
+J63.0	aluminose du poumon
+J63.0	aluminose
+J63.0	pneumoconiose à l'aluminium
+J63.1	fibrose du poumon due à la bauxite
+J63.1	maladie des travailleurs de la bauxite
+J63.1	poumon des fondeurs de corindon
+J63.1	poumon de bauxite
+J63.1	fibrose due à la bauxite
+J63.1	fibrose de bauxite
+J63.1	pneumoconiose due à la bauxite
+J63.8	barytose
+J63.8	maladie pulmonaire au baryum
+J63.2	bérylliose pulmonaire
+J63.2	maladie du béryllium
+J63.2	bérylliose
+J63.2	bérylliose aiguë
+J63.2	bérylliose pulmonaire aiguë
+J63.2	bérylliose chronique
+J63.2	granulomatose béryllienne
+J63.2	bérylliose pulmonaire chronique
+J63.8	pneumonie au cadmium
+J63.8	cadmiose
+J63.3	fibrose pulmonaire au graphite
+J63.3	graphitose
+J63.3	pneumoconiose du graphite
+J63.3	maladie pulmonaire au graphite
+J63.8	stibiose
+J63.4	sidérose pulmonaire
+J63.4	maladie des soudeurs à l'arc
+J63.4	poumon des soudeurs à l'arc
+J63.4	pneumoconiose des soudeurs à l'arc
+J63.4	pneumoconiose de fer
+J63.4	pneumoconiose des mineurs de fer
+J63.4	sidérose
+J63.8	maladie des polisseurs d'argenterie
+J63.8	intoxication par l'hydrogène arsénié
+J63.5	stannose
+J63.5	poumon des mineurs d'étain
+J63.5	pneumoconiose due à l'étain
+J63.8	pneumoconiose des fabricants d'électrodes de carbone
+J63.8	cobaltose
+J63.8	manganisme
+J63.8	intoxication par le manganèse
+J63.8	pneumonie manganique
+J68.8	intoxication par organophosphorés
+J68.8	intoxication par insecticides organophosphorés
+J63.8	bituminose
+J63.8	schistose
+J63.8	maladie des ardoisiers
+J66.8	pneumopathie liée à l'inhalation de poussières
+J66.0	byssinose
+J66.0	maladie pulmonaire des fileurs de coton
+J66.0	byssinosis
+J66.8	maladie des travailleurs du sisal
+J66.8	pneumopathie du sisal
+J66.2	cannabinose
+J66.2	cannabiose
+J66.8	toux des tisserands
+J66.1	maladie des apprêteurs du lin
+J66.1	maladie des travailleurs du lin
+J68.9	affection respiratoire due à l'inhalation de fumées et de vapeurs chimiques
+J68.2	inflammation des voies respiratoires supérieures due à l'inhalation de fumées et de vapeurs chimiques
+J68.2	fièvre des fondeurs
+J68.2	fièvre des métaux
+J68.2	maladie des fondeurs
+J68.2	tremblement des fondeurs
+J68.2	fièvre des fondeurs de laiton
+J68.2	maladie des chaudronniers
+J68.2	intoxication au laiton
+J68.2	syndrome des fondeurs
+J68.2	fièvre des fondeurs de zinc
+J68.2	fièvre du zinc
+J68.2	maladie des galvaniseurs
+J68.2	fièvre du zingueur
+J68.2	fièvre due à des vapeurs de polymère
+J68.2	tremblement des travailleurs du téflon
+J68.0	bronchite due à l'inhalation de fumées et de vapeurs chimiques
+J68.0	bronchite aiguë due à des produits chimiques
+J68.2	fièvre du cuivre
+J68.0	pneumopathie due à l'inhalation de fumées et de vapeurs chimiques
+J68.0	pneumonie chimique
+J68.0	pneumopathie chimique
+J68.0	poumon toxique
+J68.1	oedème pulmonaire aigu dû à l'inhalation de fumées et de vapeurs chimiques
+J68.1	oedème pulmonaire aigu dû à des produits chimiques
+J68.4	affection respiratoire chronique due à l'inhalation de fumées et de vapeurs chimiques
+J68.4	emphysème diffus chronique dû à l'inhalation de fumées et de vapeurs chimiques
+J68.4	bronchiolite oblitérante chronique due à l'inhalation de fumées et de vapeurs chimiques
+J68.4	bronchiolite oblitérante subaiguë due à l'inhalation de fumées et de vapeurs chimiques
+J68.4	fibrose pulmonaire chronique due à l'inhalation de fumées et de vapeurs chimiques
+J68.8	pneumopathie des ensileurs
+J68.8	maladie des ouvriers des silos
+J68.8	maladie des travailleurs de silos
+J69.8	pneumopathie due aux substances solides
+J69.8	pneumopathie due aux substances liquides
+J70.0	pneumonite radique
+J70.0	alvéolite pulmonaire par irradiation
+J70.1	fibrose pulmonaire post-radique
+J70.1	fibrose du poumon après irradiation
+J67.9	alvéolite allergique extrinsèque
+J67.9	pneumonite d'hypersensibilité
+J67.9	bronchopneumopathie immunologique
+J67.9	pneumonie d'hypersensibilité
+J67.9	alvéolite allergique
+J67.9	pneumonite allergique
+J67.9	pneumopathie allergique extrinsèque
+J69.8	asthme dû aux détergents
+J69.8	poumon des ouvriers de l'industrie des détergents
+J69.8	maladie pulmonaire enzymatique
+J69.8	maladie des ouvriers de produits détergents
+J69.8	maladie des ouvriers d'usine de détergents
+J67.0	poumon des fermiers
+J67.0	maladie du poumon de fermier
+J67.0	poumon de fermier
+J67.1	bagassose
+J67.1	syndrome de Jameson-Hopkins
+J67.1	maladie due à la bagasse
+J67.1	pneumopathie due à la bagasse
+J67.1	pneumopathie des travailleurs de la canne à sucre
+J67.2	poumon des éleveurs d'oiseaux
+J67.2	poumon des oiseleurs
+J67.2	maladie des éleveurs d'oiseaux
+J67.2	hypersensibilité aux protéines aviaires
+J67.2	maladie des éleveurs de perruches
+J67.2	poumon des éleveurs de perruches
+J67.2	maladie des éleveurs de pigeons
+J67.2	poumon des éleveurs de pigeons
+J67.3	subérose
+J67.3	maladie des ouvriers du liège
+J67.3	maladie des travailleurs du liège
+J67.4	poumon des malteurs
+J67.4	alvéolite due à Aspergillus clavatus et fumigatus
+J67.4	maladie des malteurs
+J67.4	poumon des travailleurs du malt
+J67.4	fièvre du malt
+J67.5	poumon des champignonnistes
+J67.5	maladie des champignonnistes
+J67.5	maladie des travailleurs de champignons
+J67.6	poumon des écorceurs de troncs d'érables
+J67.6	cryptostromose
+J67.6	alvéolite due à Cryptostroma corticale
+J67.6	coniosporiose
+J67.6	maladie des écorceurs de troncs d'érable
+J67.7	maladie des humidificateurs
+J67.7	maladie des climatiseurs
+J67.7	pneumonite due aux humidificateurs et systèmes d'air climatisé
+J67.7	pneumonite de ventilation
+J67.7	syndrome des édifices hermétiques
+J67.7	syndrome des édifices malsains
+J67.8	poumon des laveurs de fromage
+J67.8	poumon des travailleurs du fromage
+J67.8	poumon de fromager
+J67.8	maladie des laveurs de fromage
+J67.8	allergie aux phanères d'animaux de laboratoire
+J67.8	allergie aux phanères d'animaux
+J67.8	poumon des manipulateurs d'animaux
+J67.8	allergie aux animaux de laboratoire
+J67.8	poumon des techniciens de laboratoire d'animaux
+J67.8	poumon des torréfacteurs de café
+J67.8	maladie des torréfacteurs de café
+J45.0	asthme des emballeurs de viande
+J67.8	poumon des travailleurs des abats de poissons
+J45.0	asthme des meuniers
+J45.0	asthme des graines de céréales
+J45.0	toux des meuniers
+J67.8	fièvre des céréales
+J45.0	asthme des imprimeurs
+J68.8	maladie de surcharge pulmonaire
+J68.8	poumon des aérosols
+J68.8	thésorismose pulmonaire
+J68.8	maladie des aérosols pour cheveux
+J68.8	maladie par aérosols
+J67.8	maladie des goûteurs de thé
+J67.8	toux des travailleurs du thé
+J67.8	asthme des fabricants de thé
+J67.8	toux des goûteurs de thé
+J68.4	poumon des sulfateurs de vigne
+J67.8	maladie des charançons de blé
+J67.8	pneumonie d'hypersensibilité aux antigènes d'insectes
+J67.8	poumon des fourreurs
+J67.8	maladie des minotiers et des grainetiers
+J67.8	poumon des travailleurs du grain
+J67.8	maladie des travailleurs du grain
+J67.8	séquoiose
+J67.8	pneumopathie due au cèdre rouge
+J67.8	asthme au cèdre rouge
+J67.8	maladie due au séquoïa
+J67.8	asthme au bois
+J67.8	pneumopathie due au bois
+J67.8	maladie des travailleurs du bois
+J67.8	maladie des ouvriers du bois
+J67.8	pneumopathie des ouvriers des bois exotiques
+J67.8	maladie des bois exotiques
+J67.8	pneumonie à la poussière de bois
+J45.0	asthme des boulangers
+J45.0	asthme à la farine
+J67.8	maladie des trieurs de plumes
+J67.8	asthme dû aux plumes
+J44.9	maladie pulmonaire obstructive chronique
+J44.9	BPCO
+J44.9	bronchopneumopathie chronique obstructive
+J44.9	MPOC
+J44.9	maladie pulmonaire chronique non spécifique
+J80	syndrome de détresse respiratoire de l'adulte
+J80	poumon de choc
+J80	SDRA
+J80	insuffisance pulmonaire consécutive à un choc
+J80	insuffisance pulmonaire consécutive à une intervention chirurgicale
+J80	insuffisance pulmonaire consécutive à un traumatisme
+J80	insuffisance pulmonaire post-traumatique
+J80	poumon de choc traumatique
+J80	atélectasie congestive
+J80	poumon de DaNang
+J80	poumon du Vietnam
+J69.8	syndrome de submersion - post-immersion
+J80	syndrome de détresse respiratoire idiopathique
+J96.9	insuffisance respiratoire
+J96.0	insuffisance respiratoire aiguë
+J96.0	insuffisance respiratoire chronique acutisée
+J96.1	insuffisance respiratoire chronique
+J96.0	détresse respiratoire aiguë, NCA
+J96.0	insuffisance respiratoire aiguë, NCA
+J69.0	syndrome d'aspiration chez l'adulte
+J98.1	atélectasie
+J98.1	collapsus pulmonaire
+J98.1	affaissement des alvéoles pulmonaires
+J98.1	collapsus du poumon
+J98.1	atélectasie aiguë
+J98.1	atélectasie discoïde
+J98.1	atélectasie sous-segmentaire
+J98.1	atélectasie linéaire
+J98.1	atélectasie focale
+J98.1	atélectasie lobulaire
+J98.1	atélectasie chronique
+J98.1	atélectasie complète
+J98.1	atélectasie obstructive
+J98.1	atélectasie par compression
+J98.1	atélectasie complète du poumon gauche
+J98.1	atélectasie complète du poumon droit
+J82	éosinophilie pulmonaire
+J82	asthme éosinophile
+J82	pneumonie à éosinophiles
+J82	pneumonie allergique
+J82	syndrome de Löffler
+J99.8*	poumon urémique
+J99.8*	pneumonie urémique
+J84.0	pneumopathie alvéolaire
+J84.0	pneumopathie pariéto-alvéolaire
+J84.0	protéinose alvéolaire pulmonaire
+J84.0	microlithiase alvéolaire pulmonaire
+J84.0	microlithiase alvéolaire du poumon
+J84.1	alvéolite fibreuse cryptogénétique
+J84.1	alvéolite fibreuse idiopathique
+J84.1	alvéolite fibrosante idiopathique
+J84.1	alvéolite fibreuse cryptogénétique aiguë fatale
+J84.1	syndrome d'Hamman-Rich
+J84.1	sclérose pulmonaire idiopathique
+J84.1	fibrose pulmonaire interstitielle diffuse
+J84.1	maladie de Hamman-Rich
+J84.1	alvéolite fibreuse idiopathique, forme aiguë fatale
+J84.1	alvéolite fibreuse cryptogénétique subaiguë
+J84.1	alvéolite fibreuse idiopathique, forme subaiguë
+J84.1	alvéolite fibrosante idiopathique, forme subaiguë
+J84.1	syndrome de Scadding
+J84.1	alvéolite fibreuse cryptogénétique chronique
+J84.1	alvéolite fibreuse idiopathique, forme chronique
+J84.1	alvéolite fibrosante idiopathique, forme chronique
+J84.1	alvéolite pulmonaire simple
+J84.1	alvéolite pulmonaire prolongée
+J84.1	alvéolite pulmonaire asthmatique
+J84.1	alvéolite pulmonaire tropicale
+J84.8	pneumonie lipoïdique endogène
+J84.8	pneumonie interstitielle
+J84.8	pneumonie réticulée hypertrophique
+J84.8	pneumopathie interstitielle
+J84.0	pneumonie interstitielle desquamative
+J84.0	pneumonie interstitielle desquamante
+J84.0	syndrome de Liebow
+J84.8	pneumonie interstitielle lymphoïde
+J84.8	pneumonie interstitielle lymphocytaire
+J99.0*	pneumonie rhumatismale
+J99.0*	pneumopathie rhumatismale
+J99.0*	alvéolite fibrosante rhumatoïde
+J99.0*	maladie rhumatoïde interstitielle diffuse du poumon
+J99.1*	lupus du poumon
+J85.2	abcès du poumon
+J85.0	pneumonie gangréneuse
+J85.0	pneumonie nécrosante
+J85.0	pneumonie nécrotique
+J85.0	gangrène pulmonaire
+J85.0	nécrose pulmonaire
+J81	oedème pulmonaire
+J81	oedème pulmonaire non cardiogénique
+J81	oedème du poumon non cardiogénique
+J81	oedème pulmonaire aigu
+J81	oedème aigu du poumon
+J81	oedème pulmonaire chronique
+J81	oedème pulmonaire post-opératoire
+J81	congestion pulmonaire
+J81	congestion pulmonaire chronique
+J18.2	bronchopneumonie hypostatique
+J18.2	pneumonie hypostatique
+J18.2	pneumonie passive
+J98.4	ossification pulmonaire
+J98.4	calcification du poumon
+J98.4	minéralisation pulmonaire
+J98.4	lithiase pulmonaire
+J98.4	pneumolithiase
+J84.1	fibrose pulmonaire post-inflammatoire
+J84.1	fibrose du poumon
+J84.1	cirrhose du poumon
+J84.1	fibrose pulmonaire
+J84.1	fibrose chronique du poumon
+J84.1	fibrose atrophique du poumon
+J84.1	fibrose confluente du poumon
+J84.1	fibrose massive du poumon
+J84.1	fibrose périalvéolaire du poumon
+J84.1	fibrose péribronchique du poumon
+J84.1	induration du poumon
+J84.1	induration chronique du poumon
+J99.1*	pseudolymphome pulmonaire au cours de la maladie de Sjögren
+J84.8	pseudotumeur lymphocytaire du poumon
+J84.8	pseudotumeur inflammatoire du poumon
+J94.9	maladie de la plèvre
+J94.9	affection pleurale
+J90	pleurésie fibrineuse
+J90	pleurésie sèche
+J90	pleurésie diaphragmatique
+J90	pleurésie interlobaire
+J94.8	calcification de la plèvre
+J94.8	calcification pleurale
+J94.8	adhérence de la plèvre
+J94.8	adhérence pleurale
+J94.8	pleurésie oblitérante
+J94.8	adhérences du poumon
+J94.8	adhérences pulmonaires
+J92.9	épaississement de la plèvre
+J92.9	pachypleurite
+J92.9	épaississement pleural fibreux
+J94.8	hyperplasie mésothéliale de la plèvre
+J90	épanchement pleural
+J94.2	hémopneumothorax
+J94.2	pneumohémothorax
+J94.2	hémothorax
+J94.2	hémorragie de la plèvre
+J94.2	hémorragie pleurale
+J94.8	hydropneumothorax
+J94.8	hydrothorax
+J94.8	épanchement pleural avec transsudat
+J91*	épanchement pleural dû à une insuffisance cardiaque congestive
+J91*	épanchement pleural associé à une affection hépatique
+J91*	épanchement pleural associé à une pancréatite
+J91*	épanchement pleural néoplasique
+J91*	épanchement pleural malin
+J91*	épanchement pleural associé à une infection pulmonaire
+J90	pleurésie avec épanchement
+J90	pleurésie exsudative
+J90	pleurésie sérofibrineuse
+J90	pleurésie séreuse aiguë
+J90	pleurésie fibrineuse aiguë
+J90	pleurésie séreuse
+J90	pleurésie enkystée
+J93.9	pneumothorax
+J93.8	pneumothorax fermé
+J93.8	pneumothorax ouvert
+J93.9	pneumothorax droit
+J93.9	pneumothorax gauche
+J93.8	pneumothorax aigu
+J93.8	pneumothorax chronique
+J93.1	pneumothorax spontané
+J93.0	pneumothorax suffocant
+J93.0	pneumothorax spontané avec pression positive
+J93.0	pneumothorax à soupape
+J94.0	chylothorax
+J94.0	pneumochylothorax
+J94.0	pseudochylothorax
+J86.9	empyème pleural
+J86.9	empyème pleural sans fistule
+J86.9	abcès du thorax
+J86.9	abcès de la cavité pleurale
+J86.9	pyopneumothorax
+J86.9	pleurésie purulente
+J86.9	pyothorax
+J86.9	pleurésie septique
+J86.9	pleurésie séropurulente
+J86.9	pleurésie fibrinopurulente
+J86.0	pyothorax avec fistule
+J86.0	empyème avec fistule pleurale
+J86.0	empyème avec fistule thoracique
+J86.0	empyème avec fistule broncho-pleurale
+J86.0	empyème avec fistule hépato-pleurale
+J86.0	empyème avec fistule médiastinale
+J86.0	empyème avec fistule broncho-cutanée
+J98.5	maladie du médiastin
+J98.5	médiastinite
+J98.5	médiastinite sclérosante
+J85.3	abcès du médiastin
+J98.5	hémomédiastin
+J98.5	fibrose du médiastin
+J98.5	fibrose médiastinale
+J98.5	rétraction du médiastin
+J98.5	hernie du médiastin
+J98.2	emphysème médiastinal
+J98.2	pneumomédiastin
+J98.5	déviation médiastinale
+J98.5	masse médiastinale
+J98.6	maladie du diaphragme
+J98.6	diaphragmatite
+J98.6	syndrome de Hedblom
+J98.6	diaphragmatite primitive aiguë
+J98.6	paralysie du diaphragme
+J98.6	paralysie diaphragmatique
+J98.6	parésie du diaphragme
+J98.6	parésie diaphragmatique
+J98.6	ptose du diaphragme
+J98.6	relâchement unilatéral du diaphragme
+J98.6	relâchement du diaphragme
+J98.6	relâchement diaphragmatique
+J98.6	surélévation du diaphragme
+J98.6	surélévation diaphragmatique
+J98.6	kyste diaphragmatique
+J98.6	adhérence du diaphragme
+J98.6	abcès intradiaphragmatique
+J38.2	nodules vocaux chez l'enfant
+J38.2	nodules vocaux chez l'adulte
+J38.3	ulcère de contact des cordes vocales
+J43.9	dystrophie pulmonaire progressive
+J67.7	syndrome des bâtiments malsains
+J67.7	syndrome des tours à bureaux
+J32.0	communication bucco-sinusale
+J39.2	myoclonie vélopalatine
+J39.2	nystagmus du voile du palais
+J86.0	fistule oesophago-bronchique
+J90	pleurésie d'origine pancréatique
+J35.9	maladie des amygdales et des végétations adénoïdes
+J35.9	maladie des amygdales
+J03.9	amygdalite
+J03.9	amygdalite aiguë
+J03.9	amygdalite infectieuse
+J03.9	amygdalite folliculaire
+J03.9	amygdalite gangréneuse
+J03.9	amygdalite suppurée
+J03.9	amygdalite septique
+J03.9	amygdalite ulcéreuse
+J35.9	maladie chronique des amygdales et des végétations adénoïdes
+J35.0	amygdalite chronique
+J35.3	hypertrophie des amygdales et des végétations adénoïdes
+J35.3	augmentation de volume des amygdales et des végétations adénoïdes
+J35.3	hyperplasie des amygdales et des végétations adénoïdes
+J35.1	hypertrophie des amygdales
+J35.1	hypertrophie amygdalienne
+J35.1	augmentation de volume des amygdales
+J35.1	hyperplasie des amygdales
+J35.8	amygdalolithe
+J35.8	calcul amygdalien
+J35.8	cicatrice amygdalienne
+J35.8	cicatrice adénoïdienne
+J35.8	lambeau amygdalien
+J35.8	ulcère de l'amygdale
+J36	abcès périamygdalien
+J36	phlegmon périamygdalien
+J36	cellulite périamygdalienne
+J36	abcès amygdalien
+J35.9	maladie des végétations adénoïdes
+J35.2	hypertrophie du tissu adénoïde
+J35.2	augmentation de volume des végétations adénoïdes
+J35.2	hyperplasie du tissu adénoïde
+J35.2	végétations adénoïdes
+J35.0	adénoïdite
+J95.9	complication respiratoire
+J95.4	syndrome de Mendelson après une intervention
+J95.4	syndrome d'aspiration du liquide gastrique acide dans les bronches
+J95.4	pneumonie par aspiration après une intervention
+J18.8	pneumonie interstitielle atypique primitive
+J18.8	pneumonie interstitielle atypique
+J18.8	pneumopathie atypique primitive
+J18.8	pneumonie atypique
+J18.8	bronchopneumopathie de type viral
+J15.9	pneumonie bactérienne
+J94.8	pleurésie bactérienne
+J90	pleurésie bactérienne avec épanchement
+J05.1	épiglottite bactérienne aiguë
+J01.9	sinusite bactérienne aiguë
+J03.0	amygdalite à pneumocoques
+J02.0	pharyngite pneumococcique
+J04.0	laryngite à pneumocoques
+J13	pneumonie pneumococcique
+J18.1	pneumonie fibrineuse
+J18.1	pneumonie franche
+J18.1	pneumonie lobaire
+J20.2	bronchite pneumococcique
+J02.0	mal de gorge streptococcique
+J02.0	mal de gorge à streptocoques
+J02.0	pharyngite streptococcique
+J02.0	angine à streptocoques
+J04.0+	laryngite streptococcique
+J03.0	amygdalite streptococcique
+J15.8+	pneumonie due au Streptococcus
+J15.8+	pneumonie streptococcique
+J90+	pleurésie streptococcique avec épanchement
+J14	pneumopathie due à Haemophilus influenzae
+J15.7	pneumonie à Mycoplasma
+J15.7	pneumonie primaire atypique à Mycoplasma pneumoniae
+J20.0	trachéo-bronchite à Mycoplasma
+J15.0	pneumonie à Klebsiella pneumoniae
+J15.1	pneumonie à Pseudomonas
+J15.5	pneumonie due à Escherichia coli
+J12.9	pneumonie virale
+J12.0	bronchopneumonie adénovirale
+J12.0	pneumonie adénovirale
+J20.4	bronchite à virus paragrippaux
+J12.2	bronchopneumonie à virus paragrippaux
+J12.2	pneumonie due aux virus paragrippaux
+J12.1	pneumonie à virus respiratoire syncytial
+J21.0	bronchiolite à virus respiratoire syncytial
+J20.5	bronchite à virus respiratoire syncytial
+J11.1	grippe
+J11.1	influenza
+J11.0	grippe avec pneumonie
+J11.0	pneumonie grippale
+J11.0	bronchopneumonie grippale
+J11.1	grippe avec d'autres manifestations respiratoires
+J11.1	infection grippale aiguë des voies respiratoires supérieures
+J11.1	pharyngite grippale
+J11.1	laryngite grippale
+J11.8	grippe avec d'autres manifestations
+J11.8	grippe avec encéphalopathie
+J11.8	grippe avec complications digestives
+J10.8+	myocardite à virus grippal
+J10.1	grippe due au virus grippal, type A, humain
+J10.1	grippe due au virus grippal, type A, porcin
+J10.1	grippe due au virus grippal, type B
+J10.1	grippe due au virus grippal, type C
+J10.1	grippe due à d'autres virus grippaux
+J10.1	grippe aviaire
+J10.1	peste aviaire classique
+J12.8	syndrome pulmonaire à hantavirus
+J00	rhume banal
+J00	rhinopharyngite aiguë
+J00	coryza
+J00	rhinorrhée aiguë
+J00	rhinopharyngite infectieuse
+J00	rhinite aiguë
+J00	rhinite infectieuse
+J16.8	pneumonie au cours de mycose systémique
+J82	éosinophilie tropicale
+J82	poumon tropical éosinophilique
+J82	syndrome de Meyers-Kouwenaar
+J82	syndrome de Weingarten
+J31.0	ozène
+J31.0	punaisie
+J31.0	rhinite chronique fétide

@@ -1,0 +1,1496 @@
+M00.0	arthrite à staphylocoques, articulation non spécifiée
+M00.11	arthrite à staphylocoques, épaule droite
+M00.12	arthrite à staphylocoques, épaule gauche
+M00.19	arthrite à staphylocoques, épaule non spécifiée
+M00.21	arthrite à staphylocoques, coude droit
+M00.22	arthrite à staphylocoques, coude gauche
+M00.29	arthrite à staphylocoques, coude non spécifié
+M00.31	arthrite à staphylocoques, poignet droit
+M00.32	arthrite à staphylocoques, poignet gauche
+M00.39	arthrite à staphylocoques, poignet non spécifié
+M00.41	arthrite à staphylocoques, main droite
+M00.42	arthrite à staphylocoques, main gauche
+M00.49	arthrite à staphylocoques, main non spécifiée
+M00.51	arthrite à staphylocoques, hanche droite
+M00.52	arthrite à staphylocoques, hanche gauche
+M00.59	arthrite à staphylocoques, hanche non spécifiée
+M00.61	arthrite à staphylocoques, genou droit
+M00.62	arthrite à staphylocoques, genou gauche
+M00.69	arthrite à staphylocoques, genou non spécifié
+M00.71	arthrite à staphylocoques, cheville et pied droits
+M00.72	arthrite à staphylocoques, cheville et pied gauches
+M00.79	arthrite à staphylocoques, cheville et pied non spécifiés
+M00.8	arthrite à staphylocoques, vertèbres
+M00.9	polyarthrite à staphylocoques
+M00.10	arthrite à pneumocoques, articulation non spécifiée
+M00.111	arthrite à pneumocoques, épaule droite
+M00.112	arthrite à pneumocoques, épaule gauche
+M00.119	arthrite à pneumocoques, épaule non spécifiée
+M00.121	arthrite à pneumocoques, coude droit
+M00.122	arthrite à pneumocoques, coude gauche
+M00.129	arthrite à pneumocoques, coude non spécifié
+M00.131	arthrite à pneumocoques, poignet droit
+M00.132	arthrite à pneumocoques, poignet gauche
+M00.139	arthrite à pneumocoques, poignet non spécifié
+M00.141	arthrite à pneumocoques, main droite
+M00.142	arthrite à pneumocoques, main gauche
+M00.149	arthrite à pneumocoques, main non spécifiée
+M00.151	arthrite à pneumocoques, hanche droite
+M00.152	arthrite à pneumocoques, hanche gauche
+M00.159	arthrite à pneumocoques, hanche non spécifiée
+M00.161	arthrite à pneumocoques, genou droit
+M00.162	arthrite à pneumocoques, genou gauche
+M00.169	arthrite à pneumocoques, genou non spécifié
+M00.171	arthrite à pneumocoques, cheville et pied droits
+M00.172	arthrite à pneumocoques, cheville et pied gauches
+M00.179	arthrite à pneumocoques, cheville et pied non spécifiés
+M00.18	arthrite à pneumocoques, vertèbres
+M00.19	polyarthrite à pneumocoques
+M00.20	autre arthrite à streptocoques, articulation non spécifiée
+M00.211	autre arthrite à streptocoques, épaule droite
+M00.212	autre arthrite à streptocoques, épaule gauche
+M00.219	autre arthrite à streptocoques, épaule non spécifiée
+M00.221	autre arthrite à streptocoques, coude droit
+M00.222	autre arthrite à streptocoques, coude gauche
+M00.229	autre arthrite à streptocoques, coude non spécifié
+M00.231	autre arthrite à streptocoques, poignet droit
+M00.232	autre arthrite à streptocoques, poignet gauche
+M00.239	autre arthrite à streptocoques, poignet non spécifié
+M00.241	autre arthrite à streptocoques, main droite
+M00.242	autre arthrite à streptocoques, main gauche
+M00.249	autre arthrite à streptocoques, main non spécifiée
+M00.251	autre arthrite à streptocoques, hanche droite
+M00.252	autre arthrite à streptocoques, hanche gauche
+M00.259	autre arthrite à streptocoques, hanche non spécifiée
+M00.261	autre arthrite à streptocoques, genou droit
+M00.262	autre arthrite à streptocoques, genou gauche
+M00.269	autre arthrite à streptocoques, genou non spécifié
+M00.271	autre arthrite à streptocoques, cheville et pied droits
+M00.272	autre arthrite à streptocoques, cheville et pied gauches
+M00.279	autre arthrite à streptocoques, cheville et pied non spécifiés
+M00.28	autre arthrite à streptocoques, vertèbres
+M00.29	autre polyarthrite à streptocoques
+M00.80	arthrite due à d'autres bactéries, articulation non spécifiée
+M00.811	arthrite due à d'autres bactéries, épaule droite
+M00.812	arthrite due à d'autres bactéries, épaule gauche
+M00.819	arthrite due à d'autres bactéries, épaule non spécifiée
+M00.821	arthrite due à d'autres bactéries, coude droit
+M00.822	arthrite due à d'autres bactéries, coude gauche
+M00.829	arthrite due à d'autres bactéries, coude non spécifié
+M00.831	arthrite due à d'autres bactéries, poignet droit
+M00.832	arthrite due à d'autres bactéries, poignet gauche
+M00.839	arthrite due à d'autres bactéries, poignet non spécifié
+M00.841	arthrite due à d'autres bactéries, main droite
+M00.842	arthrite due à d'autres bactéries, main gauche
+M00.849	arthrite due à d'autres bactéries, main non spécifiée
+M00.851	arthrite due à d'autres bactéries, hanche droite
+M00.852	arthrite due à d'autres bactéries, hanche gauche
+M00.859	arthrite due à d'autres bactéries, hanche non spécifiée
+M00.861	arthrite due à d'autres bactéries, genou droit
+M00.862	arthrite due à d'autres bactéries, genou gauche
+M00.869	arthrite due à d'autres bactéries, genou non spécifié
+M00.871	arthrite due à d'autres bactéries, cheville et pied droits
+M00.872	arthrite due à d'autres bactéries, cheville et pied gauches
+M00.879	arthrite due à d'autres bactéries, cheville et pied non spécifiés
+M00.88	arthrite due à d'autres bactéries, vertèbres
+M00.89	polyarthrite due à d'autres bactéries
+M00.9	arthrite à bactéries pyogènes, sans précision
+M01.X0	infection directe d'une articulation non spécifiée au cours de maladies infectieuses et parasitaires classées ailleurs
+M01.X11	infection directe de l'épaule droite au cours de maladies infectieuses et parasitaires classées ailleurs
+M01.X12	infection directe de l'épaule gauche au cours de maladies infectieuses et parasitaires classées ailleurs
+M01.X19	infection directe d'une épaule non spécifiée au cours de maladies infectieuses et parasitaires classées ailleurs
+M01.X21	infection directe du coude droit au cours de maladies infectieuses et parasitaires classées ailleurs
+M01.X22	infection directe du coude gauche au cours de maladies infectieuses et parasitaires classées ailleurs
+M01.X29	infection directe d'un coude non spécifié au cours de maladies infectieuses et parasitaires classées ailleurs
+M01.X31	infection directe du poignet droit au cours de maladies infectieuses et parasitaires classées ailleurs
+M01.X32	infection directe du poignet gauche au cours de maladies infectieuses et parasitaires classées ailleurs
+M01.X39	infection directe d'un poignet non spécifié au cours de maladies infectieuses et parasitaires classées ailleurs
+M01.X41	infection directe de la main droite au cours de maladies infectieuses et parasitaires classées ailleurs
+M01.X42	nfection directe de la main gauche au cours de maladies infectieuses et parasitaires classées ailleurs
+M01.X49	infection directe d'une main non spécifiée au cours de maladies infectieuses et parasitaires classées ailleurs
+M01.X51	infection directe de la hanche droite au cours de maladies infectieuses et parasitaires classées ailleurs
+M01.X52	infection directe de la hanche gauche au cours de maladies infectieuses et parasitaires classées ailleurs
+M01.X59	infection directe d'une hanche non spécifiée au cours de maladies infectieuses et parasitaires classées ailleurs
+M01.X61	infection directe du genou droit au cours de maladies infectieuses et parasitaires classées ailleurs
+M01.X62	infection directe du genou gauche au cours de maladies infectieuses et parasitaires classées ailleurs
+M01.X69	infection directe d'un genou non spécifié au cours de maladies infectieuses et parasitaires classées ailleurs
+M01.X71	infection directe de la cheville et du pied droits au cours de maladies infectieuses et parasitaires classées ailleurs
+M01.X72	infection directe de la cheville et du pied gauches au cours de maladies infectieuses et parasitaires classées ailleurs
+M01.X79	infection directe d'une cheville et d'un pied non spécifiés au cours de maladies infectieuses et parasitaires classées ailleurs
+M01.X8	infection directe de vertèbres au cours de maladies infectieuses et parasitaires classées ailleurs
+M01.X9	infection directe de multiples articulations au cours de maladies infectieuses et parasitaires classées ailleurs
+M02.0	arthropathie après un pontage-bypass intestinal, site non spécifié
+M02.11	arthropathie après un pontage-bypass intestinal, épaule droite
+M02.12	arthropathie après un pontage-bypass intestinal, épaule gauche
+M02.19	arthropathie après un pontage-bypass intestinal, épaule non spécifiée
+M02.21	arthropathie après un pontage-bypass intestinal, coude droit
+M02.22	arthropathie après un pontage-bypass intestinal, coude gauche
+M02.29	arthropathie après un pontage-bypass intestinal, coude non spécifié
+M02.31	arthropathie après un pontage-bypass intestinal, poignet droit
+M02.32	arthropathie après un pontage-bypass intestinal, poignet gauche
+M02.39	arthropathie après un pontage-bypass intestinal, poignet non spécifié
+M02.41	arthropathie après un pontage-bypass intestinal, main droite
+M02.42	arthropathie après un pontage-bypass intestinal, main gauche
+M02.49	arthropathie après un pontage-bypass intestinal, main non spécifiée
+M02.51	arthropathie après un pontage-bypass intestinal, hanche droite
+M02.52	arthropathie après un pontage-bypass intestinal, hanche gauche
+M02.59	arthropathie après un pontage-bypass intestinal, hanche non spécifiée
+M02.61	arthropathie après un pontage-bypass intestinal, genou droit
+M02.62	arthropathie après un pontage-bypass intestinal, genou gauche
+M02.69	arthropathie après un pontage-bypass intestinal, genou non spécifié
+M02.71	arthropathie après un pontage-bypass intestinal, cheville et pied droits
+M02.72	arthropathie après un pontage-bypass intestinal, cheville et pied gauches
+M02.79	arthropathie après un pontage-bypass intestinal, cheville et pied non spécifiés
+M02.8	arthropathie après un pontage-bypass intestinal, vertèbres
+M02.9	arthropathie après un pontage-bypass intestinal, multiples sites
+M02.10	arthropathie post-dysentérique, site non spécifié
+M02.111	arthropathie post-dysentérique, épaule droite
+M02.112	arthropathie post-dysentérique, épaule gauche
+M02.119	arthropathie post-dysentérique, épaule non spécifiée
+M02.121	arthropathie post-dysentérique, coude droit
+M02.122	arthropathie post-dysentérique, coude gauche
+M02.129	arthropathie post-dysentérique, coude non spécifié
+M02.131	arthropathie post-dysentérique, poignet droit
+M02.132	arthropathie post-dysentérique, poignet gauche
+M02.139	arthropathie post-dysentérique, poignet non spécifié
+M02.141	arthropathie post-dysentérique, main droite
+M02.142	arthropathie post-dysentérique, main gauche
+M02.149	arthropathie post-dysentérique, main non spécifiée
+M02.151	arthropathie post-dysentérique, hanche droite
+M02.152	arthropathie post-dysentérique, hanche gauche
+M02.159	arthropathie post-dysentérique, hanche non spécifiée
+M02.161	arthropathie post-dysentérique, genou droit
+M02.162	arthropathie post-dysentérique, genou gauche
+M02.169	arthropathie post-dysentérique, genou non spécifié
+M02.171	arthropathie post-dysentérique, cheville et pied droits
+M02.172	arthropathie post-dysentérique, cheville et pied gauches
+M02.179	arthropathie post-dysentérique, cheville et pied non spécifiés
+M02.18	arthropathie post-dysentérique, vertèbres
+M02.19	arthropathie post-dysentérique, multiples sites
+M02.20	arthropathie après une vaccination, site non spécifié
+M02.211	arthropathie après une vaccination, épaule droite
+M02.212	arthropathie après une vaccination, épaule gauche
+M02.219	arthropathie après une vaccination, épaule non spécifiée
+M02.221	arthropathie après une vaccination, coude droit
+M02.222	arthropathie après une vaccination, coude gauche
+M02.229	arthropathie après une vaccination, coude non spécifié
+M02.231	arthropathie après une vaccination, poignet droit
+M02.232	arthropathie après une vaccination, poignet gauche
+M02.239	arthropathie après une vaccination, poignet non spécifié
+M02.241	arthropathie après une vaccination, main droite
+M02.242	arthropathie après une vaccination, main gauche
+M02.249	arthropathie après une vaccination, main non spécifiée
+M02.251	arthropathie après une vaccination, hanche droite
+M02.252	arthropathie après une vaccination, hanche gauche
+M02.259	arthropathie après une vaccination, hanche non spécifiée
+M02.261	arthropathie après une vaccination, genou droit
+M02.262	arthropathie après une vaccination, genou gauche
+M02.269	arthropathie après une vaccination, genou non spécifié
+M02.271	arthropathie après une vaccination, cheville et pied droits
+M02.272	arthropathie après une vaccination, cheville et pied gauches
+M02.279	arthropathie après une vaccination, cheville et pied non spécifiés
+M02.28	arthropathie après une vaccination, vertèbres
+M02.29	arthropathie après une vaccination, multiples sites
+M02.30	maladie de Reiter, site non spécifié
+M02.311	maladie de Reiter, épaule droite
+M02.312	maladie de Reiter, épaule gauche
+M02.319	maladie de Reiter, épaule non spécifiée
+M02.321	maladie de Reiter, coude droit
+M02.322	maladie de Reiter, coude gauche
+M02.329	maladie de Reiter, coude non spécifié
+M02.331	maladie de Reiter, poignet droit
+M02.332	maladie de Reiter, poignet gauche
+M02.339	maladie de Reiter, poignet non spécifié
+M02.341	maladie de Reiter, main droite
+M02.342	maladie de Reiter, main gauche
+M02.349	maladie de Reiter, main non spécifiée
+M02.351	maladie de Reiter, hanche droite
+M02.352	maladie de Reiter, hanche gauche
+M02.359	maladie de Reiter, hanche non spécifiée
+M02.361	maladie de Reiter, genou droit
+M02.362	maladie de Reiter, genou gauche
+M02.369	maladie de Reiter, genou non spécifié
+M02.371	maladie de Reiter, cheville et pied droits
+M02.372	maladie de Reiter, cheville et pied gauches
+M02.379	maladie de Reiter, cheville et pied non spécifiés
+M02.38	maladie de Reiter, vertèbres
+M02.39	maladie de Reiter, multiples sites
+M02.80	d'autres arthropathies réactionnelles, site non spécifié
+M02.811	d'autres arthropathies réactionnelles, épaule droite
+M02.812	d'autres arthropathies réactionnelles, épaule gauche
+M02.819	d'autres arthropathies réactionnelles, épaule non spécifiée
+M02.821	d'autres arthropathies réactionnelles, coude droit
+M02.822	d'autres arthropathies réactionnelles, coude gauche
+M02.829	d'autres arthropathies réactionnelles, coude non spécifié
+M02.831	d'autres arthropathies réactionnelles, poignet droit
+M02.832	d'autres arthropathies réactionnelles, poignet gauche
+M02.839	d'autres arthropathies réactionnelles, poignet non spécifié
+M02.841	d'autres arthropathies réactionnelles, main droite
+M02.842	d'autres arthropathies réactionnelles, main gauche
+M02.849	d'autres arthropathies réactionnelles, main non spécifiée
+M02.851	d'autres arthropathies réactionnelles, hanche droite
+M02.852	d'autres arthropathies réactionnelles, hanche gauche
+M02.859	d'autres arthropathies réactionnelles, hanche non spécifiée
+M02.861	d'autres arthropathies réactionnelles, genou droit
+M02.862	d'autres arthropathies réactionnelles, genou gauche
+M02.869	d'autres arthropathies réactionnelles, genou non spécifié
+M02.871	d'autres arthropathies réactionnelles, cheville et pied droits
+M02.872	d'autres arthropathies réactionnelles, cheville et pied gauches
+M02.879	d'autres arthropathies réactionnelles, cheville et pied non spécifiés
+M02.88	d'autres arthropathies réactionnelles, vertèbres
+M02.89	d'autres arthropathies réactionnelles, multiples sites
+M02.9	arthropathie réactionnelle, non spécifiée
+M05.0	syndrome de Felty, site non spécifié
+M05.11	syndrome de Felty, épaule droite
+M05.12	syndrome de Felty, épaule gauche
+M05.19	syndrome de Felty, épaule non spécifiée
+M05.21	syndrome de Felty, coude droit
+M05.22	syndrome de Felty, coude gauche
+M05.29	syndrome de Felty, coude non spécifié
+M05.31	syndrome de Felty, poignet droit
+M05.32	syndrome de Felty, poignet gauche
+M05.39	syndrome de Felty, poignet non spécifié
+M05.41	syndrome de Felty, main droite
+M05.42	syndrome de Felty, main gauche
+M05.49	syndrome de Felty, main non spécifiée
+M05.51	syndrome de Felty, hanche droite
+M05.52	syndrome de Felty, hanche gauche
+M05.59	syndrome de Felty, hanche non spécifiée
+M05.61	syndrome de Felty, genou droit
+M05.62	syndrome de Felty, genou gauche
+M05.69	syndrome de Felty, genou non spécifié
+M05.71	syndrome de Felty, cheville et pied droits
+M05.72	syndrome de Felty, cheville et pied gauches
+M05.79	syndrome de Felty, cheville et pied non spécifiés
+M05.9	syndrome de Felty, multiples sites
+M05.10	maladie pulmonaire rhumatoïde avec arthrite rhumatoïde d'un site non spécifié
+M05.111	maladie pulmonaire rhumatoïde avec arthrite rhumatoïde, épaule droite
+M05.112	maladie pulmonaire rhumatoïde avec arthrite rhumatoïde, épaule gauche
+M05.119	maladie pulmonaire rhumatoïde avec arthrite rhumatoïde, épaule non spécifiée
+M05.121	maladie pulmonaire rhumatoïde avec arthrite rhumatoïde, coude droit
+M05.122	maladie pulmonaire rhumatoïde avec arthrite rhumatoïde, coude gauche
+M05.129	maladie pulmonaire rhumatoïde avec arthrite rhumatoïde, coude non spécifié
+M05.131	maladie pulmonaire rhumatoïde avec arthrite rhumatoïde, poignet droit
+M05.132	maladie pulmonaire rhumatoïde avec arthrite rhumatoïde, poignet gauche
+M05.139	maladie pulmonaire rhumatoïde avec arthrite rhumatoïde, poignet non spécifié
+M05.141	maladie pulmonaire rhumatoïde avec arthrite rhumatoïde, main droite
+M05.142	maladie pulmonaire rhumatoïde avec arthrite rhumatoïde, main gauche
+M05.149	maladie pulmonaire rhumatoïde avec arthrite rhumatoïde, main non spécifiée
+M05.151	maladie pulmonaire rhumatoïde avec arthrite rhumatoïde, hanche droite
+M05.152	maladie pulmonaire rhumatoïde avec arthrite rhumatoïde, hanche gauche
+M05.159	maladie pulmonaire rhumatoïde avec arthrite rhumatoïde, hanche non spécifiée
+M05.161	maladie pulmonaire rhumatoïde avec arthrite rhumatoïde, genou droit
+M05.162	maladie pulmonaire rhumatoïde avec arthrite rhumatoïde, genou gauche
+M05.169	maladie pulmonaire rhumatoïde avec arthrite rhumatoïde, genou non spécifié
+M05.171	maladie pulmonaire rhumatoïde avec arthrite rhumatoïde, cheville et pied droits
+M05.172	maladie pulmonaire rhumatoïde avec arthrite rhumatoïde, cheville et pied gauches
+M05.179	maladie pulmonaire rhumatoïde avec arthrite rhumatoïde, cheville et pied non spécifiés
+M05.19	maladie pulmonaire rhumatoïde avec arthrite rhumatoïde, multiples sites
+M05.20	vascularite rhumatoïde avec arthrite rhumatoïde d'un site non spécifié
+M05.211	vascularite rhumatoïde avec arthrite rhumatoïde, épaule droite
+M05.212	vascularite rhumatoïde avec arthrite rhumatoïde, épaule gauche
+M05.219	vascularite rhumatoïde avec arthrite rhumatoïde, épaule non spécifiée
+M05.221	vascularite rhumatoïde avec arthrite rhumatoïde, coude droit
+M05.222	vascularite rhumatoïde avec arthrite rhumatoïde, coude gauche
+M05.229	vascularite rhumatoïde avec arthrite rhumatoïde, coude non spécifié
+M05.231	vascularite rhumatoïde avec arthrite rhumatoïde, poignet droit
+M05.232	vascularite rhumatoïde avec arthrite rhumatoïde, poignet gauche
+M05.239	vascularite rhumatoïde avec arthrite rhumatoïde, poignet non spécifié
+M05.241	vascularite rhumatoïde avec arthrite rhumatoïde, main droite
+M05.242	vascularite rhumatoïde avec arthrite rhumatoïde, main gauche
+M05.249	vascularite rhumatoïde avec arthrite rhumatoïde, main non spécifiée
+M05.251	vascularite rhumatoïde avec arthrite rhumatoïde, hanche droite
+M05.252	vascularite rhumatoïde avec arthrite rhumatoïde, hanche gauche
+M05.259	vascularite rhumatoïde avec arthrite rhumatoïde, hanche non spécifiée
+M05.261	vascularite rhumatoïde avec arthrite rhumatoïde, genou droit
+M05.262	vascularite rhumatoïde avec arthrite rhumatoïde, genou gauche
+M05.269	vascularite rhumatoïde avec arthrite rhumatoïde, genou non spécifié
+M05.271	vascularite rhumatoïde avec arthrite rhumatoïde, cheville et pied droits
+M05.272	vascularite rhumatoïde avec arthrite rhumatoïde, cheville et pied gauches
+M05.279	vascularite rhumatoïde avec arthrite rhumatoïde, cheville et pied non spécifiés
+M05.29	vascularite rhumatoïde avec arthrite rhumatoïde, multiples sites
+M05.30	cardiopathie rhumatoïde avec arthrite rhumatoïde d'un site non spécifié
+M05.311	cardiopathie rhumatoïde avec arthrite rhumatoïde, épaule droite
+M05.312	cardiopathie rhumatoïde avec arthrite rhumatoïde, épaule gauche
+M05.319	cardiopathie rhumatoïde avec arthrite rhumatoïde, épaule non spécifiée
+M05.321	cardiopathie rhumatoïde avec arthrite rhumatoïde, coude droit
+M05.322	cardiopathie rhumatoïde avec arthrite rhumatoïde, coude gauche
+M05.329	cardiopathie rhumatoïde avec arthrite rhumatoïde, coude non spécifié
+M05.331	cardiopathie rhumatoïde avec arthrite rhumatoïde, poignet droit
+M05.332	cardiopathie rhumatoïde avec arthrite rhumatoïde, poignet gauche
+M05.339	cardiopathie rhumatoïde avec arthrite rhumatoïde, poignet non spécifié
+M05.341	cardiopathie rhumatoïde avec arthrite rhumatoïde, main droite
+M05.342	cardiopathie rhumatoïde avec arthrite rhumatoïde, main gauche
+M05.349	cardiopathie rhumatoïde avec arthrite rhumatoïde, main non spécifiée
+M05.351	cardiopathie rhumatoïde avec arthrite rhumatoïde, hanche droite
+M05.352	cardiopathie rhumatoïde avec arthrite rhumatoïde, hanche gauche
+M05.359	cardiopathie rhumatoïde avec arthrite rhumatoïde, hanche non spécifiée
+M05.361	cardiopathie rhumatoïde avec arthrite rhumatoïde, genou droit
+M05.362	cardiopathie rhumatoïde avec arthrite rhumatoïde, genou gauche
+M05.369	cardiopathie rhumatoïde avec arthrite rhumatoïde, genou non spécifié
+M05.371	cardiopathie rhumatoïde avec arthrite rhumatoïde, cheville et pied droits
+M05.372	cardiopathie rhumatoïde avec arthrite rhumatoïde, cheville et pied gauches
+M05.379	cardiopathie rhumatoïde avec arthrite rhumatoïde, cheville et pied non spécifiés
+M05.39	cardiopathie rhumatoïde avec arthrite rhumatoïde, multiples sites
+M05.40	myopathie rhumatoïde avec arthrite rhumatoïde d'un site non spécifié
+M05.411	myopathie rhumatoïde avec arthrite rhumatoïde, épaule droite
+M05.412	myopathie rhumatoïde avec arthrite rhumatoïde, épaule gauche
+M05.419	myopathie rhumatoïde avec arthrite rhumatoïde, épaule non spécifiée
+M05.421	myopathie rhumatoïde avec arthrite rhumatoïde, coude droit
+M05.422	myopathie rhumatoïde avec arthrite rhumatoïde, coude gauche
+M05.429	myopathie rhumatoïde avec arthrite rhumatoïde, coude non spécifié
+M05.431	myopathie rhumatoïde avec arthrite rhumatoïde, poignet droit
+M05.432	myopathie rhumatoïde avec arthrite rhumatoïde, poignet gauche
+M05.439	myopathie rhumatoïde avec arthrite rhumatoïde, poignet non spécifié
+M05.441	myopathie rhumatoïde avec arthrite rhumatoïde, main droite
+M05.442	myopathie rhumatoïde avec arthrite rhumatoïde, main gauche
+M05.449	myopathie rhumatoïde avec arthrite rhumatoïde, main non spécifiée
+M05.451	myopathie rhumatoïde avec arthrite rhumatoïde, hanche droite
+M05.452	myopathie rhumatoïde avec arthrite rhumatoïde, hanche gauche
+M05.459	myopathie rhumatoïde avec arthrite rhumatoïde, hanche non spécifiée
+M05.461	myopathie rhumatoïde avec arthrite rhumatoïde, genou droit
+M05.462	myopathie rhumatoïde avec arthrite rhumatoïde, genou gauche
+M05.469	myopathie rhumatoïde avec arthrite rhumatoïde, genou non spécifié
+M05.471	myopathie rhumatoïde avec arthrite rhumatoïde, cheville et pied droits
+M05.472	myopathie rhumatoïde avec arthrite rhumatoïde, cheville et pied gauches
+M05.479	myopathie rhumatoïde avec arthrite rhumatoïde, cheville et pied non spécifiés
+M05.49	myopathie rhumatoïde avec arthrite rhumatoïde, multiples sites
+M05.50	polynévrite rhumatoïde avec arthrite rhumatoïde d'un site non spécifié
+M05.511	polynévrite rhumatoïde avec arthrite rhumatoïde, épaule droite
+M05.512	polynévrite rhumatoïde avec arthrite rhumatoïde, épaule gauche
+M05.519	polynévrite rhumatoïde avec arthrite rhumatoïde, épaule non spécifiée
+M05.521	polynévrite rhumatoïde avec arthrite rhumatoïde, coude droit
+M05.522	polynévrite rhumatoïde avec arthrite rhumatoïde, coude gauche
+M05.529	polynévrite rhumatoïde avec arthrite rhumatoïde, coude non spécifié
+M05.531	polynévrite rhumatoïde avec arthrite rhumatoïde, poignet droit
+M05.532	polynévrite rhumatoïde avec arthrite rhumatoïde, poignet gauche
+M05.539	polynévrite rhumatoïde avec arthrite rhumatoïde, poignet non spécifié
+M05.541	polynévrite rhumatoïde avec arthrite rhumatoïde, main droite
+M05.542	polynévrite rhumatoïde avec arthrite rhumatoïde, main gauche
+M05.549	polynévrite rhumatoïde avec arthrite rhumatoïde, main non spécifiée
+M05.551	polynévrite rhumatoïde avec arthrite rhumatoïde, hanche droite
+M05.552	polynévrite rhumatoïde avec arthrite rhumatoïde, hanche gauche
+M05.559	polynévrite rhumatoïde avec arthrite rhumatoïde, hanche non spécifiée
+M05.561	polynévrite rhumatoïde avec arthrite rhumatoïde, genou droit
+M05.562	polynévrite rhumatoïde avec arthrite rhumatoïde, genou gauche
+M05.569	polynévrite rhumatoïde avec arthrite rhumatoïde, genou non spécifié
+M05.571	polynévrite rhumatoïde avec arthrite rhumatoïde, cheville et pied droits
+M05.572	polynévrite rhumatoïde avec arthrite rhumatoïde, cheville et pied gauches
+M05.579	polynévrite rhumatoïde avec arthrite rhumatoïde, cheville et pied non spécifiés
+M05.59	polynévrite rhumatoïde avec arthrite rhumatoïde, multiples sites
+M05.60	arthrite rhumatoïde d'un site non spécifié avec une implication d'autres organes et systèmes
+M05.611	arthrite rhumatoïde de l'épaule droite avec une implication d'autres organes et systèmes
+M05.612	arthrite rhumatoïde de l'épaule gauche avec une implication d'autres organes et systèmes
+M05.619	arthrite rhumatoïde d'une épaule non spécifiée avec une implication d'autres organes et systèmes
+M05.621	arthrite rhumatoïde du coude droit avec une implication d'autres organes et systèmes
+M05.622	arthrite rhumatoïde du coude gauche avec une implication d'autres organes et systèmes
+M05.629	arthrite rhumatoïde d'un coude non spécifié avec une implication d'autres organes et systèmes
+M05.631	arthrite rhumatoïde du poignet droit avec une implication d'autres organes et systèmes
+M05.632	arthrite rhumatoïde du poignet gauche avec une implication d'autres organes et systèmes
+M05.639	arthrite rhumatoïde d'un poignet non spécifié avec une implication d'autres organes et systèmes
+M05.641	arthrite rhumatoïde de la main droite avec une implication d'autres organes et systèmes
+M05.642	arthrite rhumatoïde de la main gauche avec une implication d'autres organes et systèmes
+M05.649	arthrite rhumatoïde d'une main non spécifiée avec une implication d'autres organes et systèmes
+M05.651	arthrite rhumatoïde de la hanche droite avec une implication d'autres organes et systèmes
+M05.652	arthrite rhumatoïde de la hanche gauche avec une implication d'autres organes et systèmes
+M05.659	arthrite rhumatoïde d'une hanche non spécifiée avec une implication d'autres organes et systèmes
+M05.661	arthrite rhumatoïde du genou droit avec une implication d'autres organes et systèmes
+M05.662	arthrite rhumatoïde du genou gauche avec une implication d'autres organes et systèmes
+M05.669	arthrite rhumatoïde du genou non spécifié avec une implication d'autres organes et systèmes
+M05.671	arthrite rhumatoïde de la cheville et du pied droits avec une implication d'autres organes et systèmes
+M05.672	arthrite rhumatoïde de la cheville et du pied gauches avec une implication d'autres organes et systèmes
+M05.679	arthrite rhumatoïde de la cheville et pied non spécifiés avec une implication d'autres organes et systèmes
+M05.69	arthrite rhumatoïde de multiples sites avec une implication d'autres organes et systèmes
+M05.70	arthrite rhumatoïde séropositive d'un site non spécifié sans implication d'autres organes ou systèmes
+M05.711	arthrite rhumatoïde séropositive de l'épaule droite sans implication d'un organe ou de systèmes
+M05.712	arthrite rhumatoïde séropositive de l'épaule gauche sans implication d'un organe ou de systèmes
+M05.719	arthrite rhumatoïde séropositive d'une épaule non spécifiée sans implication d'un organe ou de systèmes
+M05.721	arthrite rhumatoïde séropositive du coude droit sans implication d'un organe ou de systèmes
+M05.722	arthrite rhumatoïde séropositive du coude gauche sans implication d'un organe ou de systèmes
+M05.729	arthrite rhumatoïde séropositive d'un coude non spécifié sans implication d'un organe ou de systèmes
+M05.731	arthrite rhumatoïde séropositive du poignet droit sans implication d'un organe ou de systèmes
+M05.732	arthrite rhumatoïde séropositive du poignet gauche sans implication d'un organe ou de systèmes
+M05.739	arthrite rhumatoïde séropositive d'un poignet non spécifié sans implication d' organe ou systèmes
+M05.741	arthrite rhumatoïde séropositive de la main droite sans implication d'un organe ou de systèmes
+M05.742	arthrite rhumatoïde séropositive de la main gauche sans implication d'un organe ou de systèmes
+M05.749	arthrite rhumatoïde séropositive d'une main non spécifiée sans implication d'un organe ou de systèmes
+M05.751	arthrite rhumatoïde séropositive de la hanche droite sans implication d'un organe ou de systèmes
+M05.752	arthrite rhumatoïde séropositive de la hanche gauche sans implication d'un organe ou de systèmes
+M05.759	arthrite rhumatoïde séropositive d'une hanche non spécifiée sans implication d' organe ou systèmes
+M05.761	arthrite rhumatoïde séropositive du genou droit sans implication d'un organe ou de systèmes
+M05.762	arthrite rhumatoïde séropositive du genou gauche sans implication d'un organe ou de systèmes
+M05.769	arthrite rhumatoïde séropositive du genou non spécifié sans implication d'un organe ou de systèmes
+M05.771	arthrite rhumatoïde séropositive de la cheville et du pied droits sans implication d' organe ou systèmes
+M05.772	arthrite rhumatoïde séropositive de la cheville et du pied gauches sans implication d'un organe ou de systèmes
+M05.779	arthrite rhumatoïde séropositive de la cheville et pied non spécifiés sans implication d'un organe ou de systèmes
+M05.79	arthrite rhumatoïde séropositive de multiples sites sans implication d'un organe ou de systèmes
+M05.80	autre arthrite rhumatoïde séropositive d'un site non spécifié
+M05.811	autre arthrite rhumatoïde séropositive de l'épaule droite
+M05.812	autre arthrite rhumatoïde séropositive de l'épaule gauche
+M05.819	autre arthrite rhumatoïde séropositive d'une épaule non spécifiée
+M05.821	autre arthrite rhumatoïde séropositive du coude droit
+M05.822	autre arthrite rhumatoïde séropositive du coude gauche
+M05.829	autre arthrite rhumatoïde séropositive d'un coude non spécifié
+M05.831	autre arthrite rhumatoïde séropositive du poignet droit
+M05.832	autre arthrite rhumatoïde séropositive du poignet gauche
+M05.839	autre arthrite rhumatoïde séropositive d'un poignet non spécifié
+M05.841	autre arthrite rhumatoïde séropositive de la main droite
+M05.842	autre arthrite rhumatoïde séropositive de la main gauche
+M05.849	autre arthrite rhumatoïde séropositive d'une main non spécifiée
+M05.851	autre arthrite rhumatoïde séropositive de la hanche droite
+M05.852	autre arthrite rhumatoïde séropositive de la hanche gauche
+M05.859	autre arthrite rhumatoïde séropositive d'une hanche non spécifiée
+M05.861	autre arthrite rhumatoïde séropositive du genou droit
+M05.862	autre arthrite rhumatoïde séropositive du genou gauche
+M05.869	autre arthrite rhumatoïde séropositive du genou non spécifié
+M05.871	autre arthrite rhumatoïde séropositive de la cheville et du pied droits
+M05.872	autre arthrite rhumatoïde séropositive de la cheville et du pied gauches
+M05.879	autre arthrite rhumatoïde séropositive de la cheville et pied non spécifiés
+M05.89	autre arthrite rhumatoïde séropositive de multiples sites
+M05.9	arthrite rhumatoïde séropositive, sans précision
+M06.0	arthrite rhumatoïde séronégative, site non spécifié
+M06.11	arthrite rhumatoïde séronégative, épaule droite
+M06.12	arthrite rhumatoïde séronégative, épaule gauche
+M06.19	arthrite rhumatoïde séronégative, épaule non spécifiée
+M06.21	arthrite rhumatoïde séronégative, coude droit
+M06.22	arthrite rhumatoïde séronégative, coude gauche
+M06.29	arthrite rhumatoïde séronégative, coude non spécifié
+M06.31	arthrite rhumatoïde séronégative, poignet droit
+M06.32	arthrite rhumatoïde séronégative, poignet gauche
+M06.39	arthrite rhumatoïde séronégative, poignet non spécifié
+M06.41	arthrite rhumatoïde séronégative, main droite
+M06.42	arthrite rhumatoïde séronégative, main gauche
+M06.49	arthrite rhumatoïde séronégative, main non spécifiée
+M06.51	arthrite rhumatoïde séronégative, hanche droite
+M06.52	arthrite rhumatoïde séronégative, hanche gauche
+M06.59	arthrite rhumatoïde séronégative, hanche non spécifiée
+M06.61	arthrite rhumatoïde séronégative, genou droit
+M06.62	arthrite rhumatoïde séronégative, genou gauche
+M06.69	arthrite rhumatoïde séronégative, genou non spécifié
+M06.71	arthrite rhumatoïde séronégative, cheville et pied droits
+M06.72	arthrite rhumatoïde séronégative, cheville et pied gauches
+M06.79	arthrite rhumatoïde séronégative, cheville et pied non spécifiés
+M06.8	arthrite rhumatoïde séronégative, vertèbres
+M06.9	arthrite rhumatoïde séronégative, multiples sites
+M06.1	maladie de Still survenant chez l'adulte
+M06.20	bursite rhumatoïde, site non spécifié
+M06.211	bursite rhumatoïde, épaule droite
+M06.212	bursite rhumatoïde, épaule gauche
+M06.219	bursite rhumatoïde, épaule non spécifiée
+M06.221	bursite rhumatoïde, coude droit
+M06.222	bursite rhumatoïde, coude gauche
+M06.229	bursite rhumatoïde, coude non spécifié
+M06.231	bursite rhumatoïde, poignet droit
+M06.232	bursite rhumatoïde, poignet gauche
+M06.239	bursite rhumatoïde, poignet non spécifié
+M06.241	bursite rhumatoïde, main droite
+M06.242	bursite rhumatoïde, main gauche
+M06.249	bursite rhumatoïde, main non spécifiée
+M06.251	bursite rhumatoïde, hanche droite
+M06.252	bursite rhumatoïde, hanche gauche
+M06.259	bursite rhumatoïde, hanche non spécifiée
+M06.261	bursite rhumatoïde, genou droit
+M06.262	bursite rhumatoïde, genou gauche
+M06.269	bursite rhumatoïde, genou non spécifié
+M06.271	bursite rhumatoïde, cheville et pied droits
+M06.272	bursite rhumatoïde, cheville et pied gauches
+M06.279	bursite rhumatoïde, cheville et pied non spécifiés
+M06.28	bursite rhumatoïde, vertèbres
+M06.29	bursite rhumatoïde, multiples sites
+M06.30	nodule rhumatoïde, site non spécifié
+M06.311	nodule rhumatoïde, épaule droite
+M06.312	nodule rhumatoïde, épaule gauche
+M06.319	nodule rhumatoïde, épaule non spécifiée
+M06.321	nodule rhumatoïde, coude droit
+M06.322	nodule rhumatoïde, coude gauche
+M06.329	nodule rhumatoïde, coude non spécifié
+M06.331	nodule rhumatoïde, poignet droit
+M06.332	nodule rhumatoïde, poignet gauche
+M06.339	nodule rhumatoïde, poignet non spécifié
+M06.341	nodule rhumatoïde, main droite
+M06.342	nodule rhumatoïde, main gauche
+M06.349	nodule rhumatoïde, main non spécifiée
+M06.351	nodule rhumatoïde, hanche droite
+M06.352	nodule rhumatoïde, hanche gauche
+M06.359	nodule rhumatoïde, hanche non spécifiée
+M06.361	nodule rhumatoïde, genou droit
+M06.362	nodule rhumatoïde, genou gauche
+M06.369	nodule rhumatoïde, genou non spécifié
+M06.371	nodule rhumatoïde, cheville et pied droits
+M06.372	nodule rhumatoïde, cheville et pied gauches
+M06.379	nodule rhumatoïde, cheville et pied non spécifiés
+M06.38	nodule rhumatoïde, vertèbres
+M06.39	nodule rhumatoïde, multiples sites
+M06.4	polyarthropathie inflammatoire
+M06.80	autre arthrite rhumatoïde spécifiée, site non précisé
+M06.811	autre arthrite rhumatoïde spécifiée, épaule droite
+M06.812	autre arthrite rhumatoïde spécifiée, épaule gauche
+M06.819	autre arthrite rhumatoïde spécifiée, épaule non précisée
+M06.821	autre arthrite rhumatoïde spécifiée, coude droit
+M06.822	autre arthrite rhumatoïde spécifiée, coude gauche
+M06.829	autre arthrite rhumatoïde spécifiée, coude non précisé
+M06.831	autre arthrite rhumatoïde spécifiée, poignet droit
+M06.832	autre arthrite rhumatoïde spécifiée, poignet gauche
+M06.839	autre arthrite rhumatoïde spécifiée, poignet non précisé
+M06.841	autre arthrite rhumatoïde spécifiée, main droite
+M06.842	autre arthrite rhumatoïde spécifiée, main gauche
+M06.849	autre arthrite rhumatoïde spécifiée, main non précisée
+M06.851	autre arthrite rhumatoïde spécifiée, hanche droite
+M06.852	autre arthrite rhumatoïde spécifiée, hanche gauche
+M06.859	autre arthrite rhumatoïde spécifiée, hanche non précisée
+M06.861	autre arthrite rhumatoïde spécifiée, genou droit
+M06.862	autre arthrite rhumatoïde spécifiée, genou gauche
+M06.869	autre arthrite rhumatoïde spécifiée, genou non précisé
+M06.871	autre arthrite rhumatoïde spécifiée, cheville et pied droits
+M06.872	autre arthrite rhumatoïde spécifiée, cheville et pied gauches
+M06.879	autre arthrite rhumatoïde spécifiée, cheville et pied non précisés
+M06.88	autre arthrite rhumatoïde spécifiée, vertèbres
+M06.89	autre arthrite rhumatoïde spécifiée, multiples sites
+M06.9	arthrite rhumatoïde, non spécifiée
+M07.60	arthropathies entéropathiques, site non spécifié
+M07.611	arthropathies entéropathiques, épaule droite
+M07.612	arthropathies entéropathiques, épaule gauche
+M07.619	arthropathies entéropathiques, épaule non spécifiée
+M07.621	arthropathies entéropathiques, coude droit
+M07.622	arthropathies entéropathiques, coude gauche
+M07.629	arthropathies entéropathiques, coude non spécifié
+M07.631	arthropathies entéropathiques, poignet droit
+M07.632	arthropathies entéropathiques, poignet gauche
+M07.639	arthropathies entéropathiques, poignet non spécifié
+M07.641	arthropathies entéropathiques, main droite
+M07.642	arthropathies entéropathiques, main gauche
+M07.649	arthropathies entéropathiques, main non spécifiée
+M07.651	arthropathies entéropathiques, hanche droite
+M07.652	arthropathies entéropathiques, hanche gauche
+M07.659	arthropathies entéropathiques, hanche non spécifiée
+M07.661	arthropathies entéropathiques, genou droit
+M07.662	arthropathies entéropathiques, genou gauche
+M07.669	arthropathies entéropathiques, genou non spécifié
+M07.671	arthropathies entéropathiques, cheville et pied droits
+M07.672	arthropathies entéropathiques, cheville et pied gauches
+M07.679	arthropathies entéropathiques, cheville et pied non spécifiés
+M07.68	arthropathies entéropathiques, vertèbres
+M07.69	arthropathies entéropathiques, multiples sites
+M08.0	arthrite rhumatoïde juvénile non spécifiée d'un site non précisé
+M08.11	arthrite rhumatoïde juvénile non spécifiée, épaule droite
+M08.12	arthrite rhumatoïde juvénile non spécifiée, épaule gauche
+M08.19	arthrite rhumatoïde juvénile non spécifiée, épaule non précisée
+M08.21	arthrite rhumatoïde juvénile non spécifiée, coude droit
+M08.22	arthrite rhumatoïde juvénile non spécifiée, coude gauche
+M08.29	arthrite rhumatoïde juvénile non spécifiée, coude non précisé
+M08.31	arthrite rhumatoïde juvénile non spécifiée, poignet droit
+M08.32	arthrite rhumatoïde juvénile non spécifiée, poignet gauche
+M08.39	arthrite rhumatoïde juvénile non spécifiée, poignet non précisé
+M08.41	arthrite rhumatoïde juvénile non spécifiée, main droite
+M08.42	arthrite rhumatoïde juvénile non spécifiée, main gauche
+M08.49	arthrite rhumatoïde juvénile non spécifiée, main non précisée
+M08.51	arthrite rhumatoïde juvénile non spécifiée, hanche droite
+M08.52	arthrite rhumatoïde juvénile non spécifiée, hanche gauche
+M08.59	arthrite rhumatoïde juvénile non spécifiée, hanche non précisée
+M08.61	arthrite rhumatoïde juvénile non spécifiée, genou droit
+M08.62	arthrite rhumatoïde juvénile non spécifiée, genou gauche
+M08.69	arthrite rhumatoïde juvénile non spécifiée, genou non précisé
+M08.71	arthrite rhumatoïde juvénile non spécifiée, cheville et pied droits
+M08.72	arthrite rhumatoïde juvénile non spécifiée, cheville et pied gauches
+M08.79	arthrite rhumatoïde juvénile non spécifiée, cheville et pied non précisés
+M08.8	arthrite rhumatoïde juvénile non spécifiée, vertèbres
+M08.9	arthrite rhumatoïde juvénile non spécifiée, multiples sites
+M08.1	spondylarthrite ankylosante juvénile
+M08.20	arthrite rhumatoïde juvénile avec un début systémique, site non spécifié
+M08.211	arthrite rhumatoïde juvénile avec un début systémique, épaule droite
+M08.212	arthrite rhumatoïde juvénile avec un début systémique, épaule gauche
+M08.219	arthrite rhumatoïde juvénile avec un début systémique, épaule non spécifiée
+M08.221	arthrite rhumatoïde juvénile avec un début systémique, coude droit
+M08.222	arthrite rhumatoïde juvénile avec un début systémique, coude gauche
+M08.229	arthrite rhumatoïde juvénile avec un début systémique, coude non spécifié
+M08.231	arthrite rhumatoïde juvénile avec un début systémique, poignet droit
+M08.232	arthrite rhumatoïde juvénile avec un début systémique, poignet gauche
+M08.239	arthrite rhumatoïde juvénile avec un début systémique, poignet non spécifié
+M08.241	arthrite rhumatoïde juvénile avec un début systémique, main droite
+M08.242	arthrite rhumatoïde juvénile avec un début systémique, main gauche
+M08.249	arthrite rhumatoïde juvénile avec un début systémique, main non spécifiée
+M08.251	arthrite rhumatoïde juvénile avec un début systémique, hanche droite
+M08.252	arthrite rhumatoïde juvénile avec un début systémique, hanche gauche
+M08.259	arthrite rhumatoïde juvénile avec un début systémique, hanche non spécifiée
+M08.261	arthrite rhumatoïde juvénile avec un début systémique, genou droit
+M08.262	arthrite rhumatoïde juvénile avec un début systémique, genou gauche
+M08.269	arthrite rhumatoïde juvénile avec un début systémique, genou non spécifié
+M08.271	arthrite rhumatoïde juvénile avec un début systémique, cheville et pied droits
+M08.272	arthrite rhumatoïde juvénile avec un début systémique, cheville et pied gauches
+M08.279	arthrite rhumatoïde juvénile avec un début systémique, cheville et pied non spécifiés
+M08.28	arthrite rhumatoïde juvénile avec un début systémique, vertèbres
+M08.29	arthrite rhumatoïde juvénile avec un début systémique, multiples sites
+M08.3	polyarthrite rhumatoïde juvénile (séronégative)
+M08.40	arthrite rhumatoïde juvénile oligoarticulaire, site non spécifié
+M08.411	arthrite rhumatoïde juvénile oligoarticulaire, épaule droite
+M08.412	arthrite rhumatoïde juvénile oligoarticulaire, épaule gauche
+M08.419	arthrite rhumatoïde juvénile oligoarticulaire, épaule non spécifiée
+M08.421	arthrite rhumatoïde juvénile oligoarticulaire, coude droit
+M08.422	arthrite rhumatoïde juvénile oligoarticulaire, coude gauche
+M08.429	arthrite rhumatoïde juvénile oligoarticulaire, coude non spécifié
+M08.431	arthrite rhumatoïde juvénile oligoarticulaire, poignet droit
+M08.432	arthrite rhumatoïde juvénile oligoarticulaire, poignet gauche
+M08.439	arthrite rhumatoïde juvénile oligoarticulaire, poignet non spécifié
+M08.441	arthrite rhumatoïde juvénile oligoarticulaire, main droite
+M08.442	arthrite rhumatoïde juvénile oligoarticulaire, main gauche
+M08.449	arthrite rhumatoïde juvénile oligoarticulaire, main non spécifiée
+M08.451	arthrite rhumatoïde juvénile oligoarticulaire, hanche droite
+M08.452	arthrite rhumatoïde juvénile oligoarticulaire, hanche gauche
+M08.459	arthrite rhumatoïde juvénile oligoarticulaire, hanche non spécifiée
+M08.461	arthrite rhumatoïde juvénile oligoarticulaire, genou droit
+M08.462	arthrite rhumatoïde juvénile oligoarticulaire, genou gauche
+M08.469	arthrite rhumatoïde juvénile oligoarticulaire, genou non spécifié
+M08.471	arthrite rhumatoïde juvénile oligoarticulaire, cheville et pied droits
+M08.472	arthrite rhumatoïde juvénile oligoarticulaire, cheville et pied gauches
+M08.479	arthrite rhumatoïde juvénile oligoarticulaire, cheville et pied non spécifiés
+M08.48	arthrite rhumatoïde juvénile oligoarticulaire, vertèbres
+M08.80	autre arthrite juvénile, site non spécifié
+M08.811	autre arthrite juvénile, épaule droite
+M08.812	autre arthrite juvénile, épaule gauche
+M08.819	autre arthrite juvénile, épaule non spécifiée
+M08.821	autre arthrite juvénile, coude droit
+M08.822	autre arthrite juvénile, coude gauche
+M08.829	autre arthrite juvénile, coude non spécifié
+M08.831	autre arthrite juvénile, poignet droit
+M08.832	autre arthrite juvénile, poignet gauche
+M08.839	autre arthrite juvénile, poignet non spécifié
+M08.841	autre arthrite juvénile, main droite
+M08.842	autre arthrite juvénile, main gauche
+M08.849	autre arthrite juvénile, main non spécifiée
+M08.851	autre arthrite juvénile, hanche droite
+M08.852	autre arthrite juvénile, hanche gauche
+M08.859	autre arthrite juvénile, hanche non spécifiée
+M08.861	autre arthrite juvénile, genou droit
+M08.862	autre arthrite juvénile, genou gauche
+M08.869	autre arthrite juvénile, genou non spécifié
+M08.871	autre arthrite juvénile, cheville et pied droits
+M08.872	autre arthrite juvénile, cheville et pied gauches
+M08.879	autre arthrite juvénile, cheville et pied non spécifiés
+M08.88	autre arthrite juvénile, vertèbres
+M08.89	autre arthrite juvénile, multiples sites
+M08.90	arthrite juvénile, non spécifiée, site non précisé
+M08.911	arthrite juvénile, non spécifiée, épaule droite
+M08.912	arthrite juvénile, non spécifiée, épaule gauche
+M08.919	arthrite juvénile, non spécifiée, épaule non précisée
+M08.921	arthrite juvénile, non spécifiée, coude droit
+M08.922	arthrite juvénile, non spécifiée, coude gauche
+M08.929	arthrite juvénile, non spécifiée, coude non précisé
+M08.931	arthrite juvénile, non spécifiée, poignet droit
+M08.932	arthrite juvénile, non spécifiée, poignet gauche
+M08.939	arthrite juvénile, non spécifiée, poignet non précisé
+M08.941	arthrite juvénile, non spécifiée, main droite
+M08.942	arthrite juvénile, non spécifiée, main gauche
+M08.949	arthrite juvénile, non spécifiée, main non précisée
+M08.951	arthrite juvénile, non spécifiée, hanche droite
+M08.952	arthrite juvénile, non spécifiée, hanche gauche
+M08.959	arthrite juvénile, non spécifiée, hanche non précisée
+M08.961	arthrite juvénile, non spécifiée, genou droit
+M08.962	arthrite juvénile, non spécifiée, genou gauche
+M08.969	arthrite juvénile, non spécifiée, genou non précisé
+M08.971	arthrite juvénile, non spécifiée, cheville et pied droits
+M08.972	arthrite juvénile, non spécifiée, cheville et pied gauches
+M08.979	arthrite juvénile, non spécifiée, cheville et pied non précisés
+M08.98	arthrite juvénile, non spécifiée, vertèbres
+M08.99	arthrite juvénile, non spécifiée, multiples sites
+M10.0	goutte idiopathique, site non spécifié
+M10.11	goutte idiopathique, épaule droite
+M10.12	goutte idiopathique, épaule gauche
+M10.19	goutte idiopathique, épaule non spécifiée
+M10.21	goutte idiopathique, coude droit
+M10.22	goutte idiopathique, coude gauche
+M10.29	goutte idiopathique, coude non spécifié
+M10.31	goutte idiopathique, poignet droit
+M10.32	goutte idiopathique, poignet gauche
+M10.39	goutte idiopathique, poignet non spécifié
+M10.41	goutte idiopathique, main droite
+M10.42	goutte idiopathique, main gauche
+M10.49	goutte idiopathique, main non spécifiée
+M10.51	goutte idiopathique, hanche droite
+M10.52	goutte idiopathique, hanche gauche
+M10.59	goutte idiopathique, hanche non spécifiée
+M10.61	goutte idiopathique, genou droit
+M10.62	goutte idiopathique, genou gauche
+M10.69	goutte idiopathique, genou non spécifié
+M10.71	goutte idiopathique, cheville et pied droits
+M10.72	goutte idiopathique, cheville et pied gauches
+M10.79	goutte idiopathique, cheville et pied non spécifiés
+M10.8	goutte idiopathique, vertèbres
+M10.9	goutte idiopathique, multiples sites
+M10.10	goutte saturnine, site non spécifié
+M10.111	goutte saturnine, épaule droite
+M10.112	goutte saturnine, épaule gauche
+M10.119	goutte saturnine, épaule non spécifiée
+M10.121	goutte saturnine, coude droit
+M10.122	goutte saturnine, coude gauche
+M10.129	goutte saturnine, coude non spécifié
+M10.131	goutte saturnine, poignet droit
+M10.132	goutte saturnine, poignet gauche
+M10.139	goutte saturnine, poignet non spécifié
+M10.141	goutte saturnine, main droite
+M10.142	goutte saturnine, main gauche
+M10.149	goutte saturnine, main non spécifiée
+M10.151	goutte saturnine, hanche droite
+M10.152	goutte saturnine, hanche gauche
+M10.159	goutte saturnine, hanche non spécifiée
+M10.161	goutte saturnine, genou droit
+M10.162	goutte saturnine, genou gauche
+M10.169	goutte saturnine, genou non spécifié
+M10.171	goutte saturnine, cheville et pied droits
+M10.172	goutte saturnine, cheville et pied gauches
+M10.179	goutte saturnine, cheville et pied non spécifiés
+M10.18	goutte saturnine, vertèbres
+M10.19	goutte saturnine, multiples sites
+M10.20	goutte médicamenteuses, site non spécifié
+M10.211	goutte médicamenteuses, épaule droite
+M10.212	goutte médicamenteuses, épaule gauche
+M10.219	goutte médicamenteuses, épaule non spécifiée
+M10.221	goutte médicamenteuses, coude droit
+M10.222	goutte médicamenteuses, coude gauche
+M10.229	goutte médicamenteuses, coude non spécifié
+M10.231	goutte médicamenteuses, poignet droit
+M10.232	goutte médicamenteuses, poignet gauche
+M10.239	goutte médicamenteuses, poignet non spécifié
+M10.241	goutte médicamenteuses, main droite
+M10.242	goutte médicamenteuses, main gauche
+M10.249	goutte médicamenteuses, main non spécifiée
+M10.251	goutte médicamenteuses, hanche droite
+M10.252	goutte médicamenteuses, hanche gauche
+M10.259	goutte médicamenteuses, hanche non spécifiée
+M10.261	goutte médicamenteuses, genou droit
+M10.262	goutte médicamenteuses, genou gauche
+M10.269	goutte médicamenteuses, genou non spécifié
+M10.271	goutte médicamenteuses, cheville et pied droits
+M10.272	goutte médicamenteuses, cheville et pied gauches
+M10.279	goutte médicamenteuses, cheville et pied non spécifiés
+M10.28	goutte médicamenteuses, vertèbres
+M10.29	goutte médicamenteuses, multiples sites
+M10.30	goutte due à une altération de la fonction rénale, site non spécifié
+M10.311	goutte due à une altération de la fonction rénale, épaule droite
+M10.312	goutte due à une altération de la fonction rénale, épaule gauche
+M10.319	goutte due à une altération de la fonction rénale, épaule non spécifiée
+M10.321	goutte due à une altération de la fonction rénale, coude droit
+M10.322	goutte due à une altération de la fonction rénale, coude gauche
+M10.329	goutte due à une altération de la fonction rénale, coude non spécifié
+M10.331	goutte due à une altération de la fonction rénale, poignet droit
+M10.332	goutte due à une altération de la fonction rénale, poignet gauche
+M10.339	goutte due à une altération de la fonction rénale, poignet non spécifié
+M10.341	goutte due à une altération de la fonction rénale, main droite
+M10.342	goutte due à une altération de la fonction rénale, main gauche
+M10.349	goutte due à une altération de la fonction rénale, main non spécifiée
+M10.351	goutte due à une altération de la fonction rénale, hanche droite
+M10.352	goutte due à une altération de la fonction rénale, hanche gauche
+M10.359	goutte due à une altération de la fonction rénale, hanche non spécifiée
+M10.361	goutte due à une altération de la fonction rénale, genou droit
+M10.362	goutte due à une altération de la fonction rénale, genou gauche
+M10.369	goutte due à une altération de la fonction rénale, genou non spécifié
+M10.371	goutte due à une altération de la fonction rénale, cheville et pied droits
+M10.372	goutte due à une altération de la fonction rénale, cheville et pied gauches
+M10.379	goutte due à une altération de la fonction rénale, cheville et pied non spécifiés
+M10.38	goutte due à une altération de la fonction rénale, vertèbres
+M10.39	goutte due à une altération de la fonction rénale, multiples sites
+M10.40	autre goutte secondaire, site non spécifié
+M10.411	autre goutte secondaire, épaule droite
+M10.412	autre goutte secondaire, épaule gauche
+M10.419	autre goutte secondaire, épaule non spécifiée
+M10.421	autre goutte secondaire, coude droit
+M10.422	autre goutte secondaire, coude gauche
+M10.429	autre goutte secondaire, coude non spécifié
+M10.431	autre goutte secondaire, poignet droit
+M10.432	autre goutte secondaire, poignet gauche
+M10.439	autre goutte secondaire, poignet non spécifié
+M10.441	autre goutte secondaire, main droite
+M10.442	autre goutte secondaire, main gauche
+M10.449	autre goutte secondaire, main non spécifiée
+M10.451	autre goutte secondaire, hanche droite
+M10.452	autre goutte secondaire, hanche gauche
+M10.459	autre goutte secondaire, hanche non spécifiée
+M10.461	autre goutte secondaire, genou droit
+M10.462	autre goutte secondaire, genou gauche
+M10.469	autre goutte secondaire, genou non spécifié
+M10.471	autre goutte secondaire, cheville et pied droits
+M10.472	autre goutte secondaire, cheville et pied gauches
+M10.479	autre goutte secondaire, cheville et pied non spécifiés
+M10.48	autre goutte secondaire, vertèbres
+M10.49	autre goutte secondaire, multiples sites
+M10.9	goutte, sans précision
+M11.0	maladie par dépôt d'hydroxyapatite, site non spécifié
+M11.11	maladie par dépôt d'hydroxyapatite, épaule droite
+M11.12	maladie par dépôt d'hydroxyapatite, épaule gauche
+M11.19	maladie par dépôt d'hydroxyapatite, épaule non spécifiée
+M11.21	maladie par dépôt d'hydroxyapatite, coude droit
+M11.22	maladie par dépôt d'hydroxyapatite, coude gauche
+M11.29	maladie par dépôt d'hydroxyapatite, coude non spécifié
+M11.31	maladie par dépôt d'hydroxyapatite, poignet droit
+M11.32	maladie par dépôt d'hydroxyapatite, poignet gauche
+M11.39	maladie par dépôt d'hydroxyapatite, poignet non spécifié
+M11.41	maladie par dépôt d'hydroxyapatite, main droite
+M11.42	maladie par dépôt d'hydroxyapatite, main gauche
+M11.49	maladie par dépôt d'hydroxyapatite, main non spécifiée
+M11.51	maladie par dépôt d'hydroxyapatite, hanche droite
+M11.52	maladie par dépôt d'hydroxyapatite, hanche gauche
+M11.59	maladie par dépôt d'hydroxyapatite, hanche non spécifiée
+M11.61	maladie par dépôt d'hydroxyapatite, genou droit
+M11.62	maladie par dépôt d'hydroxyapatite, genou gauche
+M11.69	maladie par dépôt d'hydroxyapatite, genou non spécifié
+M11.71	maladie par dépôt d'hydroxyapatite, cheville et pied droits
+M11.72	maladie par dépôt d'hydroxyapatite, cheville et pied gauches
+M11.79	maladie par dépôt d'hydroxyapatite, cheville et pied non spécifiés
+M11.8	maladie par dépôt d'hydroxyapatite, vertèbres
+M11.9	maladie par dépôt d'hydroxyapatite, multiples sites
+M11.10	chondrocalcinose familiale, site non spécifié
+M11.111	chondrocalcinose familiale, épaule droite
+M11.112	chondrocalcinose familiale, épaule gauche
+M11.119	chondrocalcinose familiale, épaule non spécifiée
+M11.121	chondrocalcinose familiale, coude droit
+M11.122	chondrocalcinose familiale, coude gauche
+M11.129	chondrocalcinose familiale, coude non spécifié
+M11.131	chondrocalcinose familiale, poignet droit
+M11.132	chondrocalcinose familiale, poignet gauche
+M11.139	chondrocalcinose familiale, poignet non spécifié
+M11.141	chondrocalcinose familiale, main droite
+M11.142	chondrocalcinose familiale, main gauche
+M11.149	chondrocalcinose familiale, main non spécifiée
+M11.151	chondrocalcinose familiale, hanche droite
+M11.152	chondrocalcinose familiale, hanche gauche
+M11.159	chondrocalcinose familiale, hanche non spécifiée
+M11.161	chondrocalcinose familiale, genou droit
+M11.162	chondrocalcinose familiale, genou gauche
+M11.169	chondrocalcinose familiale, genou non spécifié
+M11.171	chondrocalcinose familiale, cheville et pied droits
+M11.172	chondrocalcinose familiale, cheville et pied gauches
+M11.179	chondrocalcinose familiale, cheville et pied non spécifiés
+M11.18	chondrocalcinose familiale, vertèbres
+M11.19	chondrocalcinose familiale, multiples sites
+M11.20	autre chondrocalcinose, site non spécifié
+M11.211	autre chondrocalcinose, épaule droite
+M11.212	autre chondrocalcinose, épaule gauche
+M11.219	autre chondrocalcinose, épaule non spécifiée
+M11.221	autre chondrocalcinose, coude droit
+M11.222	autre chondrocalcinose, coude gauche
+M11.229	autre chondrocalcinose, coude non spécifié
+M11.231	autre chondrocalcinose, poignet droit
+M11.232	autre chondrocalcinose, poignet gauche
+M11.239	autre chondrocalcinose, poignet non spécifié
+M11.241	autre chondrocalcinose, main droite
+M11.242	autre chondrocalcinose, main gauche
+M11.249	autre chondrocalcinose, main non spécifiée
+M11.251	autre chondrocalcinose, hanche droite
+M11.252	autre chondrocalcinose, hanche gauche
+M11.259	autre chondrocalcinose, hanche non spécifiée
+M11.261	autre chondrocalcinose, genou droit
+M11.262	autre chondrocalcinose, genou gauche
+M11.269	autre chondrocalcinose, genou non spécifié
+M11.271	autre chondrocalcinose, cheville et pied droits
+M11.272	autre chondrocalcinose, cheville et pied gauches
+M11.279	autre chondrocalcinose, cheville et pied non spécifiés
+M11.28	autre chondrocalcinose, vertèbres
+M11.29	autre chondrocalcinose, multiples sites
+M11.80	d'autres arthropathies dues à des cristaux spécifiées, site non précisé
+M11.811	d'autres arthropathies dues à  des cristaux spécifiées, épaule droite
+M11.812	d'autres arthropathies dues à des cristaux spécifiées, épaule gauche
+M11.819	d'autres arthropathies dues à des cristaux spécifiées, épaule non précisée
+M11.821	d'autres arthropathies dues à des cristaux spécifiées, coude droit
+M11.822	d'autres arthropathies dues à des cristaux spécifiées, coude gauche
+M11.829	d'autres arthropathies dues à des cristaux spécifiées, coude non précisé
+M11.831	d'autres arthropathies dues à des cristaux spécifiées, poignet droit
+M11.832	d'autres arthropathies dues à des cristaux spécifiées, poignet gauche
+M11.839	d'autres arthropathies dues à des cristaux spécifiées, poignet non précisé
+M11.841	d'autres arthropathies dues à des cristaux spécifiées, main droite
+M11.842	d'autres arthropathies dues à des cristaux spécifiées, main gauche
+M11.849	d'autres arthropathies dues à des cristaux spécifiées, main non précisée
+M11.851	d'autres arthropathies dues à des cristaux spécifiées, hanche droite
+M11.852	d'autres arthropathies dues à des cristaux spécifiées, hanche gauche
+M11.859	d'autres arthropathies dues à des cristaux spécifiées, hanche non précisée
+M11.861	d'autres arthropathies dues à des cristaux spécifiées, genou droit
+M11.862	d'autres arthropathies dues à des cristaux spécifiées, genou gauche
+M11.869	d'autres arthropathies dues à des cristaux spécifiées, genou non précisé
+M11.871	d'autres arthropathies dues à des cristaux spécifiées, cheville et pied droits
+M11.872	d'autres arthropathies dues à des cristaux spécifiées, cheville et pied gauches
+M11.879	d'autres arthropathies dues à des cristaux spécifiées, cheville et pied non précisés
+M11.88	d'autres arthropathies dues à des cristaux spécifiées, vertèbres
+M11.89	d'autres arthropathies à cristaux spécifiées, multiples sites
+M11.9	arthropathie à cristaux, sans précision
+M12.0	arthropathie chronique post-rhumatismale, site non spécifié
+M12.11	arthropathie chronique post-rhumatismale, épaule droite
+M12.12	arthropathie chronique post-rhumatismale, épaule gauche
+M12.19	arthropathie chronique post-rhumatismale, épaule non spécifiée
+M12.21	arthropathie chronique post-rhumatismale, coude droit
+M12.22	arthropathie chronique post-rhumatismale, coude gauche
+M12.29	arthropathie chronique post-rhumatismale, coude non spécifié
+M12.31	arthropathie chronique post-rhumatismale, poignet droit
+M12.32	arthropathie chronique post-rhumatismale, poignet gauche
+M12.39	arthropathie chronique post-rhumatismale, poignet non spécifié
+M12.41	arthropathie chronique post-rhumatismale, main droite
+M12.42	arthropathie chronique post-rhumatismale, main gauche
+M12.49	arthropathie chronique post-rhumatismale, main non spécifiée
+M12.51	arthropathie chronique post-rhumatismale, hanche droite
+M12.52	arthropathie chronique post-rhumatismale, hanche gauche
+M12.59	arthropathie chronique post-rhumatismale, hanche non spécifiée
+M12.61	arthropathie chronique post-rhumatismale, genou droit
+M12.62	arthropathie chronique post-rhumatismale, genou gauche
+M12.69	arthropathie chronique post-rhumatismale, genou non spécifié
+M12.71	arthropathie chronique post-rhumatismale, cheville et pied droits
+M12.72	arthropathie chronique post-rhumatismale, cheville et pied gauches
+M12.79	arthropathie chronique post-rhumatismale, cheville et pied non spécifiés
+M12.8	arthropathie chronique post-rhumatismale, autre site spécifié
+M12.9	arthropathie chronique post-rhumatismale, multiples sites
+M12.10	maladie de Kaschin-Beck, site non spécifié
+M12.111	maladie de Kaschin-Beck, épaule droite
+M12.112	maladie de Kaschin-Beck, épaule gauche
+M12.119	maladie de Kaschin-Beck, épaule non spécifiée
+M12.121	maladie de Kaschin-Beck, coude droit
+M12.122	maladie de Kaschin-Beck, coude gauche
+M12.129	maladie de Kaschin-Beck, coude non spécifié
+M12.131	maladie de Kaschin-Beck, poignet droit
+M12.132	maladie de Kaschin-Beck, poignet gauche
+M12.139	maladie de Kaschin-Beck, poignet non spécifié
+M12.141	maladie de Kaschin-Beck, main droite
+M12.142	maladie de Kaschin-Beck, main gauche
+M12.149	maladie de Kaschin-Beck, main non spécifiée
+M12.151	maladie de Kaschin-Beck, hanche droite
+M12.152	maladie de Kaschin-Beck, hanche gauche
+M12.159	maladie de Kaschin-Beck, hanche non spécifiée
+M12.161	maladie de Kaschin-Beck, genou droit
+M12.162	maladie de Kaschin-Beck, genou gauche
+M12.169	maladie de Kaschin-Beck, genou non spécifié
+M12.171	maladie de Kaschin-Beck, cheville et pied droits
+M12.172	maladie de Kaschin-Beck, cheville et pied gauches
+M12.179	maladie de Kaschin-Beck, cheville et pied non spécifiés
+M12.18	maladie de Kaschin-Beck, vertèbres
+M12.19	maladie de Kaschin-Beck, multiples sites
+M12.20	synovite villonodulaire (pigmentaire), site non spécifié
+M12.211	synovite villonodulaire (pigmentaire), épaule droite
+M12.212	synovite villonodulaire (pigmentaire), épaule gauche
+M12.219	synovite villonodulaire (pigmentaire), épaule non spécifiée
+M12.221	synovite villonodulaire (pigmentaire), coude droit
+M12.222	synovite villonodulaire (pigmentaire), coude gauche
+M12.229	synovite villonodulaire (pigmentaire), coude non spécifié
+M12.231	synovite villonodulaire (pigmentaire), poignet droit
+M12.232	synovite villonodulaire (pigmentaire), poignet gauche
+M12.239	synovite villonodulaire (pigmentaire), poignet non spécifié
+M12.241	synovite villonodulaire (pigmentaire), main droite
+M12.242	synovite villonodulaire (pigmentaire), main gauche
+M12.249	synovite villonodulaire (pigmentaire), main non spécifiée
+M12.251	synovite villonodulaire (pigmentaire), hanche droite
+M12.252	synovite villonodulaire (pigmentaire), hanche gauche
+M12.259	synovite villonodulaire (pigmentaire), hanche non spécifiée
+M12.261	synovite villonodulaire (pigmentaire), genou droit
+M12.262	synovite villonodulaire (pigmentaire), genou gauche
+M12.269	synovite villonodulaire (pigmentaire), genou non spécifié
+M12.271	synovite villonodulaire (pigmentaire), cheville et pied droits
+M12.272	synovite villonodulaire (pigmentaire), cheville et pied gauches
+M12.279	synovite villonodulaire (pigmentaire), cheville et pied non spécifiés
+M12.28	synovite villonodulaire (pigmentaire), autre site spécifié
+M12.29	synovite villonodulaire (pigmentaire), multiples sites
+M12.30	rhumatisme palindromique, site non spécifié
+M12.311	rhumatisme palindromique, épaule droite
+M12.312	rhumatisme palindromique, épaule gauche
+M12.319	rhumatisme palindromique, épaule non spécifiée
+M12.321	rhumatisme palindromique, coude droit
+M12.322	rhumatisme palindromique, coude gauche
+M12.329	rhumatisme palindromique, coude non spécifié
+M12.331	rhumatisme palindromique, poignet droit
+M12.332	rhumatisme palindromique, poignet gauche
+M12.339	rhumatisme palindromique, poignet non spécifié
+M12.341	rhumatisme palindromique, main droite
+M12.342	rhumatisme palindromique, main gauche
+M12.349	rhumatisme palindromique, main non spécifiée
+M12.351	rhumatisme palindromique, hanche droite
+M12.352	rhumatisme palindromique, hanche gauche
+M12.359	rhumatisme palindromique, hanche non spécifiée
+M12.361	rhumatisme palindromique, genou droit
+M12.362	rhumatisme palindromique, genou gauche
+M12.369	rhumatisme palindromique, genou non spécifié
+M12.371	rhumatisme palindromique, cheville et pied droits
+M12.372	rhumatisme palindromique, cheville et pied gauches
+M12.379	rhumatisme palindromique, cheville et pied non spécifiés
+M12.38	rhumatisme palindromique, autre site spécifié
+M12.39	rhumatisme palindromique, multiples sites
+M12.40	hydarthrose intermittente, site non spécifié
+M12.411	hydarthrose intermittente, épaule droite
+M12.412	hydarthrose intermittente, épaule gauche
+M12.419	hydarthrose intermittente, épaule non spécifiée
+M12.421	hydarthrose intermittente, coude droit
+M12.422	hydarthrose intermittente, coude gauche
+M12.429	hydarthrose intermittente, coude non spécifié
+M12.431	hydarthrose intermittente, poignet droit
+M12.432	hydarthrose intermittente, poignet gauche
+M12.439	hydarthrose intermittente, poignet non spécifié
+M12.441	hydarthrose intermittente, main droite
+M12.442	hydarthrose intermittente, main gauche
+M12.449	hydarthrose intermittente, main non spécifiée
+M12.451	hydarthrose intermittente, hanche droite
+M12.452	hydarthrose intermittente, hanche gauche
+M12.459	hydarthrose intermittente, hanche non spécifiée
+M12.461	hydarthrose intermittente, genou droit
+M12.462	hydarthrose intermittente, genou gauche
+M12.469	hydarthrose intermittente, genou non spécifié
+M12.471	hydarthrose intermittente, cheville et pied droits
+M12.472	hydarthrose intermittente, cheville et pied gauches
+M12.479	hydarthrose intermittente, cheville et pied non spécifiés
+M12.48	hydarthrose intermittente, vertèbres
+M12.49	hydarthrose intermittente, multiples sites
+M12.50	arthropathie traumatique, site non spécifié
+M12.511	arthropathie traumatique, épaule droite
+M12.512	arthropathie traumatique, épaule gauche
+M12.519	arthropathie traumatique, épaule non spécifiée
+M12.521	arthropathie traumatique, coude droit
+M12.522	arthropathie traumatique, coude gauche
+M12.529	arthropathie traumatique, coude non spécifié
+M12.531	arthropathie traumatique, poignet droit
+M12.532	arthropathie traumatique, poignet gauche
+M12.539	arthropathie traumatique, poignet non spécifié
+M12.541	arthropathie traumatique, main droite
+M12.542	arthropathie traumatique, main gauche
+M12.549	arthropathie traumatique, main non spécifiée
+M12.551	arthropathie traumatique, hanche droite
+M12.552	arthropathie traumatique, hanche gauche
+M12.559	arthropathie traumatique, hanche non spécifiée
+M12.561	arthropathie traumatique, genou droit
+M12.562	arthropathie traumatique, genou gauche
+M12.569	arthropathie traumatique, genou non spécifié
+M12.571	arthropathie traumatique, cheville et pied droits
+M12.572	arthropathie traumatique, cheville et pied gauches
+M12.579	arthropathie traumatique, cheville et pied non spécifiés
+M12.58	arthropathie traumatique, autre site spécifié
+M12.59	arthropathie traumatique, multiples sites
+M12.80	d'autres arthropathies spécifiques, non classées ailleurs, site non spécifié
+M12.811	d'autres arthropathies spécifiques, non classées ailleurs, épaule droite
+M12.812	d'autres arthropathies spécifiques, non classées ailleurs, épaule gauche
+M12.819	d'autres arthropathies spécifiques, non classées ailleurs, épaule non spécifiée
+M12.821	d'autres arthropathies spécifiques, non classées ailleurs, coude droit
+M12.822	d'autres arthropathies spécifiques, non classées ailleurs, coude gauche
+M12.829	d'autres arthropathies spécifiques, non classées ailleurs, coude non spécifié
+M12.831	d'autres arthropathies spécifiques, non classées ailleurs, poignet droit
+M12.832	d'autres arthropathies spécifiques, non classées ailleurs, poignet gauche
+M12.839	d'autres arthropathies spécifiques, non classées ailleurs, poignet non spécifié
+M12.841	d'autres arthropathies spécifiques, non classées ailleurs, main droite
+M12.842	d'autres arthropathies spécifiques, non classées ailleurs, main gauche
+M12.849	d'autres arthropathies spécifiques, non classées ailleurs, main non spécifiée
+M12.851	d'autres arthropathies spécifiques, non classées ailleurs, hanche droite
+M12.852	d'autres arthropathies spécifiques, non classées ailleurs, hanche gauche
+M12.859	d'autres arthropathies spécifiques, non classées ailleurs, hanche non spécifiée
+M12.861	d'autres arthropathies spécifiques, non classées ailleurs, genou droit
+M12.862	d'autres arthropathies spécifiques, non classées ailleurs, genou gauche
+M12.869	d'autres arthropathies spécifiques, non classées ailleurs, genou non spécifié
+M12.871	d'autres arthropathies spécifiques, non classées ailleurs, cheville et pied droits
+M12.872	d'autres arthropathies spécifiques, non classées ailleurs, cheville et pied gauches
+M12.879	d'autres arthropathies spécifiques, non classées ailleurs, cheville et pied non spécifiés
+M12.88	d'autres arthropathies spécifiques, non classées ailleurs, autre site spécifié
+M12.89	d'autres arthropathies spécifiques, non classées ailleurs, multiples sites
+M12.9	arthropathie, sans précision
+M13.0	polyarthrite, sans précision
+M13.10	monoarthrite, non classée ailleurs, site non spécifié
+M13.111	monoarthrite, non classée ailleurs, épaule droite
+M13.112	monoarthrite, non classée ailleurs, épaule gauche
+M13.119	monoarthrite, non classée ailleurs, épaule non spécifiée
+M13.121	monoarthrite, non classée ailleurs, coude droit
+M13.122	monoarthrite, non classée ailleurs, coude gauche
+M13.129	monoarthrite, non classée ailleurs, coude non spécifié
+M13.131	monoarthrite, non classée ailleurs, poignet droit
+M13.132	monoarthrite, non classée ailleurs, poignet gauche
+M13.139	monoarthrite, non classée ailleurs, poignet non spécifié
+M13.141	monoarthrite, non classée ailleurs, main droite
+M13.142	monoarthrite, non classée ailleurs, main gauche
+M13.149	monoarthrite, non classée ailleurs, main non spécifiée
+M13.151	monoarthrite, non classée ailleurs, hanche droite
+M13.152	monoarthrite, non classée ailleurs, hanche gauche
+M13.159	monoarthrite, non classée ailleurs, hanche non spécifiée
+M13.161	monoarthrite, non classée ailleurs, genou droit
+M13.162	monoarthrite, non classée ailleurs, genou gauche
+M13.169	monoarthrite, non classée ailleurs, genou non spécifié
+M13.171	monoarthrite, non classée ailleurs, cheville et pied droits
+M13.172	monoarthrite, non classée ailleurs, cheville et pied gauches
+M13.179	monoarthrite, non classée ailleurs, cheville et pied non spécifiés
+M13.80	autre arthrite spécifique, site non spécifié
+M13.811	autre arthrite spécifique, épaule droite
+M13.812	autre arthrite spécifique, épaule gauche
+M13.819	autre arthrite spécifique, épaule non spécifiée
+M13.821	autre arthrite spécifique, coude droit
+M13.822	autre arthrite spécifique, coude gauche
+M13.829	autre arthrite spécifique, coude non spécifié
+M13.831	autre arthrite spécifique, poignet droit
+M13.832	autre arthrite spécifique, poignet gauche
+M13.839	autre arthrite spécifique, poignet non spécifié
+M13.841	autre arthrite spécifique, main droite
+M13.842	autre arthrite spécifique, main gauche
+M13.849	autre arthrite spécifique, main non spécifiée
+M13.851	autre arthrite spécifique, hanche droite
+M13.852	autre arthrite spécifique, hanche gauche
+M13.859	autre arthrite spécifique, hanche non spécifiée
+M13.861	autre arthrite spécifique, genou droit
+M13.862	autre arthrite spécifique, genou gauche
+M13.869	autre arthrite spécifique, genou non spécifié
+M13.871	autre arthrite spécifique, cheville et pied droits
+M13.872	autre arthrite spécifique, cheville et pied gauches
+M13.879	autre arthrite spécifique, cheville et pied non spécifiés
+M13.88	autre arthrite spécifique, autre site spécifié
+M13.89	autre arthrite spécifique, multiples sites
+M14.60	arthropathie de Charcot, site non spécifié
+M14.611	arthropathie de Charcot, épaule droite
+M14.612	arthropathie de Charcot, épaule gauche
+M14.619	arthropathie de Charcot, épaule non spécifiée
+M14.621	arthropathie de Charcot, coude droit
+M14.622	arthropathie de Charcot, coude gauche
+M14.629	arthropathie de Charcot, coude non spécifié
+M14.631	arthropathie de Charcot, poignet droit
+M14.632	arthropathie de Charcot, poignet gauche
+M14.639	arthropathie de Charcot, poignet non spécifié
+M14.641	arthropathie de Charcot, main droite
+M14.642	arthropathie de Charcot, main gauche
+M14.649	arthropathie de Charcot, main non spécifiée
+M14.651	arthropathie de Charcot, hanche droite
+M14.652	arthropathie de Charcot, hanche gauche
+M14.659	arthropathie de Charcot, hanche non spécifiée
+M14.661	arthropathie de Charcot, genou droit
+M14.662	arthropathie de Charcot, genou gauche
+M14.669	arthropathie de Charcot, genou non spécifié
+M14.671	arthropathie de Charcot, cheville et pied droits
+M14.672	arthropathie de Charcot, cheville et pied gauches
+M14.679	arthropathie de Charcot, cheville et pied non spécifiés
+M14.68	arthropathie de Charcot, vertèbres
+M14.69	arthropathie de Charcot, multiples sites
+M14.80	arthropathies au cours d'autres maladies spécifiées classées ailleurs, site non précisé
+M14.811	arthropathies au cours d'autres maladies spécifiées classées ailleurs, épaule droite
+M14.812	arthropathies au cours d'autres maladies spécifiées classées ailleurs, épaule gauche
+M14.819	arthropathies au cours d'autres maladies spécifiées classées ailleurs, épaule non précisée
+M14.821	arthropathies au cours d'autres maladies spécifiées classées ailleurs, coude droit
+M14.822	arthropathies au cours d'autres maladies spécifiées classées ailleurs, coude gauche
+M14.829	arthropathies au cours d'autres maladies spécifiées classées ailleurs, coude non précisé
+M14.831	arthropathies au cours d'autres maladies spécifiées classées ailleurs, poignet droit
+M14.832	arthropathies au cours d'autres maladies spécifiées classées ailleurs, poignet gauche
+M14.839	arthropathies au cours d'autres maladies spécifiées classées ailleurs, poignet non précisé
+M14.841	arthropathies au cours d'autres maladies spécifiées classées ailleurs, main droite
+M14.842	arthropathies au cours d'autres maladies spécifiées classées ailleurs, main gauche
+M14.849	arthropathies au cours d'autres maladies spécifiées classées ailleurs, main non précisée
+M14.851	arthropathies au cours d'autres maladies spécifiées classées ailleurs, hanche droite
+M14.852	arthropathies au cours d'autres maladies spécifiées classées ailleurs, hanche gauche
+M14.859	arthropathies au cours d'autres maladies spécifiées classées ailleurs, hanche non précisée
+M14.861	arthropathies au cours d'autres maladies spécifiées classées ailleurs, genou droit
+M14.862	arthropathies au cours d'autres maladies spécifiées classées ailleurs, genou gauche
+M14.869	arthropathies au cours d'autres maladies spécifiées classées ailleurs, genou non précisé
+M14.871	arthropathies au cours d'autres maladies spécifiées classées ailleurs, cheville et pied droits
+M14.872	arthropathies au cours d'autres maladies spécifiées classées ailleurs, cheville et pied gauches
+M14.879	arthropathies au cours d'autres maladies spécifiées classées ailleurs, cheville et pied non précisés
+M14.88	arthropathies au cours d'autres maladies spécifiées classées ailleurs, vertèbres
+M14.89	arthropathies au cours d'autres maladies spécifiées classées ailleurs, multiples sites
+M15.0	arthrose primaire généralisée
+M15.0	ostéo-arthrose primaire généralisée
+M15.1	nodosités d'Heberden avec arthropathie
+M15.2	nodosités de Bouchard avec arthropathie
+M15.3	arthrose secondaire multiple
+M15.4	arthrose érosive
+M15.8	d'autres polyarthrose
+M15.9	polyarthrose, non spécifiée
+M16.0	coxarthrose primaire bilatérale de la hanche
+M16.10	coxarthrose primaire unilatérale, hanche non spécifiée
+M16.11	coxarthrose primaire unilatérale, hanche droite
+M16.12	coxarthrose primaire unilatérale, hanche gauche
+M16.2	coxarthrose bilatérale résultant de dysplasie de la hanche
+M16.30	coxarthrose unilatérale résultant de dysplasie de la hanche, hanche non spécifiée
+M16.31	coxarthrose unilatérale résultant de dysplasie de la hanche, hanche droite
+M16.32	coxarthrose unilatérale résultant de dysplasie de la hanche, hanche gauche
+M16.4	coxarthrose post-traumatique bilatérale de la hanche
+M16.50	coxarthrose post-traumatique unilatérale, hanche non spécifiée
+M16.51	coxarthrose post-traumatique unilatérale, hanche droite
+M16.52	coxarthrose post-traumatique unilatérale, hanche gauche
+M16.6	autre coxarthrose secondaire bilatérale de la hanche
+M16.7	autre coxarthrose secondaire unilatérale de la hanche
+M16.9	coxarthrose de la hanche, non spécifiée
+M17.0	gonarthrose primaire bilatérale du genou
+M17.10	gonarthrose primaire unilatérale, genou non spécifié
+M17.11	gonarthrose primaire unilatérale, genou droit
+M17.12	gonarthrose primaire unilatérale, genou gauche
+M17.2	gonarthrose post-traumatique bilatérale du genou
+M17.30	gonarthrose post-traumatique unilatérale, genou non spécifié
+M17.31	gonarthrose post-traumatique unilatérale, genou droit
+M17.32	gonarthrose post-traumatique unilatérale, genou gauche
+M17.4	autre gonarthrose secondaire bilatérale du genou
+M17.5	autre gonarthrose secondaire unilatérale du genou
+M17.9	gonarthrose, sans précision
+M18.0	arthrose primaire bilatérale des premières articulations carpo-métacarpiennes
+M18.10	arthrose primaire unilatérale de la première articulation carpo-métacarpienne, main non spécifiée
+M18.11	arthrose primaire unilatérale de la première articulation carpo-métacarpienne, main droite
+M18.12	arthrose primaire unilatérale de la première articulation carpo-métacarpienne, main gauche
+M18.2	arthrose post-traumatique bilatérale des premières articulations carpo-métacarpiennes
+M18.30	arthrose post-traumatique unilatérale de la première articulation carpo-métacarpienne, main non spécifiée
+M18.31	arthrose post-traumatique unilatérale de la première articulation carpo-métacarpienne, main droite
+M18.32	arthrose post-traumatique unilatérale de la première articulation carpo-métacarpienne, main gauche
+M18.4	autre arthrose secondaire bilatérale des premières articulations carpo-métacarpiennes
+M18.50	autre arthrose secondaire unilatérale de la première articulation carpo-métacarpienne, main non spécifiée
+M18.51	autre arthrose secondaire unilatérale de la première articulation carpo-métacarpienne, main droite
+M18.52	autre arthrose secondaire unilatérale de la première articulation carpo-métacarpienne, main gauche
+M18.9	arthrose de la première articulation carpo-métacarpienne, non spécifiée
+M19.11	omarthrose primaire, épaule droite
+M19.12	omarthrose primaire, épaule gauche
+M19.19	omarthrose primaire, épaule non spécifiée
+M19.21	arthrose primaire, coude droit
+M19.22	arthrose primaire, coude gauche
+M19.29	arthrose primaire, coude non spécifié
+M19.31	arthrose primaire, poignet droit
+M19.32	arthrose primaire, poignet gauche
+M19.39	arthrose primaire, poignet non spécifié
+M19.41	arthrose primaire, main droite
+M19.42	arthrose primaire, main gauche
+M19.49	arthrose primaire, main non spécifiée
+M19.71	arthrose primaire, cheville et pied droits
+M19.72	arthrose primaire, cheville et pied gauches
+M19.79	arthrose primaire, cheville et pied non spécifiés
+M19.111	omarthrose post-traumatique, épaule droite
+M19.112	omarthrose post-traumatique, épaule gauche
+M19.119	omarthrose post-traumatique, épaule non spécifiée
+M19.121	arthrose post-traumatique, coude droit
+M19.122	arthrose post-traumatique, coude gauche
+M19.129	arthrose post-traumatique, coude non spécifié
+M19.131	arthrose post-traumatique, poignet droit
+M19.132	arthrose post-traumatique, poignet gauche
+M19.139	arthrose post-traumatique, poignet non spécifié
+M19.141	arthrose post-traumatique, main droite
+M19.142	arthrose post-traumatique, main gauche
+M19.149	arthrose post-traumatique, main non spécifiée
+M19.171	arthrose post-traumatique, cheville et pied droits
+M19.172	arthrose post-traumatique, cheville et pied gauches
+M19.179	arthrose post-traumatique, cheville et pied non spécifiés
+M19.211	omarthrose secondaire, épaule droite
+M19.212	omarthrose secondaire, épaule gauche
+M19.219	omarthrose secondaire, épaule non spécifiée
+M19.221	arthrose secondaire, coude droit
+M19.222	arthrose secondaire, coude gauche
+M19.229	arthrose secondaire, coude non spécifié
+M19.231	arthrose secondaire, poignet droit
+M19.232	arthrose secondaire, poignet gauche
+M19.239	arthrose secondaire, poignet non spécifié
+M19.241	arthrose secondaire, main droite
+M19.242	arthrose secondaire, main gauche
+M19.249	arthrose secondaire, main non spécifiée
+M19.271	arthrose secondaire, cheville et pied droits
+M19.272	arthrose secondaire, cheville et pied gauches
+M19.279	arthrose secondaire, cheville et pied non spécifiés
+M19.90	arthrose non spécifiée, site non précisé
+M19.91	arthrose primaire, site non spécifié
+M19.92	arthrose post-traumatique site non spécifié
+M19.93	arthrose secondaire site non spécifié
+M1A.00X0	goutte chronique idiopathique, site non spécifié, sans tophus 
+M1A.00X1	goutte chronique idiopathique, site non spécifié, avec tophus 
+M1A.110	goutte chronique idiopathique, épaule droite, sans tophus 
+M1A.111	goutte chronique idiopathique, épaule droite, avec tophus 
+M1A.120	goutte chronique idiopathique, épaule gauche sans tophus
+M1A.121	goutte chronique idiopathique, épaule gauche, avec tophus 
+M1A.190	goutte chronique idiopathique, épaule non spécifiée, sans tophus 
+M1A.191	goutte chronique idiopathique, épaule non spécifiée, avec tophus 
+M1A.210	goutte chronique idiopathique, coude droit, sans tophus 
+M1A.211	goutte chronique idiopathique, coude droit, avec tophus 
+M1A.220	goutte chronique idiopathique, coude gauche, sans tophus 
+M1A.221	goutte chronique idiopathique, coude gauche, avec tophus
+M1A.290	goutte chronique idiopathique, coude non spécifié, sans tophus 
+M1A.291	goutte chronique idiopathique, coude non spécifié, avec tophus
+M1A.310	goutte chronique idiopathique, poignet droit, sans tophus
+M1A.311	goutte chronique idiopathique, poignet droit, avec tophus 
+M1A.320	goutte chronique idiopathique, poignet gauche, sans tophus
+M1A.321	goutte chronique idiopathique, poignet gauche, avec tophus
+M1A.390	goutte chronique idiopathique, poignet non spécifié, sans tophus 
+M1A.391	goutte chronique idiopathique, poignet non spécifié, avec tophus 
+M1A.410	goutte chronique idiopathique, main droite, sans tophus 
+M1A.411	goutte chronique idiopathique, main droite, avec tophus
+M1A.420	goutte chronique idiopathique, main gauche, sans tophus 
+M1A.421	goutte chronique idiopathique, main gauche, avec tophus 
+M1A.490	goutte chronique idiopathique, main non spécifiée, sans tophus
+M1A.491	goutte chronique idiopathique, main non spécifiée, avec tophus 
+M1A.510	goutte chronique idiopathique, hanche droite, sans tophus 
+M1A.511	goutte chronique idiopathique, hanche droite, avec tophus 
+M1A.520	goutte chronique idiopathique, hanche gauche, sans tophus 
+M1A.521	goutte chronique idiopathique, hanche gauche, avec tophus 
+M1A.590	goutte chronique idiopathique, hanche non spécifiée, sans tophus 
+M1A.591	goutte chronique idiopathique, hanche non spécifiée, avec tophus 
+M1A.610	goutte chronique idiopathique, genou droit, sans tophus 
+M1A.611	goutte chronique idiopathique, genou droit, avec tophus 
+M1A.620	goutte chronique idiopathique, genou gauche, sans tophus 
+M1A.621	goutte chronique idiopathique, genou gauche, avec tophus 
+M1A.690	goutte chronique idiopathique, genou non spécifié, sans tophus 
+M1A.691	goutte chronique idiopathique, genou non spécifié, avec tophus 
+M1A.710	goutte chronique idiopathique, cheville et pied droits, sans tophus 
+M1A.711	goutte chronique idiopathique, cheville et pied droits, avec tophus
+M1A.720	goutte chronique idiopathique, cheville et pied gauches, sans tophus 
+M1A.721	goutte chronique idiopathique, cheville et pied gauches, avec tophus 
+M1A.790	goutte chronique idiopathique, cheville et pied non spécifiés, sans tophus 
+M1A.791	goutte chronique idiopathique, cheville et pied non spécifiés, avec tophus 
+M1A.08X0	goutte chronique idiopathique, vertèbres, sans tophus 
+M1A.08X1	goutte chronique idiopathique, vertèbres, avec tophus
+M1A.09X0	goutte chronique idiopathique, multiples sites, sans tophus
+M1A.09X1	goutte chronique idiopathique, multiples sites, avec tophus 
+M1A.10X0	goutte chronique saturnine, site non spécifié, sans tophus
+M1A.10X1	goutte chronique saturnine, site non spécifié, avec tophus
+M1A.1110	goutte chronique saturnine, épaule droite, sans tophus 
+M1A.1111	goutte chronique saturnine, épaule droite, avec tophus 
+M1A.1120	goutte chronique saturnine, épaule gauche sans tophus 
+M1A.1121	goutte chronique saturnine, épaule gauche, avec tophus 
+M1A.1190	goutte chronique saturnine, épaule non spécifiée, sans tophus 
+M1A.1191	goutte chronique saturnine, épaule non spécifiée, avec tophus 
+M1A.1210	goutte chronique saturnine, coude droit, sans tophus 
+M1A.1211	goutte chronique saturnine, coude droit, avec tophus 
+M1A.1220	goutte chronique saturnine, coude gauche, sans tophus
+M1A.1221	goutte chronique saturnine, coude gauche, avec tophus
+M1A.1290	goutte chronique saturnine, coude non spécifié, sans tophus 
+M1A.1291	goutte chronique saturnine, coude non spécifié, avec tophus 
+M1A.1310	goutte chronique saturnine, poignet droit, sans tophus 
+M1A.1311	goutte chronique saturnine, poignet droit, avec tophus 
+M1A.1320	goutte chronique saturnine, poignet gauche, sans tophus 
+M1A.1321	goutte chronique saturnine, poignet gauche, avec tophus 
+M1A.1390	goutte chronique saturnine, poignet non spécifié, sans tophus
+M1A.1391	goutte chronique saturnine, poignet non spécifié, avec tophus 
+M1A.1410	goutte chronique saturnine, main droite, sans tophus 
+M1A.1411	goutte chronique saturnine, main droite, avec tophus 
+M1A.1420	goutte chronique saturnine, main gauche, sans tophus 
+M1A.1421	goutte chronique saturnine, main gauche, avec tophus
+M1A.1490	goutte chronique saturnine, main non spécifiée, sans tophus 
+M1A.1491	goutte chronique saturnine, main non spécifiée, avec tophus
+M1A.1510	goutte chronique saturnine, hanche droite, sans tophus 
+M1A.1511	goutte chronique saturnine, hanche droite, avec tophus
+M1A.1520	goutte chronique saturnine, hanche gauche, sans tophus 
+M1A.1521	goutte chronique saturnine, hanche gauche, avec tophus
+M1A.1590	goutte chronique saturnine, hanche non spécifiée, sans tophus 
+M1A.1591	goutte chronique saturnine, hanche non spécifiée, avec tophus 
+M1A.1610	goutte chronique saturnine, genou droit, sans tophus 
+M1A.1611	goutte chronique saturnine, genou droit, avec tophus 
+M1A.1620	goutte chronique saturnine, genou gauche, sans tophus
+M1A.1621	goutte chronique saturnine, genou gauche, avec tophus 
+M1A.1690	goutte chronique saturnine, genou non spécifié, sans tophus 
+M1A.1691	goutte chronique saturnine, genou non spécifié, avec tophus 
+M1A.1710	goutte chronique saturnine, cheville et pied droits, sans tophus 
+M1A.1711	goutte chronique saturnine, cheville et pied droits, avec tophus 
+M1A.1720	goutte chronique saturnine, cheville et pied gauches, sans tophus 
+M1A.1721	goutte chronique saturnine, cheville et pied gauches, avec tophus
+M1A.1790	goutte chronique saturnine, cheville et pied non spécifiés, sans tophus 
+M1A.1791	goutte chronique saturnine, cheville et pied non spécifiéses, avec tophus 
+M1A.18X0	goutte chronique saturnine, vertèbres, sans tophus 
+M1A.18X1	goutte chronique saturnine, vertèbres, avec tophus 
+M1A.19X0	goutte chronique saturnine, multiples sites, sans tophus 
+M1A.19X1	goutte chronique saturnine, multiples sites, avec tophus 
+M1A.20X0	goutte chronique induite par des médicaments, site non spécifié, sans tophus 
+M1A.20X1	goutte chronique induite par des médicaments, site non spécifié, avec tophus 
+M1A.2110	goutte chronique induite par des médicaments, épaule droite, sans tophus 
+M1A.2111	goutte chronique induite par des médicaments, épaule droite, avec tophus 
+M1A.2120	goutte chronique induite par des médicaments, épaule gauche sans tophus 
+M1A.2121	goutte chronique induite par des médicaments, épaule gauche, avec tophus 
+M1A.2190	goutte chronique induite par des médicaments, épaule non spécifiée, sans tophus 
+M1A.2191	goutte chronique induite par des médicaments, épaule non spécifiée, avec tophus 
+M1A.2210	goutte chronique induite par des médicaments, coude droit, sans tophus 
+M1A.2211	goutte chronique induite par des médicaments, coude droit, avec tophus 
+M1A.2220	goutte chronique induite par des médicaments, coude gauche, sans tophus 
+M1A.2221	goutte chronique induite par des médicaments, coude gauche, avec tophus 
+M1A.2290	goutte chronique induite par des médicaments, coude non spécifié, sans tophus 
+M1A.2291	goutte chronique induite par des médicaments, coude non spécifié, avec tophus 
+M1A.2310	goutte chronique induite par des médicaments, poignet droit, sans tophus 
+M1A.2311	goutte chronique induite par des médicaments, poignet droit, avec tophus 
+M1A.2320	goutte chronique induite par des médicaments, poignet gauche, sans tophus 
+M1A.2321	goutte chronique induite par des médicaments, poignet gauche, avec tophus 
+M1A.2390	goutte chronique induite par des médicaments, poignet non spécifié, sans tophus
+M1A.2391	goutte chronique induite par des médicaments, poignet non spécifié, avec tophus 
+M1A.2410	goutte chronique induite par des médicaments, main droite, sans tophus 
+M1A.2411	goutte chronique induite par des médicaments, main droite, avec tophus 
+M1A.2420	goutte chronique induite par des médicaments, main gauche, sans tophus 
+M1A.2421	goutte chronique induite par des médicaments, main gauche, avec tophus 
+M1A.2490	goutte chronique induite par des médicaments, main non spécifiée, sans tophus 
+M1A.2491	goutte chronique induite par des médicaments, main non spécifiée, avec tophus 
+M1A.2510	goutte chronique induite par des médicaments, hanche droite, sans tophus 
+M1A.2511	goutte chronique induite par des médicaments, hanche droite, avec tophus 
+M1A.2520	goutte chronique induite par des médicaments, hanche gauche, sans tophus 
+M1A.2521	goutte chronique induite par des médicaments, hanche gauche, avec tophus 
+M1A.2590	goutte chronique induite par des médicaments, hanche non spécifiée, sans tophus 
+M1A.2591	goutte chronique induite par des médicaments, hanche non spécifiée, avec tophus 
+M1A.2611	goutte chronique induite par des médicaments, genou droit, avec tophus 
+M1A.2620	goutte chronique induite par des médicaments, genou gauche, sans tophus 
+M1A.2621	goutte chronique induite par des médicaments, genou gauche, avec tophus 
+M1A.2690	goutte chronique induite par des médicaments, genou non spécifié, sans tophus 
+M1A.2691	goutte chronique induite par des médicaments, genou non spécifié, avec tophus 
+M1A.2710	goutte chronique induite par des médicaments, cheville et pied droits, sans tophus 
+M1A.2711	goutte chronique induite par des médicaments, cheville et pied droits, avec tophus
+M1A.2720	goutte chronique induite par des médicaments, cheville et pied gauches, sans tophus
+M1A.2721	goutte chronique induite par des médicaments, cheville et pied gauches, avec tophus
+M1A.2790	goutte chronique induite par des médicaments, cheville et pied non spécifiés, sans tophus
+M1A.2791	goutte chronique induite par des médicaments, cheville et pied non spécifiés, avec tophus
+M1A.28X0	goutte chronique induite par des médicaments, vertèbres, sans tophus 
+M1A.28X1	goutte chronique induite par des médicaments, vertèbres, avec tophus 
+M1A.29X0	goutte chronique induite par des médicaments, multiples sites, sans tophus 
+M1A.29X1	goutte chronique induite par des médicaments, multiples sites, avec tophus 
+M1A.30X0	goutte chronique due à une altération de la fonction rénale, site non spécifié, sans tophus
+M1A.30X1	goutte chronique due à une altération de la fonction rénale, site non spécifié, avec tophus 
+M1A.3110	goutte chronique due à une altération de la fonction rénale, épaule droite, sans tophus
+M1A.3111	goutte chronique due à une altération de la fonction rénale, épaule droite, avec tophus
+M1A.3120	goutte chronique due à une altération de la fonction rénale, épaule gauche sans tophus 
+M1A.3121	goutte chronique due à une altération de la fonction rénale, épaule gauche, avec tophus 
+M1A.3190	goutte chronique due à une altération de la fonction rénale, épaule non spécifiée, sans tophus 
+M1A.3191	goutte chronique due à une altération de la fonction rénale, épaule non spécifiée, avec tophus
+M1A.3210	goutte chronique due à une altération de la fonction rénale, coude droit, sans tophus 
+M1A.3211	goutte chronique due à une altération de la fonction rénale, coude droit, avec tophus
+M1A.3220	goutte chronique due à une altération de la fonction rénale, coude gauche, sans tophus 
+M1A.3221	goutte chronique due à une  altération de fonction rénale, coude gauche, avec tophus 
+M1A.3290	goutte chronique due à une altération de la fonction rénale, coude non spécifié, sans tophus 
+M1A.3291	goutte chronique due à une altération de la fonction rénale, coude non spécifié, avec tophus 
+M1A.3310	goutte chronique due à une altération de la fonction rénale, poignet droit, sans tophus
+M1A.3311	goutte chronique due à une altération de la fonction rénale, poignet droit, avec tophus 
+M1A.3320	goutte chronique due à une altération de la fonction rénale, poignet gauche, sans tophus 
+M1A.3321	goutte chronique due à une altération de la fonction rénale, poignet gauche, avec tophus
+M1A.3390	goutte chronique due à une altération de la fonction rénale, poignet non spécifié, sans tophus 
+M1A.3391	goutte chronique due à une altération de la fonction rénale, poignet non spécifié, avec tophus 
+M1A.3410	goutte chronique due à une altération de la fonction rénale, main droite, sans tophus 
+M1A.3411	goutte chronique due à une altération de la fonction rénale, main droite, avec tophus
+M1A.3420	goutte chronique due à une altération de la fonction rénale, main gauche, sans tophus 
+M1A.3421	goutte chronique due à une altération de la fonction rénale, main gauche, avec tophus
+M1A.3490	goutte chronique due à une altération de la fonction rénale, main non spécifiée, sans tophus
+M1A.3491	goutte chronique due à une altération de la fonction rénale, main non spécifiée, avec tophus
+M1A.3510	goutte chronique due à une altération de la fonction rénale, hanche droite, sans tophus 
+M1A.3511	goutte chronique due à une altération de la fonction rénale, hanche droite, avec tophus 
+M1A.3520	goutte chronique due à une altération de la fonction rénale, hanche gauche, sans tophus 
+M1A.3521	goutte chronique due à une altération de la fonction rénale, hanche gauche, avec tophus
+M1A.3590	goutte chronique due à une altération de la fonction rénale, hanche non spécifiée, sans tophus
+M1A.3591	goutte chronique due à une altération de la fonction rénale, hanche non spécifiée, avec tophus 
+M1A.3610	goutte chronique due à une altération de la fonction rénale, genou droit, sans tophus
+M1A.3611	goutte chronique due à une altération de la fonction rénale, genou droit, avec tophus 
+M1A.3620	goutte chronique due à une altération de la fonction rénale, genou gauche, sans tophus 
+M1A.3621	goutte chronique due à une altération de la fonction rénale, genou gauche, avec tophus
+M1A.3690	goutte chronique due à une altération de la fonction rénale, genou non spécifié, sans tophus 
+M1A.3691	goutte chronique due à une altération de la fonction rénale, genou non spécifié, avec tophus 
+M1A.3710	goutte chronique due à une altération de la fonction rénale, cheville et pied droits, sans tophus 
+M1A.3711	goutte chronique due à une altération de la fonction rénale, cheville et pied droits, avec tophus 
+M1A.3720	goutte chronique due à une altération de la fonction rénale, cheville et pied gauches, sans tophus 
+M1A.3721	goutte chronique due à une altération de la fonction rénale, cheville et pied gauches, avec tophus 
+M1A.3790	goutte chronique due à une  altération de fonction rénale, cheville et pied non spécifiés, sans tophus 
+M1A.3791	goutte chronique due à une altération de la fonction rénale, cheville et pied non spécifiéses, avec tophus 
+M1A.38X0	goutte chronique due à une altération de la fonction rénale, vertèbres, sans tophus 
+M1A.38X1	goutte chronique due à une altération de la fonction rénale, vertèbres, avec tophus 
+M1A.39X0	goutte chronique due à une altération de la fonction rénale, multiples sites, sans tophus
+M1A.39X1	goutte chronique due à une altération de la fonction rénale, multiples sites, avec tophus 
+M1A.40X0	autre goutte chronique secondaire, site non spécifié, sans tophus 
+M1A.40X1	autre goutte chronique secondaire, site non spécifié, avec tophus 
+M1A.4110	autre goutte chronique secondaire, épaule droite, sans tophus 
+M1A.4111	autre goutte chronique secondaire, épaule droite, avec tophus 
+M1A.4120	autre goutte chronique secondaire, épaule gauche sans tophus 
+M1A.4121	autre goutte chronique secondaire, épaule gauche, avec tophus 
+M1A.4190	autre goutte chronique secondaire, épaule non spécifiée, sans tophus 
+M1A.4191	autre goutte chronique secondaire, épaule non spécifiée, avec tophus 
+M1A.4210	autre goutte chronique secondaire, coude droit, sans tophus 
+M1A.4211	autre goutte chronique secondaire, coude droit, avec tophus 
+M1A.4220	autre goutte chronique secondaire, coude gauche, sans tophus 
+M1A.4221	autre goutte chronique secondaire, coude gauche, avec tophus 
+M1A.4290	autre goutte chronique secondaire, coude non spécifié, sans tophus
+M1A.4291	autre goutte chronique secondaire, coude non spécifié, avec tophus
+M1A.4310	autre goutte chronique secondaire, poignet droit, sans tophus
+M1A.4311	autre goutte chronique secondaire, poignet droit, avec tophus 
+M1A.4320	autre goutte chronique secondaire, poignet gauche, sans tophus 
+M1A.4321	autre goutte chronique secondaire, poignet gauche, avec tophus
+M1A.4390	autre goutte chronique secondaire, poignet non spécifié, sans tophus 
+M1A.4391	autre goutte chronique secondaire, poignet non spécifié, avec tophus
+M1A.4410	autre goutte chronique secondaire, main droite, sans tophus 
+M1A.4411	autre goutte chronique secondaire, main droite, avec tophus 
+M1A.4420	autre goutte chronique secondaire, main gauche, sans tophus 
+M1A.4421	autre goutte chronique secondaire, main gauche, avec tophus 
+M1A.4490	autre goutte chronique secondaire, main non spécifiée, sans tophus 
+M1A.4491	autre goutte chronique secondaire, main non spécifiée, avec tophus
+M1A.4510	, sans tophus 
+M1A.4511	autre goutte chronique secondaire, hanche droite, avec tophus 
+M1A.4520	autre goutte chronique secondaire, hanche gauche, sans tophus 
+M1A.4521	autre goutte chronique secondaire, hanche gauche, avec tophus 
+M1A.4590	autre goutte chronique secondaire, hanche non spécifiée, sans tophus
+M1A.4591	autre goutte chronique secondaire, hanche non spécifiée, avec tophus 
+M1A.4610	autre goutte chronique secondaire, genou droit, sans tophus 

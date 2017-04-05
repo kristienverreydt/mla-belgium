@@ -1,0 +1,1057 @@
+F45.8	dermatose psychogène
+F45.8	urticaire psychogène
+F44.4	camptocormie
+F44.4	camptospasme
+F44.4	dysphonie spastique adductrice psychogène
+F44.4	dysphonie spastique adductrice de la conversion hystérique
+F95.2	dysphonie de la maladie de Gilles de la Tourette
+F44.4	trouble psychogène de la voix
+F44.4	dysphonie psychogène
+F44.4	trouble fonctionnel de la voix
+F44.4	aphonie psychogène
+F44.4	mutité de conversion
+F44.4	mutisme de conversion
+F44.4	aphonie de conversion
+F44.4	dysphonie de conversion
+F44.4	trouble de la voix dû à un conflit psychosexuel
+F44.4 / F64.0	trouble de la voix dû au transsexualisme
+F45.3	asthénie neurocirculatoire
+F45.3	névrose cardiaque
+F45.3	névrose tachycardique
+F45.3	coeur irritable
+F45.3	syndrome d'effort
+F45.3	syndrome de Da Costa
+F95.8	syndrome du tripoteur d'électrostimulateur
+F73.9	syndrome de De Sanctis-Cacchione
+F73.9	idiotie xérodermique
+F04	psychose de Korsakoff
+F04	syndrome amnésique de la maladie de Gayet-Wernicke
+F04	syndrome de Korsakoff
+F04	psychose de Korsakoff non alcoolique
+F15.2	syndrome de dépendance à la pyridoxine
+F53.0	dépression post-partum
+F99	trouble mental
+F48.9	névrose
+F48.9	trouble mental non psychotique
+F48.8	névrose post-partum
+F48.8	névrose puerpérale
+F99	diagnostic sur l'Axe I
+F99	diagnostic sur l'Axe II
+F99	diagnostic sur l'Axe III
+F99	diagnostic sur l'Axe IV
+F99	diagnostic sur l'Axe V
+F60.9	indication d'une modification de l'état du patient
+F60.9	indication d'une modification du comportement du patient
+F60.9	indication d'un changement de comportement du patient
+F60.9	indication d'une modification de l'état cognitif du patient
+F60.9	indication d'un changement de l'état cognitif du patient
+F60.9	indication d'une modification de l'état émotionnel du patient
+F60.9	indication d'un changement de l'état émotionnel du patient
+F60.9	indication d'une modification de l'état physique du patient
+F60.9	indication d'un changement de l'état physique du patient
+F60.9	indication d'une modification de l'état psychologique du patient
+F60.9	indication d'un changement de l'état psychologique du patient
+F98.9	troubles mentaux apparaissant habituellement durant la première et la deuxième enfance ou à l'adolescence
+F98.9	trouble mental de la première enfance
+F98.9	trouble mental de la deuxième enfance
+F98.9	trouble mental de l'adolescence
+F94.0	mutisme électif
+F94.0	mutisme sélectif
+F93.8	trouble de l'identité
+F94.1	trouble réactionnel de l'attachement
+F94.1	trouble réactionnel de l'attachement de la première ou de la deuxième enfance
+F94.1	trouble réactionnel de l'attachement de la première enfance
+F94.1	trouble réactionnel de l'attachement de la deuxième enfance
+F94.1	trouble réactionnel de l'attachement de la première ou de la deuxième enfance, type inhibé
+F94.2	trouble réactionnel de l'attachement de la première ou de la deuxième enfance, type désinhibé
+F98.4	stéréotypies/comportements répétitifs
+F98.4	mouvements stéréotypés
+F98.4	mouvements stéréotypés avec comportement auto-mutilateur
+F90.0	trouble déficitaire indifférencié de l'attention
+F91.9	comportement perturbateur
+F91.8	trouble de conduite, type indifférencié
+F91.2	trouble de conduite, type en groupe
+F91.1	trouble de conduite, type solitaire-agressif
+F91.8	trouble de conduite, type à début pendant l'enfance
+F91.8	trouble de conduite, type à début pendant l'adolescence
+F90.9	hyperactivité avec déficit de l'attention
+F90.9	syndrome hyperkinétique
+F90.9	dysfonctionnement cérébral minime
+F90.9	syndrome d'hyperactivité de l'enfant
+F90.0	hyperactivité avec déficit de l'attention, type mixte
+F90.0	hyperactivité avec déficit de l'attention, type inattention prédominante
+F90.0	hyperactivité avec déficit de l'attention, type hyperactivité-impulsivité prédominante
+F91.3	trouble oppositionnel avec provocation
+F91.3	trouble d'émancipation de l'adolescent
+F93.9	trouble anxieux de l'enfance ou de l'adolescence
+F93.8	anxiété de l'enfance
+F93.8	anxiété de l'adolescence
+F93.0	angoisse de séparation de l'enfance
+F93.0	angoisse de séparation de l'enfance, début précoce
+F93.2	trouble d'évitement de l'enfance ou de l'adolescence
+F93.2	évitement de l'enfance
+F93.2	timidité de l'enfance
+F93.2	évitement de l'adolescence
+F93.8	hyperanxiété de l'enfance
+F50.9	trouble de l'alimentation
+F50.0	anorexie mentale
+F50.0	anorexie psychogène
+F50.0	anorexie mentale, type restrictif
+F50.0	anorexie mentale, type avec crises de boulimie/vomissements ou prise de purgatifs
+F50.2	bulimia nervosa
+F50.2	boulimie
+F50.2	boulimie, type avec vomissements ou prises de purgatifs
+F50.2	boulimie, type sans vomissements ni prise de purgatifs
+F98.3	pica
+F98.3	cittosis
+F98.3	perversion de l'appétit
+F98.2	mérycisme
+F98.2	mérycisme de l'enfance
+F98.2	trouble de l'alimentation de la première ou de la deuxième enfance
+F64.9	trouble de l'identité sexuelle
+F64.9	trouble de l'orientation sexuelle
+F64.0	dysphorie sexuelle
+F64.2	trouble de l'identité sexuelle de l'enfance
+F64.0	trouble de l'identité sexuelle de l'adolescence
+F64.0	trouble de l'identité sexuelle chez un adolescent antérieurement asexué
+F64.0	trouble de l'identité sexuelle chez un adolescent antérieurement homosexuel
+F64.0	trouble de l'identité sexuelle chez un adolescent antérieurement hétérosexuel
+F64.0	trouble de l'identité sexuelle de l'adulte
+F64.0	trouble de l'identité sexuelle chez l'adulte attiré sexuellement par les hommes
+F64.0	trouble de l'identité sexuelle chez l'adulte attiré sexuellement par les femmes
+F64.0	trouble de l'identité sexuelle chez l'adulte attiré sexuellement par les deux sexes
+F64.0	trouble de l'identité sexuelle chez l'adulte attiré sexuellement ni par un sexe, ni par l'autre
+F64.0	trouble de l'identité sexuelle chez un adulte antérieurement asexué
+F64.0	trouble de l'identité sexuelle chez un adulte antérieurement homosexuel
+F64.0	trouble de l'identité sexuelle chez un adulte antérieurement hétérosexuel
+F64.0	transsexualisme
+F64.0	transsexualisme chez un individu antérieurement asexué
+F64.0	transsexualisme chez un individu antérieurement homosexuel
+F64.0	transsexualisme chez un individu antérieurement hétérosexuel
+F95.9	trouble de tic
+F95.1	tic moteur chronique
+F95.1	tic vocal chronique
+F95.0	tic transitoire
+F95.0	tic transitoire, épisode unique
+F95.0	tic transitoire, épisode récurrent
+F95.2	association de tics vocaux et tics moteurs du syndrome de Gilles de la Tourette
+F95.8	tic atypique
+F98.1	trouble de l'élimination
+F98.1	encoprésie fonctionnelle
+F98.1	incontinence fécale d'origine non organique
+F98.1	encoprésie non organique
+F98.1	encoprésie
+F98.1	encoprésie fonctionnelle primaire
+F98.1	encoprésie fonctionnelle secondaire
+F98.1	encoprésie sans constipation ni incontinence par débordement
+F98.0	énurésie fonctionnelle
+F98.0	énurésie fonctionnelle primaire
+F98.0	énurésie fonctionnelle secondaire
+F98.0	énurésie exclusivement nocturne
+F98.0	énurésie exclusivement diurne
+F98.0	énurésie nocturne et diurne
+F89	trouble du développement mental
+F89	trouble du développement psychologique
+F84.9	trouble envahissant du développement
+F84.0	trouble autistique
+F84.0	autisme infantile
+F84.0	syndrome de Kanner
+F84.0	trouble autistique commençant dans l'enfance
+F84.0	autisme de l'enfant
+F84.3	psychose infantile symbiotique
+F84.2	syndrome de Rett
+F84.3	trouble désintégratif de l'enfance
+F84.3	syndrome de Heller
+F84.3	démence infantile
+F84.3	psychose désintégrative
+F84.5	syndrome d'Asperger
+F88	trouble spécifique du développement psychologique
+F81.9	trouble des acquisitions scolaires
+F81.9	trouble de l'apprentissage
+F81.2	trouble de l'acquisition de l'arithmétique
+F81.2	trouble de l'acquisition des mathématiques
+F81.8	trouble de l'acquisition de l'expression écrite
+F81.8	trouble de l'expression écrite
+F81.0	trouble de l'acquisition de la lecture
+F81.0	trouble de la lecture
+F80.9	trouble de l'acquisition du langage
+F80.9	trouble de la communication
+F80.9	trouble de l'acquisition de la parole
+F80.1	trouble de l'acquisition du langage de type expressif
+F80.1	trouble du langage de type expressif
+F80.2	trouble de l'acquisition du language de type réceptif
+F80.2	trouble du langage de type réceptif
+F80.0	trouble de l'acquisition de l'articulation
+F80.0	trouble phonologique
+F80.2	trouble du langage de type mixte réceptif-expressif
+F82	trouble de l'habileté motrice
+F82	trouble de l'acquisition de la coordination
+F84.4	syndrome hyperkinétique avec retard du développement
+F84.4	hyperkinésie avec retard du développement
+F79.9	retard mental
+F79.9	retard mental, sévérité non spécifiée
+F70.9	retard mental léger (Q.I. de 50 à 70)
+F70.9	débile (âge mental de 8 à 12 ans)
+F71.9	retard mental moyen (Q.I. de 35 à 49)
+F71.9	imbécile (âge mental de 2 à 7 ans)
+F72.9	retard mental grave (Q.I. de 20 à 34)
+F73.9	retard mental profond (Q.I. inférieur à 20)
+F73.9	idiot (âge mental de moins de 2 ans)
+F78.9	retard mental limite (Q.I. de 70 à 85)
+F78.9	idiot-savant
+F09	trouble mental organique
+F05.9	delirium
+F03	démence
+F06.2	trouble délirant organique
+F06.0	état hallucinatoire organique
+F06.3	trouble organique de l'humeur
+F06.3	trouble maniaque organique
+F06.3	trouble dépressif organique
+F06.3	trouble affectif mixte organique
+F06.4	trouble anxieux organique
+F07.9	trouble organique de la personnalité
+F07.9	psychosyndrome organique
+F07.9	trouble organique de la personnalité de type explosif
+F03	démence débutant dans la sénescence et dans le présenium
+F03	démence sénile
+F03	démence présénile
+F00.1*	démence dégénérative primaire de type Alzheimer, à début sénile, non compliquée
+F00.1*	démence de la maladie d'Alzheimer, à début tardif, non compliquée
+F00.1*	démence dégénérative primaire de type Alzheimer, à début sénile, avec delirium
+F00.1*	démence de type Alzheimer, à début tardif, avec delirium
+F00.1*	démence dégénérative primaire de type Alzheimer, à début sénile, avec idées délirantes
+F00.1*	démence de type Alzheimer, à début tardif, avec idées délirantes
+F00.1*	démence dégénérative primaire de type Alzheimer, à début sénile, avec dépression
+F00.1*	démence de type Alzheimer, à début tardif, avec humeur dépressive
+F00.0*	démence dégénérative primaire de type Alzheimer, à début présénile, non compliquée
+F00.0*	démence de type Alzheimer, à début précoce, non compliquée
+F00.0*	démence dégénérative primaire de type Alzheimer, à début présénile, avec delirium
+F00.0*	démence de type Alzheimer, à début précoce, avec delirium
+F00.0*	démence dégénérative primaire de type Alzheimer, à début présénile, avec idées délirantes
+F00.0*	démence de type Alzheimer, à début précoce, avec idées délirantes
+F00.0*	démence dégénérative primaire de type Alzheimer, à début présénile, avec dépression
+F00.0*	démence de type Alzheimer, à début précoce, avec humeur dépressive
+F01.1	démence par infarctus multiples
+F01.9	démence artériopathique
+F01.9	démence vasculaire
+F01.1	démence par infarctus multiples non compliquée
+F01.9	démence vasculaire non compliquée
+F01.1	démence par infarctus multiples avec delirium
+F01.9	démence vasculaire avec delirium
+F01.1	démence par infarctus multiples avec idées délirantes
+F01.9	démence vasculaire avec idées délirantes
+F01.1	démence par infarctus multiples avec dépression
+F01.9	démence vasculaire avec humeur dépressive
+F19.9	trouble mental organique induit par des substances psycho-actives
+F19.0	intoxication par une substance psycho-active
+F19.3	syndrome de sevrage à une substance psycho-active
+F19.4	delirium induit par une substance psycho-active
+F19.7	démence induite par une substance psycho-active
+F19.6	trouble amnésique induit par une substance psycho-active
+F19.5	trouble délirant induit par une substance psycho-active
+F19.5	état paranoïaque induit par une drogue
+F19.5	état hallucinatoire induit par une substance psycho-active
+F19.5	état hallucinatoire induit par une drogue
+F19.8	trouble de l'humeur induit par une substance psycho-active
+F19.8	trouble anxieux induit par une substance psycho-active
+F19.8	psycho-syndrome organique induit par une substance psycho-active
+F10.9	trouble mental organique induit par l'alcool
+F10.9	trouble mental organique alcoolique
+F10.5	psychose induite par l'alcool
+F10.5	psychose alcoolique
+F10.0	intoxication à l'alcool
+F10.0	intoxication éthylique
+F10.0	intoxication alcoolique
+F10.0	alcoolisme aigu
+F10.0	ivresse alcoolique
+F10.0	ébriété
+F10.0	delirium par intoxication alcoolique
+F10.2	intoxication alcoolique idiosyncrasique
+F10.2	syndrome d'intolérance à l'alcool
+F10.2	intoxication alcoolique pathologique
+F10.3	sevrage alcoolique non compliqué
+F10.4	delirium du sevrage alcoolique
+F10.4	delirium tremens
+F10.5	hallucinose alcoolique
+F10.5	délire hallucinatoire alcoolique
+F10.5	trouble psychotique induit par l'alcool avec hallucinations
+F10.5	trouble psychotique induit par l'alcool avec idées délirantes
+F10.5	paranoïa alcoolique
+F10.5	jalousie alcoolique
+F10.6	trouble amnésique alcoolique
+F10.6	trouble amnésique persistant induit par l'alcool
+F10.7	démence alcoolique
+F10.7	démence persistante induite par l'alcool
+F10.8	trouble de l'humeur induit par l'alcool
+F10.8	trouble anxieux induit par l'alcool
+F10.8	dysfonction sexuelle induite par l'alcool
+F10.8	trouble du sommeil induit par l'alcool
+F15.9	trouble mental organique induit par l'amphétamine
+F15.9	trouble lié à l'amphétamine
+F15.0	intoxication à l'amphétamine
+F15.3	syndrome de sevrage à l'amphétamine
+F15.0	delirium induit par l'amphétamine
+F15.0	delirium par intoxication à l'amphétamine
+F15.5	trouble délirant induit par l'amphétamine
+F15.5	trouble psychotique induit par l'amphétamine avec idées délirantes
+F15.5	trouble psychotique induit par l'amphétamine avec hallucinations
+F15.8	trouble de l'humeur induit par l'amphétamine
+F15.8	trouble anxieux induit par l'amphétamine
+F15.8	dysfonction sexuelle induite par l'amphétamine
+F15.8	trouble du sommeil induit par l'amphétamine
+F15.9	trouble mental organique induit par la caféine
+F15.9	trouble lié à la caféine
+F15.0	intoxication à la caféine
+F15.8	trouble anxieux induit par la caféine
+F15.8	trouble du sommeil induit par la caféine
+F15.3	syndrome de sevrage à la caféine
+F12.9	trouble mental organique induit par le cannabis
+F12.9	trouble lié au cannabis
+F12.0	intoxication au cannabis
+F12.0	delirium par intoxication au cannabis
+F12.5	trouble délirant induit par le cannabis
+F12.5	trouble psychotique induit par le cannabis avec idées délirantes
+F12.5	trouble psychotique induit par le cannabis avec hallucinations
+F12.8	trouble anxieux induit par le cannabis
+F14.9	trouble mental organique induit par la cocaïne
+F14.9	trouble lié à la cocaïne
+F14.0	intoxication à la cocaïne
+F14.3	syndrome de sevrage à la cocaïne
+F14.0	delirium induit par la cocaïne
+F14.0	delirium par intoxication à la cocaïne
+F14.5	trouble délirant à la cocaïne
+F14.5	trouble psychotique induit par la cocaïne avec idées délirantes
+F14.5	trouble psychotique induit par la cocaïne avec hallucinations
+F14.8	trouble de l'humeur induit par la cocaïne
+F14.8	trouble anxieux induit par la cocaïne
+F14.8	dysfonction sexuelle induite par la cocaïne
+F14.8	trouble du sommeil induit par la cocaïne
+F16.9	trouble mental organique induit par des hallucinogènes
+F16.9	trouble lié aux hallucinogènes
+F16.0	intoxication aux hallucinogènes
+F16.5	hallucinose induit par les hallucinogènes
+F16.5	trouble psychotique induit par les hallucinogènes avec hallucinations
+F16.5	trouble délirant induit par les hallucinogènes
+F16.5	trouble psychotique induit par les hallucinogènes avec idées délirantes
+F16.8	trouble de l'humeur induit par les hallucinogènes
+F16.8	trouble anxieux induit par les hallucinogènes
+F16.7	trouble des perceptions post-hallucinogènes
+F16.7	trouble persistant des perceptions dû aux hallucinogènes
+F16.7	flash-back
+F16.7	reviviscences
+F16.0	delirium par intoxication aux hallucinogènes
+F18.9	trouble mental organique induit par des solvants volatils
+F18.9	trouble lié aux solvants volatils
+F18.0	intoxication aux solvants volatils
+F18.0	delirium par intoxication aux solvants volatils
+F18.7	démence persistante induite par des solvants volatils
+F18.5	trouble psychotique induit par des solvants volatils avec idées délirantes
+F18.5	trouble psychotique induit par des solvants volatils avec hallucinations
+F18.8	trouble de l'humeur induit par des solvants volatils
+F18.8	trouble anxieux induit par des solvants volatils
+F17.9	trouble mental organique induit par la nicotine
+F17.9	trouble lié à la nicotine
+F17.3	syndrome de sevrage à la nicotine
+F11.9	trouble mental organique induit par les opiacés
+F11.9	trouble lié aux opiacés
+F11.0	intoxication aux opiacés
+F11.0	delirium par intoxication aux opiacés
+F11.3	syndrome de sevrage aux opiacés
+F11.3	syndrome de sevrage aux narcotiques
+F11.5	trouble psychotique induit par les opiacés avec idées délirantes
+F11.5	trouble psychotique induit par les opiacés avec hallucinations
+F11.8	trouble de l'humeur induit par les opiacés
+F11.8	dysfonction sexuelle induite par les opiacés
+F11.8	trouble du sommeil induit par les opiacés
+F19.9	trouble mental organique induit par la phencyclidine
+F19.9	trouble lié à une arylcyclohexylamine
+F19.9	trouble lié à la phencyclidine
+F19.9	trouble mental organique induit par une arylcyclohexylamine
+F19.9	trouble mental organique induit par la PCP
+F19.0	intoxication à la PCP
+F19.0	intoxication à la phencyclidine
+F19.0	delirium par intoxication à la PCP
+F19.0	delirium par intoxication à la phencyclidine
+F19.5	trouble délirant induit par la PCP
+F19.5	trouble psychotique induit par la phencyclidine avec idées délirantes
+F19.8	trouble de l'humeur induit par la PCP
+F19.8	trouble de l'humeur induit par la phencyclidine
+F19.5	trouble psychotique induit par la phencyclidine avec hallucinations
+F19.8	trouble anxieux induit par la phencyclidine
+F13.9	trouble mental organique induit par des sédatifs
+F13.9	trouble lié aux sédatifs, hypnotiques ou anxiolytiques
+F13.9	trouble mental organique induit par des hypnotiques
+F13.9	trouble mental organique induit par des anxiolytiques
+F13.0	intoxication aux sédatifs
+F13.0	intoxication aux hypnotiques
+F13.0	intoxication aux anxiolytiques
+F13.0	delirium par intoxication aux sédatifs, hypnotiques ou anxiolytiques
+F13.3	syndrome de sevrage aux sédatifs, hypnotiques ou anxiolytiques, non compliqué
+F13.4	delirium du sevrage aux sédatifs
+F13.4	delirium du sevrage aux sédatifs, hypnotiques ou anxiolytiques
+F13.7	démence persistante induite par les sédatifs, hypnotiques ou anxiolytiques
+F13.6	trouble amnésique induit par les sédatifs
+F13.6	trouble amnésique persistant induit par les sédatifs, hypnotiques ou anxiolytiques
+F13.5	trouble psychotique induit par les sédatifs, hypnotiques ou anxiolytiques, avec idées délirantes
+F13.5	trouble psychotique induit par les sédatifs, hypnotiques ou anxiolytiques, avec hallucinations
+F13.8	trouble de l'humeur induit par les sédatifs, hypnotiques ou anxiolytiques
+F13.8	trouble anxieux induit par les sédatifs, hypnotiques ou anxiolytiques
+F13.8	dysfonction sexuelle induite par les sédatifs, hypnotiques ou anxiolytiques
+F13.8	trouble du sommeil induit par les sédatifs, hypnotiques ou anxiolytiques
+F19.9	trouble lié à l'utilisation de substances psycho-actives
+F19.1	abus d'une substance psycho-active
+F19.2	syndrome de dépendance à une substance psycho-active
+F19.2	assuétude
+F19.2	pharmacodépendance
+F19.2	dépendance à une substance
+F19.2	dépendance à plusieurs substances
+F10.1	abus d'alcool
+F10.2	dépendance alcoolique
+F10.2	alcoolisme chronique
+F10.2	alcoolisme
+F10.2	syndrome d'alcoolisme familial
+F17.2	syndrome de dépendance à la nicotine
+F17.2	syndrome de dépendance au tabac
+F17.1	tabacomanie
+F17.1	abus du tabac
+F17.2	syndrome des utilisateurs compulsifs de tabac
+F17.2	tabagisme
+F15.1	abus d'amphétamines
+F15.2	syndrome de dépendance à l'amphétamine
+F12.1	abus de cannabis
+F12.2	syndrome de dépendance au cannabis
+F14.1	abus de cocaïne
+F14.2	syndrome de dépendance à la cocaïne
+F16.1	abus d'hallucinogènes
+F16.2	syndrome de dépendance aux hallucinogènes
+F18.1	abus de solvants volatils
+F18.2	syndrome de dépendance aux solvants volatils
+F11.1	abus d'opiacés
+F11.2	syndrome de dépendance aux opiacés
+F11.2	narcotisme
+F19.1	abus de PCP
+F19.1	abus de phencyclidine
+F19.2	syndrome de dépendance à la PCP
+F19.2	syndrome de dépendance à la phencyclidine
+F13.1	abus de sédatifs
+F13.1	abus de sédatifs, hypnotiques ou anxiolytiques
+F13.2	syndrome de dépendance aux sédatifs
+F13.2	syndrome de dépendance aux sédatifs, hypnotiques ou anxiolytiques
+F20.9	schizophrénie
+F20.9	schizophrénie subchronique
+F20.9	schizophrénie subchronique avec exacerbation aiguë
+F20.5	schizophrénie chronique
+F20.5	schizophrénie chronique avec exacerbation aiguë
+F20.9	schizophrénie en rémission
+F20.2	schizophrénie catatonique
+F20.2	catatonie
+F30.8	catatonie aiguë létale de Stauder
+F30.8	manie de Bell
+F20.2	schizophrénie catatonique subchronique
+F20.2	schizophrénie catatonique subchronique avec exacerbation aiguë
+F20.2	schizophrénie catatonique chronique
+F20.2	schizophrénie catatonique chronique avec exacerbation aiguë
+F20.2	schizophrénie catatonique en rémission
+F20.1	schizophrénie désorganisée
+F20.1	schizophrénie désorganisée subchronique
+F20.1	schizophrénie désorganisée subchronique avec exacerbation aiguë
+F20.1	schizophrénie désorganisée chronique
+F20.1	schizophrénie désorganisée chronique avec exacerbation aiguë
+F20.1	schizophrénie désorganisée en rémission
+F20.0	schizophrénie paranoïde
+F20.0	schizophrénie paranoïde subchronique
+F20.0	schizophrénie paranoïde subchronique avec exacerbation aiguë
+F20.0	schizophrénie paranoïde chronique
+F20.0	schizophrénie paranoïde chronique avec exacerbation aiguë
+F20.0	schizophrénie paranoïde en rémission
+F20.3	schizophrénie indifférenciée
+F20.3	schizophrénie indifférenciée subchronique
+F20.3	schizophrénie indifférenciée subchronique avec exacerbation aiguë
+F20.3	schizophrénie indifférenciée chronique
+F20.3	schizophrénie indifférenciée chronique avec exacerbation aiguë
+F20.3	schizophrénie indifférenciée en rémission
+F20.5	schizophrénie résiduelle
+F20.5	schizophrénie résiduelle subchronique
+F20.5	schizophrénie résiduelle subchronique avec exacerbation aiguë
+F20.5	schizophrénie résiduelle chronique
+F20.5	schizophrénie résiduelle chronique avec exacerbation aiguë
+F20.5	schizophrénie résiduelle en rémission
+F39	trouble de l'humeur
+F53.0	trouble transitoire de l'humeur du post-partum
+F32.0	trouble léger de l'humeur
+F32.1	trouble moyen de l'humeur
+F32.2	trouble de l'humeur sévère sans caractéristiques psychotiques
+F32.3	trouble de l'humeur sévère avec caractéristiques psychotiques
+F32.3	trouble de l'humeur sévère avec caractéristiques psychotiques congruentes à l'humeur
+F32.3	trouble de l'humeur sévère avec caractéristiques psychotiques non congruentes à l'humeur
+F33.4	trouble de l'humeur en rémission partielle
+F33.4	trouble de l'humeur en rémission complète
+F06.3	trouble de l'humeur dû à une affection médicale générale
+F06.3	trouble de l'humeur avec caractéristiques dépressives, dû à une affection médicale générale
+F06.3	trouble de l'humeur avec épisode d'allure de dépression majeure, dû à une affection médicale générale
+F06.3	trouble de l'humeur avec caractéristiques maniaques, dû à une affection médicale générale
+F06.3	trouble de l'humeur avec caractéristiques mixtes, dû à une affection médicale générale
+F31.9	trouble bipolaire
+F31.9	trouble bipolaire léger
+F31.9	trouble bipolaire moyen
+F31.9	trouble bipolaire sévère sans caractéristiques psychotiques
+F31.9	trouble bipolaire sévère avec caractéristiques psychotiques
+F31.9	trouble bipolaire sévère avec caractéristiques psychotiques congruentes à l'humeur
+F31.9	trouble bipolaire sévère avec caractéristiques psychotiques non congruentes à l'humeur
+F31.7	trouble bipolaire en rémission
+F31.7	trouble bipolaire en rémission partielle
+F31.7	trouble bipolaire en rémission complète
+F31.6	trouble bipolaire I mixte
+F31.6	trouble bipolaire I, épisode le plus récent mixte
+F31.6	trouble bipolaire I mixte léger
+F31.6	trouble bipolaire I léger, épisode le plus récent mixte
+F31.6	trouble bipolaire I mixte moyen
+F31.6	trouble bipolaire I moyen, épisode le plus récent mixte
+F31.6	trouble bipolaire I mixte sévère sans caractéristiques psychotiques
+F31.6	trouble bipolaire I sévère, épisode le plus récent mixte, sans caractéristiques psychotiques
+F31.6	trouble bipolaire I mixte sévère avec caractéristiques psychotiques
+F31.6	trouble bipolaire I sévère, épisode le plus récent mixte, avec caractéristiques psychotiques
+F31.6	trouble bipolaire I mixte sévère avec caractéristiques psychotiques congruentes à l'humeur
+F31.6	trouble bipolaire I sévère, épisode le plus récent mixte, avec caractéristiques psychotiques congruentes à l'humeur
+F31.6	trouble bipolaire I mixte sévère avec caractéristiques psychotiques non congruentes à l'humeur
+F31.6	trouble bipolaire I sévère, épisode le plus récent mixte, avec caractéristiques psychotiques non congruentes à l'humeur
+F31.6	trouble bipolaire I, épisode le plus récent mixte avec caractéristiques catatoniques
+F31.6	trouble bipolaire I, épisode le plus récent mixte avec début lors du post-partum
+F31.7	trouble bipolaire I mixte en rémission
+F31.7	trouble bipolaire I, épisode le plus récent mixte, en rémission
+F31.7	trouble bipolaire I mixte en rémission partielle
+F31.7	trouble bipolaire I, épisode le plus récent mixte, en rémission partielle
+F31.7	trouble bipolaire I mixte en rémission complète
+F31.7	trouble bipolaire I, épisode le plus récent mixte, en rémission complète
+F31.1	trouble bipolaire maniaque
+F31.1	trouble bipolaire I, épisode le plus récent maniaque
+F31.1	trouble bipolaire I maniaque léger
+F31.1	trouble bipolaire I léger, épisode le plus récent maniaque
+F31.1	trouble bipolaire I maniaque moyen
+F31.1	trouble bipolaire I moyen, épisode le plus récent maniaque
+F31.1	trouble bipolaire I maniaque sévère sans caractéristiques psychotiques
+F31.1	trouble bipolaire I sévère, épisode le plus récent maniaque, sans caractéristiques psychotiques
+F31.2	trouble bipolaire I maniaque sévère avec caractéristiques psychotiques
+F31.2	trouble bipolaire I sévère, épisode le plus récent maniaque, avec caractéristiques psychotiques
+F31.2	trouble bipolaire I maniaque sévère avec caractéristiques psychotiques congruentes à l'humeur
+F31.2	trouble bipolaire I sévère, épisode le plus récent maniaque, avec caractéristiques psychotiques congruentes à l'humeur
+F31.2	trouble bipolaire I maniaque sévère avec caractéristiques psychotiques non congruentes à l'humeur
+F31.2	trouble bipolaire I sévère, épisode le plus récent maniaque, avec caractéristiques psychotiques non congruentes à l'humeur
+F31.2	trouble bipolaire I, épisode le plus récent maniaque, avec caractéristiques catatoniques
+F31.2	trouble bipolaire I, épisode le plus récent maniaque, avec début lors du post-partum
+F31.7	trouble bipolaire I maniaque en rémission
+F31.7	trouble bipolaire I, épisode le plus récent maniaque, en rémission
+F31.7	trouble bipolaire I maniaque en rémission partielle
+F31.7	trouble bipolaire I, épisode le plus récent maniaque, en rémission partielle
+F31.7	trouble bipolaire I maniaque en rémission complète
+F31.7	trouble bipolaire I, épisode le plus récent maniaque, en rémission complète
+F30.9	trouble bipolaire I, épisode maniaque isolé
+F30.0	trouble bipolaire I léger, épisode maniaque isolé
+F30.1	trouble bipolaire I moyen, épisode maniaque isolé
+F30.1	trouble bipolaire I sévère, épisode maniaque isolé sans caractéristiques psychotiques
+F30.2	trouble bipolaire I sévère, épisode maniaque isolé avec caractéristiques psychotiques
+F30.2	trouble bipolaire I sévère, épisode maniaque isolé avec caractéristiques psychotiques congruentes à l'humeur
+F30.2	trouble bipolaire I sévère, épisode maniaque isolé avec caractéristiques psychotiques non congruentes à l'humeur
+F30.2	trouble bipolaire I, épisode maniaque isolé avec caractéristiques catatoniques
+F53.0	trouble bipolaire I, épisode maniaque isolé avec début lors du post-partum
+F31.7	trouble bipolaire I, épisode maniaque isolé, en rémission
+F31.7	trouble bipolaire I, épisode maniaque isolé, en rémission partielle
+F31.7	trouble bipolaire I, épisode maniaque isolé, en rémission complète
+F31.0	trouble bipolaire I, épisode le plus récent hypomaniaque
+F31.3	trouble bipolaire I dépressif
+F31.3	trouble bipolaire I, épisode le plus récent dépressif
+F31.3	trouble bipolaire I chronique, épisode le plus récent dépressif
+F31.3	trouble bipolaire I dépressif léger
+F31.3	trouble bipolaire I léger, épisode le plus récent dépressif
+F31.3	trouble bipolaire I dépressif moyen
+F31.3	trouble bipolaire I moyen, épisode le plus récent dépressif
+F31.4	trouble bipolaire I dépressif sévère sans caractéristiques psychotiques
+F31.4	trouble bipolaire I sévère, épisode le plus récent dépressif, sans caractéristiques psychotiques
+F31.5	trouble bipolaire I dépressif sévère avec caractéristiques psychotiques
+F31.5	trouble bipolaire I sévère, épisode le plus récent dépressif, avec caractéristiques psychotiques
+F31.5	trouble bipolaire I dépressif sévère avec caractéristiques psychotiques congruentes à l'humeur
+F31.5	trouble bipolaire I sévère, épisode le plus récent dépressif, avec caractéristiques psychotiques congruentes à l'humeur
+F31.5	trouble bipolaire I dépressif sévère avec caractéristiques psychotiques non congruentes à l'humeur
+F31.5	trouble bipolaire I sévère, épisode le plus récent dépressif, avec caractéristiques non congruentes à l'humeur
+F31.5	trouble bipolaire I, épisode le plus récent dépressif, avec caractéristiques catatoniques
+F31.5	trouble bipolaire I, épisode le plus récent dépressif, avec caractéristiques mélancoliques
+F31.5	trouble bipolaire I, épisode le plus récent dépressif, avec caractéristiques atypiques
+F53.0	trouble bipolaire I, épisode le plus récent dépressif, avec début lors du post-partum
+F31.7	trouble bipolaire I dépressif en rémission
+F31.7	trouble bipolaire I, épisode le plus récent dépressif, en rémission
+F31.7	trouble bipolaire I dépressif en rémission partielle
+F31.7	trouble bipolaire I, épisode le plus récent dépressif, en rémission partielle
+F31.7	trouble bipolaire I dépressif en rémission complète
+F31.7	trouble bipolaire I, épisode le plus récent dépressif, en rémission complète
+F34.0	cyclothymie
+F34.0	trouble cyclothymique
+F31.8	trouble bipolaire II
+F31.8	trouble bipolaire II, épisode le plus récent hypomaniaque
+F31.8	trouble bipolaire II, épisode le plus récent dépressif majeur
+F31.8	trouble bipolaire II léger, épisode le plus récent dépressif majeur
+F31.8	trouble bipolaire II moyen, épisode le plus récent dépressif majeur
+F31.8	trouble bipolaire II chronique, épisode le plus récent dépressif majeur
+F31.8	trouble bipolaire II sévère, épisode le plus récent dépressif majeur, sans caractéristiques psychotiques
+F31.8	trouble bipolaire II sévère, épisode le plus récent dépressif majeur, avec caractéristiques psychotiques
+F31.8	trouble bipolaire II sévère, épisode le plus récent dépressif majeur, avec caractéristiques psychotiques congruentes à l'humeur
+F31.8	trouble bipolaire II sévère, épisode le plus récent dépressif majeur, avec caractéristiques psychotiques non congruentes à l'humeur
+F31.8	trouble bipolaire II, épisode le plus récent dépressif majeur, avec caractéristiques catatoniques
+F31.8	trouble bipolaire II, épisode le plus récent dépressif majeur, avec caractéristiques mélancoliques
+F31.8	trouble bipolaire II, épisode le plus récent dépressif majeur, avec caractéristiques atypiques
+F31.8	trouble bipolaire II, épisode le plus récent dépressif majeur, avec début lors du post-partum
+F31.8	trouble bipolaire II sévère, épisode le plus récent dépressif majeur, en rémission
+F31.8	trouble bipolaire II sévère, épisode le plus récent dépressif majeur, en rémission partielle
+F31.8	trouble bipolaire II sévère, épisode le plus récent dépressif majeur, en rémission complète
+F32.9	trouble dépressif
+F32.9	trouble dépressif majeur
+F32.9	mélancolie
+F32.9	dépression majeure
+F32.8	dépression ménopausique
+F32.8	dépression post-ménopausique
+F32.8	dépression post-opératoire
+F32.0	dépression majeure légère
+F32.1	dépression majeure moyenne
+F32.2	dépression majeure sévère sans caractéristiques psychotiques
+F32.3	dépression majeure sévère avec caractéristiques psychotiques
+F32.3	dépression psychotique
+F32.3	dépression majeure sévère avec caractéristiques psychotiques congruentes à l'humeur
+F32.3	dépression majeure sévère avec caractéristiques non congruentes à l'humeur
+F33.4	dépression majeure en rémission
+F33.4	dépression majeure en rémission partielle
+F33.4	dépression majeure en rémission complète
+F32.9	dépression majeure, épisode isolé
+F32.9	trouble dépressif majeur, épisode isolé
+F32.9	trouble dépressif majeur chronique, épisode isolé
+F32.0	dépression majeure légère, épisode isolé
+F32.1	dépression majeure moyenne, épisode isolé
+F32.2	dépression majeure sévère, épisode isolé, sans caractéristiques psychotiques
+F32.3	dépression majeure sévère, épisode isolé, avec caractéristiques psychotiques congruentes à l'humeur
+F32.3	dépression majeure sévère, épisode isolé, avec caractéristiques psychotiques non congruentes à l'humeur
+F32.9	trouble dépressif majeur, épisode isolé avec caractéristiques catatoniques
+F32.9	trouble dépressif majeur, épisode isolé avec caractéristiques mélancoliques
+F32.9	trouble dépressif majeur, épisode isolé avec caractéristiques atypiques
+F32.9	trouble dépressif majeur, épisode isolé, avec début lors du post-partum
+F32.8	dépression majeure, épisode isolé, en rémission partielle
+F32.8	dépression majeure, épisode isolé, en rémission complète
+F33.9	dépression majeure récurrente
+F33.9	trouble dépressif majeur récurrent
+F33.9	trouble dépressif majeur récurrent chronique
+F33.0	dépression majeure récurrente légère
+F33.1	dépression majeure récurrente moyenne
+F33.2	dépression majeure récurrente sévère, sans caractéristiques psychotiques
+F33.3	dépression majeure récurrente sévère, avec caractéristiques psychotiques
+F33.3	dépression majeure récurrente sévère, avec caractéristiques psychotiques congruentes à l'humeur
+F33.3	dépression majeure récurrente sévère, avec caractéristiques psychotiques non congruentes à l'humeur
+F33.8	dépression majeure, type mélancolique
+F33.8	trouble dépressif majeur récurrent avec caractéristiques mélancoliques
+F33.8	mélancolie d'involution
+F33.8	dépression d'involution
+F33.8	trouble dépressif majeur récurrent avec caractéristiques catatoniques
+F33.8	trouble dépressif majeur récurrent avec caractéristiques atypiques
+F33.8	trouble dépressif majeur récurrent avec début lors du post-partum
+F33.4	dépression majeure récurrente en rémission
+F33.4	dépression majeure récurrente en rémission partielle
+F33.4	dépression majeure récurrente en rémission complète
+F34.1	dysthymie
+F48.0	maladie de Beard
+F48.0	névrose asthénique
+F48.0	neurasthénie
+F48.0	épuisement nerveux
+F34.1	dépression névrotique
+F34.1	névrose dépressive
+F34.1	dysthymie à début précoce
+F34.1	dysthymie à début tardif
+F34.1	dysthymie primaire
+F34.1	dysthymie primaire à début précoce
+F34.1	dysthymie primaire à début tardif
+F34.1	dysthymie secondaire
+F34.1	dysthymie secondaire à début précoce
+F34.1	dysthymie secondaire à début tardif
+F32.0	trouble dépressif mineur
+F33.8	trouble dépressif bref récurrent
+F38.8	trouble dysphorique prémenstruel
+F60.9	trouble de la personnalité
+F60.9	trouble de la personnalité du groupe A
+F60.0	personnalité paranoïaque
+F60.1	personnalité schizoïde
+F21	personnalité schizotypique
+F60.9	trouble de la personnalité du groupe B
+F60.2	personnalité antisociale
+F60.3	personnalité borderline
+F60.4	personnalité histrionique
+F60.8	personnalité narcissique
+F60.9	trouble de la personnalité du groupe C
+F60.6	personnalité évitante
+F60.5	névrose obsessionnelle
+F60.7	personnalité dépendante
+F60.5	personnalité obsessionnelle-compulsive
+F60.8	personnalité passive-agressive
+F22.0	trouble délirant
+F22.0	paranoïa
+F22.0	trouble paranoïaque
+F22.0	trouble délirant, type érotomaniaque
+F22.0	trouble délirant, type mégalomaniaque
+F22.0	trouble délirant, à type de jalousie
+F22.0	trouble délirant, à type de persécution
+F22.0	trouble délirant, type somatique
+F22.0	idées délirantes somatiques
+F45.3	maladie pseudo-cardiaque
+F22.0	trouble délirant, type mixte
+F22.0	paraphrénie
+F22.0	paraphrénie d'involution
+F29	trouble psychotique
+F29	psychose
+F29	psychose atypique
+F53.1	psychose puerpérale
+F23.9	psychose réactionnelle brève
+F23.9	trouble psychotique bref
+F23.0	bouffée délirante
+F20.8	trouble schizophréniforme
+F20.8	trouble schizophréniforme sans caractéristiques de bon prognostic
+F20.8	trouble schizophréniforme avec caractéristiques de bon prognostic
+F25.9	trouble schizo-affectif
+F25.0	trouble schizo-affectif, type bipolaire
+F25.1	trouble schizo-affectif, type dépressif
+F24	trouble psychotique induit
+F24	trouble psychotique partagé
+F24	folie à deux
+F65.9	trouble psychosexuel
+F65.9	paraphilie
+F65.9	perversion sexuelle
+F65.9	aberration sexuelle
+F65.9	déviation sexuelle
+F65.8	nécrophilie
+F65.8	zoophilie
+F65.8	zoophilie érotique
+F65.8	coprophilie
+F65.8	urophilie
+F65.8	clystérophilie
+F65.2	exhibitionnisme
+F65.2	exhibitionnisme compulsif
+F65.2	exhibitionnisme symptomatique
+F65.0	fétichisme
+F65.0	fétichisme compulsif vrai
+F65.0	fétichisme symptomatique
+F65.8	frotteurisme
+F65.8	frottage
+F65.8	scatologie téléphonique
+F65.8	appel téléphonique obscène
+F65.4	pédophilie
+F65.4	pédophilie, même sexe
+F65.4	pédophilie, sexe opposé
+F65.4	pédophilie, même sexe et sexe opposé
+F65.4	pédophilie limitée à l'inceste
+F65.4	pédophilie, type exclusif
+F65.4	pédophilie, type non exclusif
+F65.4	pédophilie compulsive
+F65.4	pédophilie symptomatique
+F65.4	pédérastie
+F65.5	flagellantisme
+F65.5	masochisme sexuel
+F65.5	masochisme sexuel compulsif
+F65.5	masochisme sexuel symptomatique
+F65.5	sadomasochisme
+F65.5	sadisme sexuel
+F65.5	sadisme sexuel compulsif
+F65.5	sadisme sexuel symptomatique
+F65.5	nécrosadisme
+F65.1	travestisme fétichiste
+F65.1	transvestisme
+F65.1	travestisme
+F65.1	travestisme primaire
+F65.1	transvestisme primaire
+F65.1	travestisme secondaire
+F65.1	transvestisme secondaire
+F65.3	voyeurisme
+F65.8	écouteurisme
+F65.8	sodomie
+F65.8	bestialité
+F65.0	fétichisme parcellaire
+F65.8	lubricité
+F63.1	pyromanie sexuelle
+F63.1	pyromanie érotique
+F63.1	pyrolagnie
+F65.8	vomissement érotique
+F65.8	pygmalionisme
+F52.9	dysfonction sexuelle
+F52.0	trouble du désir sexuel
+F52.0	baisse du désir sexuel
+F52.0	désir sexuel hypoactif situationnel
+F52.1	trouble de l'aversion sexuelle
+F52.2	trouble de l'excitation sexuelle
+F52.2	trouble de l'excitation sexuelle chez la femme
+F52.2	trouble de l'érection chez l'homme
+F52.3	trouble de l'orgasme
+F52.3	dysfonctionnement orgasmique
+F52.3	inhibition de l'orgasme chez la femme
+F52.3	trouble de l'orgasme chez la femme
+F52.3	inhibition de l'orgasme chez l'homme
+F52.3	trouble de l'orgasme chez l'homme
+F52.6	trouble sexuel avec douleur
+F52.6	dyspareunie non organique
+F52.6	dyspareunie psychogène
+F52.6	douleur psychogène ressentie par la femme lors d'un rapport sexuel
+F52.5	vaginisme psychogène
+F51.9	trouble du sommeil
+F51.9	dyssomnie
+F51.0	insomnie
+F51.0	hyposomnie
+F51.0	insomnie primaire
+F51.0	insomnie liée à un autre trouble mental
+F51.0	insomnie vespérale
+F51.0	insomnie nocturne
+F51.0	insomnie matutinale
+F51.0	insomnie mixte
+F51.0	insomnie de rebond
+F51.1	hypersomnie
+F51.1	hypersomnie primaire
+F51.1	hypersomnie liée à un autre trouble mental
+F51.2	trouble du rythme veille-sommeil
+F51.2	trouble du sommeil lié au rythme circadien
+F51.2	trouble du rythme veille-sommeil, type avec avance de phase
+F51.2	trouble du rythme veille-sommeil, type avec retard de phase
+F51.2	trouble du rythme veille-sommeil, type désorganisé
+F51.2	trouble du rythme veille-sommeil, type avec changements répétés
+F51.9	parasomnie
+F51.5	rêves d'angoisse
+F51.5	cauchemars
+F51.5	cauchemar
+F51.4	terreurs du sommeil
+F41.8	frayeurs diurnes
+F41.8	terreurs diurnes
+F51.4	frayeurs nocturnes
+F51.4	terreurs nocturnes
+F51.3	somnambulisme
+F63.9	trouble du contrôle des impulsions
+F63.8	trouble explosif intermittent
+F63.2	kleptomanie
+F63.0	jeu pathologique
+F63.0	jeu compulsif
+F63.1	pyromanie
+F63.1	tendance pathologique à allumer des incendies
+F63.3	trichotillomanie
+F63.3	manie dépilatoire
+F63.3	trichomanie
+F63.8	polydipsie psychogène
+F41.9	trouble anxieux
+F40.9	trouble anxieux phobique
+F40.9	névrose phobique
+F41.1	névrose d'angoisse
+F41.1	anxiété généralisée
+F06.4	trouble anxieux dû à une affection médicale générale
+F40.0	trouble panique avec agoraphobie
+F40.0	trouble panique avec agoraphobie et attaques de panique légères
+F40.0	trouble panique avec agoraphobie, évitement agoraphobique léger et attaques de panique légères
+F40.0	trouble panique avec agoraphobie, évitement agoraphobique moyen et attaques de panique légères
+F40.0	trouble panique avec agoraphobie, évitement agoraphobique sévère et attaques de panique légères
+F40.0	trouble panique avec agoraphobie, évitement agoraphobique en rémission partielle et attaques de panique légères
+F40.0	trouble panique avec agoraphobie, évitement agoraphobique en rémission complète et attaques de panique légères
+F40.0	trouble panique avec agoraphobie et attaques de panique moyennes
+F40.0	trouble panique avec agoraphobie, évitement agoraphobique léger et attaques de panique moyennes
+F40.0	trouble panique avec agoraphobie, évitement agoraphobique moyen et attaques de panique moyennes
+F40.0	trouble panique avec agoraphobie, évitement agoraphobique sévère et attaques de panique moyennes
+F40.0	trouble panique avec agoraphobie, évitement agoraphobique en rémission partielle et attaques de panique moyennes
+F40.0	trouble panique avec agoraphobie, évitement agoraphobique en rémission complète et attaques de panique moyennes
+F40.0	trouble panique avec agarophobie et attaques de panique sévères
+F40.0	trouble panique avec agoraphobie, évitement agoraphobique léger et attaques de panique sévères
+F40.0	trouble panique avec agoraphobie, évitement agoraphobique moyen et attaques de panique sévères
+F40.0	trouble panique avec agoraphobie, évitement agoraphobique sévère et attaques de panique sévères
+F40.0	trouble panique avec agoraphobie, évitement agoraphobique en rémission partielle et attaques de panique sévères
+F40.0	trouble panique avec agoraphobie, évitement agoraphobique en rémission complète et attaques de panique sévères
+F40.0	trouble panique avec agoraphobie et attaques de panique en rémission partielle
+F40.0	trouble panique avec agoraphobie, évitement agoraphobique léger et attaques de panique en rémission partielle
+F40.0	trouble panique avec agoraphobie, évitement agoraphobique moyen et attaques de panique en rémission partielle
+F40.0	trouble panique avec agoraphobie, évitement agoraphobique sévère et attaques de panique en rémission partielle
+F40.0	trouble panique avec agoraphobie, évitement agoraphobique et attaques de panique en rémission partielle
+F40.0	trouble panique avec agoraphobie, évitement agoraphobique en rémission complète et attaques de panique en rémission partielle
+F40.0	trouble panique avec agoraphobie et attaques de panique en rémission complète
+F40.0	trouble panique avec agoraphobie, évitement agoraphobique léger et attaques de panique en rémission complète
+F40.0	trouble panique avec agoraphobie, évitement agoraphobique moyen et attaques de panique en rémission complète
+F40.0	trouble panique avec agoraphobie, évitement agoraphobique sévère et attaques de panique en rémission complète
+F40.0	trouble panique avec agoraphobie, évitement agoraphobique en rémission partielle et attaques de panique en rémission complète
+F40.0	trouble panique avec agoraphobie, évitement agoraphobique et attaques de panique en rémission complète
+F41.0	trouble panique sans agoraphobie
+F41.0	trouble panique sans agoraphobie et attaques de panique légères
+F41.0	trouble panique sans agoraphobie et attaques de panique moyennes
+F41.0	trouble panique sans agoraphobie et attaques de panique sévères
+F41.0	trouble panique sans agoraphobie et attaques de panique en rémission partielle
+F41.0	trouble panique sans agoraphobie et attaques de panique en rémission complète
+F40.0	agoraphobie
+F40.0	peur des espaces libres
+F40.0	agoraphobie sans antécédant de trouble de panique
+F40.0	agoraphobie sans antécédant de trouble de panique avec attaques paucisymptomatiques
+F40.0	agoraphobie sans antécédant de trouble de panique ni attaques paucisymptomatiques
+F40.1	phobie sociale
+F40.1	trouble d'anxiété sociale
+F40.1	phobie sociale généralisée
+F40.2	phobie simple
+F40.2	phobie spécifique
+F42.9	trouble obsessionnel-compulsif
+F42.9	névrose obsessionnelle-compulsive
+F43.1	état de stress post-traumatique
+F43.1	état de stress post-traumatique, survenue différée
+F43.1	syndrome de Stockholm
+F43.0	état de stress aigu
+F43.0	hyperventilation d'anxiété
+F45.9	trouble somatoforme
+F45.1	trouble somatoforme indifférencié
+F45.2	dysmorphophobie
+F44.9	trouble de conversion
+F44.9	hystérie de conversion
+F44.9	névrose hystérique de type conversif
+F44.9	trouble de conversion, épisode isolé
+F44.9	trouble de conversion récurrent
+F44.6	cécité psychogène
+F44.6	surdité hystérique
+F44.4	paralysie psychogène
+F44.4	ataxie psychogène
+F44.4	astasie-abasie
+F44.4	maladie de Blocq
+F45.2	hypochondrie
+F45.2	névrose hypocondriaque
+F45.2	hypocondrie
+F45.3	syndrome d'Albatross
+F45.3	névrose post-gastrectomie
+F45.0	somatisation
+F45.8	torticolis psychogène
+F45.4	trouble somatoforme douloureux
+F44.9	trouble dissociatif
+F44.9	névrose hystérique, type dissociatif
+F44.8	personnalité multiple
+F44.8	trouble dissociatif de l'identité
+F44.1	fugue psychogène
+F44.1	fugue dissociative
+F44.0	amnésie psychogène
+F44.0	amnésie dissociative
+F44.0	amnésie névrotique
+F48.1	trouble de dépersonnalisation
+F48.1	névrose de dépersonnalisation
+F68.1	trouble factice
+F68.1	trouble factice avec symptômes physiques
+F68.1	syndrome de Münchhausen
+F68.1	syndrome de Münchhausen par procuration
+F68.1	trouble factice avec symptômes psychologiques
+F68.0	névrose de compensation
+F68.1	trouble factice avec symptômes physiques et symptômes psychologiques combinés
+F43.2	trouble de l'adaptation
+F43.2	trouble de l'adaptation avec humeur anxieuse
+F43.2	trouble de l'adaptation avec humeur dépressive
+F43.2	trouble de l'adaptation avec perturbation des conduites
+F43.2	trouble de l'adaptation avec perturbation mixte des émotions et des conduites
+F43.1	syndrome d'identification à l'agresseur
+F43.2	trouble de l'adaptation avec caractéristiques émotionnelles mixtes
+F43.2	trouble de l'adaptation avec plaintes somatiques
+F43.2	trouble de l'adaptation avec retrait social
+F43.2	trouble de l'adaptation avec inhibition au travail
+F43.2	trouble de l'adaptation avec inhibition dans les études
+F07.0	syndrome du lobe frontal
+F07.0	syndrome des lobotomisés
+F07.0	syndrome post-leucotomie
+F45.3	névrose cérébro-cardiaque
+F45.3	syndrome cérébro-cardiaque
+F45.3	maladie de Krishaber
+F44.8	syndrome de Ganser
+F44.8	syndrome symbiotique mère-fille
+F68.8	amok
+F68.8	mal de pelea
+F68.8	iich'aa
+F23.8	ataque de nervios
+F48.8	koro
+F48.8	shuk yang
+F48.8	shook yong
+F48.8	suo yang
+F48.8	jinjinia bemar
+F48.8	rok-joo
+F48.8	latah
+F48.8	amurakh
+F48.8	irkunii
+F48.8	ikota
+F48.8	olan
+F48.8	myriachit
+F48.8	menkeiti
+F48.8	bah tschi
+F48.8	bah tsi
+F48.8	baah-ji
+F48.8	imu
+F48.8	mali-mali
+F48.8	silok
+F68.8	windigo
+F68.8	witigo
+F44.8	piblokto
+F44.8	pibloktoq
+F32.1	bilis
+F32.1	colera
+F32.1	muina
+F48.8	syndrome d'asthénie psychique
+F48.8	syndrome de Dhat
+F48.8	jiryan
+F48.8	sukra prameha
+F48.8	shen-k'uei
+F48.8	shenkui
+F40.2	ghost sickness
+F68.8	hwa-byung
+F68.8	wool-hwa-byung
+F68.8	locura
+F68.8	mal de ojo
+F32.1	nervios
+F09	réaction psychotique au qi-gong
+F48.8	rootwork
+F48.8	mal puesto
+F48.8	brujeria
+F48.8	sangue dormido
+F48.8	shenjing shuairuo
+F48.8	shin-byung
+F48.8	susto
+F48.8	espanto
+F48.8	pasmo
+F48.8	perdida del alma
+F48.8	chibih
+F48.8	tripa ida
+F40.1	taijin kyofusho
+F44.3	zar
+F95.8	maladie des tics
+F64.0	dysphorie de genre
+F81.2	dyscalculie développementale
+F65.8	klismaphilie
+F07.1	syndrome post-encéphalitique
+F06.9	syndrome cérébral non spécifique
+F06.9	syndrome cérébral
+F06.9	syndrome cérébral organique
+F06.9	syndrome cérébral non psychotique aigu
+F06.9	syndrome cérébral non psychotique chronique
+F07.2	encéphalopathie traumatique
+F07.2	syndrome post-commotionnel
+F07.2	encéphalite traumatique
+F07.2	encéphalite traumatique des pugilistes
+F07.2	démence traumatique
+F07.2	syndrome de Homen
+F07.2	démence des boxeurs
+F81.2	asomatognosie bilatérale
+F81.2	syndrome de Gerstmann
+F45.3	état végétatif persistant
+F45.3	état végétatif chronique
+F02.3*	syndrome de Guam
+F95.2	syndrome de Gilles de la Tourette
+F44.6	amaurose psychogène
+F44.6	cécité psychique
+F44.6	surdité psychogène
+F43.0	syndrome d'adaptation générale
+F43.0	syndrome de stress
+F43.0	syndrome de Selye
+F45.8	purpura psychogène
+F19.7	affection liée aux médicaments et aux drogues
+F19.2	dépendance à une drogue ou à un médicament
+F19.1	abus de médicaments
+F19.1	abus de drogues
+F19.2	toxicomanie
+F19.2	addiction
+F19.1	abus médicamenteux chronique
+F55	abus de substances n'entraînant pas de dépendance
+F55	abus de substances
+F55	abus des stéroïdes
+F19.2	dépendance à une substance thérapeutique
+F19.2	dépendance aux corticoïdes
+F19.2	dépendance aux corticostéroïdes
+F19.2	corticodépendance
+F19.3	syndrome du sevrage d'une drogue
+F19.3	syndrome du sevrage des stéroïdes

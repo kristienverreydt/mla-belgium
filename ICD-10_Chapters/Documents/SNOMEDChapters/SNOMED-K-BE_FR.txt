@@ -1,0 +1,3059 @@
+K12.2	abcès de la région sous-maxillaire
+K12.2	phlegmon de la région sous-maxillaire
+K13.0	perlèche
+K13.0	chéilite commissurale
+K13.0	intertrigo labial
+K61.0	anthrax de l'anus
+K61.0	furoncle de l'anus
+K10.2	ostéomyélite de l'os zygomatique
+K10.2	ostéomyélite aiguë de l'os zygomatique
+K10.2	ostéomyélite chronique de l'os zygomatique
+K10.2	ostéomyélite de Garré de l'os zygomatique
+K10.2	abcès de l'os zygomatique
+K10.2	ostéoradionécrose de l'os zygomatique
+K10.2	séquestre de l'os zygomatique
+K22.2	obstruction oesophagienne aiguë par de la viande
+K22.2	obstruction aiguë de l'oesophage par des aliments
+K44.9	rupture du diaphragme
+K44.9	perforation du diaphragme
+K44.9	éventration diaphragmatique
+K44.9	syndrome de Lian, Siguier et Welti
+K76.5	maladie veino-occlusive du foie
+K55.0	thrombose de la veine mésentérique
+K55.0	thrombophlébite de la veine mésentérique
+K00.9	anomalie congénitale des dents
+K00.9	malformation dentaire
+K00.2	dens in dente
+K00.2	invagination de la couronne d'une dent
+K00.2	dentome intradentaire
+K00.2	invagination du tubercule d'une couronne dentaire
+K01.0	dent incluse
+K01.0	dent enclavée
+K01.0	dent n'ayant pas fait éruption
+K00.2	anomalie congénitale de la couronne et de la racine dentaire
+K00.8	dent ectopique
+K00.8	ectopie dentaire
+K00.5	dentinogenesis imperfecta
+K00.5	dentine opalescente héréditaire
+K00.5	dent en coquille
+K00.4	dent de Turner
+K00.4	dent hypoplasique de Turner
+K00.4	hypoplasie de l'émail d'une seule dent
+K00.2	molaires de Moon
+K00.2	cuspide exagérée d'une dent
+K00.2	cingulum exagéré d'une dent
+K00.2	couronne dentaire anormale
+K00.2	couronne dentaire à contour faible
+K00.0	anodontie
+K00.0	absence congénitale de dents
+K00.0	agomphiase
+K00.0	agomphose
+K00.0	pseudo-anodontie
+K00.0	absence congénitale complète des dents
+K00.8	anomalie du nombre de dents
+K00.8	nombre anormal de dents
+K00.0	absence congénitale partielle des dents
+K00.0	oligodontie
+K00.0	hypodontie
+K00.0	absence congénitale d'une dent
+K00.0	hypodontie congénitale, dent unique
+K00.0	anodontie de la dentition lactéale
+K00.0	anodontie des dents temporaires
+K00.0	anodontie de la dentition permanente
+K00.0	anodontie des dents permanentes
+K00.0	hypodontie congénitale, dents multiples, non réliée à une maladie systémique
+K00.0	hypodontie congénitale, dents multiples, reliée à une maladie systémique
+K00.0	hypodontie familiale
+K00.1	dents surnuméraires
+K00.1	dents supplémentaires
+K00.1	dent surnuméraire unique
+K00.1	hyperdontie, dent unique
+K00.1	distomolaire
+K00.1	paramolaire
+K00.1	4e molaire
+K00.2	tubercule paramolaire
+K00.1	dents de lait surnuméraires
+K00.1	dents temporaires surnuméraires
+K00.1	dents permanentes surnuméraires
+K00.1	dent surnuméraire identifiable par numérotation dentaire
+K00.1	dent surnuméraire non identifiable par numérotation dentaire
+K00.1	mésiodens
+K00.1	mésiodens percé
+K00.1	mésiodens inclus
+K00.1	mésiodens inversé
+K00.1	dents surnuméraires multiples non reliées à une affection systémique
+K00.1	hyperdontie, dents multiples, non reliée à une maladie systémique
+K00.1	dents surnuméraires multiples reliées à une affection systémique
+K00.1	hyperdontie, dents multiples, reliée à une maladie systémique
+K00.2	concrescence des dents
+K00.2	fusion congénitale des dents
+K00.2	fusion de la couronne des dents
+K00.2	gémination des dents
+K00.2	gémination de la couronne des dents
+K00.2	gémellité des dents
+K00.1	duplication dentaire
+K00.2	évagination d'une dent
+K00.2	évagination d'une cuspide dentaire
+K00.2	éperon adamantin
+K00.2	projection d'émail
+K00.2	amélome
+K00.2	macrodontie généralisée
+K00.2	macrodontisme généralisé
+K00.2	mégadontie généralisée
+K00.2	mégalodontie généralisée
+K00.2	macrodontie localisée
+K00.2	mégadontie localisée
+K00.2	macrodontisme localisé
+K00.2	mégalodontie localisée
+K00.2	macrodontie
+K00.2	macrodontisme
+K00.2	mégadontie
+K00.2	mégalodontie
+K00.2	microdontie
+K00.2	microdontisme
+K00.2	dents en cheville
+K00.2	dents coniques
+K00.2	dents latérales en forme de cheville
+K00.2	microdontie vraie généralisée
+K00.2	microdontisme vrai généralisé
+K00.2	racines dentaires surnuméraires
+K00.2	racine surnuméraire d'une dent
+K00.2	microdontie localisée
+K00.2	microdontisme localisé
+K00.2	taurodontisme
+K00.2	mésotaurodontisme
+K00.2	hypertaurodontisme
+K00.2	microdontie de dents appariées
+K00.2	microdontie, dent unique
+K00.2	dent à racines divergentes multiples
+K00.2	dent à racines convergentes multiples
+K00.2	canaux radiculaires latéraux accessoires
+K00.3	dents tachetées
+K00.3	taches de l'émail
+K00.3	fluorose dentaire
+K00.3	coloration anormale intrinsèque de l'émail au cours de la fluorose
+K00.3	dyschromie intrinsèque de l'émail au cours de la fluorose
+K00.3	opacités de l'émail non associée à la fluorose
+K00.4	aplasie du cément
+K00.4	hypoplasie du cément
+K00.4	hypoplasie de l'émail
+K00.4	dents de Horner
+K00.4	hypocalcification des dents
+K00.4	hypocalcification de l'émail des dents
+K00.4	dysplasie dentaire régionale
+K00.4	odontogenesis imperfecta
+K00.4	dysplasie odontogène
+K00.4	dilacération d'une dent
+K00.6	dent natale
+K00.6	dent néonatale
+K00.6	dent de lait persistante
+K00.6	dent temporaire persistante
+K00.6	dents de lait persistantes
+K00.6	dents temporaires persistantes
+K00.6	éruption dentaire anormale
+K00.6	anomalie de l'éruption dentaire
+K00.6	chute prématurée d'une dent de lait
+K00.6	exfoliation prématurée d'une dent temporaire
+K00.6	exfoliation précoce des dents de lait
+K00.6	perte prématurée des dents de lait
+K00.6	éruption tardive d'une dent
+K00.6	apparition tardive des dents
+K00.6	éruption dentaire tardive
+K00.6	éruption dentaire obstruée
+K00.6	éruption prématurée d'une dent
+K00.6	apparition prématurée des dents
+K00.6	éruption dentaire prématurée
+K00.6	éruption dentaire précoce
+K00.6	éruption passive altérée des dents
+K00.6	éruption dentaire tardive globale due à une maladie systémique
+K00.6	éruption dentaire tardive globale non réliée à une maladie systémique
+K00.8	changement de couleur pendant la formation d'une dent
+K00.8	changement de couleur après éruption d'une dent
+K00.3	coloration anormale intrinsèque de l'émail au cours de la porphyrie
+K00.3	dyschromie intrinsèque de l'émail au cours de la porphyrie
+K00.3	coloration anormale intrinsèque de l'émail au cours de l'érythroblastose foetale
+K00.3	dyschromie intrinsèque de l'émail au cours de l'érythroblastose foetale
+K00.5	amélogenèse imparfaite
+K00.5	hypoplasie congénitale de l'émail dentaire
+K00.5	hypoplasie brune héréditaire de l'émail
+K00.5	hypoplasie héréditaire de l'émail
+K00.5	amélogenèse imparfaite de type hypocalcifié
+K00.5	amélogenèse imparfaite de type hypoplasique par hypomaturation avec taurodontisme
+K00.5	amélogenèse imparfaite de type hypoplasique avec microdontie
+K00.5	amélogenèse imparfaite de type hypomature pigmenté
+K00.5	amélogenèse imparfaite de type hypomature
+K00.5	amélogenèse imparfaite de type hypoplasique
+K00.5	syndrome rénal-adamantin
+K00.5	syndrome de Lubinsky
+K00.5	amélogenèse imparfaite, néphrocalcinose et altération de la concentration rénale
+K00.5	syndrome de Kohlschutter
+K00.5	épilepsie, démence et amélogenèse imparfaite
+K00.5	épilepsie, détérioration mentale et dents jaunes
+K00.4	hypoplasie généralisée de l'émail d'origine indéterminée
+K00.4	hypoplasie généralisée de l'émail associée à une maladie systémique
+K00.4	hypoplasie généralisée de l'émail associée à la fluorose
+K00.4	hypoplasie généralisée de l'émail associée à la radiothérapie
+K00.4	hypoplasie généralisée de l'émail associée à l'ingestion de médicaments
+K00.4	hypoplasie localisée de l'émail d'origine indéterminée
+K00.4	hypoplasie localisée de l'émail associée à un traumatisme local
+K00.4	hypoplasie localisée de l'émail associée à une infection locale
+K00.5	hypominéralisation de l'émail
+K00.5	hypominéralisation localisée de l'émail d'origine indéterminée
+K00.5	hypominéralisation localisée de l'émail associée à un traumatisme local
+K00.5	hypominéralisation localisée de l'émail associée à une infection locale
+K00.5	hypominéralisation généralisée de l'émail
+K00.5	dysplasie de la dentine
+K00.5	dysplasie de Capdepont
+K00.5	dysplasie de la dentine de type I
+K00.5	dysplasie de la dentine de type II
+K07.2	anomalie congénitale de l'arcade dentaire
+K07.2	articulé croisé antérieur
+K07.2	articulé croisé buccal
+K07.2	articulé croisé labial
+K07.2	articulé croisé postérieur
+K07.2	articulé croisé lingual
+K07.2	articulé croisé
+K07.2	déviation médiane des dents
+K07.2	articulé croisé bilatéral
+K07.2	articulé croisé postérieur inverse
+K07.2	articulé croisé postérieur inverse, dent unique
+K07.2	articulé croisé postérieur inverse, dents multiples
+K07.2	béance occlusale antérieure
+K07.2	béance en occlusion
+K07.2	béance occlusale postérieure
+K07.2	surocclusion
+K07.2	surocclusion profonde
+K07.2	surocclusion horizontale
+K07.2	surplomb
+K07.2	surocclusion verticale
+K07.2	occlusion linguale postérieure des dents inférieures
+K07.2	empiétement des tissus mous sur les dents
+K07.2	inclinaison dentaire buccale
+K07.2	inclinaison dentaire linguale
+K07.4	malocclusion des dents
+K07.4	malocclusion
+K07.2	malocclusion de la classe I d'Angle
+K07.2	neutrocclusion
+K07.2	malocclusion de la classe II d'Angle
+K07.2	distocclusion des dents
+K07.2	distocclusion dentaire
+K07.2	distocclusion
+K07.2	occlusion postérieure
+K07.2	occlusion rétrusive
+K07.2	malocclusion de la classe II d'Angle, division 1
+K07.2	malocclusion de la classe II d'Angle, division 2
+K07.2	malocclusion de la classe III d'Angle
+K07.2	mésiocclusion
+K07.2	mésiocclusion des dents
+K07.2	occlusion antérieure
+K07.2	occlusion protrusive
+K07.3	malposition d'une dent
+K07.3	dent malpositionnée
+K07.3	chevauchement de dents dû à des dents surnuméraires
+K07.3	chevauchement des dents
+K07.3	diastème des dents
+K07.3	espacement anormal des dents
+K07.3	déplacement d'une dent
+K07.3	transposition d'une dent
+K07.3	position inverse de dents adjacentes
+K07.3	proximité anormale des racines entre les dents adjacentes
+K07.3	rotation d'une dent
+K07.3	rotation dentaire
+K07.3	protrusion d'une dent
+K07.3	protrusion dentaire
+K07.3	dents incluses avec position anormale de ces dents
+K07.3	dents enclavées avec position anormale de ces dents
+K01.0	dent partiellement incluse
+K01.0	dent incluse dans les tissus mous
+K01.0	dent partiellement incluse dans l'os
+K01.0	dent complètement incluse dans l'os
+K01.0	dent incluse avec complication
+K01.0	dent incluse complexe
+K07.1	asymétrie congénitale de la mâchoire
+K07.1	asymétrie mandibulaire congénitale
+K07.1	asymétrie congénitale de la mandibule
+K07.1	asymétrie congénitale du maxillaire supérieur
+K07.1	agnathie
+K07.1	anomalie congénitale de la mâchoire
+K07.1	malformation congénitale de la mâchoire
+K07.1	prognathisme congénital
+K07.1	prognathisme
+K07.1	prognathie
+K07.1	exognathie
+K07.1	prognathisme inférieur
+K07.1	prognathisme supérieur
+K07.1	rétrognathisme congénital
+K07.1	rétrognathisme
+K07.1	rétrognathie
+K07.1	rétromandibulie
+K07.1	rétromaxillie
+K07.0	macrognathie congénitale
+K07.0	macrogénie
+K07.0	hyperplasie mandibulaire congénitale
+K07.0	macrognathie mandibulaire
+K07.0	hyperplasie congénitale du maxillaire supérieur
+K07.0	macrognathie du maxillaire supérieur
+K07.0	hyperplasie mandibulaire horizontale congénitale
+K07.0	hyperplasie mandibulaire verticale congénitale
+K07.0	hyperplasie mandibulaire transverse congénitale
+K07.0	hyperplasie alvéolaire congénitale de la mandibule
+K07.0	hyperplasie alvéolaire mandibulaire congénitale
+K07.0	hyperplasie alvéolaire congénitale du maxillaire supérieur
+K07.0	micrognathie congénitale
+K07.0	micrognathie
+K07.0	microgénie
+K07.0	hypoplasie mandibulaire congénitale
+K07.0	micrognathie de la mandibule
+K07.0	micrognathie du maxillaire inférieur
+K07.0	mandibule hypoplasique congénitale
+K07.0	hypoplasie congénitale de la mandibule
+K07.0	micrognathie mandibulaire
+K07.0	brachygnathie
+K07.0	bec de perroquet
+K07.0	hypoplasie congénitale du maxillaire supérieur
+K07.0	maxillaire supérieur hypoplasique congénital
+K07.0	micrognathie du maxillaire supérieur
+K07.0	hypoplasie mandibulaire horizontale congénitale
+K07.0	hypoplasie mandibulaire verticale congénitale
+K07.0	hypoplasie mandibulaire tranverse congénitale
+K07.0	hypoplasie alvéolaire congénitale de la mandibule
+K07.0	hypoplasie alvéolaire mandibulaire congénitale
+K07.0	hypoplasie alvéolaire congénitale du maxillaire supérieur
+K07.0	hypoplasie transverse congénitale du maxillaire supérieur
+K07.0	hypoplasie verticale congénitale du maxillaire supérieur
+K00.6	chute précoce des dents de lait reliée à une maladie
+K00.6	exfoliation dentaire précoce globale reliée à une maladie systémique
+K00.6	chute dentaire précoce reliée à une éruption proximale ectopique
+K00.6	chute dentaire précoce reliée à une résorption radiculaire idiopathique
+K00.6	chute dentaire précoce reliée à une résorption radiculaire associée à un traumatisme
+K00.6	chute tardive des dents de lait
+K00.6	chute tardive d'une dent
+K00.6	chute tardive d'une dent associée à un traumatisme précédent
+K00.6	chute dentaire tardive globale non reliée à une maladie systémique
+K00.6	non-exfoliation des dents de lait
+K00.6	non-exfoliation dentaire associée à une absence dentaire succédanée
+K00.6	non-exfoliation dentaire associée à une éruption dentaire succédanée ectopique
+K00.6	non-éruption dentaire
+K00.6	non-éruption dentaire globale associée à une maladie systémique
+K01.0	non-éruption dentaire associée à une inclusion dentaire
+K00.4	follicule dentaire hyperplasique
+K00.4	follicule hyperplasique d'une dent
+K09.0	kyste odontogène gingival
+K09.0	kyste gingival
+K09.0	kyste gingival du nouveau-né
+K09.0	kyste gingival de l'adulte
+K09.8	kyste de bifurcation dentaire buccal
+K09.0	kyste dentigère
+K09.0	kyste dentigère de la mâchoire
+K09.0	kyste lié à l'éruption dentaire
+K09.0	kyste folliculaire de la mâchoire
+K09.0	kyste folliculaire dentigère
+K09.0	kyste folliculaire de la mâchoire lié à l'éruption dentaire
+K09.0	kyste odontogène lié à l'éruption dentaire
+K09.0	kyste périodontal
+K09.0	kyste périodontal odontogène
+K09.0	kyste parodontal
+K09.0	kyste latéral de la mâchoire lié au développement
+K09.0	kyste dentaire latéral de la mâchoire
+K09.0	kyste primordial
+K09.0	kératokyste de la mâchoire
+K09.0	kyste primordial de la mâchoire
+K09.0	kyste odontogène primordial
+K10.0	kyste palatin du nouveau-né
+K10.0	kyste globulo-maxillaire
+K10.0	kyste fissuraire maxillaire
+K10.0	kyste naso-palatin
+K10.0	kyste du canal palatin antérieur
+K10.0	kyste maxillaire médian antérieur
+K09.1	kyste gastro-intestinal hétérotopique buccal
+K10.0	kyste du palais médian
+K10.0	kyste du tubercule palatin
+K10.0	kyste de la papille incisive
+K09.8	kyste naso-labial
+K09.8	kyste naso-alvéolaire
+K10.0	kyste mandibulaire médian
+K09.8	perles d'Epstein
+K06.8	épulis congénital du nouveau-né
+K06.8	myoblastome congénital
+K06.8	tumeur gingivale congénitale à cellules granuleuses
+K06.8	tumeur congénitale à cellules granuleuses de la gencive
+K10.0	lymphangiome alvéolaire néonatal
+K14.2	persistance du tubercule de Carabelli
+K14.2	glossite losangique médiane
+K25.0	maladie de Dieulafoy
+K25.0	ulcère de Dieulafoy
+K92.9	maladie de l'appareil digestif
+K92.9	maladie des voies digestives
+K92.9	maladie du tractus gastro-intestinal
+K92.9	maladie gastro-intestinale
+K92.9	maladie des voies digestives supérieures
+K92.9	maladie des voies digestives inférieures
+K92.9	maladie des organes digestifs
+K92.2	hémorragie digestive
+K92.2	hémorragie gastro-intestinale
+K92.2	hémorragie des voies digestives
+K92.2	hémorragie du tube digestif
+K92.2	hémorragie digestive aiguë
+K92.2	hémorragie aiguë du tube digestif
+K92.2	hémorragie aiguë des voies digestives
+K92.2	hémorragie gastro-intestinale aiguë
+K92.2	hémorragie digestive chronique
+K92.2	hémorragie chronique du tube digestif
+K92.2	hémorragie chronique des voies digestives
+K92.2	hémorragie gastro-intestinale chronique
+K92.2	hémorragie digestive haute
+K92.2	hémorragie gastro-intestinale haute
+K92.2	hémorragie des voies digestives supérieures
+K92.2	hémorragie du tube digestif supérieur
+K92.2	hémorragie digestive haute aiguë
+K92.2	hémorragie gastro-intestinale haute aiguë
+K92.2	hémorragie aiguë du tube digestif supérieur
+K92.2	hémorragie aiguë des voies digestives supérieures
+K92.2	hémorragie digestive haute chronique
+K92.2	hémorragie gastro-intestinale haute chronique
+K92.2	hémorragie chronique du tube digestif supérieur
+K92.2	hémorragie chronique des voies digestives supérieures
+K92.0	hématémèse
+K92.0	vomissement de sang
+K92.2	hémorragie digestive basse
+K92.2	hémorragie gastro-intestinale basse
+K92.2	hémorragie du tube digestif inférieur
+K92.2	hémorragie des voies digestives inférieures
+K92.2	hémorragie digestive basse aiguë
+K92.2	hémorragie gastro-intestinale basse aiguë
+K92.2	hémorragie aiguë du tube digestif inférieur
+K92.2	hémorragie aiguë des voies digestives inférieures
+K92.2	hémorragie digestive basse chronique
+K92.2	hémorragie gastro-intestinale basse chronique
+K92.2	hémorragie chronique du tube digestif inférieur
+K92.2	hémorragie chronique des voies digestives inférieures
+K92.1	émission de selles sanguinolentes
+K92.1	selles sanguinolentes
+K92.1	méléna
+K92.1	melaena
+K92.1	selles goudronneuses
+K92.1	sang occulte dans les selles
+K92.1	selles Guaïac-positif
+K52.2	allergie alimentaire digestive
+K52.2	allergie alimentaire
+K52.2	hypersensibilité alimentaire digestive
+K90.4	intolérance aux protéines du lait de vache
+K90.4	intolérance au lait de vache
+K90.4	intolérance aux protéines de soja
+K90.0	intolérance transitoire au gluten
+K90.4	syndrome du restaurant chinois
+K52.8	gastro-entéropathie à éosinophiles
+K52.8	gastro-entéropathie à éosinophiles avec atteinte prédominant dans la muqueuse
+K52.8	gastro-entérite à éosinophiles, forme muqueuse
+K52.8	gastro-entéropathie à éosinophiles avec atteinte prédominant dans la couche musculaire
+K52.8	gastro-entérite à éosinophiles, forme musculaire
+K52.8	gastro-entéropathie à éosinophiles avec atteinte prédominant dans la sous-séreuse
+K52.8	gastro-entérite à éosinophiles, forme séreuse
+K52.8	gastro-entéropathie à éosinophiles avec atteinte du collagène vasculaire
+K52.8	gastro-entéropathie à éosinophiles avec hypersensibilité alimentaire
+K92.8	pseudo-obstruction chronique primitive du tractus gastro-intestinal
+K22.2	pseudo-obstruction chronique primitive de l'oesophage
+K31.8	pseudo-obstruction chronique orimitive de l'estomac
+K56.0	pseudo-obstruction chronique primitive de l'intestin grêle
+K56.0	pseudo-obstruction chronique primitive du gros intestin
+K56.0	pseudo-obstruction chronique primitive du côlon
+K56.0	syndrome d'Ogilvie
+K56.0	pseudo-obstruction intestinale secondaire
+K59.2	dysfonctionnement diffus du muscle lisse du tractus gastro-intestinal
+K59.2	myopathie héréditaire des viscères creux
+K59.2	myopathie viscérale familiale
+K59.2	neuropathie viscérale familiale
+K31.8	irritation gastro-intestinale
+K31.8	coloration anormale de la muqueuse gastro-intestinale
+K31.8	mucosite gastro-intestinale
+K55.0	nécrose de la muqueuse gastro-intestinale
+K31.6	fistule gastro-intestinale
+K31.6	fistule gastro-intestinale interne
+K31.6	fistule gastro-intestinale externe
+K31.6	fistule gastro-intestinale externe à débit élevé
+K31.6	fistule gastro-intestinale externe à bas débit
+K31.8	perforation gastro-intestinale
+K31.2	sténose gastro-intestinale
+K08.9	maladie des dents
+K08.9	maladie dentaire
+K08.9	affection dentaire
+K00.7	syndrome d'éruption dentaire
+K03.9	maladie des tissus dentaires durs
+K02.9	caries dentaires
+K02.9	carie dentaire
+K02.8	caries dentaires simples
+K02.8	carie dentaire simple
+K02.8	caries dentaires composées
+K02.8	carie dentaire composée
+K02.8	caries dentaires complexes
+K02.8	carie dentaire complexe
+K02.3	caries dentaires stabilisées
+K02.2	caries du cément
+K02.2	cémentite
+K02.1	caries de la dentine
+K02.1	caries aiguës de la dentine
+K02.1	caries chroniques de la dentine
+K02.0	caries de l'émail
+K02.0	caries aiguës de l'émail
+K02.0	caries chroniques de l'émail
+K02.0	caries initiales de l'émail
+K03.8	déminéralisation de l'émail des dents
+K02.8	caries dentaires associées à une hypominéralisation de l'émail
+K02.8	caries dentaires associées à une hypocalcification de l'émail
+K02.8	caries dentaires associées à une hypoplasie de l'émail
+K02.8	caries dentaires par dysfonctionnement salivaire
+K02.8	caries par dysfonctionnement salivaire
+K02.8	caries dentaires par dysfonctionnement salivaire secondaire à une maladie des glandes salivaires
+K02.8	caries par dysfonctionnement salivaire dû à un médicament
+K02.8	caries par dysfonctionnement salivaire dû à une radiothérapie
+K02.8	caries par dysfonctionnement salivaire dû au vieillissement
+K02.8	caries dentaires secondaires
+K02.8	caries dentaires secondaires à une restauration dentaire défectueuse
+K02.8	caries dentaires secondaires dues à des facteurs locaux ou généraux
+K02.8	caries dentaires secondaires à des anomalies du développement structural des dents
+K02.8	caries dentaires secondaires à des anomalies structurales acquises des dents
+K02.8	caries dentaires primaires
+K02.8	caries dentaires primaires d'origine indéterminée
+K02.8	caries dentaires primaires d'origine cervicale
+K02.8	caries dentaires primaires originaires d'une surface lisse proximale
+K02.8	caries dentaires primaires originaires d'une surface lisse non proximale
+K02.8	caries dentaires primaires originaires de puits et fissures
+K02.8	caries dentaires primaires originaires d'une surface radiculaire
+K02.8	caries dentaires primaires originaires de plusieurs surfaces
+K02.8	caries de l'enfance
+K02.8	caries de la petite enfance
+K02.8	caries de l'enfance d'origine indéterminée
+K02.8	caries de l'enfance associées à l'allaitement maternel
+K02.8	caries dentaires associées à l'allaitement maternel
+K02.8	caries de l'enfance associées à l'allaitement artificiel
+K02.8	caries dentaires associées au biberon
+K02.4	mélanodontie infantile
+K02.0	taches blanches des dents
+K03.0	attrition excessive des dents
+K03.0	attrition dentaire excessive
+K03.0	usure proximale des dents
+K03.0	usure occlusale des dents
+K03.0	attrition de la couronne dentaire associée au vieillissement
+K03.0	attrition de la couronne dentaire secondaire aux forces de mastication
+K03.0	perte de dents due à une attrition
+K03.1	abrasion des dents
+K03.1	abrasion par dentifrice des dents
+K03.1	abrasion habituelle des dents
+K03.1	abrasion professionnelle des dents
+K03.1	abrasion rituelle des dents
+K03.1	abrasion traditionnelle des dents
+K03.1	anomalie en coin des dents
+K03.1	abrasion des dents secondaire à des pratiques orales nocives
+K03.1	abrasion du collet d'une dent
+K03.1	abrasion cervicale d'une dent
+K03.2	érosion des dents
+K03.2	érosion des dents due aux médicaments
+K03.2	érosion des dents due à des vomissements persistants
+K03.2	érosion idiopathique des dents
+K03.2	érosion professionnelle des dents
+K03.2	périmylolyse
+K03.2	périmolyse
+K03.2	érosion des dents secondaire à des pratiques orales nocives
+K03.3	résorption pathologique des dents
+K03.3	résorption pathologique de la racine dentaire
+K03.3	résorption dentaire externe
+K03.3	résorption externe de la racine dentaire
+K03.3	résorption dentaire interne
+K03.3	résorption interne de la racine dentaire
+K03.3	résorption interne de la couronne d'une dent
+K03.3	cémentoclasie
+K03.3	résorption de l'apex d'une racine dentaire
+K03.3	résorption apicale d'une racine dentaire
+K03.8	non-résorption de la racine d'une dent
+K03.4	hypercémentose
+K03.4	hyperplasie cémentaire
+K03.4	cémentose
+K03.4	hyperplasie du cément
+K03.5	ankylose dentaire
+K03.4	fragilité des dents
+K03.8	émail irradié
+K03.8	hypersensibilité de la dentine
+K03.8	hypersensibilité dentaire
+K03.8	sensibilité de la racine dentaire
+K03.8	sensibilité dentaire à la jonction de l'émail et du cément
+K03.8	sensibilité dentaire à la percussion
+K03.8	sensibilité dentaire aux fibres de la brosse à dents ou au fil de soie
+K03.8	sensibilité dentaire à la chaleur
+K03.8	sensibilité dentaire au froid
+K03.8	sensibilité dentaire à la palpation
+K03.8	sensibilité dentaire à la pression
+K03.7	modification de la teinte des dents après l'éruption
+K03.7	coloration anormale des dents après l'éruption
+K03.7	jaunissement des dents après l'éruption
+K03.7	coloration anormale acquise de l'émail
+K03.7	dyschromie acquise de l'émail
+K03.7	coloration anormale acquise de l'émail associée au vieillissement
+K03.7	dyschromie acquise de l'émail associée au vieillissement
+K03.6	coloration anormale extrinsèque des dents associée à une hygiène buccale inadéquate
+K03.6	coloration anormale extrinsèque des dents associée à des habitudes orales
+K03.7	coloration anormale des dents après l'éruption due à un médicament
+K03.7	dyschromie dentaire extrinsèque associée à un médicament
+K03.7	coloration anormale des dents après l'éruption due à la tétracycline
+K03.7	dyschromie dentaire due à la tétracycline
+K03.7	coloration anormale des dents après l'éruption due au métal
+K03.7	coloration anormale des dents après l'éruption due à une hémorragie de la pulpe dentaire
+K03.6	accrétions sur les dents
+K03.6	dépôts sur les dents
+K03.6	dépôts dentaires
+K03.6	plaque dentaire
+K03.6	plaque dentaire sus-gingivale
+K03.6	dépôts dentaires mous
+K03.6	materia alba sur les dents
+K03.6	dépôts de tabac sur les dents
+K03.6	dépôts de bétel sur les dents
+K03.6	tartre dentaire
+K03.6	odontolithe
+K03.6	tartre
+K03.6	tartre dentaire sous-gingival
+K03.6	tartre dentaire sus-gingival
+K04.9	maladie de la pulpe dentaire
+K04.9	maladie endodontique
+K04.0	pulpite
+K04.0	pulpite aiguë
+K04.0	pulpite suppurée
+K04.0	abcès pulpaire
+K04.0	abcès de la pulpe dentaire
+K04.0	abcès pulpaire d'une dent
+K04.0	pulpite chronique
+K04.0	pulpite hyperplasique chronique
+K04.0	pulpite ulcérative chronique
+K04.0	polype pulpaire
+K03.3	granulome de la pulpe dentaire
+K03.3	granulome pulpaire
+K04.0	pulpite réversible
+K04.0	pulpite irréversible
+K04.1	nécrose de la pulpe dentaire
+K04.1	pulpe dentaire dévitalisée
+K04.1	pulpe dévitalisée
+K04.1	nécrose pulpaire
+K04.1	pulpite putrescente
+K04.1	gangrène de la pulpe dentaire
+K04.2	dégénérescence de la pulpe dentaire
+K04.2	denticule
+K04.2	calcification de la pulpe dentaire
+K04.2	pulpolithe
+K04.3	formation anormale des tissus dentaires durs dans la pulpe
+K04.3	dentine secondaire
+K04.3	dentine irrégulière
+K04.1	pont dentinal
+K04.9	maladie des tissus périapicaux des dents
+K04.4	périodontite apicale aiguë d'origine pulpaire
+K04.7	abcès périapical sans fistule
+K04.7	abcès alvéolaire
+K04.7	abcès apical
+K04.7	abcès dentaire
+K04.7	abcès dento-alvéolaire
+K04.7	abcès périapical
+K04.7	abcès apical aigu
+K04.7	abcès alvéolaire aigu
+K04.7	abcès dento-alvéolaire aigu
+K04.7	abcès périapical aigu
+K04.7	abcès apical chronique
+K04.7	abcès alvéolaire chronique
+K04.7	abcès dento-alvéolaire chronique
+K04.7	abcès périapical chronique
+K04.7	abcès périradiculaire chronique
+K04.7	périodontite apicale suppurée
+K04.7	abcès périapical avec atteinte faciale
+K04.5	périodontite apicale
+K04.4	périodontite apicale aiguë
+K04.5	granulome apical
+K04.5	périodontite apicale chronique
+K04.5	granulome dentaire
+K04.5	granulome périapical
+K04.6	abcès périapical avec fistule
+K04.6	fistule alvéolaire
+K04.6	fistule dentaire
+K04.7	abcès de Phoenix
+K04.7	abcès recrudescent
+K04.9	cicatrice de l'apex d'une racine dentaire
+K04.9	cicatrice apicale dentaire
+K04.8	kyste radiculaire
+K04.8	kyste apical
+K04.8	kyste périodontal apical
+K04.8	kyste périapical
+K04.8	kyste périradiculaire
+K04.8	kyste radiculodentaire
+K04.8	kyste résiduel
+K04.8	kyste résiduel radiculaire
+K05.6	maladie du parodonte
+K06.9	maladie des gencives
+K06.9	affection gingivale
+K06.9	maladie gingivale
+K05.1	enroulement de la gencive marginale
+K05.1	enroulement gingival marginal
+K06.8	liséré plombique
+K06.8	liséré saturnin
+K06.8	liséré de Burton
+K05.1	gingivite
+K05.0	gingivite aiguë
+K05.0	gingivite allergique
+K05.1	gingivite chronique
+K05.1	gingivite desquamative
+K05.1	gingivite desquamative chronique
+K05.1	gingivose
+K05.1	gingivite hyperplasique
+K05.1	gingivite marginale simple
+K05.1	gingivite ulcérative
+K05.1	gingivite marginale généralisée
+K05.1	gingivostomatite
+K06.8	gingivite atrophique sénile
+K06.8	gingivite catarrhale
+K06.8	gingivite due aux rouleaux de coton
+K06.8	gingivite éruptive
+K13.2	leucoplasie de la gencive
+K05.2	parulie
+K05.2	abcès gingival
+K05.2	abcès des gencives
+K05.0	cellulite de la gencive
+K05.0	cellulite gingivale
+K05.0	cellulite dento-alvéolaire
+K06.0	retrait gingival
+K06.0	retrait gingival généralisé
+K06.0	retrait gingival localisé
+K06.0	retrait gingival post-infectieux
+K06.0	retrait gingival post-opératoire
+K06.8	atrophie des gencives
+K06.8	atrophie gingivale
+K06.0	insertion gingivale minimale
+K06.0	insertion gingivale inadéquate
+K06.0	rétraction gingivale
+K05.5	hémorragie d'un sillon gingival
+K05.5	saignement d'un sillon de la gencive
+K05.5	saignement d'un sillon gingival
+K05.5	sillon gingival hémorragique
+K05.0	inflammation suppurée d'un sillon gingival
+K05.0	suppuration d'un sillon gingival
+K06.8	épulis à cellules géantes
+K06.8	granulome périphérique à cellules géantes
+K06.8	granulome pyogéne de la gencive
+K06.8	épulis granulomateuse
+K06.1	hyperplasie gingivale
+K06.1	hypertrophie gingivale
+K06.1	hyperplasie des gencives
+K06.1	fibromatose gingivale
+K06.8	polype gingival
+K06.1	hypertrophie gingivale due à la diphénylhydantoïne
+K06.8	kératose due au tabac à chiquer
+K06.8	hyperkératose due au tabac à chiquer
+K12.1	stomatite due à la nicotine
+K06.1	fibromatose gingivale héréditaire
+K06.1	fibromatose gingivale idiopathique
+K06.1	hyperplasie gingivale médicamenteuse
+K06.8	ulcère gingival
+K06.8	ulcération gingivale
+K06.8	ulcère de la gencive
+K06.8	ulcération de la gencive
+K05.5	fente gingivale
+K05.5	fissure gingivale
+K06.8	exulcération gingivale
+K06.8	érosion des gencives
+K06.8	érosion gingivale
+K06.8	exulcération des gencives
+K06.8	hypoplasie de la gencive
+K06.8	gencive étroite
+K06.1	hyperplasie de la papille interdentaire
+K06.1	papille interdentaire hyperplasique
+K06.8	papille interdentaire cratériforme
+K06.8	papille interdentaire émoussée
+K06.1	hyperplasie gingivale rétromolaire
+K05.6	maladie périodontique
+K06.8	poche gingivale
+K06.8	poche parodontale
+K06.8	espace desmodontal élargi
+K05.3	périodontite
+K05.3	parodontite
+K05.2	périodontite aiguë
+K05.2	péricémentite aiguë
+K05.2	abcès périodontal
+K05.2	abcès alvéolaire latéral
+K05.2	abcès périodontal latéral
+K05.2	abcès pariétal d'une dent
+K05.2	abcès parodontal
+K05.2	abcès périodontal aigu
+K05.2	abcès parodontal aigu
+K05.2	péricoronarite
+K05.2	péricoronarite aiguë
+K05.2	abcès péricoronaire
+K05.3	périodontite chronique
+K05.3	péricémentite chronique
+K05.3	péricoronarite chronique
+K05.3	périodontite expulsive
+K05.3	périostite alvéolo-dentaire
+K05.3	pyorrhée alvéolo-dentaire
+K05.3	alvéolyse
+K05.3	maladie de Fauchard
+K05.3	périodontite simple
+K05.3	pyorrhée
+K05.3	gingivite expulsive
+K05.3	périostite alvéolo-dentaire ossifiante chronique
+K05.3	périostite alvéolo-dentaire suppurée aiguë
+K05.4	périodontite juvénile
+K05.4	parodontose
+K05.4	desmodontose
+K05.4	périodontite prépubertaire
+K05.2	périodontite à évolution rapide
+K05.5	périodontite de l'adulte
+K05.5	périodontite généralisée de l'adulte
+K05.5	desmodontite généralisée de l'adulte
+K05.5	périodontite localisée de l'adulte
+K05.5	desmodontite localisée de l'adulte
+K05.5	gingivo-périodontite ulcéro-nécrotique
+K06.2	affection parodontale due à une occlusion traumatique
+K07.5	anomalie dento-faciale fonctionnelle
+K07.5	fermeture anormale des maxillaires
+K07.4	malocclusion des mâchoires
+K07.5	malocclusion due à une déglutition anormale
+K07.5	malocclusion due à une respiration buccale
+K07.5	malocclusion due à des habitudes impliquant la langue
+K07.5	malocclusion due à des habitudes impliquant les lèvres
+K07.5	malocclusion due à des habitudes impliquant les doigts
+K07.5	malocclusion due à des habitudes de succion
+K07.5	malocclusion due à des habitudes avec des objets
+K07.5	malocclusion due à la mastication des tissus mous intraoraux
+K07.5	malocclusion due à une hyperplasie gingivale
+K07.5	malocclusion due à des habitudes de mordre
+K07.5	malocclusion due à une insertion anormale d'un frein
+K07.5	ouverture anormale de la mâchoire
+K07.5	capacité limitée à ouvrir la bouche
+K07.5	déviation de l'ouverture mandibulaire
+K07.5	empiétement de l'apophyse coronoïde de la mandibule
+K08.5	extrusion d'une dent
+K08.5	extrusion dentaire
+K08.5	extrusion d'une dent due à un traumatisme
+K08.5	extrusion dentaire traumatique
+K07.3	superéruption d'une dent
+K07.3	supraclusion d'une dent
+K07.3	supra-occlusion d'une dent
+K07.3	superéruption d'une dent sans antagoniste
+K07.3	superéruption d'une dent associée à une malocclusion
+K08.2	perte longitudinale secondaire de l'arcade dentaire
+K08.2	perte longitudinale de l'arcade dentaire secondaire à une absence congénitale de dents
+K08.2	perte longitudinale de l'arcade dentaire secondaire à une perte de dents de lait
+K08.2	perte longitudinale de l'arcade dentaire secondaire à une perte de dents permanentes
+K08.2	perte longitudinale de l'arcade dentaire secondaire à des caries dentaires
+K08.2	discordance entre la dimension des dents et la longueur de l'arcade dentaire
+K08.8	longueur excessive de l'arcade dentaire
+K07.6	lésion de l'articulation temporo-mandibulaire
+K07.6	syndrome de l'articulation temporo-mandibulaire
+K07.6	mouvement anormal de la mâchoire
+K07.6	adhérences de l'articulation temporo-mandibulaire
+K07.6	crépitation articulaire temporo-mandibulaire
+K07.6	crépitation de l'articulation temporo-mandibulaire
+K07.6	limitation des mouvements de l'articulation temporo-mandibulaire
+K07.6	limitation des mouvements de la mâchoire
+K07.6	sensibilité à la palpation de l'articulation temporo-mandibulaire
+K07.6	ankylose de l'articulation temporo-mandibulaire
+K07.6	dysfontionnement de l'articulation temporo-mandibulaire
+K07.6	affection du ménisque articulaire de l'articulation temporo-mandibulaire
+K07.6	arthralgie de l'articulation temporo-mandibulaire
+K07.6	déplacement du ménisque articulaire temporo-mandibulaire
+K07.6	déplacement du ménisque articulaire temporo-mandibulaire sans réduction
+K07.6	déplacement du ménisque de l'articulation temporo-mandibulaire sans réduction
+K07.6	déplacement du ménisque articulaire temporo-mandibulaire avec réduction
+K07.6	déplacement du ménisque de l'articulation temporo-mandibulaire avec réduction
+K07.6	syndrome de dysfonctionnement douloureux de l'articulation temporo-mandibulaire
+K07.6	complexe de Costen
+K07.6	syndrome de Costen
+K07.6	mâchoire à ressort
+K07.6	syndrome ATM
+K07.6	claudication de la mâchoire
+K07.6	arthrite de l'articulation temporo-mandibulaire
+K07.6	arthrite de l'articulation temporo-mandibulaire de la polyarthrite
+K07.6	arthrite systémique avec atteinte de l'articulation temporo-mandibulaire
+K07.6	arthrite de l'articulation temporo-mandibulaire due à une prothèse articulaire interne
+K07.6	réaction inflammatoire de l'articulation temporo-mandibulaire due à une prothèse articulaire interne
+K07.6	contracture protectrice des muscles masticateurs
+K08.1	absence acquise de dents
+K08.1	perte acquise de dents
+K08.1	avulsion d'une dent
+K08.1	avulsion partielle d'une dent
+K08.1	avulsion complète d'une dent
+K08.8	dent avulsée réimplantée
+K08.1	absence acquise de plusieurs dents
+K08.1	hypodontie acquise de plusieurs dents
+K08.1	perte de plusieurs dents
+K08.1	absence acquise d'une dent
+K08.1	hypodontie acquise d'une dent
+K08.1	perte d'une dent
+K08.0	exfoliation dentaire due à des causes générales
+K08.1	perte de dents consécutive à un accident
+K08.1	perte accidentelle de dents
+K08.1	perte traumatique de dents
+K08.1	perte de dents consécutive à une extraction
+K08.1	perte chirurgicale de dents
+K08.1	perte de dents consécutive à une affection périodontale localisée
+K08.1	perte spontanée de dents
+K08.8	déchaussement d'une dent
+K08.2	crête alvéolaire édentée
+K08.2	atrophie de la crête alvéolaire édentée
+K08.2	atrophie de la crête alvéolaire édentée du maxillaire supérieur
+K08.2	atrophie de la crête alvéolaire édentée de la mandibule
+K08.2	fibrose infiltrante péricémentaire
+K08.2	syndrome d'atrophie alvéolaire diffuse
+K06.8	granuloma fissuratum
+K08.2	atrophie horizontale de la crête alvéolaire édentée
+K08.2	crête alvéolaire édentée à bords tranchants
+K08.8	crête alvéolaire édentée avec résorption labiale
+K08.3	racine dentaire laissée en place
+K08.8	hypertrophie de la crête alvéolaire
+K08.8	irrégularité du rebord alvéolaire
+K07.0	hypoplasie alvéolaire mandibulaire
+K07.0	hypoplasie alvéolaire maxillaire
+K10.9	maladie de la mâchoire
+K10.8	douleur de la mâchoire
+K10.0	kyste de la mâchoire
+K09.2	kyste anévrismal de la mâchoire
+K09.2	kyste hémorragique de la mâchoire
+K09.2	kyste traumatique de la mâchoire
+K10.1	granulome central à cellules géantes de la mâchoire
+K10.2	abcès de la mâchoire
+K10.2	abcès aigu de la mâchoire
+K10.2	abcès purulent de la mâchoire
+K10.2	abcès chronique de la mâchoire
+K10.2	abcès du maxillaire supérieur
+K10.2	abcès de la mandibule
+K10.2	abcès du maxillaire inférieur
+K10.2	abcès chronique du maxillaire supérieur
+K10.2	abcès chronique de la mandibule
+K10.2	abcès chronique du maxillaire inférieur
+K10.2	ostéite non purulente de la mâchoire
+K10.2	ostéite aiguë non purulente de la mâchoire
+K10.2	ostéite chronique condensante de la mâchoire
+K10.2	ostéite de Garré de la mâchoire
+K10.2	ostéomyélite de Garré du maxillaire inférieur
+K10.2	ostéite chronique condensante du maxillaire inférieur
+K10.2	ostéite de Garré du maxillaire inférieur
+K10.2	ostéomyélite de la mâchoire
+K10.2	ostéomyélite aiguë de la mâchoire
+K10.2	ostéomyélite chronique de la mâchoire
+K10.2	ostéomyélite purulente de la mâchoire
+K10.2	ostéomyélite néonatale de la mâchoire
+K10.2	ostéomyélite du maxillaire supérieur
+K10.2	ostéomyélite aiguë du maxillaire supérieur
+K10.2	ostéomyélite chronique du maxillaire supérieur
+K10.2	ostéomyélite de la mandibule
+K10.2	ostéomyélite du maxillaire inférieur
+K10.2	ostéomyélite aiguë de la mandibule
+K10.2	ostéomyélite aiguë du maxillaire inférieur
+K10.2	ostéomyélite chronique de la mandibule
+K10.2	ostéomyélite chronique du maxillaire inférieur
+K10.2	périostite de la mâchoire
+K10.2	périostite aiguë de la mâchoire
+K10.2	périostite chronique de la mâchoire
+K10.2	périostite purulente de la mâchoire
+K10.2	séquestre des maxillaires
+K10.2	séquestre du maxillaire supérieur
+K10.2	séquestre de la mandibule
+K10.2	séquestre du maxillaire inférieur
+K10.3	alvéolite de la mâchoire
+K10.3	alvéoalgie
+K10.3	alvéolalgie
+K10.3	ostéite alvéolaire
+K10.3	alvéolite sèche
+K10.3	alvéolite
+K10.3	alvéolite de la mandibule
+K10.3	alvéolite mandibulaire
+K10.3	alvéolite du maxillaire supérieur
+K10.8	exostose de la mâchoire
+K10.8	exostose buccale
+K10.8	exostose linguale
+K10.8	exostose labiale
+K10.8	saillie osseuse alvéolaire buccale
+K10.8	saillie osseuse alvéolaire linguale
+K10.8	saillie osseuse alvéolaire labiale
+K10.0	torus mandibulaire
+K10.0	torus palatin
+K10.8	raréfaction osseuse alvéolaire
+K10.8	raréfaction osseuse alvéolaire avec dépression cratériforme
+K10.8	raréfaction osseuse alvéolaire au-delà de la division radiculaire
+K10.8	raréfaction osseuse alvéolaire horizontale
+K10.8	raréfaction osseuse alvéolaire verticale
+K10.8	alvéole dentaire anormale
+K10.8	alvéole dentaire large
+K10.8	alvéole dentaire épaisse
+K10.8	alvéole dentaire étroite
+K10.8	chérubisme
+K10.8	chérubinisme
+K10.8	dysplasie fibreuse familiale de la mandibule
+K10.8	dysplasie fibreuse de la mâchoire
+K10.8	dysplasie fibreuse monostotique d'un os alvéolaire périradiculaire
+K10.8	kyste essentiel d'un os alvéolaire périradiculaire
+K10.0	kyste latent des maxillaires
+K10.2	ostéoradionécrose de la mâchoire
+K10.2	ostéoradionécrose du maxillaire supérieur
+K10.2	ostéoradionécrose de la mandibule
+K10.2	ostéoradionécrose du maxillaire inférieur
+K10.8	résorption de la mandibule
+K10.8	hyperplasie condylienne unilatérale de la mandibule
+K10.8	hyperplasie condylienne bilatérale de la mandibule
+K10.8	hyperplasie condylienne avec asymétrie mandibulaire
+K10.8	hyperplasie coronoïdienne unilatérale de la mandibule
+K10.8	hyperplasie coronoïdienne bilatérale de la mandibule
+K10.8	hypoplasie condylienne unilatérale de la mandibule
+K10.8	hypoplasie condylienne bilatérale de la mandibule
+K10.8	hypoplasie condylienne avec asymétrie mandibulaire
+K10.8	hypoplasie coronoïdienne unilatérale de la mandibule
+K10.8	hypoplasie coronoïdienne bilatérale de la mandibule
+K07.1	asymétrie maxillaire due à la maladie de Romberg
+K07.1	asymétrie maxillaire due à une hypertrophie hémifaciale
+K08.9	restauration dentaire présente
+K08.9	présence de restauration dentaire
+K08.9	restauration dentaire défectueuse
+K08.9	restauration défectueuse des dents
+K08.9	restauration dentaire anormale
+K08.9	restauration dentaire en surplomb
+K08.9	restauration dentaire esthétiquement inadéquate ou déplaisante
+K08.9	échec d'une restauration dentaire
+K08.9	restauration dentaire mobile
+K08.9	restauration dentaire manquante
+K08.9	échec d'une restauration dentaire sur l'intégrité anatomique des dents adjacentes
+K08.9	échec d'une restauration dentaire sur l'intégrité marginale
+K08.9	marge ouverte d'une restauration dentaire
+K08.9	échec d'une restauration dentaire sur l'intégrité anatomique périodontale
+K08.9	restauration dentaire à contour gingival excessif
+K08.9	gencive marginale faible d'une restauration dentaire
+K08.9	gencive marginale épaisse d'une restauration dentaire
+K08.9	fracture d'une restauration dentaire
+K08.9	restauration dentaire inutile
+K08.9	restauration dentaire d'utilité provisoire
+K08.9	dysfonctionnement occlusal ou occlusion traumatique d'une restauration dentaire
+K08.9	défaillance d'un pilier dentaire
+K11.9	maladie des glandes salivaires
+K11.0	atrophie des glandes salivaires
+K11.1	hypertrophie des glandes salivaires
+K11.1	glandes salivaires hypertrophiques
+K11.1	hyperplasie des glandes salivaires
+K11.1	hyperplasie adénomateuse des glandes salivaires accessoires
+K11.2	sialoadénite
+K11.2	sialadénite
+K11.2	sialoadénite aiguë
+K11.2	sialadénite aiguë
+K11.2	sialoadénite infectieuse des glandes salivaires principales
+K11.2	sialadénite infectieuse des glandes salivaires principales
+K11.2	sialoadénite des glandes salivaires accessoires
+K11.2	sialadénite des glandes salivaires accessoires
+K11.2	sialodochite
+K11.2	parotidite
+K11.2	parotidite allergique
+K11.2	parotidite toxique
+K11.2	parotidite suppurée
+K11.1	hypertrophie de la glande parotide
+K11.1	glande parotide hypertrophique
+K11.3	abcès des glandes salivaires
+K11.4	fistule des glandes salivaires
+K11.5	calcul salivaire
+K11.5	sialolithe
+K11.5	sialolithiase
+K11.5	calcul des glandes salivaires
+K11.5	lithiase des glandes salivaires
+K11.5	lithiase d'un canal salivaire
+K11.5	calcul d'un canal salivaire
+K11.2	sialoadénite obstructive des glandes salivaires
+K11.2	sialadénite obstructive des glandes salivaires
+K11.6	mucocèle des glandes salivaires
+K11.6	ptyalocèle
+K11.6	kyste muqueux rétentionnel des glandes salivaires
+K11.6	sialocèle
+K11.6	kyste muqueux par épanchement des glandes salivaires
+K11.6	ranule
+K11.6	ranule du plancher buccal
+K11.6	ranule d'une glande salivaire du plancher buccal
+K11.6	grenouillette
+K11.7	trouble de la sécrétion salivaire
+K11.7	hyposécrétion des glandes salivaires
+K11.7	hyposécrétion salivaire
+K11.7	hypoptyalisme
+K11.7	sécrétion salivaire insuffisante
+K11.7	ptyalisme
+K11.7	hypersialie
+K11.7	hypersécrétion de salive
+K11.7	hypersécrétion des glandes salivaires
+K11.7	polysialie
+K11.7	ptyalorrhée
+K11.7	hypersécrétion salivaire
+K11.7	flux salivaire
+K11.7	sialorrhée
+K11.7	pseudoptyalisme
+K11.7	aptyalisme
+K11.7	absence de sécrétion salivaire
+K11.7	asialie
+K11.7	xérostomie
+K11.8	maladie de Mikulicz
+K11.8	syndrome de Mikulicz
+K11.7	sécrétion salivaire continue
+K11.8	lésion lympho-épithéliale bénigne des glandes salivaires
+K11.8	sialectasie
+K11.8	sténose d'un canal salivaire
+K11.8	rétrécissement d'un canal salivaire
+K11.8	obstruction d'un canal salivaire
+K11.1	hypertrophie des glandes sous-maxillaires
+K11.1	glandes sous-maxillaires hypertrophiques
+K11.8	sialométaplasie nécrosante
+K13.7	maladie des tissus mous de la bouche
+K13.2	anomalie acquise de la muqueuse buccale
+K13.2	érythème de la muqueuse buccale
+K13.2	érythème de la muqueuse du vestibule de la bouche
+K13.2	érythème de la muqueuse du vestibule buccal
+K13.2	érythème de la muqueuse vestibulaire buccale
+K13.2	oedème du vestibule de la bouche
+K13.2	oedème du vestibule buccal
+K13.2	gonflement du vestibule buccal
+K12.1	stomatite
+K12.1	stomatite urémique
+K12.1	stomatite ulcéreuse
+K12.1	stomatite hémorragique
+K12.1	stomatite vésiculeuse
+K12.1	pyostomatite végétante
+K12.1	stomatite radique
+K12.1	stomatite post-irradiation
+K12.1	stomatite de contact
+K12.1	stomatite toxique
+K12.1	stomatite médicamenteuse
+K12.1	stomatite en aires migratoire
+K12.0	aphtes buccaux
+K12.0	stomatite aphteuse
+K12.0	ulcération aphteuse
+K12.0	aphtes herpétiformes
+K12.0	stomatite herpétiforme
+K12.0	aphtes de Bednar
+K12.0	ulcération aphteuse récidivante
+K12.0	aphtes nécrosants et mutilants récidivants
+K12.0	périadénite muqueuse nécrotique récidivante
+K12.0	stomatite aphteuse récidivante
+K12.0	aphtes récidivants
+K12.0	maladie de Sutton II
+K12.0	periadenitis mucosa necrotica recurrens
+K12.2	phlegmon des tissus mous de la bouche
+K12.2	abcès du tissu buccal
+K12.2	abcès de la bouche
+K12.2	abcès du vestibule buccal de la bouche
+K12.2	abcès de l'espace interdentaire canine de la bouche
+K12.2	abcès de l'espace masticateur de la bouche
+K12.2	phlegmon du plancher de la bouche
+K12.2	angine de Ludwig
+K12.2	cellulite du vestibule buccal de la bouche
+K12.2	cellulite de l'espace interdentaire canine de la bouche
+K12.2	cellulite de l'espace masticateur de la bouche
+K12.2	fistule buccale
+K09.8	kyste dermoïde de la bouche
+K09.8	kyste épidermoïde de la bouche
+K09.8	kyste lympho-épithélial de la bouche
+K13.2	leucoplasie de la muqueuse buccale
+K13.2	leucokératose de la muqueuse buccale
+K13.7	hyperplasie verruqueuse de la muqueuse orale
+K13.2	érythroplasie de la bouche
+K13.2	maladie de Queyrat de la muqueuse buccale
+K13.2	hyperplasie épithéliale focale de la bouche
+K13.2	leuko-oedème de la bouche
+K13.2	fibrose sous-muqueuse de la bouche
+K13.7	mucinose orale focale
+K13.2	oedème des tissus mous de la bouche
+K13.2	oedème de la bouche
+K13.2	oedème buccal
+K13.2	oedème des tissus mous buccaux
+K12.1	ulcère de la bouche
+K12.1	ulcération de la bouche
+K12.1	ulcère buccal
+K12.1	stomatite due à une prothèse
+K06.2	hyperplasie fibreuse inflammatoire de la bouche
+K06.2	hyperplasie due à une prothèse dentaire
+K06.2	épulis de type inflammatoire fibreux
+K06.2	fibrome d'irritation
+K13.7	fibrome ossifié périphérique
+K13.7	hémorragie de la bouche
+K13.7	hémorragie buccale
+K13.7	bouche hémorragique
+K13.7	stomatorragie
+K13.7	mélanoplakie
+K13.7	mélanoplasie
+K13.7	tatouage d'amalgame
+K13.6	hyperplasie papillaire du palais
+K13.6	papillomatose palatine
+K12.1	palatite
+K13.4	granulome éosinophile de la muqueuse buccale
+K13.6	hyperplasie inflammatoire de la muqueuse buccale
+K13.5	fibrome à cellules géantes de la muqueuse buccale
+K13.4	granulome pyogène de la muqueuse buccale
+K13.7	ulcère traumatique de la muqueuse buccale
+K13.7	nécrose du palais dur
+K12.2	abcès du palais
+K12.2	cellulite du palais
+K13.7	paralysie du palais
+K13.7	paralysie palatine
+K08.8	profondeur vestibulaire superficielle après perte dentaire
+K08.8	profondeur vestibulaire inadéquate après perte dentaire
+K07.3	manque de contact dentaire interproximal
+K07.2	manque de support postérieur de l'arcade alvéolo-dentaire
+K07.2	relations cuspides-fosses entre les dents antagonistes
+K07.2	dimension verticale intermaxillaire inadéquate
+K07.2	dimension verticale intermaxillaire diminuée
+K07.2	perte de dimension verticale intermaxillaire
+K07.2	dimension vertical intermaxillaire excessive
+K13.7	maladie de la luette
+K13.7	maladie de la luette du voile du palais
+K13.7	anomalie acquise de la luette
+K12.2	abcès de la luette
+K12.2	abcès de la luette du voile du palais
+K13.0	maladie des lèvres
+K13.0	anomalie acquise de la lèvre
+K13.0	abcès de la lèvre
+K13.0	phlegmon de la lèvre
+K13.0	fistule de la lèvre
+K13.0	hypertrophie de la lèvre
+K13.0	cheilite
+K13.0	cheilite de contact
+K13.0	chéilite toxique
+K13.0	chéilite médicamenteuse
+K13.0	chéilite factice
+K13.0	cheilite actinique
+K13.0	cheilose
+K13.0	lèvres gerçées
+K13.0	lèvres sèches
+K13.0	cheilodynie
+K13.0	leucoplasie des lèvres
+K13.0	avulsion de la lèvre
+K13.0	granulome de la lèvre
+K13.0	ulcère de la lèvre
+K13.0	cheilite glandulaire
+K13.0	cheilite glandulaire simple
+K13.0	cheilite glandulaire superficielle suppurée
+K13.0	maladie de Baelz
+K13.0	cheilite glandulaire profonde suppurée
+K13.0	cheilite glandulaire apostémateuse profonde
+K13.0	cheilite granulomateuse de Miescher-Melkersson-Rosenthal
+K13.0	macrocheilie granulomateuse
+K13.0	syndrome de Melkersson-Rosenthal
+K14.9	maladie de la langue
+K14.9	affection de la langue
+K14.8	anomalie acquise de la langue
+K14.0	glossite
+K14.0	glossite aiguë
+K14.0	glossite chronique
+K14.0	abcès de la langue
+K14.0	abcès sublingual
+K14.0	myosite linguale
+K14.0	cellulite de la langue
+K14.0	cellulite sublinguale
+K14.0	ulcération traumatique de la langue
+K14.0	ulcère de la langue
+K14.0	ulcération de la langue
+K14.0	glossite due à l'huile de cannelle
+K13.2	leucoplasie de la langue
+K13.3	leucoplasie chevelue de la langue
+K14.1	langue géographique
+K14.1	desquamation épithéliale de la langue
+K14.1	glossite exfoliatrice marginée
+K14.1	état tigré de la langue
+K14.1	pityriasis lingual
+K14.8	langue vasculaire
+K14.3	hypertrophie des papilles linguales
+K14.3	langue noire pileuse
+K14.3	glossophytie
+K14.3	langue villeuse
+K14.3	langue noire villeuse
+K14.3	mélanoglossie
+K14.3	langue chargée
+K14.3	langue fourrée
+K14.3	hypertrophie des papilles foliées
+K14.3	langue framboisée
+K14.3	langue scarlatineuse
+K14.4	atrophie des papilles de la langue
+K14.4	atrophie des papilles linguales
+K14.4	glossite atrophique
+K14.4	langue de Hunter
+K14.4	glossite de Moeller
+K14.4	langue dépapillée
+K14.4	glossodynie exfoliatrice de Moeller
+K14.4	glossodynie exfoliative de Moeller
+K14.5	langue plicaturée
+K14.5	langue fissurée
+K14.5	langue labourée
+K14.5	langue cérébriforme
+K14.5	langue scrotale
+K14.6	glossodynie
+K14.6	glossalgie
+K14.6	névralgie de la langue
+K14.6	névralgie linguale
+K14.6	glossopyrosis
+K14.6	langue brûlante
+K14.9	paresthésie de la langue
+K14.9	dysesthésie de la langue
+K14.9	engourdissement de la langue
+K14.8	atrophie de la langue
+K14.8	langue crénelée
+K14.8	hypertrophie de la langue
+K14.8	langue hypertrophique
+K14.8	oedème de la langue
+K14.8	oedème lingual
+K14.8	glossocèle
+K14.8	glossoptose
+K14.8	paralysie de la langue
+K14.8	glossoplégie
+K14.8	paralysie unilatérale de la langue
+K14.8	paralysie bilatérale de la langue
+K14.8	hypoesthésie de la langue
+K14.8	hypesthésie de la langue
+K13.2	érythroplasie de la langue
+K13.2	hyperplasie épithéliale focale de la langue
+K13.2	leuko-oedème de la langue
+K13.2	leucokératose nicotinique du palais
+K13.2	palais du fumeur
+K22.9	maladie de l'oesophage
+K22.9	maladie oesophagienne
+K22.9	affection de l'oesophage
+K22.9	affection oesophagienne
+K22.8	oesophagomalacie
+K20	oesophagite
+K20	inflammation de l'oesophage
+K22.8	oesophagite hémorragique
+K22.1	oesophagite érosive
+K20	abcès de l'oesophage
+K20	abcès oesophagien
+K20	oesophagite chimique
+K21.9	maladie du reflux gastro-oesophagien
+K21.9	reflux oesophagien
+K21.0	oesophagite peptique
+K21.0	reflux gastro-oesophagien avec oesophagite
+K21.0	oesophagite par reflux
+K21.0	oesophagite par reflux alcalin
+K20	gastro-oesophagite
+K20	oesophagite post-opératoire
+K21.0	oesophagite par régurgitation
+K22.4	trouble moteur de l'oesophage
+K22.4	trouble moteur oesophagien
+K22.0	achalasie de l'oesophage
+K22.0	achalasie oesophagienne
+K22.8	trouble du sphincter supérieur de l'oesophage
+K22.8	affection de la bouche de l'oesophage
+K22.8	affection du sphincter oesophagien supérieur
+K22.8	trouble du sphincter oesophagien supérieur
+K22.8	dysfonctionnement du muscle crico-pharyngien
+K22.4	spasme du muscle crico-pharyngien
+K22.4	achalasie du muscle crico-pharyngien
+K22.4	achalasie crico-pharyngienne
+K22.4	dysphagie crico-pharyngienne
+K22.4	trouble spastique du segment musculaire lisse de l'oesophage
+K22.4	trouble spasmodique du segment musculaire lisse de l'oesophage
+K22.0	cardiospasme
+K22.0	achalasie du cardia
+K22.0	phrénocardiospasme
+K22.0	phrénospasme
+K22.0	rétrécissement essentiel cardio-oesophagien
+K22.8	chalasie du sphincter inférieur de l'oesophage
+K22.8	relâchement cardio-oesophagien
+K22.8	cardiochalasie
+K22.8	chalasie du cardia
+K22.8	chalasie du sphincter oesophagien inférieur
+K22.8	relâchement sphinctérien oesophagien inférieur
+K22.8	hypotonie du sphincter inférieur de l'oesophage
+K22.8	syndrome Berenberg-Neuhauser
+K22.8	relâchement du sphincter inférieur de l'oesophage
+K22.0	apéristaltisme de l'oesophage
+K22.0	apéristaltisme oesophagien
+K22.0	méga-oesophage acquis
+K22.0	dilatation de l'oesophage
+K22.0	dilatation oesophagienne
+K14.6	entelaccao
+K14.6	cardiospasme tropical
+K14.6	dysphagie tropicale
+K22.1	ulcère de l'oesophage
+K22.1	ulcère oesophagien
+K22.1	ulcère hémorragique de l'oesophage
+K22.1	ulcère hémorragique oesophagien
+K22.1	ulcère fongique de l'oesophage
+K22.1	ulcère fongique oesophagien
+K22.1	ulcère peptique de l'oesophage
+K22.1	ulcère peptique oesophagien
+K22.1	ulcère gastro-oesophagien
+K22.2	rétrécissement cicatriciel de l'oesophage
+K22.2	rétrécissement cicatriciel oesophagien
+K22.2	sténose de l'oesophage
+K22.2	sténose oesophagienne
+K22.2	compression de l'oesophage
+K22.2	compression oesophagienne
+K22.2	obstruction de l'oesophage
+K22.2	obstruction oesophagienne
+K22.2	membrane acquise de l'oesophage
+K22.2	membrane oesophagienne acquise
+K22.2	membrane acquise du tiers supérieur de l'oesophage
+K22.2	membrane acquise de l'oesophage supérieur
+K22.2	membrane acquise du tiers moyen de l'oesophage
+K22.2	diaphragme acquis de l'oesophage moyen
+K22.2	membrane acquise du tiers inférieur de l'oesophage
+K22.2	anneau de Schatzki
+K22.2	anneau de l'oesophage inférieur
+K22.2	anneau du tiers inférieur de l'oesophage
+K22.2	anneau du bas oesophage
+K22.3	perforation de l'oesophage
+K22.3	perforation oesophagienne
+K22.3	rupture spontanée du bas oesophage
+K22.3	syndrome de Boerhaave
+K22.3	rupture spontanée du tiers inférieur de l'oesophage
+K22.4	dyskinésie de l'oesophage
+K22.4	dyskinésie oesophagienne
+K22.4	oesophage en tire-bouchon
+K22.4	oesophage hélicoïdal
+K22.4	spasme oesophagien
+K22.4	oesophagisme
+K22.4	spasme de l'oesophage
+K22.4	spasme diffus de l'oesophage
+K22.4	spasme oesophagien diffus
+K22.5	diverticule acquis de l'oesophage
+K22.5	diverticule oesophagien acquis
+K22.5	diverticule pharyngo-oesophagien acquis
+K22.5	diverticule pharyngo-oesophagien de Zenker
+K22.5	diverticule de Zenker
+K22.5	diverticule sus-diaphragmatique acquis de l'oesophage
+K22.5	diverticule épiphrénique acquis de l'oesophage
+K22.5	diverticule de pulsion acquis de l'oesophage
+K22.5	diverticule de traction acquis de l'oesophage
+K22.5	diverticule de Rokitansky
+K22.5	oesophagocèle acquise
+K22.5	poche oesophagienne acquise
+K22.5	diverticulose intramurale de l'oesophage
+K22.5	diverticulose oesophagienne intramurale
+K22.5	pseudodiverticulose de l'oesophage
+K22.5	pseudodiverticulose oesophagienne
+K22.6	syndrome de Mallory-Weiss
+K22.6	syndrome de dilacération hémorragique gastro-oesophagienne
+K22.8	hémorragie de l'oesophage
+K22.8	oesophage hémorragique
+K22.8	hémorragie oesophagienne
+K22.8	hématome intramural de l'oesophage
+K22.8	hématome intramural oesophagien
+K22.8	fistule aorto-oesophagienne
+K22.8	invagination gastro-oesophagienne
+K22.8	fistule oesophagienne
+K22.8	fistule de l'oesophage
+K22.8	leucoplasie de l'oesophage
+K22.8	leucoplasie oesophagienne
+K22.1	oesophage de Barrett
+K22.1	syndrome de Barrett
+K22.1	ulcère de Barrett
+K22.1	métaplasie gastrique de l'oesophage
+K22.1	métaplasie gastrique oesophagienne
+K20	oesophagite médicamenteuse
+K20	oesophagite due à l'ingestion d'une pilule
+K20	oesophagite secondaire à l'ingestion d'un comprimé
+K20	oesophagite due à l'ingestion d'une pilule de tétracycline
+K20	oesophagite secondaire à l'ingestion d'un comprimé de tétracycline
+K20	oesophagite due à l'ingestion d'une pilule de quinidine
+K20	oesophagite secondaire à l'ingestion d'un comprimé de quinidine
+K20	oesophagite due à l'ingestion d'une pilule de chlorure de potassium
+K20	oesophagite secondaire à l'ingestion d'un comprimé de chlorure de potassium
+K22.1	ulcère de l'oesophage dû à l'ingestion de produits chimiques
+K22.1	ulcère oesophagien dû à l'ingestion de produits chimiques
+K22.1	ulcère de l'oesophage dû à l'ingestion de médicaments
+K22.1	ulcère oesophagien dû à l'ingestion de médicaments
+K22.1	ulcère de l'oesophage dû à l'ingestion d'aspirine
+K22.1	ulcère oesophagien dû à l'ingestion d'aspirine
+K31.9	maladie de l'estomac
+K31.7	polype gastrique
+K31.8	dysplasie gastrique
+K31.8	gastromalacie
+K25.9	ulcère gastrique
+K25.9	ulcère de l'estomac
+K25.3	ulcère gastrique aigu
+K25.3	ulcère aigu de l'estomac
+K25.7	ulcère gastrique chronique
+K25.7	ulcère chronique de l'estomac
+K25.3	érosion aiguë de la tunique muqueuse de l'estomac
+K25.3	érosion aiguë de l'estomac
+K25.3	gastrite érosive aiguë
+K27.9	ulcère de stress
+K27.9	ulcères de stress de l'estomac
+K27.2	ulcères de Curling
+K27.2	ulcères gastro-duodénaux des grands brûlés
+K27.3	ulcères de Cushing
+K27.3	ulcères oeso-gastro-duodénaux des cérébrolésés graves
+K25.3	érosion gastrique aiguë médicamenteuse
+K29.6	gastropathie due aux anti-inflammatoires non stéroïdiens
+K29.6	gastropathie due aux AINS
+K25.9	ulcère prépylorique
+K25.9	ulcère pylorique
+K25.0	ulcère gastrique avec hémorragie
+K25.0	ulcère de l'estomac avec hémorragie
+K25.0	ulcère gastrique avec hémorragie sans obstruction
+K25.0	ulcère de l'estomac avec hémorragie sans obstruction
+K25.0	ulcère gastrique avec hémorragie et obstruction
+K25.0	ulcère de l'estomac avec hémorragie et obstruction
+K25.1	ulcère gastrique avec perforation
+K25.1	ulcère gastrique avec perforation sans obstruction
+K25.1	ulcère gastrique avec perforation et obstruction
+K25.0	ulcère gastrique aigu avec hémorragie
+K25.0	ulcère aigu de l'estomac avec hémorragie
+K25.0	ulcère gastrique aigu avec hémorragie sans obstruction
+K25.0	ulcère aigu de l'estomac avec hémorragie sans obstruction
+K25.0	ulcère gastrique aigu avec hémorragie et obstruction
+K25.0	ulcère aigu de l'estomac avec hémorragie et obstruction
+K25.1	ulcère gastrique aigu avec perforation
+K25.1	ulcère gastrique aigu avec perforation sans obstruction
+K25.1	ulcère gastrique aigu avec perforation et obstruction
+K25.2	ulcère gastrique aigu avec hémorragie et perforation
+K25.2	ulcère aigu de l'estomac avec hémorragie et perforation
+K25.2	ulcère gastrique aigu avec hémorragie et perforation sans obstruction
+K25.2	ulcère aigu de l'estomac avec hémorragie et perforation sans obstruction
+K25.2	ulcère gastrique aigu avec hémorragie, perforation et obstruction
+K25.2	ulcère aigu de l'estomac avec hémorragie, perforation et obstruction
+K25.3	ulcère gastrique aigu sans hémorragie ni perforation
+K25.3	ulcère aigu de l'estomac sans hémorragie ni perforation
+K25.3	ulcère gastrique aigu sans hémorragie ni perforation ou obstruction
+K25.3	ulcère aigu de l'estomac sans hémorragie ni perforation ou obstruction
+K25.3	ulcère gastrique aigu avec obstruction sans hémorragie ni perforation
+K25.3	ulcère aigu de l'estomac avec obstruction sans hémorragie ni perforation
+K25.4	ulcère gastrique chronique avec hémorragie
+K25.4	ulcère chronique de l'estomac avec hémorragie
+K25.4	ulcère gastrique chronique avec hémorragie sans obstruction
+K25.4	ulcère chronique de l'estomac avec hémorragie sans obstruction
+K25.4	ulcère gastrique chronique avec hémorragie et obstruction
+K25.4	ulcère chronique de l'estomac avec hémorragie et obstruction
+K25.5	ulcère gastrique chronique avec perforation
+K25.5	ulcère gastrique chronique avec perforation sans obstruction
+K25.5	ulcère gastrique chronique avec perforation et obstruction
+K25.6	ulcère gastrique chronique avec hémorragie et perforation
+K25.6	ulcère chronique de l'estomac avec hémorragie et perforation
+K25.6	ulcère gastrique chronique avec hémorragie et perforation sans obstruction
+K25.6	ulcère chronique de l'estomac avec hémorragie et perforation sans obstruction
+K25.6	ulcère gastrique chronique avec hémorragie, perforation et obstruction
+K25.6	ulcère chronique de l'estomac avec hémorragie, perforation et obstruction
+K25.7	ulcère gastrique chronique sans hémorragie ni perforation
+K25.7	ulcère chronique de l'estomac sans hémorragie ni perforation
+K25.7	ulcère gastrique chronique sans hémorragie ni perforation ou obstruction
+K25.7	ulcère chronique de l'estomac sans hémorragie ni perforation ou obstruction
+K25.7	ulcère gastrique chronique avec obstruction sans hémorragie ni perforation
+K25.7	ulcère chronique de l'estomac avec obstruction sans hémorragie ni perforation
+K25.6	ulcère gastrique avec hémorragie et perforation
+K25.6	ulcère de l'estomac avec hémorragie et perforation
+K25.6	ulcère gastrique avec hémorragie et perforation sans obstruction
+K25.6	ulcère de l'estomac avec hémorragie et perforation sans obstruction
+K25.6	ulcère gastrique avec hémorragie, perforation et obstruction
+K25.6	ulcère de l'estomac avec hémorragie, perforation et obstruction
+K25.7	ulcère gastrique sans hémorragie ni perforation
+K25.7	ulcère de l'estomac sans hémorragie ni perforation
+K25.7	ulcère gastrique sans hémorragie ni perforation ou obstruction
+K25.7	ulcère de l'estomac sans hémorragie ni perforation ou obstruction
+K25.7	ulcère gastrique avec obstruction sans hémorragie ni perforation
+K25.7	ulcère de l'estomac avec obstruction sans hémorragie ni perforation
+K29.7	gastrite
+K29.1	gastrite aiguë
+K29.1	gastrite phlegmoneuse
+K29.0	gastrite hémorragique aiguë
+K29.0	gastrite érosive hémorragique idiopathique
+K29.0	gastrite érosive
+K29.0	gastrite hémorragique
+K29.5	gastrite érosive chronique
+K29.5	gastrite varioliforme diffuse
+K29.5	gastrite chronique
+K29.5	gastrite chronique de type antral
+K29.4	gastrite atrophique
+K29.4	gastrite atrophique chronique
+K29.4	gastrite atrophique hyperplasique
+K29.4	gastrite glandulaire fundique atrophique
+K29.6	gastrite hypertrophique
+K29.6	muco-adénomatose gastrique diffuse
+K29.6	polyadénome gastrique diffus
+K29.6	gastrite hypertrophique géante
+K29.6	polyadénome gastrique en nappe
+K29.6	maladie de Ménétrier
+K31.1	gastropathie pylorique hypertrophique chronique
+K29.7	gastrite allergique
+K29.7	gastride
+K29.7	gastrite à éosinophiles
+K29.6	gastrite post-gastrectomie
+K31.8	gastropathie emphysémateuse
+K31.8	emphysème gastrique
+K29.6	gastrite irritante
+K29.2	gastrite alcoolique
+K29.6	gastrite provoquée par la bile
+K29.6	gastrite biliaire
+K29.3	gastrite superficielle
+K29.6	gastrite non spécifique non érosive
+K29.6	gastrite non spécifique non érosive superficielle
+K29.6	gastrite non spécifique non érosive atrophique
+K29.6	gastrite toxique
+K29.6	gastrite corrosive
+K29.6	gastrite médicamenteuse
+K29.9	gastroduodénite
+K31.8	trouble fonctionnel de l'estomac
+K31.8	trouble fonctionnel gastrique
+K31.8	irritation gastrique
+K30	dyspepsie
+K30	indigestion
+K30	trouble de la digestion
+K30	dyspepsie non ulcéreuse
+K31.0	dilatation aiguë de l'estomac
+K31.0	distension aiguë de l'estomac
+K31.8	dilatation myopathique de l'estomac
+K31.8	maladie de Bouchard
+K31.8	achlorhydrie
+K31.8	absence complète d'acidité gastrique
+K31.8	anachlorhydrie
+K31.8	hyperchlorhydrie
+K31.8	hyperacidité gastrique
+K31.8	excès d'acidité gastrique
+K31.8	hypochlorhydrie
+K31.8	insuffisance d'acidité gastrique
+K31.8	hypoacidité gastrique
+K31.8	achylie gastrique
+K31.8	trouble de la motricité gastrique
+K31.8	trouble moteur gastrique
+K31.8	trouble idiopathique de la motricité gastrique
+K31.8	syndrome de gastroparésie
+K31.8	atonie gastrique
+K31.8	stase gastrique
+K31.8	stase gastrique idiopathique
+K31.8	gastroparésie non diabétique
+K31.8	gastroparésie diabétique
+K31.1	sténose pylorique hypertrophique acquise
+K31.1	sténose antropylorique acquise
+K31.1	sténose pylorique hypertrophique de l'adulte
+K31.1	constriction non hypertrophique acquise du pylore
+K31.1	sténose acquise du pylore
+K31.1	obstruction acquise du pylore
+K31.4	diverticule gastrique
+K31.6	fistule gastro-colique
+K31.6	fistule gastro-duodénale
+K31.6	fistule gastro-jéjuno-colique
+K31.8	gastroptose
+K31.8	prolapsus gastrique
+K31.8	ptose gastrique
+K31.8	contraction en sablier de l'estomac
+K31.2	estomac en sablier
+K31.2	estomac biloculaire
+K31.2	sténose en sablier de l'estomac
+K31.2	estomac en cascade
+K31.8	rupture gastrique
+K31.2	sténose de l'estomac
+K31.2	sténose antro-pylorique
+K31.3	pylorospasme
+K31.3	spasme du pylore
+K31.8	métaplasie intestinale de la muqueuse gastrique
+K31.8	congestion passive de l'estomac
+K31.8	malacoplasie de l'estomac
+K31.8	volvulus de l'estomac
+K31.8	volvulus organo-axial de l'estomac
+K31.8	volvulus mésentéro-axial de l'estomac
+K31.8	volvulus mixte de l'estomac
+K31.8	volvulus aigu de l'estomac
+K31.8	volvulus chronique de l'estomac
+K31.8	torsion chronique de l'estomac
+K31.8	hyperplasie lymphoïde de l'estomac
+K31.8	pseudolymphome gastrique
+K31.8	granulome idiopathique isolé de l'estomac
+K31.8	granulome à corps étranger idiopathique isolé de l'estomac
+K31.8	polypes fibroïdes inflammatoires de l'estomac
+K92.2	hémorragie gastrique
+K92.2	hémorragie de l'estomac
+K92.2	estomac hémorragique
+K92.2	gastrorragie
+K92.2	varices gastriques hémorragiques
+K31.9	maladie du duodénum
+K26.3	érosion aiguë du duodénum
+K26.9	ulcère post-pylorique
+K26.9	ulcère duodénal post-bulbaire
+K26.9	maladie ulcéreuse duodénale
+K26.9	ulcère duodénal
+K26.9	ulcère peptique du duodénum
+K26.9	ulcère duodénal avec augmentation du pepsinogène I sérique
+K26.9	ulcère duodénal familial à pepsinogène normal
+K26.9	ulcère duodénal familial associé à une évacuation gastrique rapide
+K26.9	ulcère duodénal hypergastrinémique familial
+K26.9	ulcère duodénal de l'enfant
+K28.9	ulcères gastrique et duodénal
+K26.9	ulcère duodénal géant
+K25.9	ulcère du canal pylorique
+K26.0	ulcère duodénal aigu avec hémorragie
+K26.0	ulcère aigu du duodénum avec hémorragie
+K26.0	ulcère duodénal aigu avec hémorragie sans obstruction
+K26.0	ulcère aigu du duodénum avec hémorragie sans obstruction
+K26.0	ulcère duodénal aigu avec hémorragie et obstruction
+K26.0	ulcère aigu du duodénum avec hémorragie et obstruction
+K26.1	ulcère duodénal aigu avec perforation
+K26.1	ulcère duodénal aigu avec perforation sans obstruction
+K26.1	ulcère duodénal aigu avec perforation et obstruction
+K26.2	ulcère duodénal aigu avec hémorragie et perforation
+K26.2	ulcère aigu du duodénum avec hémorragie et perforation
+K26.2	ulcère duodénal aigu avec hémorragie et perforation sans obstruction
+K26.2	ulcère aigu du duodénum avec hémorragie et perforation sans obstruction
+K26.2	ulcère duodénal aigu avec hémorragie, perforation et obstruction
+K26.2	ulcère aigu du duodénum avec hémorragie, perforation et obstruction
+K26.3	ulcère duodénal aigu sans hémorragie ni perforation
+K26.3	ulcère aigu du duodénum sans hémorragie ni perforation
+K26.3	ulcère duodénal aigu sans hémorragie ni perforation ou obstruction
+K26.3	ulcère aigu du duodénum sans hémorragie, ni perforation ou obstruction
+K26.3	ulcère duodénal aigu avec obstruction sans hémorragie ni perforation
+K26.3	ulcère aigu du duodénum avec obstruction sans hémorragie ni perforation
+K26.4	ulcère duodénal chronique avec hémorragie
+K26.4	ulcère chronique du duodénum avec hémorragie
+K26.4	ulcère duodénal chronique avec hémorragie sans obstruction
+K26.4	ulcère chronique du duodénum avec hémorragie sans obstruction
+K26.4	ulcère duodénal chronique avec hémorragie et obstruction
+K26.4	ulcère chronique du duodénum avec hémorragie et obstruction
+K26.4	ulcère duodénal avec hémorragie
+K26.4	ulcère du duodénum avec hémorragie
+K26.4	ulcère duodénal avec hémorragie sans obstruction
+K26.4	ulcère du duodénum avec hémorragie sans obstruction
+K26.4	ulcère duodénal avec hémorragie et obstruction
+K26.4	ulcère du duodénum avec hémorragie et obstruction
+K26.5	ulcère duodénal chronique avec perforation
+K26.5	ulcère duodénal chronique avec perforation sans obstruction
+K26.5	ulcère duodénal chronique avec perforation et obstruction
+K26.5	ulcère duodénal avec perforation
+K26.5	ulcère duodénal avec perforation sans obstruction
+K26.5	ulcère duodénal avec perforation et obstruction
+K26.6	ulcère duodénal chronique avec hémorragie et perforation
+K26.6	ulcère chronique du duodénum avec hémorragie et perforation
+K26.6	ulcère duodénal chronique avec hémorragie et perforation sans obstruction
+K26.6	ulcère chronique du duodénum avec hémorragie et perforation sans obstruction
+K26.6	ulcère duodénal chronique avec hémorragie, perforation et obstruction
+K26.6	ulcère chronique du duodénum avec hémorragie, perforation et obstruction
+K26.6	ulcère duodénal avec hémorragie et perforation
+K26.6	ulcère du duodénum avec hémorragie et perforation
+K26.6	ulcère duodénal avec hémorragie et perforation sans obstruction
+K26.6	ulcère du duodénum avec hémorragie et perforation sans obstruction
+K26.6	ulcère duodénal avec hémorragie, perforation et obstruction
+K26.6	ulcère du duodénum avec hémorragie, perforation et obstruction
+K26.7	ulcère duodénal chronique sans hémorragie ni perforation
+K26.7	ulcère chronique du duodénum sans hémorragie ni perforation
+K26.7	ulcère duodénal chronique sans hémorragie ni perforation ou obstruction
+K26.7	ulcère chronique du duodénum sans hémorragie ni perforation ou obstruction
+K26.7	ulcère duodénal chronique avec obstruction sans hémorragie ni perforation
+K26.7	ulcère chronique du duodénum avec obstruction sans hémorragie ni perforation
+K26.9	ulcère duodénal sans hémorragie ni perforation
+K26.9	ulcère du duodénum sans hémorragie ni perforation
+K26.9	ulcère duodénal sans hémorragie ni perforation ou obstruction
+K26.9	ulcère du duodénum sans hémorragie ni perforation ou obstruction
+K26.9	ulcère duodénal avec obstruction sans hémorragie ni perforation
+K26.9	ulcère du duodénum avec obstruction sans hémorragie ni perforation
+K27.9	ulcère peptique
+K27.9	ulcère gastro-duodénal
+K27.9	ulcère gastro-duodénal provoqué par un médicament
+K27.0	ulcère gastro-duodénal aigu avec hémorragie
+K27.0	ulcère gastro-duodénal aigu avec hémorragie sans obstruction
+K27.0	ulcère gastro-duodénal aigu avec hémorragie et obstruction
+K27.1	ulcère gastro-duodénal aigu avec perforation
+K27.1	ulcère gastro-duodénal aigu avec perforation sans obstruction
+K27.1	ulcère gastro-duodénal aigu avec perforation et obstruction
+K27.2	ulcère gastro-duodénal aigu avec hémorragie et perforation
+K27.2	ulcère gastro-duodénal aigu avec hémorragie et perforation sans obstruction
+K27.2	ulcère gastro-duodénal aigu avec hémorragie, perforation et obstruction
+K27.3	ulcère gastro-duodénal aigu sans hémorragie et perforation
+K27.3	ulcère gastro-duodénal aigu sans hémorragie ni perforation ou obstruction
+K27.3	ulcère gastro-duodénal aigu avec obstruction sans hémorragie ni perforation
+K27.4	ulcère gastro-duodénal chronique avec hémorragie
+K27.4	ulcère gastro-duodénal chronique avec hémorragie sans obstruction
+K27.4	ulcère gastro-duodénal chronique avec hémorragie et obstruction
+K27.4	ulcère gastro-duodénal avec hémorragie
+K27.4	ulcère gastro-duodénal avec hémorragie sans obstruction
+K27.4	ulcère gastro-duodénal avec hémorragie et obstruction
+K27.5	ulcère gastro-duodénal chronique avec perforation
+K27.5	ulcère gastro-duodénal chronique avec perforation sans obstruction
+K27.5	ulcère gastro-duodénal chronique avec perforation et obstruction
+K27.5	ulcère gastro-duodénal avec perforation
+K27.5	ulcère gastro-duodénal avec perforation sans obstruction
+K27.5	ulcère gastro-duodénal avec perforation et obstruction
+K27.6	ulcère gastro-duodénal chronique avec hémorragie et perforation
+K27.6	ulcère gastro-duodénal chronique avec hémorragie et perforation sans obstruction
+K27.6	ulcère gastro-duodénal chronique avec hémorragie, perforation et obstruction
+K27.6	ulcère gastro-duodénal avec hémorragie et perforation
+K27.6	ulcère gastro-duodénal avec hémorragie et perforation sans obstruction
+K27.6	ulcère gastro-duodénal avec hémorragie, perforation et obstruction
+K27.7	ulcère gastro-duodénal chronique sans hémorragie ni perforation
+K27.7	ulcère gastro-duodénal chronique sans hémorragie ni perforation ou obstruction
+K27.7	ulcère gastro-duodénal chronique avec obstruction sans hémorragie ni perforation
+K27.9	ulcère gastro-duodénal sans hémorragie ni perforation
+K27.9	ulcère gastro-duodénal sans hémorragie ni perforation ou obstruction
+K27.9	ulcère gastro-duodénal avec obstruction sans hémorragie ni perforation
+K28.9	ulcère gastro-intestinal
+K28.9	ulcère anastomotique
+K28.9	ulcère peptique post-opératoire
+K28.9	ulcère gastro-jéjunal
+K28.9	ulcère marginal
+K28.9	ulcère gastro-colique
+K28.0	ulcère gastro-jéjunal aigu avec hémorragie
+K28.0	ulcère marginal aigu avec hémorragie
+K28.0	ulcère gastro-jéjunal aigu avec hémorragie sans obstruction
+K28.0	ulcère marginal aigu avec hémorragie sans obstruction
+K28.0	ulcère gastro-jéjunal aigu avec hémorragie et obstruction
+K28.0	ulcère marginal aigu avec hémorragie et obstruction
+K28.1	ulcère gastro-jéjunal aigu avec perforation
+K28.1	ulcère gastro-jéjunal aigu avec perforation sans obstruction
+K28.1	ulcère gastro-jéjunal aigu avec perforation et obstruction
+K28.2	ulcère gastro-jéjunal aigu avec hémorragie et perforation
+K28.2	ulcère marginal aigu avec hémorragie et perforation
+K28.2	ulcère gastro-jéjunal aigu avec hémorragie et perforation sans obstruction
+K28.2	ulcère marginal aigu avec hémorragie et perforation sans obstruction
+K28.2	ulcère gastro-jéjunal aigu avec hémorragie, perforation et obstruction
+K28.2	ulcère marginal aigu avec hémorragie, perforation et obstruction
+K28.3	ulcère gastro-jéjunal aigu sans hémorragie ni perforation
+K28.3	ulcère marginal aigu sans hémorragie ni perforation
+K28.3	ulcère gastro-jéjunal aigu sans hémorragie ni perforation ou obstruction
+K28.3	ulcère marginal aigu sans hémorragie ni perforation ou obstruction
+K28.3	ulcère gastro-jéjunal aigu avec obstruction sans hémorragie ni perforation
+K28.3	ulcère marginal aigu avec obstruction sans hémorragie ni perforation
+K28.4	ulcère gastro-jéjunal chronique avec hémorragie
+K28.4	ulcère marginal chronique avec hémorragie
+K28.4	ulcère gastro-jéjunal chronique avec hémorragie sans perforation
+K28.4	ulcère marginal chronique avec hémorragie sans perforation
+K28.4	ulcère gastro-jéjunal chronique avec hémorragie et obstruction
+K28.4	ulcère marginal chronique avec hémorragie et obstruction
+K28.4	ulcère gastro-jéjunal avec hémorragie
+K28.4	ulcère marginal avec hémorragie
+K28.4	ulcère gastro-jéjunal avec hémorragie sans obstruction
+K28.4	ulcère marginal avec hémorragie sans obstruction
+K28.4	ulcère gastro-jéjunal avec hémorragie et obstruction
+K28.4	ulcère marginal avec hémorragie et obstruction
+K28.5	ulcère gastro-jéjunal chronique avec perforation
+K28.5	ulcère gastro-jéjunal chronique avec perforation sans obstruction
+K28.5	ulcère gastro-jéjunal chronique avec perforation et obstruction
+K28.5	ulcère gastro-jéjunal avec perforation
+K28.5	ulcère gastro-jéjunal avec perforation sans obstruction
+K28.5	ulcère gastro-jéjunal avec perforation et obstruction
+K28.6	ulcère gastro-jéjunal chronique avec hémorragie et perforation
+K28.6	ulcère marginal chronique avec hémorragie et perforation
+K28.6	ulcère gastro-jéjunal chronique avec hémorragie et perforation sans obstruction
+K28.6	ulcère marginal chronique avec hémorragie et perforation sans obstruction
+K28.6	ulcère gastro-jéjunal chronique avec hémorragie, perforation et obstruction
+K28.6	ulcère marginal chronique avec hémorragie, perforation et obstruction
+K28.6	ulcère gastro-jéjunal avec hémorragie et perforation
+K28.6	ulcère marginal avec hémorragie et perforation
+K28.6	ulcère gastro-jéjunal avec hémorragie et perforation sans obstruction
+K28.6	ulcère marginal avec hémorragie et perforation sans obstruction
+K28.6	ulcère gastro-jéjunal avec hémorragie, perforation et obstruction
+K28.6	ulcère marginal avec hémorragie, perforation et obstruction
+K28.7	ulcère gastro-jéjunal chronique sans hémorragie ni perforation
+K28.7	ulcère marginal chronique sans hémorragie ni perforation
+K28.7	ulcère gastro-jéjunal chronique sans hémorragie ni perforation ou obstruction
+K28.7	ulcère marginal chronique sans hémorragie ni perforation ou obstruction
+K28.7	ulcère gastro-jéjunal chronique avec obstruction sans hémorragie ni perforation
+K28.7	ulcère marginal chronique avec obstruction sans hémorragie ni perforation
+K28.9	ulcère gastro-jéjunal sans hémorragie ni perforation
+K28.9	ulcère marginal sans hémorragie ni perforation
+K28.9	ulcère gastro-jéjunal sans hémorragie ni perforation ou obstruction
+K28.9	ulcère marginal sans hémorragie ni perforation ou obstruction
+K28.9	ulcère gastro-jéjunal avec obstruction sans hémorragie ni perforation
+K28.9	ulcère marginal avec obstruction sans hémorragie ni perforation
+K31.7	polype du duodénum
+K31.7	polype duodénal
+K29.8	duodénite
+K31.8	duodénite hémorragique
+K31.5	iléus duodénal chronique
+K31.5	cicatrice du duodénum
+K31.5	sténose du duodénum
+K31.5	rétrécissement cicatriciel du duodénum
+K31.5	obstruction du duodénum
+K31.5	volvulus du duodénum
+K31.8	ptose duodénale
+K31.8	rupture duodénale
+K31.8	mégaduodénum acquis
+K31.6	fistule duodénale
+K31.6	fistule duodénale externe
+K31.6	fistule duodénale interne
+K31.6	fistule duodéno-colique
+K31.6	fistule duodéno-rénale
+K31.6	fistule pyélo-duodénale
+K31.6	fistule duodéno-pyélique
+K92.2	hémorragie duodénale
+K92.2	hémorragie du duodénum
+K63.9	maladie de l'intestin
+K63.9	entéropathie
+K63.0	abcès de l'intestin
+K63.5	polype hyperplasique de l'intestin
+K63.8	malacoplasie de l'iléon
+K59.8	syndrome de stase de l'intestin grêle
+K55.2	angiodysplasie de l'intestin
+K55.2	malformations artério-veineuses localisées de l'intestin
+K55.2	ectasie vasculaire de l'intestin grêle
+K55.2	ectasie vasculaire du caecum
+K55.2	ectasie vasculaire caecale
+K55.2	ectasie vasculaire du côlon
+K55.2	télangiectasie acquise de l'intestin grêle et du gros intestin
+K92.2	hémorragie de l'intestin grêle
+K92.2	hémorragie intestinale
+K92.2	intestin grêle hémorragique
+K92.2	hémorragie du jéjunum
+K92.2	hémorragie jéjunale
+K92.2	hémorragie de l'iléon
+K92.2	hémorragie iléale
+K52.9	maladie inflammatoire de l'intestin
+K52.9	maladie inflammatoire intestinale chronique idiopathique
+K52.9	colite chronique
+K50.9	maladie de Crohn
+K50.9	iléite régionale
+K50.9	entérite régionale
+K50.0	maladie de Crohn de l'intestin grêle
+K50.0	entérite régionale de l'intestin grêle
+K50.0	iléite régionale de l'intestin grêle
+K50.0	iléite segmentaire de l'intestin grêle
+K50.0	iléite terminale de l'intestin grêle
+K50.0	maladie de Crohn du duodénum
+K50.0	maladie de Crohn du pylore
+K50.0	maladie de Crohn de l'antre pylorique
+K50.0	maladie de Crohn du jéjunum
+K50.0	maladie de Crohn de l'iléon
+K50.1	maladie de Crohn du gros intestin
+K50.1	maladie de Crohn du côlon
+K50.1	colite granulomateuse
+K50.1	colite régionale
+K50.1	maladie de Crohn du rectum
+K50.1	entérite régionale du rectum
+K50.8	maladie de Crohn de l'intestin grêle et du gros intestin
+K50.8	iléo-colite régionale
+K51.0	colite ulcéreuse chronique
+K51.0	rectocolite ulcéreuse hémorragique
+K51.0	colite ulcéreuse
+K51.0	colite ulcéreuse chronique légère
+K51.0	colite ulcéreuse chronique modérée
+K51.0	colite ulcéreuse chronique sévère
+K51.0	colite ulcéreuse chronique fulminante
+K51.0	entérocolite ulcéreuse chronique
+K51.1	iléo-colite ulcéreuse chronique
+K51.3	recto-sigmoïdite ulcéreuse chronique
+K51.3	procto-sigmoïdite ulcéreuse chronique
+K51.2	rectite ulcéreuse chronique
+K59.3	mégacôlon toxique
+K59.3	colectasie
+K59.3	dilatation toxique du côlon
+K51.4	pseudopolypose du côlon
+K51.4	polypes inflammatoires du côlon
+K63.5	polype du côlon
+K63.5	polype colique
+K51.4	pseudotumeur inflammatoire du côlon
+K51.4	polype fibroïde du côlon
+K55.1	insuffisance vasculaire de l'intestin
+K55.1	maladie ischémique intestinale
+K55.1	maladie ischémique de l'intestin
+K55.0	infarctus intestinal non occlusif
+K55.9	colite ischémique
+K55.9	entérite ischémique
+K55.9	entérocolite ischémique
+K55.9	douleur digestive par insuffisance vasculaire
+K55.0	insuffisance vasculaire aiguë de l'intestin
+K55.0	syndrome ischémique intestinal aigu
+K55.0	colite ischémique aiguë
+K55.0	entérite ischémique aiguë
+K55.9	entérocolite
+K55.0	entérocolite hémorragique aiguë
+K55.0	entérite hémorragique
+K55.0	entérocolite ischémique aiguë
+K55.0	entérocolite fulminante
+K55.0	nécrose massive de l'intestin
+K55.0	nécrose hémorragique de l'intestin
+K55.0	nécrose intestinale hémorragique
+K55.0	infarctus aigu de l'intestin
+K55.0	infarctus intestinal aigu
+K55.0	gangrène intestinale
+K55.0	gangrène iléale
+K55.0	gangrène jéjunale
+K55.0	gangrène du gros intestin
+K55.0	infarctus mésentérique
+K55.0	infarctus mésentérique embolique
+K55.0	embolie de l'artère mésentérique
+K55.0	embolisation artérielle mésentérique
+K55.0	infarctus mésentérique thrombotique
+K55.0	entéropathie hémorragique terminale
+K55.0	thrombose de l'artère mésentérique
+K55.0	thrombose artérielle mésentérique
+K55.0	thrombose veineuse mésentérique
+K55.1	insuffisance vasculaire chronique de l'intestin
+K55.1	syndrome ischémique intestinal chronique
+K55.1	colite ischémique chronique
+K55.1	polypose de Brock-Suckow
+K55.1	entérite ischémique chronique
+K55.1	entérocolite ischémique chronique
+K55.1	rétrécissement ischémique de l'intestin
+K55.1	étranglement ischémique de l'intestin
+K55.1	insuffisance vasculaire mésentérique
+K55.1	angor abdominal
+K55.1	ischémie intestinale paroxystique
+K55.1	angor abdominalis
+K55.1	syndrome de l'artère mésentérique supérieure
+K52.9	gastro-entérite non infectieuse
+K52.2	gastro-entérite allergique
+K52.2	gastro-entérite alimentaire
+K52.9	entérite non infectieuse
+K52.2	entérite allergique
+K52.2	entérite alimentaire
+K52.9	jéjunite non infectieuse
+K52.2	jéjunite allergique
+K52.2	jéjunite alimentaire
+K52.9	jéjunite
+K52.9	iléite non infectieuse
+K52.2	iléite allergique
+K52.2	iléite alimentaire
+K52.9	iléite
+K52.9	colite non-infectieuse
+K52.2	colite allergique
+K52.2	colite alimentaire
+K52.9	sigmoïdite non infectieuse
+K52.2	sigmoïdite allergique
+K52.2	sigmoïdite alimentaire
+K52.9	diarrhée non infectieuse
+K52.2	diarrhée allergique
+K52.2	diarrhée alimentaire
+K52.1	gastro-entérite toxique
+K52.1	colite toxique
+K52.1	colite urémique
+K52.0	gastro-entérite due à une irradiation
+K52.0	colite due à une irradiation
+K52.0	entérite due à une irradiation
+K52.9	colite
+K52.9	entérite
+K52.9	gastro-entérite
+K52.9	gastro-entérite aiguë
+K93.8*	pneumonie compliquée d'une gastro-entérite ulcéreuse aiguë
+K52.9	colite lymphocytaire
+K56.6	obstruction intestinale
+K56.6	iléus
+K56.6	occlusion intestinale
+K56.6	iléus mécanique
+K56.6	iléus dynamique
+K56.6	iléus spasmodique
+K56.6	occlusion de l'intestin par obstruction
+K56.2	occlusion de l'intestin par étranglement
+K56.2	occlusion à boucle fermée de l'intestin
+K56.6	obstruction intestinale récidivante
+K56.6	sténose de l'intestin
+K56.6	entéro-sténose
+K56.6	rétrécissement cicatriciel de l'intestin
+K56.6	rétrécissement cicatriciel de l'iléon
+K56.6	rétrécissement cicatriciel iléal
+K56.6	obstruction du côlon
+K56.6	occlusion du côlon
+K56.6	sténose du côlon
+K56.6	rétrécissement cicatriciel du côlon
+K56.1	intussusception de l'intestin
+K56.1	invagination de l'intestin
+K56.1	intussusception du côlon
+K56.1	invagination du côlon
+K56.1	intussusception du rectum
+K56.1	invagination du rectum
+K56.2	volvulus intestinal
+K56.2	torsion d'une anse intestinale autour de son mésentère
+K56.2	torsion de l'intestin
+K56.2	torsion de l'intestin autour de son axe longitudinal
+K56.2	étranglement de l'intestin
+K56.2	volvulus du côlon
+K56.2	torsion du côlon autour de son axe mésentérique
+K56.2	torsion du côlon
+K56.2	torsion du côlon autour de son axe longitudinal
+K56.2	étranglement du côlon
+K56.0	iléus paralytique
+K56.0	iléus adynamique
+K56.0	paralysie de l'intestin
+K56.0	paralysie du côlon
+K59.8	dilatation de l'intestin
+K59.8	dilatation intestinale
+K59.8	dilatation toxique de l'intestin
+K59.8	dilatation intestinale toxique
+K56.4	enclavement de l'intestin
+K56.4	enclavement du côlon
+K56.3	iléus biliaire
+K56.3	occlusion de l'intestin par calculs biliaires
+K56.4	concrétion intestinale
+K56.4	entérolithe
+K56.4	engouement du côlon par matières fécales
+K56.4	engouement colique par matières fécales
+K56.4	engouement du rectum par matières fécales
+K56.4	engouement rectal par matières fécales
+K56.5	adhérences de l'intestin avec occlusion
+K56.5	adhérences péritonéales avec occlusion
+K56.6	obstruction de l'intestin par épaississement mural
+K63.2	fistule de l'intestin
+K63.2	fistule de l'intestin à la paroi abdominale
+K63.2	fistule entéro-colique
+K63.2	fistule entéro-entérique
+K63.2	fistule iléo-rectale
+K63.1	perforation de l'intestin
+K63.3	ulcération de l'intestin
+K63.3	ulcère primaire de l'intestin
+K28.9	ulcère jéjunal
+K63.3	ulcère iléal
+K92.8	syndrome de Dudley-Klingenstein
+K92.8	syndrome des tumeurs jéjunales
+K63.3	ulcération du côlon
+K63.3	ulcère colique
+K92.2	hémorragie du côlon
+K92.2	hémorragie colique
+K92.2	côlon hémorragique
+K63.1	perforation du côlon
+K63.1	perforation colique
+K63.8	granulome de l'intestin
+K63.8	granulome à corps étrangers du côlon
+K63.8	granulome du côlon dû au baryum
+K63.4	ptose de l'intestin
+K63.4	entéroptose
+K63.4	viscéroptose
+K63.4	splanchnoptose
+K63.8	péricolite
+K63.8	périsigmoïdite
+K57.9	diverticules de l'intestin
+K57.1	diverticule du duodénum
+K57.1	diverticule du jéjunum
+K57.1	diverticule de l'iléon
+K57.1	diverticulose de l'intestin grêle
+K60.1	fissure anale chronique
+K57.1	diverticulose du duodénum sans diverticulite
+K57.1	diverticulose du jéjunum sans diverticulite
+K57.1	diverticulose de l'iléon sans diverticulite
+K57.1	diverticulite de l'intestin grêle
+K57.1	diverticulite du duodénum
+K57.1	diverticulite du jéjunum
+K57.1	diverticulite de l'iléon
+K57.3	diverticulose du gros intestin sans diverticulite
+K57.3	diverticulose du côlon sans diverticulite
+K57.3	maladie diverticulaire du côlon
+K57.3	diverticulose du côlon
+K57.2	diverticulose du côlon avec perforation
+K57.3	diverticulite du gros intestin
+K57.3	diverticulite du côlon
+K57.2	diverticulite du côlon avec perforation
+K52.9	diarrhée inflammatoire
+K63.8	colite kystique profonde
+K63.8	pneumatose kystique de l'intestin
+K63.8	kystes gazeux de l'intestin
+K59.9	trouble fonctionnel de l'intestin
+K59.0	constipation
+K59.0	constipation idiopathique chronique
+K59.0	constipation colique
+K59.0	constipation par transit colique ralenti
+K59.0	constipation par ralentissement du transit colique
+K59.0	constipation par obstruction anale
+K59.0	constipation provoquée par un médicament
+K59.0	constipation opiniâtre
+K59.0	constipation réfractaire
+K59.1	diarrhée fonctionnelle
+K59.4	spasme anal
+K59.3	mégacôlon autre que la maladie de Hirschsprung
+K59.3	mégacôlon acquis
+K59.3	dilatation du côlon
+K59.3	mégacôlon idiopathique
+K59.3	mégacôlon acquis des enfants
+K59.3	mégacôlon idiopathique des enfants
+K59.3	mégacôlon acquis des adultes
+K59.3	mégacôlon idiopathique des adultes
+K62.8	douleur anale
+K62.8	douleur anale idiopathique chronique
+K62.8	douleur rectale
+K62.8	douleur du rectum
+K62.8	proctalgie
+K62.8	rectalgie
+K59.4	proctalgie fugace
+K59.4	spasme ano-rectal
+K59.4	proctalgie paroxystique
+K59.8	atonie du côlon
+K58.9	côlon irritable
+K58.9	colopathie fonctionnelle
+K58.9	syndrome du côlon irritable
+K58.9	colite membraneuse
+K58.9	colite muqueuse
+K58.9	colite spasmodique
+K58.9	maladie de Payr
+K58.9	syndrome de l'angle gauche du côlon
+K58.9	entérospasme
+K58.9	spasme du côlon
+K51.8	colite hémorragique
+K58.9	entérocolite pseudo-membraneuse
+K58.9	syndrome de Janbon
+K51.8	entérocolite nécrosante
+K58.9	colite pseudo-membraneuse
+K52.1	colite chimique
+K52.1	entérocolite liée aux antibiotiques
+K52.1	colite liée aux antibiotiques
+K52.1	colite due au savon
+K52.8	côlon cathartique
+K52.8	colite collagène
+K59.3	syndrome de Piulachs-Hederich
+K59.3	syndrome de dilatation aiguë du côlon
+K59.3	tympanisme dû à un dolicho-mégacôlon
+K63.8	mélanose du côlon
+K63.8	histiocytose mucineuse du côlon
+K91.1	syndrome consécutif à la chirurgie gastrique
+K91.1	syndrome de chasse
+K91.1	syndrome post-gastrectomique
+K91.0	vomissements bilieux après chirurgie gastro-intestinale
+K91.8	diarrhée après chirurgie gastro-intestinale
+K91.4	mauvais résultat fonctionnel d'une entérostomie
+K91.4	mauvais résultat fonctionnel d'une colostomie
+K91.1	syndrome du petit estomac
+K90.2	syndrome de l'anse afférente
+K90.2	obstruction partielle chronique de l'anse afférente
+K91.8	syndrome de rétention antrale
+K92.8	pseudo-syndrome de Zollinger-Ellison
+K91.8	colite de dérivation
+K63.3	ulcère du caecum
+K63.3	ulcère caecal
+K63.3	ulcère du côlon ascendant
+K63.3	ulcère du côlon sigmoïde
+K63.8	malacoplasie du côlon
+K52.9	typhlite
+K35.9	typhlite aiguë
+K63.8	adiposité localisée de la valvule iléo-caecale
+K63.8	infiltration graisseuse de la valvule iléo-caecale
+K63.8	valvule iléo-caecale proéminente
+K35.0	typhlite aiguë avec perforation et péritonite
+K35.9	typhlite neutropénique
+K63.9	syndrome de Koenig II
+K63.9	syndrome de la valvule iléo-caecale
+K52.9	typhlocolite
+K52.9	diarrhée osmotique
+K52.9	diarrhée de type sécrétoire
+K52.9	diarrhée provoquée par un médicament et une toxine
+K52.9	diarrhée d'origine toxique et médicamenteuse
+K62.9	maladie du rectum
+K62.9	affection rectale
+K62.9	maladie de l'anus
+K62.9	affection anale
+K60.2	fissure anale
+K60.2	fissure anale non traumatique
+K60.0	fissure anale aiguë
+K60.2	hémorroïdes de Brodie
+K60.2	hémorroïde sentinelle
+K60.3	fistule anale
+K60.3	fistule périanale
+K61.0	furonculose anale
+K60.5	fistule ano-rectale
+K60.4	fistule rectale
+K60.4	fistule recto-cutanée
+K61.3	abcès ischio-rectal
+K61.0	abcès périanal
+K61.0	maladie des chevaliers
+K61.0	hidradénite suppurée de l'anus
+K61.1	abcès périrectal
+K61.2	abcès ano-rectal
+K61.0	cellulite anale
+K61.2	cellulite ano-rectale
+K61.1	cellulite périrectale
+K61.1	cellulite rectale
+K61.3	fistule ischio-rectale
+K62.8	proctite
+K62.8	proctite ulcéro-hémorragique non spécifique
+K62.8	proctite hémorragique
+K52.9	procto-colite
+K52.9	rectocolite
+K52.9	coloproctite
+K52.9	colorectite
+K52.9	procto-colite idiopathique
+K52.9	procto-sigmoïdite
+K52.9	recto-sigmoïdite
+K62.0	polype anal
+K62.0	acrochordons périanaux
+K62.0	hypertrophie des papilles anales
+K62.1	polype rectal
+K62.8	granulome du rectum
+K62.3	prolapsus rectal
+K62.3	procidence du rectum
+K62.3	prolapsus de la muqueuse rectale
+K62.3	prolapsus rectal incomplet
+K62.3	prolapsus rectal partiel
+K62.3	prolapsus rectal complet avec déplacement du sphincter anal
+K62.3	prolapsus rectal complet sans déplacement des muscles anaux
+K62.3	prolapsus rectal interne complet avec intussusception recto-sigmoïdienne
+K62.3	proctoptose
+K62.2	prolapsus du canal anal
+K62.2	procidence de l'anus
+K62.4	sténose du rectum
+K62.4	rétrécissement cicatriciel du rectum
+K62.4	rétrécissement cicatriciel ano-rectal
+K62.4	maladie de Kuess
+K62.4	sténose inflammatoire de l'anus et du rectum
+K62.4	sténose de l'anus
+K62.4	sténose anale acquise
+K62.4	rétrécissement cicatriciel de l'anus
+K62.4	rétrécissement cicatriciel anal
+K62.8	kraurosis de l'anus
+K62.8	kraurosis anal
+K62.4	rétrécissement cicatriciel du canal anal
+K62.4	sténose du canal anal
+K62.8	malacoplasie du rectum
+K62.6	ulcère de l'anus
+K62.6	ulcère anal
+K62.6	ulcère solitaire de l'anus
+K62.6	ulcère stercoral de l'anus
+K62.6	ulcère du rectum
+K62.6	ulcère rectal
+K62.6	ulcère rectal solitaire
+K62.6	ulcère solitaire du rectum
+K62.8	perforation du rectum
+K62.8	perforation rectale
+K62.6	ulcère stercoral du rectum
+K62.5	hémorragie de l'anus
+K62.5	hémorragie anale
+K62.5	hémorragie du rectum
+K62.5	hémorragie rectale
+K62.5	proctorragie
+K62.5	rectum hémorragique
+K62.5	rectorragie
+K62.8	rupture du rectum
+K62.8	déchirure rectale
+K62.8	mégarectum
+K62.8	anisme
+K62.8	dyssynergie recto-sphinctérienne
+K62.8	plancher pelvien spastique
+K62.8	asynergie recto-sphinctérienne
+K62.8	syndrome du périnée descendant
+K62.8	intussusception sigmoïdo-rectale
+K62.8	maladie de Gross
+K38.9	maladie de l'appendice
+K37	appendicite
+K36	appendicite focale
+K36	appendicite guérie
+K36	appendicite chronique
+K36	appendicite récurrente
+K36	appendicite récidivante
+K36	appendicite subaiguë
+K36	appendicite atypique
+K36	appendicite rétrocaecale
+K36	appendicite rétro-iléale
+K36	appendicite pelvienne
+K37	périappendicite
+K35.9	appendicite aiguë sans péritonite
+K35.9	appendicite aiguë
+K35.9	appendicite suppurée
+K35.9	appendicite purulente
+K35.0	appendicite suppurée rompue
+K35.0	appendicite purulente rompue
+K35.9	appendicite fulminante aiguë
+K35.9	appendicite gangréneuse aiguë
+K35.9	appendicite obstructive aiguë
+K35.9	appendicite obstructive
+K35.0	appendicite aiguë avec péritonite généralisée
+K35.0	rupture de l'appendice
+K35.0	appendicite avec perforation
+K35.0	appendice perforée
+K35.0	appendicite aiguë fulminante avec perforation et péritonite
+K35.0	appendicite gangréneuse aiguë avec perforation et péritonite
+K35.0	appendicite obstructive aiguë avec perforation et péritonite
+K35.1	appendicite aiguë avec abcès péritonéal
+K35.1	abcès de l'appendice
+K38.0	hyperplasie lymphoïde de l'appendice
+K38.8	colique appendiculaire
+K38.8	concrétion appendiculaire
+K38.3	fistule de l'appendice
+K38.2	diverticule de l'appendice
+K38.1	fécalome de l'appendice
+K38.1	concrétion fécale de l'appendice
+K38.1	stercolithe de l'appendice
+K38.8	mucocèle de l'appendice
+K36	appendicite catarrhale
+K38.8	invagination de l'appendice
+K38.8	oblitération fibreuse de l'appendice
+K90.9	syndrome de malabsorption
+K90.9	malabsorption intestinale
+K90.9	malabsorption
+K90.1	sprue
+K90.0	maladie coeliaque
+K90.0	coeliakie
+K90.0	sprue coeliaque
+K90.0	intolérance au gluten
+K90.0	stéatorrhée idiopathique
+K90.0	sprue non tropicale
+K90.0	maladie coeliaque, forme adulte
+K90.0	maladie de Gee-Thaysen
+K90.0	maladie coeliaque avec ulcérations intestinales diffuses
+K90.0	infantilisme coeliaque
+K90.0	maladie de Gee-Herter
+K90.0	maladie coeliaque, forme infantile
+K90.1	sprue tropicale
+K90.1	stéatorrhée tropicale
+K90.4	malabsorption par intolérance autre qu'au gluten
+K90.4	entéropathie collagénique
+K90.4	syndrome de malabsorption due à une intolérance autre qu'au gluten
+K90.1	diarrhée des hauteurs
+K90.1	diarrhée des collines
+K90.4	maladie de Waldmann
+K90.4	lymphangiectasie intestinale
+K90.4	entéropathie exsudative
+K90.4	stéatorrhée chronique
+K90.8	entérite ulcéreuse non granulomateuse diffuse idiopathique
+K90.8	sprue non classée
+K63.3	ulcérations diffuses du jéjunum et de l'iléon
+K63.3	ulcères idiopathiques de l'intestin grêle
+K90.8	malabsorption intestinale des personnes âgées
+K90.8	malabsorption intestinale provoquée par un médicament
+K90.2	syndrome de l'anse borgne
+K90.2	syndrome de l'anse borgne post-opératoire
+K91.2	hypoglycémie après chirurgie gastro-intestinale
+K91.2	malnutrition après chirurgie gastro-intestinale
+K91.5	syndrome de malabsorption des acides biliaires
+K91.5	syndrome de malabsorption des acides biliaires, type I
+K91.5	syndrome de malabsorption des acides biliaires, type II
+K91.5	syndrome de malabsorption des acides biliaires, type III
+K91.5	diarrhée post-cholécystectomie
+K91.2	diarrhée post-vagotomie
+K91.2	syndrome post-vagotomie
+K52.9	diarrhée motrice du diabète
+K52.9	entéropathie diabétique
+K52.9	diarrhée due à la consommation d'alcool
+K52.9	diarrhée associée au lait cru
+K52.9	diarrhée chronique d'origine inconnue
+K91.2	malabsorption par perte anatomique d'un segment du grêle
+K91.2	malabsorption après résection intestinale étendue
+K46.9	hernie abdominale
+K46.9	hernie intestinale
+K46.9	hernie intra-abdominale
+K46.9	hernie interstitielle
+K46.9	hernie intermusculaire
+K46.9	hernie interpariétale
+K46.1	hernie avec gangrène
+K46.0	hernie avec occlusion
+K46.9	rupture d'une hernie
+K46.9	hernie rompue
+K40.9	hernie inguinale
+K40.9	bubonocèle
+K40.9	hernie inguinale unilatérale
+K40.9	hernie inguinale unilatérale récurrente
+K40.2	hernie inguinale bilatérale
+K40.2	hernie inguinale bilatérale récurrente
+K40.9	hernie inguinale sans occlusion ni gangrène
+K40.4	hernie inguinale avec gangrène
+K40.4	hernie inguinale unilatérale avec gangrène
+K40.4	hernie inguinale unilatérale récurrente avec gangrène
+K40.1	hernie inguinale bilatérale avec gangrène
+K40.1	hernie inguinale bilatérale récurrente avec gangrène
+K40.1	hernie inguinale avec gangrène et occlusion
+K40.4	hernie inguinale unilatérale avec gangrène et occlusion
+K40.4	hernie inguinale unilatérale récurrente avec gangrène et occlusion
+K40.1	hernie inguinale bilatérale avec gangrène et occlusion
+K40.1	hernie inguinale bilatérale récurrente avec gangrène et occlusion
+K40.3	hernie inguinale avec occlusion sans gangrène
+K40.3	hernie inguinale avec étranglement
+K40.3	hernie inguinale irréductible
+K40.3	hernie inguinale étranglée
+K40.3	hernie inguinale unilatérale avec occlusion sans gangrène
+K40.3	hernie inguinale unilatérale récurrente avec occlusion sans gangrène
+K40.0	hernie inguinale bilatérale avec occlusion sans gangrène
+K40.0	hernie inguinale bilatérale récurrente avec occlusion sans gangrène
+K40.9	hernie inguinale directe
+K40.9	hernie inguinale interne
+K40.9	hernie inguinale indirecte
+K40.9	hernie inguinale externe
+K40.9	hernie inguinale oblique
+K40.9	hernie inguinale indirecte funiculaire
+K40.9	hernie funiculaire du cordon spermatique
+K40.9	hernie scrotale
+K40.9	hernie infantile
+K40.9	hernie labiale
+K40.9	hernie vagino-labiale
+K40.9	hernie inguino-superficielle
+K40.9	hernie inguinale propéritonéale
+K40.9	hernie inguino-propéritonéale
+K40.9	hernie de Krönlein
+K41.9	hernie fémorale
+K41.9	hernie crurale
+K41.9	hernie crurale unilatérale sans occlusion ni gangrène
+K41.9	hernie crurale unilatérale récurrente sans occlusion ni gangrène
+K41.2	hernie crurale bilatérale sans occlusion ni gangrène
+K41.2	hernie crurale bilatérale récurrente sans occlusion ni gangrène
+K41.9	hernie crurale sans occlusion ni gangrène
+K41.4	hernie crurale avec gangrène
+K41.4	hernie crurale unilatérale avec gangrène
+K41.4	hernie crurale unilatérale récurrente avec gangrène
+K41.1	hernie crurale bilatérale avec gangrène
+K41.1	hernie crurale bilatérale récurrente avec gangrène
+K41.4	hernie crurale avec gangrène et occlusion
+K41.4	hernie crurale unilatérale avec gangrène et occlusion
+K41.4	hernie crurale unilatérale récurrente avec gangrène et occlusion
+K41.1	hernie crurale bilatérale avec gangrène et occlusion
+K41.1	hernie crurale bilatérale récurrente avec gangrène et occlusion
+K41.3	hernie crurale avec occlusion sans gangrène
+K41.3	hernie crurale unilatérale avec occlusion sans gangrène
+K41.3	hernie crurale unilatérale récurrente avec occlusion sans gangrène
+K41.0	hernie crurale bilatérale avec occlusion sans gangrène
+K41.0	hernie crurale bilatérale récurrente avec occlusion sans gangrène
+K41.9	hernie de Béclard
+K41.9	hernie de Cloquet
+K41.9	hernie pectinéale
+K41.9	hernie de Cooper
+K41.9	hernie d'Astley Cooper
+K41.9	hernie en bissac
+K41.9	hernie crurale à sac bilobé
+K40.9	hernie inguino-fémorale
+K40.9	hernie inguino-crurale
+K42.9	hernie ombilicale
+K42.9	exomphale
+K42.9	hernie ombilicale sans occlusion ni gangrène
+K42.9	hernie para-ombilicale
+K42.1	hernie ombilicale avec gangrène
+K42.1	hernie para-ombilicale avec gangrène
+K42.1	hernie ombilicale avec gangrène et occlusion
+K42.1	hernie para-ombilicale avec gangrène et occlusion
+K42.0	hernie ombilicale avec occlusion sans gangrène
+K42.0	hernie ombilicale étranglée
+K42.0	hernie ombilicale irréductible
+K43.9	hernie ventrale
+K43.9	laparocèle
+K43.9	hernie ventrale sans occlusion ni gangrène
+K43.1	hernie ventrale avec gangrène
+K43.1	hernie ventrale avec gangrène et occlusion
+K43.0	hernie ventrale avec occlusion sans gangrène
+K43.0	hernie ventrale étranglée
+K43.0	hernie ventrale irréductible
+K43.9	hernie épigastrique
+K43.9	hernie abdominale de la ligne blanche
+K43.9	hernie de la ligne semi-lunaire de Spiegel
+K43.1	hernie épigastrique gangréneuse
+K43.1	hernie épigastrique avec gangrène et occlusion
+K43.0	hernie épigastrique avec occlusion sans gangrène
+K43.0	hernie épigastrique étranglée
+K43.0	hernie épigastrique irréductible
+K43.9	hernie cicatricielle
+K43.9	hernie incisionnelle
+K43.9	hernie cicatricielle post-opératoire
+K43.9	hernie incisionnelle post-opératoire
+K43.9	hernie ventrale récurrente
+K43.1	hernie cicatricielle avec gangrène
+K43.1	hernie incisionnelle avec gangrène
+K43.1	hernie ventrale récurrente gangréneuse
+K43.1	hernie cicatricielle post-opératoire gangréneuse
+K43.1	hernie incisionnelle post-opératoire gangréneuse
+K43.1	hernie cicatricielle avec gangrène et occlusion
+K43.1	hernie incisionnelle avec gangrène et occlusion
+K43.0	hernie cicatricielle avec occlusion sans gangrène
+K43.0	hernie incisionnelle avec occlusion sans gangrène
+K43.0	hernie cicatricielle étranglée
+K43.0	hernie cicatricielle irréductible
+K43.0	hernie incisionnelle irréductible
+K43.0	hernie incisionnelle étranglée
+K43.0	hernie ventrale récurrente avec occlusion
+K43.0	hernie cicatricielle post-opératoire avec occlusion
+K43.0	hernie incisionnelle post-opératoire avec occlusion
+K44.9	hernie diaphragmatique
+K44.9	hernie hiatale
+K44.9	syndrome de Bergmann
+K44.9	hernie hiatale oesophagienne
+K44.9	hernie para-oesophagienne
+K44.9	hernie gastro-oesophagienne
+K44.9	estomac intrathoracique
+K44.1	hernie diaphragmatique avec gangrène
+K44.1	hernie hiatale gangréneuse
+K44.1	hernie para-oesophagienne gangréneuse
+K44.1	estomac thoracique gangréneux
+K44.1	hernie diaphragmatique avec gangrène et occlusion
+K44.1	hernie hiatale avec gangrène et occlusion
+K44.1	hernie para-oesophagienne avec gangrène et occlusion
+K44.1	estomac thoracique gangréneux avec occlusion
+K44.0	hernie diaphragmatique avec occlusion sans gangrène
+K44.0	hernie hiatale avec occlusion sans gangrène
+K44.0	hernie hiatale étranglée
+K44.0	hernie hiatale irréductible
+K44.0	hernie para-oesophagienne avec occlusion sans gangrène
+K44.0	hernie para-oesophagienne étranglée
+K44.0	hernie para-oesophagienne irréductible
+K44.0	estomac intrathoracique avec occlusion sans gangrène
+K45.8	hernie ischiatique
+K45.8	ischiocèle
+K45.8	hernie sciatique
+K45.1	hernie ischiatique avec gangrène
+K45.0	hernie ischiatique avec occlusion
+K45.8	hernie ischio-rectale
+K45.8	hernie périnéale
+K45.1	hernie ischio-rectale avec gangrène
+K45.0	hernie ischio-rectale avec occlusion
+K45.8	hernie lombaire
+K45.1	hernie lombaire avec gangrène
+K45.0	hernie lombaire avec occlusion
+K45.8	hernie obturatrice
+K45.1	hernie obturatrice avec gangrène
+K45.0	hernie obturatrice avec occlusion
+K45.8	hernie vulvaire
+K45.1	hernie vulvaire avec gangrène
+K45.0	hernie vulvaire avec occlusion
+K45.8	hernie rétropéritonéale
+K45.8	hernie rétropéritonéale de Treitz
+K45.1	hernie rétropéritonéale avec gangrène
+K45.0	hernie rétropéritonéale avec occlusion
+K45.8	hernie à travers l'hiatus de Winslow
+K45.8	hernie à travers le foramen épiploïque
+K45.8	hernie intersigmoïdienne
+K46.9	hernie du caecum
+K46.9	hernie caecale
+K46.9	épiplocèle
+K46.9	hernie épiploïque
+K46.9	sarco-épiplocèle
+K46.9	hernie mésentérique
+K46.9	hernie rétrocaecale
+K66.9	maladie du péritoine
+K66.8	épanchement abdominal
+K66.8	épanchement péritonéal
+K65.9	péritonite
+K65.9	péritonite de cause indéterminée
+K65.0	péritonite aiguë
+K65.0	péritonite aiguë généralisée
+K65.0	péritonite suppurée aiguë
+K65.0	péritonite fibrineuse
+K65.0	péritonite sous-phrénique
+K65.0	péritonite pelvienne chez l'homme
+K65.0	abcès abdominal
+K65.0	abcès du péritoine
+K65.0	abcès intrapéritonéal
+K65.0	abcès viscéral abdominal
+K65.0	abcès médio-abdominal
+K65.0	abcès abdominal médian
+K65.0	abcès de l'épiploon
+K65.0	abcès abdomino-pelvien
+K65.0	abcès pelvien
+K65.0	abcès mésentérique
+K65.0	abcès rétrocaecal
+K65.0	abcès rétropéritonéal
+K65.0	abcès sous-diaphragmatique
+K65.0	abcès sous-phrénique
+K65.0	abcès sous-hépatique
+K65.8	péritonite chronique
+K65.8	péritonite proliférative chronique
+K65.8	péritonite granulomateuse
+K65.8	péritonite sclérosante
+K65.8	stéatonécrose du péritoine
+K65.8	saponification mésentérique
+K66.1	hématome mésentérique
+K65.8	péritonite due à la bile
+K65.8	péritonite due à l'urine
+K65.8	uropéritonite
+K66.0	mésentérite rétractile
+K66.0	adhérence péritonéale
+K65.8	fibrose péritonéale
+K65.8	fibrose de la cavité pelvienne
+K65.8	fibrose du bassin
+K65.8	fibrose pelvienne
+K66.0	adhérence de la paroi abdominale
+K66.0	adhérence intestinale
+K66.0	adhérence pelvienne chez l'homme
+K66.0	adhérence mésentérique
+K65.8	fibrose du mésentère
+K65.8	fibrose mésentérique
+K66.0	adhérence épiploïque
+K66.8	torsion épiploïque
+K66.8	infarctus épiploïque
+K66.0	adhérence gastrique
+K66.1	hémorragie intra-abdominale
+K66.1	hémopéritoine non traumatique
+K66.1	hémopéritoine
+K66.1	hémorragie du péritoine
+K66.1	hémorragie péritonéale
+K66.1	hémorragie intrapéritonéale spontanée
+K66.8	pneumopéritoine
+K66.8	épanchement gazeux dans la cavité péritonéale
+K66.8	épanchement péritonéal chronique
+K66.8	épanchement péritonéal sanglant
+K66.8	léiomyomatose péritonéale disséminée
+K66.8	léiomyome parasitaire
+K66.8	granulome péritonéal
+K66.8	xanthogranulome rétropéritonéal
+K76.9	maladie du foie
+K76.9	atteinte hépatocellulaire
+K76.9	atteinte hépatique
+K76.9	maladie hépatique
+K76.8	coloration anormale du foie
+K76.8	marbrure du foie
+K76.8	foie marbré
+K76.8	pâleur du foie
+K76.8	foie pâle
+K72.9	nécrose hépatique
+K76.8	foie radique
+K72.0	hépatite fulminante
+K72.0	atrophie jaune aiguë du foie
+K72.0	maladie de Rokitansky-Frerichs
+K72.0	nécrose hépatique diffuse
+K72.0	nécrose hépatique subaiguë
+K72.0	atrophie jaune subaiguë du foie
+K72.0	dégénérescence parenchymateuse du foie
+K72.0	hépatite aiguë
+K72.0	hépatite aiguë non infectieuse
+K72.0	hépatite subaiguë non infectieuse
+K75.8	hépatite à cellules géantes
+K75.8	hépatite focale aiguë
+K71.1	nécrose hépatique focale
+K71.1	nécrose hépatique périphérique
+K71.1	nécrose hépatique médiolobulaire
+K71.1	nécrose hépatique centrolobulaire
+K71.1	nécrose hépatique paracentrale
+K72.9	atrophie rouge aiguë du foie
+K72.9	atrophie du foie
+K72.9	atrophie hépatique
+K71.7	cirrhose toxique
+K70.9	hépatopathie alcoolique
+K70.9	maladie alcoolique du foie
+K70.0	syndrome de Zieve
+K70.0	dégénérescence graisseuse alcoolique du foie
+K70.0	stéatose alcoolique du foie
+K70.0	stéatose hépatique alcoolique
+K70.1	hépatite alcoolique aiguë
+K70.3	cirrhose alcoolique
+K70.3	cirrhose portale alcoolique
+K70.3	cirrhose de Laennec
+K70.3	cirrhose atrophique alcoolique
+K70.3	cirrhose floride
+K74.6	cirrhose carentielle
+K73.9	hépatite chronique
+K73.0	hépatite chronique persistante
+K75.4	hépatite chronique active
+K75.4	cirrhose juvénile
+K75.4	hépatite auto-immune
+K75.4	hépatite chronique agressive
+K75.4	cirrhose de la femme jeune
+K77.8	hépatite lupoïde
+K73.1	hépatite chronique lobulaire
+K74.6	cirrhose du foie
+K74.6	cirrhose hépatique
+K74.6	cirrhose du foie sans mention d'alcool
+K74.6	cirrhose à lésions minimes
+K74.6	cirrhose cryptogénique
+K74.6	cirrhose latente
+K74.6	cirrhose avancée
+K74.6	cirrhose macronodulaire
+K74.6	cirrhose atrophique
+K74.6	cirrhose mixte macronodulaire et micronodulaire
+K74.6	cirrhose micronodulaire
+K74.6	cirrhose post-hépatitique
+K74.6	cirrhose post-nécrotique
+K74.6	cirrhose nodulaire post-nécrotique
+K77.0	cirrhose parasitaire
+K74.5	cirrhose biliaire
+K74.3	angiocholite destructive chronique non suppurée
+K74.3	cirrhose cholestatique
+K74.3	cholangite destructive chronique non suppurée
+K74.3	prolifération de néocanaux biliaires
+K74.3	cirrhose biliaire primitive
+K74.3	cirrhose de Hanot
+K74.4	cirrhose biliaire secondaire
+K74.4	cirrhose biliaire obstructive
+K74.3	cirrhose cholangiolytique
+K76.9	maladie chronique non alcoolique du foie
+K76.0	stéatose hépatique
+K72.9	atrophie jaune chronique du foie
+K76.0	stéatose non alcoolique du foie
+K75.0	abcès du foie
+K75.0	abcès hépatique
+K75.1	phlébite de la veine porte
+K75.1	pyléphlébite
+K75.0	pyohémie de la veine porte
+K75.0	pyohémie portale
+K75.0	pyléphlébite suppurée
+K75.1	thrombophlébite de la veine porte
+K75.1	pyléthrombophlébite
+K75.8	inflammation des espaces portes
+K72.9	insuffisance hépatique
+K72.9	décompensation du foie
+K72.9	défaillance fonctionnelle du foie
+K72.9	encéphalopathie hépatique
+K72.9	syndrome de Gaustad
+K72.9	encéphalopathie porto-cave
+K72.9	insuffisance hépatique transitoire
+K72.9	coma hépatique
+K72.9	intoxication hépato-cérébrale
+K76.6	hypertension portale
+K76.6	syndrome de Cruveilhier-Baumgarten
+K76.1	congestion hépatique
+K76.1	congestion passive chronique du foie
+K76.1	foie muscade
+K76.1	hydro-hépatose
+K76.8	hyperplasie lobaire compensatrice du foie
+K76.8	hyperplasie nodulaire du foie
+K76.7	syndrome hépatorénal
+K76.1	cirrhose cardiaque
+K76.3	infarctus du foie
+K76.3	infarctus hépatique
+K76.8	hépatoptose
+K75.2	hépatite
+K75.3	hépatite granulomateuse
+K71.6	hépatite toxique non infectieuse
+K75.8	hépatite cholestatique
+K71.2	hépatite toxique aiguë
+K71.0	hépatite cholestatique médicamenteuse
+K75.0	abcès hépatique pyogène
+K76.8	microhépatie
+K74.0	fibrose hépatique
+K74.0	fibrose septale du foie
+K76.4	péliose hépatique
+K76.4	angiomatose hépatique
+K76.8	kyste hépatique
+K76.8	torsion d'un lobe hépatique
+K76.8	hémorragie sous-capsulaire du foie
+K76.8	hémorragie du foie
+K76.8	foie hémorragique
+K76.8	hémorragie hépatique
+K76.8	hépatorragie
+K76.8	séquestration d'hématies dans le foie
+K76.8	séquestration de globules rouges dans le foie
+K76.8	séquestration de normocytes dans le foie
+K76.8	séquestration d'érythrocytes dans le foie
+K77.8	amyloïdose hépatique
+K82.9	maladie de la vésicule biliaire
+K82.9	affection de la vésicule biliaire
+K82.9	maladies des voies biliaires
+K81.9	cholécystite
+K81.9	cholécystite sans mention de calculs
+K81.9	cholécystite alithiasique
+K81.0	pneumocholécystite
+K81.0	cholécystite emphysémateuse
+K81.0	cholécystite aiguë
+K81.0	cholécystite aiguë sans calcul
+K81.0	cholécystite aiguë alithiasique
+K81.0	cholécystite hémorragique aiguë
+K81.0	cholécystite gangréneuse aiguë
+K81.0	cholécystite suppurée aiguë
+K81.0	cholécystite emphysémateuse aiguë
+K81.0	angiocholécystite
+K81.0	abcès de la vésicule biliaire
+K81.0	abcès péricholécystique
+K81.0	empyème de la vésicule biliaire
+K81.0	gangrène de la vésicule biliaire
+K81.1	cholécystite chronique
+K81.1	cholécystite chronique sans calcul
+K81.1	cholécystite chronique avec calcul
+K81.8	cholécystite glandulaire proliférante
+K80.1	calcul de la vésicule biliaire avec cholécystite
+K80.1	cholélithiase avec cholécystite
+K80.1	calcul biliaire avec cholécystite
+K80.1	calcul du canal cystique avec cholécystite
+K80.1	cholélithiase et cholécystite sans obstruction
+K80.1	cholélithiase et cholécystite avec obstruction
+K80.0	calcul de la vésicule biliaire avec cholécystite aiguë
+K80.0	calcul biliaire avec cholécystite aiguë
+K80.0	cholélithiase avec cholécystite aiguë
+K80.0	calcul du canal cystique avec cholécystite aiguë
+K80.0	cholélithiase et cholécystite aiguë sans obstruction
+K80.0	cholélithiase et cholécystite aiguë avec obstruction
+K80.2	calcul biliaire
+K80.2	cholélithiase
+K80.2	lithiase biliaire
+K80.2	cholécystolithiase
+K80.2	boue biliaire
+K80.2	cholélithiase sans obstruction
+K80.2	cholélithiase avec obstruction
+K80.2	calcul du canal cystique
+K80.2	calcul du canal cystique sans obstruction
+K80.2	calcul du canal cystique avec obstruction
+K80.2	calcul biliaire enclavé dans la vésicule biliaire
+K80.2	calcul biliaire enclavé dans le canal cystique
+K80.2	colique biliaire
+K80.2	colique biliaire récidivante
+K80.5	calcul des canaux biliaires
+K80.5	calcul des canaux biliaires sans obstruction
+K80.5	calcul des canaux biliaires avec obstruction
+K80.5	calcul du cholédoque
+K80.5	cholédocholithiase
+K80.5	calcul du cholédoque sans obstruction
+K80.5	calcul du cholédoque avec obstruction
+K80.5	syndrome d'Osler II
+K80.5	lithiase mobile du diverticule de Vater
+K80.5	calcul des canaux hépatiques
+K80.5	lithiase hépatique
+K80.5	calcul des canaux hépatiques sans obstruction
+K80.5	calcul des canaux hépatiques avec obstruction
+K80.5	syndrome de Mirizzi
+K80.5	obstruction du canal hépatique
+K80.5	colique hépatique
+K80.5	colique hépatique récidivante
+K80.4	calcul des canaux biliaires avec cholécystite
+K80.4	calcul des canaux biliaires avec cholécystite chronique
+K80.4	calcul des canaux biliaires avec cholécystite chronique sans obstruction
+K80.4	calcul des canaux biliaires avec cholécystite chronique et obstruction
+K80.4	calcul du cholédoque avec cholécystite chronique
+K80.4	cholédocholithiase avec cholécystite chronique
+K80.4	calcul du cholédoque avec cholécystite chronique sans obstruction
+K80.4	calcul du cholédoque avec cholécystite chronique et obstruction
+K80.4	calcul des canaux biliaires avec cholécystite aiguë
+K80.4	calcul des canaux biliaires avec cholécystite aiguë sans obstruction
+K80.4	calcul des canaux biliaires avec cholécystite aiguë et obstruction
+K80.4	calcul du cholédoque avec cholécystite aiguë
+K80.4	cholédocholithiase avec cholécystite aiguë
+K80.4	calcul du cholédoque avec cholécystite aiguë sans obstruction
+K80.4	calcul du cholédoque avec cholécystite aiguë et obstruction
+K82.0	obstruction de la vésicule biliaire
+K82.0	occlusion de la vésicule biliaire
+K82.0	sinus de Rokitansky-Aschoff
+K82.0	sténose de la vésicule biliaire
+K82.0	rétrécissement cicatriciel de la vésicule biliaire
+K82.1	hydropisie de la vésicule biliaire
+K82.1	hydrocholécyste
+K82.1	hydrops vésiculaire
+K82.1	hydrocholécyste aigu
+K82.1	mucocèle de la vésicule biliaire
+K82.2	perforation de la vésicule biliaire
+K82.2	rupture de la vésicule biliaire
+K82.3	fistule de la vésicule biliaire
+K82.3	fistule cholécysto-duodénale
+K82.3	fistule cholécysto-entérique
+K82.3	fistule bilio-vasculaire
+K82.4	cholestérolose de la vésicule biliaire
+K82.4	vésicule fraise
+K82.8	calcification intramurale de la vésicule biliaire
+K82.8	vésicule porcelaine
+K82.8	hémocholécyste
+K82.8	hémorragie non traumatique de la vésicule biliaire
+K82.8	adhérences de la vésicule biliaire
+K82.8	syndrome de Verbrycke
+K82.8	adhérences de la vésicule biliaire à l'angle droit du côlon
+K82.8	adhérences du canal cystique
+K82.8	atrophie de la vésicule biliaire
+K82.8	atrophie du canal cystique
+K82.8	kyste de la vésicule biliaire
+K82.8	kyste du canal cystique
+K82.8	hypertrophie de la vésicule biliaire
+K82.8	hypertrophie du canal cystique
+K82.8	ulcère de la vésicule biliaire
+K82.8	ulcère du canal cystique
+K82.8	canal cystique non fonctionnel
+K82.8	syndrome du canal cystique borgne
+K82.8	dyskinésie biliaire
+K82.8	dystonie biliaire
+K82.8	achalasie biliaire
+K91.5	syndrome post-cholécystectomie
+K83.0	cholangite
+K83.0	cholangite aiguë
+K83.0	cholangite chronique
+K83.0	cholangite ascendante
+K83.0	cholangite primitive
+K83.0	cholangite pyogène récidivante
+K83.0	angiocholite orientale
+K83.0	cholangite récidivante
+K83.0	cholangite sclérosante primitive
+K83.0	cholangite sclérosante
+K83.0	cholangite secondaire
+K83.0	cholangite sténosante
+K83.0	péricholangite
+K83.0	cholangite suppurée
+K83.0	cholangiolite
+K83.1	obstruction des voies biliaires
+K83.1	occlusion d'un canal biliaire
+K83.8	cholangiectasie
+K83.1	sténose d'un canal biliaire
+K83.1	rétrécissement cicatriciel biliaire post-opératoire
+K83.1	rétrécissement cicatriciel d'un canal biliaire
+K83.1	fibrose des voies biliaires
+K83.1	fibrose des canaux biliaires
+K83.1	sclérose biliaire
+K83.2	perforation des voies biliaires
+K83.2	rupture d'un canal biliaire
+K83.3	fistule des voies biliaires
+K83.3	fistule biliaire
+K83.3	fistule cholédoco-duodénale
+K83.3	fistule broncho-biliaire
+K83.4	spasme du sphincter d'Oddi
+K83.8	adhérence d'un canal biliaire
+K83.8	atrophie d'un canal biliaire
+K83.5	kyste d'un canal biliaire
+K83.8	hypertrophie d'un canal biliaire
+K83.8	stase d'un canal biliaire
+K83.8	ulcère d'un canal biliaire
+K83.8	hémobilie
+K83.8	hématobilie
+K83.1	maladie obstructive biliaire extra-hépatique
+K83.1	syndrome de Courvoisier-Terrier
+K83.1	syndrome d'obstruction de l'ampoule de Vater
+K86.9	maladie du pancréas
+K86.9	affection du pancréas
+K86.1	pancréatite
+K85	pancréatite aiguë
+K85	pancréatite aiguë idiopathique
+K85	pancréatite aiguë récidivante
+K85	pancréatite subaiguë
+K85	pancréatite purulente
+K85	pancréatite aiguë hémorragique
+K85	pancréatite hémorragique
+K85	pancréatite nécrosante aiguë
+K85	pancréatite nécrosante
+K85	pancréatite apoplectique
+K85	abcès du pancréas
+K85	phlegmon du pancréas
+K86.8	fistule pancréatique
+K86.8	hémorragie du pancréas
+K86.8	hémorragie pancréatique
+K86.1	pancréatite chronique
+K86.1	pancréatite indolore
+K86.1	pancréatite récidivante
+K86.1	pancréatite à rechutes
+K86.1	pancréatite chronique fibrosante
+K87.1	pancréatite due à une cholélithiase
+K86.1	pancréatite infectieuse
+K86.1	pancréatite interstitielle
+K86.1	pancréatite héréditaire
+K86.1	pancréatite métabolique
+K86.2	kyste du pancréas
+K86.3	pseudokyste du pancréas
+K86.8	altération pancréatique de Baggenstoss
+K86.8	atrophie du pancréas
+K86.8	atrophie pancréatique
+K86.8	hypertrophie pseudolipomateuse du pancréas
+K86.8	calcul du pancréas
+K86.8	pancréatolithiase
+K86.8	pancréatoemphraxie
+K86.8	fibrose du pancréas
+K86.8	cirrhose du pancréas
+K86.8	nécrose du pancréas
+K86.8	nécrose pancréatique
+K86.8	nécrose graisseuse du pancréas
+K86.8	nécrose aseptique du pancréas
+K85	nécrose aiguë du pancréas
+K85	nécrose pancréatique aiguë
+K85	nécrose pancréatique subaiguë
+K86.8	nécrose pancréatique récidivante
+K86.8	infantilisme pancréatique
+K86.8	syndrome de Clarke-Hadefield
+K90.3	stéatorrhée pancréatique
+K86.8	insuffisance pancréatique
+K83.1	syndrome de Bard et Pic
+K83.1	syndrome de malignité pancréatique
+K83.1	syndrome de Pic
+K03.4	fragilité dentaire
+K04.9	maladie de l'endodonte
+K13.6	hyperplasie papillaire palatine
+K13.0	sécheresse labiale
+K13.0	syndrome de macrocheilie et paralysie faciale
+K14.3	langue framboise
+K14.4	glossite de Hunter
+K29.6	gastrite du moignon
+k51.0	RCUH
+K63.3	ulcère primitif de l'intestin
+K59.0	constipation d'origine médicamenteuse
+K63.8	mélanose colique
+K35.0	appendicite suppurée perforée
+K35.0	appendicite purulente perforée
+K90.8	malabsorption d'origine médicamenteuse
+K43.9	hernie de Spiegel
+K43.1	hernie épigastrique avec gangrène
+K81.9	cholécystite sans lithiase
+K81.0	abcès périvésiculaire
+K81.1	cholécystite chronique sans lithiase
+K81.1	cholécystite chronique avec lithiase
+K83.3	fistule biliobronchique
+K87.1	pancréatite secondaire à une cholélithiase
+K44.1	estomac intrathoracique nécrosé
+K44.1	estomac intrathoracique nécrosé avec occlusion
+K74.6	cirrhose infantile des Indes
+K83.1	ictère cholestatique
+K83.1	ictère cholostatique
+K83.1	ictère cholestatique aigu
+K83.1	ictère cholestatique chronique
+K76.8	ictère hépatolytique
+K71.0	cholostase intrahépatique médicamenteuse
+K90.8	trouble congénital de l'absorption du folate
+K90.8	trouble du transport de l'acide folique
+K90.8	malabsorption congénitale de l'acide folique
+K76.7	néphrose biliaire
+K76.6	splénomégalie congestive
+K76.6	splénomégalie fibrocongestive
+K76.6	maladie de Banti
+K76.6	syndrome de Banti
+K91.8	complication gastro-intestinale
+K91.4	complication d'une stomie gastro-intestinale
+K91.8	complication d'anatomose et pontage intestinaux
+K91.8	insuffisance hépatique précisée due à une intervention
+K91.8	syndrome hépato-rénal précisé dû à une intervention
+K91.3	obstruction intestinale précisée due à une intervention
+K65.0	péritonite bactérienne aiguë
+K65.8	péritonite bactérienne primaire
+K65.8	péritonite bactérienne spontanée
+K83.0	cholangite bactérienne
+K83.0	angiocholite bactérienne
+K12.1	infection streptococcique de la bouche
+K12.1	stomatite streptococcique
+K90.8+	maladie de Whipple
+K90.8+	lipodystrophie intestinale

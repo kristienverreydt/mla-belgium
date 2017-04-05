@@ -1,0 +1,40 @@
+X49.9	intoxication accidentelle
+X49.9	auto-intoxication accidentelle
+X69.9	intoxication intentionnelle suicidaire
+X85.9	intoxication intentionnelle meurtrière
+X69.9	auto-intoxication
+X44.9	surdosage accidentel
+X64.9	surdosage intentionnel
+X58.9	asphyxie par raréfaction en oxygène
+X59.9	mort accidentelle
+X59.0	mort accidentelle à domicile
+X59.6	mort accidentelle dans un lieu industriel
+X59.92	mort accidentelle au travail
+X59.2	mort accidentelle dans un lieu public
+X84.9	suicide
+X64.9	suicide par auto-administration d'une drogue
+X84.9	suicide suspecté
+X84.9	suicide probable
+X84.9	tentative de suicide
+X84.9	première tentative de suicide connue
+X84.9	tentative de suicide précédente connue
+X84.9	tentative de suicide par moyens adéquats
+X84.9	suicide par multiples moyens
+X84.9	tentative de suicide par moyens inadéquats
+X84.9	échec d'une tentative de suicide
+X84.9	geste suicidaire
+X84.9	parasuicide
+X84.9	suicide assisté
+X84.1	suicide pendant l'incarcération
+X84.1	suicide sous juridiction légale
+X59.90	victime au cours d'activités sportives
+X59.90	joueur dans un accident au cours d'une activité sportive
+X59.90	participant dans un accident au cours d'une activité sportive
+X59.90	entraîneur dans un accident au cours d'une activité sportive
+X59.9	spectateur dans un accident au cours d'une activité sportive
+X59.92	accident lié à l'emploi
+X59.92	accident du travail
+X59.92	ouvrier dans un accident lié à l'emploi
+X59.92	collègue dans un accident lié à l'emploi
+X59.92	employé dans un accident lié à l'emploi
+X59.92	visiteur dans un accident lié à l'emploi

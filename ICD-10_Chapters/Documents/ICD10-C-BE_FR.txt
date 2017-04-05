@@ -1,0 +1,1319 @@
+C43.70	mélanome malin d'un membre inférieur non spécifié, y compris la hanche
+C43.71	mélanome malin du membre inférieur droit, y compris la hanche
+C43.72	mélanome malin du membre inférieur gauche, y compris la hanche
+C43.8	mélanome malin de la peau, sites contigus
+C43.9	mélanome malin de la peau, non spécifié
+C44.00	d'autres types de néoplasme malin spécifié de la face cutanée de la lèvre supérieure
+C52	néoplasme malin du vagin
+C53.0	néoplasme malin de l'endocol
+C00.0	néoplasme malin de la lèvre supérieure, face externe
+C00.1	néoplasme malin de la lèvre inférieure, face externe
+C00.2	néoplasme malin d'une lèvre non spécifiée, face externe
+C00.3	néoplasme malin de la lèvre supérieure, face interne
+C00.4	néoplasme malin de la lèvre inférieure, face interne
+C00.5	néoplasme malin d'une lèvre non spécifiée, face interne
+C00.6	néoplasme malin de la commissure des lèvres, non spécifié
+C00.8	néoplasme malin de la lèvre, sites contigus
+C00.9	néoplasme malin de la lèvre, non spécifié
+C01	néoplasme malin de la langue, base
+C02.0	néoplasme malin de la langue, face dorsale
+C02.1	néoplasme malin de la langue, bords latéraux 
+C02.1	néoplasme malin de la langue, pointe
+C02.2	néoplasme malin de la langue, face ventrale
+C02.3	néoplasme malin des deux tiers antérieurs de la langue, partie non spécifiée
+C02.4	néoplasme malin de l'amygdale linguale
+C02.8	néoplasme malin de la langue, sites contigus
+C02.9	néoplasme malin de la langue, non spécifié
+C03.0	néoplasme malin de la gencive supérieure
+C03.1	néoplasme malin de la gencive inférieure
+C03.9	néoplasme malin de la gencive, non spécifiée
+C04.0	néoplasme malin de la bouche, plancher antérieur
+C04.1	néoplasme malin de la bouche, plancher latéral
+C04.8	néoplasme malin du plancher de la bouche, sites contigus
+C04.9	néoplasme malin du plancher de la bouche, non spécifié
+C05.0	néoplasme malin du palais osseux
+C05.1	néoplasme malin du palais mou
+C05.2	néoplasme malin de la luette
+C05.8	néoplasme malin du palais, sites contigus
+C05.9	néoplasme malin du palais, non spécifié
+C06.0	néoplasme malin de la joue, muqueuse
+C06.1	néoplasme malin de la bouche, vestibule
+C06.2	néoplasme malin de la région rétromolaire
+C06.80	néoplasme malin de parties non spécifiées de la bouche, sites contigus
+C06.89	néoplasme malin d'autres parties de la bouche non spécifiées, sites contigus
+C06.9	néoplasme malin de la bouche, non spécifié
+C07	néoplasme malin de la glande parotide
+C08.0	néoplasme malin de la glande sous-maxillaire
+C08.1	néoplasme malin de la glande sublinguale
+C08.9	néoplasme malin de la glande salivaire majeure, non spécifiée
+C09.0	néoplasme malin de la fosse amygdalienne
+C09.1	néoplasme malin de l'amygdale, pilier
+C09.1	néoplasme malin de l'amygdale, pilier antérieur
+C09.1	néoplasme malin de l'amygdale, pilier postérieur
+C09.8	néoplasme malin de l'amygdale, sites contigus
+C09.9	néoplasme malin de l'amygdale, non spécifié
+C10.0	néoplasme malin de la vallecule
+C10.1	néoplasme malin de l'épiglotte, face antérieure
+C10.2	néoplasme malin de l'oropharynx, paroi latérale
+C10.3	néoplasme malin de l'oropharynx, paroi postérieure
+C10.4	néoplasme malin du sillon branchial
+C10.8	néoplasme malin de l'oropharynx, sites contigus
+C10.9	néoplasme malin de l'oropharynx, non spécifié
+C11.0	néoplasme malin de la paroi supérieure de la rhinopharynx gauche
+C11.1	néoplasme malin de la paroi postérieure du rhinopharynx
+C11.2	néoplasme malin de la paroi latérale du rhinopharynx
+C11.3	néoplasme malin de la paroi antérieure du rhinopharynx
+C11.8	néoplasme malin de sites contigus du rhinopharynx
+C11.9	néoplasme malin du rhinopharynx, non spécifié
+C12	néoplasme malin du sinus piriforme
+C13.0	néoplasme malin de la région rétro-cricoïdienne
+C13.1	néoplasme malin du repli ary-épiglottique, face hypopharyngée
+C13.2	néoplasme malin de l'hypopharynx, paroi postérieure
+C13.8	néoplasme malin de l'hypopharynx, sites contigus
+C13.9	néoplasme malin de l'hypopharynx, non spécifié
+C14.0	néoplasme malin du pharynx, non spécifié
+C14.2	néoplasme malin de l'anneau de Waldeyer
+C14.8	néoplasme malin de la lèvre, de la cavité buccale et du pharynx, sites contigus
+C15.3	néoplasme malin de l'osophage, tiers supérieur
+C15.4	néoplasme malin de l'osophage, tiers moyen
+C15.5	néoplasme malin de l'osophage, tiers inférieur
+C15.8	néoplasme malin de l'osophage, sites contigus
+C15.9	néoplasme malin de l'oesophage, non spécifié
+C16.0	néoplasme malin du cardia
+C16.1	néoplasme malin de l'estomac, fundus
+C16.2	néoplasme malin de l'estomac, corps
+C16.3	néoplasme malin de l'antre pylorique
+C16.4	néoplasme malin du pylore
+C16.5	néoplasme malin de la petite courbure de l'estomac, non spécifié
+C16.6	néoplasme malin de la grande courbure de l'estomac, non spécifié
+C16.8	néoplasme malin de l'estomac, sites contigus
+C16.9	néoplasme malin de l'estomac, non spécifié
+C17.0	néoplasme malin du duodénum
+C17.1	néoplasme malin du jéjunum
+C17.2	néoplasme malin de l'iléon
+C17.3	néoplasme malin du diverticule de Meckel
+C17.8	néoplasme malin de l'intestin grêle, sites contigus
+C17.9	néoplasme malin de l'intestin grêle, non spécifié
+C18.0	néoplasme malin du caecum
+C18.1	néoplasme malin de l'appendice
+C18.2	néoplasme malin du côlon ascendant
+C18.3	néoplasme malin du côlon, angle hépatique
+C18.4	néoplasme malin du côlon transverse
+C18.5	néoplasme malin du côlon, angle splénique
+C18.6	néoplasme malin du côlon descendant
+C18.7	néoplasme malin du côlon sigmoïde
+C18.8	néoplasme malin du côlon, sites contigus
+C18.9	néoplasme malin du côlon, non spécifié
+C19	néoplasme malin de la jonction recto-sigmoïdienne
+C20	néoplasme malin du rectum
+C21.0	néoplasme malin de l'anus, non spécifié
+C21.1	néoplasme malin du canal anal
+C21.2	néoplasme malin du canal anal, zone transitionnelle
+C21.8	néoplasme malin du rectum, anus et canal anal, sites contigus
+C22.0	carcinome hépatocellulaire
+C22.0	hépatocarcinome
+C22.1	carcinome du canal biliaire intrahépatique
+C22.2	hépatoblastome
+C22.3	angiosarcome du foie
+C22.4	d'autres sarcomes du foie
+C22.7	d'autres carcinomes du foie spécifiés
+C22.8	néoplasme malin du foie, primaire, type non spécifié
+C22.9	néoplasme malin du foie, non spécifié
+C23	néoplasme malin de la vésicule biliaire
+C24.0	néoplasme malin des voies biliaires extra-hépatiques
+C24.1	néoplasme malin de l'ampoule de Vater
+C24.8	néoplasme malin des voies biliaires, sites contigus
+C24.9	néoplasme malin des voies biliaires, non spécifié
+C25.0	néoplasme malin du pancréas, tête
+C25.1	néoplasme malin du pancréas, corps
+C25.2	néoplasme malin du pancréas, queue
+C25.3	néoplasme malin du canal pancréatique
+C25.4	néoplasme malin du pancréas endocrine
+C25.7	néoplasme malin du pancréas, d'autres parties
+C25.8	néoplasme malin du pancréas, sites contigus
+C25.9	néoplasme malin du pancréas, non spécifié
+C26.0	néoplasme malin du tractus intestinal, partie non spécifiée
+C26.1	néoplasme malin de la rate
+C26.9	néoplasme malin du système digestif, sites mal définis
+C26.9	gastrointestinal stromal tumor
+C26.9	GIST
+C30.0	néoplasme malin des fosses nasales
+C30.1	néoplasme malin de l'oreille moyenne
+C31.0	néoplasme malin du sinus maxillaire
+C31.1	néoplasme malin du sinus ethmoïdal
+C31.2	néoplasme malin du sinus frontal
+C31.3	néoplasme malin du sinus sphénoïdal
+C31.8	néoplasme malin des sinus accessoires, sites contigus
+C31.9	néoplasme malin des sinus accessoires, non spécifié
+C32.0	néoplasme malin de la glotte
+C32.1	néoplasme malin de l'étage sus-glottique
+C32.2	néoplasme malin de l'étage sous-glottique
+C32.3	néoplasme malin du cartilage laryngé
+C32.8	néoplasme malin du larynx, sites contigus
+C32.9	néoplasme malin du larynx, non spécifié
+C33	néoplasme malin de la trachée
+C34.00	néoplasme malin de la bronche souche non spécifiée
+C34.01	néoplasme malin de la bronche souche droite
+C34.02	néoplasme malin de la bronche souche gauche
+C34.10	néoplasme malin du lobe supérieur, bronche ou poumon non spécifié
+C34.11	néoplasme malin du lobe supérieur, bronche ou poumon droit
+C34.12	néoplasme malin du lobe supérieur, bronche ou poumon gauche
+C34.2	néoplasme malin du lobe moyen, bronche ou poumon
+C34.30	néoplasme malin du lobe inférieur, bronche ou poumon non spécifié
+C34.31	néoplasme malin du lobe inférieur, bronche ou poumon droit
+C34.32	néoplasme malin du lobe inférieur, bronche ou poumon gauche
+C34.80	néoplasme malin d'une bronche et d'un poumon non spécifiés, sites contigus
+C34.81	néoplasme malin de la bronche et du poumon droits, sites contigus
+C34.82	néoplasme malin de la bronche et du poumon gauches, sites contigus
+C34.90	néoplasme malin d'une bronche ou d'un poumon non spécifié, partie non spécifiée
+C34.90	NSCLC
+C34.91	néoplasme malin de la bronche ou du poumon droit, partie non spécifiée
+C34.92	néoplasme malin de la bronche ou du poumon gauche, partie non spécifiée
+C37	néoplasme malin du thymus
+C38.0	néoplasme malin du coeur
+C38.1	néoplasme malin du médiastin antérieur
+C38.2	néoplasme malin du médiastin postérieur
+C38.3	néoplasme malin du médiastin, partie non spécifiée
+C38.4	néoplasme malin de la plèvre
+C38.8	néoplasme malin du coeur, du médiastin et de la plèvre, sites contigus
+C39.0	néoplasme malin du système respiratoire supérieur, partie non spécifiée
+C39.9	néoplasme malin du système respiratoire inférieur, partie non spécifiée
+C40.00	néoplasme malin de l'omoplate et des os longs du membre supérieur non spécifié
+C40.01	néoplasme malin de l'omoplate et des os longs du membre supérieur droit
+C40.02	néoplasme malin de l'omoplate et des os longs du membre supérieur gauche
+C40.10	néoplasme malin des os courts du membre supérieur non spécifié
+C40.11	néoplasme malin des os courts du membre supérieur droit
+C40.12	néoplasme malin des os courts du membre supérieur gauche
+C40.20	néoplasme malin des os longs du membre inférieur non spécifié
+C40.21	néoplasme malin des os longs du membre inférieur droit
+C40.22	néoplasme malin des os longs du membre inférieur gauche
+C40.30	néoplasme malin des os courts du membre inférieur non spécifié
+C40.31	néoplasme malin des os courts du membre inférieur droit
+C40.32	néoplasme malin des os courts du membre inférieur gauche
+C40.80	néoplasme malin de sites contigus des os et du cartilage articulaire du membre non spécifié
+C40.81	néoplasme malin de sites contigus des os et du cartilage articulaire du membre droit
+C40.82	néoplasme malin de sites contigus des os et du cartilage articulaire du membre gauche
+C40.90	néoplasme malin des os et du cartilage articulaire non spécifiés d'un membre non spécifié
+C40.91	néoplasme malin des os et du cartilage articulaire non spécifiés du membre droit
+C40.92	néoplasme malin des os et du cartilage articulaire non spécifiés du membre gauche
+C41.0	néoplasme malin des os du crâne et de la face
+C41.1	néoplasme malin de la mandibule
+C41.2	néoplasme malin du côlonne vertébrale
+C41.3	néoplasme malin des côtes, du sternum et de la clavicule
+C41.4	néoplasme malin des os pelviens, du sacrum et du coccyx
+C41.9	néoplasme malin de l'os et du cartilage articulaire, non spécifié
+C43.0	mélanome malin de la lèvre
+C43.10	mélanome malin d'une paupière non spécifiée, y compris le canthus
+C43.11	mélanome malin de la paupière droite, y compris le canthus
+C43.12	mélanome malin de la paupière gauche, y compris le canthus
+C43.20	mélanome malin de l'oreille et du conduit auditif externe non spécifiés
+C43.21	mélanome malin de l'oreille et du conduit auditif externe, droits
+C43.22	mélanome malin de l'oreille et du conduit auditif externe, gauches
+C43.30	mélanome malin de la face, partie non spécifiée
+C43.31	mélanome malin du nez
+C43.39	mélanome malin d'autres parties de la face
+C43.4	mélanome malin du cuir chevelu et du cou
+C43.51	mélanome malin de la peau anale
+C43.52	mélanome malin de la peau du sein
+C43.59	mélanome malin d'une autre partie du tronc
+C43.60	mélanome malin d'un membre supérieur non spécifié, y compris l'épaule
+C43.61	mélanome malin du membre supérieur droit, y compris l'épaule
+C43.62	mélanome malin du membre supérieur gauche, y compris l'épaule
+C44.01	carcinome basocellulaire de la face cutanée de la lèvre
+C44.02	carcinome spinocellulaire de la face cutanée de la lèvre
+C44.09	autre néoplasme malin spécifié de la face cutanée de la lèvre
+C44.101	néoplasme malin non spécifiée de la face cutanée d'une paupière non spécifiée, y compris le canthus
+C44.102	néoplasme malin non spécifiée de la face cutanée de la paupière droite, y compris le canthus
+C44.109	néoplasme malin non spécifiée de la face cutanée de la paupière gauche, y compris le canthus
+C44.111	carcinome basocellulaire de la face cutanée d'une paupière non spécifiée, y compris le canthus
+C44.112	carcinome basocellulaire de la face cutanée de la paupière droite, y compris le canthus
+C44.119	carcinome basocellulaire de la face cutanée de la paupière gauche, y compris le canthus
+C44.121	carcinome spinocellulaire de la face cutanée d'une paupière non spécifiée, y compris le canthus
+C44.122	carcinome spinocellulaire de la face cutanée de la paupière droite, y compris le canthus
+C44.129	carcinome spinocellulaire de la face cutanée de la paupière gauche, y compris le canthus
+C44.191	autre néoplasme malin spécifiée, de la face cutanée d'une paupière non spécifiée, y compris le canthus
+C44.192	autre néoplasme malin spécifiée, de la face cutanée de la paupière droite, y compris le canthus
+C44.199	autre néoplasme malin spécifiée, de la face cutanée de la paupière gauche, y compris le canthus
+C44.201	néoplasme malin non spécifié de la peau de l'oreille et du conduit auditif externe non spécifiés
+C44.202	néoplasme malin non spécifié de la peau de l'oreille et du conduit auditif externe droits
+C44.209	néoplasme malin non spécifié de la peau de l'oreille et du conduit auditif externe gauches
+C44.211	carcinome basocellulaire de la peau de l'oreille et du conduit auditif externe non spécifiés
+C44.212	carcinome basocellulaire de la peau de l'oreille et du conduit auditif externe droits
+C44.219	carcinome basocellulaire de la peau de l'oreille et du conduit auditif externe gauches
+C44.221	carcinome spinocellulaire de la peau de l'oreille et du conduit auditif externe non spécifiés
+C44.222	carcinome spinocellulaire de la peau de l'oreille et du conduit auditif externe droits
+C44.229	carcinome spinocellulaire de la peau de l'oreille et du conduit auditif externe gauches
+C44.291	autre néoplasme malin spécifié de la peau de l'oreille et du conduit auditif externe non spécifiés
+C44.292	autre néoplasme malin spécifié de la peau de l'oreille et du conduit auditif externe droits
+C44.299	autre néoplasme malin spécifié de la peau de l'oreille et du conduit auditif externe gauches
+C44.300	néoplasme malin non spécifié de la peau d'une partie non spécifiée de la face
+C44.301	néoplasme malin non spécifié de la peau du nez
+C44.309	néoplasme malin non spécifié de la peau d'autres parties de la face
+C44.310	carcinome basocellulaire de la peau de parties non spécifiées de la face
+C44.311	carcinome basocellulaire de la peau du nez
+C44.319	carcinome basocellulaire de la peau d'autres parties de la face
+C44.320	carcinome spinocellulaire de la peau de parties non spécifiées de la face
+C44.321	carcinome spinocellulaire de la peau du nez
+C44.329	carcinome spinocellulaire de la peau d'autres parties de la face
+C44.390	autre néoplasme malin spécifié de la peau de parties non spécifiées de la face
+C44.391	autre néoplasme malin spécifié de la peau du nez
+C44.399	autre néoplasme malin  spécifié de la peau d'autres parties de la face
+C44.40	néoplasme malin non spécifié de la peau du cuir chevelu et du le cou
+C44.41	carcinome basocellulaire de la peau du cuir chevelu et du le cou
+C44.42	carcinome spinocellulaire de la peau du cuir chevelu et du le cou
+C44.49	autre néoplasme malin spécifié de la peau du cuir chevelu et du le cou
+C44.500	néoplasme malin non spécifié de la peau de l'anus
+C44.501	néoplasme malin non spécifié de la peau du sein
+C44.509	néoplasme malin non spécifié de la peau d'une autre partie du tronc
+C44.510	carcinome basocellulaire de la peau de l'anus
+C44.511	carcinome basocellulaire de la peau du sein
+C44.519	carcinome basocellulaire de la peau d'une autre partie du tronc
+C44.520	carcinome spinocellulaire de la peau de l'anus
+C44.521	carcinome spinocellulaire de la peau du sein
+C44.529	carcinome spinocellulaire de la peau d'une autre partie du tronc
+C44.590	autre néoplasme malin spécifié de la peau de l'anus
+C44.591	autre néoplasme malin spécifié de la peau du sein
+C44.599	autre néoplasme malin spécifié de la peau d'une autre partie du tronc
+C44.601	néoplasme malin non spécifié de la peau d'un membre supérieur non spécifié, y compris l'épaule
+C44.602	néoplasme malin non spécifié de la peau du membre supérieur droit, y compris l'épaule
+C44.609	néoplasme malin non spécifié de la peau du membre supérieur gauche, y compris l'épaule
+C44.611	carcinome basocellulaire de la peau d'un membre supérieur non spécifié, y compris l'épaule
+C44.612	carcinome basocellulaire de la peau du membre supérieur droit, y compris l'épaule
+C44.619	carcinome basocellulaire de la peau du membre supérieur gauche, y compris l'épaule
+C44.621	carcinome spinocellulaire de la peau d'un membre supérieur non spécifié, y compris l'épaule
+C44.622	carcinome spinocellulaire de la peau du membre supérieur droit, y compris l'épaule
+C44.629	carcinome spinocellulaire de la peau du membre supérieur gauche, y compris l'épaule
+C44.691	autre néoplasme malin spécifié de la peau d'un membre supérieur non spécifié, y compris l'épaule
+C44.692	autre néoplasme malin spécifié de la peau du membre supérieur droit, y compris l'épaule
+C44.699	autre néoplasme malin spécifié de la peau du membre supérieur gauche, y compris l'épaule
+C44.701	néoplasme malin non spécifié de la peau d'un membre inférieur non spécifié, y compris la hanche
+C44.702	néoplasme malin non spécifié de la peau du membre inférieur droit, y compris la hanche
+C44.709	néoplasme malin non spécifié de la peau du membre inférieur gauche, y compris la hanche
+C44.711	carcinome basocellulaire de la peau d'un membre inférieur non spécifié, y compris la hanche
+C44.712	carcinome basocellulaire de la peau du membre inférieur droit, y compris la hanche
+C44.719	carcinome basocellulaire de la peau du membre inférieur gauche, y compris la hanche
+C44.721	carcinome spinocellulaire de la peau d'un membre inférieur non spécifié, y compris la hanche
+C44.722	carcinome spinocellulaire de la peau du membre inférieur droit, y compris la hanche
+C44.729	carcinome spinocellulaire de la peau du membre inférieur gauche, y compris la hanche
+C44.791	autre néoplasme malin spécifié de la peau d'un membre inférieur non spécifié, y compris la hanche
+C44.792	autre néoplasme malin spécifié de la peau du membre inférieur droit, y compris la hanche
+C44.799	autre néoplasme malin spécifié de la peau du membre inférieur gauche, y compris la hanche
+C44.80	néoplasme malin non spécifié de sites contigus de la peau
+C44.81	carcinome basocellulaire de sites contigus de la peau
+C44.82	carcinome spinocellulaire de sites contigus de la peau
+C44.89	autre néoplasme malin spécifié de sites contigus de la peau
+C44.90	néoplasme malin non spécifié de la peau, non spécifié
+C44.91	carcinome basocellulaire de la peau, non spécifié
+C44.92	carcinome spinocellulaire de la peau, non spécifié
+C44.99	autre néoplasme malin spécifié de la peau, non spécifié
+C45.0	mésothéliome de la plèvre
+C45.1	mésothéliome du péritoine
+C45.2	mésothéliome du péricarde
+C45.7	mésothéliome d'autres sites
+C45.9	mésothéliome, non spécifié
+C46.0	sarcome de Kaposi de la peau
+C46.1	sarcome de Kaposi des tissus mous
+C46.2	sarcome de Kaposi du palais
+C46.3	sarcome de Kaposi des ganglions lymphatiques
+C46.4	sarcome de Kaposi des sites gastro-intestinaux
+C46.50	sarcome de Kaposi du poumon non spécifié
+C46.51	sarcome de Kaposi du poumon droit
+C46.52	sarcome de Kaposi du poumon gauche
+C46.7	sarcome de Kaposi d'autres sites
+C46.9	sarcome de Kaposi, non spécifié
+C47.0	néoplasme malin des nerfs périphériques de la tête
+C47.0	néoplasme malin des nerfs périphériques de la face
+C47.0	néoplasme malin des nerfs périphériques du cou
+C47.10	néoplasme malin des nerfs périphériques d'un membre supérieur non spécifié, y compris l'épaule
+C47.11	néoplasme malin des nerfs périphériques du membre supérieur droit, y compris l'épaule
+C47.12	néoplasme malin des nerfs périphériques du membre supérieur gauche, y compris l'épaule
+C47.20	néoplasme malin des nerfs périphériques d'un membre inférieur non spécifié, y compris l'épaule
+C47.21	néoplasme malin des nerfs périphériques du membre inférieur droit, y compris la hanche
+C47.22	néoplasme malin des nerfs périphériques du membre inférieur gauche, y compris la hanche
+C47.3	néoplasme malin des nerfs périphériques du thorax
+C47.4	néoplasme malin des nerfs périphériques de l'abdomen
+C47.5	néoplasme malin des nerfs périphériques du bassin
+C47.6	néoplasme malin des nerfs périphériques du tronc, non spécifié
+C47.8	néoplasme malin des nerfs périphériques et du système nerveux autonome, sites contigus
+C47.9	néoplasme malin des nerfs périphériques et du système nerveux autonome, non spécifié
+C48.0	néoplasme malin du rétropéritoine
+C48.1	néoplasme malin de parties spécifiées du péritoine
+C48.2	néoplasme malin du péritoine, non spécifié
+C48.8	néoplasme malin du rétropéritoine et du péritoine, sites contigus
+C49.0	néoplasme malin des tissus conjonctifs et des tissus mous de la tête
+C49.0	néoplasme malin des tissus conjonctifs et des tissus mous de la face
+C49.0	néoplasme malin des tissus conjonctifs et des tissus mous du cou
+C49.10	néoplasme malin des tissus conjonctifs et des tissus mous d'un membre supérieur non spécifié, y compris l'épaule
+C49.11	néoplasme malin des tissus conjonctifs et des tissus mous du membre supérieur droit, y compris l'épaule
+C49.12	néoplasme malin des tissus conjonctifs et des tissus mous du membre supérieur gauche, y compris l'épaule
+C49.20	néoplasme malin des tissus conjonctifs et des tissus mous d'un membre inférieur non spécifié, y compris la hanche
+C49.21	néoplasme malin des tissus conjonctifs et des tissus mous du membre inférieur droit, y compris la hanche
+C49.22	néoplasme malin des tissus conjonctifs et des tissus mous du membre inférieur gauche, y compris la hanche
+C49.3	néoplasme malin des tissus conjonctifs et des tissus mous du thorax
+C49.4	néoplasme malin des tissus conjonctifs et des tissus mous de l'abdomen
+C49.5	néoplasme malin des tissus conjonctifs et des tissus mous du bassin
+C49.6	néoplasme malin des tissus conjonctifs et des tissus mous du tronc, non spécifiés
+C49.8	néoplasme malin des tissus conjonctifs et des tissus mous, sites contigus
+C49.9	néoplasme malin des tissus conjonctifs et des tissus mous, non spécifiés
+C4A.0	carcinome à cellules de Merkel de la lèvre
+C4A.10	carcinome à cellules de Merkel d'une paupière non spécifiée, y compris le canthus
+C4A.11	carcinome à cellules de Merkel de la paupière droite, y compris le canthus
+C4A.12	carcinome à cellules de Merkel de la paupière gauche, y compris le canthus
+C4A.20	carcinome à cellules de Merkel de l'oreille et du conduit auditif externe non spécifiés
+C4A.21	carcinome à cellules de Merkel de l'oreille et du conduit auditif externe droits
+C4A.22	carcinome à cellules de Merkel de l'oreille et du conduit auditif externe gauches
+C4A.30	carcinome à cellules de Merkel de parties non spécifiées de la face
+C4A.31	carcinome à cellules de Merkel du nez
+C4A.39	carcinome à cellules de Merkel d'autres parties de la face
+C4A.4	carcinome à cellules de Merkel du cuir chevelu et du le cou
+C4A.51	carcinome à cellules de Merkel de la peau anale
+C4A.52	carcinome à cellules de Merkel de la peau du sein
+C4A.59	carcinome à cellules de Merkel d'une autre partie du tronc
+C4A.60	carcinome à cellules de Merkel d'un membre supérieur non spécifié, y compris l'épaule
+C4A.61	carcinome à cellules de Merkel du membre supérieur droit, y compris l'épaule
+C4A.62	carcinome à cellules de Merkel du membre supérieur gauche, y compris l'épaule
+C4A.70	carcinome à cellules de Merkel d'un membre inférieur non spécifié, y compris la hanche
+C4A.71	carcinome à cellules de Merkel du membre inférieur droit, y compris la hanche
+C4A.72	carcinome à cellules de Merkel du membre inférieur gauche, y compris la hanche
+C4A.8	carcinome à cellules de Merkel, sites contigus
+C4A.9	carcinome à cellules de Merkel, non spécifié
+C50.0	néoplasme malin du mamelon
+C50.0	néoplasme malin de l'aréole
+C50.011	néoplasme malin du mamelon droit, féminin
+C50.011	néoplasme malin de l'aréole droite, féminin
+C50.012	néoplasme malin du mamelon gauche, féminin
+C50.012	néoplasme malin de l'aréole gauche, féminin
+C50.019	néoplasme malin du mamelon, féminin
+C50.019	néoplasme malin de l'aréole, féminin
+C50.021	néoplasme malin du mamelon droit, masculin
+C50.021	néoplasme malin de l'aréole droite, masculin
+C50.022	néoplasme malin du mamelon gauche, masculin
+C50.022	néoplasme malin de l'aréole gauche, masculin
+C50.029	néoplasme malin du mamelon, masculin
+C50.029	néoplasme malin de l'aréole, masculin
+C50.1	néoplasme malin de la partie centrale du sein
+C50.111	néoplasme malin de la partie centrale du sein droit, féminin
+C50.112	néoplasme malin de la partie centrale du sein gauche, féminin
+C50.119	néoplasme malin de la partie centrale d'un sein non spécifié, féminin
+C50.121	néoplasme malin de la partie centrale du sein droit, masculin
+C50.122	néoplasme malin de la partie centrale du sein gauche, masculin
+C50.129	néoplasme malin de la partie centrale du sein non spécifié, masculin
+C50.2	néoplasme malin du quadrant supéro-interne du sein
+C50.211	néoplasme malin du quadrant supéro-interne du sein droit, féminin
+C50.212	néoplasme malin du quadrant supéro-interne du sein gauche, féminin
+C50.219	néoplasme malin du quadrant supéro-interne du sein non spécifié, féminin
+C50.221	néoplasme malin du sein droit, quadrant supéro-interne, masculin
+C50.222	néoplasme malin du sein gauche, quadrant supéro-interne, masculin
+C50.229	néoplasme malin d'un sein non spécifié, quadrant supéro-interne, masculin
+C50.3	néoplasme malin du quadrant inféro-interne du sein
+C50.311	néoplasme malin du quadrant inféro-interne du sein droit, féminin
+C50.312	néoplasme malin du quadrant inféro-interne du sein gauche, féminin
+C50.319	néoplasme malin du quadrant inféro-interne du sein non spécifié, féminin
+C50.321	néoplasme malin du quadrant inféro-interne du sein droit, masculin
+C50.322	néoplasme malin du quadrant inféro-interne du sein gauche, masculin
+C50.329	néoplasme malin du quadrant inféro-interne du sein non spécifié, masculin
+C50.4	néoplasme malin du quadrant supéro-externe du sein
+C50.411	néoplasme malin du quadrant supéro-externe du sein droit, féminin
+C50.412	néoplasme malin du quadrant supéro-externe du sein gauche, féminin
+C50.419	néoplasme malin du quadrant supéro-externe du sein non spécifié, féminin
+C50.421	néoplasme malin du quadrant supéro-externe du sein droit, masculin
+C50.422	néoplasme malin du quadrant supéro-externe du sein gauche, masculin
+C50.429	néoplasme malin du quadrant supéro-externe du sein non spécifié, masculin
+C50.5	néoplasme malin du quadrant inféro-externe du sein
+C50.511	néoplasme malin du quadrant inféro-externe du sein droit, féminin
+C50.512	néoplasme malin du quadrant inféro-externe du sein gauche, féminin
+C50.519	néoplasme malin du quadrant inféro-externe du sein non spécifié, féminin
+C50.521	néoplasme malin du quadrant inféro-externe du sein droit, masculin
+C50.522	néoplasme malin du quadrant inféro-externe du sein gauche, masculin
+C50.529	néoplasme malin du quadrant inféro-externe du sein non spécifié, masculin
+C50.6	néoplasme malin du prolongement axillaire du sein
+C50.611	néoplasme malin du prolongement axillaire du sein droit, féminin
+C50.612	néoplasme malin du prolongement axillaire du sein gauche, féminin
+C50.619	néoplasme malin du prolongement axillaire du sein non spécifié, féminin
+C50.621	néoplasme malin du prolongement axillaire du sein droit, masculin
+C50.622	néoplasme malin du prolongement axillaire du sein gauche, masculin
+C50.629	néoplasme malin du prolongement axillaire du sein non spécifié, masculin
+C50.8	néoplasme malin de sites contigus du sein
+C50.811	néoplasme malin de sites contigus du sein droit, féminin
+C50.812	néoplasme malin de sites contigus du sein gauche, féminin
+C50.819	néoplasme malin de sites contigus du sein non spécifié, féminin
+C50.821	néoplasme malin de sites contigus du sein droit, masculin
+C50.822	néoplasme malin de sites contigus du sein gauche, masculin
+C50.829	néoplasme malin de sites contigus du sein non spécifié, masculin
+C50.9	carcinome du sein
+C50.9	néoplasme malin d'un site non spécifié du sein
+C50.911	néoplasme malin d'un site non spécifié du sein droit, féminin
+C50.912	néoplasme malin d'un site non spécifié du sein gauche, féminin
+C50.919	néoplasme malin d'un site non spécifié d'un sein non spécifié, féminin
+C50.921	néoplasme malin d'un site non spécifié du sein droit, masculin
+C50.922	néoplasme malin d'un site non spécifié du sein gauche, masculin
+C50.929	néoplasme malin d'un site non spécifié d'un sein non spécifié, masculin
+C51.0	néoplasme malin de la grande lèvre
+C51.1	néoplasme malin de la petite lèvre
+C51.2	néoplasme malin du clitoris
+C51.8	néoplasme malin de sites contigus de la vulve
+C51.9	néoplasme malin de la vulve, non spécifié
+C52	néoplasme malin du vagin
+C53.0	néoplasme malin de l'endocol
+C53.1	néoplasme malin de l'exocol
+C53.8	néoplasme malin de sites contigus du col de l'utérus
+C53.9	néoplasme malin du col de l'utérus, non spécifié
+C54.0	néoplasme malin de l'isthme utérin
+C54.1	néoplasme malin de l'endomètre
+C54.2	néoplasme malin du myomètre
+C54.3	néoplasme malin du fond utérin
+C54.8	néoplasme malin de sites contigus du corps utérin
+C54.9	néoplasme malin du corps utérin, non spécifié
+C55	néoplasme malin de l'utérus, partie non spécifiée
+C56.1	néoplasme malin de l'ovaire droit
+C56.2	néoplasme malin de l'ovaire gauche
+C56.9	néoplasme malin de l'ovaire non spécifié
+C57.00	néoplasme malin de la trompe de Fallope non spécifiée
+C57.01	néoplasme malin de la trompe de Fallope droite
+C57.02	néoplasme malin de la trompe de Fallope gauche
+C57.10	néoplasme malin du ligament large non spécifié
+C57.11	néoplasme malin du ligament large droit
+C57.12	néoplasme malin du ligament large gauche
+C57.20	néoplasme malin du ligament rond non spécifié
+C57.21	néoplasme malin du ligament rond droit
+C57.22	néoplasme malin du ligament rond gauche
+C57.3	néoplasme malin du paramètre
+C57.4	néoplasme malin de l'annexe utérine, non spécifiée
+C57.7	néoplasme malin d'autres organes génitaux spécifiés, féminin
+C57.8	néoplasme malin des organes génitaux, sites contigus, féminin
+C57.9	néoplasme malin de l'organe génital, non spécifié, féminin
+C58	néoplasme malin du placenta
+C60.0	néoplasme malin du prépuce
+C60.1	néoplasme malin du gland
+C60.2	néoplasme malin du corps de la verge
+C60.8	néoplasme malin de sites contigus de la verge
+C60.9	néoplasme malin de la verge, non spécifié
+C61	néoplasme malin de la prostate
+C62.00	néoplasme malin du testicule non descendu non spécifié
+C62.01	néoplasme malin du testicule droit non descendu
+C62.02	néoplasme malin du testicule gauche non descendu
+C62.10	néoplasme malin du testicule descendu non spécifié
+C62.11	néoplasme malin du testicule descendu droit
+C62.12	néoplasme malin du testicule descendu gauche
+C62.90	néoplasme malin d'un testicule non spécifié, migration non spécifiée
+C62.91	néoplasme malin du testicule droit, migration non spécifiée
+C62.92	néoplasme malin du testicule gauche, migration non spécifiée
+C63.00	néoplasme malin de l'épididyme non spécifié
+C63.01	néoplasme malin de l'épididyme droit
+C63.02	néoplasme malin de l'épididyme gauche
+C63.10	néoplasme malin du cordon spermatique non spécifié
+C63.11	néoplasme malin du cordon spermatique droit
+C63.12	néoplasme malin du cordon spermatique gauche
+C63.2	néoplasme malin du scrotum
+C63.7	néoplasme malin d'autres organes génitaux spécifiés, masculin
+C63.8	néoplasme malin de sites contigus des organes génitaux, masculin
+C63.9	néoplasme malin de l'organe génital, non spécifié, masculin
+C64.1	néoplasme malin du rein droit, à l'exception du bassinet
+C64.1	hypernéphrome du rein droit
+C64.1	néphrome du rein droit
+C64.2	néoplasme malin du rein gauche, à l'exception du bassinet
+C64.2	hypernéphrome du rein gauche
+C64.2	néphrome du rein gauche
+C64.9	néoplasme malin d'un rein non spécifié, à l'exception du bassinet
+C64.9	hypernéphrome
+C64.9	néphrome
+C64.9	tumeur de Gravitz
+C65.1	néoplasme malin du bassinet droit
+C65.2	néoplasme malin du bassinet gauche
+C65.9	néoplasme malin du bassinet non spécifié
+C66.1	néoplasme malin de l'uretère droit
+C66.2	néoplasme malin de l'uretère gauche
+C66.9	néoplasme malin de l'uretère non spécifié
+C67.0	néoplasme malin du trigone vésical
+C67.1	néoplasme malin du dôme vésical
+C67.2	néoplasme malin de la paroi latérale de la vessie
+C67.3	néoplasme malin de la paroi antérieure de la vessie
+C67.4	néoplasme malin de la paroi postérieure de la vessie
+C67.5	néoplasme malin du col vésical
+C67.6	néoplasme malin de l'orifice urétéral
+C67.7	néoplasme malin de l'ouraque
+C67.8	néoplasme malin de sites contigus de la vessie
+C67.9	néoplasme malin de la vessie, non spécifié
+C68.0	néoplasme malin de l'urètre
+C68.1	néoplasme malin de la glandes para-urétrales
+C68.8	néoplasme malin de sites contigus des organes urinaires
+C68.9	néoplasme malin d'un organe urinaire, non spécifié
+C69.00	néoplasme malin de la conjonctive non spécifiée
+C69.01	néoplasme malin de la conjonctive droite
+C69.02	néoplasme malin de la conjonctive gauche
+C69.10	néoplasme malin de la cornée non spécifiée
+C69.11	néoplasme malin de la cornée droite
+C69.12	néoplasme malin de la cornée gauche
+C69.20	néoplasme malin de la rétine non spécifiée
+C69.21	néoplasme malin de la rétine droite
+C69.22	néoplasme malin de la rétine gauche
+C69.30	néoplasme malin de la choroïde non spécifiée
+C69.31	néoplasme malin de la choroïde droite
+C69.32	néoplasme malin de la choroïde gauche
+C69.40	néoplasme malin du corps ciliaire non spécifié
+C69.41	néoplasme malin du corps ciliaire droit
+C69.42	néoplasme malin du corps ciliaire gauche
+C69.50	néoplasme malin de la glande lacrymale et du canal lacrymal non spécifiés
+C69.51	néoplasme malin de la glande lacrymale et du canal lacrymal droits
+C69.52	néoplasme malin de la glande lacrymale et du canal lacrymal gauches
+C69.60	néoplasme malin de l'orbite non spécifiée
+C69.61	néoplasme malin de l'orbite droite
+C69.62	néoplasme malin de l'orbite gauche
+C69.80	néoplasme malin de sites contigus d'un oeil et des annexes non spécifiés
+C69.81	néoplasme malin de sites contigus d'un oeil et des annexes droits
+C69.82	néoplasme malin de sites contigus d'un oeil et des annexes gauches
+C69.90	néoplasme malin d'un site non spécifié d'un oeil non spécifié
+C69.91	néoplasme malin d'un site non spécifié de l'oeil droit
+C69.92	néoplasme malin d'un site non spécifié de l'oeil gauche
+C70.0	néoplasme malin des méninges cérébrales
+C70.1	néoplasme malin des méninges rachidiennes
+C70.9	néoplasme malin des méninges, non spécifiées
+C71.0	néoplasme malin du cerveau, sauf les lobes et les ventricules
+C71.1	néoplasme malin du lobe frontal
+C71.2	néoplasme malin du lobe temporal
+C71.3	néoplasme malin du lobe pariétal
+C71.4	néoplasme malin du lobe occipital
+C71.5	néoplasme malin du ventricule cérébral
+C71.6	néoplasme malin du cervelet
+C71.6	médulloblastome du cervelet
+C71.6	médulloblastome
+C71.7	néoplasme malin du tronc cérébral
+C71.8	néoplasme malin du cerveau, sites contigus
+C71.9	néoplasme malin du cerveau, non spécifié
+C71	glioblastome, non spécifié
+C71	gliome, non spécifié
+C72.0	néoplasme malin de la moelle épinière
+C72.1	néoplasme malin de la queue de cheval
+C72.20	néoplasme malin du nerf olfactif non spécifié
+C72.21	néoplasme malin du nerf olfactif droit
+C72.22	néoplasme malin du nerf olfactif gauche
+C72.30	néoplasme malin du nerf optique non spécifié
+C72.31	néoplasme malin du nerf optique droit
+C72.32	néoplasme malin du nerf optique gauche
+C72.40	néoplasme malin du nerf auditif non spécifié
+C72.41	néoplasme malin du nerf auditif droit
+C72.42	néoplasme malin du nerf auditif gauche
+C72.50	néoplasme malin d'un nerf crânien non spécifié
+C72.59	néoplasme malin d'autres nerfs crâniens
+C72.9	néoplasme malin du système nerveux central, non spécifié
+C73	néoplasme malin de la thyroïde
+C74.00	néoplasme malin de la corticosurrénale non spécifiée
+C74.01	néoplasme malin de la corticosurrénale droite
+C74.02	néoplasme malin de la corticosurrénale gauche
+C74.10	néoplasme malin de la médullosurrénale non spécifié
+C74.11	néoplasme malin de la médullosurrénale droite
+C74.12	néoplasme malin de la médullosurrénale gauche
+C74.90	néoplasme malin d'une partie non spécifiée de la surrénale non spécifiée
+C74.91	néoplasme malin d'une partie non spécifiée de la surrénale droite
+C74.92	néoplasme malin d'une partie non spécifiée de la surrénale gauche
+C75.0	néoplasme malin de la parathyroïde
+C75.1	néoplasme malin de l'hypophyse
+C75.2	néoplasme malin du canal cranio-pharyngien
+C75.3	néoplasme malin de l'épiphyse
+C75.4	néoplasme malin du glomus carotidien
+C75.5	néoplasme malin du glomus aortique et d'autres paraganglions
+C75.8	néoplasme malin avec une atteinte pluriglandulaire, non spécifiée
+C75.9	néoplasme malin de la glande endocrine, non spécifiée
+C76.0	néoplasme malin de la tête, de la face et du cou
+C76.1	néoplasme malin du thorax
+C76.2	néoplasme malin de l'abdomen
+C76.3	néoplasme malin du bassin
+C76.40	néoplasme malin du membre supérieur non spécifié
+C76.41	néoplasme malin du membre supérieur droit
+C76.42	néoplasme malin du membre supérieur gauche
+C76.50	néoplasme malin du membre inférieur non spécifié
+C76.51	néoplasme malin du membre inférieur droit
+C76.52	néoplasme malin du membre inférieur gauche
+C76.8	néoplasme malin d'autres sites spécifiés mal définis
+C77.0	néoplasme malin secondaire et non spécifié des ganglions lymphatiques de la tête
+C77.0	néoplasme malin secondaire et non spécifié des ganglions lymphatiques de la face
+C77.0	néoplasme malin secondaire et non spécifié des ganglions lymphatiques du le cou
+C77.1	néoplasme malin secondaire et non spécifié des ganglions lymphatiques intrathoraciques
+C77.2	néoplasme malin secondaire et non spécifié des ganglions lymphatiques intra-abdominaux
+C77.3	néoplasme malin secondaire et non spécifié des ganglions lymphatiques axillaires et du membre supérieur
+C77.4	néoplasme malin secondaire et non spécifié des ganglions lymphatiques inguinaux et du membre inférieur
+C77.5	néoplasme malin secondaire et non spécifié des ganglions lymphatiques intrapelviens
+C77.8	néoplasme malin secondaire et non spécifié des ganglions lymphatiques de sièges multiples
+C77.9	néoplasme malin secondaire et non spécifié d'un ganglion lymphatique non spécifié
+C77.0	adénopathie de la tête, de la face et du cou
+C77.1	adénopathie intrathoraciques
+C77.2	adénopathie intra-abdominaux
+C77.3	adénopathie axillaires et du membre supérieur
+C77.4	adénopathie inguinaux et du membre inférieur
+C77.5	adénopathie intrapelviens
+C77.8	adénopathie de sièges multiples
+C77.9	adénopathie non spécifié
+C78.00	néoplasme malin secondaire du poumon non spécifié
+C78.01	néoplasme malin secondaire du poumon droit
+C78.02	néoplasme malin secondaire du poumon gauche
+C78.1	néoplasme malin secondaire du médiastin
+C78.2	néoplasme malin secondaire de la plèvre
+C78.30	néoplasme malin secondaire d'un organe respiratoire non spécifié
+C78.39	néoplasme malin secondaire d'autres organes respiratoires
+C78.4	néoplasme malin secondaire de l'intestin grêle
+C78.5	néoplasme malin secondaire du gros intestin et du rectum
+C78.6	néoplasme malin secondaire du rétropéritoine et du péritoine
+C78.7	néoplasme malin secondaire du foie et des voies biliaires intra-hépatiques
+C78.80	néoplasme malin secondaire d'un organe digestif non spécifié
+C78.89	néoplasme malin secondaire d'autres organes digestifs
+C79.00	néoplasme malin secondaire du rein et du bassinet non spécifiés
+C79.01	néoplasme malin secondaire du rein et du bassinet droits
+C79.02	néoplasme malin secondaire du rein et du bassinet gauche
+C79.10	néoplasme malin secondaire des organes urinaires non spécifiés
+C79.11	néoplasme malin secondaire de la vessie
+C79.19	néoplasme malin secondaire d'autres organes urinaires
+C79.2	néoplasme malin secondaire de la peau
+C79.31	néoplasme malin secondaire du cerveau
+C79.32	néoplasme malin secondaire des méninges cérébrales
+C79.40	néoplasme malin secondaire d'une partie non spécifiée du système nerveux
+C79.49	néoplasme malin secondaire d'autres parties du système nerveux
+C79.51	néoplasme malin secondaire des os
+C79.52	néoplasme malin secondaire de la moelle osseuse
+C79.60	néoplasme malin secondaire de l'ovaire non spécifié
+C79.61	néoplasme malin secondaire de l'ovaire droit
+C79.62	néoplasme malin secondaire de l'ovaire gauche
+C79.70	néoplasme malin secondaire de la surrénale non spécifiée
+C79.71	néoplasme malin secondaire de la surrénale droite
+C79.72	néoplasme malin secondaire de la surrénale gauche
+C79.81	néoplasme malin secondaire du sein
+C79.82	néoplasme malin secondaire des organes génitaux
+C79.89	néoplasme malin secondaire d'autres sites spécifiés
+C79.9	néoplasme malin secondaire d'un site non spécifié
+C7A.00	tumeur maligne carcinoide d'un site non spécifié
+C7A.010	tumeur maligne carcinoide du duodénum
+C7A.011	tumeur maligne carcinoide du jéjunum
+C7A.012	tumeur maligne carcinoide de l'iléon
+C7A.019	tumeur maligne carcinoide de l'intestin grêle, segment non spécifié
+C7A.020	tumeur maligne carcinoide de l'appendice
+C7A.021	tumeur maligne carcinoide du caecum
+C7A.022	tumeur maligne carcinoide du côlon ascendant
+C7A.023	tumeur maligne carcinoide du côlon transverse
+C7A.024	tumeur maligne carcinoide du côlon descendant
+C81.9	lymphome hodgkinien, non spécifié
+C81.93	lymphome hodgkinien, non spécifié, ganglions lymphatiques intra-abdominaux
+C81.94	lymphome hodgkinien, non spécifié, ganglions lymphatiques axillaires et du membre supérieur
+C81.95	lymphome hodgkinien, non spécifié, ganglions lymphatiques inguinaux et du membre inférieur
+C81.96	lymphome hodgkinien, non spécifié, ganglions lymphatiques intrapelviens
+C81.97	lymphome hodgkinien, non spécifié, rate
+C81.98	lymphome hodgkinien, non spécifié, ganglions lymphatiques de sites multiples
+C81.99	lymphome hodgkinien, non spécifié, sites extraganglionnaires et organes solides
+C84.77	lymphome anaplasique à grandes cellules, ALK-négatif, rate
+C84.78	lymphome anaplasique à grandes cellules, ALK-négatif, ganglions lymphatiques de sites multiples
+C84.79	lymphome anaplasique à grandes cellules, ALK-négatif, sites extraganglionnaires et organes solides
+C84.90	lymphomes à cellules T/NK matures, non spécifiés, site non spécifié
+C84.91	lymphomes à cellules T/NK matures, non spécifiés, ganglions lymphatiques de la tête
+C84.91	lymphomes à cellules T/NK matures, non spécifiés, ganglions lymphatiques de la face
+C84.91	lymphomes à cellules T/NK matures, non spécifiés, ganglions lymphatiques du le cou
+C84.92	lymphomes à cellules T/NK matures, non spécifiés, ganglions lymphatiques intrathoraciques
+C7A.025	tumeur maligne carcinoide du côlon sigmoïde
+C7A.026	tumeur maligne carcinoide du rectum
+C7A.029	tumeur maligne carcinoide du gros intestin, segment non spécifié
+C7A.090	tumeur maligne carcinoide de la bronche et du poumon
+C7A.091	tumeur maligne carcinoide du thymus
+C7A.092	tumeur maligne carcinoide de l'estomac
+C7A.093	tumeur maligne carcinoide du rein
+C7A.094	tumeur maligne carcinoide du tube digestif supérieur, non spécifié autrement
+C7A.095	tumeur maligne carcinoide du tube digestif moyen, non spécifié autrement
+C7A.096	tumeur maligne carcinoide du tube digestif inférieur, non spécifié autrement
+C7A.098	tumeurs malignes carcinoïdes d'autres sites
+C7A.1	tumeurs malignes neuroendocrines peu différenciées
+C7A.8	d'autres tumeurs neuroendocrines malignes
+C7B.00	tumeurs carcinoïdes secondaires, site non spécifié
+C7B.01	tumeurs carcinoïdes secondaires des ganglions à distance
+C7B.02	tumeurs carcinoïdes secondaires du foie
+C7B.03	tumeurs carcinoïdes secondaires des os
+C7B.04	tumeurs carcinoïdes secondaires du péritoine
+C7B.09	tumeurs carcinoïdes secondaires d'autres sites
+C7B.1	carcinome à cellules de Merkel secondaire
+C7B.8	d'autres tumeurs neuroendocrines secondaires
+C80.0	néoplasme malin disséminé, non spécifié
+C80.1	néoplasme malin, non spécifié
+C80.1	néoplasme malin primaire, non spécifié
+C80.2	néoplasme malin associé avec la greffe d'un organe
+C81.00	lymphome hodgkinien nodulaire à prédominance lymphocytaire, site non spécifié
+C81.01	lymphome hodgkinien nodulaire à prédominance lymphocytaire, ganglions lymphatiques de la tête
+C81.01	lymphome hodgkinien nodulaire à prédominance lymphocytaire, ganglions lymphatiques de la face
+C81.01	lymphome hodgkinien nodulaire à prédominance lymphocytaire, ganglions lymphatiques du le cou
+C81.02	lymphome hodgkinien nodulaire à prédominance lymphocytaire, ganglions lymphatiques intrathoraciques
+C81.03	lymphome hodgkinien nodulaire à prédominance lymphocytaire, ganglions lymphatiques intra-abdominaux
+C81.04	lymphome hodgkinien nodulaire à prédominance lymphocytaire, ganglions lymphatiques axillaires et du membre supérieur
+C81.05	lymphome hodgkinien nodulaire à prédominance lymphocytaire, ganglions lymphatiques inguinaux et du membre inférieur
+C81.06	lymphome hodgkinien nodulaire à prédominance lymphocytaire, ganglions lymphatiques intrapelviens
+C81.07	lymphome hodgkinien nodulaire à prédominance lymphocytaire, rate
+C81.08	lymphome hodgkinien nodulaire à prédominance lymphocytaire, ganglions lymphatiques de sites multiples
+C81.09	lymphome hodgkinien nodulaire à prédominance lymphocytaire, sites extraganglionnaires et organes solides
+C81.10	lymphome hodgkinien classique scléro-nodulaire, site non spécifié
+C81.11	lymphome hodgkinien classique scléro-nodulaire, ganglions lymphatiques de la tête
+C81.11	lymphome hodgkinien classique scléro-nodulaire, ganglions lymphatiques de la face
+C81.11	lymphome hodgkinien classique scléro-nodulaire, ganglions lymphatiques du le cou
+C81.12	lymphome hodgkinien classique scléro-nodulaire, ganglions lymphatiques intrathoraciques
+C81.13	lymphome hodgkinien classique scléro-nodulaire, ganglions lymphatiques intra-abdominaux
+C81.14	lymphome hodgkinien classique scléro-nodulaire, ganglions lymphatiques axillaires et du membre supérieur
+C81.15	lymphome hodgkinien classique scléro-nodulaire, ganglions lymphatiques inguinaux et du membre inférieur
+C81.16	lymphome hodgkinien classique scléro-nodulaire, ganglions lymphatiques intrapelviens
+C81.17	lymphome hodgkinien classique scléro-nodulaire, rate
+C81.18	lymphome hodgkinien classique scléro-nodulaire, ganglions lymphatiques de sites multiples
+C81.19	lymphome hodgkinien classique scléro-nodulaire, sites extraganglionnaires et organes solides
+C81.20	lymphome hodgkinien classique à cellularité mixte, site non spécifié
+C81.21	lymphome hodgkinien classique à cellularité mixte, ganglions lymphatiques de la tête
+C81.21	lymphome hodgkinien classique à cellularité mixte, ganglions lymphatiques de la face
+C81.21	lymphome hodgkinien classique à cellularité mixte, ganglions lymphatiques du le cou
+C81.22	lymphome hodgkinien classique à cellularité mixte, ganglions lymphatiques intrathoraciques
+C81.23	lymphome hodgkinien classique à cellularité mixte, ganglions lymphatiques intra-abdominaux
+C81.24	lymphome hodgkinien classique à cellularité mixte, ganglions lymphatiques axillaires et du membre supérieur
+C81.25	lymphome hodgkinien classique à cellularité mixte, ganglions lymphatiques inguinaux et du membre inférieur
+C81.26	lymphome hodgkinien classique à cellularité mixte, ganglions lymphatiques intrapelviens
+C81.27	lymphome hodgkinien classique à cellularité mixte, rate
+C81.28	lymphome hodgkinien classique à cellularité mixte, ganglions lymphatiques de sites multiples
+C81.29	lymphome hodgkinien classique à cellularité mixte, sites extraganglionnaires et organes solides
+C81.30	lymphome hodgkinien classique avec déplétion lymphocytaire, site non spécifié
+C81.31	lymphome hodgkinien classique avec déplétion lymphocytaire, ganglions lymphatiques de la tête
+C81.31	lymphome hodgkinien classique avec déplétion lymphocytaire, ganglions lymphatiques de la face
+C81.31	lymphome hodgkinien classique avec déplétion lymphocytaire, ganglions lymphatiques du le cou
+C81.32	lymphome hodgkinien classique avec déplétion lymphocytaire, ganglions lymphatiques intrathoraciques
+C81.33	lymphome hodgkinien classique avec déplétion lymphocytaire, ganglions lymphatiques intra-abdominaux
+C81.34	lymphome hodgkinien classique avec déplétion lymphocytaire, ganglions lymphatiques axillaires et du membre supérieur
+C81.35	lymphome hodgkinien classique avec déplétion lymphocytaire, ganglions lymphatiques inguinaux et du membre inférieur
+C81.36	lymphome hodgkinien classique avec déplétion lymphocytaire, ganglions lymphatiques intrapelviens
+C81.37	lymphome hodgkinien classique avec déplétion lymphocytaire, rate
+C81.38	lymphome hodgkinien classique avec déplétion lymphocytaire, ganglions lymphatiques de sites multiples
+C81.39	lymphome hodgkinien classique avec déplétion lymphocytaire, sites extraganglionnaires et organes solides
+C81.40	lymphome hodgkinien classique riche en lymphocytes, site non spécifié
+C81.41	lymphome hodgkinien classique riche en lymphocytes, ganglions lymphatiques de la tête
+C81.41	lymphome hodgkinien classique riche en lymphocytes, ganglions lymphatiques de la face
+C81.41	lymphome hodgkinien classique riche en lymphocytes, ganglions lymphatiques du le cou
+C81.42	lymphome hodgkinien classique riche en lymphocytes, ganglions lymphatiques intrathoraciques
+C81.43	lymphome hodgkinien classique riche en lymphocytes, ganglions lymphatiques intra-abdominaux
+C81.44	lymphome hodgkinien classique riche en lymphocytes, ganglions lymphatiques axillaires et du membre supérieur
+C81.45	lymphome hodgkinien classique riche en lymphocytes, ganglions lymphatiques inguinaux et du membre inférieur
+C81.46	lymphome hodgkinien classique riche en lymphocytes, ganglions lymphatiques intrapelviens
+C81.47	lymphome hodgkinien classique riche en lymphocytes, rate
+C81.48	lymphome hodgkinien classique riche en lymphocytes, ganglions lymphatiques de sites multiples
+C81.49	lymphome hodgkinien classique riche en lymphocytes,sites extraganglionnaires et organes solides
+C81.70	autre lymphome hodgkinien classique, site non spécifié
+C81.71	autre lymphome hodgkinien classique, ganglions lymphatiques de la tête
+C81.71	autre lymphome hodgkinien classique, ganglions lymphatiques de la face
+C81.71	autre lymphome hodgkinien classique, ganglions lymphatiques du le cou
+C81.72	autre lymphome hodgkinien classique, ganglions lymphatiques intrathoraciques
+C81.73	autre lymphome hodgkinien classique, ganglions lymphatiques intra-abdominaux
+C81.74	autre lymphome hodgkinien classique, ganglions lymphatiques axillaires et du membre supérieur
+C81.75	autre lymphome hodgkinien classique, ganglions lymphatiques inguinaux et du membre inférieur
+C81.76	autre lymphome hodgkinien classique, ganglions lymphatiques intrapelviens
+C81.77	autre lymphome hodgkinien classique, rate
+C81.78	autre lymphome hodgkinien classique, ganglions lymphatiques de sites multiples
+C81.79	autre lymphome hodgkinien classique, sites extraganglionnaires et organes solides
+C81.90	lymphome hodgkinien, non spécifié, site non spécifié
+C81.91	lymphome hodgkinien, non spécifié, ganglions lymphatiques de la tête
+C81.91	lymphome hodgkinien, non spécifié, ganglions lymphatiques de la face
+C81.91	lymphome hodgkinien, non spécifié, ganglions lymphatiques du le cou
+C81.92	lymphome hodgkinien, non spécifié, ganglions lymphatiques intrathoraciques
+C82.00	lymphome folliculaire de grade I, site non spécifié
+C82.01	lymphome folliculaire de grade I, ganglions lymphatiques de la tête
+C82.01	lymphome folliculaire de grade I, ganglions lymphatiques de la face
+C82.01	lymphome folliculaire de grade I, ganglions lymphatiques du le cou
+C82.02	lymphome folliculaire de grade I, ganglions lymphatiques intrathoraciques
+C82.03	lymphome folliculaire de grade I, ganglions lymphatiques intra-abdominaux
+C82.04	lymphome folliculaire de grade I, ganglions lymphatiques axillaires et du membre supérieur
+C82.05	lymphome folliculaire de grade I, ganglions lymphatiques inguinaux et du membre inférieur
+C82.06	lymphome folliculaire de grade I, ganglions lymphatiques intrapelviens
+C82.07	lymphome folliculaire de grade I, rate
+C82.08	lymphome folliculaire de grade I, ganglions lymphatiques de sites multiples
+C82.09	lymphome folliculaire de grade I, sites extraganglionnaires et organes solides
+C82.10	lymphome folliculaire de grade II, site non spécifié
+C82.11	lymphome folliculaire de grade II, ganglions lymphatiques de la tête
+C82.11	lymphome folliculaire de grade II, ganglions lymphatiques de la face
+C82.11	lymphome folliculaire de grade II, ganglions lymphatiques du le cou
+C82.12	lymphome folliculaire de grade II, ganglions lymphatiques intrathoraciques
+C82.13	lymphome folliculaire de grade II, ganglions lymphatiques intra-abdominaux
+C82.14	lymphome folliculaire de grade II, ganglions lymphatiques axillaires et du membre supérieur
+C82.15	lymphome folliculaire de grade II, ganglions lymphatiques inguinaux et du membre inférieur
+C82.16	lymphome folliculaire de grade II, ganglions lymphatiques intrapelviens
+C82.17	lymphome folliculaire de grade II, rate
+C82.18	lymphome folliculaire de grade II, ganglions lymphatiques de sites multiples
+C82.19	lymphome folliculaire de grade II, sites extraganglionnaires et organes solides
+C82.20	lymphome folliculaire de grade III, non spécifié, site non spécifié
+C82.21	lymphome folliculaire de grade III, non spécifié, ganglions lymphatiques de la tête
+C82.21	lymphome folliculaire de grade III, non spécifié, ganglions lymphatiques de la face
+C82.21	lymphome folliculaire de grade III, non spécifié, ganglions lymphatiques du le cou
+C82.22	lymphome folliculaire de grade III, non spécifié, ganglions lymphatiques intrathoraciques
+C82.23	lymphome folliculaire de grade III, non spécifié, ganglions lymphatiques intra-abdominaux
+C82.24	lymphome folliculaire de grade III, non spécifié, ganglions lymphatiques axillaires et du membre supérieur
+C82.25	lymphome folliculaire de grade III, non spécifié, ganglions lymphatiques inguinaux et du membre inférieur
+C82.26	lymphome folliculaire de grade III, non spécifié, ganglions lymphatiques intrapelviens
+C82.27	lymphome folliculaire de grade III, non spécifié, rate
+C82.28	lymphome folliculaire de grade III, non spécifié, ganglions lymphatiques de sites multiples
+C82.29	lymphome folliculaire de grade III, non spécifié, sites extraganglionnaires et organes solides
+C82.30	lymphome folliculaire de grade IIIa, site non spécifié
+C82.31	lymphome folliculaire de grade IIIa, ganglions lymphatiques de la tête
+C82.31	lymphome folliculaire de grade IIIa, ganglions lymphatiques de la face
+C82.31	lymphome folliculaire de grade IIIa, ganglions lymphatiques du le cou
+C82.32	lymphome folliculaire de grade IIIa, ganglions lymphatiques intrathoraciques
+C82.33	lymphome folliculaire de grade IIIa, ganglions lymphatiques intra-abdominaux
+C82.34	lymphome folliculaire de grade IIIa, ganglions lymphatiques axillaires et du membre supérieur
+C82.35	lymphome folliculaire de grade IIIa, ganglions lymphatiques inguinaux et du membre inférieur
+C82.36	lymphome folliculaire de grade IIIa, ganglions lymphatiques intrapelviens
+C82.37	lymphome folliculaire de grade IIIa, rate
+C82.38	lymphome folliculaire de grade IIIa, ganglions lymphatiques de sites multiples
+C82.39	lymphome folliculaire de grade IIIa, localisations extraganglionnaires et organes solides
+C82.40	lymphome folliculaire de grade IIIb, site non spécifié
+C82.41	lymphome folliculaire de grade IIIb, ganglions lymphatiques de la tête
+C82.41	lymphome folliculaire de grade IIIb, ganglions lymphatiques de la face
+C82.41	lymphome folliculaire de grade IIIb, ganglions lymphatiques du le cou
+C82.42	lymphome folliculaire de grade IIIb, ganglions lymphatiques intrathoraciques
+C82.43	lymphome folliculaire de grade IIIb, ganglions lymphatiques intra-abdominaux
+C82.44	lymphome folliculaire de grade IIIb, ganglions lymphatiques axillaires et du membre supérieur
+C82.45	lymphome folliculaire de grade IIIb, ganglions lymphatiques inguinaux et du membre inférieur
+C82.46	lymphome folliculaire de grade IIIb, ganglions lymphatiques intrapelviens
+C82.47	lymphome folliculaire de grade IIIb, rate
+C82.48	lymphome folliculaire de grade IIIb, ganglions lymphatiques de sites multiples
+C82.49	lymphome folliculaire de grade IIIb, sites extraganglionnaires et organes solides
+C82.50	lymphome centro-folliculaire diffus, site non spécifié
+C82.51	lymphome centro-folliculaire diffus, ganglions lymphatiques de la tête
+C82.51	lymphome centro-folliculaire diffus, ganglions lymphatiques de la face
+C82.51	lymphome centro-folliculaire diffus, ganglions lymphatiques du le cou
+C82.52	lymphome centro-folliculaire diffus, ganglions lymphatiques intrathoraciques
+C82.53	lymphome centro-folliculaire diffus, ganglions lymphatiques intra-abdominaux
+C82.54	lymphome centro-folliculaire diffus, ganglions lymphatiques axillaires et du membre supérieur
+C82.55	lymphome centro-folliculaire diffus, ganglions lymphatiques inguinaux et du membre inférieur
+C82.56	lymphome centro-folliculaire diffus, ganglions lymphatiques intrapelviens
+C82.57	lymphome centro-folliculaire diffus, rate
+C82.58	lymphome centro-folliculaire diffus, ganglions lymphatiques de sites multiples
+C82.59	lymphome centro-folliculaire diffus, sites extraganglionnaires et organes solides
+C82.60	lymphome centro-folliculaire cutané, site non spécifié
+C82.61	lymphome centro-folliculaire cutané, ganglions lymphatiques de la tête
+C82.61	lymphome centro-folliculaire cutané, ganglions lymphatiques de la face
+C82.61	lymphome centro-folliculaire cutané, ganglions lymphatiques du le cou
+C82.62	lymphome centro-folliculaire cutané, ganglions lymphatiques intrathoraciques
+C82.63	lymphome centro-folliculaire cutané, ganglions lymphatiques intra-abdominaux
+C82.64	lymphome centro-folliculaire cutané, ganglions lymphatiques axillaires et du membre supérieur
+C82.65	lymphome centro-folliculaire cutané, ganglions lymphatiques inguinaux et du membre inférieur
+C82.66	lymphome centro-folliculaire cutané, ganglions lymphatiques intrapelviens
+C82.67	lymphome centro-folliculaire cutané, rate
+C82.68	lymphome centro-folliculaire cutané, ganglions lymphatiques de sites multiples
+C82.69	lymphome centro-folliculaire cutané, sites extraganglionnaires et organes solides
+C82.80	d'autres types d'un lymphome folliculaire, site non spécifié
+C82.81	d'autres types d'un lymphome folliculaire, ganglions lymphatiques de la tête
+C82.81	d'autres types d'un lymphome folliculaire, ganglions lymphatiques de la face
+C82.81	d'autres types d'un lymphome folliculaire, ganglions lymphatiques du le cou
+C82.82	d'autres types d'un lymphome folliculaire, ganglions lymphatiques intrathoraciques
+C82.83	d'autres types d'un lymphome folliculaire, ganglions lymphatiques intra-abdominaux
+C82.84	d'autres types d'un lymphome folliculaire, ganglions lymphatiques axillaires et du membre supérieur
+C82.85	d'autres types d'un lymphome folliculaire, ganglions lymphatiques inguinaux et du membre inférieur
+C82.86	d'autres types d'un lymphome folliculaire, ganglions lymphatiques intrapelviens
+C82.87	d'autres types d'un lymphome folliculaire, rate
+C82.88	d'autres types d'un lymphome folliculaire, ganglions lymphatiques de sites multiples
+C82.89	d'autres types d'un lymphome folliculaire, sites extraganglionnaires et organes solides
+C82.90	lymphome folliculaire, non spécifié, site non spécifié
+C82.91	lymphome folliculaire, non spécifié, ganglions lymphatiques de la tête, de la face et du le cou
+C82.92	lymphome folliculaire, non spécifié, ganglions lymphatiques intrathoraciques
+C82.93	lymphome folliculaire, non spécifié, ganglions lymphatiques intra-abdominaux
+C82.94	lymphome folliculaire, non spécifié, ganglions lymphatiques axillaires et du membre supérieur
+C82.95	lymphome folliculaire, non spécifié, ganglions lymphatiques inguinaux et du membre inférieur
+C82.96	lymphome folliculaire, non spécifié, ganglions lymphatiques intrapelviens
+C82.97	lymphome folliculaire, non spécifié, rate
+C82.98	lymphome folliculaire, non spécifié, ganglions lymphatiques de sites multiples
+C82.99	lymphome folliculaire, non spécifié, sites extraganglionnaires et organes solides
+C83.00	lymphome à petites cellules B, site non spécifié
+C83.01	lymphome à petites cellules B, ganglions lymphatiques de la tête, de la face et du le cou
+C83.02	lymphome à petites cellules B, ganglions lymphatiques intrathoraciques
+C83.03	lymphome à petites cellules B, ganglions lymphatiques intra-abdominaux
+C83.04	lymphome à petites cellules B, ganglions lymphatiques axillaires et du membre supérieur
+C83.05	lymphome à petites cellules B, ganglions lymphatiques inguinaux et du membre inférieur
+C83.06	lymphome à petites cellules B, ganglions lymphatiques intrapelviens
+C83.07	lymphome à petites cellules B, non spécifié, rate
+C83.08	lymphome à petites cellules B, ganglions lymphatiques de sites multiples
+C83.09	lymphome à petites cellules B, sites extraganglionnaires et organes solides
+C83.10	lymphome du manteau, site non spécifié
+C83.11	lymphome du manteau, ganglions lymphatiques de la tête
+C83.11	lymphome du manteau, ganglions lymphatiques de la face
+C83.11	lymphome du manteau, ganglions lymphatiques du le cou
+C83.12	lymphome du manteau, ganglions lymphatiques intrathoraciques
+C83.13	lymphome du manteau, ganglions lymphatiques intra-abdominaux
+C83.14	lymphome du manteau, ganglions lymphatiques axillaires et du membre supérieur
+C83.15	lymphome du manteau, ganglions lymphatiques inguinaux et du membre inférieur
+C83.16	lymphome du manteau, ganglions lymphatiques intrapelviens
+C83.17	lymphome du manteau, rate
+C83.18	lymphome du manteau, ganglions lymphatiques de sites multiples
+C83.19	lymphome du manteau, sites extraganglionnaires et organes solides
+C83.30	lymphome diffus à grandes cellules B, site non spécifié
+C83.31	lymphome diffus à grandes cellules B, ganglions lymphatiques de la tête
+C83.31	lymphome diffus à grandes cellules B, ganglions lymphatiques de la face
+C83.31	lymphome diffus à grandes cellules B, ganglions lymphatiques du le cou
+C83.32	lymphome diffus à grandes cellules B, ganglions lymphatiques intrathoraciques
+C83.33	lymphome diffus à grandes cellules B, ganglions lymphatiques intra-abdominaux
+C83.34	lymphome diffus à grandes cellules B, ganglions lymphatiques axillaires et du membre supérieur
+C83.35	lymphome diffus à grandes cellules B, ganglions lymphatiques inguinaux et du membre inférieur
+C83.36	lymphome diffus à grandes cellules B, ganglions lymphatiques intrapelviens
+C83.37	lymphome diffus à grandes cellules B, rate
+C83.38	lymphome diffus à grandes cellules B, ganglions lymphatiques de sites multiples
+C83.39	lymphome diffus à grandes cellules B, sites extraganglionnaires et organes solides
+C83.50	lymphome lymphoblastique diffus, site non spécifié
+C83.50	lymphome lymphoblastique, site non spécifié
+C83.51	lymphome lymphoblastique diffus, ganglions lymphatiques de la tête
+C83.51	lymphome lymphoblastique diffus, ganglions lymphatiques de la face
+C83.51	lymphome lymphoblastique diffus, ganglions lymphatiques du le cou
+C83.51	lymphome lymphoblastique, ganglions lymphatiques de la tête
+C83.51	lymphome lymphoblastique, ganglions lymphatiques de la face
+C83.51	lymphome lymphoblastique, ganglions lymphatiques du le cou
+C83.52	lymphome lymphoblastique diffus, ganglions lymphatiques intrathoraciques
+C83.52	lymphome lymphoblastique, ganglions lymphatiques intrathoraciques
+C83.53	lymphome lymphoblastique diffus, ganglions lymphatiques intra-abdominaux
+C83.53	lymphome lymphoblastique, ganglions lymphatiques intra-abdominaux
+C83.54	lymphome lymphoblastique diffus, ganglions lymphatiques axillaires et du membre supérieur
+C83.54	lymphome lymphoblastique, ganglions lymphatiques axillaires et du membre supérieur
+C83.55	lymphome lymphoblastique diffus, ganglions lymphatiques inguinaux et du membre inférieur
+C83.55	lymphome lymphoblastique, ganglions lymphatiques inguinaux et du membre inférieur
+C83.56	lymphome lymphoblastique diffus, ganglions lymphatiques intrapelviens
+C83.56	lymphome lymphoblastique, ganglions lymphatiques intrapelviens
+C83.57	lymphome lymphoblastique diffus, rate
+C83.57	lymphome lymphoblastique, rate
+C83.58	lymphome lymphoblastique diffus, ganglions lymphatiques de sites multiples
+C83.58	lymphome lymphoblastique, ganglions lymphatiques de sites multiples
+C83.59	lymphome lymphoblastique diffus, sites extraganglionnaires et organes solides
+C83.59	lymphome lymphoblastique, sites extraganglionnaires et organes solides
+C83.70	lymphome de Burkitt, site non spécifié
+C83.71	lymphome de Burkitt, ganglions lymphatiques de la tête
+C83.71	lymphome de Burkitt, ganglions lymphatiques de la face
+C83.71	lymphome de Burkitt, ganglions lymphatiques du le cou
+C83.72	lymphome de Burkitt, ganglions lymphatiques intrathoraciques
+C83.73	lymphome de Burkitt, ganglions lymphatiques intra-abdominaux
+C83.74	lymphome de Burkitt, ganglions lymphatiques axillaires et du membre supérieur
+C83.75	lymphome de Burkitt, ganglions lymphatiques inguinaux et du membre inférieur
+C83.76	lymphome de Burkitt, ganglions lymphatiques intrapelviens
+C83.77	lymphome de Burkitt, rate
+C83.78	lymphome de Burkitt, ganglions lymphatiques de sites multiples
+C83.79	lymphome de Burkitt, sites extraganglionnaires et organes solides
+C83.80	autre lymphome non folliculaire, site non spécifié
+C83.81	autre lymphome non folliculaire, ganglions lymphatiques de la tête
+C83.81	autre lymphome non folliculaire, ganglions lymphatiques de la face
+C83.81	autre lymphome non folliculaire, ganglions lymphatiques du le cou
+C83.82	autre lymphome non folliculaire, ganglions lymphatiques intrathoraciques
+C83.83	autre lymphome non folliculaire, ganglions lymphatiques intra-abdominaux
+C83.84	autre lymphome non folliculaire, ganglions lymphatiques axillaires et du membre supérieur
+C83.85	autre lymphome non folliculaire, ganglions lymphatiques inguinaux et du membre inférieur
+C83.86	autre lymphome non folliculaire, ganglions lymphatiques intrapelviens
+C83.87	autre lymphome non folliculaire, rate
+C83.88	autre lymphome non folliculaire, ganglions lymphatiques de sites multiples
+C83.89	autre lymphome non folliculaire, sites extraganglionnaires et organes solides
+C83.90	lymphome diffus non folliculaire, non spécifié, site non spécifié
+C83.90	lymphome non folliculaire, non spécifié, site non spécifié
+C83.91	lymphome diffus non folliculaire, non spécifié, ganglions lymphatiques de la tête
+C83.91	lymphome diffus non folliculaire, non spécifié, ganglions lymphatiques de la face
+C83.91	lymphome diffus non folliculaire, non spécifié, ganglions lymphatiques du le cou
+C83.91	lymphome non folliculaire, non spécifié, ganglions lymphatiques de la tête
+C83.91	lymphome non folliculaire, non spécifié, ganglions lymphatiques de la face
+C83.91	lymphome non folliculaire, non spécifié, ganglions lymphatiques du le cou
+C83.92	lymphome diffus non folliculaire, non spécifié, ganglions lymphatiques intrathoraciques
+C83.92	lymphome non folliculaire, non spécifié, ganglions lymphatiques intrathoraciques
+C83.93	lymphome diffus non folliculaire, non spécifié, ganglions lymphatiques intra-abdominaux
+C83.93	lymphome non folliculaire, non spécifié, ganglions lymphatiques intra-abdominaux
+C83.94	lymphome diffus non folliculaire, non spécifié, ganglions lymphatiques axillaires et du membre supérieur
+C83.94	lymphome non folliculaire, non spécifié, ganglions lymphatiques axillaires et du membre supérieur
+C83.95	lymphome diffus non folliculaire, non spécifié, ganglions lymphatiques inguinaux et du membre inférieur
+C83.95	lymphome non folliculaire, non spécifié, ganglions lymphatiques inguinaux et du membre inférieur
+C83.96	lymphome diffus non folliculaire, non spécifié, ganglions lymphatiques intrapelviens
+C83.96	lymphome non folliculaire, non spécifié, ganglions lymphatiques intrapelviens
+C83.97	lymphome diffus non folliculaire, non spécifié, rate
+C83.97	lymphome non folliculaire, non spécifié, rate
+C83.98	lymphome diffus non folliculaire, non spécifié, ganglions lymphatiques de sites multiples
+C83.98	lymphome non folliculaire, non spécifié, ganglions lymphatiques de sites multiples
+C83.99	lymphome diffus non folliculaire, non spécifié, sites extraganglionnaires et organes solides
+C83.99	lymphome non folliculaire, non spécifié, sites extraganglionnaires et organes solides
+C84.00	mycosis fongoïde, site non spécifié
+C84.01	mycosis fongoïde, ganglions lymphatiques de la tête
+C84.01	mycosis fongoïde, ganglions lymphatiques de la face
+C84.01	mycosis fongoïde, ganglions lymphatiques du le cou
+C84.02	mycosis fongoïde, ganglions lymphatiques intrathoraciques
+C84.03	mycosis fongoïde, ganglions lymphatiques intra-abdominaux
+C84.04	mycosis fongoïde, ganglions lymphatiques axillaires et du membre supérieur
+C84.05	mycosis fongoïde, ganglions lymphatiques inguinaux et du membre inférieur
+C84.06	mycosis fongoïde, ganglions lymphatiques intrapelviens
+C84.07	mycosis fongoïde, rate
+C84.08	mycosis fongoïde, ganglions lymphatiques de sites multiples
+C84.09	mycosis fongoïde, sites extraganglionnaires et organes solides
+C84.10	syndrome de Sézary, site non spécifié
+C84.11	syndrome de Sézary, ganglions lymphatiques de la tête
+C84.11	syndrome de Sézary, ganglions lymphatiques de la face
+C84.11	syndrome de Sézary, ganglions lymphatiques du le cou
+C84.12	syndrome de Sézary, ganglions lymphatiques intrathoraciques
+C84.13	syndrome de Sézary, ganglions lymphatiques intra-abdominaux
+C84.14	syndrome de Sézary, ganglions lymphatiques axillaires et du membre supérieur
+C84.15	syndrome de Sézary, ganglions lymphatiques inguinaux et du membre inférieur
+C84.16	syndrome de Sézary, ganglions lymphatiques intrapelviens
+C84.17	syndrome de Sézary, rate
+C84.18	syndrome de Sézary, ganglions lymphatiques de sites multiples
+C84.19	syndrome de Sézary, sites extraganglionnaires et organes solides
+C84.40	lymphome T périphérique, non classé, site non spécifié
+C84.41	lymphome T périphérique, non classé, ganglions lymphatiques de la tête
+C84.41	lymphome T périphérique, non classé, ganglions lymphatiques de la face
+C84.41	lymphome T périphérique, non classé, ganglions lymphatiques du le cou
+C84.42	lymphome T périphérique, non classé, ganglions lymphatiques intrathoraciques
+C84.43	lymphome T périphérique, non classé, ganglions lymphatiques intra-abdominaux
+C84.44	lymphome T périphérique, non classé, ganglions lymphatiques axillaires et du membre supérieur
+C84.45	lymphome T périphérique, non classé, ganglions lymphatiques inguinaux et du membre inférieur
+C84.46	lymphome T périphérique, non classé, ganglions lymphatiques intrapelviens
+C84.47	lymphome T périphérique, non classé, rate
+C84.48	lymphome T périphérique, non classé, ganglions lymphatiques de sites multiples
+C84.49	lymphome T périphérique, non classé, sites extraganglionnaires et organes solides
+C84.60	lymphome anaplasique à grandes cellules, ALK-positif, site non spécifié
+C84.61	lymphome anaplasique à grandes cellules, ALK-positif, ganglions lymphatiques de la tête
+C84.61	lymphome anaplasique à grandes cellules, ALK-positif, ganglions lymphatiques de la face
+C84.61	lymphome anaplasique à grandes cellules, ALK-positif, ganglions lymphatiques du le cou
+C84.62	lymphome anaplasique à grandes cellules, ALK-positif, ganglions lymphatiques intrathoraciques
+C84.63	lymphome anaplasique à grandes cellules, ALK-positif, ganglions lymphatiques intra-abdominaux
+C84.64	lymphome anaplasique à grandes cellules, ALK-positif, ganglions lymphatiques axillaires et du membre supérieur
+C84.65	lymphome anaplasique à grandes cellules, ALK-positif, ganglions lymphatiques inguinaux et du membre inférieur
+C84.66	lymphome anaplasique à grandes cellules, ALK-positif, ganglions lymphatiques intrapelviens
+C84.67	lymphome anaplasique à grandes cellules, ALK-positif, rate
+C84.68	lymphome anaplasique à grandes cellules, ALK-positif, ganglions lymphatiques de sites multiples
+C84.69	lymphome anaplasique à grandes cellules, ALK-positif, sites extraganglionnaires et organes solides
+C84.70	lymphome anaplasique à grandes cellules, ALK-négatif, site non spécifié
+C84.71	lymphome anaplasique à grandes cellules, ALK-négatif, ganglions lymphatiques de la tête
+C84.71	lymphome anaplasique à grandes cellules, ALK-négatif, ganglions lymphatiques de la face
+C84.71	lymphome anaplasique à grandes cellules, ALK-négatif, ganglions lymphatiques du le cou
+C84.72	lymphome anaplasique à grandes cellules, ALK-négatif, ganglions lymphatiques intrathoraciques
+C84.73	lymphome anaplasique à grandes cellules, ALK-négatif, ganglions lymphatiques intra-abdominaux
+C84.74	lymphome anaplasique à grandes cellules, ALK-négatif, ganglions lymphatiques axillaires et du membre supérieur
+C84.75	lymphome anaplasique à grandes cellules, ALK-négatif, ganglions lymphatiques inguinaux et du membre inférieur
+C84.76	lymphome anaplasique à grandes cellules, ALK-négatif, ganglions lymphatiques intrapelviens
+C84.93	lymphomes à cellules T/NK matures, non spécifiés, ganglions lymphatiques intra-abdominaux
+C84.94	lymphomes à cellules T/NK matures, non spécifiés, ganglions lymphatiques axillaires et du membre supérieur
+C84.95	lymphomes à cellules T/NK matures, non spécifiés, ganglions lymphatiques inguinaux et du membre inférieur
+C84.96	lymphomes à cellules T/NK matures, non spécifiés, ganglions lymphatiques intrapelviens
+C84.97	lymphomes à cellules T/NK matures, non spécifiés, rate
+C84.98	lymphomes à cellules T/NK matures, non spécifiés, ganglions lymphatiques de sites multiples
+C84.99	lymphomes à cellules T/NK matures, non spécifiés, sites extraganglionnaires et organes solides
+C84.A0	lymphome T cutané, non spécifié, site non spécifié
+C84.A1	lymphome T cutané, ganglions lymphatiques non spécifiés de la tête
+C84.A1	lymphome T cutané, ganglions lymphatiques non spécifiés de la face
+C84.A1	lymphome T cutané, ganglions lymphatiques non spécifiés du le cou
+C84.A2	lymphome T cutané, non spécifié, ganglions lymphatiques intrathoraciques
+C84.A3	lymphome T cutané, non spécifié, ganglions lymphatiques intra-abdominaux
+C84.A4	lymphome T cutané, non spécifié, ganglions lymphatiques axillaires et du membre supérieur
+C84.A5	lymphome T cutané, non spécifié, ganglions lymphatiques inguinaux et du membre inférieur
+C84.A6	lymphome T cutané, non spécifié, ganglions lymphatiques intrapelviens
+C84.A7	lymphome T cutané, non spécifié, rate
+C84.A8	lymphome T cutané, non spécifié, ganglions lymphatiques de sites multiples
+C84.A9	lymphome T cutané, non spécifié, sites extraganglionnaires et organes solides
+C84.Z0	d'autres lymphomes à cellules T/NK matures, site non spécifié
+C84.Z1	d'autres lymphomes à cellules T/NK matures, ganglions lymphatiques de la tête
+C84.Z1	d'autres lymphomes à cellules T/NK matures, ganglions lymphatiques de la face
+C84.Z1	d'autres lymphomes à cellules T/NK matures, ganglions lymphatiques du le cou
+C84.Z2	d'autres lymphomes à cellules T/NK matures, ganglions lymphatiques intrathoraciques
+C84.Z3	d'autres lymphomes à cellules T/NK matures, ganglions lymphatiques intra-abdominaux
+C84.Z4	d'autres lymphomes à cellules T/NK matures, ganglions lymphatiques axillaires et du membre supérieur
+C84.Z5	d'autres lymphomes à cellules T/NK matures, ganglions lymphatiques inguinaux et du membre inférieur
+C84.Z6	d'autres lymphomes à cellules T/NK matures, ganglions lymphatiques intrapelviens
+C84.Z7	d'autres lymphomes à cellules T/NK matures, rate
+C84.Z8	d'autres lymphomes à cellules T/NK matures, ganglions lymphatiques de sites multiples
+C84.Z9	d'autres lymphomes à cellules T/NK matures, sites extraganglionnaires et organes solides
+C85.10	lymphome à cellules B, non spécifié, site non spécifié
+C85.11	lymphome à cellules B, non spécifié, ganglions lymphatiques de la tête
+C85.11	lymphome à cellules B, non spécifié, ganglions lymphatiques de la face
+C85.11	lymphome à cellules B, non spécifié, ganglions lymphatiques du le cou
+C85.12	lymphome à cellules B, non spécifié, ganglions lymphatiques intrathoraciques
+C85.13	lymphome à cellules B, non spécifié, ganglions lymphatiques intra-abdominaux
+C85.14	lymphome à cellules B, non spécifié, ganglions lymphatiques axillaires et du membre supérieur
+C85.15	lymphome à cellules B, non spécifié, ganglions lymphatiques inguinaux et du membre inférieur
+C85.16	lymphome à cellules B, non spécifié, ganglions lymphatiques intrapelviens
+C85.17	lymphome à cellules B, non spécifié, rate
+C85.18	lymphome à cellules B, non spécifié, ganglions lymphatiques de sites multiples
+C85.19	lymphome à cellules B, non spécifié, sites extraganglionnaires et organes solides
+C85.20	lymphome médiastinal à grandes cellules B, site non spécifié
+C85.20	lymphome thymique à grandes cellules B, site non spécifié
+C85.21	lymphome médiastinal à grandes cellules B, ganglions lymphatiques de la tête
+C85.21	lymphome thymique à grandes cellules B, ganglions lymphatiques de la tête
+C85.21	lymphome médiastinal à grandes cellules B, ganglions lymphatiques de la face
+C85.21	lymphome thymique à grandes cellules B, ganglions lymphatiques de la face
+C85.21	lymphome médiastinal à grandes cellules B, ganglions lymphatiques du le cou
+C85.21	lymphome thymique à grandes cellules B, ganglions lymphatiques du le cou
+C85.22	lymphome médiastinal à grandes cellules B, ganglions lymphatiques intrathoraciques
+C85.22	lymphome thymique à grandes cellules B, ganglions lymphatiques intrathoraciques
+C85.23	lymphome médiastinal à grandes cellules B, ganglions lymphatiques intra-abdominaux
+C85.23	lymphome thymique à grandes cellules B, ganglions lymphatiques intra-abdominaux
+C85.24	lymphome médiastinal à grandes cellules B, ganglions lymphatiques axillaires et du membre supérieur
+C85.24	lymphome thymique à grandes cellules B, ganglions lymphatiques axillaires et du membre supérieur
+C85.25	lymphome médiastinal à grandes cellules B, ganglions lymphatiques inguinaux et du membre inférieur
+C85.25	lymphome thymique à grandes cellules B, ganglions lymphatiques inguinaux et du membre inférieur
+C85.26	lymphome médiastinal à grandes cellules B, ganglions lymphatiques intrapelviens
+C85.26	lymphome thymique à grandes cellules B, ganglions lymphatiques intrapelviens
+C85.27	lymphome médiastinal à grandes cellules B, rate
+C85.27	lymphome thymique à grandes cellules B, rate
+C85.28	lymphome médiastinal à grandes cellules B, ganglions lymphatiques de sites multiples
+C85.28	lymphome thymique à grandes cellules B, ganglions lymphatiques de sites multiples
+C85.29	lymphome médiastinal à grandes cellules B, sites extraganglionnaires et organes solides
+C85.29	lymphome thymique à grandes cellules B, sites extraganglionnaires et organes solides
+C85.80	d'autres types spécifiées d'un lymphome non hodgkinien, site non spécifié
+C85.81	d'autres types spécifiées d'un lymphome non hodgkinien, ganglions lymphatiques de la tête
+C85.81	d'autres types spécifiées d'un lymphome non hodgkinien, ganglions lymphatiques de la face
+C85.81	d'autres types spécifiées d'un lymphome non hodgkinien, ganglions lymphatiques du le cou
+C85.82	d'autres types spécifiées d'un lymphome non hodgkinien, ganglions lymphatiques intrathoraciques
+C85.83	d'autres types spécifiées d'un lymphome non hodgkinien, ganglions lymphatiques intra-abdominaux
+C85.84	d'autres types spécifiées d'un lymphome non hodgkinien, ganglions lymphatiques axillaires et du membre supérieur
+C85.85	d'autres types spécifiées d'un lymphome non hodgkinien, ganglions lymphatiques inguinaux et du membre inférieur
+C85.86	d'autres types spécifiées d'un lymphome non hodgkinien, ganglions lymphatiques intrapelviens
+C85.87	d'autres types spécifiées d'un lymphome non hodgkinien, rate
+C85.88	d'autres types spécifiées d'un lymphome non hodgkinien, ganglions lymphatiques de sites multiples
+C85.89	d'autres types spécifiées d'un lymphome non hodgkinien, sites extraganglionnaires et organes solides
+C85.90	lymphome non hodgkinien, non spécifié, site non spécifié
+C85.91	lymphome non hodgkinien, non spécifié, ganglions lymphatiques de la tête
+C85.91	lymphome non hodgkinien, non spécifié, ganglions lymphatiques de la face
+C85.91	lymphome non hodgkinien, non spécifié, ganglions lymphatiques du le cou
+C85.92	lymphome non hodgkinien, non spécifié, ganglions lymphatiques intrathoraciques
+C85.93	lymphome non hodgkinien, non spécifié, ganglions lymphatiques intra-abdominaux
+C85.94	lymphome non hodgkinien, non spécifié, ganglions lymphatiques axillaires et du membre supérieur
+C85.95	lymphome non hodgkinien, non spécifié, ganglions lymphatiques inguinaux et du membre inférieur
+C85.96	lymphome non hodgkinien, non spécifié, ganglions lymphatiques intrapelviens
+C85.97	lymphome non hodgkinien, non spécifié, rate
+C85.98	lymphome non hodgkinien, non spécifié, ganglions lymphatiques de sites multiples
+C85.99	lymphome non hodgkinien, non spécifié, sites extraganglionnaires et organes solides
+C86.0	lymphome  NK/T extraganglionnaire du type nasal
+C86.1	lymphome T hépatosplénique
+C86.2	lymphome T du type entéropathie
+C86.2	lymphome intestinal du type entéropathie
+C86.3	lymphome T sous-cutané du type panniculite
+C86.4	lymphome à cellules NK blastique
+C86.5	lymphome T angio-immunoblastique
+C86.6	proliférations primaires cutanées à cellules T CD30-positif
+C88.0	maladie de Waldenström
+C88.2	maladie des chaînes lourdes
+C88.3	maladie immunoproliférative de l'intestin grêle
+C88.4	lymphome B de la zone marginale extraganglionnaire du tissu lymphoïde associés aux muqueuses
+C88.4	lymphome MALT
+C88.8	d'autres maladies immunoprolifératives malignes
+C88.9	maladie immunoproliférative maligne, non spécifiée
+C90.00	myélome multiple, rémission non obtenue
+C90.01	myélome multiple, en rémission
+C90.02	myélome multiple, en rechute
+C90.10	leucémie à plasmocytes, rémission non obtenue
+C90.11	leucémie à plasmocytes, en rémission
+C90.12	leucémie à plasmocytes, en rechute
+C90.20	plasmocytome extra-médullaire, rémission non obtenue
+C90.21	plasmocytome extra-médullaire, en rémission
+C90.22	plasmocytome extra-médullaire, en rechute
+C90.30	plasmocytome solitaire, rémission non obtenue
+C90.31	plasmocytome solitaire, en rémission
+C90.32	plasmocytome solitaire, en rechute
+C91.00	leucémie lymphoblastique aiguë, rémission non obtenue
+C91.01	leucémie lymphoblastique aiguë, en rémission
+C91.02	leucémie lymphoblastique aiguë, en rechute
+C91.10	leucémie lymphoïde chronique à cellules B, rémission non obtenue
+C91.11	leucémie lymphoïde chronique à cellules B, en rémission
+C91.12	leucémie lymphoïde chronique à cellules B, en rechute
+C91.30	leucémie à prolymphocytes à cellules B, rémission non obtenue
+C91.31	leucémie à prolymphocytes à cellules B, en rémission
+C91.32	leucémie à prolymphocytes à cellules B, en rechute
+C91.40	leucémie à tricholeucocytes, rémission non obtenue
+C91.41	leucémie à tricholeucocytes, en rémission
+C91.42	leucémie à tricholeucocytes, en rechute
+C91.50	leucémie de l'adulte à cellules T, rémission non obtenue
+C91.50	leucémie de l'adulte associé à remise, rémission non obtenue
+C91.50	lymphome de l'adulte à cellules T, rémission non obtenue
+C91.50	lymphome de l'adulte associé à remise, rémission non obtenue
+C91.51	leucémie de l'adulte à cellules T, en rémission
+C91.51	leucémie de l'adulte associé à HTLV-1, en rémission
+C91.51	lymphome de l'adulte à cellules T, en rémission
+C91.51	lymphome de l'adulte associé à HTLV-1, en rémission
+C91.52	leucémie de l'adulte à cellules T, en rechute
+C91.52	leucémie de l'adulte associé à HTLV-1, en rechute
+C91.52	lymphome de l'adulte à cellules T, en rechute
+C91.52	lymphome de l'adulte associé à HTLV-1, en rechute
+C91.60	leucémie à prolymphocytes à cellules T, rémission non obtenue
+C91.61	leucémie à prolymphocytes à cellules T, en rémission
+C91.62	leucémie à prolymphocytes à cellules T, en rechute
+C91.90	leucémie lymphoïde, non spécifiée, rémission non obtenue
+C91.91	leucémie lymphoïde, non spécifiée, en rémission
+C91.92	leucémie lymphoïde, non spécifiée, en rechute
+C91.A0	leucémie à cellules B matures du type Burkitt, rémission non obtenue
+C91.A1	leucémie à cellules B matures du type Burkitt, en rémission
+C91.A2	leucémie à cellules B matures du type Burkitt, en rechute
+C91.Z0	autre leucémie lymphoïde, rémission non obtenue
+C91.Z1	autre leucémie lymphoïde, en rémission
+C91.Z2	autre leucémie lymphoïde, en rechute
+C92.00	leucémie myéloblastique aiguë, rémission non obtenue
+C92.01	leucémie myéloblastique aiguë, en rémission
+C92.02	leucémie myéloblastique aiguë, en rechute
+C92.10	leucémie myéloïde chronique, BCR/ABL-positive, rémission non obtenue
+C92.11	leucémie myéloïde chronique, BCR/ABL-positive, en rémission
+C92.12	leucémie myéloïde chronique, BCR/ABL-positive, en rechute
+C92.2	leucémie myéloïde chronique atypique, BCR/ABL-négative
+C92.20	leucémie myéloïde chronique atypique, BCR/ABL-négative, rémission non obtenue
+C92.21	leucémie myéloïde chronique atypique, BCR/ABL-négative, en rémission
+C92.22	leucémie myéloïde chronique atypique, BCR/ABL-négative, en rechute
+C92.30	sarcome myéloïde, rémission non obtenue
+C92.31	sarcome myéloïde, en rémission
+C92.32	sarcome myéloïde, en rechute
+C92.40	leucémie promyélocytaire aiguë, rémission non obtenue
+C92.41	leucémie promyélocytaire aiguë, en rémission
+C92.42	leucémie promyélocytaire aiguë, en rechute
+C92.50	leucémie myélomonocytaire aiguë, rémission non obtenue
+C92.51	leucémie myélomonocytaire aiguë, en rémission
+C92.52	leucémie myélomonocytaire aiguë,en rechute
+C92.60	leucémie myéloïde aiguë avec anomalies 11q23, rémission non obtenue
+C92.61	leucémie myéloïde aiguë avec anomalies 11q23, en rémission
+C92.62	leucémie myéloïde aiguë avec anomalies 11q23, en rechute
+C92.90	leucémie myéloïde, non spécifiée, rémission non obtenue
+C92.90	LMA, rémission non obtenue
+C92.91	leucémie myéloïde, non spécifiée, en rémission
+C92.91	LMA, en rémission
+C92.92	leucémie myéloïde, non spécifiée, en rechute
+C92.92	LMA, en rechute
+C92.A0	leucémie myéloïde aiguë avec dysplasie multilignée, rémission non obtenue
+C92.A1	leucémie myéloïde aiguë avec dysplasie multilignée, en rémission
+C92.A2	leucémie myéloïde aiguë avec dysplasie multilignée, en rechute
+C92.Z0	autre leucémie myéloïde, rémission non obtenue
+C92.Z1	autre leucémie myéloïde, en rémission
+C92.Z2	autre leucémie myéloïde, en rechute
+C93.00	leucémie monoblastique aiguë, rémission non obtenue
+C93.00	leucémie monocytaire aiguë, rémission non obtenue
+C93.01	leucémie monoblastique aiguë, en rémission
+C93.01	leucémie monocytaire aiguë, en rémission
+C93.02	leucémie monoblastique aiguë, en rechute
+C93.02	leucémie monocytaire aiguë, en rechute
+C93.10	leucémie myélomonocytaire chronique, rémission non obtenue
+C93.11	leucémie myélomonocytaire chronique, en rémission
+C93.12	leucémie myélomonocytaire chronique, en rechute
+C93.30	leucémie myélomonocytaire juvénile, rémission non obtenue
+C93.31	leucémie myélomonocytaire juvénile, en rémission
+C93.32	leucémie myélomonocytaire juvénile, en rechute
+C93.90	leucémie monocytaire, non spécifiée, rémission non obtenue
+C93.91	leucémie monocytaire, non spécifiée, en rémission
+C93.92	leucémie monocytaire, non spécifiée, en rechute
+C93.Z0	autre leucémie monocytaire, rémission non obtenue
+C93.Z1	autre leucémie monocytaire, en rémission
+C93.Z2	autre leucémie monocytaire, en rechute
+C94.00	leucémie érythroïde aiguë, rémission non obtenue
+C94.01	leucémie érythroïde aiguë, en rémission
+C94.02	leucémie érythroïde aiguë, en rechute
+C94.20	leucémie aiguë à mégacaryoblastes, rémission non obtenue
+C94.21	leucémie aiguë à mégacaryoblastes, en rémission
+C94.22	leucémie aiguë à mégacaryoblastes,en rechute
+C94.30	leucémie à mastocytes, rémission non obtenue
+C94.31	leucémie à mastocytes, en rémission
+C94.32	leucémie à mastocytes, en rechute
+C94.40	panmyélose aiguë avec myélofibrose, rémission non obtenue
+C94.41	panmyélose aiguë avec myélofibrose, en rémission
+C94.42	panmyélose aiguë avec myélofibrose, en rechute
+C94.6	myélodysplasie, non classée
+C94.80	d'autres formes spécifiées de leucémie, rémission non obtenue
+C94.81	d'autres formes spécifiées de leucémie, en rémission
+C94.82	d'autres formes spécifiées de leucémie, en rechute
+C95.00	leucémie aiguë à cellules non spécifiées, rémission non obtenue
+C95.01	leucémie aiguë à cellules non spécifiées, en rémission
+C95.02	leucémie aiguë à cellules non spécifiées, en rechute
+C95.10	leucémie chronique à cellules non spécifiées, rémission non obtenue
+C95.11	leucémie chronique à cellules non spécifiées, en rémission
+C95.12	leucémie chronique à cellules non spécifiées, en rechute
+C95.90	leucémie, non spécifiée, rémission non obtenue
+C95.91	leucémie, non spécifiée, en rémission
+C95.92	leucémie, non spécifiée, en rechute
+C96.0	Histiocytose à cellules de Langerhans multifocale et multisystémique 
+C96.0	Maladie de Letterer-Siwe
+C96.2	mastocytose maligne
+C96.4	sarcome des cellules dendritiques
+C96.4	sarcome des cellules accessoires
+C96.5	histiocytose à cellules de Langerhans multifocale et unisystémique
+C96.6	histiocytose à cellules de Langerhans unifocale
+C96.9	néoplasme malin des tissus lymphoïde, hématopoïétique et apparentés, non spécifié
+C96.A	sarcome hystiocytaire
+C96.Z	d'autres néoplasmes malins spécifiés des tissus lymphoïde, hématopoïétique et apparentés

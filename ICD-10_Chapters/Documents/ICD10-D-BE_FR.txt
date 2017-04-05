@@ -1,0 +1,481 @@
+D00.00	carcinome in situ de la cavité buccale, site non spécifié
+D00.01	carcinome in situ de la muqueuse labiale et de la face externe de la lèvre
+D00.02	carcinome in situ de la muqueuse buccale
+D00.03	carcinome in situ de la gencive et de la crête alvéolaire édentée
+D00.04	carcinome in situ du palais mou
+D00.05	carcinome in situ du palais osseux
+D00.06	carcinome in situ du plancher buccal
+D00.07	carcinome in situ de la langue
+D00.08	carcinome in situ du pharynx
+D00.1	carcinome in situ de l'oesophage
+D00.2	carcinome in situ de l'estomac
+D01.0	carcinome in situ du côlon
+D01.1	carcinome in situ de la jonction recto-sigmoïdienne
+D01.2	carcinome in situ du rectum
+D01.3	carcinome in situ de l'anus et du canal anal
+D01.40	carcinome in situ d'une partie non spécifiée de l'intestin
+D01.49	carcinome in situ d'autres parties de l'intestin
+D01.5	carcinome in situ du foie, de la vésicule et des voies biliaires
+D01.7	carcinome in situ d'autres organes digestifs spécifiés
+D01.9	carcinome in situ d'un organe digestif, non spécifié
+D02.0	carcinome in situ du larynx
+D02.1	carcinome in situ de la trachée
+D02.20	carcinome in situ d'une bronche et d'un poumon non spécifiés
+D02.21	carcinome in situ de la bronche et du poumon droits
+D02.22	carcinome in situ de la bronche et du poumon gauches
+D02.3	carcinome in situ d'autres parties du système respiratoire
+D02.4	carcinome in situ du système respiratoire, non spécifié
+D03.0	mélanome in situ de la lèvre
+D03.10	mélanome in situ d'une paupière non spécifiée, y compris le canthus
+D03.11	mélanome in situ de la paupière droite, y compris le canthus
+D03.12	mélanome in situ de la paupière gauche, y compris le canthus
+D03.20	mélanome in situ de l'oreille et du conduit auditif externe non spécifiés
+D03.21	mélanome in situ de l'oreille et du conduit auditif externe droits
+D03.22	mélanome in situ de l'oreille et du conduit auditif externe gauches
+D03.30	mélanome in situ d'une partie non spécifiée de la face
+D03.39	mélanome in situ d'autres parties de la face
+D03.4	mélanome in situ du cuir chevelu et du cou
+D03.51	mélanome in situ de la peau anale
+D03.52	mélanome in situ du sein
+D03.52	mélanome in situ de la peau du sein
+D03.52	mélanome in situ du tissu mou du sein
+D03.59	mélanome in situ d'une autre partie du tronc
+D03.60	mélanome in situ d'un membre supérieur non spécifié, y compris l'épaule
+D03.61	mélanome in situ du membre supérieur droit, y compris l'épaule
+D03.62	mélanome in situ du membre supérieur gauche, y compris l'épaule
+D03.70	mélanome in situ d'un membre inférieur non spécifié, y compris la hanche
+D03.71	mélanome in situ du membre inférieur droit, y compris la hanche
+D03.72	mélanome in situ du membre inférieur gauche, y compris la hanche
+D03.8	mélanome in situ d'autres sites
+D03.9	mélanome in situ, non spécifié
+D04.0	carcinome in situ de la peau de la lèvre
+D04.10	carcinome in situ de la peau d'une paupière non spécifiée, y compris le canthus
+D04.11	carcinome in situ de la peau de la paupière droite, y compris le canthus
+D04.12	carcinome in situ de la peau de la paupière gauche, y compris le canthus
+D04.20	carcinome in situ de la peau de l'oreille et du conduit auditif externe non spécifiés
+D04.21	carcinome in situ de la peau de l'oreille et du conduit auditif externe droits
+D04.22	carcinome in situ de la peau de l'oreille et du conduit auditif externe gauches
+D04.30	carcinome in situ de la peau d'une partie non spécifiée de la face
+D04.39	carcinome in situ de la peau d'autres parties de la face
+D04.4	carcinome in situ de la peau du cuir chevelu et du cou
+D04.5	carcinome in situ de la peau du tronc
+D04.60	carcinome in situ de la peau d'un membre supérieur non spécifié, y compris l'épaule
+D04.61	carcinome in situ de la peau du membre supérieur droit, y compris l'épaule
+D04.62	carcinome in situ de la peau du membre supérieur gauche, y compris l'épaule
+D04.70	carcinome in situ de la peau d'un membre inférieur non spécifié, y compris la hanche
+D04.71	carcinome in situ de la peau du membre inférieur droit, y compris la hanche
+D04.72	carcinome in situ de la peau du membre inférieur gauche, y compris la hanche
+D04.8	carcinome in situ de la peau d'autres sites
+D04.9	carcinome in situ de la peau, non spécifié
+D05.00	carcinome in situ lobulaire d'un sein non spécifié
+D05.01	carcinome in situ lobulaire du sein droit
+D05.02	carcinome in situ lobulaire du sein gauche
+D05.10	carcinome in situ intracanalaire d'un sein non spécifié
+D05.11	carcinome in situ intracanalaire du sein droit
+D05.12	carcinome in situ intracanalaire du sein gauche
+D05.80	d'autres types spécifiés de carcinome in situ du sein non spécifié
+D05.81	d'autres types spécifiés de carcinome in situ du sein droit
+D05.82	d'autres types spécifiés de carcinome in situ du sein gauche
+D05.90	type non spécifié de carcinome in situ du sein, sein non spécifié
+D05.91	type non spécifié de carcinome in situ du sein, sein droit
+D05.92	type non spécifié de carcinome in situ du sein, sein gauche
+D06.0	carcinome in situ de l'endocol
+D06.1	carcinome in situ de l'exocol
+D06.7	carcinome in situ d'autres parties du col de l'utérus
+D06.9	carcinome in situ du col de l'utérus, non spécifié
+D07.0	carcinome in situ de l'endomètre
+D07.1	carcinome in situ de la vulve
+D07.2	carcinome in situ du vagin
+D07.30	carcinome in situ des organes génitaux non spécifiés, féminin
+D07.39	carcinome in situ d'autres organes génitaux, féminin
+D07.4	carcinome in situ de la verge
+D07.5	carcinome in situ de la prostate
+D07.60	carcinome in situ des organes génitaux non spécifiés, masculin
+D07.61	carcinome in situ du scrotum
+D07.69	carcinome in situ d'autres organes génitaux, masculin
+D09.0	carcinome in situ de la vessie
+D09.10	carcinome in situ d'un organe urinaire non spécifié
+D09.19	carcinome in situ d'autres organes urinaires
+D09.20	carcinome in situ de l'oeil non spécifié
+D09.21	carcinome in situ de l'oeil droit
+D09.22	carcinome in situ de l'oeil gauche
+D09.3	carcinome in situ de la thyroïde et d'autres glandes endocrines
+D09.8	carcinome in situ d'autres sites spécifiés
+D09.9	carcinome in situ, non spécifié
+D10.0	néoplasme bénin de la lèvre
+D10.1	néoplasme bénin de la langue
+D10.2	néoplasme bénin du plancher buccal
+D10.30	néoplasme bénin d'une partie non spécifiée de la bouche
+D10.39	néoplasme bénin d'autres parties de la bouche
+D10.4	néoplasme bénin de l'amygdale
+D10.5	néoplasme bénin d'autres parties de l'oropharynx
+D10.6	néoplasme bénin du rhinopharynx
+D10.7	néoplasme bénin de l'hypopharynx
+D10.9	néoplasme bénin du pharynx, non spécifié
+D11.0	néoplasme bénin de la glande parotide
+D11.7	néoplasme bénin d'autres glandes salivaires majeures
+D11.9	néoplasme bénin de la glande salivaire majeure, non spécifiée
+D12.0	néoplasme bénin du caecum
+D12.1	néoplasme bénin de l'appendice
+D12.2	néoplasme bénin du côlon ascendant
+D12.3	néoplasme bénin du côlon transverse
+D12.4	néoplasme bénin du côlon descendant
+D12.5	néoplasme bénin du côlon sigmoïde
+D12.6	néoplasme bénin du côlon, non spécifié
+D12.7	néoplasme bénin de la jonction recto-sigmoïdienne
+D12.8	néoplasme bénin du rectum
+D12.9	néoplasme bénin de l'anus et canal anal
+D13.0	néoplasme bénin de l'oesophage
+D13.1	néoplasme bénin de l'estomac
+D13.2	néoplasme bénin du duodénum
+D13.30	néoplasme bénin d'une partie non spécifiée de l'intestin grêle
+D13.39	néoplasme bénin d'autres parties de l'intestin grêle
+D13.4	néoplasme bénin du foie
+D13.5	néoplasme bénin des voies biliaires extra-hépatiques
+D13.6	néoplasme bénin du pancréas
+D13.7	néoplasme bénin du pancréas endocrine
+D13.9	néoplasme bénin de sites mal définis du système digestif
+D14.0	néoplasme bénin de l'oreille moyenne, des fosses nasales et des sinus accessoires
+D14.1	néoplasme bénin du larynx
+D14.2	néoplasme bénin de la trachée
+D14.30	néoplasme bénin de la bronche et du poumon non spécifiés
+D14.31	néoplasme bénin de la bronche et du poumon droits
+D14.32	néoplasme bénin de la bronche et du poumon gauches
+D14.4	néoplasme bénin du système respiratoire, non spécifié
+D15.0	néoplasme bénin du thymus
+D15.1	néoplasme bénin du coeur
+D15.2	néoplasme bénin du médiastin
+D15.7	néoplasme bénin d'autres organes intrathoraciques spécifiés
+D15.9	néoplasme bénin d'un organe intrathoracique, non spécifié
+D16.00	néoplasme bénin de l'omoplate et des os longs d'un membre supérieur non spécifié
+D16.01	néoplasme bénin de l'omoplate et des os longs du membre supérieur droit
+D16.02	néoplasme bénin de l'omoplate et des os longs du membre supérieur gauche
+D16.10	néoplasme bénin des os courts d'un membre supérieur non spécifié
+D16.11	néoplasme bénin des os courts du membre supérieur droit
+D16.12	néoplasme bénin des os courts du membre supérieur gauche
+D16.20	néoplasme bénin des os longs d'un membre inférieur non spécifié
+D16.21	néoplasme bénin des os longs du membre inférieur droit
+D16.22	néoplasme bénin des os longs du membre inférieur gauche
+D16.30	néoplasme bénin des os courts d'un membre inférieur non spécifié
+D16.31	néoplasme bénin des os courts du membre inférieur droit
+D16.32	néoplasme bénin des os courts du membre inférieur gauche
+D17.20	néoplasme lipomateux bénin de la peau et du tissu sous-cutané du membre non spécifié
+D17.21	néoplasme lipomateux bénin de la peau et du tissu sous-cutané du bras droit
+D17.22	néoplasme lipomateux bénin de la peau et du tissu sous-cutané du bras gauche
+D17.23	néoplasme lipomateux bénin de la peau et du tissu sous-cutané de la jambe droite
+D17.24	néoplasme lipomateux bénin de la peau et du tissu sous-cutané de la jambe gauche
+D17.30	néoplasme lipomateux bénin de la peau et du tissu sous-cutané de sites non spécifiés
+D49.6	néoplasme à comportement non spécifié du cerveau
+D49.7	néoplasme à comportement non spécifié de la glandes endocrines et d'autres parties du système nerveux
+D49.81	néoplasme à comportement non spécifié de la rétine et de la choroïde
+D49.89	néoplasme à comportement non spécifié d'autres sites spécifiés
+D49.9	néoplasme à comportement non spécifié d'un site non spécifié
+D50.0	anémie par carence en fer secondaire à une perte de sang (chronique)
+D50.1	dysphagie sidéropénique
+D50.8	d'autres anémies par carence en fer
+D50.9	anémie par carence en fer, non spécifiée
+D51.0	anémie par carence en vitamine B12 due à une carence en facteur intrinsèque
+D51.1	anémie par carence en vitamine B12 due à une malabsorption sélective de vitamine B12, avec protéinurie
+D51.2	carence en transcobalamine II
+D51.3	d'autres anémies par carence alimentaire en vitamine B12
+D51.8	d'autres anémies par carence en vitamine B12
+D70.1	agranulocytose secondaire à la chimiothérapie anti-cancéreuse
+D17.39	néoplasme lipomateux bénin de la peau et du tissu sous-cutané d'autres sites
+D17.4	néoplasme lipomateux bénin des organes intrathoraciques
+D17.5	néoplasme lipomateux bénin des organes intra-abdominaux
+D17.6	néoplasme lipomateux bénin du cordon spermatique
+D17.71	néoplasme lipomateux bénin du rein
+D17.72	néoplasme lipomateux bénin d'organe génito-urinaire
+D17.79	néoplasme lipomateux bénin d'autres sites
+D17.9	néoplasme lipomateux bénin, non spécifié
+D18.00	hémangiome, site non spécifié
+D18.01	hémangiome de la peau et du tissu sous-cutané
+D18.02	hémangiome de structures intracrâniennes
+D18.03	hémangiome de structures intra-abdominales
+D18.09	hémangiome d'autres sites
+D18.1	lymphangiome, tout site
+D19.0	néoplasme bénin du tissu mésothélial de la plèvre
+D19.1	néoplasme bénin du tissu mésothélial du péritoine
+D19.7	néoplasme bénin du tissu mésothélial d'autres sites
+D19.9	néoplasme bénin du tissu mésothélial, non spécifié
+D20.0	néoplasme bénin des tissus mous du rétropéritoine
+D20.1	néoplasme bénin des tissus mous du péritoine
+D21.0	néoplasme bénin du tissu conjonctif et d'autres tissus mous de la tête, de la face et du cou
+D21.10	néoplasme bénin du tissu conjonctif et d'autres tissus mous d'un membre supérieur non spécifié, y compris l'épaule
+D21.11	néoplasme bénin du tissu conjonctif et d'autres tissus mous du membre supérieur droit, y compris l'épaule
+D21.12	néoplasme bénin du tissu conjonctif et d'autres tissus mous du membre supérieur gauche, y compris l'épaule
+D21.20	néoplasme bénin du tissu conjonctif et d'autres tissus mous d'un membre inférieur non spécifié, y compris la hanche
+D21.21	néoplasme bénin du tissu conjonctif et d'autres tissus mous du membre inférieur droit, y compris la hanche
+D21.22	néoplasme bénin du tissu conjonctif et d'autres tissus mous du membre inférieur gauche, y compris la hanche
+D21.3	néoplasme bénin du tissu conjonctif et d'autres tissus mous du thorax
+D21.4	néoplasme bénin du tissu conjonctif et d'autres tissus mous de l'abdomen
+D21.5	néoplasme bénin du tissu conjonctif et d'autres tissus mous du bassin
+D21.6	néoplasme bénin du tissu conjonctif et d'autres tissus mous du tronc, non spécifié
+D21.9	néoplasme bénin du tissu conjonctif et d'autres tissus mous, non spécifié
+D22.0	naevus mélanocytaire de la lèvre
+D22.10	naevus mélanocytaire d'une paupière non spécifiée, y compris le canthus
+D22.11	naevus mélanocytaire de la paupière droite, y compris le canthus
+D22.12	naevus mélanocytaire de la paupière gauche, y compris le canthus
+D22.20	naevus mélanocytaire de l'oreille et du conduit auditif externe non spécifiés
+D22.21	naevus mélanocytaire de l'oreille et du conduit auditif externe droits
+D22.22	naevus mélanocytaire de l'oreille et du conduit auditif externe gauches
+D22.30	naevus mélanocytaire d'une partie non spécifiée de la face
+D22.39	naevus mélanocytaire d'autres parties de la face
+D22.4	naevus mélanocytaire du cuir chevelu et du cou
+D22.5	naevus mélanocytaire du tronc
+D22.60	naevus mélanocytaire d'un membre supérieur non spécifié, y compris l'épaule
+D22.61	naevus mélanocytaire du membre supérieur droit, y compris l'épaule
+D22.62	naevus mélanocytaire du membre supérieur gauche, y compris l'épaule
+D22.70	naevus mélanocytaire d'un membre inférieur non spécifié, y compris la hanche
+D22.71	naevus mélanocytaire du membre inférieur droit, y compris la hanche
+D22.72	naevus mélanocytaire du membre inférieur gauche, y compris la hanche
+D22.9	naevus mélanocytaire, non spécifié
+D23.0	autre néoplasme bénin de la peau de la lèvre
+D23.10	autre néoplasme bénin de la peau d'une paupière non spécifiée, y compris le canthus
+D23.11	autre néoplasme bénin de la peau de la paupière droite, y compris le canthus
+D23.12	autre néoplasme bénin de la peau de la paupière gauche, y compris le canthus
+D23.20	autre néoplasme bénin de la peau de l'oreille et du conduit auditif externe non spécifiés
+D23.21	autre néoplasme bénin de la peau de l'oreille et du conduit auditif externe droits
+D23.22	autre néoplasme bénin de la peau de l'oreille et du conduit auditif externe gauches
+D23.30	autre néoplasme bénin de la peau d'une partie non spécifiée de la face
+D23.39	autre néoplasme bénin de la peau d'autres parties de la face
+D23.4	autre néoplasme bénin de la peau du cuir chevelu et du cou
+D23.5	autre néoplasme bénin de la peau du tronc
+D23.60	autre néoplasme bénin de la peau d'un membre supérieur non spécifié, y compris l'épaule
+D23.61	autre néoplasme bénin de la peau du membre supérieur droit, y compris l'épaule
+D23.62	autre néoplasme bénin de la peau du membre supérieur gauche, y compris l'épaule
+D23.70	autre néoplasme bénin de la peau du membre inférieur non spécifié, y compris la hanche
+D23.71	autre néoplasme bénin de la peau du membre inférieur droit, y compris la hanche
+D23.72	autre néoplasme bénin du peau du membre inférieur gauche, y compris la hanche
+D23.9	autre néoplasme bénin de la peau, non spécifié
+D24.1	néoplasme bénin du sein droit
+D24.2	néoplasme bénin du sein gauche
+D24.9	néoplasme bénin d'un sein non spécifié
+D25.0	léiomyome sous-muqueux de l'utérus
+D25.1	léiomyome intramural de l'utérus
+D25.2	léiomyome sous-séreux de l'utérus
+D25.9	léiomyome de l'utérus, non spécifié
+D26.0	autre néoplasme bénin du col de l'utérus
+D26.1	autre néoplasme bénin du corps utérin
+D26.7	autre néoplasme bénin d'autres parties de l'utérus
+D26.9	autre néoplasme bénin de l'utérus, non spécifié
+D27.0	néoplasme bénin de l'ovaire droit
+D27.1	néoplasme bénin de l'ovaire gauche
+D27.9	néoplasme bénin de l'ovaire non spécifié
+D28.0	néoplasme bénin de la vulve
+D28.1	néoplasme bénin du vagin
+D28.2	néoplasme bénin de la trompe et des ligaments utérins
+D28.7	néoplasme bénin d'autres organes génitaux spécifiés, féminin
+D28.9	néoplasme bénin de l'organe génital, non spécifié, féminin
+D29.0	néoplasme bénin de la verge
+D29.1	néoplasme bénin de la prostate
+D29.20	néoplasme bénin d'un testicule non spécifié
+D29.21	néoplasme bénin du testicule droit
+D29.22	néoplasme bénin du testicule gauche
+D29.30	néoplasme bénin de l'épididyme non spécifié
+D29.31	néoplasme bénin de l'épididyme droit
+D29.32	néoplasme bénin de l'épididyme gauche
+D29.4	néoplasme bénin du scrotum
+D29.8	néoplasme bénin d'autres organes génitaux, masculin
+D29.9	néoplasme bénin de l'organe génital, non spécifié, masculin
+D30.00	néoplasme bénin d'un rein non spécifié
+D30.01	néoplasme bénin du rein droit
+D30.02	néoplasme bénin du rein gauche
+D30.10	néoplasme bénin d'un bassinet non spécifié
+D30.11	néoplasme bénin du bassinet droit
+D30.12	néoplasme bénin du bassinet gauche
+D30.20	néoplasme bénin d'un uretère non spécifié
+D30.21	néoplasme bénin de l'uretère droit
+D30.22	néoplasme bénin de l'uretère gauche
+D30.3	néoplasme bénin de la vessie
+D30.4	néoplasme bénin de l'urètre
+D30.8	néoplasme bénin d'autres organes urinaires spécifiés
+D30.9	néoplasme bénin d'un organe urinaire, non spécifié
+D31.00	néoplasme bénin de la conjonctive non spécifiée
+D31.01	néoplasme bénin de la conjonctive droite
+D31.02	néoplasme bénin de la conjonctive gauche
+D31.10	néoplasme bénin de la cornée non spécifiée
+D31.11	néoplasme bénin de la cornée droite
+D31.12	néoplasme bénin de la cornée gauche
+D31.20	néoplasme bénin de la rétine non spécifiée
+D31.21	néoplasme bénin de la rétine droite
+D31.22	néoplasme bénin de la rétine gauche
+D31.30	néoplasme bénin de la choroïde non spécifiée
+D31.31	néoplasme bénin de la choroïde droite
+D31.32	néoplasme bénin de la choroïde gauche
+D31.40	néoplasme bénin du corps ciliaire non spécifié
+D31.41	néoplasme bénin du corps ciliaire droit
+D31.42	néoplasme bénin du corps ciliaire gauche
+D31.50	néoplasme bénin de la glande et du canal lacrymaux non spécifiés
+D31.51	néoplasme bénin de la glande et du canal lacrymaux droits
+D31.52	néoplasme bénin de la glande et du canal lacrymaux gauches
+D31.60	néoplasme bénin d'un site non spécifié d'une orbite non spécifiée
+D31.61	néoplasme bénin d'un site non spécifié de l'orbite droite
+D31.62	néoplasme bénin d'un site non spécifié de l'orbite gauche
+D31.90	néoplasme bénin d'une partie non spécifiée d'un oeil non spécifié
+D31.91	néoplasme bénin d'une partie non spécifiée de l'oeil droit
+D31.92	néoplasme bénin d'une partie non spécifiée de l'oeil gauche
+D32.0	néoplasme bénin des méninges cérébrales
+D32.1	néoplasme bénin des méninges rachidiennes
+D32.9	néoplasme bénin des méninges, non spécifié
+D33.0	néoplasme bénin du cerveau, supratentoriel
+D33.1	néoplasme bénin du cerveau, infratentoriel
+D33.2	néoplasme bénin du cerveau, non spécifié
+D33.3	néoplasme bénin des nerfs crâniens
+D33.4	néoplasme bénin de la moelle épinière
+D33.7	néoplasme bénin d'autres parties spécifiées du système nerveux central
+D33.9	néoplasme bénin du système nerveux central, non spécifié
+D34	néoplasme bénin de la thyroïde
+D35.00	néoplasme bénin d'une surrénale non spécifiée
+D35.01	néoplasme bénin de la surrénale droite
+D35.02	néoplasme bénin de la surrénale gauche
+D35.1	néoplasme bénin de la parathyroïde
+D35.2	néoplasme bénin de l'hypophyse
+D35.3	néoplasme bénin du canal cranio-pharyngien
+D35.4	néoplasme bénin de l'épiphyse
+D35.5	néoplasme bénin du glomus carotidien
+D35.6	néoplasme bénin du glomus aortique et d'autres paraganglions
+D35.7	néoplasme bénin d'autres glandes endocrines spécifiées
+D35.9	néoplasme bénin de la glande endocrine, non spécifiée
+D36.0	néoplasme bénin des ganglions lymphatiques
+D36.10	néoplasme bénin des nerfs périphériques et du système nerveux autonome, non spécifié
+D36.11	néoplasme bénin des nerfs périphériques et du système nerveux autonome de la face, de la tête et du cou
+D36.12	néoplasme bénin des nerfs périphériques et du système nerveux autonome du membre supérieur, y compris l'épaule
+D36.13	néoplasme bénin des nerfs périphériques et du système nerveux autonome du membre inférieur, y compris la hanche
+D36.14	néoplasme bénin des nerfs périphériques et du système nerveux autonome du thorax
+D36.15	néoplasme bénin des nerfs périphériques et du système nerveux autonome de l'abdomen
+D36.16	néoplasme bénin des nerfs périphériques et du système nerveux autonome du bassin
+D36.17	néoplasme bénin des nerfs périphériques et du système nerveux autonome du tronc, non spécifié
+D36.7	néoplasme bénin d'autres sites spécifiés
+D36.9	néoplasme bénin d'un site non spécifié
+D37.01	néoplasme à comportement imprévisible de la lèvre
+D37.02	néoplasme à comportement imprévisible de la langue
+D37.030	néoplasme à comportement imprévisible de la glande parotide
+D37.031	néoplasme à comportement imprévisible de la glande sublinguale
+D37.032	néoplasme à comportement imprévisible de la glande sous-maxillaire
+D37.039	néoplasme à comportement imprévisible de la glandes salivaires majeures, non spécifiées
+D37.04	néoplasme à comportement imprévisible des glandes salivaires mineures
+D37.05	néoplasme à comportement imprévisible du pharynx
+D37.09	néoplasme à comportement imprévisible d'autres sites spécifiés de la cavité buccale
+D37.1	néoplasme à comportement imprévisible de l'estomac
+D37.2	néoplasme à comportement imprévisible de l'intestin grêle
+D37.3	néoplasme à comportement imprévisible de l'appendice
+D37.4	néoplasme à comportement imprévisible du côlon
+D37.5	néoplasme à comportement imprévisible du rectum
+D37.6	néoplasme à comportement imprévisible du foie, de la vésicule et des voies biliaires
+D37.8	néoplasme à comportement imprévisible d'autres organes digestifs spécifiés
+D37.9	néoplasme à comportement imprévisible d'un organe digestif, non spécifié
+D38.0	néoplasme à comportement imprévisible du larynx
+D38.1	néoplasme à comportement imprévisible de la trachée, bronches et poumon
+D38.2	néoplasme à comportement imprévisible de la plèvre
+D38.3	néoplasme à comportement imprévisible du médiastin
+D38.4	néoplasme à comportement imprévisible du thymus
+D38.5	néoplasme à comportement imprévisible d'autres organes respiratoires
+D38.6	néoplasme à comportement imprévisible d'un organe respiratoire, non spécifié
+D39.0	néoplasme à comportement imprévisible de l'utérus
+D39.10	néoplasme à comportement imprévisible de l'ovaire non spécifié
+D39.11	néoplasme à comportement imprévisible de l'ovaire droit
+D39.12	néoplasme à comportement imprévisible de l'ovaire gauche
+D39.2	néoplasme à comportement imprévisible du placenta
+D39.8	néoplasme à comportement imprévisible d'autres organes génitaux, féminin
+D39.9	néoplasme à comportement imprévisible de l'organe génital, non spécifié, féminin
+D3A.00	tumeur carcinoïde bénigne d'un site non spécifié
+D3A.010	tumeur carcinoïde bénigne du duodénum
+D3A.011	tumeur carcinoïde bénigne du jéjunum
+D3A.012	tumeur carcinoïde bénigne de l'iléon
+D3A.019	tumeur carcinoïde bénigne de l'intestin grêle, segment non spécifié
+D3A.020	tumeur carcinoïde bénigne de l'appendice
+D3A.021	tumeur carcinoïde bénigne du caecum
+D3A.022	tumeur carcinoïde bénigne du côlon ascendant
+D3A.023	tumeur carcinoïde bénigne du côlon transverse
+D3A.024	tumeur carcinoïde bénigne du côlon descendant
+D3A.025	tumeur carcinoïde bénigne du côlon sigmoïde
+D3A.026	tumeur carcinoïde bénigne du rectum
+D3A.029	tumeur carcinoïde bénigne du gros intestin, segment non spécifié
+D3A.090	tumeur carcinoïde bénigne de la bronche et du poumon
+D3A.091	tumeur carcinoïde bénigne du thymus
+D3A.092	tumeur carcinoïde bénigne de l'estomac
+D3A.093	tumeur carcinoïde bénigne du rein
+D3A.094	tumeur carcinoïde bénigne du tube digestif supérieur, non spécifiée autrement
+D3A.095	tumeur carcinoïde bénigne du tube digestif moyen, non spécifiée autrement
+D3A.096	tumeur carcinoïde bénigne du tube digestif inférieur, non spécifiée autrement
+D3A.098	tumeurs carcinoïdes bénignes d'autres sites
+D3A.8	d'autres tumeurs bénignes neuroendocrines
+D40.0	néoplasme à comportement imprévisible de la prostate
+D40.10	néoplasme à comportement imprévisible d'un testicule non spécifié
+D40.11	néoplasme à comportement imprévisible du testicule droit
+D40.12	néoplasme à comportement imprévisible du testicule gauche
+D40.8	néoplasme à comportement imprévisible d'autres organes génitaux, masculin
+D40.9	néoplasme à comportement imprévisible de l'organe génital, non spécifié, masculin
+D41.00	néoplasme à comportement imprévisible d'un rein non spécifié
+D41.01	néoplasme à comportement imprévisible du rein droit
+D41.02	néoplasme à comportement imprévisible du rein gauche
+D41.10	néoplasme à comportement imprévisible d'un bassinet non spécifié
+D41.11	néoplasme à comportement imprévisible du bassinet droit
+D41.12	néoplasme à comportement imprévisible du bassinet gauche
+D41.20	néoplasme à comportement imprévisible d'un uretère non spécifié
+D41.21	néoplasme à comportement imprévisible de l'uretère droit
+D41.22	néoplasme à comportement imprévisible de l'uretère gauche
+D41.3	néoplasme à comportement imprévisible de l'urètre
+D41.4	néoplasme à comportement imprévisible de la vessie
+D41.8	néoplasme à comportement imprévisible d'autres organes urinaires spécifiés
+D41.9	néoplasme à comportement imprévisible d'un organe urinaire non spécifié
+D42.0	néoplasme à comportement imprévisible des méninges cérébrales
+D42.1	néoplasme à comportement imprévisible des méninges rachidiennes
+D42.9	néoplasme à comportement imprévisible des méninges, non spécifiées
+D43.0	néoplasme à comportement imprévisible du cerveau, supratentoriel
+D43.1	néoplasme à comportement imprévisible du cerveau, infratentoriel
+D43.2	néoplasme à comportement imprévisible du cerveau, non spécifié
+D43.3	néoplasme à comportement imprévisible des nerfs crâniens
+D43.4	néoplasme à comportement imprévisible de la moelle épinière
+D43.8	néoplasme à comportement imprévisible d'autres parties spécifiées du système nerveux central
+D43.9	néoplasme à comportement imprévisible du système nerveux central, non spécifié
+D44.0	néoplasme à comportement imprévisible de la thyroïde
+D44.10	néoplasme à comportement imprévisible d'une surrénale non spécifiée
+D44.11	néoplasme à comportement imprévisible de la surrénale droite
+D44.12	néoplasme à comportement imprévisible de la surrénale gauche
+D44.2	néoplasme à comportement imprévisible de la parathyroïde
+D44.3	néoplasme à comportement imprévisible de l'hypophyse
+D44.4	néoplasme à comportement imprévisible du canal cranio-pharyngien
+D44.5	néoplasme à comportement imprévisible de l'épiphyse
+D44.6	néoplasme à comportement imprévisible du glomus carotidien
+D44.7	néoplasme à comportement imprévisible du glomus aortique et d'autres paraganglions
+D44.9	néoplasme à comportement imprévisible de la glande endocrine non spécifiée
+D45	Polycythémie vraie
+D46.0	anémie réfractaire non sidéroblastique
+D46.1	anémie réfractaire sidéroblastique
+D46.20	anémie réfractaire avec excès de blastes, non spécifiés
+D46.21	anémie réfractaire avec excès de blastes 1
+D46.22	anémie réfractaire avec excès de blastes 2
+D46.4	anémie réfractaire, non spécifiée
+D46.9	syndrome myélodysplasique, non spécifié
+D46.A	cytopénie réfractaire avec dysplasie multilignée
+D46.B	cytopénie réfractaire sidéroblastique avec dysplasie multilignée
+D46.C	syndrome myélodysplasique associé à une anomalie chromosomique isolée del (5q)
+D46.Z	d'autres syndromes myélodysplasiques
+D47.0	tumeurs à histiocytes et mastocytes à comportement imprévisible
+D47.1	maladie myéloproliférative chronique
+D47.2	gammapathie monoclonale
+D47.3	thrombocytémie essentielle (hémorragique)
+D47.4	ostéomyélofibrose
+D47.9	néoplasme à comportement imprévisible des tissus lymphoïde, hématopoïétique et apparentés, non spécifiés
+D47.Z1	Trouble lymphoprolifératif posttransplantation
+D47.Z1	PTLD
+D47.Z9	d'autres néoplasmes à comportement imprévisible spécifié, des tissus lymphoïde, hématopoïétique et apparentés
+D48.0	néoplasme à comportement imprévisible de l'os et du cartilage articulaire
+D48.1	néoplasme à comportement imprévisible du tissu conjonctif et d'autres tissus mous
+D48.2	néoplasme à comportement imprévisible de nerfs périphériques et système nerveux autonome
+D48.3	néoplasme à comportement imprévisible du rétropéritoine
+D48.4	néoplasme à comportement imprévisible du péritoine
+D48.5	néoplasme à comportement imprévisible de la peau
+D48.60	néoplasme à comportement imprévisible d'un sein non spécifié
+D48.61	néoplasme à comportement imprévisible du sein droit
+D48.62	néoplasme à comportement imprévisible du sein gauche
+D48.7	néoplasme à comportement imprévisible d'autres sites spécifiés
+D48.9	néoplasme à comportement imprévisible, non spécifié
+D49.0	néplasme à comportement non spécifié du système digestif
+D49.1	néoplasme à comportement non spécifié du système respiratoire
+D49.2	néoplasme à comportement non spécifié des os, des tissus mous et de la peau
+D49.3	néoplasme à comportement non spécifié du sein
+D49.4	néoplasme à comportement non spécifié de la vessie
+D49.5	néoplasme à comportement non spécifié d'autres organes génito-urinaires

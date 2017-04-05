@@ -1,0 +1,24 @@
+V09.3	victime d'accident de la circulation
+V89.9	victime d'un accident impliquant un seul véhicule
+V49.9	conducteur dans un accident de la circulation
+V49.9	passager dans un accident de la circulation
+V49.9	passager avant dans un accident de la circulation
+V49.9	passager arrière dans un accident de la circulation
+V09.3	piéton victime d'un accident de la circulation
+V18.9	cycliste victime d'un accident de la circulation
+V28.9	motocycliste victime d'un accident de la circulation
+V09.2	victime d'un accident impliquant deux véhicules
+V09.2	victime d'un accident impliquant plus de deux véhicules
+V09.2	victime d'un accident impliquant plusieurs véhicules
+V95.9	victime d'un accident d'avion
+V95.9	pilote dans un accident d'avion
+V95.9	membre de l'équipage dans un accident d'avion
+V95.9	agent de bord dans un accident d'avion
+V95.9	passager dans un accident d'avion
+V97.3	spectateur au sol victime d'un accident d'avion
+V95.4	victime d'un accident de vaisseau spatial
+V94.9	victime d'un accident de bateau
+V94.9	pilote dans un accident de bateau
+V94.9	passager dans un accident de bateau
+V94.9	skieur nautique dans un accident de bateau
+V94.9	spectateur dans un accident de bateau

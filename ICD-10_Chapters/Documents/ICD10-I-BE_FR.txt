@@ -1,0 +1,1405 @@
+I00	rhumatisme articulaire aigu, sans atteinte cardiaque
+I00	rhumatisme articulaire aigu
+I01.0	péricardite rhumatismale aiguë
+I01.1	endocardite rhumatismale aiguë
+I01.2	myocardite rhumatismale aiguë
+I01.8	d'autres cardiopathies rhumatismales aiguës
+I01.9	cardiopathie rhumatismale aiguë, non spécifiée
+I02.0	chorée rhumatismale, avec une atteinte cardiaque
+I02.9	chorée rhumatismale, sans atteinte cardiaque
+I05.0	stenose mitrale rhumatismale
+I05.1	insuffisance mitrale rhumatismale
+I05.2	sténose mitrale avec insuffisance
+I05.8	d'autres maladies de la valvule mitrale
+I05.9	maladie de la valvule mitrale, non spécifiée
+I06.0	sténose aortique rhumatismale
+I06.1	insuffisance aortique rhumatismale
+I06.2	sténose aortique rhumatismale avec insuffisance
+I06.8	d'autres maladies rhumatismales de la valvule aortique
+I06.9	maladie rhumatismale de la valvule aortique, non spécifiée
+I07.0	sténose tricuspidienne rhumatismale
+I07.1	insuffisance tricuspidienne rhumatismale
+I07.2	sténose tricuspidienne avec insuffisance rhumatismale
+I07.8	d'autres maladies de la valvule tricuspide rhumatismale
+I07.9	maladie de la valvule tricuspide rhumatismale, non spécifiée
+I08.0	troubles rhumatismales des valvules mitrale et aortique
+I08.1	troubles rhumatismales des valvules mitrale et tricuspide
+I08.2	troubles rhumatismales des valvules aortique et tricuspide
+I08.3	troubles rhumatismales des valvules mitrale, aortique et tricuspide
+I08.8	d'autres maladies valvulaires rhumatismale multiples
+I08.9	maladie rhumatismale de plusieurs valvules, non spécifiée
+I09.0	myocardite rhumatismale
+I09.1	endocardite rhumatismale, valvule non spécifiée
+I09.2	péricardite rhumatismale chronique
+I09.81	défaillance cardiaque rhumatismale
+I09.89	d'autres cardiopathies rhumatismales spécifiées
+I09.9	cardiopathie rhumatismale, non spécifiée
+I10	hypertension essentielle
+I10	hypertension essentielle primitive
+I11.0	cardiopathie hypertensive, avec défaillance cardiaque
+I11.0	cardiopathie hypertensive, avec défaillance cardiaque congestive
+I11.9	cardiopathie hypertensive, sans défaillance cardiaque congestive
+I12.0	néphropathie hypertensive chronique avec néphropathie hypertensive chronique stade 5 ou insuffisance rénale terminale
+I12.9	néphropathie hypertensive chronique avec néphropathie hypertensive chronique stade 1 ou néphropathie chronique non spécifiée
+I12.9	néphropathie hypertensive chronique avec néphropathie hypertensive chronique stade 2 ou néphropathie chronique non spécifiée
+I12.9	néphropathie hypertensive chronique avec néphropathie hypertensive chronique stade 3 ou néphropathie chronique non spécifiée
+I12.9	néphropathie hypertensive chronique avec néphropathie hypertensive chronique stade 4 ou néphropathie chronique non spécifiée
+I13.0	cardionéphropathie hypertensive, avec défaillance cardiaque et néphropathie hypertensive chronique stade 1 ou néphropathie chronique non spécifiée
+I13.0	cardionéphropathie hypertensive, avec défaillance cardiaque et néphropathie hypertensive chronique stade 2 ou néphropathie chronique non spécifiée
+I13.0	cardionéphropathie hypertensive, avec défaillance cardiaque et néphropathie hypertensive chronique stade 3 ou néphropathie chronique non spécifiée
+I13.0	cardionéphropathie hypertensive, avec défaillance cardiaque et néphropathie hypertensive chronique stade 4 ou néphropathie chronique non spécifiée
+I13.10	cardionéphropathie hypertensive, sans défaillance cardiaque, avec néphropathie hypertensive chronique stade 1 ou néphropathie chronique non spécifiée
+I13.10	cardionéphropathie hypertensive, sans défaillance cardiaque, avec néphropathie hypertensive chronique stade 2 ou néphropathie chronique non spécifiée
+I13.10	cardionéphropathie hypertensive, sans défaillance cardiaque, avec néphropathie hypertensive chronique stade 3 ou néphropathie chronique non spécifiée
+I13.10	cardionéphropathie hypertensive, sans défaillance cardiaque, avec néphropathie hypertensive chronique stade 4 ou néphropathie chronique non spécifiée
+I13.11	cardionéphropathie hypertensive, sans défaillance cardiaque, avec néphropathie hypertensive chronique stade 5 ou insuffisance rénale terminale
+I13.2	cardionéphropathie hypertensive, avec défaillance cardiaque et néphropathie hypertensive chronique stade 5 ou insuffisance rénale terminale
+I15.0	hypertension vasculo-rénale
+I15.1	hypertension secondaire à d'autres troubles rénaux
+I15.2	hypertension secondaire à des troubles endocriniens
+I15.8	d'autres hypertensions secondaires
+I15.9	hypertension secondaire, non spécifiée
+I20.0	angine de poitrine instable
+I20.1	angine de poitrine avec un spasme coronaire vérifié
+I20.8	d'autres formes d'angine de poitrine
+I20.9	angine de poitrine, non spécifiée
+I21.1	infarctus du myocarde avec une élévation du segment ST de l'artère coronaire gauche
+I21.2	infarctus du myocarde avec une élévation du segment ST du rameau interventricularis gauche
+I21.9	infarctus du myocarde avec une élévation du le segment ST d'une autre artère coronaire de la paroi antérieure
+I21.11	infarctus du myocarde avec une élévation du segment ST de l'artère coronaire droite
+I21.19	infarctus du myocarde avec une élévation du segment ST d'une autre artère coronaire de la paroi postérieure
+I21.21	infarctus du myocarde avec une élévation du segment ST du rameau circumflexus gauche
+I21.29	infarctus du myocarde avec une élévation du segment ST d'autres sites
+I21.3	infarctus du myocarde avec une élévation du segment ST d'un site non spécifié
+I21.4	infarctus sous-endocardial aigu du myocarde
+I22.0	infarctus du myocarde à répétition, de la paroi antérieure
+I22.1	infarctus du myocarde à répétition, de la paroi inférieure
+I22.2	infarctus du myocarde à répétition sans élévation du segment ST
+I22.2	non ST-segment elevation myocardial infarction
+I22.2	NSTEMI
+I22.8	infarctus du myocarde à répétition d'autres localisations
+I22.9	infarctus du myocarde à répétition, d'un site non spécifié
+I23.0	hémopéricarde comme complication récente d'un infarctus aigu du myocarde
+I23.1	communication interauriculaire comme complication récente d'un infarctus aigu du myocarde
+I23.2	communication interventriculaire comme complication récente d'un infarctus aigu du myocarde
+I23.3	rupture de la paroi cardiaque sans hémopéricarde comme complication récente d'un infarctus aigu du myocarde
+I23.4	rupture des cordages tendineux comme complication récente d'un infarctus aigu du myocarde
+I23.5	rupture du muscle papillaire comme complication récente d'un infarctus aigu du myocarde
+I23.6	thrombose de l'oreillette, de l'auricule et du ventricule comme complication récente d'un infarctus aigu du myocarde
+I23.7	angine après un infarctus
+I23.8	d'autres complications récentes d'un infarctus aigu du myocarde
+I24.0	thrombose coronaire aiguë n'entraînant pas un infarctus du myocarde
+I24.1	syndrome de Dressler
+I24.8	d'autres formes de cardiopathies ischémiques aiguës
+I24.9	cardiopathie ischémique aiguë, non spécifiée
+I25.10	cardiopathie athérosclérotique de l'artère coronaire native sans angine de poitrine
+I25.110	cardiopathie athérosclérotique de l'artère coronaire native avec une angine de poitrine instable
+I25.111	cardiopathie athérosclérotique de l'artère coronaire native avec une angine de poitrine avec un spasme documenté
+I25.118	cardiopathie athérosclérotique de l'artère coronaire native avec d'autres formes d'angine de poitrine
+I25.119	cardiopathie athérosclérotique de l'artère coronaire native avec une angine de poitrine non spécifiée
+I25.2	infarctus du myocarde, ancien
+I25.3	anévrisme du coeur
+I25.41	anévrisme de l'artère coronaire
+I25.42	dissection de l'artère coronaire
+I25.5	myocardiopathie ischémique
+I25.6	ischémie myocardiale asymptomatique
+I25.700	athérosclérose coronaire du pontage, non spécifiée, avec une angine de poitrine instable
+I25.701	athérosclérose coronaire du pontage, non spécifiée, angine de poitrine avec un spasme coronaire vérifié
+I25.708	athérosclérose coronaire du pontage, non spécifiée, avec une autre angine de poitrine
+I25.709	athérosclérose coronaire du pontage, non spécifiée, avec une angine de poitrine non spécifiée
+I25.710	athérosclérose coronaire du pontage veineux autologue avec une angine de poitrine instable
+I25.711	athérosclérose coronaire du pontage veineux autologue avec une angine avec un spasme coronaire vérifié
+I25.718	athérosclérose coronaire du pontage veineux autologue avec une autre angine de poitrine
+I25.719	athérosclérose coronaire du pontage veineux autologue avec une angine de poitrine non spécifiée
+I25.720	athérosclérose coronaire du pontage artériel autologue avec une angine de poitrine instable
+I25.721	athérosclérose coronaire du pontage artériel autologue avec une angine avec un spasme coronaire vérifié
+I25.728	athérosclérose coronaire du pontage artériel autologue avec une autre angine de poitrine
+I25.729	athérosclérose coronaire du pontage artériel autologue avec une angine de poitrine non spécifiée
+I25.730	athérosclérose coronaire du pontage biologique non autologue avec une angine de poitrine instable
+I25.731	athérosclérose coronaire du pontage biologique non autologue avec une angine avec un spasme coronaire vérifié
+I25.738	athérosclérose coronaire du pontage biologique non autologue avec une autre angine de poitrine
+I25.739	athérosclérose coronaire du pontage biologique non autologue avec une angine de poitrine non spécifiée
+I25.700	athérosclérose coronaire de la greffe, non spécifiée, avec une angine de poitrine instable
+I25.701	athérosclérose coronaire de la greffe, non spécifiée, angine de poitrine avec un spasme coronaire vérifié
+I25.708	athérosclérose coronaire de la greffe, non spécifiée, avec une autre angine de poitrine
+I25.709	athérosclérose coronaire de la greffe, non spécifiée, avec une angine de poitrine non spécifiée
+I25.710	athérosclérose coronaire de la greffe veineux autologue avec une angine de poitrine instable
+I25.711	athérosclérose coronaire de la greffe veineux autologue avec une angine avec un spasme coronaire vérifié
+I25.718	athérosclérose coronaire de la greffe veineux autologue avec une autre angine de poitrine
+I25.719	athérosclérose coronaire de la greffe veineux autologue avec une angine de poitrine non spécifiée
+I25.720	athérosclérose coronaire de la greffe artériel autologue avec une angine de poitrine instable
+I25.721	athérosclérose coronaire de la greffe artériel autologue avec une angine avec un spasme coronaire vérifié
+I25.728	athérosclérose coronaire de la greffe artériel autologue avec une autre angine de poitrine
+I25.729	athérosclérose coronaire de la greffe artériel autologue avec une angine de poitrine non spécifiée
+I25.730	athérosclérose coronaire de la greffe biologique non autologue avec une angine de poitrine instable
+I25.731	athérosclérose coronaire de la greffe biologique non autologue avec une angine avec un spasme coronaire vérifié
+I25.738	athérosclérose coronaire de la greffe biologique non autologue avec une autre angine de poitrine
+I25.739	athérosclérose coronaire de la greffe biologique non autologue avec une angine de poitrine non spécifiée
+I25.750	athérosclérose coronaire de l'artère coronaire native du coeur transplanté avec une angine de poitrine instable
+I25.751	athérosclérose coronaire de l'artère coronaire native du coeur transplanté avec une angine avec un spasme coronaire vérifié
+I25.758	athérosclérose coronaire de l'artère coronaire native du coeur transplanté avec une autre angine de poitrine
+I25.759	athérosclérose coronaire de l'artère coronaire native du coeur transplanté avec une angine de poitrine non spécifiée
+I25.760	athérosclérose de la greffe de pontage coronaire du coeur transplanté avec une angine de poitrine instable
+I25.761	athérosclérose de la greffe de pontage coronaire du coeur transplanté avec une angine avec un spasme coronaire vérifié
+I25.768	athérosclérose de la greffe de pontage coronaire du coeur transplanté avec une autre angine de poitrine
+I25.769	athérosclérose de la greffe de pontage coronaire du coeur transplanté avec une angine de poitrine non spécifiée
+I25.790	athérosclérose coronaire de la greffe d'un autre type spécifié avec une angine de poitrine instable
+I25.791	athérosclérose coronaire de la greffe d'un autre type spécifié avec une angine avec un spasme coronaire vérifié
+I25.798	athérosclérose coronaire de la greffe d'un autre type spécifié avec une autre angine de poitrine
+I25.799	athérosclérose coronaire de la greffe d'un autre type spécifié avec une angine de poitrine non spécifiée
+I25.810	athérosclérose coronaire de la greffe sans angine de poitrine
+I25.811	athérosclérose coronaire de l'artère coronaire native du coeur transplanté sans angine de poitrine
+I25.812	athérosclérose de la greffe de pontage coronaire du coeur transplanté sans angine de poitrine
+I25.82	occlusion totale chronique de l'artère coronaire
+I25.83	athérosclérose coronaire due à une plaque riche en lipides
+I25.84	athérosclérose coronaire due à une calcification d'une lésion coronaire
+I25.89	d'autres formes de cardiopathie ischémique chronique
+I25.9	cardiopathie ischémique chronique, non spécifiée
+I26.1	embolie pulmonaire septique avec coeur pulmonaire aigu
+I26.2	embolie en selle de l'atrère pulmonaire avec coeur pulmonaire aigu
+I26.9	autre embolie pulmonaire avec coeur pulmonaire aigu
+I26.90	embolie pulmonaire septique sans coeur pulmonaire aigu
+I26.92	embolie en selle de l'atrère pulmonaire sans coeur pulmonaire aigu
+I26.99	autre embolie pulmonaire sans coeur pulmonaire aigu
+I27.0	hypertension pulmonaire primitive
+I27.1	cardiopathie due à cyphoscoliose
+I27.2	autre hypertension pulmonaire secondaire
+I27.81	coeur pulmonaire 
+I27.81	coeur pulmonaire chronique
+I27.82	embolie pulmonaire chronique
+I27.89	d'autres affections cardio-pulmonaires spécifiées
+I27.9	maladie cardio-pulmonaire, non spécifiée
+I28.0	fistule artérioveineuse des vaisseaux pulmonaires
+I28.1	anévrisme de l'artère pulmonaire
+I28.8	d'autres maladies précisées des vaisseaux pulmonaires
+I28.9	maladie des vaisseaux pulmonaires, non spécifiée
+I30.0	péricardite idiopathique aiguë non spécifique
+I30.1	péricardite infectieuse
+I30.8	d'autres formes de péricardite aiguë
+I30.9	péricardite aiguë, non spécifiée
+I31.0	péricardite adhésive chronique
+I31.1	péricardite constrictive chronique
+I31.2	hémopéricarde, non classé ailleurs
+I31.3	effusion péricardiale
+I31.3	effusion péricardiale non inflammatoire
+I31.4	tamponnade cardiaque
+I31.8	d'autres maladies spécifiées du péricarde
+I31.9	maladie du péricarde, non spécifiée
+I32	péricardite au cours de maladies classées ailleurs
+I33.0	endocardite infectieuse aiguë et subaiguë
+I33.9	endocardite aiguë, non spécifiée
+I34.0	insuffisance non rhumatismale mitrale
+I34.0	insuffisance non rhumatismale de la valvule mitrale
+I34.1	prolapsus non rhumatismal mitrale
+I34.1	prolapsus non rhumatismal de la valvule mitrale
+I34.2	sténose non rhumatismale mitrale
+I34.2	sténose non rhumatismale de la valvule mitrale
+I34.8	d'autres troubles non rhumatismaux de la valvule mitrale
+I34.9	trouble non rhumatismal de la valvule mitrale, non spécifié
+I35.0	sténose non rhumatismale aortique
+I35.0	sténose non rhumatismale de la valvule aortique
+I35.1	insuffisance non rhumatismale aortique
+I35.1	insuffisance non rhumatismale de la valvule aortique
+I35.2	sténose non rhumatismale aortique avec insuffisance
+I35.2	sténose non rhumatismale de la valvule aortique avec insuffisance
+I35.8	d'autres troubles non rhumatismaux de la valvule aortique
+I35.9	trouble de la valvule aortique, non spécifié
+I36.0	sténose non rhumatismale tricuspide
+I36.0	sténose non rhumatismale de la valvule tricuspide
+I36.1	insuffisance non rhumatismale tricuspide
+I36.1	insuffisance non rhumatismale de la valvule tricuspide
+I36.2	sténose non rhumatismale tricuspide avec insuffisance
+I36.2	sténose non rhumatismale de la valvule tricuspide avec insuffisance
+I36.8	d'autres troubles non rhumatismaux de la valvule tricuspide
+I36.9	trouble non rhumatismal de la valvule tricuspide, non spécifié
+I37.0	sténose non rhumatismale de la valvule pulmonaire
+I37.1	insuffisance non rhumatismale de la valvule pulmonaire
+I37.2	sténose de la valvule pulmonaire avec insuffisance
+I37.8	d'autres troubles non rhumatismaux de la valvule pulmonaire
+I37.9	trouble non rhumatismal de la valvule pulmonaire, non spécifié
+I38	endocardite, valvule non spécifiée
+I39	endocardite et troubles valvulaires cardiaques au cours de maladies classées ailleurs
+I40.0	myocardite infectieuse
+I40.1	myocardite isolée
+I40.8	d'autres myocardites aiguës
+I40.9	myocardite aiguë, non spécifiée
+I41	myocardite au cours de maladies classées ailleurs
+I42.0	myocardiopathie avec dilatation
+I42.1	myocardiopathie obstructive hypertrophique
+I42.2	d'autres myocardiopathies hypertrophiques
+I42.3	maladie endomyocardiale 
+I42.3	maladie endomyocardiale éosinophilique
+I42.4	fibroélastose endocardiale
+I42.5	d'autres myocardiopathies restrictives
+I42.6	myocardiopathie alcoolique
+I42.7	myocardiopathie due à des médicaments et d'autres causes externes
+I42.8	d'autres myocardiopathies
+I42.9	myocardiopathie, non spécifiée
+I43	myocardiopathie au cours de maladies classées ailleurs
+I44.0	bloc auriculo-ventriculaire du premier degré
+I44.1	bloc auriculo-ventriculaire du second degré
+I44.2	bloc auriculo-ventriculaire complet
+I44.30	bloc auriculo-ventriculaire, non spécifié
+I44.39	autre bloc auriculo-ventriculaire
+I44.4	bloc fasciculaire antérieur gauche
+I44.5	bloc fasciculaire postérieur gauche
+I44.60	bloc fasciculaire postérieur, non spécifié
+I44.69	autre bloc fasciculaire postérieur
+I44.7	bloc de branche gauche, non spécifié
+I45.0	bloc fasciculaire droit
+I45.10	bloc fasciculaire non spécifié droit
+I45.19	autre bloc fasciculaire droit
+I45.2	bloc bifasciculaire
+I45.3	bloc trifasciculaire
+I45.4	bloc ventriculaire non spécifique
+I45.5	autre bloc cardiaque spécifié
+I45.6	syndrome de pré-excitation
+I45.81	syndrome de QT long
+I45.89	autre trouble de la conduction spécifié
+I45.9	trouble de la conduction, non spécifié
+I46.2	arrêt cardiaque, dû à une maladie cardiaque sous-jacente
+I46.8	arrêt cardiaque, dû à une autre maladie sous-jacente
+I46.9	arrêt cardiaque, non spécifié
+I47.0	arythmie ventriculaire de réentrée
+I47.1	tachycardie supraventriculaire
+I47.2	tachycardie ventriculaire
+I47.9	tachycardie paroxystique, non spécifiée
+I48.0	fibrillation auriculaire paroxysmale
+I48.1	fibrillation auriculaire persistante
+I48.2	fibrillation auriculaire chronique
+I48.3	flutter auriculaire typique
+I48.4	flutter auriculaire atypique
+I48.91	fibrillation auriculaire non spécifiée
+I48.92	flutter auriculaire non spécifié
+I49.1	flutter ventriculaire
+I49.2	flutter ventriculaire
+I49.1	dépolarisation auriculaire prématurée
+I49.2	dépolarisation jonctionnelle prématurée
+I49.3	dépolarisation ventriculaire prématurée
+I49.40	dépolarisation prématurée, non spécifiée
+I49.49	autre dépolarisation prématurée
+I49.5	syndrome du dysfonctionnement sinusal
+I49.8	d'autres arythmies cardiaques spécifiées
+I49.9	arythmie cardiaque, non spécifiée
+I50.1	défaillance ventriculaire gauche
+I50.20	défaillance cardiaque systolique, non spécifiée
+I50.20	défaillance cardiaque congestive systolique, non spécifiée
+I50.21	défaillance cardiaque systolique aiguë
+I50.21	défaillance cardiaque congestive systolique aiguë
+I50.22	défaillance cardiaque systolique chronique
+I50.22	défaillance cardiaque congestive systolique chronique
+I50.23	défaillance cardiaque systolique, aiguë sur insuffisance chronique
+I50.23	défaillance cardiaque congestive systolique, aiguë sur insuffisance chronique
+I50.30	défaillance cardiaque diastolique, non spécifiée
+I50.30	défaillance cardiaque congestive diastolique, non spécifiée
+I50.31	défaillance cardiaque diastolique, aiguë
+I50.31	défaillance cardiaque congestive diastolique, aiguë
+I50.32	défaillance cardiaque diastolique, chronique
+I50.32	défaillance cardiaque congestive diastolique, chronique
+I50.33	défaillance cardiaque diastolique, aiguë sur insuffisance chronique
+I50.33	défaillance cardiaque congestive diastolique, aiguë sur insuffisance chronique
+I50.40	défaillance cardiaque mixte systolique et diastolique, non spécifiée
+I50.40	défaillance cardiaque congestive mixte systolique et diastolique, non spécifiée
+I50.41	défaillance cardiaque mixte systolique et diastolique, aiguë
+I50.41	défaillance cardiaque congestive mixte systolique et diastolique, aiguë
+I50.42	défaillance cardiaque mixte systolique et diastolique, chronique
+I50.42	défaillance cardiaque congestive mixte systolique et diastolique, chronique
+I50.43	défaillance cardiaque mixte systolique et diastolique, aiguë sur insuffisance chronique
+I50.43	défaillance cardiaque congestive mixte systolique et diastolique, aiguë sur insuffisance chronique
+I50.9	défaillance cardiaque, non spécifiée
+I51.0	anomalie du septum cardiaque, acquise
+I51.1	rupture des cordages tendineux, non classée ailleurs
+I51.2	rupture du muscle papillaire, non classée ailleurs
+I51.3	thrombose intracardiaque, non classée ailleurs
+I51.4	myocardite, non spécifiée
+I51.5	dégénérescence du myocarde
+I51.7	cardiomégalie
+I51.81	syndrome de tako-tsubo
+I51.89	d'autres cardiopathies mal définies
+I51.9	cardiopathie, non spécifiée
+I52	d'autres cardiopathies au cours de maladies classées ailleurs
+I60.0	hémorragie sous-arachnoïdienne non traumatique de la bifurcation et du siphon carotidien, non spécifiée
+I60.1	hémorragie sous-arachnoïdienne non traumatique de la bifurcation et du siphon carotidien droits
+I60.2	hémorragie sous-arachnoïdienne non traumatique de la bifurcation et du siphon carotidien gauches
+I60.10	hémorragie sous-arachnoïdienne non traumatique de l'artère cérébrale moyenne non spécifiée
+I60.11	hémorragie sous-arachnoïdienne non traumatique de l'artère cérébrale moyenne droite
+I60.12	hémorragie sous-arachnoïdienne non traumatique de l'artère cérébrale moyenne gauche
+I60.20	hémorragie sous-arachnoïdienne non traumatique de l'artère communicante antérieure non spécifiée
+I60.21	hémorragie sous-arachnoïdienne non traumatique de l'artère communicante antérieure droite
+I60.22	hémorragie sous-arachnoïdienne non traumatique de l'artère communicante antérieure gauche
+I60.30	hémorragie sous-arachnoïdienne non traumatique de l'artère communicante postérieure non spécifiée
+I60.31	hémorragie sous-arachnoïdienne non traumatique de l'artère communicante postérieure droite
+I60.32	hémorragie sous-arachnoïdienne non traumatique de l'artère communicante postérieure gauche
+I60.4	hémorragie sous-arachnoïdienne non traumatique de l'artère basilaire
+I60.50	hémorragie sous-arachnoïdienne non traumatique d'une artère vertébrale non spécifiée
+I60.51	hémorragie sous-arachnoïdienne non traumatique de l'artère vertébrale droite
+I60.52	hémorragie sous-arachnoïdienne non traumatique de l'artère vertébrale gauche
+I60.6	hémorragie sous-arachnoïdienne d'autres artères intracrâniennes
+I60.7	hémorragie sous-arachnoïdienne d'une artère intracrânienne non spécifiée
+I60.8	d'autres hémorragies sous-arachnoïdiennes
+I60.9	hémorragie sous-arachnoïdienne, non spécifiée
+I61.0	hémorragie intracérébrale hémisphérique, sous-corticale
+I61.1	hémorragie intracérébrale hémisphérique, corticale
+I61.2	hémorragie intracérébrale hémisphérique, non spécifiée
+I61.3	hémorragie intracérébrale du tronc cérébral
+I61.4	hémorragie intracérébrale cérébelleuse
+I61.5	hémorragie intracérébrale intraventriculaire
+I61.6	hémorragie intracérébrale, localisations multiples
+I61.8	d'autres hémorragies intracérébrales
+I61.9	hémorragie intracérébrale, non spécifiée
+I62.0	hémorragie sous-durale non traumatique, non spécifiée
+I62.1	hémorragie sous-durale non traumatique, aiguë
+I62.2	hémorragie sous-durale non traumatique, subaiguë
+I62.3	hémorragie sous-durale non traumatique, chronique
+I62.1	hémorragie extradurale non traumatique
+I62.9	hémorragie intracrânienne, non spécifiée
+I62.9	hémorragie intracrânienne non traumatique, non spécifiée
+I63.0	infarctus cérébral dû à une thrombose de l'artères précérébrales non spécifiées
+I63.11	infarctus cérébral dû à une thrombose de l'artère vertébrale droite
+I63.12	infarctus cérébral dû à une thrombose de l'artère vertébrale gauche
+I63.19	infarctus cérébral dû à une thrombose d'une artère vertébrale non spécifiée
+I63.2	infarctus cérébral dû à une thrombose de l'artère basilaire
+I63.31	infarctus cérébral dû à une thrombose de l'artère carotide droite
+I63.32	infarctus cérébral dû à une thrombose de l'artère carotide gauche
+I63.39	infarctus cérébral dû à une thrombose d'une artère carotide non spécifiée
+I63.9	infarctus cérébral dû à une thrombose d'autres artères précérébrales
+I63.10	infarctus cérébral dû à une embolie de l'artères précérébrales non spécifiées
+I63.111	infarctus cérébral dû à une embolie de l'artère vertébrale droite
+I63.112	infarctus cérébral dû à une embolie de l'artère vertébrale gauche
+I63.119	infarctus cérébral dû à une embolie d'une artère vertébrale non spécifiée
+I63.12	infarctus cérébral dû à une embolie de l'artère basilaire
+I63.131	infarctus cérébral dû à une embolie de l'artère carotide droite
+I63.132	infarctus cérébral dû à une embolie de l'artère carotide gauche
+I63.139	infarctus cérébral dû à une embolie d'une artère carotide non spécifiée
+I63.19	infarctus cérébral dû à une embolie d'autres artères précérébrales
+I63.20	infarctus cérébral dû à une occlusion ou sténose non spécifiées de l'artères précérébrales non spécifiées
+I63.211	infarctus cérébral dû à une occlusion ou sténose non spécifiées de l'artère vertébrale droite
+I63.212	infarctus cérébral dû à une occlusion ou sténose non spécifiées de l'artère vertébrale gauche
+I63.219	infarctus cérébral dû à une occlusion ou une sténose d'une artère vertébrale non spécifiée
+I63.22	infarctus cérébral dû à une occlusion ou sténose non spécifiées de l'artère basilaire
+I63.231	infarctus cérébral dû à une occlusion ou sténose non spécifiées de l'artère carotide droite
+I63.232	infarctus cérébral dû à une occlusion ou sténose non spécifiées de l'artère carotide gauche
+I63.239	infarctus cérébral dû à une occlusion ou une sténose d'une artère carotide non spécifiée
+I63.29	infarctus cérébral dû à une occlusion ou sténose non spécifiées d'autres artères précérébrales
+I63.30	infarctus cérébral dû à une thrombose de l'artères cérébrales non spécifiées
+I63.311	infarctus cérébral dû à une thrombose de l'artère cérébrale moyenne droite
+I63.312	infarctus cérébral dû à une thrombose de l'artère cérébrale moyenne gauche
+I63.319	infarctus cérébral dû à une thrombose de l'artère cérébrale moyenne non spécifiée
+I63.321	infarctus cérébral dû à une thrombose de l'artère communicante antérieure droite
+I63.322	infarctus cérébral dû à une thrombose de l'artère communicante antérieure gauche
+I63.329	infarctus cérébral dû à une thrombose de l'artère communicante antérieure non spécifiée
+I63.331	infarctus cérébral dû à une thrombose de l'artère communicante postérieure droite
+I63.332	infarctus cérébral dû à une thrombose de l'artère communicante postérieure gauche
+I63.339	infarctus cérébral dû à une thrombose de l'artère communicante postérieure non spécifiée
+I63.341	infarctus cérébral dû à une thrombose des artères cérébelleuses droites
+I63.342	infarctus cérébral dû à une thrombose des artères cérébelleuses gauches
+I63.349	infarctus cérébral dû à une thrombose de l'artères cérébelleuses non spécifiées
+I63.39	infarctus cérébral dû à une thrombose d'autres artères cérébrales
+I63.40	infarctus cérébral dû à une embolie de l'artères cérébrales non spécifiées
+I63.411	infarctus cérébral dû à une embolie de l'artère cérébrale moyenne droite
+I63.412	infarctus cérébral dû à une embolie de l'artère cérébrale moyenne gauche
+I63.419	infarctus cérébral dû à une embolie de l'artère cérébrale moyenne non spécifiée
+I63.421	infarctus cérébral dû à une embolie de l'artère communicante antérieure droite
+I63.422	infarctus cérébral dû à une embolie de l'artère communicante antérieure gauche
+I63.429	infarctus cérébral dû à une embolie de l'artère communicante antérieure non spécifiée
+I63.431	infarctus cérébral dû à une embolie de l'artère communicante postérieure droite
+I63.432	infarctus cérébral dû à une embolie de l'artère communicante postérieure gauche
+I63.439	infarctus cérébral dû à une embolie de l'artère communicante postérieure non spécifiée
+I63.441	infarctus cérébral dû à une embolie d'une artère cérébelleuse droite
+I63.442	infarctus cérébral dû à une embolie d'une artère cérébelleuse gauche
+I63.449	infarctus cérébral dû à une embolie d'une artère cérébelleuse non spécifiée
+I63.49	infarctus cérébral dû à une embolie d'autres artères cérébrales
+I63.50	infarctus cérébral dû à une occlusion ou une sténose de l'artères cérébrales non spécifiées
+I63.511	infarctus cérébral dû à une occlusion ou sténose non spécifiées de l'artère cérébrale moyenne droite
+I63.512	infarctus cérébral dû à une occlusion ou sténose non spécifiées de l'artère cérébrale moyenne gauche
+I63.519	infarctus cérébral dû à une occlusion ou une sténose de l'artère cérébrale moyenne non spécifiée
+I63.521	infarctus cérébral dû à une occlusion ou sténose non spécifiées de l'artère communicante antérieure droite
+I63.522	infarctus cérébral dû à une occlusion ou sténose non spécifiées de l'artère communicante antérieure gauche
+I63.529	infarctus cérébral dû à une occlusion ou une sténose de l'artère communicante antérieure non spécifiée
+I63.531	infarctus cérébral dû à une occlusion ou sténose non spécifiées de l'artère communicante postérieure droite
+I63.532	infarctus cérébral dû à une occlusion ou sténose non spécifiées de l'artère communicante postérieure gauche
+I63.539	infarctus cérébral dû à une occlusion ou une sténose de l'artère communicante postérieure non spécifiée
+I63.541	infarctus cérébral dû à une occlusion ou sténose non spécifiées des artères cérébelleuses droites
+I63.542	infarctus cérébral dû à une occlusion ou sténose non spécifiées des artères cérébelleuses gauches
+I63.549	infarctus cérébral dû à une occlusion ou une sténose de l'artères cérébelleuses non spécifiées
+I63.59	infarctus cérébral dû à une occlusion ou sténose non spécifiées d'autres artères cérébrales
+I63.6	infarctus cérébral dû à une thrombose veineuse cérébrale, non pyogène
+I63.8	d'autres infarctus cérébraux
+I63.9	infarctus cérébral, non spécifié
+I65.1	occlusion et sténose de l'artère vertébrale droite
+I65.2	occlusion et sténose de l'artère vertébrale gauche
+I65.3	occlusion et sténose de l'artère vertébrale, bilatérale
+I65.9	occlusion et sténose d'une artère vertébrale non spécifiée
+I65.1	occlusion et sténose de l'artère basilaire
+I65.21	occlusion et sténose de l'artère carotide droite
+I65.22	occlusion et sténose de l'artère carotide gauche
+I65.23	occlusion et sténose de l'artère carotide, bilatérale
+I65.29	occlusion et sténose d'une artère carotide non spécifiée
+I65.8	occlusion et sténose d'une autre artère précérébrale
+I65.9	occlusion et sténose d'une artère précérébrale non spécifiée
+I66.1	occlusion et sténose de l'artère cérébrale moyenne droite
+I66.2	occlusion et sténose de l'artère cérébrale moyenne gauche
+I66.3	occlusion et sténose de l'artère cérébrale moyenne, bilatérale
+I66.9	occlusion et sténose de l'artère cérébrale moyenne non spécifiée
+I66.11	occlusion et sténose de l'artère cérébrale antérieure droite
+I66.12	occlusion et sténose de l'artère cérébrale antérieure gauche
+I66.13	occlusion et sténose de l'artère cérébrale antérieure, bilatérale
+I66.19	occlusion et sténose de l'artère cérébrale antérieure non spécifiée
+I66.21	occlusion et sténose de l'artère cérébrale postérieure droite
+I66.22	occlusion et sténose de l'artère cérébrale postérieure gauche
+I66.23	occlusion et sténose de l'artère cérébrale postérieure, bilatérale
+I66.29	occlusion et sténose de l'artère cérébrale postérieure non spécifiée
+I66.3	occlusion et sténose des artères cérébelleuses
+I66.8	occlusion et sténose d'une autre artère cérébrale
+I66.9	occlusion et sténose d'une artère cérébrale non spécifiée
+I67.0	dissection des artères cérébrales, non rompue
+I67.1	anévrisme cérébral, non rompu
+I67.2	athérosclérose cérébrale
+I67.3	leucoencéphalopathie vasculaire progressive
+I67.4	encéphalopathie hypertensive
+I67.5	maladie de Moyamoya
+I67.6	thrombose non pyogène du système veineux intracrânien
+I67.7	artérite cérébrale, non classée ailleurs
+I67.81	insuffisance vasculaire cérébrale aiguë
+I67.82	ischémie cérébrale
+I67.83	syndrome encéphalopathie réversible postérieure
+I67.841	syndrome vasoconstriction cérébrovasculaire réversible
+I67.848	autres vasospasme et vasoconstriction cérébrovasculaires
+I67.89	autre maladie cérébrovasculaire
+I67.9	maladie cérébrovasculaire, non spécifiée
+I68.0	angiopathie amyloïde cérébrale
+I68.2	artérite cérébrale au cours d'autres maladies classées ailleurs
+I68.8	d'autres troubles cérébrovasculaires au cours de maladies classées ailleurs
+I69.0	séquelles non spécifiées d'une hémorragie sous-arachnoïdienne non traumatique
+I69.1	déficits cognitifs après une hémorragie sous-arachnoïdienne non traumatique
+I69.20	aphasie après une hémorragie sous-arachnoïdienne non traumatique
+I69.21	dysphasie après une hémorragie sous-arachnoïdienne non traumatique
+I69.22	dysarthrie après une hémorragie sous-arachnoïdienne non traumatique
+I69.23	trouble de la fluidité après une hémorragie sous-arachnoïdienne non traumatique
+I69.28	d'autres troubles de la parole et du langage après une hémorragie sous-arachnoïdienne non traumatique
+I69.31	monoplégie du membre supérieur après une hémorragie sous-arachnoïdienne non traumatique affectant le côté dominant droit
+I69.32	monoplégie du membre supérieur après une hémorragie sous-arachnoïdienne non traumatique affectant le côté dominant gauche
+I69.33	monoplégie du membre supérieur après une hémorragie sous-arachnoïdienne non traumatique affectant le côté non-dominant droit
+I69.34	monoplégie du membre supérieur après une hémorragie sous-arachnoïdienne non traumatique affectant le côté non-dominant gauche
+I69.39	monoplégie du membre supérieur après une hémorragie sous-arachnoïdienne non traumatique affectant un côté non spécifié
+I69.41	monoplégie du membre inférieur après une hémorragie sous-arachnoïdienne non traumatique affectant le côté dominant droit
+I69.42	monoplégie du membre inférieur après une hémorragie sous-arachnoïdienne non traumatique affectant le côté dominant gauche
+I69.43	monoplégie du membre inférieur après une hémorragie sous-arachnoïdienne non traumatique affectant le côté non-dominant droit
+I69.44	monoplégie du membre inférieur après une hémorragie sous-arachnoïdienne non traumatique affectant le côté non-dominant gauche
+I69.49	monoplégie du membre inférieur après une hémorragie sous-arachnoïdienne non traumatique affectant un côté non spécifié
+I69.51	hémiplégie et hémiparésie après une hémorragie sous-arachnoïdienne non traumatique affectant le côté dominant droit
+I69.52	hémiplégie et hémiparésie après une hémorragie sous-arachnoïdienne non traumatique affectant le côté dominant gauche
+I69.53	hémiplégie et hémiparésie après une hémorragie sous-arachnoïdienne non traumatique affectant le côté non-dominant droit
+I69.54	hémiplégie et hémiparésie après une hémorragie sous-arachnoïdienne non traumatique affectant le côté non-dominant gauche
+I69.59	hémiplégie et hémiparésie après une hémorragie sous-arachnoïdienne non traumatique affectant un côté non spécifié
+I69.61	autre syndrome paralytique après une hémorragie sous-arachnoïdienne non traumatique affectant le côté dominant droit
+I69.62	autre syndrome paralytique après une hémorragie sous-arachnoïdienne non traumatique affectant le côté dominant gauche
+I69.63	autre syndrome paralytique après une hémorragie sous-arachnoïdienne non traumatique affectant le côté non-dominant droit
+I69.64	autre syndrome paralytique après une hémorragie sous-arachnoïdienne non traumatique affectant le côté non-dominant gauche
+I69.65	autre syndrome paralytique après une hémorragie sous-arachnoïdienne non traumatique, bilatéral
+I69.69	autre syndrome paralytique après une hémorragie sous-arachnoïdienne non traumatique affectant un côté non spécifié
+I69.90	apraxie après une hémorragie sous-arachnoïdienne non traumatique
+I69.91	dysphagie après une hémorragie sous-arachnoïdienne non traumatique
+I69.92	parésie faciale après une hémorragie sous-arachnoïdienne non traumatique
+I69.93	ataxie après une hémorragie sous-arachnoïdienne non traumatique
+I69.98	d'autres séquelles après une hémorragie sous-arachnoïdienne non traumatique
+I69.10	séquelles non spécifiées d'une hémorragie intracérébrale non traumatique
+I69.11	déficits cognitifs après une hémorragie intracérébrale non traumatique
+I69.120	aphasie après une hémorragie intracérébrale non traumatique
+I69.121	dysphasie après une hémorragie intracérébrale non traumatique
+I69.122	dysarthrie après une hémorragie intracérébrale non traumatique
+I69.123	trouble de la fluidité après une hémorragie intracérébrale non traumatique
+I69.128	d'autres troubles de la parole et du langage après une hémorragie intracérébrale non traumatique
+I69.131	monoplégie du membre supérieur après une hémorragie intracérébrale non traumatique affectant le côté dominant droit
+I69.132	monoplégie du membre supérieur après une hémorragie intracérébrale non traumatique affectant le côté dominant gauche
+I69.133	monoplégie du membre supérieur après une hémorragie intracérébrale non traumatique affectant le côté non-dominant droit
+I69.134	monoplégie du membre supérieur après une hémorragie intracérébrale non traumatique affectant le côté non-dominant gauche
+I69.149	monoplégie du membre inférieur après une hémorragie intracérébrale non traumatique affectant un côté non spécifié
+I69.151	hémiplégie et hémiparésie après une hémorragie intracérébrale non traumatique affectant le côté dominant droit
+I69.152	hémiplégie et hémiparésie après une hémorragie intracérébrale non traumatique affectant le côté dominant gauche
+I69.153	hémiplégie et hémiparésie après une hémorragie intracérébrale non traumatique affectant le côté non-dominant droit
+I69.154	hémiplégie et hémiparésie après une hémorragie intracérébrale non traumatique affectant le côté non-dominant gauche
+I69.159	hémiplégie et hémiparésie après une hémorragie intracérébrale non traumatique affectant un côté non spécifié
+I69.161	autre syndrome paralytique après une hémorragie intracérébrale non traumatique affectant le côté dominant droit
+I69.162	autre syndrome paralytique après une hémorragie intracérébrale non traumatique affectant le côté dominant gauche
+I69.163	autre syndrome paralytique après une hémorragie intracérébrale non traumatique affectant le côté non-dominant droit
+I69.164	autre syndrome paralytique après une hémorragie intracérébrale non traumatique affectant le côté non-dominant gauche
+I69.165	autre syndrome paralytique après une hémorragie intracérébrale non-traumatique, bilatéral
+I69.169	autre syndrome paralytique après une hémorragie intracérébrale non traumatique affectant un côté non spécifié
+I69.190	apraxie après une hémorragie intracérébrale non traumatique
+I69.191	dysphagie après une hémorragie intracérébrale non traumatique
+I69.192	parésie faciale après une hémorragie intracérébrale non traumatique
+I69.193	ataxie après une hémorragie intracérébrale non traumatique
+I69.198	d'autres séquelles après une hémorragie intracérébrale non traumatique
+I69.20	séquelles non spécifiées d'une hémorragie intracrânienne non traumatique
+I69.21	déficits cognitifs après une hémorragie intracrânienne non traumatique
+I69.220	aphasie après une hémorragie intracrânienne non traumatique
+I69.221	dysphasie après une hémorragie intracrânienne non traumatique
+I69.222	dysarthrie après une hémorragie intracrânienne non traumatique
+I69.223	trouble de la fluidité après une hémorragie intracrânienne non traumatique
+I69.228	d'autres troubles de la parole et du langage après une hémorragie intracrânienne non traumatique
+I69.231	monoplégie du membre supérieur après une hémorragie intracrânienne non traumatique affectant le côté dominant droit
+I69.232	monoplégie du membre supérieur après une hémorragie intracrânienne non traumatique affectant le côté dominant gauche
+I69.233	monoplégie du membre supérieur après une hémorragie intracrânienne non traumatique affectant le côté non-dominant droit
+I69.234	monoplégie du membre supérieur après une hémorragie intracrânienne non traumatique affectant le côté non-dominant gauche
+I69.239	monoplégie du membre supérieur après une hémorragie intracrânienne non traumatique affectant un côté non spécifié
+I69.241	monoplégie du membre inférieur après une hémorragie intracrânienne non traumatique affectant le côté dominant droit
+I69.242	monoplégie du membre inférieur après une hémorragie intracrânienne non traumatique affectant le côté dominant gauche
+I69.243	monoplégie du membre inférieur après une hémorragie intracrânienne non traumatique affectant le côté non-dominant droit
+I69.244	monoplégie du membre inférieur après une hémorragie intracrânienne non traumatique affectant le côté non-dominant gauche
+I69.249	monoplégie du membre inférieur après une hémorragie intracrânienne non traumatique affectant un côté non spécifié
+I69.251	hémiplégie et hémiparésie après une hémorragie intracrânienne non traumatique affectant le côté dominant droit
+I69.252	hémiplégie et hémiparésie après une hémorragie intracrânienne non traumatique affectant le côté dominant gauche
+I69.253	hémiplégie et hémiparésie après une hémorragie intracrânienne non traumatique affectant le côté non-dominant droit
+I69.254	hémiplégie et hémiparésie après une hémorragie intracrânienne non traumatique affectant le côté non-dominant gauche
+I69.259	hémiplégie et hémiparésie après une hémorragie intracrânienne non traumatique affectant un côté non spécifié
+I69.261	autre syndrome paralytique après une hémorragie intracrânienne non traumatique affectant le côté dominant droit
+I69.262	autre syndrome paralytique après une hémorragie intracrânienne non traumatique affectant le côté dominant gauche
+I69.263	autre syndrome paralytique après une hémorragie intracrânienne non traumatique affectant le côté non-dominant droit
+I69.264	autre syndrome paralytique après une hémorragie intracrânienne non traumatique affectant le côté non-dominant gauche
+I69.265	autre syndrome paralytique après une hémorragie intracrânienne non traumatique, bilatéral
+I69.269	autre syndrome paralytique après une hémorragie intracrânienne non traumatique affectant un côté non spécifié
+I69.290	apraxie après une hémorragie intracrânienne non traumatique
+I69.291	dysphagie après une hémorragie intracrânienne non traumatique
+I69.292	parésie faciale après une hémorragie intracrânienne non traumatique
+I69.293	ataxie après une hémorragie intracrânienne non traumatique
+I69.298	d'autres séquelles après une hémorragie intracrânienne non traumatique
+I69.30	séquelles non spécifiées d'un infarctus cérébral
+I69.31	déficits cognitifs après un infarctus cérébral
+I69.320	aphasie après un infarctus cérébral
+I69.321	dysphasie après un infarctus cérébral
+I69.322	dysarthrie après un infarctus cérébral
+I69.323	trouble de la fluidité après un infarctus cérébral
+I69.328	d'autres troubles de la parole et du langage après un infarctus cérébral
+I69.331	monoplégie du membre supérieur après un infarctus cérébral affectant le côté dominant droit
+I69.332	monoplégie du membre supérieur après un infarctus cérébral affectant le côté dominant gauche
+I69.333	monoplégie du membre supérieur après un infarctus cérébral affectant le côté non-dominant droit
+I69.334	monoplégie du membre supérieur après un infarctus cérébral affectant le côté non-dominant gauche
+I69.339	monoplégie du membre supérieur après un infarctus cérébral affectant un côté non spécifié
+I69.341	monoplégie du membre inférieur après un infarctus cérébral affectant le côté dominant droit
+I69.342	monoplégie du membre inférieur après un infarctus cérébral affectant le côté dominant gauche
+I69.343	monoplégie du membre inférieur après un infarctus cérébral affectant le côté non-dominant droit
+I69.344	monoplégie du membre inférieur après un infarctus cérébral affectant le côté non-dominant gauche
+I69.349	monoplégie du membre inférieur après un infarctus cérébral affectant un côté non spécifié
+I69.351	hémiplégie et hémiparésie après un infarctus cérébral affectant le côté dominant droit
+I69.352	hémiplégie et hémiparésie après un infarctus cérébral affectant le côté dominant gauche
+I69.353	hémiplégie et hémiparésie après un infarctus cérébral affectant le côté non-dominant droit
+I69.354	hémiplégie et hémiparésie après un infarctus cérébral affectant le côté non-dominant gauche
+I69.359	hémiplégie et hémiparésie après un infarctus cérébral affectant un côté non spécifié
+I69.361	autre syndrome paralytique après un infarctus cérébral affectant le côté dominant droit
+I69.362	autre syndrome paralytique après un infarctus cérébral affectant le côté dominant gauche
+I69.363	autre syndrome paralytique après un infarctus cérébral affectant le côté non-dominant droit
+I69.364	autre syndrome paralytique après un infarctus cérébral affectant le côté non-dominant gauche
+I69.365	autre syndrome paralytique après un infarctus cérébral, bilatéral
+I69.369	autre syndrome paralytique après un infarctus cérébral affectant un côté non spécifié
+I69.390	apraxie après un infarctus cérébral
+I69.391	dysphagie après un infarctus cérébral
+I69.392	parésie faciale après un infarctus cérébral
+I69.393	ataxie après un infarctus cérébral
+I69.398	d'autres séquelles après un infarctus cérébral
+I69.80	séquelles non spécifiées d'une autre maladie cérébrovasculaire
+I69.81	déficits cognitifs après une autre maladie cérébrovasculaire
+I69.820	aphasie après une autre maladie cérébrovasculaire
+I69.821	dysphasie après une autre maladie cérébrovasculaire
+I69.822	dysarthrie après une autre maladie cérébrovasculaire
+I69.823	trouble de la fluidité après une autre maladie cérébrovasculaire
+I69.828	d'autres troubles de la parole et du langage après une autre maladie cérébrovasculaire
+I69.831	monoplégie du membre supérieur après une autre maladie cérébrovasculaire affectant le côté dominant droit
+I69.832	monoplégie du membre supérieur après une autre maladie cérébrovasculaire affectant le côté dominant gauche
+I69.833	monoplégie du membre supérieur après une autre maladie cérébrovasculaire affectant le côté non-dominant droit
+I69.834	monoplégie du membre supérieur après une autre maladie cérébrovasculaire affectant le côté non-dominant gauche
+I69.839	monoplégie du membre supérieur après une autre maladie cérébrovasculaire affectant un côté non spécifié
+I69.841	monoplégie du membre inférieur après une autre maladie cérébrovasculaire affectant le côté dominant droit
+I69.842	monoplégie du membre inférieur après une autre maladie cérébrovasculaire affectant le côté dominant gauche
+I69.843	monoplégie du membre inférieur après une autre maladie cérébrovasculaire affectant le côté non-dominant droit
+I69.844	monoplégie du membre inférieur après une autre maladie cérébrovasculaire affectant le côté non-dominant gauche
+I69.849	monoplégie du membre inférieur après une autre maladie cérébrovasculaire affectant un côté non spécifié
+I69.851	hémiplégie et hémiparésie après une autre maladie cérébrovasculaire affectant le côté dominant droit
+I69.852	hémiplégie et hémiparésie après une autre maladie cérébrovasculaire affectant le côté dominant gauche
+I69.853	hémiplégie et hémiparésie après une autre maladie cérébrovasculaire affectant le côté non-dominant droit
+I69.854	hémiplégie et hémiparésie après une autre maladie cérébrovasculaire affectant le côté non-dominant gauche
+I69.859	hémiplégie et hémiparésie après une autre maladie cérébrovasculaire affectant un côté non spécifié
+I69.861	autre syndrome paralytique après une autre maladie cérébrovasculaire affectant le côté dominant droit
+I69.862	autre syndrome paralytique après une autre maladie cérébrovasculaire affectant le côté dominant gauche
+I69.863	autre syndrome paralytique après une autre maladie cérébrovasculaire affectant le côté non-dominant droit
+I69.864	autre syndrome paralytique après une autre maladie cérébrovasculaire affectant le côté non-dominant gauche
+I69.865	autre syndrome paralytique après une autre maladie cérébrovasculaire, bilatéral
+I69.869	autre syndrome paralytique après une autre maladie cérébrovasculaire affectant un côté non spécifié
+I69.890	apraxie après une autre maladie cérébrovasculaire
+I69.891	dysphagie après une autre maladie cérébrovasculaire
+I69.892	parésie faciale après une autre maladie cérébrovasculaire
+I69.893	ataxie après une autre maladie cérébrovasculaire
+I69.898	d'autres séquelles après une autre maladie cérébrovasculaire
+I69.90	séquelles non spécifiées d'une maladie cérébrovasculaire non spécifiée
+I69.91	déficits cognitifs après une maladie cérébrovasculaire non spécifiée
+I69.920	aphasie après une maladie cérébrovasculaire non spécifiée
+I69.921	dysphasie après une maladie cérébrovasculaire non spécifiée
+I69.922	dysarthrie après une maladie cérébrovasculaire non spécifiée
+I69.923	trouble de la fluidité après une maladie cérébrovasculaire non spécifiée
+I69.928	d'autres troubles de la parole et du langage après une maladie cérébrovasculaire non spécifiée
+I69.931	monoplégie du membre supérieur après une maladie cérébrovasculaire non spécifiée affectant le côté dominant droit
+I69.932	monoplégie du membre supérieur après une maladie cérébrovasculaire non spécifiée affectant le côté dominant gauche
+I69.933	monoplégie du membre supérieur après une maladie cérébrovasculaire non spécifiée affectant le côté non-dominant droit
+I69.934	monoplégie du membre supérieur après une maladie cérébrovasculaire non spécifiée affectant le côté non-dominant gauche
+I69.939	monoplégie du membre supérieur après une maladie cérébrovasculaire non spécifiée affectant un côté non spécifié
+I69.941	monoplégie du membre inférieur après une maladie cérébrovasculaire non spécifiée affectant le côté dominant droit
+I69.942	monoplégie du membre inférieur après une maladie cérébrovasculaire non spécifiée affectant le côté dominant gauche
+I69.943	monoplégie du membre inférieur après une maladie cérébrovasculaire non spécifiée affectant le côté non-dominant droit
+I69.954	hémiplégie et hémiparésie après une maladie cérébrovasculaire non spécifiée affectant le côté non-dominant gauche
+I69.959	hémiplégie et hémiparésie après une maladie cérébrovasculaire non spécifiée affectant un côté non spécifié
+I69.961	autre syndrome paralytique après une maladie cérébrovasculaire non spécifiée affectant le côté dominant droit
+I69.962	autre syndrome paralytique après une maladie cérébrovasculaire non spécifiée affectant le côté dominant gauche
+I69.963	autre syndrome paralytique après une maladie cérébrovasculaire non spécifiée affectant le côté non-dominant droit
+I69.964	autre syndrome paralytique après une maladie cérébrovasculaire non spécifiée affectant le côté non-dominant gauche
+I69.965	autre syndrome paralytique après une maladie cérébrovasculaire non spécifiée, bilatéral
+I69.969	autre syndrome paralytique après une maladie cérébrovasculaire non spécifiée affectant un côté non spécifié
+I69.990	apraxie après une maladie cérébrovasculaire non spécifiée
+I69.991	dysphagie après une maladie cérébrovasculaire non spécifiée
+I69.992	parésie faciale après une maladie cérébrovasculaire non spécifiée
+I69.993	ataxie après une maladie cérébrovasculaire non spécifiée
+I69.998	d'autres séquelles après une maladie cérébrovasculaire non spécifiée
+I70.0	athérosclérose de l'aorte
+I70.1	athérosclérose de l'artère rénale
+I70.201	athérosclérose non spécifiée des artères natives des membres, jambe droite
+I70.202	athérosclérose non spécifiée des artères natives des membres, jambe gauche
+I70.203	athérosclérose non spécifiée des artères natives des membres, jambes, bilatérales
+I70.208	athérosclérose non spécifiée des artères natives des extrémités, autre extrémité
+I70.209	athérosclérose non spécifiée des artères natives des extrémités, extrémité non spécifiée
+I70.211	athérosclérose non spécifiée des artères natives des membres avec claudication intermittente, jambe droite
+I70.212	athérosclérose non spécifiée des artères natives des membres avec claudication intermittente, jambe gauche
+I70.213	athérosclérose non spécifiée des artères natives des membres avec claudication intermittente, jambes, bilatérales
+I70.218	athérosclérose des artères natives des extrémités avec claudication intermittente, autre extrémité
+I70.219	athérosclérose non spécifiée des artères natives des extrémités avec claudication intermittente, extrémité non spécifiée
+I70.221	athérosclérose non spécifiée des artères natives des membres avec douleur au repos, jambe droite
+I70.222	athérosclérose non spécifiée des artères natives des membres avec douleur au repos, jambe gauche
+I70.223	athérosclérose non spécifiée des artères natives des membres avec douleur au repos, jambes, bilatérales
+I70.228	athérosclérose des artères natives des extrémités avec douleur au repos, autre extrémité
+I70.229	athérosclérose non spécifiée des artères natives des extrémités avec douleur au repos, extrémité non spécifiée
+I70.231	athérosclérose des artères natives du membre inférieur droit avec ulcération de la cuisse
+I70.232	athérosclérose des artères natives du membre inférieur droit avec ulcération du mollet
+I70.233	athérosclérose des artères natives du membre inférieur droit avec ulcération de la cheville
+I70.234	athérosclérose des artères natives du membre inférieur droit avec ulcération du talon et du métatarse
+I70.235	athérosclérose des artères natives du membre inférieur droit avec ulcération d'une autre partie du pied
+I70.238	athérosclérose des artères natives du membre inférieur droit avec ulcération d'une autre partie de la jambe inférieure droite
+I70.239	athérosclérose des artères natives du membre inférieur droit avec ulcération d'un site non spécifié
+I70.241	athérosclérose des artères natives du membre inférieur gauche avec ulcération de la cuisse
+I70.242	athérosclérose des artères natives du membre inférieur gauche avec ulcération du mollet
+I70.243	athérosclérose des artères natives du membre inférieur gauche avec ulcération de la cheville
+I70.244	athérosclérose des artères natives du membre inférieur gauche avec ulcération du talon et du métatarse
+I70.245	athérosclérose des artères natives du membre inférieur gauche avec ulcération d'une autre partie du pied
+I70.248	athérosclérose des artères natives du membre inférieur gauche avec ulcération d'une autre partie de la jambe inférieure gauche
+I70.249	athérosclérose des artères natives du membre inférieur gauche avec ulcération d'un site non spécifié
+I70.25	athérosclérose des artères natives d'autres membres avec ulcération
+I70.261	athérosclérose des artères natives des membres avec gangrène, jambe droite
+I70.262	athérosclérose des artères natives des membres avec gangrène, jambe gauche
+I70.263	athérosclérose des artères natives des membres avec gangrène, jambes, bilatérales
+I70.268	athérosclérose des artères natives des extrémités avec gangrène, d'autres extrémités
+I70.269	athérosclérose des artères natives des extrémités avec gangrène, extrémités non spécifiées
+I70.291	autre athérosclérose des artères natives des membres, jambe droite
+I70.292	autre athérosclérose des artères natives des membres, jambe gauche
+I70.293	autre athérosclérose des artères natives des membres, jambes, bilatérales
+I70.298	autre athérosclérose des artères natives des extrémités, autre extrémité
+I70.299	autre athérosclérose des artères natives des extrémités, extrémité non spécifiée
+I70.301	athérosclérose non spécifiée du pontage d'un type non spécifié des membres, jambe droite
+I70.301	greffe des membres, jambe droite
+I70.302	athérosclérose non spécifiée du pontage d'un type non spécifié des membres, jambe gauche
+I70.302 greffe des membres, jambe gauche
+I70.303	athérosclérose non spécifiée du pontage d'un type non spécifié des membres, jambes, bilatérales
+I70.303	greffe des membres, jambes, bilatérales
+I70.308	athérosclérose non spécifiée du pontage d'un type non spécifié des extrémités
+I70.308	greffe des extrémités, autre extrémité
+I70.309	athérosclérose non spécifiée du pontage d'un type non spécifié des extrémités, extrémité non spécifiée
+I70.309	greffe des extrémités, extrémité non spécifiée
+I70.311	athérosclérose du pontage d'un type non spécifié des membres avec claudication intermittente, jambe droite
+I70.311	greffe des membres avec claudication intermittente, jambe droite
+I70.312	athérosclérose du pontage d'un type non spécifié des membres avec claudication intermittente, jambe gauche
+I70.312	greffe des membres avec claudication intermittente, jambe gauche
+I70.313	athérosclérose du pontage d'un type non spécifié des membres avec claudication intermittente, jambes, bilatérales
+I70.313	greffe des membres avec claudication intermittente, jambes, bilatérales
+I70.318	athérosclérose du pontage d'un type non spécifié des extrémités avec claudication intermittente, autre extrémité
+I70.318	greffe des extrémités avec claudication intermittente, autre extrémité
+I70.319	athérosclérose du pontage d'un type non spécifié des extrémités avec claudication intermittente, extrémité non spécifiée
+I70.319	greffe des extrémités avec claudication intermittente, extrémité non spécifiée
+I70.611	athérosclérose d'une greffe non biologique des membres avec claudication intermittente, jambe droite
+I70.612	athérosclérose d'une greffe non biologique des membres avec claudication intermittente, jambe gauche
+I70.613	athérosclérose d'une greffe non biologique des membres avec claudication intermittente, jambes, bilatérales
+I70.618	athérosclérose d'une greffe non biologique des extrémités avec claudication intermittente, autre extrémité
+I70.619	athérosclérose d'une greffe non biologique des extrémités avec claudication intermittente, extrémité non spécifiée
+I70.761	athérosclérose d'un autre type de pontage des membres avec gangrène, jambe droite
+I70.761	greffe des membres avec gangrène, jambe droite
+I70.762	athérosclérose d'un autre type de pontage des membres avec gangrène, jambe gauche
+I70.762	greffe des membres avec gangrène, jambe gauche
+I70.763	athérosclérose d'un autre type de pontage des membres avec gangrène, jambes, bilatérales
+I70.763	greffe des membres avec gangrène, jambes, bilatérales
+I70.768	athérosclérose d'un autre type de pontage des extrémités avec gangrène, autre extrémité
+I70.768	greffe des extrémités avec gangrène, autre extrémité
+I70.769	athérosclérose d'un autre type de pontage des extrémités avec gangrène, extrémité non spécifiée
+I70.769	greffe des extrémités avec gangrène, extrémité non spécifiée
+I80.292	phlébite et thrombophlébite d'autres vaisseaux profonds de l'extrémité inférieure gauche
+I80.293	phlébite et thrombophlébite d'autres vaisseaux profonds des extrémités inférieures, bilatérales
+I80.299	phlébite et thrombophlébite d'autres vaisseaux profonds d'une extrémité inférieure non spécifiée
+I80.3	phlébite et thrombophlébite des membres inférieurs, non spécifiées
+I80.8	phlébite et thrombophlébite d'autres localisations
+I80.9	phlébite et thrombophlébite d'un site non spécifié
+I81	thrombose de la veine porte
+I82.0	syndrome de Budd-Chiari
+I82.5Z1	embolie et thrombose chronique de veines profondes non spécifiées de l'extrémité inférieure distale droite
+I82.5Z2	embolie et thrombose chronique de veines profondes non spécifiées de l'extrémité inférieure distale gauche
+I82.5Z3	embolie et thrombose chronique de veines profondes non spécifiées de l'extrémité inférieure distale, bilatérale
+I82.5Z9	embolie et thrombose chronique de veines profondes non spécifiées d'une extrémité inférieure distale non spécifiée
+I70.321	athérosclérose du pontage d'un type non spécifié des membres avec douleur au repos, jambe droite
+I70.321	greffe des membres avec douleur au repos, jambe droite
+I70.322	athérosclérose du pontage d'un type non spécifié des membres avec douleur au repos, jambe gauche
+I70.322	greffe des membres avec douleur au repos, jambe gauche
+I70.323	athérosclérose du pontage d'un type non spécifié des membres avec douleur au repos, jambes, bilatérales
+I70.323	greffe des membres avec douleur au repos, jambes, bilatérales
+I70.328	athérosclérose du pontage d'un type non spécifié des extrémités avec douleur au repos, autre extrémité
+I70.328	greffe des extrémités avec douleur au repos, autre extrémité
+I70.329	athérosclérose du pontage d'un type non spécifié des extrémités avec douleur au repos, extrémité non spécifiée
+I70.329	greffe des extrémités avec douleur au repos, extrémité non spécifiée
+I70.331	athérosclérose du pontage d'un type non spécifié du membre inférieur droit avec ulcération de la cuisse
+I70.331	greffe du membre inférieur droit avec ulcération de la cuisse
+I70.332	athérosclérose du pontage d'un type non spécifié du membre inférieur droit avec ulcération du mollet
+I70.332	greffe du membre inférieur droit avec ulcération du mollet
+I70.333	athérosclérose du pontage d'un type non spécifié du membre inférieur droit avec ulcération de la cheville
+I70.333	greffe du membre inférieur droit avec ulcération de la cheville
+I70.334	athérosclérose du pontage d'un type non spécifié du membre inférieur droit avec ulcération du talon et du métatarse
+I70.334	greffe du membre inférieur droit avec ulcération du talon et du métatarse
+I70.335	athérosclérose du pontage d'un type non spécifié du membre inférieur droit avec ulcération d'une autre partie du pied
+I70.335	greffe du membre inférieur droit avec ulcération d'une autre partie du pied
+I70.338	athérosclérose du pontage d'un type non spécifié de la jambe droite avec ulcération d'une autre partie de la jambe inférieure
+I70.338	greffe de la jambe droite avec ulcération d'une autre partie de la jambe inférieure
+I70.339	athérosclérose du pontage d'un type non spécifié du membre inférieur droit avec ulcération d'un site non spécifié
+I70.339	greffe du membre inférieur droit avec ulcération d'un site non spécifié
+I70.341	athérosclérose du pontage d'un type non spécifié du membre inférieur gauche avec ulcération de la cuisse
+I70.341	greffe du membre inférieur gauche avec ulcération de la cuisse
+I70.342	athérosclérose du pontage d'un type non spécifié du membre inférieur gauche avec ulcération du mollet
+I70.342	greffe du membre inférieur gauche avec ulcération du mollet
+I70.343	athérosclérose du pontage d'un type non spécifié du membre inférieur gauche avec ulcération de la cheville
+I70.343	greffe du membre inférieur gauche avec ulcération de la cheville
+I70.344	athérosclérose du pontage d'un type non spécifié du membre inférieur gauche avec ulcération du talon et du métatarse
+I70.344	greffe du membre inférieur gauche avec ulcération du talon et du métatarse
+I70.345	athérosclérose du pontage d'un type non spécifié du membre inférieur gauche avec ulcération d'une autre partie du pied
+I70.345 greffe du membre inférieur gauche avec ulcération d'une autre partie du pied
+I70.348	athérosclérose du pontage d'un type non spécifié de la jambe gauche avec ulcération d'une autre partie de la jambe inférieure
+I70.348	greffe de la jambe gauche avec ulcération d'une autre partie de la jambe inférieure
+I70.349	athérosclérose du pontage d'un type non spécifié du membre inférieur gauche avec ulcération d'un site non spécifié
+I70.349	greffe du membre inférieur gauche avec ulcération d'un site non spécifié
+I70.35	athérosclérose du pontage d'un type non spécifié d'une autre extrémité avec ulcération
+I70.35	greffe d'une autre extrémité avec ulcération
+I70.361	athérosclérose du pontage d'un type non spécifié des membres avec gangrène, jambe droite
+I70.361	greffe des membres avec gangrène, jambe droite
+I70.362	athérosclérose du pontage d'un type non spécifié des membres avec gangrène, jambe gauche
+I70.362	greffe des membres avec gangrène, jambe gauche
+I70.363	athérosclérose du pontage d'un type non spécifié des membres avec gangrène, jambes, bilatérales
+I70.363	greffe des membres avec gangrène, jambes, bilatérales
+I70.368	athérosclérose du pontage d'un type non spécifié des extrémités avec gangrène, autre extrémité
+I70.368	greffe des extrémités avec gangrène, autre extrémité
+I70.369	athérosclérose du pontage d'un type non spécifié des extrémités avec gangrène, extrémité non spécifiée
+I70.369	greffe des extrémités avec gangrène, extrémité non spécifiée
+I70.391	autre athérosclérose du pontage d'un type non spécifié des membres, jambe droite
+I70.391	greffe des membres, jambe droite
+I70.392	autre athérosclérose du pontage d'un type non spécifié des membres, jambe gauche
+I70.392	greffe des membres, jambe gauche
+I70.393	autre athérosclérose du pontage d'un type non spécifié des membres, jambes, bilatérales
+I70.393	greffe des membres, jambes, bilatérales
+I70.398	autre athérosclérose du pontage d'un type non spécifié des extrémités, autre extrémité
+I70.398	greffe des extrémités, autre extrémité
+I70.399	autre athérosclérose du pontage d'un type non spécifié des extrémités, extrémité non spécifiée
+I70.399	greffe des extrémités, extrémité non spécifiée
+I70.401	athérosclérose non spécifiée d'une greffe veineuse autologue des membres, jambe droite
+I70.402	athérosclérose non spécifiée d'une greffe veineuse autologue des membres, jambe gauche
+I70.403	athérosclérose non spécifiée d'une greffe veineuse autologue des membres, jambes, bilatérales
+I70.408	athérosclérose non spécifiée d'une greffe veineuse autologue des extrémités, autre extrémité
+I70.409	athérosclérose non spécifiée d'une greffe veineuse autologue des extrémités, extrémité non spécifiée
+I70.411	athérosclérose d'une greffe veineuse autologue des membres avec claudication intermittente, jambe droite
+I70.412	athérosclérose d'une greffe veineuse autologue des membres avec claudication intermittente, jambe gauche
+I70.413	athérosclérose d'une greffe veineuse autologue des membres avec claudication intermittente, jambes, bilatérales
+I70.418	athérosclérose d'une greffe veineuse autologue des extrémités avec claudication intermittente, autre extrémité
+I70.419	athérosclérose d'une greffe veineuse autologue des extrémités avec claudication intermittente, extrémité non spécifiée
+I70.421	athérosclérose d'une greffe veineuse autologue des membres avec douleur au repos, jambe droite
+I70.422	athérosclérose d'une greffe veineuse autologue des membres avec douleur au repos, jambe gauche
+I70.423	athérosclérose d'une greffe veineuse autologue des membres avec douleur au repos, jambes, bilatérales
+I70.428	athérosclérose d'une greffe veineuse autologue des extrémités avec douleur au repos, autre extrémité
+I70.429	athérosclérose d'une greffe veineuse autologue des extrémités avec douleur au repos, extrémité non spécifiée
+I70.431	athérosclérose d'une greffe veineuse autologue du membre inférieur droit avec ulcération de la cuisse
+I70.432	athérosclérose d'une greffe veineuse autologue du membre inférieur droit avec ulcération du mollet
+I70.433	athérosclérose d'une greffe veineuse autologue du membre inférieur droit avec ulcération de la cheville
+I70.434	athérosclérose d'une greffe veineuse autologue du membre inférieur droit avec ulcération du talon et du métatarse
+I70.435	athérosclérose d'une greffe veineuse autologue du membre inférieur droit avec ulcération d'une autre partie du pied
+I70.438	athérosclérose d'une greffe veineuse autologue de la jambe droite avec ulcération d'une autre partie de la jambe inférieure
+I70.439	athérosclérose d'une greffe veineuse autologue du membre inférieur droit avec ulcération d'un site non spécifié
+I70.441	athérosclérose d'une greffe veineuse autologue du membre inférieur gauche avec ulcération de la cuisse
+I70.442	athérosclérose d'une greffe veineuse autologue du membre inférieur gauche avec ulcération du mollet
+I70.443	athérosclérose d'une greffe veineuse autologue du membre inférieur gauche avec ulcération de la cheville
+I70.444	athérosclérose d'une greffe veineuse autologue du membre inférieur gauche avec ulcération du talon et du métatarse
+I70.445	athérosclérose d'une greffe veineuse autologue du membre inférieur gauche avec ulcération d'une autre partie du pied
+I70.448	athérosclérose d'une greffe veineuse autologue de la jambe gauche avec ulcération d'une autre partie de la jambe inférieure
+I70.449	athérosclérose d'une greffe veineuse autologue du membre inférieur gauche avec ulcération d'un site non spécifié
+I70.45	athérosclérose d'une greffe veineuse autologue d'une autre extrémité avec ulcération
+I70.461	athérosclérose d'une greffe veineuse autologue des membres avec gangrène, jambe droite
+I70.462	athérosclérose d'une greffe veineuse autologue des membres avec gangrène, jambe gauche
+I70.463	athérosclérose d'une greffe veineuse autologue des membres avec gangrène, jambes, bilatérales
+I70.468	athérosclérose d'une greffe veineuse autologue des extrémités avec gangrène, autre extrémité
+I70.469	athérosclérose d'une greffe veineuse autologue des extrémités avec gangrène, extrémité non spécifiée
+I70.491	autre athérosclérose d'une greffe veineuse autologue des membres, jambe droite
+I70.492	autre athérosclérose d'une greffe veineuse autologue des membres, jambe gauche
+I70.493	autre athérosclérose d'une greffe veineuse autologue des membres, jambes, bilatérales
+I70.498	autre athérosclérose d'une greffe veineuse autologue des extrémités, autre extrémité
+I70.499	autre athérosclérose d'une greffe veineuse autologue des extrémités, extrémité non spécifiée
+I70.501	athérosclérose non spécifiée d'une greffe biologique non autologue des membres, jambe droite
+I70.502	athérosclérose non spécifiée d'une greffe biologique non autologue des membres, jambe gauche
+I70.503	athérosclérose non spécifiée d'une greffe biologique non autologue des membres, jambes, bilatérales
+I70.508	athérosclérose non spécifiée d'une greffe biologique non autologue des extrémités, autre extrémité
+I70.509	athérosclérose non spécifiée d'une greffe biologique non autologue des extrémités, extrémité non spécifiée
+I70.511	athérosclérose d'une greffe biologique non autologue des membres avec claudication intermittente, jambe droite
+I70.512	athérosclérose d'une greffe biologique non autologue des membres avec claudication intermittente, jambe gauche
+I70.513	athérosclérose d'une greffe biologique non autologue des membres avec claudication intermittente, jambes, bilatérales
+I70.518	athérosclérose d'une greffe biologique non autologue des extrémités avec claudication intermittente, autre extrémité
+I70.519	athérosclérose d'une greffe biologique non autologue des extrémités avec claudication intermittente, extrémité non spécifiée
+I70.521	athérosclérose d'une greffe biologique non autologue des membres avec douleur au repos, jambe droite
+I70.522	athérosclérose d'une greffe biologique non autologue des membres avec douleur au repos, jambe gauche
+I70.523	athérosclérose d'une greffe biologique non autologue des membres avec douleur au repos, jambes, bilatérales
+I70.528	athérosclérose d'une greffe biologique non autologue des extrémités avec douleur au repos, autre extrémité
+I70.529	athérosclérose d'une greffe biologique non autologue des extrémités avec douleur au repos, extrémité non spécifiée
+I70.531	athérosclérose d'une greffe biologique non autologue du membre inférieur droit avec ulcération de la cuisse
+I70.532	athérosclérose d'une greffe biologique non autologue du membre inférieur droit avec ulcération du mollet
+I70.533	athérosclérose d'une greffe biologique non autologue du membre inférieur droit avec ulcération de la cheville
+I70.534	athérosclérose d'une greffe biologique non autologue du membre inférieur droit avec ulcération du talon et du métatarse
+I70.535	athérosclérose d'une greffe biologique non autologue du membre inférieur droit avec ulcération d'une autre partie du pied
+I70.538	athérosclérose d'une greffe biologique non autologue de la jambe droite avec ulcération d'une autre partie de la jambe inférieure
+I70.539	athérosclérose d'une greffe biologique non autologue du membre inférieur droit avec ulcération d'un site non spécifié
+I70.541	athérosclérose d'une greffe biologique non autologue du membre inférieur gauche avec ulcération de la cuisse
+I70.542	athérosclérose d'une greffe biologique non autologue du membre inférieur gauche avec ulcération du mollet
+I70.543	athérosclérose d'une greffe biologique non autologue du membre inférieur gauche avec ulcération de la cheville
+I70.544	athérosclérose d'une greffe biologique non autologue du membre inférieur gauche avec ulcération du talon et du métatarse
+I70.545	athérosclérose d'une greffe biologique non autologue du membre inférieur gauche avec ulcération d'une autre partie du pied
+I70.548	athérosclérose d'une greffe biologique non autologue de la jambe gauche avec ulcération d'une autre partie de la jambe inférieure
+I70.549	athérosclérose d'une greffe biologique non autologue du membre inférieur gauche avec ulcération d'un site non spécifié
+I70.55	athérosclérose d'une greffe biologique non autologue d'une autre extrémité avec ulcération
+I70.561	athérosclérose d'une greffe biologique non autologue des membres avec gangrène, jambe droite
+I70.562	athérosclérose d'une greffe biologique non autologue des membres avec gangrène, jambe gauche
+I70.563	athérosclérose d'une greffe biologique non autologue des membres avec gangrène, jambes, bilatérales
+I70.568	athérosclérose d'une greffe biologique non autologue des extrémités avec gangrène, autre extrémité
+I70.569	athérosclérose d'une greffe biologique non autologue des extrémités avec gangrène, extrémité non spécifiée
+I70.591	autre athérosclérose d'une greffe biologique non autologue des membres, jambe droite
+I70.592	autre athérosclérose d'une greffe biologique non autologue des membres, jambe gauche
+I70.593	autre athérosclérose d'une greffe biologique non autologue des membres, jambes, bilatérales
+I70.598	autre athérosclérose d'une greffe biologique non autologue des extrémités, autre extrémité
+I70.599	autre athérosclérose d'une greffe biologique non autologue des extrémités, extrémité non spécifiée
+I70.601	athérosclérose non spécifiée d'une greffe non biologique des membres, jambe droite
+I70.602	athérosclérose non spécifiée d'une greffe non biologique des membres, jambe gauche
+I70.603	athérosclérose non spécifiée d'une greffe non biologique des membres, jambes, bilatérales
+I70.608	athérosclérose non spécifiée d'une greffe non biologique des extrémités, autre extrémité
+I70.609	athérosclérose non spécifiée d'une greffe non biologique des extrémités, extrémité non spécifiée
+I70.621	athérosclérose d'une greffe non biologique des membres avec douleur au repos, jambe droite
+I70.622	athérosclérose d'une greffe non biologique des membres avec douleur au repos, jambe gauche
+I70.623	athérosclérose d'une greffe non biologique des membres avec douleur au repos, jambes, bilatérales
+I70.628	athérosclérose d'une greffe non biologique des extrémités avec douleur au repos, autre extrémité
+I70.629	athérosclérose d'une greffe non biologique des extrémités avec douleur au repos, extrémité non spécifiée
+I70.631	athérosclérose d'une greffe non biologique du membre inférieur droit avec ulcération de la cuisse
+I70.632	athérosclérose d'une greffe non biologique du membre inférieur droit avec ulcération du mollet
+I70.633	athérosclérose d'une greffe non biologique du membre inférieur droit avec ulcération de la cheville
+I70.634	athérosclérose d'une greffe non biologique du membre inférieur droit avec ulcération du talon et du métatarse
+I70.635	athérosclérose d'une greffe non biologique du membre inférieur droit avec ulcération d'une autre partie du pied
+I70.638	athérosclérose d'une greffe non biologique de la jambe droite avec ulcération d'une autre partie de la jambe inférieure
+I70.639	athérosclérose d'une greffe non biologique du membre inférieur droit avec ulcération d'un site non spécifié
+I70.641	athérosclérose d'une greffe non biologique du membre inférieur gauche avec ulcération de la cuisse
+I70.642	athérosclérose d'une greffe non biologique du membre inférieur gauche avec ulcération du mollet
+I70.643	athérosclérose d'une greffe non biologique du membre inférieur gauche avec ulcération de la cheville
+I70.644	athérosclérose d'une greffe non biologique du membre inférieur gauche avec ulcération du talon et du métatarse
+I70.645	athérosclérose d'une greffe non biologique du membre inférieur gauche avec ulcération d'une autre partie du pied
+I70.648	athérosclérose d'une greffe non biologique de la jambe gauche avec ulcération d'une autre partie de la jambe inférieure
+I70.649	athérosclérose d'une greffe non biologique du membre inférieur gauche avec ulcération d'un site non spécifié
+I70.65	athérosclérose d'une greffe non biologique d'une autre extrémité avec ulcération
+I70.661	athérosclérose d'une greffe non biologique des membres avec gangrène, jambe droite
+I70.662	athérosclérose d'une greffe non biologique des membres avec gangrène, jambe gauche
+I70.663	athérosclérose d'une greffe non biologique des membres avec gangrène, jambes, bilatérales
+I70.668	athérosclérose d'une greffe non biologique des extrémités avec gangrène, autre extrémité
+I70.669	athérosclérose d'une greffe non biologique des extrémités avec gangrène, extrémité non spécifiée
+I70.691	autre athérosclérose d'une greffe non biologique des membres, jambe droite
+I70.692	autre athérosclérose d'une greffe non biologique des membres, jambe gauche
+I70.693	autre athérosclérose d'une greffe non biologique des membres, jambes, bilatérales
+I70.698	autre athérosclérose d'une greffe non biologique des extrémités, autre extrémité
+I70.699	autre athérosclérose d'une greffe non biologique des extrémités, extrémité non spécifiée
+I70.701	athérosclérose non spécifiée d'un autre type de pontage des membres, jambe droite
+I70.701	greffe des membres, jambe droite
+I70.702	athérosclérose non spécifiée d'un autre type de pontage des membres, jambe gauche
+I70.702	greffe des membres, jambe gauche
+I70.703	athérosclérose non spécifiée d'un autre type de pontage des membres, jambes, bilatérales
+I70.703	greffe des membres, jambes, bilatérales
+I70.708	athérosclérose non spécifiée d'un autre type de pontage des extrémités, autre extrémité
+I70.708	greffe des extrémités, autre extrémité
+I70.709	athérosclérose non spécifiée d'un autre type de pontage des extrémités, extrémité non spécifiée
+I70.709	greffe des extrémités, extrémité non spécifiée
+I70.711	athérosclérose d'un autre type de pontage des membres avec claudication intermittente, jambe droite
+I70.711	greffe des membres avec claudication intermittente, jambe droite
+I70.712	athérosclérose d'un autre type de pontage des membres avec claudication intermittente, jambe gauche
+I70.712	greffe des membres avec claudication intermittente, jambe gauche
+I70.713	athérosclérose d'un autre type de pontage des membres avec claudication intermittente, jambes, bilatérales
+I70.713	greffe des membres avec claudication intermittente, jambes, bilatérales
+I70.718	athérosclérose d'un autre type de pontage des extrémités avec claudication intermittente, autre extrémité
+I70.718	greffe des extrémités avec claudication intermittente, autre extrémité
+I70.719	athérosclérose d'un autre type de pontage des extrémités avec claudication intermittente, extrémité non spécifiée
+I70.719	greffe des extrémités avec claudication intermittente, extrémité non spécifiée
+I70.721	athérosclérose d'un autre type de pontage des membres avec douleur au repos, jambe droite
+I70.721	greffe des membres avec douleur au repos, jambe droite
+I70.722	athérosclérose d'un autre type de pontage des membres avec douleur au repos, jambe gauche
+I70.722	greffe des membres avec douleur au repos, jambe gauche
+I70.723	athérosclérose d'un autre type de pontage des membres avec douleur au repos, jambes, bilatérales
+I70.723	greffe des membres avec douleur au repos, jambes, bilatérales
+I70.728	athérosclérose d'un autre type de pontage des extrémités avec douleur au repos, autre extrémité
+I70.728	greffe des extrémités avec douleur au repos, autre extrémité
+I70.729	athérosclérose d'un autre type de pontage des extrémités avec douleur au repos, extrémité non spécifiée
+I70.729	greffe des extrémités avec douleur au repos, extrémité non spécifiée
+I70.731	athérosclérose d'un autre type de pontage du membre inférieur droit avec ulcération de la cuisse
+I70.731	greffe du membre inférieur droit avec ulcération de la cuisse
+I70.732	athérosclérose d'un autre type de pontage du membre inférieur droit avec ulcération du mollet
+I70.732	greffe du membre inférieur droit avec ulcération du mollet
+I70.733	athérosclérose d'un autre type de pontage du membre inférieur droit avec ulcération de la cheville
+I70.733	greffe du membre inférieur droit avec ulcération de la cheville
+I70.734	athérosclérose d'un autre type de pontage du membre inférieur droit avec ulcération du talon et du métatarse
+I70.734	greffe du membre inférieur droit avec ulcération du talon et du métatarse
+I70.735	athérosclérose d'un autre type de pontage du membre inférieur droit avec ulcération d'une autre partie du pied
+I70.735	greffe du membre inférieur droit avec ulcération d'une autre partie du pied
+I70.738	athérosclérose d'un autre type de pontage de la jambe droite avec ulcération d'une autre partie de la jambe inférieure
+I70.738	greffe de la jambe droite avec ulcération d'une autre partie de la jambe inférieure
+I70.739	athérosclérose d'un autre type de pontage du membre inférieur droit avec ulcération d'un site non spécifié
+I70.739	greffe du membre inférieur droit avec ulcération d'un site non spécifié
+I70.741	athérosclérose d'un autre type de pontage du membre inférieur gauche avec ulcération de la cuisse
+I70.741	greffe du membre inférieur gauche avec ulcération de la cuisse
+I70.742	athérosclérose d'un autre type de pontage du membre inférieur gauche avec ulcération du mollet
+I70.742	greffe du membre inférieur gauche avec ulcération du mollet
+I70.743	athérosclérose d'un autre type de pontage du membre inférieur gauche avec ulcération de la cheville
+I70.743	greffe du membre inférieur gauche avec ulcération de la cheville
+I70.744	athérosclérose d'un autre type de pontage du membre inférieur gauche avec ulcération du talon et du métatarse
+I70.744	greffe du membre inférieur gauche avec ulcération du talon et du métatarse
+I70.745	athérosclérose d'un autre type de pontage du membre inférieur gauche avec ulcération d'une autre partie du pied
+I70.745	greffe du membre inférieur gauche avec ulcération d'une autre partie du pied
+I70.748	athérosclérose d'un autre type de pontage de la jambe gauche avec ulcération d'une autre partie de la jambe inférieure
+I70.748	greffe de la jambe gauche avec ulcération d'une autre partie de la jambe inférieure
+I70.749	athérosclérose d'un autre type de pontage du membre inférieur gauche avec ulcération d'un site non spécifié
+I70.749	greffe du membre inférieur gauche avec ulcération d'un site non spécifié
+I70.75	athérosclérose d'un autre type de pontage d'une autre extrémité avec ulcération
+I70.75	greffe d'une autre extrémité avec ulcération
+I70.791	autre athérosclérose d'un autre type de pontage des membres, jambe droite
+I70.791	greffe des membres, jambe droite
+I70.792	autre athérosclérose d'un autre type de pontage des membres, jambe gauche
+I70.792	greffe des membres, jambe gauche
+I70.793	autre athérosclérose d'un autre type de pontage des membres, jambes, bilatérales
+I70.793	greffe des membres, jambes, bilatérales
+I70.798	autre athérosclérose d'un autre type de pontage des extrémités, autre extrémité
+I70.798	greffe des extrémités, autre extrémité
+I70.799	autre athérosclérose d'un autre type de pontage des extrémités, extrémité non spécifiée
+I70.799	greffe des extrémités, extrémité non spécifiée
+I70.8	athérosclérose d'autres artères
+I70.90	athérosclérose non spécifiée
+I70.91	athérosclérose généralisée
+I70.92	occlusion totale chronique de l'artère des membres
+I71.0	dissection d'un site non spécifié de l'aorte
+I71.1	dissection de l'aorte thoracique
+I71.2	dissection de l'aorte abdominal
+I71.3	dissection de l'aorte thoraco-abdominal
+I71.1	anévrisme aortique thoracique, rompu
+I71.2	anévrisme aortique thoracique, sans mention de rupture
+I71.3	anévrisme aortique abdominal, rompu
+I71.4	anévrisme aortique abdominal, sans mention de rupture
+I71.5	anévrisme aortique thoraco-abdominal, rompu
+I71.6	anévrisme aortique thoraco-abdominal, sans mention de rupture
+I71.8	anévrisme aortique d'un site non spécifié, rompu
+I71.9	anévrisme aortique d'un site non spécifié, sans mention de rupture
+I72.0	anévrisme de l'artère carotide
+I72.1	anévrisme des artères de l'extrémité supérieure
+I72.2	anévrisme des artères rénales
+I72.3	anévrisme de l'artère iliaque
+I72.4	anévrisme des artères de l'extrémité inférieure
+I72.8	anévrisme d'autres artères spécifiées
+I72.9	anévrisme d'un site non spécifié
+I73.0	syndrome de Raynaud, sans gangrène
+I73.1	syndrome de Raynaud, avec gangrène
+I73.1	thrombo-angéite oblitérante
+I73.1	maladie de Buerger
+I73.81	érythromélalgie
+I73.89	d'autres maladies vasculaires périphériques
+I73.9	maladie vasculaire périphérique, non spécifiée
+I74.1	anévrisme aortique abdominal, sans mention de rupture
+I74.9	autre embole et thrombose artérielles de l'aorte abdominale
+I74.10	embolie et thrombose de parties non spécifiées de l'aorte
+I74.11	embolie et thrombose de l'aorte thoracale
+I74.19	embolie et thrombose d'autres parties de l'aorte
+I74.2	embolie et thrombose des artères des membres supérieurs
+I74.3	embolie et thrombose des artères des membres inférieurs
+I74.4	embolie et thrombose des artères distales, non spécifiées
+I74.5	embolie et thrombose de l'artère iliaque
+I74.8	embolie et thrombose d'autres artères
+I74.9	embolie et thrombose de l'artères non spécifiées
+I75.11	athéroembolie de l'extrémité supérieure droite
+I75.12	athéroembolie de l'extrémité supérieure gauche
+I75.13	athéroembolie des membres supérieurs, bilatéraux
+I75.19	athéroembolie d'une extrémité supérieure non spécifiée
+I75.21	athéroembolie de l'extrémité inférieure droite
+I75.22	athéroembolie de l'extrémité inférieure gauche
+I75.23	athéroembolie des membres inférieurs, bilatéraux
+I75.29	athéroembolie de l'extrémité inférieure droite
+I75.81	athéroembolie du rein
+I75.89	athéroembolie d'un autre site
+I76	embolie artérielle septique
+I77.0	fistule artérioveineuse, acquise
+I77.1	sténose de l'artère
+I77.2	rupture de l'artère
+I77.3	dysplasie fibromusculaire artérielle
+I77.4	syndrome de compression de l'artère coeliaque
+I77.5	nécrose de l'artère
+I77.6	artérite, non spécifiée
+I77.71	dissection de l'artère carotide
+I77.72	dissection de l'artère iliaque
+I77.73	dissection de l'artère rénale
+I77.74	dissection de l'artère vertébrale
+I77.79	dissection d'une autre artère
+I77.810	ectasie aortique thoracique
+I77.811	ectasie aortique abdominale
+I77.812	ectasie aortique thoraco-abdominale
+I77.819	ectasie aortique, site non spécifié
+I77.89	d'autres troubles spécifiés des artères et artérioles
+I77.9	trouble des artères et artérioles, non spécifié
+I78.0	télangiectasie hémorragique héréditaire
+I78.1	naevus, non néoplasique
+I78.8	d'autres maladies des capillaires
+I78.9	maladie des capillaires, non spécifiée
+I79.0	anévrisme de l'aorte au cours de maladies classées ailleurs
+I79.1	aortite au cours de maladies classées ailleurs
+I79.8	d'autres troubles des artères, artérioles et capillaires au cours de maladies classées ailleurs
+I80.0	phlébite et thrombophlébite des vaisseaux superficiels d'une extrémité inférieure non spécifiée
+I80.1	phlébite et thrombophlébite des vaisseaux superficiels de l'extrémité inférieure droite
+I80.2	phlébite et thrombophlébite des vaisseaux superficiels de l'extrémité inférieure gauche
+I80.3	phlébite et thrombophlébite des vaisseaux superficiels des membres inférieurs, bilatéraux
+I80.10	phlébite et thrombophlébite d'une veine fémorale non spécifiée
+I80.11	phlébite et thrombophlébite de la veine fémorale droite
+I80.12	phlébite et thrombophlébite de la veine fémorale gauche
+I80.13	phlébite et thrombophlébite de la veine fémorale, bilatérale
+I80.201	phlébite et thrombophlébite de vaisseaux profonds non spécifiés de l'extrémité inférieure droite
+I80.202	phlébite et thrombophlébite de vaisseaux profonds non spécifiés de l'extrémité inférieure gauche
+I80.203	phlébite et thrombophlébite de vaisseaux profonds non spécifiés des membres inférieurs, bilatéraux
+I80.209	phlébite et thrombophlébite de vaisseaux profonds non spécifiés d'une extrémité inférieure non spécifiée
+I80.211	phlébite et thrombophlébite de la veine iliaque droite
+I80.212	phlébite et thrombophlébite de la veine iliaque gauche
+I80.213	phlébite et thrombophlébite de la veine iliaque, bilatérale
+I80.219	phlébite et thrombophlébite d'une veine iliaque non spécifiée
+I80.221	phlébite et thrombophlébite de la veine poplitée droite
+I80.222	phlébite et thrombophlébite de la veine poplitée gauche
+I80.223	phlébite et thrombophlébite de la veine poplitée, bilatérale
+I80.229	phlébite et thrombophlébite d'une veine poplitée non spécifiée
+I80.231	phlébite et thrombophlébite de la veine tibiale droite
+I80.232	phlébite et thrombophlébite de la veine tibiale gauche
+I80.233	phlébite et thrombophlébite de la veine tibiale, bilatérale
+I80.239	phlébite et thrombophlébite d'une veine tibiale non spécifiée
+I80.291	phlébite et thrombophlébite d'autres vaisseaux profonds de l'extrémité inférieure droite
+I82.1	thrombophlébite migratrice
+I82.210	embolie et thrombose aiguë de la veine cave supérieure
+I82.211	embolie et thrombose chronique de la veine cave supérieure
+I82.220	embolie et thrombose aiguë de la veine cave inférieure
+I82.221	embolie et thrombose chronique de la veine cave inférieure
+I82.290	embolie et thrombose aiguë d'autres veines thoraciques
+I82.291	embolie et thrombose chronique d'autres veines thoraciques
+I82.3	embolie et thrombose de la veine rénale
+I82.401	embolie et thrombose aiguë de veines superficielles non spécifiées de l'extrémité inférieure droite
+I82.402	embolie et thrombose aiguë de veines superficielles non spécifiées de l'extrémité inférieure gauche
+I82.403	embolie et thrombose aiguë de veines superficielles non spécifiées des extrémités inférieures, bilatérales
+I82.409	embolie et thrombose aiguë de veines superficielles non spécifiées d'une extrémité inférieure non spécifiée
+I82.411	embolie et thrombose aiguë de la veine fémorale droite
+I82.412	embolie et thrombose aiguë de la veine fémorale gauche
+I82.413	embolie et thrombose aiguë de la veine fémorale, bilatérale
+I82.419	embolie et thrombose aiguë d'une veine fémorale non spécifiée
+I82.421	embolie et thrombose aiguë de la veine iliaque droite
+I82.422	embolie et thrombose aiguë de la veine iliaque gauche
+I82.423	embolie et thrombose aiguë de la veine iliaque, bilatérale
+I82.429	embolie et thrombose aiguë d'une veine iliaque non spécifiée
+I82.431	embolie et thrombose aiguë de la veine poplitée droite
+I82.432	embolie et thrombose aiguë de la veine poplitée gauche
+I82.433	embolie et thrombose aiguë de la veine poplitée, bilatérale
+I82.439	embolie et thrombose aiguë d'une veine poplitée non spécifiée
+I82.441	embolie et thrombose aiguë de la veine tibiale droite
+I82.442	embolie et thrombose aiguë de la veine tibiale gauche
+I82.443	embolie et thrombose aiguë de la veine tibiale, bilatérale
+I82.449	embolie et thrombose aiguë d'une veine tibiale non spécifiée
+I82.491	embolie et thrombose aiguë d'une autre veine profonde spécifiée de l'extrémité inférieure droite
+I82.492	embolie et thrombose aiguë d'une autre veine profonde spécifiée de l'extrémité inférieure gauche
+I82.493	embolie et thrombose aiguë d'une autre veine profonde spécifiée de l'extrémité inférieure, bilatérale
+I82.499	embolie et thrombose aiguë d'une autre veine profonde spécifiée d'une extrémité inférieure non spécifiée
+I82.4Y1	embolie et thrombose aiguë de veines profondes non spécifiées de l'extrémité inférieure proximale droite
+I82.4Y2	embolie et thrombose aiguë de veines profondes non spécifiées de l'extrémité inférieure proximale gauche
+I82.4Y3	embolie et thrombose aiguë de veines profondes non spécifiées de l'extrémité inférieure proximale, bilatérale
+I82.4Y9	embolie et thrombose aiguë de veines profondes non spécifiées d'une extrémité inférieure proximale non spécifiée
+I82.4Z1	embolie et thrombose aiguë de veines profondes non spécifiées de l'extrémité inférieure distale droite
+I82.4Z2	embolie et thrombose aiguë de veines profondes non spécifiées de l'extrémité inférieure distale gauche
+I82.4Z3	embolie et thrombose aiguë de veines profondes non spécifiées de l'extrémité inférieure distale, bilatérale
+I82.4Z9	embolie et thrombose aiguë de veines profondes non spécifiées d'une extrémité inférieure distale non spécifiée
+I82.501	embolie et thrombose chronique de veines superficielles non spécifiées de l'extrémité inférieure droite
+I82.502	embolie et thrombose chronique de veines superficielles non spécifiées de l'extrémité inférieure gauche
+I82.503	embolie et thrombose chronique de veines superficielles non spécifiées de l'extrémité inférieure, bilatérale
+I82.509	embolie et thrombose chronique de veines superficielles non spécifiées d'une extrémité inférieure non spécifiée
+I82.511	embolie et thrombose chronique de la veine fémorale droite
+I82.512	embolie et thrombose chronique de la veine fémorale gauche
+I82.513	embolie et thrombose chronique de la veine fémorale, bilatérale
+I82.519	embolie et thrombose chronique d'une veine fémorale non spécifiée
+I82.521	embolie et thrombose chronique de la veine iliaque droite
+I82.522	embolie et thrombose chronique de la veine iliaque gauche
+I82.523	embolie et thrombose chronique de la veine iliaque, bilatérale
+I82.529	embolie et thrombose chronique d'une veine iliaque non spécifiée
+I82.531	embolie et thrombose chronique de la veine poplitée droite
+I82.532	embolie et thrombose chronique de la veine poplitée gauche
+I82.533	embolie et thrombose chronique de la veine poplitée, bilatérale
+I82.539	embolie et thrombose chronique d'une veine poplitée non spécifiée
+I82.541	embolie et thrombose chronique de la veine tibiale droite
+I82.542	embolie et thrombose chronique de la veine tibiale gauche
+I82.543	embolie et thrombose chronique de la veine tibiale, bilatérale
+I82.549	embolie et thrombose chronique d'une veine tibiale non spécifiée
+I82.591	embolie et thrombose chronique d'une autre veine profonde spécifiée de l'extrémité inférieure droite
+I82.592	embolie et thrombose chronique d'une autre veine profonde spécifiée de l'extrémité inférieure gauche
+I82.593	embolie et thrombose chronique d'une autre veine profonde spécifiée de l'extrémité inférieure, bilatérale
+I82.599	embolie et thrombose chronique d'une autre veine profonde spécifiée d'une extrémité inférieure non spécifiée
+I82.5Y1	embolie et thrombose chronique de veines profondes non spécifiées de l'extrémité inférieure proximale droite
+I82.5Y2	embolie et thrombose chronique de veines profondes non spécifiées de l'extrémité inférieure proximale gauche
+I82.5Y3	embolie et thrombose chronique de veines profondes non spécifiées de l'extrémité inférieure proximale, bilatérale
+I82.5Y9	embolie et thrombose chronique de veines profondes non spécifiées d'une extrémité inférieure proximale non spécifiée
+I82.601	embolie et thrombose aiguë de veines non spécifiées de l'extrémité supérieure droite
+I82.602	embolie et thrombose aiguë de veines non spécifiées de l'extrémité supérieure gauche
+I82.603	embolie et thrombose aiguë de veines non spécifiées des extrémités supérieures, bilatérales
+I82.609	embolie et thrombose aiguë de veines non spécifiées d'une extrémité supérieure non spécifiée
+I82.611	embolie et thrombose aiguë des veines superficielles de l'extrémité supérieure droite
+I82.612	embolie et thrombose aiguë des veines superficielles de l'extrémité supérieure gauche
+I82.613	embolie et thrombose aiguë des veines superficielles des extrémités supérieures, bilatérales
+I82.619	embolie et thrombose aiguë de veines superficielles d'une extrémité supérieure non spécifiée
+I82.621	embolie et thrombose aiguë des veines profondes de l'extrémité supérieure droite
+I82.622	embolie et thrombose aiguë des veines profondes de l'extrémité supérieure gauche
+I82.623	embolie et thrombose aiguë des veines profondes des extrémités supérieures, bilatérales
+I82.629	embolie et thrombose aiguë de veines profondes d'une extrémité supérieure non spécifiée
+I82.701	embolie et thrombose chronique de veines non spécifiées de l'extrémité supérieure droite
+I82.702	embolie et thrombose chronique de veines non spécifiées de l'extrémité supérieure gauche
+I82.703	embolie et thrombose chronique de veines non spécifiées des extrémités supérieures, bilatérales
+I82.709	embolie et thrombose chronique de veines non spécifiées d'une extrémité supérieure non spécifiée
+I82.711	embolie et thrombose chronique des veines superficielles de l'extrémité supérieure droite
+I82.712	embolie et thrombose chronique des veines superficielles de l'extrémité supérieure gauche
+I82.713	embolie et thrombose chronique des veines superficielles des extrémités supérieures, bilatérales
+I82.719	embolie et thrombose chronique de veines superficielles d'une extrémité supérieure non spécifiée
+I82.721	embolie et thrombose chronique des veines profondes de l'extrémité supérieure droite
+I82.722	embolie et thrombose chronique des veines profondes de l'extrémité supérieure gauche
+I82.723	embolie et thrombose chronique des veines profondes des extrémités supérieures, bilatérales
+I82.729	embolie et thrombose chronique de veines profondes d'une extrémité supérieure non spécifiée
+I82.811	embolie et thrombose chronique des veines superficielles du membre inférieur droit
+I82.812	embolie et thrombose chronique des veines superficielles du membre inférieur gauche
+I82.813	embolie et thrombose chronique des veines superficielles des membres inférieurs, bilatéraux
+I82.819	embolie et thrombose chronique de veines superficielles du membre inférieur non spécifié
+I82.890	embolie et thrombose aiguë d'autres veines spécifiées
+I82.891	embolie et thrombose chronique d'autres veines spécifiées
+I82.90	embolie et thrombose aiguë de veines non spécifiées
+I82.91	embolie et thrombose chronique de veines non spécifiées
+I82.A11	embolie et thrombose aiguë de la veine axillaire droite
+I82.A12	embolie et thrombose aiguë de la veine axillaire gauche
+I82.A13	embolie et thrombose aiguë de la veine axillaire, bilatérale
+I82.A19	embolie et thrombose aiguë d'une veine axillaire non spécifiée
+I82.A21	embolie et thrombose chronique de la veine axillaire droite
+I82.A22	embolie et thrombose chronique de la veine axillaire gauche
+I82.A23	embolie et thrombose chronique de la veine axillaire, bilatérale
+I82.A29	embolie et thrombose chronique d'une veine axillaire non spécifiée
+I82.B11	embolie et thrombose aiguë de la veine sous-clavière droite
+I82.B12	embolie et thrombose aiguë de la veine sous-clavière gauche
+I82.B13	embolie et thrombose aiguë de la veine sous-clavière, bilatérale
+I82.B19	embolie et thrombose aiguë d'une veine sous-clavière non spécifiée
+I82.B21	embolie et thrombose chronique de la veine sous-clavière droite
+I82.B22	embolie et thrombose chronique de la veine sous-clavière gauche
+I82.B23	embolie et thrombose chronique de la veine sous-clavière, bilatérale
+I82.B29	embolie et thrombose chronique d'une veine sous-clavière non spécifiée
+I82.C11	embolie et thrombose aiguë de la veine jugulaire interne droite
+I82.C12	embolie et thrombose aiguë de la veine jugulaire interne gauche
+I82.C13	embolie et thrombose aiguë de la veine jugulaire interne, bilatérale
+I82.C19	embolie et thrombose aiguë d'une veine jugulaire interne non spécifiée
+I82.C21	embolie et thrombose chronique de la veine jugulaire interne droite
+I82.C22	embolie et thrombose chronique de la veine jugulaire interne gauche
+I82.C23	embolie et thrombose chronique de la veine jugulaire interne, bilatérale
+I82.C29	embolie et thrombose chronique d'une veine jugulaire interne non spécifiée
+I83.1	varices d'une extrémité inférieure non spécifiée avec un ulcère de la cuisse
+I83.2	varices d'une extrémité inférieure non spécifiée avec un ulcère du mollet
+I83.3	varices d'une extrémité inférieure non spécifiée avec un ulcère de la cheville
+I83.4	varices d'une extrémité inférieure non spécifiée avec un ulcère du talon et du métatarse
+I83.5	varices d'une extrémité inférieure non spécifiée avec un ulcère d'une autre partie du pied
+I83.8	varices d'une extrémité inférieure non spécifiée avec un ulcère d'une autre partie de la jambe inférieure
+I83.9	varices d'une extrémité inférieure non spécifiée avec un ulcère d'un site non spécifié
+I83.11	varices de l'extrémité inférieure droite avec un ulcère de la cuisse
+I83.12	varices de l'extrémité inférieure droite avec un ulcère du mollet
+I83.13	varices de l'extrémité inférieure droite avec un ulcère de la cheville
+I83.14	varices de l'extrémité inférieure droite avec un ulcère du talon et du métatarse
+I83.15	varices de l'extrémité inférieure droite avec un ulcère d'une autre partie du pied
+I83.18	varices de l'extrémité inférieure droite avec un ulcère d'une autre partie de la jambe inférieure
+I83.19	varices de l'extrémité inférieure droite avec un ulcère d'un site non spécifié
+I83.21	varices de l'extrémité inférieure gauche avec un ulcère de la cuisse
+I83.22	varices de l'extrémité inférieure gauche avec un ulcère du mollet
+I83.23	varices de l'extrémité inférieure gauche avec un ulcère de la cheville
+I83.24	varices de l'extrémité inférieure gauche avec un ulcère du talon et du métatarse
+I83.25	varices de l'extrémité inférieure gauche avec un ulcère d'une autre partie du pied
+I83.28	varices de l'extrémité inférieure gauche avec un ulcère d'une autre partie de la jambe inférieure
+I83.29	varices de l'extrémité inférieure gauche avec un ulcère d'un site non spécifié
+I83.10	varices d'une extrémité inférieure non spécifiée avec une inflammation
+I83.11	varices de l'extrémité inférieure droite avec une inflammation
+I83.12	varices de l'extrémité inférieure gauche avec une inflammation
+I83.201	varices d'une extrémité inférieure non spécifiée avec un ulcère et une inflammation de la cuisse
+I83.202	varices d'une extrémité inférieure non spécifiée avec un ulcère et une inflammation du mollet
+I83.203	varices d'une extrémité inférieure non spécifiée avec un ulcère et une inflammation de la cheville
+I83.204	varices d'une extrémité inférieure non spécifiée avec un ulcère et une inflammation du talon et du métatarse
+I83.205	varices d'une extrémité inférieure non spécifiée avec un ulcère et une inflammation d'une autre partie du pied
+I83.208	varices d'une extrémité inférieure non spécifiée avec un ulcère et une inflammation d'une autre partie de la jambe inférieure
+I83.209	varices d'une extrémité inférieure non spécifiée avec un ulcère et une inflammation d'un site non spécifié
+I83.211	varices de l'extrémité inférieure droite avec un ulcère et une inflammation de la cuisse
+I83.212	varices de l'extrémité inférieure droite avec un ulcère et une inflammation du mollet
+I83.213	varices de l'extrémité inférieure droite avec un ulcère et une inflammation de la cheville
+I83.214	varices de l'extrémité inférieure droite avec un ulcère et une inflammation du talon et du métatarse
+I83.215	varices de l'extrémité inférieure droite avec un ulcère et une inflammation d'une autre partie du pied
+I83.218	varices de l'extrémité inférieure droite avec un ulcère et une inflammation d'une autre partie de la jambe inférieure
+I83.219	varices de l'extrémité inférieure droite avec un ulcère et une inflammation d'un site non spécifié
+I83.221	varices de l'extrémité inférieure gauche avec un ulcère et une inflammation de la cuisse
+I83.222	varices de l'extrémité inférieure gauche avec un ulcère et une inflammation du mollet
+I83.223	varices de l'extrémité inférieure gauche avec un ulcère et une inflammation de la cheville
+I83.224	varices de l'extrémité inférieure gauche avec un ulcère et une inflammation du talon et du métatarse
+I83.225	varices de l'extrémité inférieure gauche avec un ulcère et une inflammation d'une autre partie du pied
+I83.228	varices de l'extrémité inférieure gauche avec un ulcère et une inflammation d'une autre partie de la jambe inférieure
+I83.229	varices de l'extrémité inférieure gauche avec un ulcère et une inflammation d'un site non spécifié
+I83.811	varices du membre inférieur droit avec douleur
+I83.812	varices du membre inférieur gauche avec douleur
+I83.813	varices du membre inférieur avec douleur, bilatéral
+I83.819	varices d'un membre inférieur non spécifié avec douleur
+I83.891	varices du membre inférieur droit avec d'autres complications
+I83.892	varices du membre inférieur gauche avec d'autres complications
+I83.893	varices du membre inférieur avec d'autres complications, bilatéral
+I83.899	varices d'un membre inférieur non spécifié avec d'autres complications
+I83.90	varices asymptomatiques d'une extrémité inférieure non spécifiée
+I83.91	varices asymptomatiques de l'extrémité inférieure droite
+I83.92	varices asymptomatiques de l'extrémité inférieure gauche
+I83.93	varices asymptomatiques du membre inférieur, bilatéral
+I85.0	varices oesophagiennes, non hémorragiques
+I85.1	varices oesophagiennes hémorragiques
+I85.10	varices oesophagiennes secondaires, non hémorragiques
+I85.11	varices oesophagiennes secondaires hémorragiques
+I86.0	varices sublinguales
+I86.1	varices scrotales
+I86.2	varices pelviennes
+I86.3	varices vulvaires
+I86.4	varices gastriques
+I86.8	varices d'autres localisations spécifiées
+I87.1	syndrome post-thrombotique sans complications de l'extrémité inférieure droite
+I87.2	syndrome post-thrombotique sans complications de l'extrémité inférieure gauche
+I87.3	syndrome post-thrombotique sans complications de l'extrémité inférieure, bilatérale
+I87.9	syndrome post-thrombotique sans complications d'une extrémité inférieure non spécifiée
+I87.11	syndrome post-thrombotique avec un ulcère de l'extrémité inférieure droite
+I87.12	syndrome post-thrombotique avec un ulcère de l'extrémité inférieure gauche
+I87.13	syndrome post-thrombotique avec un ulcère de l'extrémité inférieure, bilatérale
+I87.19	syndrome post-thrombotique avec un ulcère d'une extrémité inférieure non spécifiée
+I87.21	syndrome post-thrombotique avec une inflammation de l'extrémité inférieure droite
+I87.22	syndrome post-thrombotique avec une inflammation de l'extrémité inférieure gauche
+I87.23	syndrome post-thrombotique avec une inflammation de l'extrémité inférieure, bilatérale
+I87.29	syndrome post-thrombotique avec une inflammation d'une extrémité inférieure non spécifiée
+I87.31	syndrome post-thrombotique avec un ulcère et une inflammation de l'extrémité inférieure droite
+I87.32	syndrome post-thrombotique avec un ulcère et une inflammation de l'extrémité inférieure gauche
+I87.33	syndrome post-thrombotique avec un ulcère et une inflammation de l'extrémité inférieure, bilatérale
+I87.39	syndrome post-thrombotique avec un ulcère et une inflammation d'une extrémité inférieure non spécifiée
+I87.91	syndrome post-thrombotique avec d'autres complications de l'extrémité inférieure droite
+I87.92	syndrome post-thrombotique avec d'autres complications de l'extrémité inférieure gauche
+I87.93	syndrome post-thrombotique avec d'autres complications de l'extrémité inférieure, bilatérale
+I87.99	syndrome post-thrombotique avec d'autres complications d'une extrémité inférieure non spécifiée
+I87.1	compression veineuse
+I87.2	insuffisance veineuse 
+I87.2	insuffisance veineuse chronique
+I87.2	insuffisance veineuse périphérique
+I87.2	insuffisance veineuse chronique périphérique
+I87.301	hypertension veineuse chronique sans complications de l'extrémité inférieure droite
+I87.301	hypertension idiopathique sans complications de l'extrémité inférieure droite
+I87.301	hypertension veineuse chronique sans complications de l'extrémité inférieure droite
+I87.301	hypertension idiopathique sans complications de l'extrémité inférieure droite
+I87.302	hypertension veineuse chronique sans complications de l'extrémité inférieure gauche
+I87.302	hypertension idiopathique sans complications de l'extrémité inférieure gauche
+I87.303	hypertension veineuse chronique sans complications de l'extrémité inférieure, bilatérale
+I87.303	hypertension idiopathique sans complications de l'extrémité inférieure, bilatérale
+I87.309	hypertension veineuse chronique sans complications d'une extrémité inférieure non spécifiée
+I87.309	hypertension idiopathique sans complications d'une extrémité inférieure non spécifiée
+I87.311	hypertension veineuse chronique avec un ulcère de l'extrémité inférieure droite
+I87.311	hypertension idiopathique avec un ulcère de l'extrémité inférieure droite
+I87.312	hypertension veineuse chronique avec un ulcère de l'extrémité inférieure gauche
+I87.312	hypertension idiopathique avec un ulcère de l'extrémité inférieure gauche
+I87.313	hypertension veineuse chronique avec un ulcère de l'extrémité inférieure, bilatérale
+I87.313	hypertension idiopathique avec un ulcère de l'extrémité inférieure, bilatérale
+I87.319	hypertension veineuse chronique avec un ulcère d'une extrémité inférieure non spécifiée
+I87.319	hypertension idiopathique avec un ulcère d'une extrémité inférieure non spécifiée
+I87.321	hypertension veineuse chronique avec une inflammation de l'extrémité inférieure droite
+I87.321	hypertension idiopathique avec une inflammation de l'extrémité inférieure droite
+I87.322	hypertension veineuse chronique avec une inflammation de l'extrémité inférieure gauche
+I87.322	hypertension idiopathique avec une inflammation de l'extrémité inférieure gauche
+I87.323	hypertension veineuse chronique avec une inflammation de l'extrémité inférieure, bilatérale
+I87.323	hypertension idiopathique avec une inflammation de l'extrémité inférieure, bilatérale
+I87.329	hypertension veineuse chronique avec une inflammation d'une extrémité inférieure non spécifiée
+I87.329	hypertension idiopathique avec une inflammation d'une extrémité inférieure non spécifiée
+I87.331	hypertension veineuse chronique avec un ulcère et une inflammation de l'extrémité inférieure droite
+I87.331	hypertension idiopathique avec un ulcère et une inflammation de l'extrémité inférieure droite
+I87.332	hypertension veineuse chronique avec un ulcère et une inflammation de l'extrémité inférieure gauche
+I87.332	hypertension idiopathique avec un ulcère et une inflammation de l'extrémité inférieure gauche
+I87.333	hypertension veineuse chronique avec un ulcère et une inflammation de l'extrémité inférieure, bilatérale
+I87.333	hypertension idiopathique avec un ulcère et une inflammation de l'extrémité inférieure, bilatérale
+I87.339	hypertension veineuse chronique avec un ulcère et une inflammation d'une extrémité inférieure non spécifiée
+I87.339	hypertension idiopathique avec un ulcère et une inflammation d'une extrémité inférieure non spécifiée
+I87.391	hypertension veineuse chronique avec d'autres complications de l'extrémité inférieure droite
+I87.391	hypertension idiopathique avec d'autres complications de l'extrémité inférieure droite
+I87.392	hypertension veineuse chronique avec d'autres complications de l'extrémité inférieure gauche
+I87.392	hypertension idiopathique avec d'autres complications de l'extrémité inférieure gauche
+I87.393	hypertension veineuse chronique avec d'autres complications de l'extrémité inférieure, bilatérale
+I87.393	hypertension idiopathique avec d'autres complications de l'extrémité inférieure, bilatérale
+I87.399	hypertension veineuse chronique avec d'autres complications d'une extrémité inférieure non spécifiée
+I87.399	hypertension idiopathique avec d'autres complications d'une extrémité inférieure non spécifiée
+I87.8	d'autres troubles veineux spécifiés
+I87.9	trouble veineux, non spécifié
+I88.0	lymphadénite mésentérique non spécifique
+I88.1	lymphadénite chronique, sauf mésentérique
+I88.8	d'autres lymphadénites non spécifiques
+I88.9	lymphadénite non spécifique, non spécifiée
+I89.0	lymphoedème, non classé ailleurs
+I89.1	lymphangite
+I89.8	d'autres troubles non infectieux spécifiés des vaisseaux et des ganglions lymphatiques
+I89.9	trouble non infectieux des vaisseaux et des ganglions lymphatiques, non spécifié
+I95.0	hypotension idiopathique
+I95.1	hypotension orthostatique
+I95.2	hypotension médicamenteuse
+I95.3	hypotension due à l'hémodialyse
+I95.81	hypotension après une procédure
+I95.89	d'autres formes de hypotension
+I95.9	hypotension, non spécifiée
+I96	gangrène, non classée ailleurs
+I97.0	syndrome post-cardiotomie
+I97.110	insuffisance cardiaque après chirurgie cardiaque
+I97.111	insuffisance cardiaque après une autre chirurgie
+I97.120	arrêt cardiaque après chirurgie cardiaque
+I97.121	arrêt cardiaque après une autre chirurgie
+I97.130	défaillance cardiaque après chirurgie cardiaque
+I97.131	défaillance cardiaque après une autre chirurgie
+I97.190	d'autres troubles cardiaques fonctionnels après chirurgie cardiaque
+I97.191	d'autres troubles cardiaques fonctionnels après une autre chirurgie
+I97.2	lymphoedème après une mastectomie
+I97.3	hypertension après une procédure
+I97.410	hémorragie peropératoire et hématome d'un organe ou d'une structure du système circulatoire avec complications pour un cathétérisme cardiaque
+I97.411	hémorragie peropératoire et hématome d'un organe ou d'une structure du système circulatoire avec complications pour un pontage cardiaque
+I97.418	hémorragie peropératoire et hématome d'un organe ou d'une structure du système circulatoire avec complications pour une procédure sur le système circulatoire
+I97.42	hémorragie peropératoire et hématome d'un organe ou d'une structure du système circulatoire avec complications pour une autre procédure
+I97.51	ponction et lacération accidentelle d'un organe ou d'une structure du système circulatoire au cours d'un acte à visée diagnostique et thérapeutique de l'appareil circulatoire
+I97.52	ponction et lacération accidentelle d'un organe ou d'une structure du système circulatoire au cours d'un autre acte à visée diagnostique et thérapeutique
+I97.610	hémorragie postprocédurale et hématome d'un organe ou d'une structure du système circulatoire suite d'un cathétérisme cardiaque
+I97.611	hémorragie postprocédurale et hématome d'un organe ou d'une structure du système circulatoire suite d'un pontage cardiaque
+I97.618	hémorragie postprocédurale et hématome d'un organe ou d'une structure du système circulatoire suite d'une procédure sur le système circulatoire
+I97.62	hémorragie postprocédurale et hématome d'un organe ou d'une structure du système circulatoire suite d'une autre procédure
+I97.710	arrêt cardiaque au cours de chirurgie cardiaque
+I97.711	arrêt cardiaque au cours d'une autre chirurgie cardiaque
+I97.790	d'autres troubles cardiaques fonctionnels au cours de chirurgie cardiaque
+I97.791	d'autres troubles cardiaques fonctionnels au cours d'une autre chirurgie
+I97.810	infarctus cérébrovasculaire au cours de chirurgie cardiaque
+I97.811	infarctus cérébrovasculaire au cours d'une autre chirurgie cardiaque
+I97.820	infarctus cérébral post-procédural au cours de chirurgie cardiaque
+I97.821	infarctus cérébral post-procédural au cours d'une autre chirurgie
+I97.88	d'autres complications spécifiées du système circulatoire pendant un acte à visée diagnostique et thérapeutique, non classées ailleurs
+I97.89	d'autres complications spécifiées du système circulatoire après une procédure, non classées ailleurs
+I99.8	d'autres troubles du système circulatoire
+I99.9	troubles non spécifiés du système circulatoire

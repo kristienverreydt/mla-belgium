@@ -1,0 +1,3135 @@
+H00.11	orgelet externe de la paupière supérieure droite
+H00.12	orgelet externe de la paupière inférieure droite
+H02.44	entropion spasmodique de la paupière supérieure gauche
+H02.45	entropion spasmodique de la paupière inférieure gauche
+H02.46	entropion spasmodique de l'oeil gauche, paupière non spécifiée
+H02.49	entropion spasmodique d'un oeil non spécifié, paupière non spécifiée
+H02.51	trichiasis sans entropion de la paupière supérieure droite
+H02.52	trichiasis sans entropion de la paupière inférieure droite
+H02.53	trichiasis sans entropion de l'oeil droit, paupière non spécifiée
+H02.54	trichiasis sans entropion de la paupière supérieure gauche
+H04.142	atrophie primaire de la glande lacrymale gauche
+H04.143	atrophie primaire de la glande lacrymale bilatérale
+H04.149	atrophie primaire d'une glande lacrymale non spécifiée
+H04.151	atrophie secondaire de la glande lacrymale droite
+H04.152	atrophie secondaire de la glande lacrymale gauche
+H04.153	atrophie secondaire de la glande lacrymale bilatérale
+H04.159	atrophie secondaire d'une glande lacrymale non spécifiée
+H05.222	oedème orbital gauche
+H05.223	oedème orbital bilatéral
+H05.229	oedème orbital non spécifié
+H05.231	hémorragie orbitaire droite
+H05.232	hémorragie orbitaire gauche
+H05.233	hémorragie orbitaire bilatérale
+H05.239	hémorragie orbitaire non spécifiée
+H05.241	exophtalmie permanente de l'orbite droite
+H05.242	exophtalmie permanente de l'orbite gauche
+H05.243	exophtalmie permanente de l'orbite bilatérale
+H05.249	exophtalmie permanente d'une orbite non spécifiée
+H05.251	exophtalmie intermittente de l'orbite droite
+H05.252	exophtalmie intermittente de l'orbite gauche
+H05.253	exophtalmie intermittente de l'orbite bilatérale
+H05.259	exophtalmie intermittente d'une orbite non spécifiée
+H15.853	staphylome annulaire, bilatéral
+H15.859	staphylome annulaire, oeil non spécifié
+H15.89	d'autres troubles de la sclérotique
+H15.9	trouble de la sclérotique, non spécifié
+H16.1	ulcère cornéen, non spécifié, oeil droit
+H16.2	ulcère cornéen, non spécifié, oeil gauche
+H16.3	ulcère cornéen, non spécifié, bilatéral
+H00.13	orgelet externe de l'oeil droit, paupière non spécifiée
+H00.14	orgelet externe de la paupière supérieure gauche
+H00.15	orgelet externe de la paupière inférieure gauche
+H00.16	orgelet externe de l'oeil gauche, paupière non spécifiée
+H00.19	orgelet externe d'un oeil non spécifié, paupière non spécifiée
+H00.21	orgelet interne de la paupière supérieure droite
+H00.22	orgelet interne de la paupière inférieure droite
+H00.23	orgelet interne de l'oeil droit, paupière non spécifiée
+H00.24	orgelet interne de la paupière supérieure gauche
+H00.25	orgelet interne de la paupière inférieure gauche
+H00.26	orgelet interne de l'oeil gauche, paupière non spécifiée
+H00.29	orgelet interne d'un oeil non spécifié, paupière non spécifiée
+H00.31	abcès de la paupière supérieure droite
+H00.32	abcès de la paupière inférieure droite
+H00.33	abcès de l'oeil droit, paupière non spécifiée
+H00.34	abcès de la paupière supérieure gauche
+H00.35	abcès de la paupière inférieure gauche
+H00.36	abcès de l'oeil gauche, paupière non spécifiée
+H00.39	abcès d'un oeil non spécifié, paupière non spécifiée
+H00.11	chalazion de la paupière supérieure droite
+H00.12	chalazion de la paupière inférieure droite
+H00.13	chalazion de l'oeil droit, paupière non spécifiée
+H00.14	chalazion de la paupière supérieure gauche
+H00.15	chalazion de la paupière inférieure gauche
+H00.16	chalazion de l'oeil gauche, paupière non spécifiée
+H00.19	chalazion d'un oeil non spécifié, paupière non spécifiée
+H01.1	blépharite non spécifiée de la paupière supérieure droite
+H01.2	blépharite non spécifiée de la paupière inférieure droite
+H01.3	blépharite non spécifiée de l'oeil droit, paupière non spécifiée
+H01.4	blépharite non spécifiée de la paupière supérieure gauche
+H01.5	blépharite non spécifiée de la paupière inférieure gauche
+H01.6	blépharite non spécifiée de l'oeil gauche, paupière non spécifiée
+H01.9	blépharite non spécifiée d'un oeil non spécifié, paupière non spécifiée
+H01.11	blépharite ulcéreuse de la paupière supérieure droite
+H01.12	blépharite ulcéreuse de la paupière inférieure droite
+H01.13	blépharite ulcéreuse de l'oeil droit, paupière non spécifiée
+H01.14	blépharite ulcéreuse de la paupière supérieure gauche
+H01.15	blépharite ulcéreuse de la paupière inférieure gauche
+H01.16	blépharite ulcéreuse de l'oeil gauche, paupière non spécifiée
+H01.19	blépharite ulcéreuse d'un oeil non spécifié, paupière non spécifiée
+H01.21	blépharite squameuse de la paupière supérieure droite
+H01.22	blépharite squameuse de la paupière inférieure droite
+H01.23	blépharite squameuse de l'oeil droit, paupière non spécifiée
+H01.24	blépharite squameuse de la paupière supérieure gauche
+H01.25	blépharite squameuse de la paupière inférieure gauche
+H01.26	blépharite squameuse de l'oeil gauche, paupière non spécifiée
+H01.29	blépharite squameuse d'un oeil non spécifié, paupière non spécifiée
+H01.111	dermatite allergique de la paupière supérieure droite
+H01.112	dermatite allergique de la paupière inférieure droite
+H01.113	dermatite allergique de l'oeil droit, paupière non spécifiée
+H01.114	dermatite allergique de la paupière supérieure gauche
+H01.115	dermatite allergique de la paupière inférieure gauche
+H01.116	dermatite allergique de l'oeil gauche, paupière non spécifiée
+H01.119	dermatite allergique d'un oeil non spécifié, paupière non spécifiée
+H01.121	lupus érythémateux discoïde de la paupière supérieure droite
+H01.122	lupus érythémateux discoïde de la paupière inférieure droite
+H01.123	lupus érythémateux discoïde de l'oeil droit, paupière non spécifiée
+H01.124	lupus érythémateux discoïde de la paupière supérieure gauche
+H01.125	lupus érythémateux discoïde de la paupière inférieure gauche
+H01.126	lupus érythémateux discoïde de l'oeil gauche, paupière non spécifiée
+H01.129	lupus érythémateux discoïde d'un oeil non spécifié, paupière non spécifiée
+H01.131	dermatite eczémateuse de la paupière supérieure droite
+H01.132	dermatite eczémateuse de la paupière inférieure droite
+H01.133	dermatite eczémateuse de l'oeil droit, paupière non spécifiée
+H01.134	dermatite eczémateuse de la paupière supérieure gauche
+H01.135	dermatite eczémateuse de la paupière inférieure gauche
+H01.136	dermatite eczémateuse de l'oeil gauche, paupière non spécifiée
+H01.139	dermatite eczémateuse d'un oeil non spécifié, paupière non spécifiée
+H01.141	xérodermie de la paupière supérieure droite
+H01.142	xérodermie de la paupière inférieure droite
+H01.143	xérodermie de l'oeil droit, paupière non spécifiée
+H01.144	xérodermie de la paupière supérieure gauche
+H01.145	xérodermie de la paupière inférieure gauche
+H01.146	xérodermie de l'oeil gauche, paupière non spécifiée
+H01.149	xérodermie d'un oeil non spécifié, paupière non spécifiée
+H01.8	d'autres inflammations spécifiées de la paupière
+H01.9	inflammation de la paupière, non spécifiée
+H02.1	entropion non spécifié de la paupière supérieure droite
+H02.2	entropion non spécifié de la paupière inférieure droite
+H02.3	entropion non spécifié de l'oeil droit, paupière non spécifiée
+H02.4	entropion non spécifié de la paupière supérieure gauche
+H02.5	entropion non spécifié de la paupière inférieure gauche
+H02.6	entropion non spécifié de l'oeil gauche, paupière non spécifiée
+H02.9	entropion non spécifié d'un oeil non spécifié, paupière non spécifiée
+H02.11	entropion cicatriciel de la paupière supérieure droite
+H02.12	entropion cicatriciel de la paupière inférieure droite
+H02.13	entropion cicatriciel de l'oeil droit, paupière non spécifiée
+H02.14	entropion cicatriciel de la paupière supérieure gauche
+H02.15	entropion cicatriciel de la paupière inférieure gauche
+H02.16	entropion cicatriciel de l'oeil gauche, paupière non spécifiée
+H02.19	entropion cicatriciel d'un oeil non spécifié, paupière non spécifiée
+H02.21	entropion mécanique de la paupière supérieure droite
+H02.22	entropion mécanique de la paupière inférieure droite
+H02.23	entropion mécanique de l'oeil droit, paupière non spécifiée
+H02.24	entropion mécanique de la paupière supérieure gauche
+H02.25	entropion mécanique de la paupière inférieure gauche
+H02.26	entropion mécanique de l'oeil gauche, paupière non spécifiée
+H02.29	entropion mécanique d'un oeil non spécifié, paupière non spécifiée
+H02.31	entropion sénile de la paupière supérieure droite
+H02.32	entropion sénile de la paupière inférieure droite
+H02.33	entropion sénile de l'oeil droit, paupière non spécifiée
+H02.34	entropion sénile de la paupière supérieure gauche
+H02.35	entropion sénile de la paupière inférieure gauche
+H02.36	entropion sénile de l'oeil gauche, paupière non spécifiée
+H02.39	entropion sénile d'un oeil non spécifié, paupière non spécifiée
+H02.41	entropion spasmodique de la paupière supérieure droite
+H02.42	entropion spasmodique de la paupière inférieure droite
+H02.43	entropion spasmodique de l'oeil droit, paupière non spécifiée
+H02.55	trichiasis sans entropion de la paupière inférieure gauche
+H02.56	trichiasis sans 
+entropion de l'oeil gauche, paupière non spécifiée
+H02.59	trichiasis sans entropion d'un oeil non spécifié, paupière non spécifiée
+H02.101	ectropion non spécifié de la paupière supérieure droite
+H02.102	ectropion non spécifié de la paupière inférieure droite
+H02.103	ectropion non spécifié de l'oeil droit, paupière non spécifiée
+H02.104	ectropion non spécifié de la paupière supérieure gauche
+H02.105	ectropion non spécifié de la paupière inférieure gauche
+H02.106	ectropion non spécifié de l'oeil gauche, paupière non spécifiée
+H02.109	ectropion non spécifié d'un oeil non spécifié, paupière non spécifiée
+H02.111	ectropion cicatriciel de la paupière supérieure droite
+H02.112	ectropion cicatriciel de la paupière inférieure droite
+H02.113	ectropion cicatriciel de l'oeil droit, paupière non spécifiée
+H02.114	ectropion cicatriciel de la paupière supérieure gauche
+H02.115	ectropion cicatriciel de la paupière inférieure gauche
+H02.116	ectropion cicatriciel de l'oeil gauche, paupière non spécifiée
+H02.119	ectropion cicatriciel d'un oeil non spécifié, paupière non spécifiée
+H02.121	ectropion mécanique de la paupière supérieure droite
+H02.122	ectropion mécanique de la paupière inférieure droite
+H02.123	ectropion mécanique de l'oeil droit, paupière non spécifiée
+H02.124	ectropion mécanique de la paupière supérieure gauche
+H02.125	ectropion mécanique de la paupière inférieure gauche
+H02.126	ectropion mécanique de l'oeil gauche, paupière non spécifiée
+H02.129	ectropion mécanique d'un oeil non spécifié, paupière non spécifiée
+H02.131	ectropion sénile de la paupière supérieure droite
+H02.132	ectropion sénile de la paupière inférieure droite
+H02.133	ectropion sénile de l'oeil droit, paupière non spécifiée
+H02.134	ectropion sénile de la paupière supérieure gauche
+H02.135	ectropion sénile de la paupière inférieure gauche
+H02.136	ectropion sénile de l'oeil gauche, paupière non spécifiée
+H02.139	ectropion sénile d'un oeil non spécifié, paupière non spécifiée
+H02.141	ectropion spasmodique de la paupière supérieure droite
+H02.142	ectropion spasmodique de la paupière inférieure droite
+H02.143	ectropion spasmodique de l'oeil droit, paupière non spécifiée
+H02.144	ectropion spasmodique de la paupière supérieure gauche
+H02.145	ectropion spasmodique de la paupière inférieure gauche
+H02.146	ectropion spasmodique de l'oeil gauche, paupière non spécifiée
+H02.149	ectropion spasmodique d'un oeil non spécifié, paupière non spécifiée
+H02.201	lagophtalmie non spécifiée de la paupière supérieure droite
+H02.202	lagophtalmie non spécifiée de la paupière inférieure droite
+H02.203	lagophtalmie non spécifiée de l'oeil droit, paupière non spécifiée
+H02.204	lagophtalmie non spécifiée de la paupière supérieure gauche
+H02.205	lagophtalmie non spécifiée de la paupière inférieure gauche
+H02.206	lagophtalmie non spécifiée de l'oeil gauche, paupière non spécifiée
+H02.209	lagophtalmie non spécifiée d'un oeil non spécifié, paupière non spécifiée
+H02.211	lagophtalmie cicatricielle de la paupière supérieure droite
+H02.212	lagophtalmie cicatricielle de la paupière inférieure droite
+H02.213	lagophtalmie cicatricielle de l'oeil droit, paupière non spécifiée
+H02.214	lagophtalmie cicatricielle de la paupière supérieure gauche
+H02.215	lagophtalmie cicatricielle de la paupière inférieure gauche
+H02.216	lagophtalmie cicatricielle de l'oeil gauche, paupière non spécifiée
+H02.219	lagophtalmie cicatricielle d'un oeil non spécifié, paupière non spécifiée
+H02.221	lagophtalmie mécanique de la paupière supérieure droite
+H02.222	lagophtalmie mécanique de la paupière inférieure droite
+H02.223	lagophtalmie mécanique de l'oeil droit, paupière non spécifiée
+H02.224	lagophtalmie mécanique de la paupière supérieure gauche
+H02.225	lagophtalmie mécanique de la paupière inférieure gauche
+H02.226	lagophtalmie mécanique de l'oeil gauche, paupière non spécifiée
+H02.229	lagophtalmie mécanique d'un oeil non spécifié, paupière non spécifiée
+H02.231	lagophtalmie paralytique de la paupière supérieure droite
+H02.232	lagophtalmie paralytique de la paupière inférieure droite
+H02.233	lagophtalmie paralytique de l'oeil droit, paupière non spécifiée
+H02.234	lagophtalmie paralytique de la paupière supérieure gauche
+H02.235	lagophtalmie paralytique de la paupière inférieure gauche
+H02.236	lagophtalmie paralytique de l'oeil gauche, paupière non spécifiée
+H02.239	lagophtalmie paralytique d'un oeil non spécifié, paupière non spécifiée
+H02.30	blépharochalasis d'un oeil non spécifié, paupière non spécifiée
+H02.31	blépharochalasis de la paupière supérieure droite
+H02.32	blépharochalasis de la paupière inférieure droite
+H02.33	blépharochalasis de l'oeil droit, paupière non spécifiée
+H02.34	blépharochalasis de la paupière supérieure gauche
+H02.35	blépharochalasis de la paupière inférieure gauche
+H02.36	blépharochalasis de l'oeil gauche, paupière non spécifiée
+H02.401	ptosis non spécifié de la paupière droite
+H02.402	ptosis non spécifié de la paupière gauche
+H02.403	ptosis non spécifié de la paupière, bilatérale
+H02.409	ptosis non spécifié d'une  paupière non spécifiée
+H02.411	ptosis mécanique de la paupière droite
+H02.412	ptosis mécanique de la paupière gauche
+H02.413	ptosis mécanique de la paupière, bilatérale
+H02.419	ptosis mécanique d'une paupière non spécifiée
+H02.421	ptosis myogène de la paupière droite
+H02.422	ptosis myogène de la paupière gauche
+H02.423	ptosis myogène de la paupière, bilatérale
+H02.429	ptosis myogène d'une paupière non spécifiée
+H02.431	ptosis paralytique de la paupière droite
+H02.432	ptosis paralytique de la paupière gauche
+H02.433	ptosis paralytique de la paupière, bilatérale
+H02.439	ptosis paralytique d'une paupière non spécifiée
+H02.511	syndrome par innervation anormale paupière supérieure droite
+H02.512	syndrome par innervation anormale paupière inférieure droite
+H02.513	syndrome par innervation anormale, oeil droit, paupière non spécifiée
+H02.514	syndrome par innervation anormale paupière gauche
+H02.515	syndrome par innervation anormale paupière inférieure gauche
+H02.516	syndrome par innervation anormale, oeil gauche, paupière non spécifiée
+H02.519	syndrome par innervation anormale, oeil non spécifié, paupière non spécifiée
+H02.521	blépharophimosis de la paupière supérieure droite
+H02.522	blépharophimosis de la paupière inférieure droite
+H02.523	blépharophimosis de l'oeil droit, paupière non spécifiée
+H02.524	blépharophimosis de la paupière supérieure gauche
+H02.525	blépharophimosis de la paupière inférieure gauche
+H02.526	blépharophimosis de l'oeil gauche, paupière non spécifiée
+H02.529	blépharophimosis d'un oeil non spécifié, paupière non spécifiée
+H02.531	atrophie de la paupière supérieure droite
+H02.532	atrophie de la paupière inférieure droite
+H02.533	atrophie de l'oeil droit, paupière non spécifiée
+H02.534	atrophie de la paupière supérieure gauche
+H02.535	atrophie de la paupière inférieure gauche
+H02.536	atrophie de l'oeil gauche, paupière non spécifiée
+H02.539	atrophie d'un oeil non spécifié, paupière non spécifiée
+H02.59	d'autres troubles affectant la fonction palpébrale
+H02.60	xanthélasma d'un oeil non spécifié
+H02.61	xanthélasma de la paupière inférieure droite
+H02.62	xanthélasma de l'oeil droit, paupière non spécifiée
+H02.63	xanthélasma de l'oeil droit, paupière non spécifiée
+H02.64	xanthélasma de la paupière inférieure gauche
+H02.65	xanthélasma de l'oeil gauche, paupière non spécifiée
+H02.66	xanthélasma de l'oeil gauche, paupière non spécifiée
+H02.70	troubles dégénératifs des paupières et de la région périoculaire, non spécifiés
+H02.711	chloasma de la paupière supérieure droite et de la région périoculaire
+H02.712	chloasma de la paupière inférieure droite et de la région périoculaire
+H02.713	chloasma de l'oeil droit, paupière et région périoculaire non spécifiées
+H02.714	chloasma de la paupière supérieure gauche et de la région périoculaire
+H02.715	chloasma de la paupière inférieure gauche et de la région périoculaire
+H02.716	chloasma de l'oeil gauche, paupière et région périoculaire non spécifiées
+H02.719	chloasma d'un oeil non spécifié, paupière et région périoculaire non spécifiées
+H02.721	madarosis de la paupière supérieure droite et de la région périoculaire
+H02.722	madarosis de la paupière inférieure droite et de la région périoculaire
+H02.723	madarosis de l'oeil droit, paupière et région périoculaire non spécifiées
+H02.724	madarosis de la paupière supérieure gauche et de la région périoculaire
+H02.725	madarosis de la paupière inférieure gauche et de la région périoculaire
+H02.726	madarosis de l'oeil gauche, paupière et région périoculaire non spécifiées
+H02.729	madarosis d'un oeil non spécifié, paupière et région périoculaire non spécifiées
+H02.731	vitiligo de la paupière supérieure droite et de la région périoculaire
+H02.732	vitiligo de la paupière inférieure droite et de la région périoculaire
+H02.733	vitiligo de l'oeil droit, paupière et région périoculaire non spécifiées
+H02.734	vitiligo de la paupière supérieure gauche et de la région périoculaire
+H02.735	vitiligo de la paupière inférieure gauche et de la région périoculaire
+H02.736	vitiligo de l'oeil gauche, paupière et région périoculaire non spécifiées
+H02.739	vitiligo d'un oeil non spécifié, paupière et région périoculaire non spécifiées
+H02.79	d'autres troubles dégénératifs des paupières et de la région périoculaire
+H02.811	corps étranger dans la paupière supérieure droite
+H02.812	corps étranger dans la paupière inférieure droite
+H02.813	corps étranger dans l'oeil droit, paupière non spécifiée
+H02.814	corps étranger dans la paupière supérieure gauche
+H02.815	corps étranger dans la paupière inférieure gauche
+H02.816	corps étranger dans l'oeil gauche, paupière non spécifiée
+H02.819	corps étranger dans un oeil non spécifié, paupière non spécifiée
+H02.821	kystes de la paupière supérieure droite
+H02.822	kystes de la paupière inférieure droite
+H02.823	kystes de l'oeil droit, paupière non spécifiée
+H02.824	kystes de la paupière supérieure gauche
+H02.825	kystes de la paupière inférieure gauche
+H02.826	kystes de l'oeil gauche, paupière non spécifiée
+H02.829	kystes d'un oeil non spécifié, paupière non spécifiée
+H02.831	dermatochalasis de la paupière supérieure droite
+H02.832	dermatochalasis de la paupière inférieure droite
+H02.833	dermatochalasis de l'oeil droit, paupière non spécifiée
+H02.834	dermatochalasis de la paupière supérieure gauche
+H02.835	dermatochalasis de la paupière inférieure gauche
+H02.836	dermatochalasis de l'oeil gauche, paupière non spécifiée
+H02.839	dermatochalasis d'un oeil non spécifié, paupière non spécifiée
+H02.841	oedème de la paupière supérieure droite
+H02.842	oedème de la paupière inférieure droite
+H02.843	oedème de l'oeil droit, paupière non spécifiée
+H02.844	oedème de la paupière supérieure gauche
+H02.845	oedème de la paupière inférieure gauche
+H02.846	oedème de l'oeil gauche, paupière non spécifiée
+H02.849	oedème d'un oeil non spécifié, paupière non spécifiée
+H02.851	éléphantiasis de la paupière supérieure droite
+H02.852	éléphantiasis de la paupière inférieure droite
+H02.853	éléphantiasis de l'oeil droit, paupière non spécifiée
+H02.854	éléphantiasis de la paupière supérieure gauche
+H02.855	éléphantiasis de la paupière inférieure gauche
+H02.856	éléphantiasis de l'oeil gauche, paupière non spécifiée
+H02.859	éléphantiasis d'un oeil non spécifié, paupière non spécifiée
+H02.861	hypertrichose de la paupière supérieure droite
+H02.862	hypertrichose de la paupière inférieure droite
+H02.863	hypertrichose de l'oeil droit, paupière non spécifiée
+H02.864	hypertrichose de la paupière supérieure gauche
+H02.865	hypertrichose de la paupière inférieure gauche
+H02.866	hypertrichose de l'oeil gauche, paupière non spécifiée
+H02.869	hypertrichose d'un oeil non spécifié, paupière non spécifiée
+H02.871	anomalies vasculaires de la paupière supérieure droite
+H02.872	anomalies vasculaires de la paupière inférieure droite
+H02.873	anomalies vasculaires de l'oeil droit, paupière non spécifiée
+H02.874	anomalies vasculaires de la paupière supérieure gauche
+H02.875	anomalies vasculaires de la paupière inférieure gauche
+H02.876	anomalies vasculaires de l'oeil gauche, paupière non spécifiée
+H02.879	anomalies vasculaires d'un oeil non spécifié, paupière non spécifiée
+H02.89	d'autres troubles spécifiés des paupières
+H02.9	trouble des paupières, non spécifié
+H04.1	dacryoadénite non spécifiée, glande lacrymale droite
+H04.2	dacryoadénite non spécifiée, glande lacrymale gauche
+H04.3	dacryoadénite non spécifiée, glande lacrymale bilatérale
+H04.9	dacryoadénite non spécifiée, glande lacrymale non spécifiée
+H04.11	dacryoadénite aiguë, glande lacrymale droite
+H04.12	dacryoadénite aiguë, glande lacrymale gauche
+H04.13	dacryoadénite aiguë, glande lacrymale bilatérale
+H04.19	dacryoadénite aiguë, glande lacrymale non spécifiée
+H04.21	dacryoadénite chronique, glande lacrymale droite
+H04.22	dacryoadénite chronique, glande lacrymale gauche
+H04.23	dacryoadénite chronique, glande lacrymale bilatérale
+H04.29	dacryoadénite chronique, glande lacrymale non spécifiée
+H04.31	élargissement chronique de la glande lacrymale droite
+H04.32	élargissement chronique de la glande lacrymale gauche
+H04.33	élargissement chronique de la glande lacrymale bilatérale
+H04.39	élargissement chronique d'une glande lacrymale non spécifiée
+H04.111	dacryops de la glande lacrymale droite
+H04.112	dacryops de la glande lacrymale gauche
+H04.113	dacryops de la glande lacrymale bilatérale
+H04.119	dacryops d'une glande lacrymale non spécifiée
+H04.121	syndrome des yeux secs de la glande lacrymale droite
+H04.122	syndrome des yeux secs de la glande lacrymale gauche
+H04.123	syndrome des yeux secs de la glande lacrymale bilatérale
+H04.129	syndrome des yeux secs d'une glande lacrymale non spécifiée
+H04.131	kyste de la glande lacrymale droite
+H04.132	kyste de la glande lacrymale gauche
+H04.133	kyste de la glande lacrymale bilatérale
+H04.139	kyste d'une glande lacrymale non spécifiée
+H04.141	atrophie primaire de la glande lacrymale droite
+H04.161	dislocation de la glande lacrymale droite
+H04.162	dislocation de la glande lacrymale gauche
+H04.163	dislocation de la glande lacrymale bilatérale
+H04.169	dislocation d'une glande lacrymale non spécifiée
+H04.19	d'autres troubles spécifiés de la glande lacrymale
+H04.201	épiphora non spécifié, glande lacrymale droite
+H04.202	épiphora non spécifié, glande lacrymale gauche
+H04.203	épiphora non spécifié, glande lacrymale bilatérale
+H04.209	épiphora non spécifié, glande lacrymale non spécifiée
+H04.211	épiphora par excès de larmoiement, glande lacrymale droite
+H04.212	épiphora par excès de larmoiement, glande lacrymale gauche
+H04.213	épiphora par excès de larmoiement, glande lacrymale bilatérale
+H04.219	épiphora par excès de larmoiement, glande lacrymale non spécifiée
+H04.221	épiphora par un drainage insuffisant, glande lacrymale droite
+H04.222	épiphora par un drainage insuffisant, glande lacrymale gauche
+H04.223	épiphora par un drainage insuffisant, glande lacrymale bilatérale
+H04.229	épiphora par un drainage insuffisant, glande lacrymale non spécifiée
+H04.301	dacryocystite non spécifiée des voies lacrymales droites
+H04.302	dacryocystite non spécifiée des voies lacrymales gauches
+H04.303	dacryocystite non spécifiée des voies lacrymales bilatérales
+H04.309	dacryocystite non spécifiée de voies lacrymales non spécifiées
+H04.311	dacryocystite phlegmoneuse des voies lacrymales droites
+H04.312	dacryocystite phlegmoneuse des voies lacrymales gauches
+H04.313	dacryocystite phlegmoneuse des voies lacrymales bilatérales
+H04.319	dacryocystite phlegmoneuse de voies lacrymales non spécifiées
+H04.321	dacryocystite aiguë des voies lacrymales droites
+H04.322	dacryocystite aiguë des voies lacrymales gauches
+H04.323	dacryocystite aiguë des voies lacrymales bilatérales
+H04.329	dacryocystite aiguë de voies lacrymales non spécifiées
+H04.331	canaliculite lacrymale aiguë des voies lacrymales droites
+H04.332	canaliculite lacrymale aiguë des voies lacrymales gauches
+H04.333	canaliculite lacrymale aiguë des voies lacrymales bilatérales
+H04.339	canaliculite lacrymale aiguë de voies lacrymales non spécifiées
+H04.411	dacryocystite chronique des voies lacrymales droites
+H04.412	dacryocystite chronique des voies lacrymales gauches
+H04.413	dacryocystite chronique des voies lacrymales bilatérales
+H04.419	dacryocystite chronique de voies lacrymales non spécifiées
+H04.421	canaliculite lacrymale chronique des voies lacrymales droites
+H04.422	canaliculite lacrymale chronique des voies lacrymales gauches
+H04.423	canaliculite lacrymale chronique des voies lacrymales bilatérales
+H04.429	canaliculite lacrymale chronique de voies lacrymales non spécifiées
+H04.431	mucocèle du sac lacrymal chronique des voies lacrymales droites
+H04.432	mucocèle du sac lacrymal chronique des voies lacrymales gauches
+H04.433	mucocèle du sac lacrymal chronique des voies lacrymales bilatérales
+H04.439	mucocèle du sac lacrymal chronique de voies lacrymales non spécifiées
+H04.511	dacryolithe des voies lacrymales droites
+H04.512	dacryolithe des voies lacrymales gauches
+H04.513	dacryolithe des voies lacrymales bilatérales
+H04.519	dacryolithe de voies lacrymales non spécifiées
+H04.521	éversion de la papille lacrymale droite
+H04.522	éversion de la papille lacrymale gauche
+H04.523	éversion de la papille lacrymale bilatérale
+H04.529	éversion d'une papille lacrymal non spécifiée
+H04.531	obstruction néonatale du canal lacrymo-nasal droit
+H04.532	obstruction néonatale du canal lacrymo-nasal gauche
+H04.533	obstruction néonatale du canal lacrymo-nasal bilatéral
+H04.539	obstruction néonatale d'un canal lacrymo-nasal non spécifié
+H04.541	sténose du canalicule lacrymal droit
+H04.542	sténose du canalicule lacrymal gauche
+H04.543	sténose du canalicule lacrymal bilatéral
+H04.549	sténose d'un canalicule lacrymal non spécifié
+H04.551	sténose acquise du canal lacrymo-nasal droit
+H04.552	sténose acquise du canal lacrymo-nasal gauche
+H04.553	sténose acquise du canal lacrymo-nasal bilatéral
+H04.559	sténose acquise d'un canal lacrymo-nasal non spécifié
+H04.561	sténose de la papille lacrymale droite
+H04.562	sténose de la papille lacrymale gauche
+H04.563	sténose de la papille lacrymale bilatérale
+H04.569	sténose de la papille lacrymale non spécifiée
+H04.571	éversion du sac lacrymal droit
+H04.572	éversion du sac lacrymal gauche
+H04.573	éversion du sac lacrymal bilatéral
+H04.579	sténose d'un sac lacrymal non spécifié
+H04.611	fistule lacrymale des voies lacrymales droites
+H04.612	fistule lacrymale des voies lacrymales gauches
+H04.613	fistule lacrymale des voies lacrymales bilatérales
+H04.619	fistule lacrymale de voies lacrymales non spécifiées
+H04.69	d'autres lésions des voies lacrymales
+H04.811	granulome des voies lacrymales droites
+H04.812	granulome des voies lacrymales gauches
+H04.813	granulome des voies lacrymales bilatérales
+H04.819	granulome de voies lacrymales non spécifiées
+H04.89	d'autres troubles du système lacrymal
+H04.9	trouble du système lacrymal, non spécifié
+H05.0	inflammation aiguë de l'orbite, non spécifiée
+H05.11	cellulite orbitaire droite
+H05.12	cellulite orbitaire gauche
+H05.13	cellulite orbitaire bilatérale
+H05.19	cellulite orbitaire non spécifiée
+H05.21	ostéomyélite orbitaire droite
+H05.22	ostéomyélite orbitaire gauche
+H05.23	ostéomyélite orbitaire bilatérale
+H05.29	ostéomyélite orbitaire non spécifiée
+H05.31	périostite orbitaire droite
+H05.32	périostite orbitaire gauche
+H05.33	périostite orbitaire bilatérale
+H05.39	périostite orbitaire non spécifiée
+H05.41	ténonite orbitaire droite
+H05.42	ténonite orbitaire gauche
+H05.43	ténonite orbitaire bilatérale
+H05.49	ténonite orbitaire non spécifiée
+H05.10	troubles inflammatoires chroniques orbitaire, non spécifiés
+H05.111	granulome orbitaire droite
+H05.112	granulome orbitaire gauche
+H05.113	granulome orbitaire bilatérale
+H05.119	granulome orbitaire non spécifiée
+H05.121	myosite orbitaire  droite
+H05.122	myosite orbitaire gauche
+H05.123	myosite orbitaire bilatérale
+H05.129	myosite orbitaire non spécifiée
+H05.20	exophtalmie, non spécifiée
+H05.211	déplacement (latéral) du globe oculaire, oeil droit
+H05.212	déplacement (latéral) du globe oculaire, oeil gauche
+H05.213	déplacement (latéral) du globe oculaire, bilatéral
+H05.219	déplacement (latéral) du globe oculaire, oeil non spécifié
+H05.221	oedème orbital droit
+H05.261	exophtalmie palpitante de l'orbite droite
+H05.262	exophtalmie palpitante de l'orbite gauche
+H05.263	exophtalmie palpitante de l'orbite bilatérale
+H05.269	exophtalmie palpitante d'une orbite non spécifiée
+H05.30	déformation orbitaire non spécifiée
+H05.311	atrophie orbitaire droite
+H05.312	atrophie orbitaire gauche
+H05.313	atrophie orbitaire bilatérale
+H05.319	atrophie orbitaire non spécifiée
+H05.321	déformation orbitaire droit par la maladie osseuse
+H05.322	déformation orbitaire gauche par la maladie osseuse
+H05.323	déformation orbitaire bilatéral par la maladie osseuse
+H05.329	déformation orbitaire non spécifiée par la maladie osseuse
+H05.331	déformation orbitaire droit par un traumatisme
+H05.331	déformation orbitaire droit par  une intervention chirurgicale
+H05.332	déformation orbitaire gauche par un traumatisme
+H05.332	déformation orbitaire gauche par une intervention chirurgicale
+H05.333	déformation orbitaire bilatéral par un traumatisme
+H05.333	déformation orbitaire bilatéral par une intervention chirurgicale
+H05.339	déformation orbitaire non spécifiée par un traumatisme
+H05.339	déformation orbitaire non spécifiée par une intervention chirurgicale
+H05.341	élargissement de l'orbite droite
+H05.342	élargissement de l'orbite gauche
+H05.343	élargissement de l'orbite bilatérale
+H05.349	élargissement d'une orbite non spécifiée
+H05.351	exostose orbitaire droite
+H05.352	exostose orbitaire gauche
+H05.353	exostose orbitaire bilatérale
+H05.359	exostose orbitaire non spécifiée
+H05.401	énophtalmie non spécifiée, oeil droit
+H05.402	énophtalmie non spécifiée, oeil gauche
+H05.403	énophtalmie non spécifiée, bilatérale
+H05.409	énophtalmie non spécifiée, oeil non spécifié
+H05.411	énophtalmie par une atrophie du tissu orbitale, oeil droit
+H05.412	énophtalmie par une atrophie du tissu orbitaire, oeil gauche
+H05.413	énophtalmie par l'atrophie du tissu orbital, bilatéral
+H05.419	énophtalmie par l'atrophie du tissu orbital, oeil non spécifié
+H05.421	énophtalmie par un traumatisme, oeil droit
+H05.421	énophtalmie par une intervention chirurgicale, oeil droit
+H05.422	énophtalmie par un traumatisme, oeil gauche
+H05.422	énophtalmie par une intervention chirurgicale, oeil gauche
+H05.423	énophtalmie par un traumatisme, bilatéral
+H05.423	énophtalmie par une intervention chirurgicale, bilatéral
+H05.429	énophtalmie par un traumatisme, oeil non spécifié
+H05.429	énophtalmie par une intervention chirurgicale, oeil non spécifié
+H05.50	rétention d'un corps étranger secondaire à une plaie pénétrante d'une orbite non spécifiée
+H05.51	rétention d'un corps étranger secondaire à une plaie pénétrante de l'orbite droite
+H05.52	rétention d'un corps étranger secondaire à une plaie pénétrante de l'orbite gauche
+H05.53	rétention d'un corps étranger secondaire à une plaie pénétrante de l'orbite, bilatéral
+H05.811	kyste de l'orbite droite
+H05.812	kyste de l'orbite gauche
+H05.813	kyste de l'orbite, bilatérale
+H05.819	kyste d'une orbite non spécifiée
+H05.821	myopathie des muscles extra-oculaires, orbite droite
+H05.822	myopathie des muscles extra-oculaires, orbite gauche
+H05.823	myopathie des muscles extra-oculaires, orbites bilatérales
+H05.829	myopathie des muscles extra-oculaires, orbite non spécifiée
+H05.89	autre affection orbitaire
+H05.9	troubles orbitaire, non spécifiés
+H10.11	conjonctivite aiguë folliculaire, oeil droit
+H10.12	conjonctivite aiguë folliculaire, oeil gauche
+H10.13	conjonctivite aiguë folliculaire, bilatérale
+H10.19	conjonctivite aiguë folliculaire, oeil non spécifié
+H10.21	autre conjonctivite mucopurulente, oeil droit
+H10.22	autre conjonctivite mucopurulente, oeil gauche
+H10.23	autre conjonctivite mucopurulente, bilatérale
+H10.29	autre conjonctivite mucopurulente, oeil non spécifié
+H10.10	conjonctivite atopique aiguë, oeil droit
+H10.11	conjonctivite atopique aiguë, oeil droit
+H10.12	conjonctivite atopique aiguë, oeil gauche
+H10.13	conjonctivite atopique aiguë, bilatérale
+H10.211	conjonctivite toxique aiguë, oeil droit
+H10.212	conjonctivite toxique aiguë, oeil gauche
+H10.213	conjonctivite toxique aiguë, bilatérale
+H10.219	conjonctivite toxique aiguë, oeil non spécifié
+H10.221	conjonctivite pseudomembraneuse, oeil droit
+H10.222	conjonctivite pseudomembraneuse, oeil gauche
+H10.223	conjonctivite pseudomembraneuse, bilatérale
+H10.229	conjonctivite pseudomembraneuse, oeil non spécifié
+H10.231	conjonctivite séreuse, non virale, oeil droit
+H10.232	conjonctivite séreuse, non virale, oeil gauche
+H10.233	conjonctivite séreuse, non virale, bilatérale
+H10.239	conjonctivite séreuse, non virale, oeil non spécifié
+H10.30	conjonctivite aiguë non spécifiée, oeil droit
+H10.31	conjonctivite aiguë non spécifiée, oeil droit
+H10.32	conjonctivite aiguë non spécifiée, oeil gauche
+H10.33	conjonctivite aiguë non spécifiée, bilatérale
+H10.401	conjonctivite chronique non spécifiée, oeil droit
+H10.402	conjonctivite chronique non spécifiée, oeil gauche
+H10.403	conjonctivite chronique non spécifiée, bilatérale
+H10.409	conjonctivite chronique non spécifiée, oeil non spécifié
+H10.411	conjonctivite chronique papillaire gigante, oeil droit
+H10.412	conjonctivite chronique papillaire gigante, oeil gauche
+H10.413	conjonctivite chronique papillaire gigante, bilatérale
+H10.419	conjonctivite chronique papillaire gigante, oeil non spécifié
+H10.421	conjonctivite chronique simple, oeil droit
+H10.422	conjonctivite chronique simple, oeil gauche
+H10.423	conjonctivite chronique simple, bilatérale
+H10.429	conjonctivite chronique simple, oeil non spécifié
+H10.431	conjonctivite chronique folliculaire, oeil droit
+H10.432	conjonctivite chronique folliculaire, oeil gauche
+H10.433	conjonctivite chronique folliculaire, bilatérale
+H10.439	conjonctivite chronique folliculaire, oeil non spécifié
+H10.44	conjonctivite vernale
+H10.45	autre conjonctivite allergique
+H10.501	blépharo-conjonctivite non spécifiée, oeil droit
+H10.502	blépharo-conjonctivite non spécifiée, oeil gauche
+H10.503	blépharo-conjonctivite non spécifiée, bilatérale
+H10.509	blépharo-conjonctivite non spécifiée, oeil non spécifié
+H10.511	conjonctivite ligneuse, oeil droit
+H10.512	conjonctivite ligneuse, oeil gauche
+H10.513	conjonctivite ligneuse, bilatérale
+H10.519	conjonctivite ligneuse, oeil non spécifié
+H10.521	blépharo-conjonctivite angulaire, oeil droit
+H10.522	blépharo-conjonctivite angulaire, oeil gauche
+H10.523	blépharo-conjonctivite angulaire, bilatérale
+H10.529	blépharo-conjonctivite angulaire, oeil non spécifié
+H10.531	blépharo-conjonctivite de contact, oeil droit
+H10.532	blépharo-conjonctivite de contact, oeil gauche
+H10.533	blépharo-conjonctivite de contact, bilatérale
+H10.539	blépharo-conjonctivite de contact, oeil non spécifié
+H10.811	pinguéculite, oeil droit
+H10.812	pinguéculite, oeil gauche
+H10.813	pinguéculite, bilatérale
+H10.819	pinguéculite, oeil non spécifié
+H10.89	autre conjonctivite
+H10.9	conjonctivite, non spécifiée
+H11.1	ptérygion non spécifié, oeil droit
+H11.2	ptérygion non spécifié, oeil gauche
+H11.3	ptérygion non spécifié, bilatéral
+H11.9	ptérygion non spécifié, oeil non spécifié
+H11.11	ptérygion amyloïdose, oeil droit
+H11.12	ptérygion amyloïdose, oeil gauche
+H11.13	ptérygion amyloïdose, bilatéral
+H11.19	ptérygion amyloïdose, oeil non spécifié
+H11.21	ptérygion central, oeil droit
+H11.22	ptérygion central, oeil gauche
+H11.23	ptérygion central, bilatéral
+H11.29	ptérygion central, oeil non spécifié
+H11.31	ptérygion double, oeil droit
+H11.32	ptérygion double, oeil gauche
+H11.33	ptérygion double, bilatéral
+H11.39	ptérygion double, oeil non spécifié
+H11.41	ptérygion périphérique, stable, oeil droit
+H11.42	ptérygion périphérique, stable, oeil gauche
+H11.43	ptérygion périphérique, stable, bilatéral
+H11.49	ptérygion périphérique, stable, oeil non spécifié
+H11.51	ptérygion périphérique, évolutif, oeil droit
+H11.52	ptérygion périphérique, évolutif, oeil gauche
+H11.53	ptérygion périphérique, évolutif, bilatéral
+H11.59	ptérygion périphérique, évolutif, oeil non spécifié
+H11.61	ptérygion récurrent, oeil droit
+H11.62	ptérygion récurrent, oeil gauche
+H11.63	ptérygion récurrent, bilatéral
+H11.69	ptérygion récurrent, oeil non spécifié
+H11.10	dégénérescence conjonctivale, non spécifiée
+H11.111	dépôts conjonctivaux, oeil droit
+H11.112	dépôts conjonctivaux, oeil gauche
+H11.113	dépôts conjonctivauxs, bilatéraux
+H11.119	dépôts conjonctivaux, oeil non spécifié
+H11.121	calcification conjonctivale, oeil droit
+H11.122	calcification conjonctivale, oeil gauche
+H11.123	calcification conjonctivale, bilatérale
+H11.129	calcification conjonctivale, oeil non spécifié
+H11.131	pigmentations conjonctivale, oeil droit
+H11.132	pigmentations conjonctivale, oeil gauche
+H11.133	pigmentations conjonctivale, bilatérale
+H11.139	pigmentations conjonctivale, oeil non spécifié
+H11.141	xérosis conjonctival non spécifié, oeil droit
+H11.142	xérosis conjonctival non spécifié, oeil gauche
+H11.143	xérosis conjonctival non spécifié, bilatéral
+H11.149	xérosis conjonctival non spécifié, oeil non spécifié
+H11.151	pinguécula, oeil droit
+H11.152	pinguécula, oeil gauche
+H11.153	pinguécula, bilatérale
+H11.159	pinguécula, oeil non spécifié
+H11.211	adhérence et bride de la conjonctive, oeil droit
+H11.212	adhérence et bride de la conjonctive, oeil gauche
+H11.213	adhérence et bride de la conjonctive, bilatérale
+H11.219	adhérence et bride de la conjonctive, oeil non spécifié
+H11.221	granulome de la conjonctive, oeil droit
+H11.222	granulome de la conjonctive, oeil gauche
+H11.223	granulome de  la conjonctive, bilatérale
+H11.229	granulome de la conjonctive, oeil non spécifié
+H11.231	symblépharon, oeil droit
+H11.232	symblépharon, oeil gauche
+H11.233	symblépharon, bilatéral
+H11.239	symblépharon, oeil non spécifié
+H11.241	cicatrices conjonctivales, oeil droit
+H11.242	cicatrices conjonctivales, oeil gauche
+H11.243	cicatrices conjonctivales, bilatérale
+H11.249	cicatrices conjonctivales, oeil non spécifié
+H11.30	hémorragie conjonctivale, oeil non spécifié
+H11.31	hémorragie conjonctivale, oeil droit
+H11.32	hémorragie conjonctivale, oeil gauche
+H11.33	hémorragie conjonctivale, bilatérale
+H11.411	anormalités vasculaires conjonctivales, oeil droit
+H11.412	anormalités vasculaires conjonctivales, oeil gauche
+H11.413	anormalités vasculaires conjonctivales, bilatérales
+H11.419	anormalités vasculaires conjonctivales, oeil non spécifié
+H11.421	oedème conjonctival, oeil droit
+H11.422	oedème conjonctival, oeil gauche
+H11.423	oedème conjonctival, bilatéral
+H11.429	oedème conjonctival, oeil non spécifié
+H11.431	congestion conjonctivale, oeil droit
+H11.432	congestion conjonctivale, oeil gauche
+H11.433	congestion conjonctivale, bilatérale
+H11.439	congestion conjonctivale, oeil non spécifié
+H11.441	kystes conjonctivaux, oeil droit
+H11.442	kystes conjonctivaux, oeil gauche
+H11.443	kystes conjonctivaux, bilatéraux
+H11.449	kystes conjonctivaux, oeil non spécifié
+H11.811	pseudo-ptérygion, oeil droit
+H11.812	pseudo-ptérygion, oeil gauche
+H11.813	pseudo-ptérygion, bilatéral
+H11.819	pseudo-ptérygion, oeil non spécifié
+H11.821	chalasie conjonctivale, oeil droit
+H11.822	chalasie conjonctivale, oeil gauche
+H11.823	chalasie conjonctivale, bilatérale
+H11.829	chalasie conjonctivale, oeil non spécifié
+H11.89	d'autres troubles spécifiés de la conjonctive
+H11.9	trouble conjonctival, non spécifié
+H15.1	sclérite non spécifiée, oeil droit
+H15.2	sclérite non spécifiée, oeil gauche
+H15.3	sclérite non spécifiée, bilatérale
+H15.9	sclérite non spécifiée, oeil non spécifié
+H15.11	sclérite antérieure, oeil droit
+H15.12	sclérite antérieure, oeil gauche
+H15.13	sclérite antérieure, bilatérale
+H15.19	sclérite antérieure, oeil non spécifié
+H15.21	sclérite de Brawny, oeil droit
+H15.22	sclérite de Brawny, oeil gauche
+H15.23	sclérite de Brawny, bilatérale
+H15.29	sclérite de Brawny, oeil non spécifié
+H15.31	sclérite postérieure, oeil droit
+H15.32	sclérite postérieure, oeil gauche
+H15.33	sclérite postérieure, bilatérale
+H15.39	sclérite postérieure, oeil non spécifié
+H15.41	sclérite avec une affection cornéenne, oeil droit
+H15.42	sclérite avec une affection cornéenne, oeil gauche
+H15.43	sclérite avec une affection cornéenne, bilatérale
+H15.49	sclérite avec une affection cornéenne, oeil non spécifié
+H15.51	scléromalacie perforante, oeil droit
+H15.52	scléromalacie perforante, oeil gauche
+H15.53	scléromalacie perforante, bilatérale
+H15.59	scléromalacie perforante, oeil non spécifié
+H15.91	autre sclérite, oeil droit
+H15.92	autre sclérite, oeil gauche
+H15.93	autre sclérite, bilatérale
+H15.99	autre sclérite, oeil non spécifié
+H15.101	épisclérite non spécifiée, oeil droit
+H15.102	épisclérite non spécifiée, oeil gauche
+H15.103	épisclérite non spécifiée, bilatérale
+H15.109	épisclérite non spécifiée, oeil non spécifié
+H15.111	épisclérite périodique fugace , oeil droit
+H15.112	épisclérite périodique fugace , oeil gauche
+H15.113	épisclérite périodique fugace , bilatérale
+H15.119	épisclérite périodique fugace , oeil non spécifié
+H15.121	épisclérite nodulaire, oeil droit
+H15.122	épisclérite nodulaire, oeil gauche
+H15.123	épisclérite nodulaire, bilatérale
+H15.129	épisclérite nodulaire, oeil non spécifié
+H15.811	staphylome équatorial, oeil droit
+H15.812	staphylome équatorial, oeil gauche
+H15.813	staphylome équatorial, bilatéral
+H15.819	staphylome équatorial, oeil non spécifié
+H15.821	staphylome antérieur localisé, oeil droit
+H15.822	staphylome antérieur localisé, oeil gauche
+H15.823	staphylome antérieur localisé, bilatéral
+H15.829	staphylome antérieur localisé, oeil non spécifié
+H15.831	staphyloma posticum, oeil droit
+H15.832	staphyloma posticum, oeil gauche
+H15.833	staphyloma posticum, bilatéral
+H15.839	staphyloma posticum, oeil non spécifié
+H15.841	sclérectasie, oeil droit
+H15.842	sclérectasie, oeil gauche
+H15.843	sclérectasie, bilatérale
+H15.849	sclérectasie, oeil non spécifié
+H15.851	staphylome annulaire, oeil droit
+H15.852	staphylome annulaire, oeil gauche
+H16.9	ulcère cornéen, oeil non spécifié
+H16.11	ulcère cornéen central, oeil droit
+H16.12	ulcère cornéen central, oeil gauche
+H16.13	ulcère cornéen central, bilatéral
+H16.19	ulcère cornéen central, oeil non spécifié
+H16.21	ulcère cornéen annulaire, oeil droit
+H16.22	ulcère cornéen annulaire, oeil gauche
+H16.23	ulcère cornéen annulaire, bilatéral
+H16.29	ulcère cornéen annulaire, oeil non spécifié
+H16.31	ulcère cornéen avec un hypopyon, oeil droit
+H16.32	ulcère cornéen avec un hypopyon, oeil gauche
+H16.33	ulcère cornéen avec un hypopyon, bilatéral
+H16.39	ulcère cornéen avec un hypopyon, oeil non spécifié
+H16.41	ulcère cornéen marginal, oeil droit
+H16.42	ulcère cornéen marginal, oeil gauche
+H16.43	ulcère cornéen marginal, bilatéral
+H21.89	d'autres troubles spécifiés de l'iris et du corps ciliaire
+H21.9	trouble de l'iris et du corps ciliaire, non spécifié
+H22	troubles de l'iris et du corps ciliaire au cours de maladies classées ailleurs
+H25.11	cataracte corticale liée à l'âge, oeil droit
+H25.12	cataracte corticale liée à l'âge, oeil gauche
+H25.13	cataracte corticale liée à l'âge, bilatérale
+H25.19	cataracte corticale liée à l'âge, oeil non spécifié
+H25.31	cataracte polaire sous-capsulaire antérieure, liée à l'âge, oeil droit
+H25.32	cataracte polaire sous-capsulaire antérieure, liée à l'âge, oeil gauche
+H25.33	cataracte polaire sous-capsulaire antérieure, liée à l'âge, bilatérale
+H25.39	cataracte polaire sous-capsulaire antérieure, liée à l'âge, oeil non spécifié
+H25.41	cataracte polaire sous-capsulaire postérieure, liée à l'âge, oeil droit
+H25.42	cataracte polaire sous-capsulaire postérieure, liée à l'âge, oeil gauche
+H27.133	luxation postérieure du cristallin, bilatéral
+H27.139	luxation postérieure du cristallin, oeil non spécifié
+H27.8	d'autres troubles spécifiés du cristallin
+H27.9	trouble du cristallin, non spécifié
+H28	cataracte et d'autres affections du cristallin au cours de maladies classées ailleurs
+H30.1	choriorétinite non spécifiée en foyer, oeil droit
+H30.2	choriorétinite non spécifiée en foyer, oeil gauche
+H30.3	choriorétinite non spécifiée en foyer, bilatérale
+H30.9	choriorétinite en foyer, oeil non spécifié
+H30.11	choriorétinite en foyer, juxtapapillaire, oeil droit
+H30.12	choriorétinite en foyer, juxtapapillaire, oeil gauche
+H30.13	choriorétinite en foyer, juxtapapillaire, bilatéral
+H30.19	choriorétinite en foyer, juxtapapillaire, oeil non spécifié
+H35.39	rétinopathie hypertensive, oeil non spécifié
+H35.41	micro-anévrisme rétinien, non spécifié, oeil droit
+H35.42	micro-anévrisme rétinien, non spécifié, oeil gauche
+H35.43	micro-anévrisme rétinien, non spécifié, bilatéral
+H35.49	micro-anévrisme rétinien, oeil non spécifié
+H35.51	néovascularisation rétinienne, non spécifiée, oeil droit
+H35.52	néovascularisation rétinienne, non spécifiée, oeil gauche
+H35.53	néovascularisation rétinienne, non spécifiée, bilatérale
+H35.59	néovascularisation rétinienne, oeil non spécifié
+H35.61	vasculite de la rétine, oeil droit
+H35.62	vasculite de la rétine, oeil gauche
+H35.63	vasculite de la rétine, bilatérale
+H35.69	vasculite de la rétine, oeil non spécifié
+H35.71	télangiectasie de la rétine, oeil droit
+H35.72	télangiectasie de la rétine, oeil gauche
+H16.49	ulcère cornéen marginal, oeil non spécifié
+H16.51	ulcère cornéen de Mooren, oeil droit
+H16.52	ulcère cornéen de Mooren, oeil gauche
+H16.53	ulcère cornéen de Mooren, bilatéral
+H16.59	ulcère cornéen de Mooren, oeil non spécifié
+H16.61	ulcère cornéen mycosique, oeil droit
+H16.62	ulcère cornéen mycosique, oeil gauche
+H16.63	ulcère cornéen mycosique, bilatéral
+H16.69	ulcère cornéen mycosique, oeil non spécifié
+H16.71	ulcère cornéen perforé, oeil droit
+H16.72	ulcère cornéen perforé, oeil gauche
+H16.73	ulcère cornéen perforé, bilatéral
+H16.79	ulcère cornéen perforé, oeil non spécifié
+H16.101	kératite superficielle non spécifiée, oeil droit
+H16.102	kératite superficielle non spécifiée, oeil gauche
+H16.103	kératite superficielle non spécifiée, bilatérale
+H16.109	kératite superficielle non spécifiée, oeil non spécifié
+H16.111	kératite maculaire, oeil droit
+H16.112	kératite maculaire, oeil gauche
+H16.113	kératite maculaire, bilatérale
+H16.119	kératite maculaire, oeil non spécifié
+H16.121	kératite filamenteuse, oeil droit
+H16.122	kératite filamenteuse, oeil gauche
+H16.123	kératite filamenteuse, bilatérale
+H16.129	kératite filamenteuse, oeil non spécifié
+H16.131	photokératite, oeil droit
+H16.132	photokératite, oeil gauche
+H16.133	photokératite, bilatérale
+H16.139	photokératite, oeil non spécifié
+H16.141	kératite ponctuée, oeil droit
+H16.142	kératite ponctuée, oeil gauche
+H16.143	kératite ponctuée, bilatérale
+H16.149	kératite ponctuée, oeil non spécifié
+H16.201	kératoconjonctivite non spécifiée, oeil droit
+H16.202	kératoconjonctivite non spécifiée, oeil gauche
+H16.203	kératoconjonctivite non spécifiée, bilatérale
+H16.209	kératoconjonctivite non spécifiée, oeil non spécifié
+H16.211	kératoconjonctivite par exposition, oeil droit
+H16.212	kératoconjonctivite par exposition, oeil gauche
+H16.213	kératoconjonctivite par exposition, bilatérale
+H16.219	kératoconjonctivite par exposition, oeil non spécifié
+H16.221	kératoconjonctivite sèche, non spécifiée comme de Sjogren, oeil droit
+H16.222	kératoconjonctivite sèche, non spécifiée comme de Sjogren, oeil gauche
+H16.223	kératoconjonctivite sèche, non spécifiée comme de Sjogren, bilatérale
+H16.229	kératoconjonctivite sèche, oeil non spécifié
+H16.231	kératoconjonctivite neurotrope, oeil droit
+H16.232	kératoconjonctivite neurotrope, oeil gauche
+H16.233	kératoconjonctivite neurotrope, bilatérale
+H16.239	kératoconjonctivite neurotrope, oeil non spécifié
+H16.241	ophtalmia nodosa, oeil droit
+H16.242	ophtalmia nodosa, oeil gauche
+H16.243	ophtalmia nodosa, bilatérale
+H16.249	ophtalmia nodosa, oeil non spécifié
+H16.251	kératoconjonctivite phlycténulaire, oeil droit
+H16.252	kératoconjonctivite phlycténulaire, oeil gauche
+H16.253	kératoconjonctivite phlycténulaire, bilatérale
+H16.259	kératoconjonctivite phlycténulaire, oeil non spécifié
+H16.261	kératoconjonctivite vernale avec une affection limbique et cornéenne, oeil droit
+H16.262	kératoconjonctivite vernale avec une affection limbique et cornéenne, oeil gauche
+H16.263	kératoconjonctivite vernale avec une affection limbique et cornéenne, bilatérale
+H16.269	kératoconjonctivite vernale avec une affection limbique et cornéenne, oeil non spécifié
+H16.291	autre kératoconjonctivite, oeil droit
+H16.292	autre kératoconjonctivite, oeil gauche
+H16.293	autre kératoconjonctivite, bilatérale
+H16.299	autre kératoconjonctivite, oeil non spécifié
+H16.301	kératite interstitielle non spécifiée, oeil droit
+H16.302	kératite interstitielle non spécifiée, oeil gauche
+H16.303	kératite interstitielle non spécifiée, bilatérale
+H16.309	kératite interstitielle non spécifiée, oeil non spécifié
+H16.311	abcès cornéen, oeil droit
+H16.312	abcès cornéen, oeil gauche
+H16.313	abcès cornéen, bilatéral
+H16.319	abcès cornéen, oeil non spécifié
+H16.321	kératite interstitielle diffuse, oeil droit
+H16.322	kératite interstitielle diffuse, oeil gauche
+H16.323	kératite interstitielle diffuse, bilatérale
+H16.329	kératite interstitielle diffuse, oeil non spécifié
+H16.331	kératite sclérosante, oeil droit
+H16.332	kératite sclérosante, oeil gauche
+H16.333	kératite sclérosante, bilatérale
+H16.339	kératite sclérosante, oeil non spécifié
+H16.391	autre kératite interstitielle et profonde, oeil droit
+H16.392	autre kératite interstitielle et profonde, oeil gauche
+H16.393	autre kératite interstitielle et profonde, bilatérale
+H16.399	autre kératite interstitielle et profonde, oeil non spécifié
+H16.401	néovascularisation cornéenne non spécifiée, oeil droit
+H16.402	néovascularisation cornéenne non spécifiée, oeil gauche
+H16.403	néovascularisation cornéenne non spécifiée, bilatérale
+H16.409	néovascularisation cornéenne non spécifiée, oeil non spécifié
+H16.411	néovaisseaux (cornéens), oeil droit
+H16.412	néovaisseaux (cornéens), oeil gauche
+H16.413	néovaisseaux (cornéens), bilatéraux
+H16.419	néovaisseaux (cornéens), oeil non spécifié
+H16.421	pannus (cornéen), oeil droit
+H16.422	pannus (cornéen), oeil gauche
+H16.423	pannus (cornéen), bilatéral
+H16.429	pannus (cornéen), oeil non spécifié
+H16.431	vascularisation cornéenne localisée, oeil droit
+H16.432	vascularisation cornéenne localisée, oeil gauche
+H16.433	vascularisation cornéenne localisée, bilatérale
+H16.439	vascularisation cornéenne localisée, oeil non spécifié
+H16.441	vascularisation cornéenne profonde, oeil droit
+H16.442	vascularisation cornéenne profonde, oeil gauche
+H16.443	vascularisation cornéenne profonde, bilatérale
+H16.449	vascularisation cornéenne profonde, oeil non spécifié
+H16.8	d'autres kératites
+H16.9	kératite, non spécifiée
+H17.0	leucome adhérent, oeil non spécifié
+H17.1	leucome adhérent, oeil droit
+H17.2	leucome adhérent, oeil gauche
+H17.3	leucome adhérent, bilatéral
+H17.10	opacité cornéenne centrale, oeil non spécifié
+H17.11	opacité cornéenne centrale, oeil droit
+H17.12	opacité cornéenne centrale, oeil gauche
+H17.13	opacité cornéenne centrale, bilatérale
+H17.811	opacité cornéenne mineure, oeil droit
+H17.812	opacité cornéenne mineure, oeil gauche
+H17.813	opacité cornéenne mineure, bilatérale
+H17.819	opacité cornéenne mineure, oeil non spécifié
+H17.821	opacité cornéenne périphérique, oeil droit
+H17.822	opacité cornéenne périphérique, oeil gauche
+H17.823	opacité cornéenne périphérique, bilatérale
+H17.829	opacité cornéenne périphérique, oeil non spécifié
+H17.89	d'autres cicatrices et opacités cornéennes
+H17.9	cicatrice et opacité cornéennes, non spécifiées
+H18.1	dépôt cornéen non spécifié, oeil droit
+H18.2	dépôt cornéen non spécifié, oeil gauche
+H18.3	dépôt cornéen non spécifié, bilatéral
+H18.9	dépôt cornéen non spécifié, oeil non spécifié
+H18.11	pigmentation cornéenne antérieure, oeil droit
+H18.12	pigmentation cornéenne antérieure, oeil gauche
+H18.13	pigmentation cornéenne antérieure, bilatérale
+H18.19	pigmentation cornéenne antérieure, oeil non spécifié
+H18.21	dépôt cornéen d'argent, oeil droit
+H18.22	dépôt cornéen d'argent, oeil gauche
+H18.23	dépôt cornéen d'argent, bilatéral
+H18.29	dépôt cornéen d'argent, oeil non spécifié
+H18.31	dépôt cornéen associé à des troubles du métabolisme, oeil droit
+H18.32	dépôt cornéen associé à des troubles du métabolisme, oeil gauche
+H18.33	dépôt cornéen associé à des troubles du métabolisme, bilatéral
+H18.39	dépôt cornéen associé à des troubles du métabolisme, oeil non spécifié
+H18.41	opacité cornéenne périphérique, oeil droit
+H18.42	opacité cornéenne périphérique, oeil gauche
+H18.43	opacité cornéenne périphérique, bilatérale
+H18.49	opacité cornéenne périphérique, oeil non spécifié
+H18.51	pigmentation cornéenne postérieure, oeil droit
+H18.52	pigmentation cornéenne postérieure, oeil gauche
+H18.53	pigmentation cornéenne postérieure, bilatérale
+H18.59	pigmentation cornéenne postérieure, oeil non spécifié
+H18.61	pigmentation du stroma cornéen, oeil droit
+H18.62	pigmentation du stroma cornéen, oeil gauche
+H18.63	pigmentation du stroma cornéen, bilatéral
+H18.69	pigmentation du stroma cornéen, oeil non spécifié
+H18.10	kératopathie bulleuse, oeil non spécifié
+H18.11	kératopathie bulleuse, oeil droit
+H18.12	kératopathie bulleuse, oeil gauche
+H18.13	kératopathie bulleuse, bilatérale
+H18.20	oedème de la cornée, non spécifié
+H18.211	oedème cornéen, dû au port de verres de contact, oeil droit
+H18.212	oedème cornéen, dû au port de verres de contact, oeil gauche
+H18.213	oedème cornéen, dû au port de verres de contact, bilatéral
+H18.219	oedème cornéen, dû au port de verres de contact, oeil non spécifié
+H18.221	oedème cornéen idiopathique, oeil droit
+H18.222	oedème cornéen idiopathique, oeil gauche
+H18.223	oedème cornéen idiopathique, bilatéral
+H18.229	oedème cornéen idiopathique, oeil non spécifié
+H18.231	oedème cornéen secondaire, oeil droit
+H18.232	oedème cornéen secondaire, oeil gauche
+H18.233	oedème cornéen secondaire, bilatéral
+H18.239	oedème cornéen secondaire, oeil non spécifié
+H18.30	lésions non spécifiées de la membrane cornéenne
+H18.311	plis et rupture de la membrane de Bowman, oeil droit
+H18.312	plis et rupture de la membrane de Bowman, oeil gauche
+H18.313	plis et rupture de la membrane de Bowman, bilatérale
+H18.319	plis et rupture de la membrane de Bowman, oeil non spécifié
+H18.321	plis de la membrane de Descemet, oeil droit
+H18.322	plis de la membrane de Descemet, oeil gauche
+H18.323	plis de la membrane de Descemet, bilatérale
+H18.329	plis de la membrane de Descemet, oeil non spécifié
+H18.331	rupture de la membrane de Descemet, oeil droit
+H18.332	rupture de la membrane de Descemet, oeil gauche
+H18.333	rupture de la membrane de Descemet, bilatérale
+H18.339	rupture de la membrane de Descemet, oeil non spécifié
+H18.40	dégénération de la cornée, non spécifiée
+H18.411	arc sénile, oeil droit
+H18.412	arc sénile, oeil gauche
+H18.413	arc sénile, bilatéral
+H18.419	arc sénile, oeil non spécifié
+H18.421	kératopathie en bandelettes, oeil droit
+H18.422	kératopathie en bandelettes, oeil gauche
+H18.423	kératopathie en bandelettes, bilatérale
+H18.429	kératopathie en bandelettes, oeil non spécifié
+H18.43	autre dégénérescence de la cornée calcifiée
+H18.441	kératomalacie, oeil droit
+H18.442	kératomalacie, oeil gauche
+H18.443	kératomalacie, bilatérale
+H18.449	kératomalacie, oeil non spécifié
+H18.451	dégénérescence cornéenne nodulaire, oeil droit
+H18.452	dégénérescence cornéenne nodulaire, oeil gauche
+H18.453	dégénérescence cornéenne nodulaire, bilatérale
+H18.459	dégénérescence cornéenne nodulaire, oeil non spécifié
+H18.461	dégénérescence cornéenne périphérique, oeil droit
+H18.462	dégénérescence cornéenne périphérique, oeil gauche
+H18.463	dégénérescence cornéenne périphérique, bilatérale
+H18.469	dégénérescence cornéenne périphérique, oeil non spécifié
+H18.49	autre dégénérescence cornéenne
+H18.50	dystrophies cornéennes héréditaires, non spécifiées
+H18.51	dystrophie cornéenne endothéliale
+H18.52	dystrophie cornéenne épithéliale (juvénile)
+H18.53	dystrophie cornéenne granuleuse
+H18.54	dystrophie cornéenne grillagée en réseau
+H18.55	dystrophie cornéenne maculaire
+H18.59	d'autres dystrophies cornéennes héréditaires
+H18.601	kératocône, non spécifié, oeil droit
+H18.602	kératocône, non spécifié, oeil gauche
+H18.603	kératocône, non spécifié, bilatéral
+H18.609	kératocône, non spécifié, oeil non spécifié
+H18.611	kératocône, stable, oeil droit
+H18.612	kératocône, stable, oeil gauche
+H18.613	kératocône, stable, bilatéral
+H18.619	kératocône, stable, oeil non spécifié
+H18.621	kératocône, instable, oeil droit
+H18.622	kératocône, instable, oeil gauche
+H18.623	kératocône, instable, bilatéral
+H18.629	kératocône, instable, oeil non spécifié
+H18.70	déformations cornéenne non spécifiées
+H18.711	ectasie cornéenne, oeil droit
+H18.712	ectasie cornéenne, oeil gauche
+H18.713	ectasie cornéenne, bilatérale
+H18.719	ectasie cornéenne, oeil non spécifié
+H18.721	staphylome cornéen, oeil droit
+H18.722	staphylome cornéen, oeil gauche
+H18.723	staphylome cornéen, bilatéral
+H18.729	staphylome cornéen, oeil non spécifié
+H18.731	descémétocèle, oeil droit
+H18.732	descémétocèle, oeil gauche
+H18.733	descémétocèle, bilatérale
+H18.739	descémétocèle, oeil non spécifié
+H18.791	d'autres déformations cornéennes, oeil droit
+H18.792	d'autres déformations cornéennes, oeil gauche
+H18.793	d'autres déformations cornéennes, bilatérales
+H18.799	d'autres déformations cornéennes, oeil non spécifié
+H18.811	anesthésie et hypoesthésie cornéennes, oeil droit
+H18.812	anesthésie et hypoesthésie cornéennes, oeil gauche
+H18.813	anesthésie et hypoesthésie cornéennes, bilatérales
+H18.819	anesthésie et hypoesthésie cornéennes, oeil non spécifié
+H18.821	trouble cornéen dû au port de verres de contact, oeil droit
+H18.822	trouble cornéen dû au port de verres de contact, oeil gauche
+H18.823	trouble cornéen dû au port de verres de contact, bilatéral
+H18.829	trouble cornéen dû au port de verres de contact, oeil non spécifié
+H18.831	érosion cornéenne récurrente, oeil droit
+H18.832	érosion cornéenne récurrente, oeil gauche
+H18.833	érosion cornéenne récurrente, bilatérale
+H18.839	érosion cornéenne récurrente, oeil non spécifié
+H18.891	d'autres troubles cornéens spécifiés, oeil droit
+H18.892	d'autres troubles cornéens spécifiés, oeil gauche
+H18.893	d'autres troubles cornéens spécifiés, bilatéraux
+H18.899	d'autres troubles cornéens spécifiés, oeil non spécifié
+H18.9	trouble cornéen, non spécifié
+H20.0	iridocyclite aiguë et subaiguë, non spécifiée
+H20.11	iridocyclite primaire, oeil droit
+H20.12	iridocyclite primaire, oeil gauche
+H20.13	iridocyclite primaire, bilatérale
+H20.19	iridocyclite primaire, oeil non spécifié
+H20.21	iridocyclite aiguë récurrente, oeil droit
+H20.22	iridocyclite aiguë récurrente, oeil gauche
+H20.23	iridocyclite aiguë récurrente, bilatérale
+H20.29	iridocyclite aiguë récurrente, oeil non spécifié
+H20.31	iridocyclite secondaire infectieuse, oeil droit
+H20.32	iridocyclite secondaire infectieuse, oeil gauche
+H20.33	iridocyclite secondaire infectieuse, bilatérale
+H20.39	iridocyclite secondaire infectieuse, oeil non spécifié
+H20.41	iridocyclite secondaire non infectieuse, oeil droit
+H20.42	iridocyclite secondaire non infectieuse, oeil gauche
+H20.43	iridocyclite secondaire non infectieuse, bilatéral
+H20.49	iridocyclite secondaire non infectieuse, oeil non spécifié
+H20.51	hypopyon, oeil droit
+H20.52	hypopyon, oeil gauche
+H20.53	hypopyon, bilatéral
+H20.59	hypopyon, oeil non spécifié
+H20.10	iridocyclite chronique, oeil non spécifié
+H20.11	iridocyclite chronique, oeil droit
+H20.12	iridocyclite chronique, oeil gauche
+H20.13	iridocyclite chronique, bilatérale
+H20.20	iridocyclite due aux lentilles, oeil non spécifié
+H20.21	iridocyclite due aux lentilles, oeil droit
+H20.22	iridocyclite due aux lentilles, oeil gauche
+H20.23	iridocyclite due aux lentilles, bilatérale
+H20.811	cyclite hétérochrome de Fuchs, oeil droit
+H20.812	cyclite hétérochrome de Fuchs, oeil gauche
+H20.813	cyclite hétérochrome de Fuchs, bilatérale
+H20.819	cyclite hétérochrome de Fuchs, oeil non spécifié
+H20.821	syndrome de Vogt-Koyanagi, oeil droit
+H20.822	syndrome de Vogt-Koyanagi, oeil gauche
+H20.823	syndrome de Vogt-Koyanagi, bilatéral
+H20.829	syndrome de Vogt-Koyanagi, oeil non spécifié
+H20.9	iridocyclite, non spécifiée
+H21.0	hyphéma, oeil non spécifié
+H21.1	hyphéma, oeil droit
+H21.2	hyphéma, oeil gauche
+H21.3	hyphéma, bilatéral
+H21.1X1	d'autres troubles iridiens vasculaires et du corps ciliaire, oeil droit
+H21.1X2	d'autres troubles iridiens vasculaires et du corps ciliaire, oeil gauche
+H21.1X3	d'autres troubles iridiens vasculaires et du corps ciliaire, bilatéraux
+H21.1X9	d'autres troubles iridiens vasculaires et du corps ciliaire, oeil non spécifié
+H21.211	dégénérescence de l'angle irido-cornéen, oeil droit
+H21.212	dégénérescence de l'angle irido-cornéen, oeil gauche
+H21.213	dégénérescence de l'angle irido-cornéen, bilatéral
+H21.219	dégénérescence de l'angle irido-cornéen, oeil non spécifié
+H21.221	affections dégénératives du corps ciliaire, oeil droit
+H21.222	affections dégénératives du corps ciliaire, oeil gauche
+H21.223	affections dégénératives du corps ciliaire, bilatéral
+H21.229	affections dégénératives du corps ciliaire, oeil non spécifié
+H21.231	dégénérescence de l'iris (pigmentaire), oeil droit
+H21.232	dégénérescence de l'iris (pigmentaire), oeil gauche
+H21.233	dégénérescence de l'iris (pigmentaire), bilatéral
+H21.239	dégénérescence de l'iris (pigmentaire), oeil non spécifié
+H21.241	dégénérescence du rebord pupillaire, oeil droit
+H21.242	dégénérescence du rebord pupillaire, oeil gauche
+H21.243	dégénérescence du rebord pupillaire, bilatéral
+H21.249	dégénérescence du rebord pupillaire, oeil non spécifié
+H21.251	iridoschisis, oeil droit
+H21.252	iridoschisis, oeil gauche
+H21.253	iridoschisis, bilatéral
+H21.259	iridoschisis, oeil non spécifié
+H21.261	atrophie iridienne (essentielle) (progressive), oeil droit
+H21.262	atrophie iridienne (essentielle) (progressive), oeil gauche
+H21.263	atrophie iridienne (essentielle) (progressive), bilatéral
+H21.269	atrophie iridienne (essentielle) (progressive), oeil non spécifié
+H21.271	kyste pupillaire miotique, oeil droit
+H21.272	kyste pupillaire miotique, oeil gauche
+H21.273	kyste pupillaire miotique,  bilatéral
+H21.279	kyste pupillaire miotique, oeil non spécifié
+H21.29	autre atrophie iridienne
+H21.301	kyste idiopathique iridien, oeil droit
+H21.301	kyste idiopathique du corps ciliaire, oeil droit
+H21.301	kyste idiopathique de la chambre antérieure, oeil droit
+H21.302	kyste idiopathique iridien, oeil gauche
+H21.302	kyste idiopathique du corps ciliaire, oeil gauche
+H21.302	kyste idiopathique de la chambre antérieure, oeil gauche
+H21.303	kyste idiopathique iridien, bilatéral
+H21.303	kyste idiopathique du corps ciliaire, bilatéral
+H21.303	kyste idiopathique de la chambre antérieure, bilatéral
+H21.309	kyste idiopathique iridien, du corps ciliaire ou de la chambre antérieure, oeil non spécifié
+H21.311	kyste exsudatif iridien, oeil droit
+H21.311	kyste exsudatif de la chambre antérieure, oeil droit
+H21.312	kyste exsudatif iridien, oeil gauche
+H21.312	kyste de la chambre antérieure, oeil gauche
+H21.313	kyste exsudatif iridien, bilatéral
+H21.313	kyste exsudatif de la chambre antérieure, bilatéral
+H21.319	kyste exsudatif iridien, oeil non spécifié
+H21.319	kyste exsudatif de la chambre antérieure, oeil non spécifié
+H21.321	kyste iridien, du corps ciliaire suite à une implantation antérieure, oeil droit
+H21.321	kyste iridien, de la chambre suite à une implantation antérieure, oeil droit
+H21.322	kyste iridien, du corps ciliaire ou de la chambre suite à une implantation antérieure, oeil gauche
+H21.323	kyste iridien, du corps ciliaire ou de la chambre suite à une implantation antérieure, bilatéral
+H21.329	kyste iridien, du corps ciliaire ou de la chambre antérieure suite à une implantation, oeil non spécifié
+H21.331	kyste parasitaire iridien, du corps ciliaire ou de la chambre antérieure, oeil droit
+H21.332	kyste parasitaire iridien, du corps ciliaire ou de la chambre antérieure, oeil gauche
+H21.333	kyste parasitaire iridien, du corps ciliaire ou de la chambre antérieure, bilatéral
+H21.339	kyste parasitaire iridien, du corps ciliaire ou de la chambre antérieure, oeil non spécifié
+H21.341	kyste primaire de la pars plana, oeil droit
+H21.342	kyste primaire de la pars plana, oeil gauche
+H21.343	kyste primaire de la pars plana, bilatérale
+H21.349	kyste primaire de la pars plana, oeil non spécifié
+H21.351	kyste exsudatif de la pars plana, oeil droit
+H21.352	kyste exsudatif de la pars plana, oeil gauche
+H21.353	kyste exsudatif de la pars plana, bilatéral
+H21.359	kyste exsudatif de la pars plana, oeil non spécifié
+H21.40	membranes pupillaires, oeil non spécifié
+H21.41	membranes pupillaires, oeil droit
+H21.42	membranes pupillaires, oeil gauche
+H21.43	membranes pupillaires, bilatérales
+H21.501	adhérences iridiennes non spécifiées, oeil droit
+H21.502	adhérences iridiennes non spécifiées, oeil gauche
+H21.503	adhérences iridiennes non spécifiées, bilatérales
+H21.509	adhérences iridiennes non spécifiées, oeil non spécifié
+H21.511	synéchies antérieures, oeil droit
+H21.512	synéchies  antérieures, oeil gauche
+H21.513	synéchies antérieures, bilatéral
+H21.519	synéchies  antérieures, oeil non spécifié
+H21.521	goniosynéchies, oeil droit
+H21.522	goniosynéchies, oeil gauche
+H21.523	goniosynéchies, bilatérales
+H21.529	goniosynéchies, oeil non spécifié
+H21.531	iridodialyse, oeil droit
+H21.532	iridodialyse, oeil gauche
+H21.533	iridodialyse, bilatérale
+H21.539	iridodialyse, oeil non spécifié
+H21.541	synéchies postérieures, oeil droit
+H21.542	synéchies postérieures, oeil gauche
+H21.543	synéchies postérieures, bilatéral
+H21.549	synéchies postérieures, oeil non spécifié
+H21.551	récession de l'angle iridocornéen, oeil droit
+H21.552	récession de l'angle iridocornéen, oeil gauche
+H21.553	récession de l'angle iridocornéen, bilatéral
+H21.559	récession de l'angle iridocornéen, oeil non spécifié
+H21.561	anomalies pupillaires, oeil droit
+H21.562	anomalies pupillaires, oeil gauche
+H21.563	anomalies pupillaires, bilatérales
+H21.569	anomalies pupillaires, oeil non spécifié
+H21.81	syndrome de l'iris flasque
+H21.82	syndrome de l'iris en plateau 
+H21.82	syndrome de l'iris en plateau post-iridectomie 
+H21.82	syndrome de l'iris en plateau post-iridectomie après une procédure
+H25.43	cataracte polaire sous-capsulaire postérieure, liée à l'âge, bilatérale
+H25.49	cataracte polaire sous-capsulaire postérieure, liée à l'âge, oeil non spécifié
+H25.91	cataracte naissante liée à l'âge, oeil droit
+H25.92	cataracte débutante, liée à l'âge, oeil gauche
+H25.93	cataracte débutante, liée à l'âge, bilatérale
+H25.99	cataracte débutante, liée à l'âge, oeil non spécifié
+H25.10	cataracte nucléaire, liée à l'âge, oeil non spécifié
+H25.11	cataracte nucléaire, liée à l'âge, oeil droit
+H25.12	cataracte nucléaire, liée à l'âge, oeil gauche
+H25.13	cataracte nucléaire, liée à l'âge, bilatérale
+H25.20	cataracte liée à l'âge, du type Morgagni, oeil non spécifié
+H25.21	cataracte liée à l'âge, du type Morgagni, oeil droit
+H25.22	cataracte liée à l'âge, du type Morgagni, oeil gauche
+H25.23	cataracte liée à l'âge, du type Morgagni, bilatérale
+H25.811	formes combinées de cataracte liée à l'âge, oeil droit
+H25.812	formes combinées de cataracte liée à l'âge, oeil gauche
+H25.813	formes combinées de cataracte liée à l'âge, bilatérales
+H25.819	formes combinées de cataracte liée à l'âge, oeil non spécifié
+H25.89	autre cataracte liée à l'âge
+H25.9	cataracte liée à l'âge, non spécifiée
+H26.1	cataracte infantile et juvénile non spécifiée, oeil droit
+H26.2	cataracte infantile et juvénile non spécifiée, oeil gauche
+H26.3	cataracte infantile et juvénile non spécifiée, bilatérale
+H26.9	cataracte infantile et juvénile non spécifiée, oeil non spécifié
+H26.11	cataracte infantile et juvénile, corticale lamellaire ou zonulaire, oeil droit
+H26.12	cataracte infantile et juvénile, corticale lamellaire ou zonulaire, oeil gauche
+H26.13	cataracte infantile et juvénile, corticale lamellaire ou zonulaire, bilatérale
+H26.19	cataracte infantile et juvénile, corticale lamellaire ou zonulaire, oeil non spécifié
+H26.31	cataracte infantile et juvénile, nucléaire, oeil droit
+H26.32	cataracte infantile et juvénile, nucléaire, oeil gauche
+H26.33	cataracte infantile et juvénile, nucléaire, bilatérale
+H26.39	cataracte infantile et juvénile, nucléaire, oeil non spécifié
+H26.41	cataracte infantile et juvénile, polaire sous-capsulaire antérieure, oeil droit
+H26.42	cataracte infantile et juvénile, polaire sous-capsulaire antérieure, oeil gauche
+H26.43	cataracte infantile et juvénile, polaire sous-capsulaire antérieure, bilatérale
+H26.49	cataracte infantile et juvénile, polaire sous-capsulaire antérieure, oeil non spécifié
+H26.51	cataracte infantile et juvénile, polaire sous-capsulaire postérieure, oeil droit
+H26.52	cataracte infantile et juvénile, polaire sous-capsulaire postérieure, oeil gauche
+H26.53	cataracte infantile et juvénile, polaire sous-capsulaire postérieure, bilatéral
+H26.59	cataracte infantile et juvénile, polaire sous-capsulaire postérieure, oeil non spécifié
+H26.61	cataracte infantile et juvénile, combinée, oeil droit
+H26.62	cataracte infantile et juvénile, combinée, oeil gauche
+H26.63	cataracte infantile et juvénile, combinée, bilatérale
+H26.69	cataracte infantile et juvénile, combinée, oeil non spécifié
+H26.9	d'autres formes de cataracte infantile et juvénile
+H26.101	cataracte traumatique, non spécifiée, oeil droit
+H26.102	cataracte traumatique, non spécifiée, oeil gauche
+H26.103	cataracte traumatique, non spécifiée, bilatérale
+H26.109	cataracte traumatique, non spécifiée, oeil non spécifié
+H26.111	cataracte traumatique, opacités localisées, oeil droit
+H26.112	cataracte traumatique, opacités localisées, oeil gauche
+H26.113	cataracte traumatique, opacités localisées, bilatérale
+H26.119	cataracte traumatique, opacités localisées, oeil non spécifié
+H26.121	cataracte traumatique partiellement résorbée, oeil droit
+H26.122	cataracte traumatique partiellement résorbée, oeil gauche
+H26.123	cataracte traumatique partiellement résorbée, bilatérale
+H26.129	cataracte traumatique partiellement résorbée, oeil non spécifié
+H26.131	cataracte traumatique totale, oeil droit
+H26.132	cataracte traumatique totale, oeil gauche
+H26.133	cataracte traumatique totale, bilatérale
+H26.139	cataracte traumatique totale, oeil non spécifié
+H26.20	cataracte compliquée, non spécifiée
+H26.211	cataracte avec néovascularisation, oeil droit
+H26.212	cataracte avec néovascularisation, oeil gauche
+H26.213	cataracte avec néovascularisation, bilatérale
+H26.219	cataracte avec néovascularisation, oeil non spécifié
+H26.221	cataracte secondaire à un autre syndrome (dégénérative) (inflammatoire), oeil droit
+H26.222	cataracte secondaire à un autre syndrome (dégénérative) (inflammatoire), oeil gauche
+H26.223	cataracte secondaire à un autre syndrome (dégénérative) (inflammatoire), bilatérale
+H26.229	cataracte secondaire à un autre syndrome (dégénérative) (inflammatoire), oeil non spécifié
+H26.231	cataracte glaucomateuse, oeil droit
+H26.231	opacités sous-capsulaires, oeil droit
+H26.232	cataracte glaucomateuse, oeil gauche
+H26.232	cataracte glaucomateuse, oeil gauche
+H26.232	opacités sous-capsulaires, oeil gauche
+H26.233	cataracte glaucomateuse, bilatérale
+H26.233	cataracte glaucomateuse (opacités sous-capsulaires), bilatérale
+H26.239	cataracte glaucomateuse, oeil non spécifié
+H26.239	cataracte opacités sous-capsulaires, oeil non spécifié
+H26.30	cataracte toxique, oeil non spécifié
+H26.31	cataracte toxique, oeil droit
+H26.32	cataracte toxique, oeil gauche
+H26.33	cataracte toxique, bilatérale
+H26.40	cataracte secondaire, non spécifiée
+H26.411	anneau de Soemmering, oeil droit
+H26.412	anneau de Soemmering, oeil gauche
+H26.413	anneau de Soemmering, bilatéral
+H26.419	anneau de Soemmering, oeil non spécifié
+H26.491	autre cataracte secondaire, oeil droit
+H26.492	autre cataracte secondaire, oeil gauche
+H26.493	autre cataracte secondaire, bilatérale
+H26.499	autre cataracte secondaire, oeil non spécifié
+H26.8	d'autres cataractes spécifiées
+H26.9	cataracte, non spécifiée
+H27.0	aphakie, oeil non spécifié
+H27.1	aphakie, oeil droit
+H27.2	aphakie, oeil gauche
+H27.3	aphakie, bilatérale
+H27.10	luxation du cristallin, non spécifiée
+H27.111	subluxation du cristallin, oeil droit
+H27.112	subluxation du cristallin, oeil gauche
+H27.113	subluxation du cristallin, bilatéral
+H27.119	subluxation du cristallin, oeil non spécifié
+H27.121	luxation antérieure du cristallin, oeil droit
+H27.122	luxation antérieure du cristallin, oeil gauche
+H27.123	luxation antérieure du cristallin, bilatéral
+H27.129	luxation antérieure du cristallin, oeil non spécifié
+H27.131	luxation postérieure du cristallin, oeil droit
+H27.132	luxation postérieure du cristallin, oeil gauche
+H30.21	choriorétinite en foyer, pôle postérieur, oeil droit
+H30.22	choriorétinite en foyer, pôle postérieur, oeil gauche
+H30.23	choriorétinite en foyer, pôle postérieur, bilatéral
+H30.29	choriorétinite en foyer, pôle postérieur, oeil non spécifié
+H30.31	choriorétinite en foyer, périphérique, oeil droit
+H30.32	choriorétinite en foyer, périphérique, oeil gauche
+H30.33	choriorétinite en foyer, périphérique, bilatéral
+H30.39	choriorétinite en foyer, périphérique, oeil non spécifié
+H30.41	choriorétinite en foyer, maculaire ou paramaculaire, oeil droit
+H30.42	choriorétinite en foyer, maculaire ou paramaculaire, oeil gauche
+H30.43	choriorétinite en foyer, maculaire ou paramaculaire, bilatéral
+H30.49	choriorétinite en foyer, maculaire ou paramaculaire, oeil non spécifié
+H30.101	choriorétinite non spécifiée disséminée, oeil droit
+H30.102	choriorétinite non spécifiée disséminée, oeil gauche
+H30.103	choriorétinite non spécifiée disséminée, bilatérale
+H30.109	choriorétinite disséminée, non spécifié, oeil non spécifié
+H30.111	choriorétinite disséminée, pôle postérieur, oeil droit
+H30.112	choriorétinite disséminée, pôle postérieur, oeil gauche
+H30.113	choriorétinite disséminée, pôle postérieur, bilatéral
+H30.119	choriorétinite disséminée, pôle postérieur, oeil non spécifié
+H30.121	choriorétinite disséminée, périphérique, oeil droit
+H30.122	choriorétinite disséminée, périphérique, oeil gauche
+H30.123	choriorétinite disséminée, périphérique, bilatérale
+H30.129	choriorétinite disséminée, périphérique, oeil non spécifié
+H30.131	choriorétinite disséminée, généralisée, oeil droit
+H30.132	choriorétinite disséminée, généralisée, oeil gauche
+H30.133	choriorétinite disséminée, généralisée, bilatérale
+H30.139	choriorétinite disséminée, généralisée, oeil non spécifié
+H30.141	épithéliopathie pigmentaire placoïde multifocale postérieure aiguë, oeil droit
+H30.142	épithéliopathie pigmentaire placoïde multifocale postérieure aiguë, oeil gauche
+H30.143	épithéliopathie pigmentaire placoïde multifocale postérieure aiguë, bilatérale
+H30.149	épithéliopathie pigmentaire placoïde multifocale postérieure aiguë, oeil non spécifié
+H30.20	cyclite postérieure, oeil non spécifié
+H30.21	cyclite postérieure, oeil droit
+H30.22	cyclite postérieure, oeil gauche
+H30.23	cyclite postérieure, bilatérale
+H30.811	maladie de Harada, oeil droit
+H30.812	maladie de Harada, oeil gauche
+H30.813	maladie de Harada, bilatérale
+H30.819	maladie de Harada, oeil non spécifié
+H30.891	d'autres choriorétinites, oeil droit
+H30.892	d'autres choriorétinites, oeil gauche
+H30.893	d'autres choriorétinites, bilatérales
+H30.899	d'autres choriorétinites, oeil non spécifié
+H30.90	choriorétinite, non spécifiée, oeil droit
+H30.91	choriorétinite, non spécifiée, oeil droit
+H30.92	choriorétinite, non spécifiée, oeil gauche
+H30.93	choriorétinite, non spécifié, bilatérale
+H31.1	cicatrices choriorétiniennes, non spécifiées, oeil droit
+H31.2	cicatrices choriorétiniennes, non spécifiées, oeil gauche
+H31.3	cicatrices choriorétiniennes, non spécifiées, bilatéral
+H31.9	cicatrices choriorétiniennes, non spécifiées, oeil non spécifié
+H31.11	cicatrice (postinflammatoire) (post-traumatique) de la macula (pôle postérieur), oeil droit
+H31.12	cicatrice (postinflammatoire) (post-traumatique) de la macula (pôle postérieur), oeil gauche
+H31.13	cicatrice (postinflammatoire) (post-traumatique) de la macula (pôle postérieur), bilatérale
+H31.19	cicatrice (postinflammatoire) (post-traumatique) de la macula (pôle postérieur), oeil non spécifié
+H31.21	rétinopathie solaire, oeil droit
+H31.22	rétinopathie solaire, oeil gauche
+H31.23	rétinopathie solaire, bilatérale
+H31.29	rétinopathie solaire, oeil non spécifié
+H31.91	d'autres cicatrices choriorétiniennes, oeil droit
+H31.92	d'autres cicatrices choriorétiniennes, oeil gauche
+H31.93	d'autres cicatrices choriorétiniennes, bilatérales
+H31.99	d'autres cicatrices choriorétiniennes, oeil non spécifié
+H31.101	dystrophie choroïdienne, non spécifiée, oeil droit
+H31.102	dystrophie choroïdienne, non spécifiée, oeil gauche
+H31.103	dystrophie choroïdienne, non spécifiée, bilatérale
+H31.109	dystrophie choroïdienne, oeil non spécifié
+H31.111	atrophie choroïdienne liée à l'âge, oeil droit
+H31.112	atrophie choroïdienne liée à l'âge, oeil gauche
+H31.113	atrophie choroïdienne liée à l'âge, bilatérale
+H31.119	atrophie choroïdienne liée à l'âge, oeil non spécifié
+H31.121	atrophie choroïdienne secondaire diffuse, oeil droit
+H31.122	atrophie choroïdienne secondaire diffuse, oeil gauche
+H31.123	atrophie choroïdienne secondaire diffuse, bilatérale
+H31.129	atrophie choroïdienne secondaire diffuse, oeil non spécifié
+H31.20	dystrophie chorodienne héréditaire, non spécifiée
+H31.21	choroïdérémie
+H31.22	dégénérescence choroïdienne (aréolaire centrale) (généralisée) (péripapillaire)
+H31.23	atrophia gyrata choroïdae
+H31.29	autre dystrophie choroïdienne héréditaire, non spécifiée
+H31.301	hémorragie choroïdienne, non spécifiée, oeil droit
+H31.302	hémorragie choroïdienne, non spécifiée, oeil gauche
+H31.303	hémorragie choroïdienne, non spécifiée, bilatérale
+H31.309	hémorragie choroïdienne, non spécifié, oeil non spécifié
+H31.311	hémorragie choroïdienne expulsive, oeil droit
+H31.312	hémorragie choroïdienne expulsive, oeil gauche
+H31.313	hémorragie choroïdienne expulsive, bilatérale
+H31.319	hémorragie choroïdienne expulsive, oeil non spécifié
+H31.321	rupture choroïdienne, oeil droit
+H31.322	rupture choroïdienne, oeil gauche
+H31.323	rupture choroïdienne, bilatérale
+H31.329	rupture choroïdienne, oeil non spécifié
+H31.401	décollement choroïdien, non spécifié, oeil droit
+H31.402	décollement choroïdien, non spécifié, oeil gauche
+H31.403	décollement choroïdien, non spécifié, bilatérale
+H31.409	décollement choroïdien, non spécifié, oeil non spécifié
+H31.411	décollement choroïdien hémorragique, oeil droit
+H31.412	décollement choroïdien hémorragique, oeil gauche
+H31.413	décollement choroïdien hémorragique, bilatéral
+H31.419	décollement choroïdien hémorragique, oeil non spécifié
+H31.421	décollement  choroïdien séreux, oeil droit
+H31.422	décollement  choroïdien séreux, oeil gauche
+H31.423	décollement  choroïdien séreux, bilatéral
+H31.429	décollement  choroïdien séreux, oeil non spécifié
+H31.8	d'autres troubles choroïdiens spécifiés
+H31.9	trouble choroïdien, non spécifié
+H32	troubles choriorétiniens au cours de maladies classées ailleurs
+H33.1	décollement de la rétine avec une déchirure rétinienne, non spécifié, oeil droit
+H33.2	décollement de la rétine avec une déchirure rétinienne, non spécifié, oeil gauche
+H33.3	décollement de la rétine avec une déchirure rétinienne, non spécifié, bilatérale
+H33.9	décollement de la rétine avec une déchirure rétinienne, non spécifié, oeil non spécifié
+H33.11	décollement de la rétine avec une simple déchirure, oeil droit
+H33.12	décollement de la rétine avec une simple déchirure, oeil gauche
+H33.13	décollement de la rétine avec une simple déchirure, bilatérale
+H33.19	décollement de la rétine avec une simple déchirure, oeil non spécifié
+H33.21	décollement de la rétine avec de multiples déchirures, oeil droit
+H33.22	décollement de la rétine avec de multiples déchirures, oeil gauche
+H33.23	décollement de la rétine avec de multiples déchirures, bilatérale
+H33.29	décollement de la rétine avec de multiples déchirures, oeil non spécifié
+H33.31	décollement de la rétine avec une déchirure rétinienne géante, oeil droit
+H33.32	décollement de la rétine avec une déchirure rétinienne géante, oeil gauche
+H33.33	décollement de la rétine avec une déchirure rétinienne géante, bilatérale
+H33.39	décollement de la rétine avec une déchirure rétinienne géante, oeil non spécifié
+H33.41	décollement de la rétine avec une dialyse rétinienne, oeil droit
+H33.42	décollement de la rétine avec une dialyse rétinienne, oeil gauche
+H33.43	décollement de la rétine avec une dialyse rétinienne, bilatérale
+H33.49	décollement de la rétine avec une dialyse rétinienne, oeil non spécifié
+H33.51	décollement de la rétine complète, oeil droit
+H33.52	décollement de la rétine complète, oeil gauche
+H33.53	décollement de la rétine complète, bilatérale
+H33.59	décollement de la rétine complète, oeil non spécifié
+H33.101	rétinoschisis, non spécifié, oeil droit
+H33.102	rétinoschisis, non spécifié, oeil gauche
+H33.103	rétinoschisis, non spécifié, bilatéral
+H33.109	rétinoschisis, non spécifié, oeil non spécifié
+H33.111	kyste de l'ora serrata, oeil droit
+H33.112	kyste de l'ora serrata, oeil gauche
+H33.113	kyste de l'ora serrata, bilatérale
+H33.119	kyste de l'ora serrata, oeil non spécifié
+H33.121	kyste parasitaire de la rétine, oeil droit
+H33.122	kyste parasitaire de la rétine, oeil gauche
+H33.123	kyste parasitaire de la rétine, bilatérale
+H33.129	kyste parasitaire de la rétine, oeil non spécifié
+H33.191	d'autres rétinoschisis et kystes rétiniens, oeil droit
+H33.192	d'autres rétinoschisis et kystes rétiniens, oeil gauche
+H33.193	d'autres rétinoschisis et kystes rétiniens, bilatéraux
+H33.199	d'autres rétinoschisis et kystes rétiniens, oeil non spécifié
+H33.20	décollement séreux de la rétine, oeil non spécifié
+H33.21	décollement séreux de la rétine, oeil droit
+H33.22	décollement séreux de la rétine, oeil gauche
+H33.23	décollement séreux de la rétine, bilatérale
+H33.301	déchirure de la rétine, non spécifiée, oeil droit
+H33.302	déchirure de la rétine, non spécifiée, oeil gauche
+H33.303	déchirure de la rétine, non spécifiée, bilatérale
+H33.309	déchirure de la rétine, non spécifié, oeil non spécifié
+H33.311	déchirure en fer à cheval de la rétine, sans décollement, oeil droit
+H33.312	déchirure en fer à cheval de la rétine, sans décollement, oeil gauche
+H33.313	déchirure en fer à cheval de la rétine, sans décollement, bilatérale
+H33.319	déchirure en fer à cheval de la rétine, sans décollement, oeil non spécifié
+H33.321	trou rond de la rétine, sans décollement, oeil droit
+H33.322	trou rond de la rétine, sans décollement, oeil gauche
+H33.323	trou rond de la rétine, sans décollement, bilatérale
+H33.329	trou rond de la rétine, sans décollement, oeil non spécifié
+H33.331	anomalies multiples de la rétine sans décollement, oeil droit
+H33.332	anomalies multiples de la rétine sans décollement, oeil gauche
+H33.333	anomalies multiples de la rétine sans décollement, bilatérale
+H33.339	anomalies multiples de la rétine sans décollement, oeil non spécifié
+H33.40	décollement de la rétine par traction, oeil non spécifié
+H33.41	décollement de la rétine par traction, oeil droit
+H33.42	décollement de la rétine par traction, oeil gauche
+H33.43	décollement de la rétine par traction, bilatérale
+H33.8	d'autres décollements de la rétine
+H34.0	occlusion transitoire de l'artère rétinienne, oeil non spécifié
+H34.1	occlusion transitoire de l'artère rétinienne, oeil droit
+H34.2	occlusion transitoire de l'artère rétinienne, oeil gauche
+H34.3	occlusion transitoire de l'artère rétinienne, bilatérale
+H34.10	occlusion de l'artère rétinienne centrale, oeil non spécifié
+H34.11	occlusion de l'artère rétinienne centrale, oeil droit
+H34.12	occlusion de l'artère rétinienne centrale, oeil gauche
+H34.13	occlusion de l'artère rétinienne centrale, bilatérale
+H34.211	occlusion partielle de l'artère rétinienne, oeil droit
+H34.212	occlusion partielle de l'artère rétinienne, oeil gauche
+H34.213	occlusion partielle de l'artère rétinienne, bilatérale
+H34.219	occlusion partielle de l'artère rétinienne, oeil non spécifié
+H34.231	occlusion de la branche de l'artère rétinienne, oeil droit
+H34.232	occlusion de la branche de l'artère rétinienne, oeil gauche
+H34.233	occlusion de la branche de l'artère rétinienne, bilatérale
+H34.239	occlusion de la branche de l'artère rétinienne, oeil non spécifié
+H34.811	occlusion de la veine rétinienne centrale, oeil droit
+H34.812	occlusion de la veine rétinienne centrale, oeil gauche
+H34.813	occlusion de la veine rétinienne centrale, bilatérale
+H34.819	occlusion de la veine rétinienne centrale, oeil non spécifié
+H34.821	engorgement veineux, oeil droit
+H34.822	engorgement veineux, oeil gauche
+H34.823	engorgement veineux, bilatéral
+H34.829	engorgement veineux, oeil non spécifié
+H34.831	occlusion de la branche de la veine rétinienne, oeil droit
+H34.832	occlusion de la branche de la veine rétinienne, oeil gauche
+H34.833	occlusion de la branche de la veine rétinienne, bilatérale
+H34.839	occlusion de la branche de la veine rétinienne, oeil non spécifié
+H34.9	occlusion vasculaire rétinienne, non spécifiée
+H35.0	d'autres rétinopathies, non spécifiées
+H35.11	altérations vasculaires de la rétine, oeil droit
+H35.12	altérations vasculaires de la rétine, oeil gauche
+H35.13	altérations vasculaires de la rétine, bilatérale
+H35.19	altérations vasculaires de la rétine, oeil non spécifié
+H35.21	rétinopathie exsudative, oeil droit
+H35.22	rétinopathie exsudative, oeil gauche
+H35.23	rétinopathie exsudative, bilatérale
+H35.29	rétinopathie exsudative, oeil non spécifié
+H35.31	rétinopathie hypertensive, oeil droit
+H35.32	rétinopathie hypertensive, oeil gauche
+H35.33	rétinopathie hypertensive, bilatérale
+H35.73	télangiectasie de la rétine, bilatérale
+H35.79	télangiectasie de la rétine, oeil non spécifié
+H35.9	d'autres anormalités micro-vasculaires de la rétine
+H35.101	rétinopathie du prématurité, non spécifié, oeil droit
+H35.102	rétinopathie du prématurité, non spécifiée, oeil gauche
+H35.103	rétinopathie du prématurité, non spécifiée, bilatérale
+H35.109	rétinopathie du prématurité, non spécifiée, bilatérale
+H35.111	rétinopathie du prématurité, stade 0, oeil droit
+H35.112	rétinopathie du prématurité, stade 0, oeil gauche
+H35.113	rétinopathie du prématurité, stade 0, bilatérale
+H35.119	rétinopathie du prématurité, stade 0, oeil non spécifié
+H35.121	rétinopathie du prématurité, stade 1, oeil droit
+H35.122	rétinopathie du prématurité, stade 1, oeil gauche
+H35.123	rétinopathie du prématurité, stade 1, bilatérale
+H35.129	rétinopathie du prématurité, stade 1, oeil non spécifié
+H35.131	rétinopathie du prématurité, stade 2, oeil droit
+H35.132	rétinopathie du prématurité, stade 2, oeil gauche
+H35.133	rétinopathie du prématurité, stade 2, bilatérale
+H35.139	rétinopathie du prématurité, stade 2, oeil non spécifié
+H35.141	rétinopathie du prématurité, stade 3, oeil droit
+H35.142	rétinopathie du prématurité, stade 3, oeil gauche
+H35.143	rétinopathie du prématurité, stade 3, bilatérale
+H35.149	rétinopathie du prématurité, stade 3, oeil non spécifié
+H35.151	rétinopathie du prématurité, stade 4, oeil droit
+H35.152	rétinopathie du prématurité, stade 4, oeil gauche
+H35.153	rétinopathie du prématurité, stade 4, bilatérale
+H35.159	rétinopathie du prématurité, stade 4, oeil non spécifié
+H35.161	rétinopathie du prématurité, stade 5, oeil droit
+H35.162	rétinopathie du prématurité, stade 5, oeil gauche
+H35.163	rétinopathie du prématurité, stade 5, bilatérale
+H35.169	rétinopathie du prématurité, stade 5, oeil non spécifié
+H35.171	fibroplasie rétrocristallinienne, oeil droit
+H35.171	fibroplasie rétrolentale, oeil droit
+H35.172	fibroplasie rétrocristallinienne, oeil gauche
+H35.172	fibroplasie rétrolentale, oeil gauche
+H35.173	fibroplasie rétrocristallinienne, bilatérale
+H35.173	fibroplasie rétrolentale, bilatérale
+H35.179	fibroplasie rétrocristallinienne, oeil non spécifié
+H35.179	fibroplasie rétrolentale, oeil non spécifié
+H35.20	d'autres rétinopathies proliférantes non diabétiques, oeil non spécifié
+H35.21	d'autres rétinopathies proliférantes non diabétiques, oeil droit
+H35.22	d'autres rétinopathies proliférantes non diabétiques, oeil gauche
+H35.23	d'autres rétinopathies proliférantes non diabétiques, bilatérales
+H35.30	dégénérescence maculaire, non spécifiée
+H35.31	dégénérescence maculaire non exsudative, liée à l'âge
+H35.32	dégénérescence maculaire exsudative, liée à l'âge
+H35.33	stries angioïdes maculaires
+H35.341	kyste, trou maculaires, oeil droit
+H35.341	kyste, pseudo-trou maculaires, oeil droit
+H35.342	kyste, trou maculaires, oeil gauche
+H35.342	kyste, pseudo-trou maculaires, oeil gauche
+H35.343	kyste, trou, bilatéraux
+H35.343	kyste, pseudo-trou maculaires, bilatéraux
+H35.349	kyste, trou, oeil non spécifié
+H35.349	kyste, pseudo-trou maculaires, oeil non spécifié
+H35.351	dégénérescence maculaire cystoïde, oeil droit
+H35.352	dégénérescence maculaire cystoïde, oeil gauche
+H35.353	dégénérescence maculaire cystoïde, bilatérale
+H35.359	dégénérescence maculaire cystoïde, oeil non spécifié
+H35.361	druses (dégénératives) maculaires, oeil droit
+H35.362	druses (dégénératives) maculaires, oeil gauche
+H35.363	druses (dégénératives) maculaires, bilatérales
+H35.369	druses (dégénératives) maculaires, oeil non spécifié
+H35.371	plis maculaires, oeil droit
+H35.372	plis maculaires, oeil gauche
+H35.373	plis maculaires, bilatéraux
+H35.379	plis maculaires, oeil non spécifié
+H35.381	maculopathie toxique, oeil droit
+H35.382	maculopathie toxique, oeil gauche
+H35.383	maculopathie toxique, bilatérale
+H35.389	maculopathie toxique, oeil non spécifié
+H35.40	dégénérescence périphérique maculaire, non spécifiée
+H35.411	dégénérescence rétinienne entrecroisée, oeil droit
+H35.412	dégénérescence rétinienne entrecroisée, oeil gauche
+H35.413	dégénérescence rétinienne entrecroisée, bilatérale
+H35.419	dégénérescence rétinienne entrecroisée, oeil non spécifié
+H35.421	dégénérescence rétinienne microcystoïde, oeil droit
+H35.422	dégénérescence rétinienne microcystoïde, oeil gauche
+H35.423	dégénérescence rétinienne microcystoïde, bilatérale
+H35.429	dégénérescence rétinienne microcystoïde, oeil non spécifié
+H35.431	dégénérescence rétinienne pavimenteuse, oeil droit
+H35.432	dégénérescence rétinienne pavimenteuse, oeil gauche
+H35.433	dégénérescence rétinienne pavimenteuse, bilatérale
+H35.439	dégénérescence rétinienne pavimenteuse, oeil non spécifié
+H35.441	dégénérescence rétinienne réticulaire liée à l'âge, oeil droit
+H35.442	dégénérescence rétinienne réticulaire liée à l'âge, oeil gauche
+H35.443	dégénérescence rétinienne réticulaire liée à l'âge, bilatérale
+H35.449	dégénérescence rétinienne réticulaire liée à l'âge, oeil non spécifié
+H35.451	dégénérescence pigmentaire secondaire de la rétine, oeil droit
+H35.452	dégénérescence pigmentaire secondaire de la rétine, oeil gauche
+H35.453	dégénérescence pigmentaire secondaire de la rétine, bilatérale
+H35.459	dégénérescence pigmentaire secondaire de la rétine, oeil non spécifié
+H35.461	dégénérescence vitréo-rétinienne secondaire, oeil droit
+H35.462	dégénérescence vitréo-rétinienne secondaire, oeil gauche
+H35.463	dégénérescence vitréo-rétinienne secondaire, bilatérale
+H35.469	dégénérescence vitréo-rétinienne secondaire, oeil non spécifié
+H35.50	dystrophie rétinienne héréditaire, non spécifiée
+H35.51	dystrophie vitréo-rétinienne
+H35.52	dystrophie rétinienne pigmentaire
+H35.53	d'autres dystrophies principalement  rétiniennes sensorielles
+H35.54	d'autres dystrophies principalement épithéliales pigmentaires rétiniennes
+H35.60	hémorragie rétinienne, oeil non spécifié
+H35.61	hémorragie rétinienne, oeil droit
+H35.62	hémorragie rétinienne, oeil gauche
+H35.63	hémorragie rétinienne, bilatérale
+H35.70	décollement des couches de la rétine, non spécifié
+H35.711	choriorétinopathie séreuse centrale, oeil droit
+H35.712	choriorétinopathie séreuse centrale, oeil gauche
+H35.713	choriorétinopathie séreuse centrale, bilatérale
+H35.719	choriorétinopathie séreuse centrale, oeil non spécifié
+H35.721	décollement séreux de l'épithélium pigmentaire rétinien, oeil droit
+H35.722	décollement séreux de l'épithélium pigmentaire rétinien, oeil gauche
+H35.723	décollement séreux de l'épithélium pigmentaire rétinien, bilatéral
+H35.729	décollement séreux de l'épithélium pigmentaire rétinien, oeil non spécifié
+H35.731	décollement hémorragique de l'épithélium pigmentaire rétinien, oeil droit
+H35.732	décollement hémorragique de l'épithélium pigmentaire rétinien, oeil gauche
+H35.733	décollement hémorragique de l'épithélium pigmentaire rétinien, bilatéral
+H35.739	décollement hémorragique de l'épithélium pigmentaire rétinien, oeil non spécifié
+H35.81	oedème de la rétine
+H35.82	ischémie de la rétine
+H35.89	autre troubles rétiniens spécifiés
+H35.9	trouble rétinien, non spécifié
+H36	troubles rétiniens au cours de maladies classées ailleurs
+H40.1	pré-glaucome, non spécifié, oeil droit
+H40.2	pré-glaucome, non spécifié, oeil gauche
+H40.3	pré-glaucome, non spécifié, bilatéral
+H40.9	pré-glaucome, non spécifié, oeil non spécifié
+H40.11	glaucome à angle ouvert aux conclusions limites, à faible risque, oeil droit
+H40.12	glaucome à angle ouvert aux conclusions limites, à faible risque, oeil gauche
+H40.13	glaucome à angle ouvert aux conclusions limites, à faible risque, bilatérale
+H40.2213	glaucome chronique à angle fermé, oeil droit, stade sévère
+H40.2214	glaucome chronique à angle fermé, oeil droit, stade indéterminé
+H40.2220	glaucome chronique à angle fermé, oeil gauche, stade non spécifié
+H40.2221	glaucome chronique à angle fermé, oeil gauche, stade légère
+H40.2222	glaucome chronique à angle fermé, oeil gauche, stade modéré
+H40.2223	glaucome chronique à angle fermé, oeil gauche, stade sévère
+H40.2224	glaucome chronique à angle fermé, oeil gauche, stade indéterminé
+H40.2230	glaucome chronique à angle fermé, bilatéral, stade non spécifié
+H40.2231	glaucome chronique à angle fermé, bilatéral, stade légère
+H40.2232	glaucome chronique à angle fermé, bilatéral, stade modéré
+H40.2233	glaucome chronique à angle fermé, bilatéral, stade sévère
+H40.2234	glaucome chronique à angle fermé, bilatéral, stade indéterminé
+H40.2290	glaucome chronique à angle fermé, oeil non spécifié, stade non spécifié
+H47.32	hypoplasie du nerf optique, oeil gauche
+H47.33	hypoplasie du nerf optique, bilatéral
+H47.39	hypoplasie du nerf optique, oeil non spécifié
+H47.91	troubles du nerf optique, non classés ailleurs, oeil droit
+H47.92	troubles du nerf optique, non classés ailleurs, oeil gauche
+H47.93	troubles du nerf optique, non classés ailleurs, bilatéral
+H47.99	troubles du nerf optique, non classées ailleurs, oeil non spécifié
+H53.452	autre trouble du champ visuel localisé, oeil gauche
+H53.453	autre trouble du champ visuel localisé, bilatéral
+H53.459	autre trouble du champ visuel localisé, oeil non spécifié
+H53.461	trouble du champ visuel homonyme et bilatéral, côté droit
+H53.462	trouble du champ visuel homonyme et bilatéral, côté gauche
+H53.469	trouble du champ visuel homonyme et bilatéral, côté non spécifié
+H53.47	troubles du champ visuel hétéronymes et bilatéraux
+H53.481	rétrécissement généralisé du champ visuel, oeil droit
+H61.101	troubles non infectieux du pavillon de l'oreille, non spécifiés, oreille droite
+H61.102	troubles non infectieux du pavillon de l'oreille, non spécifiés, oreille gauche
+H61.103	troubles non infectieux du pavillon de l'oreille, non spécifiés, bilatéral
+H61.109	troubles non infectieux du pavillon de l'oreille, non spécifiés, oreille non spécifiée
+H61.111	déformation acquise du pavillon de l'oreille, oreille droite
+H61.112	déformation acquise du pavillon de l'oreille, oreille gauche
+H61.113	déformation acquise du pavillon de l'oreille, bilatéral
+H61.119	déformation acquise du pavillon de l'oreille, oreille non spécifiée
+H61.121	hématome du pavillon de l'oreille, oreille droite
+H61.122	hématome du pavillon de l'oreille, oreille gauche
+H61.123	hématome du pavillon de l'oreille, bilatéral
+H61.129	hématome du pavillon de l'oreille, oreille non spécifiée
+H61.191	troubles non infectieux du pavillon de l'oreille, oreille droite
+H61.192	troubles non infectieux du pavillon de l'oreille, oreille gauche
+H61.193	troubles non infectieux du pavillon de l'oreille, bilatéral
+H61.199	troubles non infectieux du pavillon de l'oreille, oreille non spécifiée
+H61.20	bouchon de cérumen, oreille non spécifiée
+H61.21	bouchon de cérumen, oreille droite
+H61.22	bouchon de cérumen, oreille gauche
+H61.23	bouchon de cérumen, bilatéral
+H40.19	glaucome à angle ouvert aux conclusions limites, à faible risque, oeil non spécifié
+H40.21	glaucome à angle ouvert aux conclusions limites, à haut risque, oeil droit
+H40.22	glaucome à angle ouvert aux conclusions limites, à haut risque, oeil gauche
+H40.23	glaucome à angle ouvert aux conclusions limites, à haut risque, bilatérale
+H40.29	glaucome à angle ouvert aux conclusions limites, à haut risque, oeil non spécifié
+H40.31	glaucome à angle étroit, oeil droit
+H40.32	glaucome à angle étroit, oeil gauche
+H40.33	glaucome à angle étroit, bilatéral
+H40.39	glaucome à angle étroit, oeil non spécifié
+H40.41	répondeur stéroïdien, oeil droit
+H40.42	répondeur stéroïdien, oeil gauche
+H40.43	répondeur stéroïdien, bilatéral
+H40.49	répondeur stéroïdien, oeil non spécifié
+H40.51	hypertension oculaire, oeil droit
+H40.52	hypertension oculaire, oeil gauche
+H40.53	hypertension oculaire, bilatéral
+H40.59	hypertension oculaire, oeil non spécifié
+H40.61	glaucome à angle fermé sans détérioration, oeil droit
+H40.62	glaucome à angle fermé sans détérioration, oeil gauche
+H40.63	glaucome à angle fermé sans détérioration, bilatéral
+H40.69	glaucome à angle fermé sans détérioration, oeil non spécifié
+H40.10X0	glaucome à angle ouvert non spécifié, stade non spécifié
+H40.10X1	glaucome à angle ouvert non spécifié, stade légère
+H40.10X2	glaucome à angle ouvert non spécifié, stade modéré
+H40.10X3	glaucome à angle ouvert non spécifié, stade sévère
+H40.10X4	glaucome à angle ouvert non spécifié, stade indéterminé
+H40.11X0	glaucome primaire à angle ouvert non spécifié, stade non spécifié
+H40.11X1	glaucome primaire à angle ouvert non spécifié, stade légère
+H40.11X2	glaucome primaire à angle ouvert non spécifié, stade modéré
+H40.11X3	glaucome primaire à angle ouvert non spécifié, stade sévère
+H40.11X4	glaucome primaire à angle ouvert non spécifié, stade indéterminé
+H40.1210	glaucome sans tension, oeil droit, stade non spécifié
+H40.1211	glaucome sans tension, oeil droit, stade légère
+H40.1212	glaucome sans tension, oeil droit, stade modéré
+H40.1213	glaucome sans tension, oeil droit, stade sévère
+H40.1214	glaucome sans tension, oeil droit, stade indéterminé
+H40.1220	glaucome sans tension, oeil gauche, stade non spécifié
+H40.1221	glaucome sans tension, oeil gauche, stade légère
+H40.1222	glaucome sans tension, oeil gauche, stade modéré
+H40.1223	glaucome sans tension, oeil gauche, stade sévère
+H40.1224	glaucome sans tension, oeil gauche, stade indéterminé
+H40.1230	glaucome sans tension, bilatéral, stade non spécifié
+H40.1231	glaucome sans tension, bilatéral, stade légère
+H40.1232	glaucome sans tension, bilatéral, stade modéré
+H40.1233	glaucome sans tension, bilatéral, stade sévère
+H40.1234	glaucome sans tension, bilatéral, stade indéterminé
+H40.1290	glaucome sans tension, oeil non spécifié, stade non spécifié
+H40.1291	glaucome sans tension, oeil non spécifié, stade légère
+H40.1292	glaucome sans tension, oeil non spécifié, stade modéré
+H40.1293	glaucome sans tension, oeil non spécifié, stade sévère
+H40.1294	glaucome sans tension, oeil non spécifié, stade indéterminé
+H40.1310	glaucome pigmentaire, oeil droit, stade non spécifié
+H40.1311	glaucome pigmentaire, oeil droit, stade légère
+H40.1312	glaucome pigmentaire, oeil droit, stade modéré
+H40.1313	glaucome pigmentaire, oeil droit, stade sévère
+H40.1314	glaucome pigmentaire, oeil droit, stade indéterminé
+H40.1320	glaucome pigmentaire, oeil gauche, stade non spécifié
+H40.1321	glaucome pigmentaire, oeil gauche, stade légère
+H40.1322	glaucome pigmentaire, oeil gauche, stade modéré
+H40.1323	glaucome pigmentaire, oeil gauche, stade sévère
+H40.1324	glaucome pigmentaire oeil gauche, stade indéterminé
+H40.1330	glaucome pigmentaire, bilatéral, stade non spécifié
+H40.1331	glaucome pigmentaire, bilatéral, stade légère
+H40.1332	glaucome pigmentaire, bilatéral, stade modéré
+H40.1333	glaucome pigmentaire, bilatéral, stade sévère
+H40.1334	glaucome pigmentaire bilatéral, stade indéterminé
+H40.1390	glaucome pigmentaire, oeil non spécifié, stade non spécifié
+H40.1391	glaucome pigmentaire, oeil non spécifié, stade légère
+H40.1392	glaucome pigmentaire, oeil non spécifié, stade modéré
+H40.1393	glaucome pigmentaire, oeil non spécifié, stade sévère
+H40.1394	glaucome pigmentaire oeil non spécifié, stade indéterminé
+H40.1410	glaucome capsulaire avec pseudo-exfoliation cristallinienne, oeil droit, stade non spécifié
+H40.1411	glaucome capsulaire avec pseudo-exfoliation cristallinienne, oeil droit, stade légère
+H40.1412	glaucome capsulaire avec pseudo-exfoliation cristallinienne, oeil droit, stade modéré
+H40.1413	glaucome capsulaire avec pseudo-exfoliation cristallinienne, oeil droit, stade sévère
+H40.1414	glaucome capsulaire avec pseudo-exfoliation cristallinienne, oeil droit, stade indéterminé
+H40.1420	glaucome capsulaire avec pseudo-exfoliation cristallinienne, oeil gauche, stade non spécifié
+H40.1421	glaucome capsulaire avec pseudo-exfoliation cristallinienne, oeil gauche, stade légère
+H40.1422	glaucome capsulaire avec pseudo-exfoliation cristallinienne, oeil gauche, stade modéré
+H40.1423	glaucome capsulaire avec pseudo-exfoliation cristallinienne, oeil gauche, stade sévère
+H40.1424	glaucome capsulaire avec pseudo-exfoliation cristallinienne, oeil gauche, stade indéterminé
+H40.1430	glaucome capsulaire avec pseudo-exfoliation cristallinienne, bilatéral, stade non spécifié
+H40.1431	glaucome capsulaire avec pseudo-exfoliation cristallinienne, bilatéral, stade légère
+H40.1432	glaucome capsulaire avec pseudo-exfoliation cristallinienne, bilatéral, stade modéré
+H40.1433	glaucome capsulaire avec pseudo-exfoliation cristallinienne, bilatéral, stade sévère
+H40.1434	glaucome capsulaire avec pseudo-exfoliation cristallinienne bilatéral, stade indéterminé
+H40.1490	glaucome capsulaire avec pseudo-exfoliation cristallinienne, oeil non spécifié, stade non spécifié
+H40.1491	glaucome capsulaire avec pseudo-exfoliation cristallinienne, oeil non spécifié, stade légère
+H40.1492	glaucome capsulaire avec pseudo-exfoliation cristallinienne, oeil non spécifié, stade modéré
+H40.1493	glaucome capsulaire avec pseudo-exfoliation cristallinienne, oeil non spécifié, stade sévère
+H40.1494	glaucome capsulaire avec pseudo-exfoliation cristallinienne oeil non spécifié, stade indéterminé
+H40.151	glaucome à angle ouvert, état résiduelle, oeil droit
+H40.152	glaucome à angle ouvert, état résiduelle, oeil gauche
+H40.153	glaucome à angle ouvert, état résiduelle, bilatéral
+H40.159	glaucome à angle ouvert, état résiduelle, oeil non spécifié
+H40.20X0	glaucome primaire à angle fermé non spécifié, stade non spécifié
+H40.20X1	glaucome primaire à angle fermé non spécifié, stade légère
+H40.20X2	glaucome primaire à angle fermé non spécifié, stade modéré
+H40.20X3	glaucome primaire à angle fermé non spécifié, stade sévère
+H40.20X4	glaucome primaire à angle fermé non spécifié, stade indéterminé
+H40.211	glaucome aigu à angle fermé, oeil droit
+H40.212	glaucome aigu à angle fermé, oeil gauche
+H40.213	glaucome aigu à angle fermé, bilatéral
+H40.219	glaucome aigu à angle fermé, oeil non spécifié
+H40.2210	glaucome chronique à angle fermé, oeil droit, stade non spécifié
+H40.2211	glaucome chronique à angle fermé, oeil droit, stade légère
+H40.2212	glaucome chronique à angle fermé, oeil droit, stade modéré
+H40.2291	glaucome chronique à angle fermé, oeil non spécifié, stade légère
+H40.2292	glaucome chronique à angle fermé, oeil non spécifié, stade modéré
+H40.2293	glaucome chronique à angle fermé, oeil non spécifié, stade sévère
+H40.2294	glaucome chronique à angle fermé, oeil non spécifié, stade indéterminé
+H40.231	glaucome intermittent à angle fermé, oeil droit
+H40.232	glaucome intermittent à angle fermé, oeil gauche
+H40.233	glaucome intermittent à angle fermé, bilatéral
+H40.239	glaucome intermittent à angle fermé, oeil non spécifié
+H40.241	glaucome à angle fermé, état résiduelle, oeil droit
+H40.242	glaucome à angle fermé, état résiduelle, oeil gauche
+H40.243	glaucome à angle fermé, état résiduelle, bilatéral
+H40.249	glaucome à angle fermé, état résiduelle, oeil non spécifié
+H40.30X0	glaucome secondaire par un traumatisme oculaire, oeil non spécifié, stade non spécifié
+H40.30X1	glaucome secondaire par un traumatisme oculaire, oeil non spécifié, stade légère
+H40.30X2	glaucome secondaire par un traumatisme oculaire, oeil non spécifié, stade modéré
+H40.30X3	glaucome secondaire par un traumatisme oculaire, oeil non spécifié, stade sévère
+H40.30X4	glaucome secondaire par un traumatisme oculaire, oeil non spécifié, stade indéterminé
+H40.31X0	glaucome secondaire par un traumatisme oculaire, oeil droit, stade non spécifié
+H40.31X1	glaucome secondaire par un traumatisme oculaire, oeil droit, stade légère
+H40.31X2	glaucome secondaire par un traumatisme oculaire, oeil droit, stade modéré
+H40.31X3	glaucome secondaire par un traumatisme oculaire, oeil droit, stade sévère
+H40.31X4	glaucome secondaire par un traumatisme oculaire, oeil droit, stade indéterminé
+H40.32X0	glaucome secondaire par un traumatisme oculaire, oeil gauche, stade non spécifié
+H40.32X1	glaucome secondaire par un traumatisme oculaire, oeil gauche, stade légère
+H40.32X2	glaucome secondaire par un traumatisme oculaire, oeil gauche, stade modéré
+H40.32X3	glaucome secondaire par un traumatisme oculaire, oeil gauche, stade sévère
+H40.32X4	glaucome secondaire par un traumatisme oculaire, oeil gauche, stade indéterminé
+H40.33X0	glaucome secondaire par un traumatisme oculaire, bilatéral, stade non spécifié
+H40.33X1	glaucome secondaire par un traumatisme oculaire, bilatéral, stade légère
+H40.33X2	glaucome secondaire par un traumatisme oculaire, bilatéral, stade modéré
+H40.33X3	glaucome secondaire par un traumatisme oculaire, bilatéral, stade sévère
+H40.33X4	glaucome secondaire par un traumatisme oculaire, bilatéral, stade indéterminé
+H40.40X0	glaucome secondaire à une inflammation oculaire, oeil non spécifié, stade non spécifié
+H40.40X1	glaucome secondaire à une inflammation oculaire, oeil non spécifié, stade légère
+H40.40X2	glaucome secondaire à une inflammation oculaire, oeil non spécifié, stade modéré
+H40.40X3	glaucome secondaire à une inflammation oculaire, oeil non spécifié, stade sévère
+H40.40X4	glaucome secondaire à une inflammation oculaire, oeil non spécifié, stade indéterminé
+H40.41X0	glaucome secondaire à une inflammation oculaire, oeil droit, stade non spécifié
+H40.41X1	glaucome secondaire à une inflammation oculaire, oeil droit, stade légère
+H40.41X2	glaucome secondaire à une inflammation oculaire, oeil droit, stade modéré
+H40.41X3	glaucome secondaire à une inflammation oculaire, oeil droit, stade sévère
+H40.41X4	glaucome secondaire à une inflammation oculaire, oeil droit, stade indéterminé
+H40.42X0	glaucome secondaire à une inflammation oculaire, oeil gauche, stade non spécifié
+H40.42X1	glaucome secondaire à une inflammation oculaire, oeil gauche, stade légère
+H40.42X2	glaucome secondaire à une inflammation oculaire, oeil gauche, stade modéré
+H40.42X3	glaucome secondaire à une inflammation oculaire, oeil gauche, stade sévère
+H40.42X4	glaucome secondaire à une inflammation oculaire, oeil gauche, stade indéterminé
+H40.43X0	glaucome secondaire à une inflammation oculaire, bilatéral, stade non spécifié
+H40.43X1	glaucome secondaire à une inflammation oculaire, bilatéral, stade légère
+H40.43X2	glaucome secondaire à une inflammation oculaire, bilatéral, stade modéré
+H40.43X3	glaucome secondaire à une inflammation oculaire, bilatéral, stade sévère
+H40.43X4	glaucome secondaire à une inflammation oculaire, bilatéral, stade indéterminé
+H40.50X0	glaucome secondaire à d'autres troubles oculaires, oeil non spécifié, stade non spécifié
+H40.50X1	glaucome secondaire à d'autres troubles oculaires, oeil non spécifié, stade légère
+H40.50X2	glaucome secondaire à d'autres troubles oculaires, oeil non spécifié, stade modéré
+H40.50X3	glaucome secondaire à d'autres troubles oculaires, oeil non spécifié, stade sévère
+H40.50X4	glaucome secondaire à d'autres troubles oculaires, oeil non spécifié, stade indéterminé
+H40.51X0	glaucome secondaire à d'autres troubles oculaires, oeil droit, stade non spécifié
+H40.51X1	glaucome secondaire à d'autres troubles oculaires, oeil droit, stade légère
+H40.51X2	glaucome secondaire à d'autres troubles oculaires, oeil droit, stade modéré
+H40.51X3	glaucome secondaire à d'autres troubles oculaires, oeil droit, stade sévère
+H40.51X4	glaucome secondaire à d'autres troubles oculaires, oeil droit, stade indéterminé
+H40.52X0	glaucome secondaire à d'autres troubles oculaires, oeil gauche, stade non spécifié
+H40.52X1	glaucome secondaire à d'autres troubles oculaires, oeil gauche, stade légère
+H40.52X2	glaucome secondaire à d'autres troubles oculaires, oeil gauche, stade modéré
+H40.52X3	glaucome secondaire à d'autres troubles oculaires, oeil gauche, stade sévère
+H40.52X4	glaucome secondaire à d'autres troubles oculaires, oeil gauche, stade indéterminé
+H40.53X0	glaucome secondaire à d'autres troubles oculaires, bilatéral, stade non spécifié
+H40.53X1	glaucome secondaire à d'autres troubles oculaires, bilatéral, stade légère
+H40.53X2	glaucome secondaire à d'autres troubles oculaires, bilatéral, stade modéré
+H40.53X3	glaucome secondaire à d'autres troubles oculaires, bilatéral, stade sévère
+H40.53X4	glaucome secondaire à d'autres troubles oculaires, bilatéral, stade indéterminé
+H40.60X0	glaucome secondaire médicamenteux, oeil non spécifié, stade non spécifié
+H40.60X1	glaucome secondaire médicamenteux, oeil non spécifié, stade légère
+H40.60X2	glaucome secondaire médicamenteux, oeil non spécifié, stade modéré
+H40.60X3	glaucome secondaire médicamenteux, oeil non spécifié, stade sévère
+H40.60X4	glaucome secondaire médicamenteux, oeil non spécifié, stade indéterminé
+H40.61X0	glaucome secondaire médicamenteux, oeil droit, stade non spécifié
+H40.61X1	glaucome secondaire médicamenteux, oeil droit, stade légère
+H40.61X2	glaucome secondaire médicamenteux, oeil droit, stade modéré
+H40.61X3	glaucome secondaire médicamenteux, oeil droit, stade sévère
+H40.61X4	glaucome secondaire médicamenteux, oeil droit, stade indéterminé
+H40.62X0	glaucome secondaire médicamenteux, oeil gauche, stade non spécifié
+H40.62X1	glaucome secondaire médicamenteux, oeil gauche, stade légère
+H40.62X2	glaucome secondaire médicamenteux, oeil gauche, stade modéré
+H40.62X3	glaucome secondaire médicamenteux, oeil gauche, stade sévère
+H40.62X4	glaucome secondaire médicamenteux, oeil gauche, stade indéterminé
+H40.63X0	glaucome secondaire médicamenteux, bilatéral, stade non spécifié
+H40.63X1	glaucome secondaire médicamenteux, bilatéral, stade légère
+H40.63X2	glaucome secondaire médicamenteux, bilatéral, stade modéré
+H40.63X3	glaucome secondaire médicamenteux, bilatéral, stade sévère
+H40.63X4	glaucome secondaire médicamenteux, bilatéral, stade indéterminé
+H40.811	glaucome relié à une pression veneuse sclérale, oeil droit
+H40.812	glaucome relié à une pression veneuse sclérale, oeil gauche
+H40.813	glaucome relié à une pression veneuse sclérale, bilatéral
+H40.819	glaucome relié à une pression veneuse sclérale, oeil non spécifié
+H40.821	glaucome par hypersécrétion, oeil droit
+H40.822	glaucome par hypersécrétion, oeil gauche
+H40.823	glaucome par hypersécrétion, bilatéral
+H40.829	glaucome par hypersécrétion, oeil non spécifié
+H40.831	mauvaise circulation de l'humeur aqueuse, oeil droit
+H40.832	mauvaise circulation de l'humeur aqueuse, oeil gauche
+H40.833	mauvaise circulation de l'humeur aqueuse, bilatérale
+H40.839	mauvaise circulation de l'humeur aqueuse, oeil non spécifié
+H40.89	autre glaucome
+H40.9	glaucome, non spécifié
+H42	glaucome au cours de maladies classées ailleurs
+H43.0	prolapsus du corps vitré, oeil non spécifié
+H43.1	prolapsus du corps vitré, oeil droit
+H43.2	prolapsus du corps vitré, oeil gauche
+H43.3	prolapsus du corps vitré, bilatéral
+H43.10	hémorragie du corps vitré, oeil non spécifié
+H43.11	hémorragie du corps vitré, oeil droit
+H43.12	hémorragie du corps vitré, oeil gauche
+H43.13	hémorragie du corps vitré, bilatéral
+H43.20	opacités cristallines du corps vitré, oeil non spécifié
+H43.21	opacités cristallines du corps vitré, oeil droit
+H43.22	opacités cristallines du corps vitré, oeil gauche
+H43.23	opacités cristallines du corps vitré, bilatéral
+H43.311	membranes et brides du corps vitré, oeil droit
+H43.312	membranes et brides du corps vitré, oeil gauche
+H43.313	membranes et brides du corps vitré, bilatéral
+H43.319	membranes et brides du corps vitré, oeil non spécifié
+H43.391	d'autres opacités du corps vitré, oeil droit
+H43.392	d'autres opacités du corps vitré, oeil gauche
+H43.393	d'autres opacités du corps vitré, bilatéral
+H43.399	d'autres opacités du corps vitré, oeil non spécifié
+H43.811	dégénérescence du corps vitré, oeil droit
+H43.812	dégénérescence du corps vitré, oeil gauche
+H43.813	dégénérescence du corps vitré, bilatéral
+H43.819	dégénérescence du corps vitré, oeil non spécifié
+H43.821	adhésion vitréomaculaire, oeil droit
+H43.822	adhésion vitréomaculaire, oeil gauche
+H43.823	adhésion vitréomaculaire, bilatéral
+H43.829	adhésion vitréomaculaire, oeil non spécifié
+H43.89	d'autres troubles du corps vitré
+H43.9	trouble du corps vitré, non spécifié
+H44.1	endophtalmie purulente non spécifiée, oeil droit
+H44.2	endophtalmie purulente non spécifiée, oeil gauche
+H44.3	endophtalmie purulente non spécifiée, bilatérale
+H44.9	endophtalmie purulente, oeil non spécifié
+H44.11	panophtalmie (aiguë), oeil droit
+H44.12	panophtalmie (aiguë), oeil gauche
+H44.13	panophtalmie (aiguë), bilatérale
+H44.19	panophtalmie (aiguë), oeil non spécifié
+H44.21	abcès du corps vitré (chronique), oeil droit
+H44.22	abcès du corps vitré (chronique), oeil gauche
+H44.23	abcès du corps vitré (chronique), bilatéral
+H44.29	abcès du corps vitré (chronique), oeil non spécifié
+H44.111	panuveïte, oeil droit
+H44.112	panuveïte, oeil gauche
+H44.113	panuveïte, bilatérale
+H44.119	panuveïte, oeil non spécifié
+H44.121	endophtalmie parasitaire, non spécifiée, oeil droit
+H44.122	endophtalmie parasitaire, non spécifiée, oeil gauche
+H44.123	endophtalmie parasitaire, non spécifiée, bilatérale
+H44.129	endophtalmie parasitaire, non spécifiée, oeil non spécifié
+H44.131	uvéite sympathique, oeil droit
+H44.132	uvéite sympathique, oeil gauche
+H44.133	uvéite sympathique, bilatérale
+H44.139	uvéite sympathique, oeil non spécifié
+H44.19	autre endophtalmie
+H44.20	myopie dégénérative, oeil non spécifié
+H44.21	myopie dégénérative, oeil droit
+H44.22	myopie dégénérative, oeil gauche
+H44.23	myopie dégénérative, bilatérale
+H44.30	trouble du globe oculaire, non spécifié
+H44.311	chalcose oculaire, oeil droit
+H44.312	chalcose oculaire, oeil gauche
+H44.313	chalcose oculaire, bilatérale
+H44.319	chalcose oculaire, oeil non spécifié
+H44.321	sidérose de l'oeil, oeil droit
+H44.322	sidérose de l'oeil, oeil gauche
+H44.323	sidérose de l'oeil, bilatérale
+H44.329	sidérose de l'oeil, oeil non spécifié
+H44.391	d'autres troubles dégénératifs du globe oculaire, oeil droit
+H44.392	d'autres troubles dégénératifs du globe oculaire, oeil gauche
+H44.393	d'autres troubles dégénératifs du globe oculaire, bilatéral
+H44.399	d'autres troubles dégénératifs du globe oculaire, oeil non spécifié
+H44.40	hypotonie oculaire, non spécifiée
+H44.411	hypotonie par athalamie de la chambre antérieure, oeil droit
+H44.412	hypotonie par athalamie de la chambre antérieure, oeil gauche
+H44.413	hypotonie par athalamie de la chambre antérieure, bilatérale
+H44.419	hypotonie par athalamie de la chambre antérieure, oeil non spécifié
+H44.421	hypotonie oculaire suite à une fistule, oil droit
+H44.422	hypotonie oculaire suite à une fistule, oil gauche
+H44.423	hypotonie oculaire suite à une fistule, bilatérale
+H44.429	hypotonie oculaire suite à une fistule, oil non spécifié
+H44.431	hypotonie oculaire suite à d'autres troubles oculaires, oeil droit
+H44.432	hypotonie oculaire suite à d'autres troubles oculaires, oeil gauche
+H44.433	hypotonie oculaire suite à d'autres troubles oculaires, bilatéral
+H44.439	hypotonie oculaire suite à d'autres troubles oculaires, oeil non spécifié
+H44.441	hypotonie oculaire primaire, oeil droit
+H44.442	hypotonie oculaire primaire, oeil gauche
+H44.443	hypotonie oculaire primaire, bilatérale
+H44.449	hypotonie oculaire primaire, oeil non spécifié
+H44.50	dégénérescence du globe oculaire, non spécifiée
+H44.511	glaucome absolu, oeil droit
+H44.512	glaucome absolu, oeil gauche
+H44.513	glaucome absolu, bilatéral
+H44.519	glaucome absolu, oeil non spécifié
+H44.521	atrophie du globe oculaire, oeil droit
+H44.522	atrophie du globe oculaire, oeil gauche
+H44.523	atrophie du globe oculaire, bilatérale
+H44.529	atrophie du globe oculaire, oeil non spécifié
+H44.531	leucocorie, oeil droit
+H44.532	leucocorie, oeil gauche
+H44.533	leucocorie, bilatérale
+H44.539	leucocorie, oeil non spécifié
+H44.601	rétention (ancienne) intraoculaire d'un corps étranger non spécifié, magnétique, oeil droit
+H44.602	rétention (ancienne) intraoculaire d'un corps étranger non spécifié, magnétique, oeil gauche
+H44.603	rétention (ancienne) intraoculaire d'un corps étranger non spécifié, magnétique, bilatérale
+H44.609	rétention (ancienne) intraoculaire d'un corps étranger magnétique, non spécifié, oeil non spécifié
+H44.611	rétention (ancienne) d'un corps étranger magnétique dans la chambre oculaire antérieure, oeil droit
+H44.612	rétention (ancienne) d'un corps étranger magnétique dans la chambre oculaire antérieure, oeil gauche
+H44.613	rétention (ancienne) d'un corps étranger magnétique dans la chambre oculaire antérieure, bilatérale
+H44.619	rétention (ancienne) d'un corps étranger magnétique dans la chambre oculaire antérieure, oeil non spécifié
+H44.621	rétention (ancienne) d'un corps étranger magnétique dans l'iris ou le corps ciliaire, oeil droit
+H44.622	rétention (ancienne) d'un corps étranger magnétique dans l'iris ou le corps ciliaire, oeil gauche
+H44.623	rétention (ancienne) d'un corps étranger magnétique dans l'iris ou le corps ciliaire, bilatéral
+H44.629	rétention (ancienne) d'un corps étranger magnétique dans l'iris ou le corps ciliaire, oeil non spécifié
+H44.631	rétention (ancienne) d'un corps étranger magnétique dans le cristallin, oeil droit
+H44.632	rétention (ancienne) d'un corps étranger magnétique dans le cristallin, oeil gauche
+H44.633	rétention (ancienne) d'un corps étranger magnétique dans le cristallin, bilatéral
+H44.639	rétention (ancienne) d'un corps étranger magnétique dans le cristallin, oeil non spécifié
+H44.641	rétention (ancienne) d'un corps étranger magnétique dans la paroi postérieure du globe oculaire, oeil droit
+H44.642	rétention (ancienne) d'un corps étranger magnétique dans la paroi postérieure du globe oculaire, oeil gauche
+H44.643	rétention (ancienne) d'un corps étranger magnétique dans la paroi postérieure du globe oculaire, bilatérale
+H44.649	rétention (ancienne) d'un corps étranger magnétique dans la paroi postérieure du globe oculaire, oeil non spécifié
+H44.651	rétention (ancienne) d'un corps étranger magnétique dans le corps vitré, oeil droit
+H44.652	rétention (ancienne) d'un corps étranger magnétique dans le corps vitré, oeil gauche
+H44.653	rétention (ancienne) d'un corps étranger magnétique dans le corps vitré, bilatéral
+H44.659	rétention (ancienne) d'un corps étranger magnétique dans le corps vitré, oeil non spécifié
+H44.691	rétention (ancienne) d'un corps étranger magnétique dans un ou plusieurs sites, oeil droit
+H44.692	rétention (ancienne) d'un corps étranger magnétique dans un ou plusieurs sites, oeil gauche
+H44.693	rétention (ancienne) d'un corps étranger magnétique dans un ou plusieurs sites, bilatéraux
+H44.699	rétention (ancienne) d'un corps étranger magnétique dans un ou plusieurs sites, oeil non spécifié
+H44.701	rétention (ancienne) intraoculaire d'un corps étranger non spécifié, non magnétique, oeil droit
+H44.702	rétention (ancienne) intraoculaire d'un corps étranger non spécifié, non magnétique, oeil gauche
+H44.703	rétention (ancienne) intraoculaire d'un corps étranger non spécifié, non magnétique, bilatérale
+H44.709	rétention (ancienne) intraoculaire d'un corps étranger non magnétique, oeil non spécifié
+H44.711	rétention (ancienne) d'un corps étranger non magnétique dans la chambre oculaire antérieure, oeil droit
+H44.712	rétention (ancienne) d'un corps étranger non magnétique dans la chambre oculaire antérieure, oeil gauche
+H44.713	rétention (ancienne) d'un corps étranger non magnétique dans la chambre oculaire antérieure, bilatérale
+H44.719	rétention (ancienne) d'un corps étranger non magnétique dans la chambre oculaire antérieure, oeil non spécifié
+H44.721	rétention (ancienne) d'un corps étranger non magnétique dans l'iris ou dans le corps ciliaire, oeil droit
+H44.722	rétention (ancienne) d'un corps étranger non magnétique dans l'iris ou dans le corps ciliaire, oeil gauche
+H44.723	rétention (ancienne) d'un corps étranger non magnétique dans l'iris ou dans le corps ciliaire, bilatéral
+H44.729	rétention (ancienne) d'un corps étranger non magnétique dans l'iris ou dans le corps ciliaire, oeil non spécifié
+H44.731	rétention (ancienne) d'un corps étranger non magnétique dans le cristallin, oeil droit
+H44.732	rétention (ancienne) d'un corps étranger non magnétique dans le cristallin, oeil gauche
+H44.733	rétention (ancienne) d'un corps étranger non magnétique dans le cristallin, bilatéral
+H44.739	rétention (ancienne) d'un corps étranger non magnétique dans le cristallin, oeil non spécifié
+H44.741	rétention (ancienne) d'un corps étranger non magnétique dans la paroi postérieure du globe oculaire, oeil droit
+H44.742	rétention (ancienne) d'un corps étranger non magnétique dans la paroi postérieure du globe oculaire, oeil gauche
+H44.743	rétention (ancienne) d'un corps étranger non magnétique dans la paroi postérieure du globe oculaire, bilatérale
+H44.749	rétention (ancienne) d'un corps étranger non magnétique dans la paroi postérieure du globe oculaire, oeil non spécifié
+H44.751	rétention (ancienne) d'un corps étranger non magnétique dans le corps vitré, oeil droit
+H44.752	rétention (ancienne) d'un corps étranger non magnétique dans le corps vitré, oeil gauche
+H44.753	rétention (ancienne) d'un corps étranger non magnétique dans le corps vitré, bilatéral
+H44.759	rétention (ancienne) d'un corps étranger non magnétique dans le corps vitré, oeil non spécifié
+H44.791	rétention (ancienne) d'un corps étranger non magnétique dans un ou plusieurs sites, oeil droit
+H44.792	rétention (ancienne) d'un corps étranger non magnétique dans un ou plusieurs sites, oeil gauche
+H44.793	rétention (ancienne) d'un corps étranger non magnétique dans un ou plusieurs sites, bilatéraux
+H44.799	rétention (ancienne) d'un corps étranger non magnétique dans un ou plusieurs sites, oeil non spécifié
+H44.811	hémophtalmie, oeil droit
+H44.812	hémophtalmie, oeil gauche
+H44.813	hémophtalmie, bilatérale
+H44.819	hémophtalmie, oeil non spécifié
+H44.821	luxation du globe oculaire, oeil droit
+H44.822	luxation du globe oculaire, oeil gauche
+H44.823	luxation du globe oculaire, bilatéral
+H44.829	luxation du globe oculaire, oeil non spécifié
+H44.89	d'autres troubles du globe oculaire
+H44.9	trouble du globe oculaire, non spécifié
+H46.0	papillite optique, oeil non spécifié
+H46.1	papillite optique, oeil droit
+H46.2	papillite optique, oeil gauche
+H46.3	papillite optique, bilatérale
+H46.10	névrite rétrobulbaire, oeil non spécifié
+H46.11	névrite rétrobulbaire, oeil droit
+H46.12	névrite rétrobulbaire, oeil gauche
+H46.13	névrite rétrobulbaire, bilatérale
+H46.2	neuropathie optique nutritive
+H46.3	neuropathie optique toxique
+H46.8	autre neuropathie optique
+H46.9	neuropathie optique, non spécifiée
+H47.11	neuropathie optique ischémique, oeil droit
+H47.12	neuropathie optique ischémique, oeil gauche
+H47.13	neuropathie optique ischémique, bilatérale
+H47.19	neuropathie optique ischémique, oeil non spécifié
+H47.21	hémorragie dans la gaine du nerf optique, oeil droit
+H47.22	hémorragie dans la gaine du nerf optique, oeil gauche
+H47.23	hémorragie dans la gaine du nerf optique, bilatéral
+H47.29	hémorragie dans la gaine du nerf optique, oeil non spécifié
+H47.31	hypoplasie du nerf optique, oeil droit
+H47.10	oedème papillaire, non spécifié
+H47.11	oedème papillaire associé à une augmentation de la pression intracrânienne
+H47.12	oedème papillaire associé à une diminution de la pression oculaire
+H47.13	oedème papillaire associé à un trouble de la rétine
+H47.141	syndrome de Foster-Kennedy, oeil droit
+H47.142	syndrome de Foster-Kennedy, oeil gauche
+H47.143	syndrome de Foster-Kennedy, bilatéral
+H47.149	syndrome de Foster-Kennedy, oeil non spécifié
+H47.20	atrophie optique, non spécifiée
+H47.211	atrophie optique primaire, oeil droit
+H47.212	atrophie optique primaire, oeil gauche
+H47.213	atrophie optique primaire, bilatérale
+H47.219	atrophie optique primaire, oeil non spécifié
+H47.22	atrophie optique héréditaire
+H47.231	atrophie optique glaucomateuse, oeil droit
+H47.232	atrophie optique glaucomateuse, oeil gauche
+H47.233	atrophie optique glaucomateuse, bilatérale
+H47.239	atrophie optique glaucomateuse, oeil non spécifié
+H47.291	autre atrophie optique, oeil droit
+H47.292	autre atrophie optique, oeil gauche
+H47.293	autre atrophie optique, bilatérale
+H47.299	autre atrophie optique, oeil non spécifié
+H47.311	colobome de la papille, oeil droit
+H47.312	colobome de la papille, oeil gauche
+H47.313	colobome de la papille, bilatérale
+H47.319	colobome de la papille, oeil non spécifié
+H47.321	druses de la papille, oeil droit
+H47.322	druses de la papille, oeil gauche
+H47.323	druses de la papille, bilatérale
+H47.329	druses de la papille, oeil non spécifié
+H47.331	pseudo-oedème de la papille, oeil droit
+H47.332	pseudo-oedème de la papille, oeil gauche
+H47.333	pseudo-oedème de la papille, bilatérale
+H47.339	pseudo-oedème de la papille, oeil non spécifié
+H47.391	d'autres troubles de la papille, oeil droit
+H47.392	d'autres troubles de la papille, oeil gauche
+H47.393	d'autres troubles de la papille, bilatérale
+H47.399	d'autres troubles de la papille, oeil non spécifié
+H47.41	affections du chiasma optique, associées à un trouble inflammatoire
+H47.42	troubles du chiasma optique, associés à un néoplasme
+H47.43	affections du chiasma optique, associées à des troubles vasculaires
+H47.49	affections du chiasma optique, associées à d'autres troubles
+H47.511	affections des voies optiques, associées à une inflammation, côté droit
+H47.512	affections des voies optiques, associées à une inflammation, côté gauche
+H47.519	affections des voies optiques, associées à une inflammation, côté non spécifié
+H47.521	troubles des voies optiques, associés à une néoplasie, côté droit
+H47.522	troubles des voies optiques, associés à une néoplasie, côté gauche
+H47.529	troubles des voies optiques, associés à une néoplasie, côté non spécifié
+H47.531	affections des voies optiques, associées à des troubles vasculaires, côté droit
+H47.532	affections des voies optiques, associées à des troubles vasculaires, côté gauche
+H47.539	affections des voies optiques, associées à des troubles vasculaires, côté non spécifié
+H47.611	cécité corticale, côté droit de l'encéphale
+H47.612	cécité corticale, côté gauche de l'encéphale
+H47.619	cécité corticale, côté de l'encéphale non spécifié
+H47.621	affections du cortex visuel, associées à une inflammation, côté droit de l'encéphale
+H47.622	affections du cortex visuel, associées à une inflammation, côté gauche de l'encéphale
+H47.629	affections du cortex visuel, associées à une inflammation, côté de l'encéphale non spécifié
+H47.631	troubles du cortex visuel, associés à une néoplasie, côté droit de l'encéphale
+H47.632	troubles du cortex visuel, associés à une néoplasie, côté gauche de l'encéphale
+H47.639	troubles du cortex visuel, associés à une néoplasie, côté de l'encéphale non spécifié
+H47.641	affections du cortex visuel, associées à des troubles vasculaires, côté droit de l'encéphale
+H47.642	affections du cortex visuel, associées à des troubles vasculaires, côté gauche de l'encéphale
+H47.649	affections du cortex visuel, associées à des troubles vasculaires, côté de l'encéphale non spécifié
+H47.9	trouble des voies optiques, non spécifié
+H49.0	paralysie du nerf moteur oculaire commun (III), oeil non spécifié
+H49.1	paralysie du nerf moteur oculaire commun (III), oeil droit
+H49.2	paralysie du nerf moteur oculaire commun (III), oeil gauche
+H49.3	paralysie du nerf moteur oculaire commun (III), bilatéral
+H49.10	paralysie du nerf pathétique (IV), oeil non spécifié
+H49.11	paralysie du nerf pathétique (IV), oeil droit
+H49.12	paralysie du nerf pathétique (IV), oeil gauche
+H49.13	paralysie du nerf pathétique (IV), bilatéral
+H49.20	paralysie du nerf moteur oculaire externe, oeil non spécifié
+H49.21	paralysie du nerf moteur oculaire externe, oeil droit
+H49.22	paralysie du nerf moteur oculaire externe, oeil gauche
+H49.23	paralysie du nerf moteur oculaire externe, bilatéral
+H49.30	ophtalmoplégie totale (externe), oeil non spécifié
+H49.31	ophtalmoplégie totale (externe), oeil droit
+H49.32	ophtalmoplégie totale (externe), oeil gauche
+H49.33	ophtalmoplégie totale (externe), bilatérale
+H49.40	ophtalmoplégie externe progressive, oeil non spécifié
+H49.41	ophtalmoplégie externe progressive, oeil droit
+H49.42	ophtalmoplégie externe progressive, oeil gauche
+H49.43	ophtalmoplégie externe progressive, bilatérale
+H49.811	syndrome de Kearns et Sayre, oeil droit
+H49.812	syndrome de Kearns et Sayre, oeil gauche
+H49.813	syndrome de Kearns et Sayre, bilatéral
+H49.819	syndrome de Kearns et Sayre, oeil non spécifié
+H49.881	d'autres strabismes paralytiques, oeil droit
+H49.882	d'autres strabismes paralytiques, oeil gauche
+H49.883	d'autres strabismes paralytiques, bilatéraux
+H49.889	d'autres strabismes paralytiques, oeil non spécifié
+H49.9	strabisme paralytique, non spécifié
+H50.0	esotropie, non spécifiée
+H50.11	esotropie mononucléaire, oeil droit
+H50.12	esotropie mononucléaire, oeil gauche
+H50.21	esotropie mononucléaire, avec le syndrome alphabétique en A, oeil droit
+H50.22	esotropie mononucléaire, avec le syndrome alphabétique en A, oeil gauche
+H50.31	esotropie mononucléaire, avec le syndrome alphabétique en V, oeil droit
+H50.32	esotropie mononucléaire, avec le syndrome alphabétique en V, oeil gauche
+H50.41	esotropie mononucléaire, avec une autre incomitance, oeil droit
+H50.42	esotropie mononucléaire, avec une autre incomitance, oeil gauche
+H50.5	esotropie alternante
+H50.6	esotropie alternante avec le syndrome alphabétique en A, oeil droit
+H50.7	esotropie alternante avec le syndrome alphabétique en A, oeil gauche
+H50.8	esotropie mononucléaire, avec d'autres incomitances
+H50.10	exotropie, non spécifiée
+H50.111	exotropie mononucléaire, oeil droit
+H50.112	exotropie mononucléaire, oeil gauche
+H50.121	exotropie mononucléaire, avec le syndrome alphabétique en A, oeil droit
+H50.122	exotropie mononucléaire, avec le syndrome alphabétique en A, oeil gauche
+H50.131	exotropie mononucléaire, avec le syndrome alphabétique V, oeil droit
+H50.132	exotropie mononucléaire, avec le syndrome alphabétique V, oeil gauche
+H50.141	exotropie mononucléaire, avec une autre incomitance, oeil droit
+H50.142	exotropie mononucléaire, avec une autre incomitance, oeil gauche
+H50.15	exotropie alternante
+H50.16	exotropie alternante avec le syndrome alphabétique A, oeil droit
+H50.17	exotropie alternante avec le syndrome alphabétique A, oeil gauche
+H50.18	exotropie mononucléaire, avec d'autres incomitances
+H50.21	strabisme vertical, oeil droit
+H50.22	strabisme vertical, oeil gauche
+H50.30	hétérotropie intermittente, non spécifiée
+H50.311	ésotropie intermittente monoculaire, oeil droit
+H50.312	ésotropie intermittente monoculaire, oeil gauche
+H50.32	ésotropie intermittente alternante
+H50.331	exotropie intermittente monoculaire, oeil droit
+H50.332	exotropie intermittente monoculaire, oeil gauche
+H50.34	exotropie intermittente alternante
+H50.40	hétérotropie, non spécifiée
+H50.411	cyclotropie, oeil droit
+H50.412	cyclotropie, oeil gauche
+H50.42	syndrome de monofixation
+H50.43	composante de l'accommodation dans l'ésotropie
+H50.50	hétérophorie, non spécifiée
+H50.51	ésophorie
+H50.52	exophorie
+H50.53	hétérophorie verticale
+H50.54	cycloforie
+H50.55	hyperphorie alternante
+H50.60	strabisme mécanique, non spécifié
+H50.611	syndrome de Brown, oeil droit
+H50.612	syndrome de Brown, oeil gauche
+H50.69	autre strabisme mécanique
+H50.811	syndrome de Stilling-Türk-Duane, oeil droit
+H50.812	syndrome de Stilling-Türk-Duane, oeil gauche
+H50.89	d'autres strabismes
+H50.9	strabisme, non spécifié
+H51.0	paralysie de la conjugaison du regard
+H51.11	insuffisance de la convergence
+H51.12	excès de la convergence
+H51.20	ophtalmoplégie internucléaire, oeil non spécifié
+H51.21	ophtalmoplégie internucléaire, oeil droit
+H51.22	ophtalmoplégie internucléaire, oeil gauche
+H51.23	ophtalmoplégie internucléaire, bilatérale
+H51.8	d'autres anomalies spécifiées des mouvements binoculaires
+H51.9	anomalie des mouvements binoculaires, non spécifiée
+H52.0	hypermétropie, oeil non spécifié
+H52.1	hypermétropie, oeil droit
+H52.2	hypermétropie, oeil gauche
+H52.3	hypermétropie, bilatérale
+H52.10	myopie, oeil non spécifié
+H52.11	myopie, oeil droit
+H52.12	myopie, oeil gauche
+H52.13	myopie, bilatérale
+H52.201	astigmatisme, non spécifié, oeil droit
+H52.202	astigmatisme, non spécifié, oeil gauche
+H52.203	astigmatisme, non spécifié, bilatéral
+H52.209	astigmatisme, non spécifié, oeil non spécifié
+H52.211	astigmatisme irrégulier, oeil droit
+H52.212	astigmatisme irrégulier, oeil gauche
+H52.213	astigmatisme irrégulier, bilatéral
+H52.219	astigmatisme irrégulier, oeil non spécifié
+H52.221	astigmatisme régulier, oeil droit
+H52.222	astigmatisme régulier, oeil gauche
+H52.223	astigmatisme régulier, bilatéral
+H52.229	astigmatisme régulier, oeil non spécifié
+H52.31	anisométrie
+H52.32	aniséiconie
+H52.4	presbytie
+H52.511	ophtalmoplégie interne (complète) (totale), oeil droit
+H52.512	ophtalmoplégie interne (complète) (totale), oeil gauche
+H52.513	ophtalmoplégie interne (complète) (totale), bilatérale
+H52.519	ophtalmoplégie interne (complète) (totale), oeil non spécifié
+H52.521	parésie de l'accommodation, oeil droit
+H52.522	parésie de l'accommodation, oeil gauche
+H52.523	parésie de l'accommodation, bilatérale
+H52.529	parésie de l'accommodation, oeil non spécifié
+H52.531	spasme de l'accommodation, oeil droit
+H52.532	spasme de l'accommodation, oeil gauche
+H52.533	spasme de l'accommodation, bilatérale
+H52.539	spasme de l'accommodation, oeil non spécifié
+H52.6	d'autres vices de la réfraction
+H52.7	trouble de la réfraction, non spécifié
+H53.1	amblyopie, non spécifiée, oeil droit
+H53.2	amblyopie, non spécifiée, oeil gauche
+H53.3	amblyopie, non spécifiée, bilatérale
+H53.9	amblyopie, non spécifié, oeil non spécifié
+H53.11	amblyopie par un défaut d'usage, oeil droit
+H53.12	amblyopie par un défaut d'usage, oeil gauche
+H53.13	amblyopie par un défaut d'usage, bilatérale
+H53.19	amblyopie par un défaut d'usage, oeil non spécifié
+H53.21	amblyopie réfringente, oeil droit
+H53.22	amblyopie réfringente, oeil gauche
+H53.23	amblyopie réfringente, bilatérale
+H53.29	amblyopie réfringente, oeil non spécifié
+H53.31	amblyopie avec strabisme, oeil droit
+H53.32	amblyopie avec strabisme, oeil gauche
+H53.33	amblyopie avec strabisme, bilatéral
+H53.39	amblyopie avec strabisme, oeil non spécifié
+H53.10	troubles subjectifs de la vision, non spécifiés
+H53.11	cécité diurne
+H53.121	perte transitoire de la vision, oeil droit
+H53.122	perte transitoire de la vision, oeil gauche
+H53.123	perte transitoire de la vision, bilatérale
+H53.129	perte transitoire de la vision, oeil non spécifié
+H53.131	perte brutale de la vision, oeil droit
+H53.132	perte brutale de la vision, oeil gauche
+H53.133	perte brutale de la vision, bilatérale
+H53.139	perte brutale de la vision, oeil non spécifié
+H53.141	inconfort visuel, oeil droit
+H53.142	inconfort visuel, oeil gauche
+H53.143	inconfort visuel, bilatéral
+H53.149	inconfort visuel, oeil non spécifié
+H53.15	distorsion visuelle de la forme et de la dimension
+H53.16	trouble visuel d'origine psychophysique
+H53.19	d'autres troubles subjectifs de la vision
+H53.2	diplopie
+H53.30	trouble de la vision binoculaire, non spécifié
+H53.31	correspondance rétinienne anormale
+H53.32	fusion avec anomalie de la vision stéréoscopique
+H53.33	perception simultanée sans fusion
+H53.34	suppression de la vision binoculaire
+H53.40	trouble du champ visuel, non spécifié
+H53.411	scotome de la région centrale, oeil droit
+H53.412	scotome de la région centrale, oeil gauche
+H53.413	scotome de la région centrale, bilatérale
+H53.419	scotome de la région centrale, oeil non spécifié
+H53.421	scotome de la tache aveugle, oeil droit
+H53.422	scotome de la tache aveugle, oeil gauche
+H53.423	scotome de la tache aveugle, bilatérale
+H53.429	scotome de la tache aveugle, oeil non spécifié
+H53.431	scotome arciforme ou trouble en secteur du champ visuel, oeil droit
+H53.432	scotome arciforme ou trouble en secteur du champ visuel, oeil gauche
+H53.433	scotome arciforme ou trouble en secteur du champ visuel, bilatéral
+H53.439	scotome arciforme ou trouble en secteur du champ visuel, oeil non spécifié
+H53.451	autre trouble du champ visuel localisé, oeil droit
+H53.482	rétrécissement généralisé du champ visuel, oeil gauche
+H53.483	rétrécissement généralisé du champ visuel, bilatéral
+H53.489	rétrécissement généralisé du champ visuel, oeil non spécifié
+H53.50	trouble de la vision des couleurs acquis, non spécifié
+H53.51	achromatopsie
+H53.52	trouble de la vision des couleurs acquis
+H53.53	protanomalie
+H53.54	deuteranomalie
+H53.55	tritanomalie
+H53.59	autre trouble de la vision des couleurs
+H53.60	cécité nocturne, non spécifiée
+H53.61	courbe d'adaption à l'obscurité anormale
+H53.62	cécité nocturne acquise
+H53.63	cécité nocturne congénitale
+H53.69	autre cécité nocturne
+H53.71	sensibilité à l'éblouissement
+H53.72	sensibilité réduite au contraste
+H53.8	d'autres troubles de la vision
+H53.9	trouble de la vision, non spécifié
+H54.0	cécité des deux yeux
+H54.10	cécité, un oeil, basse vision de l'autre oeil, yeux non spécifiés
+H54.11	cécité de l'oeil droit, basse vision de l'oeil gauche
+H54.12	cécité de l'oeil gauche, basse vision de l'oeil droit
+H54.2	basse vision aux deux yeux
+H54.3	basse vision non précisée aux deux yeux
+H54.40	cécité, un oeil, oeil non spécifié
+H54.41	cécité, oeil droit, vision normale de l'oeil gauche
+H54.42	cécité, oeil gauche vision normale de l'oeil droit
+H54.50	basse vision, un oeil, oeil non spécifié
+H54.51	basse vision, oeil droit, vision normale de l'oeil gauche
+H54.52	basse vision, oeil gauche vision normale de l'oeil droit
+H54.60	basse vision non spécifiée de l'oeil, non spécifié
+H54.61	basse vision non précisée de l'oeil, oeil droit, vision normale de l'oeil gauche
+H54.62	basse vision non précisée de l'oeil, oeil gauche, vision normale de l'oeil droit
+H54.7	basse vision, non spécifiée
+H54.8	cécité légale, telle que définie aux Etats-Unis
+H55.0	nystagmus, non spécifié
+H55.1	nystagmus, congénital
+H55.2	nystagmus, latent
+H55.3	nystagmus dû à la perte de la vision
+H55.4	nystagmus dissocié
+H55.9	autre nystagmus
+H55.81	mouvement oculaire saccadique
+H55.89	autre mouvement oculaire irrégulier
+H57.0	anomalie de la fonction pupillaire, non spécifiée
+H57.1	pupille d'Argyll Robertson, atypique
+H57.2	anisocorie
+H57.3	myosis
+H57.4	mydriase
+H57.51	réaction pupillaire tonique, oeil droit
+H57.52	réaction pupillaire tonique, oeil gauche
+H57.53	réaction pupillaire tonique, bilatérale
+H57.59	réaction pupillaire tonique, oeil non spécifié
+H57.9	autre anomalie de la fonction pupillaire
+H57.10	douleur oculaire, oeil non spécifié
+H57.11	douleur oculaire, oeil droit
+H57.12	douleur oculaire, oeil gauche
+H57.13	douleur oculaire, bilatérale
+H57.8	d'autres troubles spécifiés de l'oeil et de ses annexes
+H57.9	trouble de l'oeil et de ses annexes, non spécifié
+H59.11	kératopathie (bulleuse aphaque) après chirurgie de la cataracte, oeil droit
+H59.12	kératopathie (bulleuse aphaque) après chirurgie de la cataracte, oeil gauche
+H59.13	kératopathie (bulleuse aphaque) après chirurgie de la cataracte, bilatérale
+H59.19	kératopathie (bulleuse aphaque) après chirurgie de la cataracte, oeil non spécifié
+H59.21	fragments de cataracte (lentille) dans l'oeil après chirurgie de la cataracte, oeil droit
+H59.22	fragments de cataracte (lentille) dans l'oeil après chirurgie de la cataracte, oeil gauche
+H59.23	fragments de cataracte (lentille) dans l'oeil après chirurgie de la cataracte, bilatérale
+H59.29	fragments de cataracte (lentille) dans l'oeil après chirurgie de la cataracte, oeil non spécifié
+H59.31	oedème cystoïde de la macula après une intervention pour la cataracte, oeil droit
+H59.32	oedème cystoïde de la macula après une intervention pour la cataracte, oeil gauche
+H59.33	oedème cystoïde de la macula après une intervention pour la cataracte, bilatérale
+H59.39	oedème cystoïde de la macula après une intervention pour la cataracte, oeil non spécifié
+H59.91	d'autres troubles oculaires après une intervention pour la cataracte, oeil droit
+H59.92	d'autres troubles oculaires après une intervention pour la cataracte, oeil gauche
+H59.93	d'autres troubles oculaires après une intervention pour la cataracte, bilatéraux
+H59.99	d'autres troubles oculaires après une intervention pour la cataracte, oeil non spécifié
+H59.111	hémorragie peropératoire et hématome de l'oeil droit et de ses annexes, complications d'une procédure ophtalmologique, bilatéraux
+H59.112	hémorragie peropératoire et hématome de l'oeil gauche et de ses annexes,  complications d'une procédure ophtalmologique
+H59.113	hémorragie peropératoire et hématome de l'oeil et de ses annexes, complications d'une procédure ophtalmologique, bilatéraux
+H59.119	hémorragie peropératoire et hématome d'un oeil non spécifié et de ses annexes, complications d'une procédure ophtalmologique
+H59.121	hémorragie peropératoire et hématome de l'oeil droit et de ses annexes, complications d'une autre procédure
+H59.122	hémorragie peropératoire et hématome de l'oeil gauche et de ses annexes, complications d'une autre procédure
+H59.123	hémorragie peropératoire et hématome de l'oeil et de ses annexes, complications d'une autre procédure, bilatéraux
+H59.129	hémorragie peropératoire et hématome d'un oeil non spécifié et de ses annexes, complications d'une autre procédure
+H59.211	ponction et lacération accidentelles de l'oeil et de ses annexes au cours d'une procédure ophtalmologique, oeil droit
+H59.212	ponction et lacération accidentelles de l'oeil et de ses annexes au cours d'une procédure ophtalmologique, oeil gauche
+H59.213	ponction et lacération accidentelles de l'oeil et de ses annexes au cours d'une procédure ophtalmologique, bilatéraux
+H59.219	ponction et lacération accidentelles de l'oeil et de ses annexes au cours d'une procédure ophtalmologique, oeil non spécifié
+H59.221	ponction et lacération accidentelles de l'oeil et de ses annexes au cours d'une autre procédure, oeil droit
+H59.222	ponction et lacération accidentelles de l'oeil et de ses annexes au cours d'une autre procédure, oeil gauche
+H59.223	ponction et lacération accidentelles de l'oeil et de ses annexes au cours d'une autre procédure, bilatéraux
+H59.229	ponction et lacération accidentelles de l'oeil et de ses annexes au cours d'une autre procédure, oeil non spécifié
+H59.311	hémorragie postprocédurale et hématome de l'oeil droite et de ses annexes suite à une procédure ophtalmologique
+H59.312	hémorragie postprocédurale et hématome de l'oeil gauche et de ses annexes suite à une procédure ophtalmologique
+H59.313	hémorragie postprocédurale et hématome de l'oeil et de ses annexes suite à une procédure ophtalmologique, bilatéraux
+H59.319	hémorragie postprocédurale et hématome d'un oeil non spécifié et de ses annexes suite à une procédure ophtalmologique
+H59.321	hémorragie postprocédurale et hématome de l'oeil droit et de ses annexes suite à une autre procédure
+H59.322	hémorragie postprocédurale et hématome de l'oeil gauche et de ses annexes suite à une autre procédure
+H59.323	hémorragie postprocédurale et hématome de l'oeil et de ses annexes suite àd'autre procédure, bilatéraux
+H59.329	hémorragie postprocédurale et hématome d'un oeil non spécifié et de ses annexes suite à une autre procédure
+H59.40	inflammation (infection) d'une fistule après une procédure, non spécifiée
+H59.41	inflammation (infection) d'une fistule après une procédure, stade 1
+H59.42	inflammation (infection) d'une fistule après une procédure, stade 2
+H59.43	inflammation (infection) d'une fistule après une procédure, stade 3
+H59.811	cicatrices choriorétiniennes après un traitement chirurgical de décollement, oeil droit
+H59.812	cicatrices choriorétiniennes après un traitement chirurgical de décollement, oeil gauche
+H59.813	cicatrices choriorétiniennes après un traitement chirurgical de décollement, bilatérales
+H59.819	cicatrices choriorétiniennes après un traitement chirurgical de décollement, non spécifiées
+H59.88	d'autres complications peropératoires de l'oeil et de ses annexes, non classées ailleurs
+H59.89	d'autres complications et troubles post-procéduraux de l'oeil et de ses annexes, non classés ailleurs
+H60.0	abcès de l'oreille externe, oreille non spécifiée
+H60.1	abcès de l'oreille externe, oreille droite
+H60.2	abcès de l'oreille externe, oreille gauche
+H60.3	abcès de l'oreille externe, bilatérale
+H60.10	cellulite de l'oreille externe, oreille non spécifiée
+H60.11	cellulite de l'oreille externe, oreille droite
+H60.12	cellulite de l'oreille externe, oreille gauche
+H60.13	cellulite de l'oreille externe, bilatérale
+H60.20	otite externe maligne, oreille non spécifiée
+H60.21	otite externe maligne, oreille droite
+H60.22	otite externe maligne, oreille gauche
+H60.23	otite externe maligne, bilatérale
+H60.311	otite externe diffuse, oreille droite
+H60.312	otite externe diffuse, oreille gauche
+H60.313	otite externe diffuse, bilatérale
+H60.319	otite externe diffuse, oreille non spécifiée
+H60.321	otite externe hémorragique, oreille droite
+H60.322	otite externe hémorragique, oreille gauche
+H60.323	otite externe hémorragique, bilatérale
+H60.329	otite externe hémorragique, oreille non spécifiée
+H60.331	oreille du nageur, oreille droite
+H60.332	oreille du nageur, oreille gauche
+H60.333	oreille du nageur, bilatérale
+H60.339	oreille du nageur, oreille non spécifiée
+H60.391	d'autres otites externes infectieuses, oreille droite
+H60.392	d'autres otites externes infectieuses, oreille gauche
+H60.393	d'autres otites externes infectieuses, bilatérales
+H60.399	d'autres otites externes infectieuses, oreille non spécifiée
+H60.40	cholestéatome de l'oreille externe, oreille non spécifiée
+H60.41	cholestéatome de l'oreille externe droite
+H60.42	cholestéatome de l'oreille externe gauche
+H60.43	cholestéatome de l'oreille externe, bilatérale
+H60.501	otite aiguë externe non infectieuse, non spécifiée, oreille droite
+H60.502	otite aiguë externe non infectieuse, non spécifiée, oreille gauche
+H60.503	otite aiguë externe non infectieuse, non spécifiée, bilatérale
+H60.509	otite aiguë externe non infectieuse, non spécifié, oreille non spécifiée
+H60.511	otite aiguë externe actinique, oreille droite
+H60.512	otite aiguë externe actinique, oreille gauche
+H60.513	otite aiguë externe actinique, bilatérale
+H60.519	otite aiguë externe actinique, oreille non spécifiée
+H60.521	otite aiguë externe chimique, oreille droite
+H60.522	otite aiguë externe chimique, oreille gauche
+H60.523	otite aiguë externe chimique, bilatérale
+H60.529	otite aiguë externe chimique, oreille non spécifiée
+H60.531	otite aiguë externe de contact, oreille droite
+H60.532	otite aiguë externe de contact, oreille gauche
+H60.533	otite aiguë externe de contact, bilatérale
+H60.539	otite aiguë externe de contact, oreille non spécifiée
+H60.541	otite aiguë externe eczématoïde, oreille droite
+H60.542	otite aiguë externe eczématoïde, oreille gauche
+H60.543	otite aiguë externe eczématoïde, bilatérale
+H60.549	otite aiguë externe eczématoïde, oreille non spécifiée
+H60.551	otite aiguë externe réactionnelle, oreille droite
+H60.552	otite aiguë externe réactionnelle, oreille gauche
+H60.553	otite aiguë externe réactionnelle, bilatérale
+H60.559	otite aiguë externe réactionnelle, oreille non spécifiée
+H60.591	autre otite aiguë externe, non infectieuse, oreille droite
+H60.592	autre otite aiguë externe, non infectieuse, oreille gauche
+H60.593	autre otite aiguë externe, non infectieuse, bilatérale
+H60.599	autre otite aiguë externe, non infectieuse, oreille non spécifiée
+H60.60	otite chronique externe, non spécifiée, oreille non spécifiée
+H60.61	otite chronique externe, non spécifiée, oreille droite
+H60.62	otite chronique externe, non spécifiée, oreille gauche
+H60.63	otite chronique externe, non spécifiée, bilatérale
+H60.8X1	autre otite externe, oreille droite
+H60.8X2	autre otite externe, oreille gauche
+H60.8X3	autre otite externe, bilatérale
+H60.8X9	autre otite externe, oreille non spécifiée
+H60.90	otite externe, non spécifiée, oreille non spécifiée
+H60.91	otite externe, non spécifiée, oreille droite
+H60.92	otite externe, non spécifiée, oreille gauche
+H60.93	otite externe, non spécifiée, bilatérale
+H61.1	périchondrite de l'oreille externe, non spécifiée, oreille droite
+H61.2	périchondrite de l'oreille externe, non spécifiée, oreille gauche
+H61.3	périchondrite de l'oreille externe, non spécifiée, bilatérale
+H61.9	périchondrite de l'oreille externe, non spécifiée, oreille non spécifiée
+H61.11	périchondrite aiguë de l'oreille externe, non spécifiée, oreille droite
+H61.12	périchondrite aiguë de l'oreille externe, non spécifiée, oreille gauche
+H61.13	périchondrite aiguë de l'oreille externe, non spécifiée, bilatérale
+H61.19	périchondrite aiguë de l'oreille externe, non spécifiée, oreille non spécifiée
+H61.21	périchondrite chronique de l'oreille externe, non spécifiée, oreille droite
+H61.22	périchondrite chronique de l'oreille externe, non spécifiée, oreille gauche
+H61.23	périchondrite chronique de l'oreille externe, non spécifiée, bilatérale
+H61.29	périchondrite chronique de l'oreille externe, non spécifiée, oreille non spécifiée
+H61.31	chondrite de l'oreille externe, non spécifiée, oreille droite
+H61.32	chondrite de l'oreille externe, non spécifiée, oreille gauche
+H61.33	chondrite de l'oreille externe, non spécifiée, bilatérale
+H61.39	chondrite de l'oreille externe, non spécifiée, oreille non spécifiée
+H61.301	sténose acquise du conduit auditif externe, non spécifiée, oreille droite
+H61.302	sténose acquise du conduit auditif externe, non spécifiée, oreille gauche
+H61.303	sténose acquise du conduit auditif externe, non spécifiée, bilatéral
+H61.309	sténose acquise du conduit auditif externe, non spécifiée, oreille non spécifiée
+H61.311	sténose acquise du conduit auditif externe, secondaire à un traumatisme, oreille droite
+H61.312	sténose acquise du conduit auditif externe, secondaire à un traumatisme, oreille gauche
+H61.313	sténose acquise du conduit auditif externe, secondaire à un traumatisme, bilatéral
+H61.319	sténose acquise du conduit auditif externe, secondaire à un traumatisme, oreille non spécifiée
+H61.321	sténose acquise du conduit auditif externe, secondaire à une inflammation ou une infection, oreille droite
+H61.322	sténose acquise du conduit auditif externe, secondaire à une inflammation ou une infection, oreille gauche
+H61.323	sténose acquise du conduit auditif externe, secondaire à une inflammation ou une infection, bilatéral
+H61.329	sténose acquise du conduit auditif externe, secondaire à une inflammation ou une infection, oreille non spécifiée
+H61.391	autre sténose acquise du conduit auditif externe, oreille droite
+H61.392	autre sténose acquise du conduit auditif externe, oreille gauche
+H61.393	autre sténose acquise du conduit auditif externe, bilatéral
+H61.399	autre sténose acquise du conduit auditif externe, oreille non spécifiée
+H61.811	exostose du conduit auditif externe, oreille droite
+H61.812	exostose du conduit auditif externe, oreille gauche
+H61.813	exostose du conduit auditif externe, bilatéral
+H61.819	exostose du conduit auditif externe, oreille non spécifiée
+H61.891	d'autres troubles spécifiés de l'oreille externe, oreille droite
+H61.892	d'autres troubles spécifiés de l'oreille externe, oreille gauche
+H61.893	d'autres troubles spécifiés de l'oreille externe, bilatérale
+H61.899	d'autres troubles de l'oreille externe, oreille non spécifiée
+H61.90	trouble de l'oreille externe, non spécifié, oreille non spécifiée
+H61.91	trouble de l'oreille externe, non spécifié, oreille droite
+H61.92	trouble de l'oreille externe, non spécifié, oreille gauche
+H61.93	trouble de l'oreille externe, non spécifié, bilatérale
+H62.40	otite externe au cours de maladies classées ailleurs, oreille non spécifiée
+H62.41	otite externe au cours de maladies classées ailleurs, oreille droite
+H62.42	otite externe au cours de maladies classées ailleurs, oreille gauche
+H62.43	otite externe au cours de maladies classées ailleurs, bilatérale
+H62.8X1	d'autres troubles de l'oreille externe au cours de maladies classées ailleurs, oreille droite
+H62.8X2	d'autres troubles de l'oreille externe au cours de maladies classées ailleurs, oreille gauche
+H62.8X3	d'autres troubles de l'oreille externe au cours de maladies classées ailleurs, bilatérale
+H62.8X9	d'autres troubles de l'oreille externe au cours de maladies classées ailleurs, oreille non spécifiée
+H65.0	otite moyenne séreuse aiguë, oreille non spécifiée
+H65.1	otite moyenne séreuse aiguë, oreille droite
+H65.2	otite moyenne séreuse aiguë, oreille gauche
+H65.3	otite moyenne séreuse aiguë, bilatérale
+H65.4	otite moyenne séreuse aiguë, récurrente, oreille droite
+H65.5	otite moyenne séreuse aiguë, récurrente, oreille gauche
+H65.6	otite moyenne séreuse aiguë, récurrente, bilatérale
+H65.7	otite moyenne séreuse aiguë, récurrente, oreille non spécifiée
+H65.111	otite moyenne, aiguë et subaiguë allergique (muqueuse) (sanglante) (séreuse), oreille droite
+H65.112	otite moyenne, aiguë et subaiguë allergique (muqueuse) (sanglante) (séreuse), oreille gauche
+H65.113	otite moyenne, aiguë et subaiguë allergique (muqueuse) (sanglante) (séreuse), bilatérale
+H65.114	otite moyenne, aiguë et subaiguë allergique (muqueuse) (sanglante) (séreuse), récurrente, oreille droite
+H65.115	otite moyenne, aiguë et subaiguë allergique (muqueuse) (sanglante) (séreuse), récurrente, oreille gauche
+H65.116	otite moyenne, aiguë et subaiguë allergique (muqueuse) (sanglante) (séreuse), récurrente, bilatérale
+H65.117	otite moyenne, aiguë et subaiguë allergique (muqueuse) (sanglante) (séreuse), récurrente, oreille non spécifiée
+H65.119	otite moyenne, aiguë et subaiguë allergique (muqueuse) (sanglante) (séreuse), oreille non spécifiée
+H65.191	d'autres otites moyennes aiguës, non suppurées, oreille droite
+H65.192	d'autres otites moyennes aiguës, non suppurées, oreille gauche
+H65.193	d'autres otites moyennes aiguës, non suppurées, bilatérales
+H65.194	d'autres otites moyennes aiguës, non suppurées, récurrentes, oreille droite
+H65.195	d'autres otites moyennes aiguës, non suppurées, récurrentes, oreille gauche
+H65.196	d'autres otites moyennes aiguës, non suppurées, récurrentes, bilatérales
+H65.197	d'autres otites moyennes aiguës, non suppurées, récurrentes, oreille non spécifiée
+H65.199	d'autres otites moyennes aiguës, non suppurées, oreille non spécifiée
+H65.20	otite moyenne séreuse chronique, oreille non spécifiée
+H65.21	otite moyenne séreuse chronique, oreille droite
+H65.22	otite moyenne séreuse chronique, oreille gauche
+H65.23	otite moyenne séreuse chronique, bilatérale
+H65.30	otite moyenne mucoïde chronique, oreille non spécifiée
+H65.31	otite moyenne mucoïde chronique, oreille droite
+H65.32	otite moyenne mucoïde chronique, oreille gauche
+H65.33	otite moyenne mucoïde chronique, bilatérale
+H65.411	otite moyenne allergique chronique, oreille droite
+H65.412	otite moyenne allergique chronique, oreille gauche
+H65.413	otite moyenne allergique chronique, bilatérale
+H65.419	otite moyenne allergique chronique, oreille non spécifiée
+H65.491	d'autres otites moyennes chroniques, non suppurées, oreille droite
+H65.492	d'autres otites moyennes chroniques, non suppurées, oreille gauche
+H65.493	d'autres otites moyennes chroniques, non suppurées, bilatérales
+H65.499	d'autres otites moyennes chroniques, non suppurées, oreille non spécifiée
+H65.90	otite moyenne non suppurée, non spécifié, oreille non spécifiée
+H65.91	otite moyenne non suppurée, non spécifiée, oreille droite
+H65.92	otite moyenne non suppurée, non spécifiée, oreille gauche
+H65.93	otite moyenne non suppurée, non spécifiée, bilatérale
+H66.1	otite moyenne aiguë suppurée sans rupture spontanée du tympan, oreille droite
+H66.2	otite moyenne aiguë suppurée sans rupture spontanée du tympan, oreille gauche
+H66.3	otite moyenne aiguë suppurée sans rupture spontanée du tympan, bilatérale
+H66.4	otite moyenne aiguë suppurée sans rupture spontanée du tympan, récurrente, oreille droite
+H66.5	otite moyenne aiguë suppurée sans rupture spontanée du tympan, récurrente, oreille gauche
+H66.6	otite moyenne aiguë suppurée sans rupture spontanée du tympan, récurrente, bilatérale
+H66.7	otite moyenne aiguë suppurée sans rupture spontanée du tympan, récurrente, oreille non spécifiée
+H66.9	otite moyenne aiguë suppurée sans rupture spontanée du tympan, oreille non spécifiée
+H66.11	otite moyenne aiguë suppurée avec une rupture spontanée du tympan, oreille droite
+H70.201	apexite, non spécifiée, oreille droite
+H70.201	pétrosite, non spécifiée, oreille droite
+H70.202	apexite, non spécifiée, oreille gauche
+H70.202	pétrosite, non spécifiée, oreille gauche
+H70.203	apexite, non spécifiée, bilatérale
+H70.203	pétrosite, non spécifiée, bilatérale
+H70.209	apexite, non spécifiée, oreille non spécifiée
+H70.209	pétrosite, non spécifiée, oreille non spécifiée
+H70.211	apexite aiguë, oreille droite
+H70.211	pétrosite aiguë, oreille droite
+H70.212	apexite aiguë, oreille gauche
+H70.212	pétrosite aiguë, oreille gauche
+H70.213	apexite aiguë, bilatérale
+H70.213	pétrosite aiguë, bilatérale
+H70.219	apexite aiguë, oreille non spécifiée
+H70.219	pétrosite aiguë, oreille non spécifiée
+H74.312	ankylose des osselets, oreille gauche
+H74.313	ankylose des osselets, bilatéraux
+H74.319	ankylose des osselets, oreille non spécifiée
+H74.321	perte partielle des osselets, oreille droite
+H74.322	perte partielle des osselets, oreille gauche
+H74.323	perte partielle des osselets, bilatéraux
+H74.329	perte partielle des osselets, oreille non spécifiée
+H74.391	d'autres anormalités acquises des osselets, oreille droite
+H74.392	d'autres anormalités acquises des osselets, oreille gauche
+H74.393	d'autres anormalités acquises des osselets, bilatéraux
+H74.399	d'autres anormalités acquises des osselets, oreille non spécifiée
+H74.40	polype de l'oreille moyenne, oreille non spécifiée
+H74.41	polype de l'oreille moyenne, oreille droite
+H74.42	polype de l'oreille moyenne, oreille gauche
+H74.43	polype de l'oreille moyenne, bilatérale
+H74.8X1	d'autres troubles spécifiés de l'oreille moyenne et de l'apophyse mastoïde, oreille droite
+H74.8X2	d'autres troubles spécifiés de l'oreille moyenne et de l'apophyse mastoïde, oreille gauche
+H74.8X3	d'autres troubles spécifiés de l'oreille moyenne et de l'apophyse mastoïde, bilatérales
+H74.8X9	d'autres troubles spécifiés de l'oreille moyenne et de l'apophyse mastoïde, oreille non spécifiée
+H74.90	trouble de l'oreille moyenne et de l'apophyse mastoïde, non spécifié, oreille droite
+H74.91	trouble non spécifié de l'oreille moyenne et de l'apophyse mastoïde droites
+H95.199	d'autres troubles suite à une mastoïdectomie, oreille non spécifiée
+H95.21	hémorragie peropératoire et hématome de l'oreille et de l'apophyse mastoïde avec des complications pour une procédure sur l'oreille et sur l'apophyse mastoïde
+H95.22	hémorragie peropératoire et hématome de l'oreille et de l'apophyse mastoïde avec des complications pour une autre procédure
+H95.31	ponction et lacération accidentelle de l'oreille et de l'apophyse mastoïde après un acte à visée diagnostique et thérapeutique sur l'oreille et sur l'apophyse mastoïde
+I69.139	monoplégie du membre supérieur après une hémorragie intracérébrale non traumatique affectant un côté non spécifié
+I69.141	monoplégie du membre inférieur après une hémorragie intracérébrale non traumatique affectant le côté dominant droit
+I69.142	monoplégie du membre inférieur après une hémorragie intracérébrale non traumatique affectant le côté dominant gauche
+I69.143	monoplégie du membre inférieur après une hémorragie intracérébrale non traumatique affectant le côté non-dominant droit
+I69.144	monoplégie du membre inférieur après une hémorragie intracérébrale non traumatique affectant le côté non-dominant gauche
+I69.944	monoplégie du membre inférieur après une maladie cérébrovasculaire non spécifiée affectant le côté non-dominant gauche
+I69.949	monoplégie du membre inférieur après une maladie cérébrovasculaire non spécifiée affectant un côté non spécifié
+I69.951	hémiplégie et hémiparésie après une maladie cérébrovasculaire non spécifiée affectant le côté dominant droit
+I69.952	hémiplégie et hémiparésie après une maladie cérébrovasculaire non spécifiée affectant le côté dominant gauche
+I69.953	hémiplégie et hémiparésie après une maladie cérébrovasculaire non spécifiée affectant le côté non-dominant droit
+H66.12	otite moyenne aiguë suppurée avec une rupture spontanée du tympan, oreille gauche
+H66.13	otite moyenne aiguë suppurée avec une rupture spontanée du tympan, bilatérale
+H66.14	otite moyenne aiguë suppurée avec une rupture spontanée du tympan, récurrente, oreille droite
+H66.15	otite moyenne aiguë suppurée avec une rupture spontanée du tympan, récurrente, oreille gauche
+H66.16	otite moyenne aiguë suppurée avec une rupture spontanée du tympan, récurrente, bilatérale
+H66.17	otite moyenne aiguë suppurée avec une rupture spontanée du tympan, récurrente, oreille non spécifiée
+H66.19	otite moyenne aiguë suppurée avec une rupture spontanée du tympan, oreille non spécifiée
+H66.10	otite moyenne suppurée chronique tubo-tympanique, oreille non spécifiée
+H66.11	otite moyenne suppurée chronique tubo-tympanique, oreille droite
+H66.12	otite moyenne suppurée chronique tubo-tympanique, oreille gauche
+H66.13	otite moyenne suppurée chronique tubo-tympanique, bilatérale
+H66.20	otite moyenne chronique attico-antrale suppurée, oreille non spécifiée
+H66.21	otite moyenne chronique attico-antrale suppurée, oreille droite
+H66.22	otite moyenne chronique attico-antrale suppurée, oreille gauche
+H66.23	otite moyenne chronique attico-antrale suppurée, bilatérale
+H66.3X1	d'autres otites moyennes suppurées chroniques, oreille droite
+H66.3X2	d'autres otites moyennes suppurées chroniques, oreille gauche
+H66.3X3	d'autres otites moyennes suppurées chroniques, bilatérales
+H66.3X9	d'autres otites moyennes suppurées chroniques, oreille non spécifiée
+H66.40	otite moyenne suppurée, non spécifiée, oreille non spécifiée
+H66.41	otite moyenne suppurée, non spécifiée, oreille droite
+H66.42	otite moyenne suppurée, non spécifiée, oreille gauche
+H66.43	otite moyenne suppurée, non spécifiée, bilatérale
+H66.90	otite moyenne, non spécifiée, oreille non spécifiée
+H66.91	otite moyenne, non spécifiée, oreille droite
+H66.92	otite moyenne, non spécifiée, oreille gauche
+H66.93	otite moyenne, non spécifiée, bilatérale
+H67.1	otite moyenne au cours de maladies classées ailleurs, oreille droite
+H67.2	otite moyenne au cours de maladies classées ailleurs, oreille gauche
+H67.3	otite moyenne au cours de maladies classées ailleurs, bilatérale
+H67.9	otite moyenne au cours de maladies classées ailleurs, oreille non spécifiée
+H68.1	salpingite de la trompe d'Eustache, non spécifiée, oreille droite
+H68.2	salpingite de la trompe d'Eustache, non spécifiée, oreille gauche
+H68.3	salpingite de la trompe d'Eustache, non spécifiée, bilatérale
+H68.9	salpingite de la trompe d'Eustache, non spécifiée, oreille non spécifiée
+H68.11	salpingite de la trompe d'Eustache aiguë, oreille droite
+H68.12	salpingite de la trompe d'Eustache aiguë, oreille gauche
+H68.13	salpingite de la trompe d'Eustache aiguë, bilatérale
+H68.19	salpingite de la trompe d'Eustache aiguë, oreille non spécifiée
+H68.21	salpingite de la trompe d'Eustache chronique, oreille droite
+H68.22	salpingite de la trompe d'Eustache chronique, oreille gauche
+H68.23	salpingite de la trompe d'Eustache chronique, bilatérale
+H68.29	salpingite de la trompe d'Eustache chronique, oreille non spécifiée
+H68.101	obstruction de la trompe d'Eustache, non spécifiée, oreille droite
+H68.102	obstruction de la trompe d'Eustache, non spécifiée, oreille gauche
+H68.103	obstruction de la trompe d'Eustache, non spécifiée, bilatérale
+H68.109	obstruction de la trompe d'Eustache, non spécifiée, oreille non spécifiée
+H68.111	obstruction osseuse de la trompe d'Eustache, oreille droite
+H68.112	obstruction osseuse de la trompe d'Eustache, oreille gauche
+H68.113	obstruction osseuse de la trompe d'Eustache, bilatérale
+H68.119	obstruction osseuse de la trompe d'Eustache, oreille non spécifiée
+H68.121	obstruction cartilagineuse de la trompe d'Eustache, intrinsèque, oreille droite
+H68.122	obstruction cartilagineuse de la trompe d'Eustache, intrinsèque, oreille gauche
+H68.123	obstruction cartilagineuse de la trompe d'Eustache, intrinsèque, bilatérale
+H68.129	obstruction cartilagineuse de la trompe d'Eustache, intrinsèque, oreille non spécifiée
+H68.131	obstruction cartilagineuse de la trompe d'Eustache, extrinsèque, oreille droite
+H68.132	obstruction cartilagineuse de la trompe d'Eustache, extrinsèque, oreille gauche
+H68.133	obstruction cartilagineuse de la trompe d'Eustache, extrinsèque, bilatérale
+H68.139	obstruction cartilagineuse de la trompe d'Eustache, extrinsèque, oreille non spécifiée
+H69.0	distension de la trompe d'Eustache, oreille non spécifiée
+H69.1	distension de la trompe d'Eustache, oreille droite
+H69.2	distension de la trompe d'Eustache, oreille gauche
+H69.3	distension de la trompe d'Eustache, bilatérale
+H69.80	d'autres troubles de la trompe d'Eustache, oreille non spécifiée
+H69.81	d'autres troubles spécifiés de la trompe d'Eustache, oreille droite
+H69.82	d'autres troubles spécifiés de la trompe d'Eustache, oreille gauche
+H69.83	d'autres troubles spécifiés de la trompe d'Eustache, bilatérale
+H69.90	trouble de la trompe d'Eustache, non spécifié, oreille non spécifiée
+H69.91	trouble de la trompe d'Eustache, non spécifié, oreille droite
+H69.92	trouble de la trompe d'Eustache, non spécifié, oreille gauche
+H69.93	trouble de la trompe d'Eustache, non spécifié, bilatérale
+H70.1	mastoïdite aiguë, sans complications, oreille droite
+H70.2	mastoïdite aiguë, sans complications, oreille gauche
+H70.3	mastoïdite aiguë, sans complications, bilatérale
+H70.9	mastoïdite aiguë, sans complications, oreille non spécifiée
+H70.11	abcès sous-périostal de la mastoïde, oreille droite
+H70.12	abcès sous-périostal de la mastoïde, oreille gauche
+H70.13	abcès sous-périostal de la mastoïde, bilatérale
+H70.19	abcès sous-périostal de la mastoïde, oreille non spécifiée
+H70.91	mastoïdite aiguë avec d'autres complications, oreille droite
+H70.92	mastoïdite aiguë avec d'autres complications, oreille gauche
+H70.93	mastoïdite aiguë avec d'autres complications, bilatérale
+H70.99	mastoïdite aiguë avec d'autres complications, oreille non spécifiée
+H70.10	mastoïdite chronique, oreille non spécifiée
+H70.11	mastoïdite chronique, oreille droite
+H70.12	mastoïdite chronique, oreille gauche
+H70.13	mastoïdite chronique, bilatérale
+H70.221	apexite chronique, oreille droite
+H70.221	pétrosite chronique, oreille droite
+H70.222	apexite chronique, oreille gauche
+H70.222	pétrosite chronique, oreille gauche
+H70.223	apexite chronique, bilatérale
+H70.223	pétrosite chronique, bilatérale
+H70.229	apexite chronique, oreille non spécifiée
+H70.229	pétrosite chronique, oreille non spécifiée
+H70.811	fistule rétro-auriculaire, oreille droite
+H70.812	fistule rétro-auriculaire, oreille gauche
+H70.813	fistule rétro-auriculaire, bilatérale
+H70.819	fistule rétro-auriculaire, oreille non spécifiée
+H70.891	d'autres mastoïdites et affections apparentées, oreille droite
+H70.892	d'autres mastoïdites et affections apparentées, oreille gauche
+H70.893	d'autres mastoïdites et affections apparentées, bilatérales
+H70.899	d'autres mastoïdites et affections apparentées, oreille non spécifiée
+H70.90	mastoïdite, non spécifiée, oreille non spécifiée
+H70.91	mastoïdite, non spécifiée, oreille droite
+H70.92	mastoïdite, non spécifiée, oreille gauche
+H70.93	mastoïdite, non spécifiée, bilatérale
+H71.0	cholestéatome de l'attique, oreille non spécifiée
+H71.1	cholestéatome de l'attique, oreille droite
+H71.2	cholestéatome de l'attique, oreille gauche
+H71.3	cholestéatome de l'attique, bilatérale
+H71.10	cholestéatome du tympan, oreille non spécifiée
+H71.11	cholestéatome du tympan, oreille droite
+H71.12	cholestéatome du tympan, oreille gauche
+H71.13	cholestéatome du tympan, bilatéral
+H71.20	choléastome de la mastoïde, oreille non spécifiée
+H71.21	choléastome de la mastoïde, oreille droite
+H71.22	choléastome de la mastoïde, oreille gauche
+H71.23	choléastome de la mastoïde, bilatérale
+H71.30	choléastome diffus, oreille non spécifiée
+H71.31	choléastome diffus, oreille droite
+H71.32	choléastome diffus, oreille gauche
+H71.33	choléastome diffus, bilatéral
+H71.90	choléastome, non spécifié, oreille non spécifiée
+H71.91	choléastome, non spécifié, oreille droite
+H71.92	choléastome, non spécifié, oreille gauche
+H71.93	choléastome, non spécifié, bilatéral
+H72.0	perforation centrale du tympan, oreille non spécifiée
+H72.1	perforation centrale du tympan, oreille droite
+H72.2	perforation centrale du tympan, oreille gauche
+H72.3	perforation centrale du tympan, bilatéral
+H72.10	perforation attique du tympan, oreille non spécifiée
+H72.11	perforation attique du tympan, oreille droite
+H72.12	perforation attique du tympan, oreille gauche
+H72.13	perforation attique du tympan, bilatéral
+H72.2X1	d'autres perforations marginales du tympan, oreille droite
+H72.2X2	d'autres perforations marginales du tympan, oreille gauche
+H72.2X3	d'autres perforations marginales du tympan, bilatéral
+H72.2X9	d'autres perforations marginales du tympan, oreille non spécifiée
+H72.811	perforations multiples du tympan, oreille droite
+H72.812	perforations multiples du tympan, oreille gauche
+H72.813	perforations multiples du tympan, bilatéral
+H72.819	perforations multiples du tympan, oreille non spécifiée
+H72.821	perforation totale du tympan, oreille droite
+H72.821	perforations totales du tympan, oreille droite
+H72.822	perforation totale du tympan, oreille gauche
+H72.822	perforations totales du tympan, oreille gauche
+H72.823	perforation totale du tympan, bilatéral
+H72.823	perforations totales du tympan, bilatéral
+H72.829	perforation totale du tympan, oreille non spécifiée
+H72.829	perforations totales du tympan, oreille non spécifiée
+H72.90	perforation du tympan, non spécifiée, oreille non spécifiée
+H72.91	perforation du tympan, non spécifiée, oreille droite
+H72.92	perforation du tympan, non spécifiée, oreille gauche
+H72.93	perforation du tympan, non spécifiée, bilatéral
+H73.1	myringite aiguë, oreille droite
+H73.2	myringite aiguë, oreille gauche
+H73.3	myringite aiguë, bilatérale
+H73.9	myringite aiguë, oreille non spécifiée
+H73.11	myringite bulleuse, oreille droite
+H73.12	myringite bulleuse, oreille gauche
+H73.13	myringite bulleuse, bilatérale
+H73.19	myringite bulleuse, oreille non spécifiée
+H73.91	autre myringite aiguë, oreille droite
+H73.92	autre myringite aiguë, oreille gauche
+H73.93	autre myringite aiguë, bilatérale
+H73.99	autre myringite aiguë, oreille non spécifiée
+H73.10	myringite chronique, oreille non spécifiée
+H73.11	myringite chronique, oreille droite
+H73.12	myringite chronique, oreille gauche
+H73.13	myringite chronique, bilatérale
+H73.20	myringite, non spécifiée, oreille non spécifiée
+H73.21	myringite, non spécifiée, oreille droite
+H73.22	myringite, non spécifiée, oreille gauche
+H73.23	myringite, non spécifiée, bilatérale
+H73.811	tympan atrophié flasque, oreille droite
+H73.812	tympan atrophié flasque, oreille gauche
+H73.813	tympan atrophié flasque, bilatéral
+H73.819	tympan atrophié flasque, oreille non spécifiée
+H73.821	tympan atrophié non flasque, oreille droite
+H73.822	tympan atrophié non flasque, oreille gauche
+H73.823	tympan atrophié non flasque, bilatéral
+H73.829	tympan atrophié non flasque, oreille non spécifiée
+H73.891	d'autres troubles spécifiés du tympan, oreille droite
+H73.892	d'autres troubles spécifiés du tympan, oreille gauche
+H73.893	d'autres troubles spécifiés du tympan, bilatéral
+H73.899	d'autres troubles spécifiés du tympan, oreille non spécifiée
+H73.90	trouble du tympan, non spécifié, oreille non spécifiée
+H73.91	trouble du tympan, non spécifié, oreille droite
+H73.92	trouble du tympan, non spécifié, oreille gauche
+H73.93	trouble du tympan, non spécifié, bilatéral
+H74.1	tympanosclérose, oreille droite
+H74.2	tympanosclérose, oreille gauche
+H74.3	tympanosclérose, bilatérale
+H74.9	tympanosclérose, oreille non spécifiée
+H74.11	maladie adhésive de l'oreille moyenne, oreille droite
+H74.12	maladie adhésive de l'oreille moyenne, oreille gauche
+H74.13	maladie adhésive de l'oreille moyenne, bilatérale
+H74.19	maladie adhésive de l'oreille moyenne, oreille non spécifiée
+H74.20	dissociation et dislocation des osselets, oreille non spécifiée
+H74.21	dissociation et dislocation des osselets, oreille droite
+H74.22	dissociation et dislocation des osselets, oreille gauche
+H74.23	dissociation et dislocation des osselets, bilatéraux
+H74.311	ankylose des osselets, oreille droite
+H74.92	trouble non spécifié de l'oreille moyenne et de l'apophyse mastoïde gauches
+H74.93	trouble de l'oreille moyenne et de l'apophyse mastoïde, non spécifié, bilatérales
+H75.0	mastoïdite au cours de maladies infectieuses et parasitaires classées ailleurs, oreille non spécifiée
+H75.1	mastoïdite au cours de maladies infectieuses et parasitaires classées ailleurs, oreille droite
+H75.2	mastoïdite au cours de maladies infectieuses et parasitaires classées ailleurs, oreille gauche
+H75.3	mastoïdite au cours de maladies infectieuses et parasitaires classées ailleurs, bilatérale
+H75.80	d'autres troubles spécifiés de l'oreille moyenne et de l'apophyse mastoïde au cours de maladies classées ailleurs, oreille non spécifiée
+H75.81	d'autres troubles spécifiés de l'oreille moyenne et de l'apophyse mastoïde au cours de maladies classées ailleurs, oreille droite
+H75.82	d'autres troubles spécifiés de l'oreille moyenne et de l'apophyse mastoïde au cours de maladies classées ailleurs, oreille gauche
+H75.83	d'autres troubles spécifiés de l'oreille moyenne et de l'apophyse mastoïde au cours de maladies classées ailleurs, bilatérales
+H80.0	otosclérose intéressant la fenêtre ovale, non oblitérante, oreille non spécifiée
+H80.1	otosclérose intéressant la fenêtre ovale, non oblitérante, oreille droite
+H80.2	otosclérose intéressant la fenêtre ovale, non oblitérante, oreille gauche
+H80.3	otosclérose intéressant la fenêtre ovale, non oblitérante, bilatérale
+H80.10	otosclérose intéressant la fenêtre ovale, oblitérante, oreille non spécifiée
+H80.11	otosclérose intéressant la fenêtre ovale, oblitérante, oreille droite
+H80.12	otosclérose intéressant la fenêtre ovale, oblitérante, oreille gauche
+H80.13	otosclérose intéressant la fenêtre ovale, oblitérante, bilatérale
+H80.20	otosclérose cochléaire, oreille non spécifiée
+H80.21	otosclérose cochléaire, oreille droite
+H80.22	otosclérose cochléaire, oreille gauche
+H80.23	otosclérose cochléaire, bilatérale
+H80.80	d'autres otoscléroses, oreille non spécifiée
+H80.81	d'autres otoscléroses, oreille droite
+H80.82	d'autres otoscléroses, oreille gauche
+H80.83	d'autres otoscléroses, bilatérales
+H80.90	otosclérose, non spécifiée, oreille non spécifiée
+H80.91	otosclérose, non spécifiée, oreille droite
+H80.92	otosclérose, non spécifiée, oreille gauche
+H80.93	otosclérose, non spécifiée, bilatérale
+H81.1	maladie de Ménière, oreille droite
+H81.2	maladie de Ménière, oreille gauche
+H81.3	maladie de Ménière, bilatérale
+H81.9	maladie de Ménière, oreille non spécifiée
+H81.10	vertige bénin paroxystique, oreille non spécifiée
+H81.11	vertige bénin paroxystique, oreille droite
+H81.12	vertige bénin paroxystique, oreille gauche
+H81.13	vertige bénin paroxystique, bilatéral
+H81.20	neuronite vestibulaire, oreille non spécifiée
+H81.21	neuronite vestibulaire, oreille droite
+H81.22	neuronite vestibulaire, oreille gauche
+H81.23	neuronite vestibulaire, bilatérale
+H81.311	vertige auriculaire, oreille droite
+H81.312	vertige auriculaire, oreille gauche
+H81.313	vertige auriculaire, bilatéral
+H81.319	vertige auriculaire, oreille non spécifiée
+H81.391	autre vertige périphérique, oreille droite
+H81.392	autre vertige périphérique, oreille gauche
+H81.393	autre vertige périphérique, bilatéral
+H81.399	autre vertige périphérique, oreille non spécifiée
+H81.41	vertige d'origine centrale, oreille droite
+H81.42	vertige d'origine centrale, oreille gauche
+H81.43	vertige d'origine centrale, bilatéral
+H81.49	vertige d'origine centrale, oreille non spécifiée
+H81.8X1	d'autres troubles des fonctions vestibulaires, oreille droite
+H81.8X2	d'autres troubles des fonctions vestibulaires, oreille gauche
+H81.8X3	d'autres troubles des fonctions vestibulaires, bilatéraux
+H81.8X9	d'autres troubles des fonctions vestibulaires, oreille non spécifiée
+H81.90	trouble des fonctions vestibulaires, non spécifié, oreille non spécifiée
+H81.91	trouble des fonctions vestibulaires, non spécifié, oreille droite
+H81.92	trouble des fonctions vestibulaires, non spécifié, oreille gauche
+H81.93	trouble des fonctions vestibulaires, non spécifié, bilatéral
+H82.1	syndrome vertigineux au cours de maladies classées ailleurs, oreille droite
+H82.2	syndrome vertigineux au cours de maladies classées ailleurs, oreille gauche
+H82.3	syndrome vertigineux au cours de maladies classées ailleurs, bilatéral
+H82.9	syndrome vertigineux au cours de maladies classées ailleurs, oreille non spécifiée
+H83.1	labyrinthite, oreille droite
+H83.2	labyrinthite, oreille gauche
+H83.3	labyrinthite, bilatérale
+H83.9	labyrinthite, oreille non spécifiée
+H83.11	fistule labyrinthique, oreille droite
+H83.12	fistule labyrinthique, oreille gauche
+H83.13	fistule labyrinthique, bilatérale
+H83.19	fistule labyrinthique, oreille non spécifiée
+H83.2X1	troubles des fonctions labyrinthiques, oreille droite
+H83.2X2	troubles des fonctions labyrinthiques, oreille gauche
+H83.2X3	troubles des fonctions labyrinthiques, bilatéraux
+H83.2X9	troubles des fonctions labyrinthiques, oreille non spécifiée
+H83.3X1	conséquences de bruit sur l'oreille interne, oreille droite
+H83.3X2	conséquences de bruit sur l'oreille interne, oreille gauche
+H83.3X3	conséquences de bruit sur l'oreille interne, bilatérale
+H83.3X9	conséquences de bruit sur l'oreille interne, oreille non spécifiée
+H83.8X1	d'autres maladies spécifiées de l'oreille interne, oreille droite
+H83.8X2	d'autres maladies spécifiées de l'oreille interne, oreille gauche
+H83.8X3	d'autres maladies spécifiées de l'oreille interne, bilatérale
+H83.8X9	d'autres maladies spécifiées de l'oreille interne, oreille non spécifiée
+H83.90	maladie de l'oreille interne, non spécifiée, oreille non spécifiée
+H83.91	maladie de l'oreille interne, non spécifiée, oreille droite
+H83.92	maladie de l'oreille interne, non spécifiée, oreille gauche
+H83.93	maladie de l'oreille interne, non spécifiée, bilatérale
+H90.0	perte de l'audition de la transmission, bilatérale
+H90.11	perte de l'audition de la transmission unilatérale sans altération de l'audition de l'autre oreille, oreille droite
+H90.12	perte de l'audition de la transmission unilatérale sans altération de l'audition de l'autre oreille, oreille gauche
+H90.2	perte de l'audition de la transmission, non spécifiée
+H90.3	perte de l'audition neurosensorielle bilatérale
+H90.41	perte de l'audition neurosensorielle unilatérale sans altération de l'audition de l'autre oreille, oreille droite
+H90.42	perte de l'audition neurosensorielle unilatérale sans altération de l'audition de l'autre oreille, oreille gauche
+H90.5	perte de l'audition neurosensorielle, non spécifiée
+H90.6	perte de l'audition mixte de la transmission et neurosensorielle bilatérale
+H90.71	perte de l'audition unilatérale mixte de la transmission et neurosensorielle unilatérale sans altération de l'audition de l'autre oreille, oreille droite
+H90.72	perte de l'audition unilatérale mixte de la transmission et neurosensorielle unilatérale sans altération de l'audition de l'autre oreille, oreille gauche
+H90.8	perte de l'audition mixte de la transmission et neurosensorielle, non spécifiée
+H91.1	perte de l'audition par ototoxicité, oreille droite
+H91.2	perte de l'audition par ototoxicité, oreille gauche
+H91.3	perte de l'audition par ototoxicité, bilatérale
+H91.9	perte de l'audition par ototoxicité, oreille non spécifiée
+H91.10	presbyacousie, oreille non spécifiée
+H91.11	presbyacousie, oreille droite
+H91.12	presbyacousie, oreille gauche
+H91.13	presbyacousie, bilatérale
+H91.20	perte auditive soudaine idiopathique, oreille non spécifiée
+H91.21	perte auditive soudaine idiopathique, oreille droite
+H91.22	perte auditive soudaine idiopathique, oreille gauche
+H91.23	perte auditive soudaine idiopathique, bilatérale
+H91.3	surdi-mutité, non classée ailleurs
+H91.8X1	d'autres pertes de l'audition spécifiées, oreille droite
+H91.8X2	d'autres pertes de l'audition spécifiées, oreille gauche
+H91.8X3	d'autres pertes de l'audition spécifiées, bilatérales
+H91.8X9	d'autres pertes de l'audition spécifiées, oreille non spécifiée
+H91.90	perte de l'audition, non spécifiée, oreille non spécifiée
+H91.91	perte de l'audition, non spécifiée, oreille droite
+H91.92	perte de l'audition, non spécifiée, oreille gauche
+H91.93	perte de l'audition, non spécifiée, bilatérale
+H92.1	otalgie, oreille droite
+H92.2	otalgie, oreille gauche
+H92.3	otalgie, bilatérale
+H92.9	otalgie, oreille non spécifiée
+H92.10	otorrhée, oreille non spécifiée
+H92.11	otorrhée, oreille droite
+H92.12	otorrhée, oreille gauche
+H92.13	otorrhée, bilatérale
+H92.20	otorragie, oreille non spécifiée
+H92.21	otorragie, oreille droite
+H92.22	otorragie, oreille gauche
+H92.23	otorragie, bilatérale
+H93.11	surdité ischémique transitoire, oreille droite
+H93.12	surdité ischémique transitoire, oreille gauche
+H93.13	surdité ischémique transitoire, bilatérale
+H93.19	surdité ischémique transitoire, oreille non spécifiée
+H93.91	troubles vasculaires et dégénératives de l'oreille, non spécifiés, oreille droite
+H93.92	troubles vasculaires et dégénératives de l'oreille, non spécifiés, oreille gauche
+H93.93	troubles vasculaires et dégénératives de l'oreille, non spécifiés, bilatérale
+H93.99	troubles vasculaires et dégénératives de l'oreille, non spécifié, oreille non spécifiée
+H93.11	acouphènes, oreille droite
+H93.12	acouphènes, oreille gauche
+H93.13	acouphènes, bilatéraux
+H93.19	acouphènes, oreille non spécifiée
+H93.211	recrutement auditif, oreille droite
+H93.212	recrutement auditif, oreille gauche
+H93.213	recrutement auditif, bilatéral
+H93.219	recrutement auditif, oreille non spécifiée
+H93.221	diplacousie, oreille droite
+H93.222	diplacousie, oreille gauche
+H93.223	diplacousie, bilatérale
+H93.229	diplacousie, oreille non spécifiée
+H93.231	hyperacousie, oreille droite
+H93.232	hyperacousie, oreille gauche
+H93.233	hyperacousie, bilatérale
+H93.239	hyperacousie, oreille non spécifiée
+H93.241	modification temporaire du seuil auditif, oreille droite
+H93.242	modification temporaire du seuil auditif, oreille gauche
+H93.243	modification temporaire du seuil auditif, bilatérale
+H93.249	modification temporaire du seuil auditif, oreille non spécifiée
+H93.25	trouble du traitement auditif central
+H93.291	d'autres perceptions auditives anormales, oreille droite
+H93.292	d'autres perceptions auditives anormales, oreille gauche
+H93.293	d'autres perceptions auditives anormales, bilatérales
+H93.299	d'autres perceptions auditives anormales, oreille non spécifiée
+H93.3X1	troubles du nerf auditif, oreille droite
+H93.3X2	troubles du nerf auditif, oreille gauche
+H93.3X3	troubles du nerf auditif, bilatéral
+H93.3X9	troubles du nerf auditif, oreille non spécifiée
+H93.8X1	d'autres troubles spécifiés de l'oreille, oreille droite
+H93.8X2	d'autres troubles spécifiés de l'oreille, oreille gauche
+H93.8X3	d'autres troubles spécifiés de l'oreille, bilatérale
+H93.8X9	d'autres troubles spécifiés de l'oreille, oreille non spécifiée
+H93.90	trouble de l'oreille, non spécifié, oreille non spécifiée
+H93.91	trouble de l'oreille, non spécifié, oreille droite
+H93.92	trouble de l'oreille, non spécifié, oreille gauche
+H93.93	trouble de l'oreille, non spécifié, bilatérale
+H94.0	névrite acoustique au cours de maladies infectieuses et parasitaires classées ailleurs, oreille non spécifiée
+H94.1	névrite acoustique au cours de maladies infectieuses et parasitaires classées ailleurs, oreille droite
+H94.2	névrite acoustique au cours de maladies infectieuses et parasitaires classées ailleurs, oreille gauche
+H94.3	névrite acoustique au cours de maladies infectieuses et parasitaires classées ailleurs, bilatérale
+H94.80	d'autres troubles spécifiés de l'oreille au cours de maladies classées ailleurs, oreille non spécifiée
+H94.81	d'autres troubles spécifiés de l'oreille au cours de maladies classées ailleurs, oreille droite
+H94.82	d'autres troubles spécifiés de l'oreille au cours de maladies classées ailleurs, oreille gauche
+H94.83	d'autres troubles spécifiés de l'oreille au cours de maladies classées ailleurs, bilatérale
+H95.0	cholestéatome récurrent après une mastoïdectomie, oreille non spécifiée
+H95.1	cholestéatome récurrent après une mastoïdectomie, oreille droite
+H95.2	cholestéatome récurrent après une mastoïdectomie, oreille gauche
+H95.3	cholestéatome récurrent après une mastoïdectomie, bilatéral
+H95.111	inflammation chronique après une mastoïdectomie, oreille droite
+H95.112	inflammation chronique après une mastoïdectomie, oreille gauche
+H95.113	inflammation chronique après une mastoïdectomie, bilatérale
+H95.119	inflammation chronique après une mastoïdectomie, oreille non spécifiée
+H95.121	granulome après une mastoïdectomie, oreille droite
+H95.122	granulome après une mastoïdectomie, oreille gauche
+H95.123	granulome après une mastoïdectomie, bilatéral
+H95.129	granulome après une mastoïdectomie, oreille non spécifiée
+H95.131	kyste muqueux après une mastoïdectomie, oreille droite
+H95.132	kyste muqueux après une mastoïdectomie, oreille gauche
+H95.133	kyste muqueux après une mastoïdectomie, bilatéral
+H95.139	kyste muqueux après une mastoïdectomie, oreille non spécifiée
+H95.191	d'autres troubles suite à une mastoïdectomie, oreille droite
+H95.192	d'autres troubles suite à une mastoïdectomie, oreille gauche
+H95.193	d'autres troubles suite à une mastoïdectomie, bilatéraux
+H95.32	ponction et lacération accidentelle de l'oreille et de l'apophyse mastoïde après un autre acte à visée diagnostique et thérapeutique
+H95.41	hémorragie postprocédurale et hématome de l'oreille et de l'apophyse mastoïde suite d'une procédure sur l'oreille et sur l'apophyse mastoïde
+H95.42	hémorragie postprocédurale et hématome de l'oreille et de l'apophyse mastoïde suite d'une autre procédure
+H95.811	sténose du conduit auditif externe droit après une procédure
+H95.812	sténose du conduit auditif externe gauche après une procédure
+H95.813	sténose du conduit auditif externe, bilatéral
+H95.819	sténose d'un conduit auditif externe non spécifié après une procédure
+H95.88	d'autres troubles et complications de l'oreille et de l'apophyse mastoïde au cours d'un acte à visée diagnostique et thérapeutique, au cours de maladies classées ailleurs
+H95.89	d'autres troubles et complications de l'oreille et de l'apophyse mastoïde après une procédure, au cours de maladies classées ailleurs

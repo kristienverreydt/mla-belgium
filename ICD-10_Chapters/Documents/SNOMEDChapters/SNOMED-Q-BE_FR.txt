@@ -1,0 +1,4505 @@
+Q80.8	ichtyose hystrix
+Q80.8	hystricisme
+Q82.1	xéroderma pigmentosum
+Q82.2	urticaire pigmentaire
+Q82.2	maladie de Nettleship
+Q82.2	mastocytose dermique pure
+Q82.2	urticaire pigmentaire infantile
+Q82.2	urticaire pigmentaire adulte
+Q82.2	urticaire pigmentaire maculo-papuleuse
+Q82.2	urticaire pigmentaire, nodules ou plaques multiples
+Q82.2	urticaire pigmentaire, nodule cutané solitaire
+Q82.2	urticaire pigmentaire érythrodermique diffuse
+Q82.2	urticaire pigmentaire télangiectasique maculaire éruptive
+Q82.5	naevus verruqueux
+Q82.5	naevus linéaire
+Q82.5	naevus linéaire épidermique
+Q82.8	cutis marmorata
+Q82.8	peau marbrée
+Q84.1	distichiase
+Q84.1	districhiase
+Q84.1	pili multigemini
+Q84.1	présence de plusieurs poils dans le même follicule
+Q84.1	trichostasis spinulosa
+Q84.1	pili annulati
+Q84.1	cheveux annelés
+Q84.1	pili torti
+Q84.1	trichokinesis
+Q84.1	trichotortosis
+Q76.4	syndrome de Bertolotti
+Q76.4	syndrome de sacralisation de la 5e lombaire
+Q78.9	ostéodystrophie
+Q78.2	ostéopétrose
+Q78.2	ostéopétrose autosomique dominante bénigne
+Q74.0	camptodactylie
+Q74.0	streptomicrodactylie
+Q25.4	sinus de Valsalva rompu
+Q25.4	fistule du sinus de Valsalva
+Q25.4	sinus de Valsalva rompu dans le ventricule gauche
+Q25.4	sinus de Valsalva rompu dans le ventricule droit
+Q25.4	sinus de Valsalva rompu dans l'oreillette droite
+Q82.5	naevus vasculaire de la peau
+Q89.9	maladie congénitale
+Q89.7	syndrome d'anomalies congénitales multiples
+Q87.1	syndrome d'anomalies congénitales multiples avec retard statural, sans dysplasie squelettique
+Q87.2	syndrome de Rubinstein et Taybi
+Q87.1	syndrome de Silver-Russell
+Q89.7	nanisme Mulibrey
+Q89.7	syndrome Mulibrey
+Q87.1	syndrome de Dubowitz
+Q82.8	syndrome de Bloom
+Q82.8	syndrome d'érythème télangiectasique congénital
+Q89.7	syndrome de Johanson-Blizzard
+Q87.1	syndrome de Seckel
+Q87.0	syndrome de Hallermann-Streiff
+Q87.0	dysmorphie mandibulo-faciale type François
+Q87.1	maladie de Cornelia de Lange
+Q87.1	nain d'Amsterdam
+Q87.1	syndrome de Cornelia de Lange
+Q87.1	syndrome de Brachmann-de Lange
+Q87.0	syndrome d'anomalies congénitales multiples faciales, retard statural moyen, avec ou sans particularité génitale
+Q75.8	syndrome de Williams
+Q87.1	syndrome de Noonan
+Q87.1	syndrome de Turner masculin
+Q87.1	syndrome de Turner-Ullrich
+Q87.1	syndrome d'Aarskog
+Q87.1	syndrome facio-digito-génital
+Q87.1	syndrome de Robinow
+Q87.1	nanisme acromésomélique, type Robinow
+Q87.1	dysplasie acrosomélique
+Q87.0	syndrome d'Opitz-Frias
+Q87.0	syndrome de John Marius Opitz
+Q87.0	syndrome d'Opitz
+Q87.0	syndrome d'hypertélorisme-hypospadiase
+Q87.0	syndrome G
+Q87.1	syndrome de Smith-Lemli-Opitz
+Q89.8	syndrome d'anomalies congénitales multiples avec apparence sénile
+Q87.1	syndrome de Cockayne
+Q87.1	nanisme progéroïde
+Q82.8	syndrome de Rothmund-Thomson
+Q82.8	syndrome de poïkilodermie congénitale
+Q89.8	syndrome d'anomalies congénitales multiples avec croissance précoce
+Q87.3	syndrome de Weaver
+Q87.3	syndrome de Marshall-Smith
+Q87.3	syndrome de Beckwith et Wiedemann
+Q87.3	syndrome de Wiedemann et Beckwith
+Q87.3	syndrome omphalocèle-macroglossie-gigantisme
+Q99.2	syndrome du chromosome X fragile
+Q99.2	syndrome Martin-Bell
+Q87.3	syndrome de Sotos
+Q87.3	gigantisme cérébral
+Q87.3	syndrome de gigantisme cérébral
+Q89.8	syndrome d'anomalies congénitales multiples avec atteintes cérébrales et/ou neuro-musculaires inhabituelles
+Q74.3	amyoplasie congénitale de Sheldon
+Q74.3	raideurs articulaires congénitales de type arthrogrypotique
+Q74.3	syndrome arthro-myo-dysplasique congénital
+Q74.3	arthrogrypose multiple congénitale
+Q74.3	myodystrophie foetale déformante
+Q74.8	syndrome d'arthrogrypose distale
+Q61.9	syndrome de Gruber
+Q61.9	dysencéphalie splanchnokystique
+Q03.8	syndrome d'hydrocéphalie liée au chromosome X
+Q03.8	hydrocéphalie liée au chromosome X
+Q03.8	syndrome de Bickers-Adams
+Q87.1	syndrome de Sjögren et Larsson
+Q87.1	syndrome de Marinesco-Sjögren
+Q87.1	oligophrénie avec hérédo-dégénération spino-cérébelleuse
+Q87.2	syndrome des ptérygions multiples létaux
+Q87.9	syndrome Neu-Laxova
+Q04.3	syndrome de Miller-Dieker
+Q04.3	syndrome de lissencéphalie de Miller-Dieker
+Q04.3	syndrome de Pallister-Hall
+Q04.3	syndrome de Warburg
+Q04.3	HARD syndrome
+Q87.1	syndrome de Royer
+Q87.1	syndrome de Prader, Labhart, Willi et Fanconi et diabète
+Q87.1	syndrome de Prader, Labhart, Willi et Fanconi
+Q87.1	syndrome de Cohen
+Q87.8	syndrome de Zellweger
+Q87.8	syndrome hépato-cérébro-rénal
+Q87.8	syndrome de Lowe
+Q87.8	syndrome oculo-cérébro-rénal de Lowe
+Q87.8	organo-acidurie avec glaucome et arriération mentale
+Q87.0	syndrome de Freeman-Sheldon
+Q87.0	syndrome du siffleur
+Q87.0	dystrophie cranio-carpo-tarsienne
+Q87.1	syndrome de Schwartz
+Q87.1	syndrome de Hecht
+Q87.1	syndrome du trismus pseudocamptodactylie
+Q87.1	syndrome d'Angelman
+Q87.1	syndrome du pantin hilare
+Q87.1	syndrome de Schwartz-Jampel
+Q87.1	dystrophie ostéo-chondro-musculaire
+Q87.1	syndrome de Catel-Hempel
+Q87.1	syndrome d'Aberfeld
+Q87.1	syndrome Schinzel-Giedion
+Q87.8	phénotype Pena-Shokeir
+Q87.8	syndrome d'akinésie-hypokinésie foetale
+Q87.8	syndrome cérébro-oculo-facio-squelettique
+Q87.8	syndrome COFS
+Q87.8	syndrome d'anomalies congénitales multiples avec anomalies faciales comme caractéristiques principales
+Q36.9	syndrome du bec-de-lièvre
+Q38.0	syndrome de Van der Woude
+Q38.0	syndrome de Demarquay-Richet
+Q67.4	syndrome de dysplasie fronto-nasale
+Q67.4	syndrome du faciès à fente médiane
+Q87.0	syndrome de Fraser
+Q87.0	syndrome cryptophtalmie-syndactylie
+Q87.0	syndrome de Melnick-Fraser
+Q87.0	syndrome branchio-oto-rénal
+Q87.0	syndrome BOR
+Q87.0	syndrome de Marshall
+Q87.0	syndrome de Cayler
+Q87.0	syndrome cardiofacial
+Q10.3	syndrome de blépharophimosis
+Q10.3	syndrome de blépharophimosis, de ptosis et d'épicanthus inversus
+Q10.3	syndrome de blépharophimosis familial
+Q87.0	syndrome de Grob
+Q87.0	syndrome de dysplasie linguo-faciale
+Q87.0	syndrome de Wildervanck
+Q87.0	syndrome cervico-oculo-facial
+Q87.0	syndrome du premier arc
+Q87.0	syndrome de Pierre Robin
+Q87.0	syndrome du premier arc de Pierre Robin
+Q75.4	syndrome de Treacher Collins
+Q75.4	dysostose mandibulo-faciale
+Q75.4	syndrome de Franceschetti-Klein
+Q75.4	dysostose mandibulo-faciale complète
+Q75.4	dysostose oto-mandibulaire
+Q75.4	syndrome de François et Haustrate
+Q18.2	otocéphale
+Q75.4	dysostose intermandibulaire
+Q75.4	dysostose temporo-oto-mandibulaire
+Q75.4	dysostose zygo-oto-mandibulaire
+Q75.4	dysostose temporo-aurale
+Q87.0	syndrome de dysraphie cranio-orbito-oculaire
+Q87.0	syndrome de Blatt
+Q75.4	dysostose maxillaire
+Q75.4	dysostose maxillo-zygomatique
+Q75.4	dysostose naso-maxillaire
+Q75.4	dysostose intermaxillo-palatine
+Q75.4	synostose faciale périmaxillaire antérieure
+Q75.4	synostose faciale périmaxillaire complète
+Q75.4	synostose faciale périmaxillaire postérieure
+Q75.4	dysostose prémaxillo-maxillaire
+Q75.4	synostose faciale voméro-prémaxillaire
+Q75.1	dysostose internasale
+Q75.1	dysostose frontale
+Q75.1	synostose cranio-faciale interfrontale
+Q75.1	dysostose fronto-frontale
+Q75.1	dysostose fronto-naso-ethmoïdale
+Q75.1	synostose cranio-faciale fronto-pariétale
+Q75.1	synostose cranio-faciale fronto-interpariétale
+Q75.1	synostose faciale fronto-malaire
+Q75.1	dysostose sphénoïdale
+Q75.1	dysostose sphéno-frontale
+Q75.1	synostose cranio-faciale sphéno-fronto-pariétale
+Q75.1	craniosynostose pariéto-occipitale
+Q75.1	craniosynostose interpariétale
+Q87.0	syndrome d'anomalies congénitales multiples avec anomalies de la branche faciale comme caractéristiques principales
+Q87.0	dysostose acrofaciale de Nager et Reynier
+Q87.0	syndrome de Townes
+Q87.0	syndrome oro-digito-facial de type I
+Q87.0	dysmorphie orodactyle, type I
+Q87.0	dysostose oro-digito-faciale de type I
+Q87.0	syndrome de Papillon-Léage et Psaume
+Q87.0	syndrome de Mohr
+Q87.0	dysmorphie orodactyle, type II
+Q87.0	syndrome de Shprintzen
+Q87.0	syndrome vélo-cardio-facial
+Q87.0	syndrome de Ruvalcaba
+Q87.0	syndrome de Mietens
+Q87.0	dysplasie oculo-dento-digital
+Q87.0	dysplasie oculo-dento-osseuse
+Q87.2	syndrome oto-palato-digital, type I
+Q87.2	syndrome de Taybi
+Q87.0	syndrome de Coffin-Lowry
+Q87.0	syndrome de Stickler
+Q87.0	arthro-ophtalmopathie héréditaire progressive
+Q87.0	syndrome de Keipert
+Q87.0	syndrome FG
+Q74.8	syndrome de Larsen
+Q87.0	syndrome de Langer-Giedion
+Q87.0	syndrome tricho-rhino-phalangien, type II
+Q87.0	syndrome tricho-rhino-phalangien, type I
+Q87.0	syndrome d'ectrodactylie, de dysplasie ectodermique de type variable et de division palatine
+Q87.0	syndrome EEC
+Q87.0	syndrome de Hay-Wells avec dysplasie ectodermique
+Q87.0	syndrome d'ankyloblépharon, de dysplasie ectodermique et de division palatine
+Q87.2	syndrome SC
+Q87.2	syndrome pseudothalidomide
+Q87.2	syndrome d'hypomélie, d'hypotrichose, d'anomalie faciale et d'hémangiome
+Q87.0	syndrome de Miller
+Q87.0	syndrome de dysostose acrofaciale postaxiale de Miller
+Q75.4	dysostose acro-mandibulaire
+Q87.2	syndrome d'anomalies congénitales multiples avec anomalies des membres comme caractéristiques principales
+Q87.2	syndrome des ptérygions poplités
+Q87.2	syndrome de Grebe
+Q87.2	achondrogenèse brésilienne
+Q87.2	syndrome d'Escobar
+Q87.2	syndrome de ptérigions multiples
+Q87.2	syndrome de réduction d'un membre et d'ichthyose
+Q87.2	syndrome du faciès peu commun avec hypoplasie fémorale
+Q87.2	syndrome de Holt-Oram
+Q87.2	syndrome cardiomélique
+Q87.2	dysplasie atrio-digitale
+Q61.0	syndrome de pancytopénie de Fanconi
+Q61.0	anémie familiale perniciosiforme
+Q61.0	anémie de Fanconi
+Q61.0	syndrome de pancytopénie-dysmélie
+Q87.2	syndrome de thrombocytopénie et d'aplasie radiale
+Q87.2	syndrome de thrombocytopénie et d'absence des radius
+Q87.2	syndrome TAR
+Q87.2	syndrome d'Aase
+Q70.4	syndrome de polysyndactylie
+Q87.2	syndrome CHILD
+Q87.2	syndrome d'Adams-Oliver
+Q87.2	syndrome de Levy-Hollister
+Q87.2	syndrome lacrimo-auriculo-dento-digital
+Q87.2	syndrome de Poland
+Q87.2	défaut unilatéral du muscle pectoral et syndactylie de la main
+Q87.2	syndrome de Nievergelt
+Q87.2	syndrome de Nievergelt-Erb
+Q77.0	achondrogenèse
+Q77.0	syndrome d'achondrogenèse, type IA
+Q77.0	achondrogenèse, type IB
+Q77.0	achondrogenèse, type II
+Q77.4	hypochondrodysplasie
+Q77.0	achondrogenèse de Langer-Saldino
+Q77.0	hypochondrogenèse
+Q77.4	hypochondroplasie
+Q77.2	syndrome de Jeune
+Q77.2	dysplasie thoracique asphyxiante
+Q77.4	syndrome campomélique
+Q77.4	achondroplasie
+Q77.4	nanisme achondroplasique
+Q77.4	chondrodystrophie foetale
+Q77.4	achondroplasie de Parrot et Marie
+Q77.7	syndrome de dysplasie spondylo-épiphysaire pseudo-achondroplasique
+Q77.7	dysplasie pseudo-achondroplasique
+Q87.2	syndrome de dysplasie acromésomélique
+Q87.2	nanisme mésomélique
+Q87.2	nanisme acromésomélique
+Q77.8	dysplasie de Kniest
+Q77.8	syndrome de Kniest
+Q77.8	dysplasie spondylo-métaphysaire de Kozlowski
+Q77.8	dysplasie spondylo-métaphysaire
+Q77.8	dysplasie métatropique
+Q77.8	nanisme métatropique
+Q77.8	syndrome de nanisme métatropique
+Q77.6	dysplasie chondro-ectodermique
+Q77.6	syndrome de Ellis-van Creveld
+Q77.5	dysplasie diastrophique
+Q77.5	nanisme diastrophique
+Q77.5	syndrome de nanisme diastrophique
+Q77.1	dysplasie thanatophore
+Q77.1	nanisme thanatophore
+Q77.1	syndrome de nanisme thanatophore
+Q77.8	syndrome de Silverman-Handmaker
+Q77.8	syndrome de Rolland-Debuquois
+Q78.8	fibrochondrogénésie
+Q77.2	atélostéogénésie
+Q77.2	chondrodysplasie à cellules géantes
+Q77.2	chondrodysplasie létale avec brièveté des côtes, type Majewski
+Q77.2	chondrodysplasie létale avec brièveté des côtes, type II
+Q77.2	chondrodysplasie létale avec brièveté des côtes, type Saldino-Noonan
+Q77.2	chondrodysplasie létale avec brièveté des côtes, type I
+Q77.8	syndrome de Dyggve-Melchior-Clausen
+Q77.8	dysplasie géléophysique
+Q77.8	syndrome de nanisme géléophysique
+Q77.7	dysplasie spondylo-épiphysaire génotypique tardive
+Q77.7	dysplasie spondylo-épiphysaire liée au chromosome X
+Q77.3	dysplasie épiphysaire multiple
+Q78.5	syndrome de chondrodysplasie métaphysaire de Schmid
+Q78.5	dysplasie métaphysaire, type Schmid
+Q78.5	syndrome de chondrodysplasie métaphysaire, type McKusick
+Q78.5	syndrome d'hypoplasie des cartilages et des cheveux
+Q78.5	chondrodysplasie métaphysaire
+Q77.8	syndrome de Kenny-Caffey
+Q78.8	syndrome de Hajdu-Cheney
+Q78.8	syndrome d'acro-ostéolyse, forme phalangienne
+Q78.8	syndrome d'acro-ostéolyse, forme phalangienne héréditaire
+Q78.8	syndrome de Cheney
+Q78.5	dysplasie cranio-métaphysaire
+Q78.5	dyplasie fronto-métaphysaire
+Q78.5	dysplasie métaphysaire familiale
+Q78.5	maladie de Pyle
+Q78.8	syndrome de chondrodysplasie métaphysaire, type Jansen
+Q78.8	dysostose métaphysaire, type Jansen
+Q78.8	syndrome de Shwachman-Diamond
+Q78.8	dysostose métaphysaire avec insuffisance pancréatique et neutropénie
+Q77.3	chondrodysplasie ponctuée
+Q77.3	chondrodysplasie calcifiante congénitale
+Q77.3	dysplasie épiphysaire ponctuée
+Q77.3	chondrodysplasie ponctuée, type Conradi-Hünermann
+Q77.3	maladie de Conradi-Hünermann
+Q77.3	chondrodysplasie ponctuée à transmission autosomique dominante
+Q77.3	syndrome de chondrodysplasie ponctuée, type rhizomélique
+Q77.3	chondrodysplasie ponctuée, type rhizomélique
+Q77.8	ostéo-ectasie avec hyperphosphatasie
+Q78.8	syndrome de McKusick-Cross
+Q78.3	dysplasie diaphysaire progressive
+Q78.3	maladie de Camurati-Engelmann
+Q78.3	maladie d'Engelmann
+Q78.3	osthéopathie hyperostosante et sclérosante multiple infantile
+Q78.2	ostéochondrodysplasie avec ostéopétrose
+Q78.2	ostéopétrose maligne infantile
+Q78.2	ostéopétrose génotypique
+Q78.2	syndrome de Henck-Assman
+Q78.2	maladie des os marmoréens
+Q78.2	maladie d'Albers-Schönberg
+Q78.2	ostéomarmoréose
+Q78.2	maladie des os de marbre
+Q78.2	ostéopétrose autosomique dominante de type 2
+Q78.2	ostéopétrose congénitale
+Q78.8	sclérostéose
+Q78.8	pycnodysostose
+Q78.8	syndrome de pycnodysostose de Maroteaux-Lamy
+Q78.8	syndrome de Maroteaux-Lamy II
+Q78.8	syndrome de dysostose de Stanescu
+Q74.0	dysostose cléido-crânienne héréditaire
+Q74.0	dysplasie cléido-crânienne
+Q74.0	maladie de P. Marie et Sainton
+Q78.8	syndrome de Lenz-Majewski
+Q75.0	craniosynostose
+Q75.0	craniosténose
+Q75.0	soudure prématurée des sutures crâniennes
+Q75.0	fusion congénitale prématurée des sutures crâniennes
+Q75.0	ossification congénitale prématurée des sutures du crâne
+Q87.0	syndrome de Saethre-Chotzen
+Q87.0	acrocéphalosyndactylie, type III
+Q87.0	syndrome de Pfeiffer
+Q87.0	acrocéphalosyndactylie, type IV
+Q87.0	acrocéphalosyndactylie de type V
+Q87.0	syndrome d'Apert
+Q87.0	acrocéphalosyndactylie, type I
+Q87.0	acrocéphalosyndactylie
+Q87.0	maladie d'Apert
+Q75.1	syndrome de Crouzon
+Q75.1	acrocéphalosyndactylie, type II
+Q75.1	syndrome d'Apert-Crouzon
+Q75.1	syndrome de Vogt
+Q75.1	dysostose cranio-faciale héréditaire
+Q75.1	maladie de Crouzon
+Q70.9	maladie des synostoses multiples
+Q70.9	syndrome de symphalangisme
+Q78.6	maladie des exostoses multiples
+Q78.6	chondrodysplasie déformante héréditaire
+Q75.2	syndrome de Greig II
+Q75.0	syndrome d'Antley-Bixler
+Q75.0	syndrome de Baller-Gerold
+Q75.0	syndrome d'aplasie radiale et craniosynostose
+Q87.2	syndrome d'onycho-arthro-ostéodysplasie héréditaire
+Q87.2	ostéo-onychodysostose héréditaire
+Q78.8	dyschondrostéose de Leri-Weill
+Q78.8	syndrome de dysplasie mésomélique de Langer
+Q78.8	syndrome de dyschondrostéose homozygote de Leri-Weill
+Q78.8	syndrome de pléonostéose de Léri
+Q71.3	syndrome de brachydactylie, type E
+Q87.0	syndrome de Weill-Marchesani
+Q87.0	syndrome de Marchesani
+Q87.0	syndrome de brachymorphie avec sphérophakie
+Q87.0	syndrome d'auriculo-ostéodysplasie de Beals
+Q78.8	acrodysostose
+Q78.8	mélorhéostose
+Q78.8	maladie de Léri et Joanny
+Q78.8	ostéose engainante monomélique
+Q78.8	ostéose monomélique éburnante de Putti
+Q87.2	syndrome de Herrmann
+Q87.2	syndrome de symphalangisme-brachydactylie
+Q85.9	hamartose
+Q85.9	hamartomes multiples
+Q85.8	maladie de Cowden
+Q85.8	syndrome des hamartomes multiples
+Q85.8	dysplasie neuro-ectodermique congénitale
+Q85.8	neuroectodermatose
+Q85.8	phacomatose
+Q85.8	neuroectodermose
+Q85.8	maladie de Sturge-Weber-Krabbe
+Q85.8	maladie de Weber
+Q85.8	syndrome de Sturge-Kalischer-Weber
+Q85.8	angiomatose neurocutanée
+Q85.8	angiomatose encéphalotrigéminée
+Q85.8	syndrome de mélanoblastose neuro-cutanée
+Q85.8	naevus épidermique verruqueux linéaire
+Q85.8	naevus sébacé congénital
+Q85.8	naevus sébacé de Jadassohn
+Q82.3	incontinentia pigmenti
+Q82.3	syndrome de Bloch-Sulzberger
+Q82.3	syndrome d'incontinentia pigmenti achromians
+Q82.3	syndrome d'Ito
+Q85.1	sclérose tubéreuse de Bourneville
+Q85.1	phacomatose de Bourneville
+Q85.1	maladie de Bourneville
+Q85.1	sclérose tubéreuse du cerveau
+Q85.1	épiloïa
+Q85.1	tumeur fibreuse cutanée de la sclérose tubéreuse
+Q85.1	adénomes sébacés de type Pringle
+Q85.1	épithéliome multiple bénin cystique
+Q85.1	adénomes sébacés symétriques de la face
+Q85.0	syndrome de neurofibromatose
+Q85.0	neurofibromatose clinique
+Q85.0	neurofibromatose, type 1
+Q85.0	maladie clinique de Recklinghausen
+Q85.0	neurofibromatose, type 2
+Q85.0	neurofibromatose acoustique bilatérale
+Q78.8	ostéofibromatose kystique
+Q78.8	dysplasie osseuse fibreuse de Jaffé-Lichtenstein
+Q78.8	maladie de Jaffé-Lichtenstein
+Q78.1	syndrome de McCune-Albright-Sternberg
+Q78.1	dysplasie fibreuse des os de type Albright
+Q85.8	maladie de von Hippel-Lindau
+Q85.8	maladie de Lindau
+Q85.8	angiomatose rétino-cérébelleuse
+Q85.8	angiomatose rétino-cérébelleuse familiale
+Q87.2	syndrome de Klippel-Trenaunay-Weber
+Q87.2	angiodysplasie ostéodystrophique
+Q78.4	syndrome de Maffucci
+Q78.4	enchondromatose avec hémangiome
+Q78.4	hémichondrodystrophie type Ollier
+Q78.4	maladie d'Ollier
+Q78.4	enchondromatose
+Q78.4	dyschondroplasie
+Q78.4	chondrodysplasie unilatérale
+Q78.4	chondromatose enchondrale multiple
+Q78.4	hémichondrodysplasie
+Q85.8	syndrome de Peutz-Jeghers
+Q85.8	lentiginose périorificielle avec polypose viscérale
+Q85.8	polypose de l'intestin grêle de type Peutz-Jeghers
+Q87.8	syndrome de Ruvalcaba-Myhre-Smith
+Q87.0	syndrome de Riley-Smith
+Q84.8	syndrome de Gorlin
+Q84.8	syndrome de Gorlin-Goltz
+Q84.8	syndrome de carcinomatose basocellulaire
+Q84.8	syndrome de lentiginose centrofaciale
+Q84.8	syndrome des lentigines multiples
+Q84.8	syndrome LEOPARD
+Q84.8	syndrome de Moynahan
+Q84.8	lentiginose profuse avec cardiomyopathie
+Q84.8	syndrome de naevus B-K
+Q84.8	syndrome de Solomon et Fretzin
+Q84.8	syndrome de Goltz
+Q84.8	syndrome d'hypoplasie dermique en aires
+Q84.8	syndrome de Goltz-Gorlin
+Q82.4	dysplasie ectodermique
+Q82.4	syndrome de dysplasie ectodermique anidrotique
+Q82.4	syndrome de Christ-Siemens
+Q82.4	syndrome de dysplasie ectodermique anidrotique à caractère autosomique récessif
+Q82.4	syndrome de dysplasie ectodermique anidrotique à transmission autosomique dominante
+Q82.4	syndrome de dysplasie ectodermique de Rapp-Hodgkin
+Q82.4	syndrome de dysplasie ectodermique hidrotique
+Q82.4	syndrome de Clouston
+Q82.4	syndrome de malformation oculaire et dysplasie ectodermique
+Q82.4	syndrome de Curtius I
+Q87.5	syndrome tricho-dento-osseux
+Q87.5	syndrome TDO
+Q87.5	syndrome d'ostéosclérose et d'amélogenèse imparfaite
+Q87.5	syndrome d'ostéosclérose, de cheveux crépus et de taurodontisme
+Q84.5	syndrome de pachyonychie congénitale
+Q84.5	syndrome de Jadassohn-Lewandowsky
+Q84.5	pachyonychie congénitale
+Q84.5	maladie de Jadassohn-Lewandowsky
+Q84.8	syndrome de Moynahan III
+Q84.8	syndrome de xérodermie, pied bot et anomalie de l'émail
+Q84.8	syndrome de Senter
+Q84.8	syndrome de Desmond
+Q84.8	syndrome de surdité avec kérato-ichtyose
+Q87.2	syndromes de Coffin et Siris
+Q87.8	syndrome de Börjeson
+Q44.7	syndrome d'Alagille
+Q78.9	syndrome de Melnick et Needles
+Q87.8	syndrome Laurence-Biedl
+Q87.8	syndrome de Laurence-Moon-Biedl-Bardet
+Q13.8	malformation de Rieger
+Q13.8	glaucome pectiné imperforé
+Q13.8	dysgénésie mésodermique de l'iris
+Q13.8	goniosynéchie
+Q13.8	syndrome de Peters
+Q13.8	anomalie de Rieger
+Q87.8	syndrome de Rieger
+Q87.8	syndrome cérébro-costo-mandibulaire
+Q67.8	syndrome de Jarcho-Levin
+Q67.8	dysplasie spondylo-thoracique
+Q10.3	syndrome de distichiase-lymphoedème
+Q87.5	syndrome d'Hanhart
+Q87.5	dysostose mandibulaire avec péromélie
+Q87.8	syndrome VACTEL
+Q74.8	schizomélie de Duhamel
+Q87.1	syndrome de Moore-Federman
+Q87.1	nanisme familial et raideurs articulaires
+Q99.8	syndrome de Kundrat
+Q99.8	syndrome de pseudo-trisomie D>1<
+Q87.0	dysplasie oculo-auriculo-vertébrale
+Q87.0	syndrome des premier et second arcs branchiaux
+Q87.0	syndrome de Goldenhar
+Q87.0	microsomie hémifaciale
+Q87.0	syndrome de Moebius
+Q87.0	syndrome d'hypoglossie-hypodactylie
+Q87.0	syndrome aglossie-adactylie
+Q87.0	syndrome d'ankylose glosso-palatine
+Q87.0	diplégie faciale congénitale
+Q87.2	syndrome VATER
+Q89.8	syndrome CHARGE
+Q20.6	syndrome de lévo-isomérisme
+Q20.6	syndrome de polysplénie
+Q87.8	syndrome de dextro-isomérisme
+Q87.8	syndrome d'asplénie
+Q87.8	syndrome d'agénésie splénique
+Q87.8	syndrome d'Ivemark
+Q87.8	syndrome d'absence congénitale de la rate
+Q89.8	syndrome des cils immobiles
+Q89.8	syndrome d'Afzelius
+Q89.3	syndrome de Kartagener
+Q89.3	syndrome de bronchectasie, sinusite chronique et dextrocardie
+Q04.2	syndrome d'holoprosencéphalie
+Q04.1	syndrome d'arhinencéphalie
+Q04.1	arhinencéphalie
+Q76.0	syndrome de myélodysraphie occulte
+Q76.0	syndrome de malformation de la moelle épinière
+Q15.8	syndrome de dysplasie septo-optique
+Q76.1	syndrome de Klippel-Feil
+Q76.1	malformation de Klippel-Feil
+Q76.1	syndrome de fusion anormale des vertèbres cervicales
+Q76.1	fusion anormale des vertèbres cervicales
+Q28.8	syndrome d'obstruction congénitale des lymphatiques du cou
+Q64.3	syndrome de blocage congénital précoce de l'urètre
+Q64.1	syndrome d'exstrophie de la vessie
+Q64.1	exstrophie de la vessie
+Q64.1	ectopie congénitale de la vessie
+Q64.1	extroversion de la vessie urinaire
+Q64.1	ectopie de la vessie
+Q64.1	extroversion congénitale de la vessie urinaire
+Q43.7	syndrome d'exstrophie du cloaque
+Q43.7	extroversion du cloaque
+Q52.8	syndrome de Rokitansky
+Q60.6	syndrome d'oligo-amnios
+Q60.6	syndrome de Potter
+Q60.6	syndrome réno-facial
+Q60.6	syndrome d'agénésie rénale
+Q60.6	syndrome d'absence congénitale des reins
+Q63.8	syndrome d'Allemann
+Q87.2	syndrome de sirénomélie
+Q87.2	syndrome de dysplasie caudale
+Q87.2	syndrome de régression caudale
+Q74.8	syndrome de bride amniotique
+Q74.8	maladie amniotique
+Q89.8	syndrome d'anomalies congénitales multiples causées par des facteurs environnementaux non-infectieux
+Q86.8	syndrome d'intoxication foetale à l'aminoptérine
+Q86.1	syndrome de Meadow
+Q86.8	syndrome d'intoxication foetale au triméthadione
+Q86.2	syndrome d'intoxication foetale à la warfarine
+Q86.8	syndrome d'embryopathie à la thalidomide
+Q86.8	syndrome de Wiedemann
+Q86.8	syndrome de Lenz
+Q86.8	syndrome d'intoxication foetale au mercure méthylique
+Q86.8	anomalie d'hyperthermie provoquée
+Q99.9	aberration chromosomique
+Q99.9	maladie héréditaire chromosomique
+Q99.9	syndrome d'anomalie du nombre des chromosomes
+Q99.9	anomalie chromosomique
+Q99.9	chromosomopathie
+Q99.9	maladie par aberration chromosomique
+Q99.8	maladie héréditaire autosomique
+Q99.8	maladie héréditaire dominante
+Q99.8	maladie héréditaire autosomique dominante, pénétrance complète
+Q99.8	maladie héréditaire autosomique dominante, pénétrance incomplète
+Q99.8	maladie héréditaire récessive
+Q99.8	maladie héréditaire transmise selon le mode récessif
+Q99.8	maladie héréditaire polygénique
+Q99.8	porteur de maladie génétique
+Q99.8	maladie héréditaire liée au sexe
+Q99.8	maladie par aberration chromosomique, 1ère paire
+Q93.5	syndrome de monosomie partielle 1p
+Q93.5	syndrome de monosomie partielle 1q
+Q92.8	syndrome de trisomie partielle 1q
+Q93.2	syndrome du chromosome 1 en anneau
+Q99.8	maladie par aberration chromosomique, 2e paire
+Q92.8	syndrome de trisomie partielle 2p
+Q92.8	syndrome de trisomie partielle 2q
+Q99.8	maladie par aberration chromosomique, 3e paire
+Q92.8	syndrome de trisomie partielle 3p
+Q92.8	syndrome de trisomie partielle 3q
+Q99.8	maladie par aberration chromosomique, 4e paire
+Q93.3	syndrome de monosomie partielle 4p
+Q93.3	syndrome de délétion du bras court du chromosome 4
+Q93.3	syndrome 4p-
+Q93.3	anomalie de fusion de la ligne médiane
+Q93.3	syndrome de Wolf-Hirschhorn
+Q93.5	syndrome de monosomie partielle 4q
+Q92.8	syndrome de trisomie partielle 4p
+Q92.8	syndrome de trisomie 4p
+Q92.8	trisomie du bras court du chromosome 4
+Q92.8	syndrome de trisomie partielle 4q
+Q93.2	syndrome du chromosome 4 en anneau
+Q99.8	maladie par aberration chromosomique, 5e paire
+Q93.4	syndrome de monosomie partielle 5p
+Q93.4	maladie du cri du chat
+Q93.4	syndrome de Lejeune
+Q93.4	syndrome 5p-
+Q93.4	syndrome de délétion du bras court du chromosome 5
+Q92.8	syndrome de trisomie partielle 5p
+Q99.8	maladie par aberration chromosomique, 6e paire
+Q92.8	syndrome de trisomie partielle 6p
+Q92.8	syndrome de trisomie partielle 6q
+Q99.8	maladie par aberration chromosomique, 7e paire
+Q93.5	syndrome de monosomie partielle 7p
+Q93.5	syndrome de monosomie partielle 7q
+Q92.8	syndrome de trisomie partielle 7p
+Q92.8	syndrome de trisomie partielle 7q
+Q99.8	maladie par aberration chromosomique, 8e paire
+Q93.5	syndrome de monosomie partielle 8p
+Q93.5	syndrome de monosomie partielle 8q
+Q92.1	syndrome de trisomie 8
+Q92.1	syndrome de trisomie du groupe C
+Q92.1	syndrome de trisomie 8, mosaïque normale
+Q92.8	syndrome de trisomie partielle 8p
+Q92.8	syndrome de trisomie partielle 8q
+Q99.8	maladie par aberration chromosomique, 9e paire
+Q93.5	syndrome de monosomie partielle 9p
+Q93.5	syndrome 9p-
+Q93.5	syndrome de monosomie 9p
+Q93.5	syndrome de monosomie partielle 9q
+Q92.1	syndrome de trisomie 9
+Q92.1	syndrome de trisomie 9, mosaïque
+Q92.8	syndrome de trisomie partielle 9p
+Q92.8	syndrome de Réthoré
+Q92.8	syndrome de trisomie partielle 21 q 22
+Q92.8	syndrome de trisomie partielle 9q
+Q93.2	syndrome du chromosome 9 en anneau
+Q99.8	syndrome de tétrasomie partielle 9
+Q99.8	maladie par aberration chromosomique, 10e paire
+Q93.5	syndrome de monosomie partielle 10p
+Q93.5	syndrome de monosomie partielle 10q
+Q92.1	syndrome de trisomie 10
+Q92.8	syndrome de trisomie partielle 10p
+Q92.8	syndrome de trisomie partielle 10q
+Q93.2	syndrome du chromosome 10 en anneau
+Q99.8	maladie par aberration chromosomique, 11e paire
+Q93.5	syndrome de monosomie partielle 11p
+Q93.5	syndrome d'aniridie et de tumeur de Wilms
+Q93.5	syndrome de monosomie partielle 11q
+Q92.8	syndrome de trisomie partielle 11p
+Q92.8	syndrome de trisomie partielle 11q
+Q93.2	syndrome du chromosome 11 en anneau
+Q99.8	maladie par aberration chromosomique, 12e paire
+Q93.5	syndrome de monosomie partielle 12p
+Q92.8	syndrome de trisomie partielle 12p
+Q92.8	syndrome de trisomie partielle 12q
+Q99.8	syndrome de tétrasomie 12p
+Q99.8	syndrome de Killian-Teschler-Nicola
+Q99.8	syndrome de mosaïque de Pallister
+Q99.8	maladie par aberration chromosomique, 13e paire
+Q93.5	syndrome de monosomie partielle 13q
+Q93.5	syndrome de délétion du bras long du chromosome 13
+Q93.5	syndrome 13q-
+Q91.7	syndrome de trisomie 13
+Q91.7	syndrome de Patau
+Q91.7	syndrome de trisomie D
+Q92.8	syndrome de trisomie partielle 13p
+Q92.8	syndrome de trisomie partielle 13q
+Q99.8	maladie par aberration chromosomique, 14e paire
+Q92.1	syndrome de trisomie 14
+Q92.8	syndrome de trisomie partielle 14q
+Q92.8	syndrome de trisomie proximale partielle 14q
+Q92.8	syndrome de trisomie distale partielle 14q
+Q99.8	maladie par aberration chromosomique, 15e paire
+Q93.5	syndrome de monosomie partielle 15q
+Q92.8	syndrome de trisomie partielle 15q
+Q99.8	maladie par aberration chromosomique, 16e paire
+Q93.5	syndrome de monosomie partielle 16q
+Q92.1	syndrome de trisomie 16
+Q92.8	syndrome de trisomie partielle 16p
+Q92.8	syndrome de trisomie partielle 16q
+Q99.8	maladie par aberration chromosomique, 17e paire
+Q92.8	syndrome de trisomie partielle 17p
+Q92.8	syndrome de trisomie partielle 17q
+Q99.8	maladie par aberration chromosomique, 18e paire
+Q93.5	syndrome de monosomie partielle 18p
+Q93.5	syndrome 18p-
+Q93.5	syndrome de monosomie partielle 18q
+Q93.5	syndrome 18q-
+Q93.5	syndrome de délétion du bras long du chromosome 18
+Q91.3	syndrome de trisomie 18
+Q91.3	syndrome de Edwards
+Q92.8	syndrome de trisomie partielle 18p
+Q92.8	syndrome de Grouchy-Lamy-Thieffry
+Q92.8	syndrome de trisomie partielle 18q
+Q92.8	syndrome Grouchy-Lamy-Salmon-Landry
+Q93.2	syndrome du chromosome 18 en anneau
+Q99.8	maladie par aberration chromosomique, 19e paire
+Q92.8	syndrome de trisomie partielle 19q
+Q99.8	maladie par aberration chromosomique, 20e paire
+Q92.1	syndrome de trisomie 20
+Q92.8	syndrome de trisomie partielle 20p
+Q92.8	syndrome de trisomie 20p
+Q92.8	syndrome de trisomie partielle 20q
+Q93.2	syndrome du chromosome 20 en anneau
+Q99.8	maladie par aberration chromosomique, 21e paire
+Q93.1	syndrome de monosomie 21
+Q93.5	syndrome de monosomie partielle 21q
+Q93.5	syndrome de monosomie proximale partielle 21q
+Q90.9	syndrome de trisomie 21
+Q90.9	syndrome de Down
+Q90.9	mongolisme
+Q92.8	syndrome de trisomie partielle 21q
+Q92.8	syndrome de trisomie distale partielle 21q
+Q93.2	syndrome du chromosome 21 en anneau
+Q99.8	maladie par aberration chromosomique, 22e paire
+Q93.5	syndrome de monosomie partielle 22q
+Q92.1	syndrome de trisomie 22
+Q92.1	syndrome d'antimongolisme
+Q92.8	syndrome de trisomie partielle 22q
+Q93.2	syndrome du chromosome 22 en anneau
+Q92.8	syndrome des yeux de chat
+Q92.8	syndrome de Schachenmann
+Q99.8	anomalie du chromosome sexuel
+Q99.8	gynandromorphisme
+Q98.9	anomalie du chromosome Y
+Q98.0	syndrome de Klinefelter
+Q98.0	syndrome XXY
+Q98.5	syndrome du double Y
+Q98.5	syndrome XYY
+Q97.9	anomalie du chromosome X
+Q96.9	syndrome de Turner
+Q96.9	syndrome de Bonnevie-Ullrich
+Q96.9	syndrome X0
+Q96.9	syndrome de dysgénésie gonadique
+Q97.0	syndrome triplo-X
+Q97.0	syndrome XXX
+Q97.1	syndrome de tétrasomie X
+Q97.1	syndrome XXXX
+Q97.1	syndrome de pentasomie X
+Q97.1	syndrome XXXXX
+Q97.2	syndrome XXXY
+Q97.2	syndrome XXXXY
+Q96.3	dysgénésie gonadique mixte
+Q96.3	mosaïque 45X, 46XY
+Q99.8	syndrome de dissociation du phénotype et du caryotype sexuels
+Q98.2	syndrome des hommes XX
+Q97.3	syndrome des femmes XY
+Q92.7	syndrome de polyploïdie
+Q92.7	syndrome de triploïdie
+Q92.7	syndrome de triploïdie, diploïdie, mixoploïdie
+Q87.1	maladie de Nielsen
+Q87.1	syndrome de de Klippel-Feil associé au syndrome de Bonnevie-Ullrich
+Q87.1	syndrome de Klippel-Feil et Turner
+Q87.1	dystrophie congénitale à cou court
+Q99.9	altération d'un groupe chromosomique
+Q99.8	altérations chromosomiques du groupe A
+Q99.8	altérations chromosomiques du groupe B
+Q99.8	altérations chromosomiques des groupes C et X
+Q99.8	altérations chromosomiques du groupe D
+Q99.8	altérations chromosomiques du groupe E
+Q99.8	altérations chromosomiques du groupe F
+Q99.8	altérations chromosomiques des groupes G et Y
+Q79.9	anomalie congénitale de l'appareil locomoteur
+Q79.9	malformation congénitale de l'appareil locomoteur
+Q79.9	anomalie ostéo-articulaire congénitale
+Q79.9	malformation ostéo-articulaire
+Q79.9	anomalie congénitale des os du squelette
+Q79.9	anomalie congénitale squelettique
+Q79.9	anomalie du développement squelettique
+Q79.9	tissu osseux ectopique
+Q79.9	point d'ossification accessoire
+Q79.9	ilôt osseux
+Q79.9	dysostose
+Q79.9	trouble du développement osseux et cartilagineux
+Q78.8	ostéopoïkilose
+Q78.0	ostéopathie striée
+Q78.0	maladie de Voorhoeve
+Q82.8	dermatofibrose lenticulaire disséminée
+Q78.8	dermato-ostéopoecilie
+Q78.8	syndrome de Buschke-Ollendorf
+Q82.8	syndrome de Curth
+Q89.8	acéphalochirie
+Q89.8	absence congénitale de la tête et des mains
+Q89.8	acéphalorachie
+Q89.8	absence congénitale de la tête et de la colonne vertébrale
+Q78.9	chondrodysplasie congénitale
+Q78.9	chondropolydystrophie congénitale
+Q78.9	chondrodystrophie congénitale
+Q77.8	chondrodystrophie hyperplasique
+Q77.8	chondrodystrophie hypoplasique
+Q78.8	chondrodystrophie malacique
+Q79.9	anomalie congénitale des muscles squelettiques
+Q79.8	absence congénitale des muscles squelettiques
+Q79.8	muscle surnuméraire
+Q79.8	amyotrophie congénitale
+Q79.9	anomalie congénitale d'un muscle et d'un tendon
+Q79.8	absence congénitale d'un muscle et d'un tendon
+Q79.8	brièveté congénitale d'un tendon
+Q79.8	anomalie congénitale d'une articulation
+Q79.8	malformation congénitale d'une articulation
+Q79.8	malformation articulaire congénitale
+Q67.4	anomalie congénitale de la tête
+Q67.4	anomalie congénitale du crâne
+Q67.4	malformation congénitale du crâne
+Q67.4	dépression congénitale du crâne
+Q67.2	dolichocéphalie
+Q67.2	dolichocéphale
+Q67.2	leptocéphalie
+Q67.2	leptocéphale
+Q67.3	plagiocéphalie
+Q75.0	chevauchement des os du crâne
+Q75.0	proéminence frontale
+Q75.8	hypertrophie congénitale du sphénoïde
+Q75.8	absence congénitale des os du crâne
+Q75.8	absence congénitale de la voûte crânienne
+Q75.8	agénésie de la calotte crânienne
+Q75.0	acrocéphalie
+Q75.0	oxycéphalie
+Q75.0	crâne en tour
+Q75.8	tête en dôme
+Q75.8	malformation congénitale du front
+Q75.0	scaphocéphalie
+Q75.0	craniosténose sagittale
+Q75.0	trigonocéphalie
+Q75.0	crâne en trèfle
+Q75.0	trigonocéphale
+Q75.0	soudure congénitale imparfaite des os du crâne
+Q75.8	ostéoporose crânienne congénitale
+Q75.8	platybasie
+Q75.8	impression basilaire
+Q75.0	hypertrophie congénitale de la fontanelle
+Q75.0	fontanelle hypertrophique congénitale
+Q75.8	lacune de la table interne du crâne
+Q75.8	lückenschädel
+Q75.8	lacune crânienne
+Q75.2	hypertélorisme oculaire
+Q75.2	hypertélorisme orbitaire
+Q75.2	hypotélorisme oculaire
+Q75.8	cranioschisis
+Q75.8	crâne bifide
+Q75.8	diastasis des os du crâne
+Q75.8	anomalie congénitale des os de la face
+Q75.8	anomalie congénitale de l'os palatin
+Q75.8	absence congénitale de l'os palatin
+Q75.8	agénésie de l'os palatin
+Q75.8	fusion congénitale anormale de l'os palatin
+Q75.8	soudure congénitale anormale de l'os palatin
+Q75.8	forme congénitale anormale de l'os palatin
+Q75.8	difformité congénitale de l'os palatin
+Q75.8	hypoplasie congénitale de l'os palatin
+Q75.8	os palatin hypoplasique congénital
+Q75.8	formation osseuse incomplète de l'os palatin
+Q75.8	ossification incomplète de l'os palatin
+Q75.8	absence de formation osseuse de l'os palatin
+Q75.8	absence d'ossification de l'os palatin
+Q75.8	anomalie congénitale de l'os malaire
+Q75.8	absence congénitale de l'os malaire
+Q75.8	agénésie de l'os malaire
+Q75.8	fusion congénitale anormale de l'os malaire
+Q75.8	soudure congénitale anormale de l'os malaire
+Q75.8	forme congénitale anormale de l'os malaire
+Q75.8	difformité congénitale de l'os malaire
+Q75.8	hypoplasie congénitale de l'os malaire
+Q75.8	os malaire hypoplasique congénital
+Q75.8	formation osseuse incomplète de l'os malaire
+Q75.8	ossification incomplète de l'os malaire
+Q75.8	absence de formation osseuse de l'os malaire
+Q75.8	absence d'ossification de l'os malaire
+Q75.8	anomalie congénitale de l'os propre du nez
+Q75.8	absence congénitale de l'os propre du nez
+Q75.8	agénésie de l'os propre du nez
+Q75.8	fusion congénitale anormale de l'os propre du nez
+Q75.8	soudure congénitale anormale de l'os propre du nez
+Q75.8	forme congénitale anormale de l'os propre du nez
+Q75.8	difformité congénitale de l'os propre du nez
+Q75.8	lacune de l'os propre du nez
+Q75.8	trou dans l'os propre du nez
+Q75.8	hypoplasie congénitale de l'os propre du nez
+Q75.8	os propre du nez hypoplasique congénital
+Q75.8	formation osseuse incomplète de l'os propre du nez
+Q75.8	ossification incomplète de l'os propre du nez
+Q75.8	absence de formation osseuse de l'os propre du nez
+Q75.8	absence d'ossification de l'os propre du nez
+Q75.8	anomalie congénitale de l'unguis
+Q75.8	absence congénitale de l'unguis
+Q75.8	agénésie de l'unguis
+Q75.8	fusion congénitale anormale de l'unguis
+Q75.8	soudure congénitale anormale de l'unguis
+Q75.8	forme congénitale anormale de l'unguis
+Q75.8	difformité congénitale de l'unguis
+Q75.8	hypoplasie congénitale de l'unguis
+Q75.8	unguis hypoplasique congénital
+Q75.8	formation osseuse incomplète de l'unguis
+Q75.8	ossification incomplète de l'unguis
+Q75.8	absence de formation osseuse de l'unguis
+Q75.8	absence d'ossification de l'unguis
+Q75.8	anomalie congénitale de l'os hyoïde
+Q75.8	absence congénitale de l'os hyoïde
+Q75.8	agénésie de l'os hyoïde
+Q75.8	forme congénitale anormale de l'os hyoïde
+Q75.8	difformité congénitale de l'os hyoïde
+Q75.8	os hyoïde incurvé
+Q75.8	os hyoïde courbé
+Q75.8	os hyoïde anguleux
+Q75.8	hypoplasie congénitale de l'os hyoïde
+Q75.8	os hyoïde hypoplasique congénital
+Q75.8	formation osseuse incomplète de l'os hyoïde
+Q75.8	ossification incomplète de l'os hyoïde
+Q75.8	absence de formation osseuse de l'os hyoïde
+Q75.8	absence d'ossification de l'os hyoïde
+Q75.8	anomalie congénitale du vomer
+Q75.8	absence congénitale du vomer
+Q75.8	agénésie du vomer
+Q75.8	fusion congénitale anormale du vomer
+Q75.8	soudure congénitale anormale du vomer
+Q75.8	forme congénitale anormale du vomer
+Q75.8	difformité congénitale du vomer
+Q75.8	hypoplasie congénitale du vomer
+Q75.8	vomer hypoplasique congénital
+Q75.8	formation osseuse incomplète du vomer
+Q75.8	ossification incomplète du vomer
+Q75.8	absence de formation osseuse du vomer
+Q75.8	absence d'ossification du vomer
+Q75.8	anomalie congénitale de l'os prémaxillaire
+Q75.8	absence congénitale de l'os prémaxillaire
+Q75.8	agénésie de l'os prémaxillaire
+Q75.8	fusion congénitale anormale de l'os prémaxillaire
+Q75.8	soudure congénitale anormale de l'os prémaxillaire
+Q75.8	forme congénitale anormale de l'os prémaxillaire
+Q75.8	difformité congénitale de l'os prémaxillaire
+Q75.8	lacune de l'os prémaxillaire
+Q75.8	trou dans l'os prémaxillaire
+Q75.8	hypoplasie congénitale de l'os prémaxillaire
+Q75.8	os prémaxillaire hypoplasique congénital
+Q75.8	formation osseuse incomplète de l'os prémaxillaire
+Q75.8	ossification incomplète de l'os prémaxillaire
+Q75.8	absence de formation osseuse de l'os prémaxillaire
+Q75.8	absence d'ossification de l'os prémaxillaire
+Q75.8	anomalie congénitale des os de la tête du foetus
+Q75.8	anomalie congénitale de la grande aile de l'os sphénoïde
+Q75.8	absence congénitale de la grande aile de l'os sphénoïde
+Q75.8	agénésie de la grande aile de l'os sphénoïde
+Q75.8	fusion congénitale anormale de la grande aile de l'os sphénoïde
+Q75.8	soudure congénitale anormale de la grande aile de l'os sphénoïde
+Q75.8	forme congénitale anormale de la grande aile de l'os sphénoïde
+Q75.8	difformité congénitale de la grande aile de l'os sphénoïde
+Q75.8	lacune de la grande aile de l'os sphénoïde
+Q75.8	trou dans la grande aile de l'os sphénoïde
+Q75.8	hypoplasie congénitale de la grande aile de l'os sphénoïde
+Q75.8	grande aile de l'os sphénoïde hypoplasique congénitale
+Q75.8	formation osseuse incomplète de la grande aile de l'os sphénoïde
+Q75.8	ossification incomplète de la grande aile de l'os sphénoïde
+Q75.8	absence de formation osseuse de la grande aile de l'os sphénoïde
+Q75.8	absence d'ossification de la grande aile de l'os sphénoïde
+Q75.8	anomalie congénitale de la partie basilaire de l'os sphénoïde
+Q75.8	absence congénitale de la partie basilaire de l'os sphénoïde
+Q75.8	agénésie de la partie basilaire de l'os sphénoïde
+Q75.8	fusion congénitale anormale de la partie basilaire de l'os sphénoïde
+Q75.8	soudure congénitale anormale de la partie basilaire de l'os sphénoïde
+Q75.8	forme congénitale anormale de la partie basilaire de l'os sphénoïde
+Q75.8	difformité congénitale de la partie basilaire de l'os sphénoïde
+Q75.8	lacune de la partie basilaire de l'os sphénoïde
+Q75.8	trou dans la partie basilaire de l'os sphénoïde
+Q75.8	hypoplasie congénitale de la partie basilaire de l'os sphénoïde
+Q75.8	partie basilaire de l'os sphénoïde hypoplasique congénitale
+Q75.8	formation osseuse incomplète de la partie basilaire de l'os sphénoïde
+Q75.8	ossification incomplète de la partie basilaire de l'os sphénoïde
+Q75.8	absence de formation osseuse de la partie basilaire de l'os sphénoïde
+Q75.8	absence d'ossification de la partie basilaire de l'os sphénoïde
+Q75.8	anomalie congénitale de l'os présphénoïde
+Q75.8	absence congénitale de l'os présphénoïde
+Q75.8	agénésie de l'os présphénoïde
+Q75.8	fusion congénitale anormale de l'os présphénoïde
+Q75.8	soudure congénitale anormale de l'os présphénoïde
+Q75.8	formation osseuse incomplète de l'os présphénoïde
+Q75.8	ossification incomplète de l'os présphénoïde
+Q75.8	absence de formation osseuse de l'os présphénoïde
+Q75.8	absence d'ossification de l'os présphénoïde
+Q75.8	forme congénitale anormale de l'os présphénoïde
+Q75.8	difformité congénitale de l'os présphénoïde
+Q75.8	lacune de l'os présphénoïde
+Q75.8	trou dans l'os présphénoïde
+Q75.8	hypoplasie congénitale de l'os présphénoïde
+Q75.8	os présphénoïde hypoplasique congénital
+Q75.8	anomalie congénitale de l'apophyse basilaire de l'os occipital
+Q75.8	absence congénitale de l'apophyse basilaire de l'os occipital
+Q75.8	agénésie de l'apophyse basilaire de l'os occipital
+Q75.8	fusion congénitale anormale de l'apophyse basilaire de l'os occipital
+Q75.8	soudure congénitale anormale de l'apophyse basilaire de l'os occipital
+Q75.8	forme congénitale anormale de l'apophyse basilaire de l'os occipital
+Q75.8	difformité congénitale de l'apophyse basilaire de l'os occipital
+Q75.8	lacune de l'apophyse basilaire de l'os occipital
+Q75.8	trou dans l'apophyse basilaire de l'os occipital
+Q75.8	hypoplasie congénitale de l'apophyse basilaire de l'os occipital
+Q75.8	apophyse basilaire de l'os occipital hypoplasique congénitale
+Q75.8	formation osseuse incomplète de l'apophyse basilaire de l'os occipital
+Q75.8	ossification incomplète de l'apophyse basilaire de l'os occipital
+Q75.8	absence de formation osseuse de l'apophyse basilaire de l'os occipital
+Q75.8	absence d'ossification de l'apophyse basilaire de l'os occipital
+Q75.8	anomalie congénitale de la masse latérale de l'os occipital
+Q75.8	absence congénitale de la masse latérale de l'os occipital
+Q75.8	agénésie de la masse latérale de l'os occipital
+Q75.8	fusion congénitale anormale de la masse latérale de l'os occipital
+Q75.8	soudure congénitale anormale de la masse latérale de l'os occipital
+Q75.8	forme congénitale anormale de la masse latérale de l'os occipital
+Q75.8	difformité congénitale de la masse latérale de l'os occipital
+Q75.8	lacune de la masse latérale de l'os occipital
+Q75.8	trou dans la masse latérale de l'os occipital
+Q75.8	hypoplasie congénitale de la masse latérale de l'os occipital
+Q75.8	masse latérale de l'os occipital hypoplasique congénitale
+Q75.8	formation osseuse incomplète de la masse latérale de l'os occipital
+Q75.8	ossification incomplète de la masse latérale de l'os occipital
+Q75.8	absence de formation osseuse de la masse latérale de l'os occipital
+Q75.8	absence d'ossification de la masse latérale de l'os occipital
+Q75.8	anomalie congénitale de l'os supraoccipital
+Q75.8	absence congénitale de l'os supraoccipital
+Q75.8	agénésie de l'os supraoccipital
+Q75.8	fusion congénitale anormale de l'os supraoccipital
+Q75.8	soudure congénitale anormale de l'os supraoccipital
+Q75.8	forme congénitale anormale de l'os supraoccipital
+Q75.8	difformité congénitale de l'os supraoccipital
+Q75.8	lacune de l'os supraoccipital
+Q75.8	trou dans l'os supraoccipital
+Q75.8	hypoplasie congénitale de l'os supraoccipital
+Q75.8	os supraoccipital hypoplasique congénital
+Q75.8	formation osseuse incomplète de l'os supraoccipital
+Q75.8	ossification incomplète de l'os supraoccipital
+Q75.8	absence de formation osseuse de l'os supraoccipital
+Q75.8	absence d'ossification de l'os supraoccipital
+Q75.8	ossification bipartite de l'os supraoccipital
+Q75.8	ossification bifide de l'os supraoccipital
+Q75.8	anomalie congénitale de l'os interpariétal
+Q75.8	absence congénitale de l'os interpariétal
+Q75.8	agénésie de l'os interpariétal
+Q75.8	fusion congénitale anormale de l'os interpariétal
+Q75.8	soudure congénitale anormale de l'os interpariétal
+Q75.8	forme congénitale anormale de l'os interpariétal
+Q75.8	difformité congénitale de l'os interpariétal
+Q75.8	lacune de l'os interpariétal
+Q75.8	trou dans l'os interpariétal
+Q75.8	hypoplasie congénitale de l'os interpariétal
+Q75.8	os interpariétal hypoplasique congénital
+Q75.8	formation osseuse incomplète de l'os interpariétal
+Q75.8	ossification incomplète de l'os interpariétal
+Q75.8	absence de formation osseuse de l'os interpariétal
+Q75.8	absence d'ossification de l'os interpariétal
+Q75.8	ossification bipartite de l'os interpariétal
+Q75.8	ossification bifide de l'os interpariétal
+Q75.8	anomalie congénitale de l'os pariétal
+Q75.8	absence congénitale de l'os pariétal
+Q75.8	agénésie de l'os pariétal
+Q75.8	fusion congénitale anormale de l'os pariétal
+Q75.8	soudure congénitale anormale de l'os pariétal
+Q75.8	forme congénitale anormale de l'os pariétal
+Q75.8	difformité congénitale de l'os pariétal
+Q75.8	lacune de l'os pariétal
+Q75.8	trou dans l'os pariétal
+Q75.8	hypoplasie congénitale de l'os pariétal
+Q75.8	os pariétal hypoplasique congénital
+Q75.8	formation osseuse incomplète de l'os pariétal
+Q75.8	ossification incomplète de l'os pariétal
+Q75.8	absence de formation osseuse de l'os pariétal
+Q75.8	absence d'ossification de l'os pariétal
+Q75.8	anomalie congénitale de l'écaille du temporal
+Q75.8	absence congénitale de l'écaille du temporal
+Q75.8	agénésie de l'écaille du temporal
+Q75.8	fusion congénitale anormale de l'écaille du temporal
+Q75.8	soudure congénitale anormale de l'écaille du temporal
+Q75.8	forme congénitale anormale de l'écaille du temporal
+Q75.8	difformité congénitale de l'écaille du temporal
+Q75.8	lacune de l'écaille du temporal
+Q75.8	trou dans l'écaille du temporal
+Q75.8	hypoplasie congénitale de l'écaille du temporal
+Q75.8	écaille du temporal hypoplasique congénitale
+Q75.8	formation osseuse incomplète de l'écaille du temporal
+Q75.8	ossification incomplète de l'écaille du temporal
+Q75.8	absence de formation osseuse de l'écaille du temporal
+Q75.8	absence d'ossification de l'écaille du temporal
+Q75.8	anomalie congénitale de l'os frontal
+Q75.8	absence congénitale de l'os frontal
+Q75.8	agénésie de l'os frontal
+Q75.8	fusion congénitale anormale de l'os frontal
+Q75.8	soudure congénitale anormale de l'os frontal
+Q75.8	forme congénitale anormale de l'os frontal
+Q75.8	difformité congénitale de l'os frontal
+Q75.8	lacune de l'os frontal
+Q75.8	trou dans l'os frontal
+Q75.8	hypoplasie congénitale de l'os frontal
+Q75.8	os frontal hypoplasique congénital
+Q75.8	formation osseuse incomplète de l'os frontal
+Q75.8	ossification incomplète de l'os frontal
+Q75.8	absence de formation osseuse de l'os frontal
+Q75.8	absence d'ossification de l'os frontal
+Q74.9	anomalie congénitale d'un membre
+Q74.9	malformation congénitale d'un membre
+Q74.8	polymélie
+Q74.8	hyperextension congénitale d'un membre
+Q74.8	hyperflexion congénitale d'un membre
+Q74.8	dystopie par rotation congénitale d'un membre
+Q74.8	déficience longitudinale congénitale d'un membre
+Q74.8	raccourcissement congénital d'un membre
+Q73.0	amélie
+Q73.0	absence congénitale des membres
+Q73.1	phocomélie
+Q73.1	phocomèle
+Q73.1	absence congénitale partielle proximale d'un membre
+Q73.8	ectromélie
+Q73.8	hémimélie
+Q74.8	macromélie
+Q73.8	micromélie
+Q73.8	nanisme micromélique
+Q73.8	brachymélie
+Q73.8	nanomélie
+Q73.8	micromèle
+Q73.8	méromicrosomie
+Q74.8	absence congénitale partielle d'un membre
+Q74.8	méromélie
+Q74.8	absence congénitale d'une partie d'un membre
+Q74.8	anisomélie
+Q74.8	dimélie
+Q74.8	duplication congénitale d'un membre
+Q69.9	polydactylie
+Q69.9	doigt/orteil surnuméraire
+Q69.9	hexadactylie
+Q74.8	macrodactylie congénitale
+Q74.8	hypertrophie congénitale d'un doigt/orteil
+Q74.8	dactylomégalie
+Q74.8	macrodactylie
+Q74.8	oligodactylie
+Q74.8	ankylodactylie congénitale
+Q74.8	adhérence congénitale des doigts/orteils
+Q70.9	syndactylie
+Q70.9	doigts/orteils palmés congénitaux
+Q70.9	polysyndactylie
+Q70.9	symphalangie
+Q74.8	adactylie
+Q74.8	ectrodactylie
+Q74.8	brachydactylie
+Q74.8	microdactylie
+Q74.8	brachymétapodie
+Q74.8	brachyphalangie
+Q74.8	brachymégalodactylie
+Q74.8	symbrachydactylie
+Q74.8	arachnodactylie
+Q74.8	dolichosténomélie
+Q74.8	acromacrie
+Q74.8	malposition congénitale d'un doigt/orteil
+Q74.8	difformité congénitale d'un doigt/orteil
+Q74.8	acheiropodie
+Q74.8	agénésie des mains et des pieds
+Q74.0	anomalie congénitale du membre supérieur
+Q74.0	luxation congénitale du coude
+Q74.0	luxation congénitale de l'épaule
+Q74.0	luxation congénitale de la tête du radius
+Q74.0	ankylose congénitale du coude
+Q74.0	malformation congénitale de la clavicule
+Q74.0	agénésie de la clavicule
+Q74.0	agénésie claviculaire
+Q74.0	absence congénitale de la clavicule
+Q74.0	pseudarthrose congénitale de la clavicule
+Q74.0	formation osseuse incomplète de la clavicule
+Q74.0	ossification incomplète de la clavicule
+Q74.0	absence de formation osseuse de la clavicule
+Q74.0	absence d'ossification de la clavicule
+Q74.0	épaississement congénital de la clavicule
+Q74.0	hypertrophie congénitale de la clavicule
+Q74.0	forme congénitale anormale de la clavicule
+Q74.0	difformité congénitale de la clavicule
+Q74.0	clavicule incurvée
+Q74.0	clavicule anguleuse
+Q74.0	clavicule courbée
+Q74.0	hypoplasie congénitale de la clavicule
+Q74.0	clavicule hypoplasique congénitale
+Q74.0	élévation congénitale de l'omoplate
+Q74.0	maladie de Sprengel
+Q74.0	absence congénitale de l'omoplate
+Q74.0	agénésie de l'omoplate
+Q74.0	formation osseuse incomplète de l'omoplate
+Q74.0	ossification incomplète de l'omoplate
+Q74.0	absence de formation osseuse de l'omoplate
+Q74.0	absence d'ossification de l'omoplate
+Q74.0	forme congénitale anormale de l'omoplate
+Q74.0	difformité congénitale de l'omoplate
+Q74.0	omoplate incurvée
+Q74.0	omoplate courbée
+Q74.0	omoplate anguleuse
+Q74.0	épaississement congénital de l'omoplate
+Q74.0	hypertrophie congénitale de l'omoplate
+Q74.0	synostose radio-cubitale familiale
+Q74.0	difformité de Madelung
+Q74.0	carpocyphose
+Q71.9	raccourcissement du membre supérieur
+Q71.8	ectromélie du membre supérieur
+Q71.8	hémimélie du membre supérieur
+Q71.8	raccourcissement congénital du bras
+Q71.8	déficience transverse du membre supérieur
+Q71.8	hémimélie transverse du membre supérieur
+Q71.0	amélie du membre supérieur
+Q71.0	absence congénitale du membre supérieur
+Q71.0	amputation congénitale du membre supérieur
+Q71.3	absence congénitale de tous les doigts
+Q71.2	absence congénitale de l'avant-bras, de la main et des doigts
+Q71.8	déficience longitudinale du membre supérieur
+Q71.1	phocomélie du membre supérieur
+Q71.1	bras rudimentaire
+Q71.1	phocomélie complète du membre supérieur
+Q71.0	absence congénitale du bras et de l'avant-bras
+Q71.8	absence congénitale partielle du bras et de l'avant-bras
+Q71.8	déficience longitudinale de l'humérus
+Q71.1	absence congénitale de l'humérus
+Q71.1	agénésie de l'humérus
+Q71.1	phocomélie proximale du membre supérieur
+Q71.8	forme congénitale anormale de l'humérus
+Q71.8	difformité congénitale de l'humérus
+Q71.8	humérus incurvé
+Q71.8	humérus anguleux
+Q71.8	humérus courbé
+Q74.0	fusion congénitale anormale de l'humérus
+Q74.0	soudure congénitale anormale de l'humérus
+Q74.0	malposition congénitale de l'humérus
+Q74.0	position congénitale anormale de l'humérus
+Q74.0	formation osseuse incomplète de l'humérus
+Q74.0	ossification incomplète de l'humérus
+Q74.0	absence de formation osseuse de l'humérus
+Q74.0	absence d'ossification de l'humérus
+Q74.0	hypoplasie congénitale de l'humérus
+Q74.0	humérus hypoplasique congénital
+Q74.0	épaississement congénital de l'humérus
+Q74.0	hypertrophie congénitale de l'humérus
+Q71.8	déficience longitudinale du radius et du cubitus
+Q71.1	absence longitudinale du radius et du cubitus
+Q71.1	phocomélie distale du membre supérieur
+Q71.4	déficience longitudinale du radius
+Q71.8	fusion congénitale anormale du radius
+Q71.8	soudure congénitale anormale du radius
+Q71.8	absence congénitale du radius
+Q71.8	hémimélie radiale
+Q71.8	agénésie du radius
+Q71.8	radius incurvé
+Q71.8	radius courbé
+Q71.8	radius anguleux
+Q71.8	malposition congénitale du radius
+Q71.8	position congénitale anormale du radius
+Q71.8	forme congénitale anormale du radius
+Q71.8	difformité congénitale du radius
+Q71.8	hypoplasie congénitale du radius
+Q71.8	radius hypoplasique congénital
+Q71.8	formation osseuse incomplète du radius
+Q71.8	ossification incomplète du radius
+Q71.8	absence de formation osseuse du radius
+Q71.8	absence d'ossification du radius
+Q71.8	épaississement congénital du radius
+Q71.8	hypertrophie congénitale du radius
+Q71.5	déficience longitudinale du cubitus
+Q71.8	absence congénitale du cubitus
+Q71.8	hémimélie cubitale
+Q71.8	agénésie du cubitus
+Q71.8	dimélie du cubitus
+Q71.8	cubitus incurvé
+Q71.8	cubitus courbé
+Q71.8	cubitus anguleux
+Q71.8	fusion congénitale anormale du cubitus
+Q71.8	soudure congénitale anormale du cubitus
+Q71.8	formation osseuse incomplète du cubitus
+Q71.8	ossification incomplète du cubitus
+Q71.8	absence de formation osseuse du cubitus
+Q71.8	absence d'ossification du cubitus
+Q71.8	malposition congénitale du cubitus
+Q71.8	position congénitale anormale du cubitus
+Q71.8	forme congénitale anormale du cubitus
+Q71.8	difformité congénitale du cubitus
+Q71.8	hypoplasie congénitale du cubitus
+Q71.8	cubitus hypoplasique congénital
+Q71.8	épaississement congénital du cubitus
+Q71.8	hypertrophie congénitale du cubitus
+Q74.0	déficience longitudinale d'un os carpien
+Q74.0	déficience longitudinale d'un os du métacarpe
+Q74.0	subluxation congénitale du carpe
+Q74.0	déficience longitudinale des phalanges de la main
+Q71.3	aphalangie complète du membre supérieur
+Q71.3	aphalangie partielle du membre supérieur
+Q71.3	absence congénitale d'un doigt
+Q71.3	brachymétacarpie
+Q71.3	absence congénitale de la main
+Q71.3	agénésie de la main
+Q71.3	acheirie
+Q71.3	acheirie unilatérale
+Q71.3	agénésie unilatérale de la main
+Q71.3	absence congénitale unilatérale de la main
+Q71.3	acheirie bilatérale
+Q71.3	absence congénitale bilatérale des mains
+Q71.3	agénésie bilatérale des mains
+Q74.0	absence congénitale d'un os du carpe
+Q74.0	agénésie d'un os du carpe
+Q74.0	formation osseuse incomplète d'un os du carpe
+Q74.0	ossification incomplète d'un os du carpe
+Q74.0	fusion congénitale anormale d'un os du carpe
+Q74.0	soudure congénitale anormale d'un os du carpe
+Q74.0	absence de formation osseuse d'un os du carpe
+Q74.0	absence d'ossification d'un os du carpe
+Q74.0	forme congénitale anormale d'un os du carpe
+Q74.0	difformité congénitale d'un os du carpe
+Q74.0	malposition congénitale d'un os du carpe
+Q74.0	position congénitale anormale d'un os du carpe
+Q74.0	hypoplasie congénitale d'un os du carpe
+Q74.0	os du carpe hypoplasique congénital
+Q74.0	anomalie congénitale de la main
+Q71.4	main bote
+Q71.4	main bote congénitale
+Q71.4	main acromégalique congénitale
+Q71.4	manus vara
+Q71.4	main bote radiale
+Q71.4	manus valga
+Q71.4	main bote cubitale
+Q71.4	manus cava
+Q71.4	manus extensa
+Q71.4	main fixée en extension
+Q71.4	manus flexa
+Q74.0	main plate
+Q74.0	mains en miroir
+Q74.0	absence congénitale d'un métacarpien
+Q74.0	agénésie d'un métacarpien
+Q74.0	formation osseuse incomplète d'un métacarpien
+Q74.0	ossification incomplète d'un métacarpien
+Q74.0	fusion congénitale anormale d'un métacarpien
+Q74.0	soudure congénitale anormale d'un métacarpien
+Q74.0	absence de formation osseuse d'un métacarpien
+Q74.0	absence d'ossification d'un métacarpien
+Q74.0	forme congénitale anormale d'un métacarpien
+Q74.0	difformité congénitale d'un métacarpien
+Q74.0	malposition congénitale d'un métacarpien
+Q74.0	position congénitale anormale d'un métacarpien
+Q74.0	hypoplasie congénitale d'un métacarpien
+Q74.0	métacarpien hypoplasique congénital
+Q74.0	métacarpien surnuméraire
+Q74.0	métacarpien accessoire
+Q74.0	anomalie congénitale d'un doigt
+Q69.0	polydactylie des doigts
+Q69.0	doigts accessoires
+Q69.9	doigt accessoire
+Q69.9	doigt surnuméraire
+Q69.9	phalange d'un doigt surnuméraire
+Q70.1	syndactylie des doigts
+Q70.1	doigts palmés
+Q74.0	camptodactylie congénitale
+Q74.0	chevauchement des doigts
+Q74.0	doigt rudimentaire
+Q70.0	syndactylie des doigts avec soudure des os
+Q69.1	pouce bifide
+Q74.0	os accessoires du carpe
+Q74.0	os surnuméraire du carpe
+Q74.0	macrodactylie des doigts
+Q71.6	main en pince de homard
+Q74.0	clinodactylie congénitale
+Q74.0	cubitus valgus congénital
+Q74.0	cubitus varus congénital
+Q74.2	anomalie congénitale du membre inférieur
+Q68.8	contractures articulaires généralisées congénitales du membre inférieur
+Q65.8	malformation congénitale d'une articulation de la hanche
+Q65.8	coxa valga congénitale
+Q65.8	coxa vara congénitale
+Q65.8	antéversion congénitale du fémur
+Q74.2	fusion congénitale anormale du fémur
+Q74.2	soudure congénitale anormale du fémur
+Q74.2	malposition congénitale du fémur
+Q74.2	position congénitale anormale du fémur
+Q74.2	forme congénitale anormale du fémur
+Q74.2	difformité congénitale du fémur
+Q74.2	hypoplasie congénitale du fémur
+Q74.2	fémur hypoplasique congénital
+Q74.2	épaississement congénital du fémur
+Q74.2	hypertrophie congénitale du fémur
+Q74.2	formation osseuse incomplète du fémur
+Q74.2	ossification incomplète du fémur
+Q74.2	absence de formation osseuse du fémur
+Q74.2	absence d'ossification du fémur
+Q74.2	fusion congénitale anormale du péroné
+Q74.2	soudure congénitale anormale du péroné
+Q74.2	malposition congénitale du péroné
+Q74.2	position congénitale anormale du péroné
+Q74.2	forme congénitale anormale du péroné
+Q74.2	difformité congénitale du péroné
+Q74.2	hypoplasie congénitale du péroné
+Q74.2	péroné hypoplasique congénital
+Q74.2	épaississement congénital du péroné
+Q74.2	hypertrophie congénitale du péroné
+Q74.2	formation osseuse incomplète du péroné
+Q74.2	ossification incomplète du péroné
+Q74.2	absence de formation osseuse du péroné
+Q74.2	absence d'ossification du péroné
+Q74.2	fusion congénitale anormale du tibia
+Q74.2	soudure congénitale anormale du tibia
+Q74.2	malposition congénitale du tibia
+Q74.2	position congénitale anormale du tibia
+Q74.2	forme congénitale anormale du tibia
+Q74.2	difformité congénitale du tibia
+Q74.2	hypoplasie congénitale du tibia
+Q74.2	tibia hypoplasique congénital
+Q74.2	épaississement congénital du tibia
+Q74.2	hypertrophie congénitale du tibia
+Q74.2	formation osseuse incomplète du tibia
+Q74.2	ossification incomplète du tibia
+Q74.2	absence de formation osseuse du tibia
+Q74.2	absence d'ossification du tibia
+Q72.9	raccourcissement congénital du membre inférieur
+Q72.0	ectromélie du membre inférieur
+Q72.0	hémimélie du membre inférieur
+Q72.8	raccourcissement congénital de la jambe
+Q72.0	déficience transverse du membre inférieur
+Q72.0	hémimélie transverse du membre inférieur
+Q72.0	amélie du membre inférieur
+Q72.0	absence congénitale du membre inférieur
+Q72.0	amputation congénitale du membre inférieur
+Q72.3	absence congénitale de tous les orteils
+Q72.2	absence congénitale de la jambe, du pied et des orteils
+Q72.3	absence congénitale du pied
+Q72.3	agénésie du pied
+Q72.3	apodie (pied)
+Q72.3	absence congénitale unilatérale du pied
+Q72.3	agénésie unilatérale du pied
+Q72.3	absence congénitale bilatérale des pieds
+Q72.3	agénésie bilatérale des pieds
+Q72.8	déficience longitudinale du membre inférieur
+Q72.1	phocomélie du membre inférieur
+Q72.1	jambe rudimentaire
+Q72.1	phocomélie complète du membre inférieur
+Q72.1	absence congénitale de la cuisse et de la jambe
+Q72.1	absence congénitale partielle de la cuisse et de la jambe
+Q72.4	déficience longitudinale du fémur
+Q72.1	absence congénitale du fémur
+Q72.1	agénésie du fémur
+Q72.1	phocomélie proximale du membre inférieur
+Q72.8	déficience longitudinale du tibia et du péroné
+Q72.1	absence congénitale du tibia et du péroné
+Q72.1	phocomélie distale du membre inférieur
+Q72.5	déficience longitudinale du tibia
+Q72.1	absence congénitale du tibia
+Q72.1	hémimélie tibiale
+Q72.1	agénésie du tibia
+Q72.6	déficience longitudinale du péroné
+Q72.1	absence congénitale du péroné
+Q72.1	agénésie du péroné
+Q72.8	déficience longitudinale d'un os du tarse
+Q72.8	déficience longitudinale d'un métatarsien
+Q72.8	déficience longitudinale des phalanges du pied
+Q72.3	aphalangie complète du membre inférieur
+Q72.3	aphalangie partielle du membre inférieur
+Q72.3	absence congénitale d'un orteil
+Q74.2	anomalie congénitale du pied
+Q74.2	malformation congénitale du pied
+Q66.8	pied bot
+Q66.8	pied bot congénital
+Q66.4	malformation congénitale du pied en valgus
+Q66.4	pied bot valgus
+Q66.5	pied plat congénital
+Q66.5	pied plat valgus
+Q66.5	pied plat
+Q66.4	pied bot talus valgus
+Q66.8	pied bot valgus équin
+Q66.5	pied bot plano-valgus
+Q66.7	pied bot creux
+Q66.7	pied creux
+Q66.7	pied creux congénital
+Q66.8	pied bot asymétrique
+Q66.8	pied bot talus
+Q66.8	pied talus
+Q66.8	pied bot équin
+Q74.2	absence congénitale du calcanéum
+Q74.2	agénésie du calcanéum
+Q74.2	fusion congénitale anormale du calcanéum
+Q74.2	soudure congénitale anormale du calcanéum
+Q74.2	malposition congénitale du calcanéum
+Q74.2	position congénitale anormale du calcanéum
+Q74.2	forme congénitale anormale du calcanéum
+Q74.2	difformité congénitale du calcanéum
+Q74.2	hypoplasie congénitale du calcanéum
+Q74.2	calcanéum hypoplasique congénital
+Q74.2	calcanéum surnuméraire
+Q74.2	formation osseuse incomplète du calcanéum
+Q74.2	ossification incomplète du calcanéum
+Q74.2	absence de formation osseuse du calcanéum
+Q74.2	absence d'ossification du calcanéum
+Q66.3	malformation congénitale du pied en varus
+Q66.3	pied bot varus
+Q66.3	pied varus congénital
+Q66.0	pied bot varus équin
+Q66.1	pied bot talus varus
+Q66.2	metatarsus varus
+Q66.3	metatarsus adductus
+Q66.2	metatarsus primus varus
+Q72.8	brachymétatarsie
+Q74.2	synostose astragalo-scaphoïdienne
+Q74.2	barre calcanéo-scaphoïdienne
+Q74.2	coalition calcanéenne
+Q74.2	coalitions tarsionnes
+Q74.2	absence congénitale de l'astragale
+Q74.2	agénésie de l'astragale
+Q74.2	fusion congénitale anormale de l'astragale
+Q74.2	soudure congénitale anormale de l'astragale
+Q74.2	malposition congénitale de l'astragale
+Q74.2	position congénitale anormale de l'astragale
+Q74.2	forme congénitale anormale de l'astragale
+Q74.2	difformité congénitale de l'astragale
+Q74.2	hypoplasie congénitale de l'astragale
+Q74.2	astragale hypoplasique congénital
+Q74.2	épaississement congénital de l'astragale
+Q74.2	hypertrophie congénitale de l'astragale
+Q74.2	formation osseuse incomplète de l'astragale
+Q74.2	ossification incomplète de l'astragale
+Q74.2	absence de formation osseuse de l'astragale
+Q74.2	absence d'ossification de l'astragale
+Q74.2	cuboïde accessoire
+Q74.2	os naviculaire accessoire du pied
+Q74.2	absence congénitale d'un os du tarse
+Q74.2	agénésie d'un os du tarse
+Q74.2	fusion congénitale anormale d'un os du tarse
+Q74.2	soudure congénitale anormale d'un os du tarse
+Q74.2	malposition congénitale d'un os du tarse
+Q74.2	position congénitale anormale d'un os du tarse
+Q74.2	forme congénitale anormale d'un os du tarse
+Q74.2	difformité congénitale d'un os du tarse
+Q74.2	hypoplasie congénitale d'un os du tarse
+Q74.2	os du tarse hypoplasique congénital
+Q74.2	os surnuméraire du tarse
+Q74.2	épaississement congénital d'un os du tarse
+Q74.2	hypertrophie congénitale d'un os du tarse
+Q74.2	formation osseuse incomplète d'un os du tarse
+Q74.2	ossification incomplète d'un os du tarse
+Q74.2	absence de formation osseuse d'un os du tarse
+Q74.2	absence d'ossification d'un os du tarse
+Q74.2	absence congénitale d'un métatarsien
+Q74.2	agénésie d'un métatarsien
+Q74.2	fusion congénitale anormale d'un métatarsien
+Q74.2	soudure congénitale anormale d'un métatarsien
+Q74.2	malposition congénitale d'un métatarsien
+Q74.2	position congénitale anormale d'un métatarsien
+Q74.2	forme congénitale anormale d'un métatarsien
+Q74.2	difformité congénitale d'un métatarsien
+Q74.2	hypoplasie congénitale d'un métatarsien
+Q74.2	métatarsien hypoplasique congénital
+Q74.2	métatarsien surnuméraire
+Q74.2	formation osseuse incomplète d'un métatarsien
+Q74.2	ossification incomplète d'un métatarsien
+Q74.2	absence de formation osseuse d'un métatarsien
+Q74.2	absence d'ossification d'un métatarsien
+Q74.2	anomalie congénitale d'un orteil
+Q74.2	macrodactylie des orteils
+Q66.8	hallux valgus congénital
+Q66.3	hallux varus congénital
+Q66.8	orteil en marteau congénital
+Q66.8	rétraction congénitale en griffe d'un orteil
+Q69.2	polydactylie des orteils
+Q69.2	orteils accessoires
+Q69.2	orteil accessoire
+Q69.2	orteil surnuméraire
+Q69.2	phalange d'un orteil surnuméraire
+Q74.2	chevauchement des orteils
+Q70.3	syndactylie des orteils
+Q70.3	orteils palmés
+Q70.2	syndactylie des orteils avec soudure des os
+Q74.2	pseudarthrose congénitale du tibia
+Q68.4	angulation congénitale du tibia
+Q68.4	tibia courbé
+Q68.4	tibia incurvé
+Q68.4	tibia anguleux
+Q74.2	malformation congénitale d'une articulation de la cheville
+Q65.2	luxation congénitale de la hanche
+Q65.0	luxation congénitale unilatérale de la hanche
+Q65.1	luxation congénitale bilatérale de la hanche
+Q65.5	subluxation congénitale de la hanche
+Q65.3	subluxation congénitale unilatérale de la hanche
+Q65.4	subluxation congénitale bilatérale de la hanche
+Q65.2	luxation congénitale de la hanche avec autre subluxation
+Q68.2	genu recurvatum
+Q68.2	luxation congénitale du genou avec genu recurvatum
+Q68.3	incurvation congénitale du fémur
+Q68.3	fémur incurvé
+Q68.3	fémur courbé
+Q68.3	fémur anguleux
+Q68.4	incurvation congénitale du tibia et du péroné
+Q74.1	rotule bifide
+Q74.1	malformation congénitale d'une articulation du genou
+Q74.1	absence congénitale de la rotule
+Q74.1	genu valgum congénital
+Q74.1	genou cagneux congénital
+Q68.2	luxation congénitale du genou
+Q74.1	genu varum congénital
+Q74.1	membre courbé
+Q74.1	jambe arquée congénitale
+Q74.1	rotule rudimentaire
+Q74.1	ménisque discoïde congénital
+Q74.1	ménisque latéral discoïde congénital
+Q76.4	anomalie congénitale du rachis
+Q76.4	malformation congénitale de la colonne vertébrale
+Q76.4	anomalie congénitale de la colonne vertébrale
+Q76.4	syndrome du dos droit
+Q76.4	cyphose congénitale
+Q76.4	gibbosité congénitale
+Q76.4	lordose posturale congénitale
+Q76.4	ensellure lombaire congénitale
+Q76.4	lordose congénitale
+Q76.3	scoliose posturale congénitale
+Q76.3	scoliose congénitale
+Q76.2	spondylolyse congénitale de la région lombo-sacrée
+Q76.2	préspondylolisthésis lombo-sacré
+Q76.2	spondylolisthésis congénital
+Q76.4	absence congénitale d'une vertèbre
+Q76.4	agénésie d'une vertèbre
+Q76.4	hémivertèbre congénitale
+Q76.4	fusion congénitale anormale de la colonne vertébrale
+Q76.0	spina bifida occulta
+Q76.0	cryptomérorachischisis
+Q76.4	platyspondylie
+Q76.2	spondyloschisis
+Q76.4	vertèbre surnuméraire
+Q76.4	sacralisation d'une vertèbre lombaire
+Q76.4	anomalie de la régression caudale
+Q76.4	malformation congénitale de l'articulation sacro-iliaque
+Q76.4	fusion congénitale anormale de l'articulation sacro-iliaque
+Q76.4	dysplasie occipitale
+Q76.4	anomalie congénitale d'une vertèbre cervicale
+Q76.4	absence congénitale d'une vertèbre cervicale
+Q76.4	agénésie d'une vertèbre cervicale
+Q76.4	hémivertèbre cervicale
+Q76.4	malposition congénitale d'une vertèbre cervicale
+Q76.4	position congénitale anormale d'une vertèbre cervicale
+Q76.4	vertèbre cervicale surnuméraire
+Q76.4	absence congénitale d'un arc vertébral cervical
+Q76.4	agénésie d'un arc vertébral cervical
+Q76.4	absence congénitale d'un arc neural cervical
+Q76.4	fusion congénitale anormale d'un arc vertébral cervical
+Q76.4	soudure congénitale anormale d'un arc vertébral cervical
+Q76.4	malposition congénitale d'un arc vertébral cervical
+Q76.4	position congénitale anormale d'un arc vertébral cervical
+Q76.4	mal-alignement congénital d'un arc vertébral cervical
+Q76.4	mal-alignement congénital d'un arc neural cervical
+Q76.4	forme congénitale anormale d'un arc vertébral cervical
+Q76.4	difformité congénitale d'un arc vertébral cervical
+Q76.4	hypoplasie congénitale d'un arc vertébral cervical
+Q76.4	arc vertébral cervical hypoplasique congénital
+Q76.4	arc vertébral cervical surnuméraire
+Q76.4	arc neural cervical surnuméraire
+Q76.4	formation osseuse incomplète d'un arc vertébral cervical
+Q76.4	ossification incomplète d'un arc neural cervical
+Q76.4	ossification incomplète d'un arc vertébral cervical
+Q76.4	absence de formation osseuse d'un arc vertébral cervical
+Q76.4	absence d'ossification d'un arc vertébral cervical
+Q76.4	absence congénitale de la masse centrale du corps d'une vertèbre cervicale
+Q76.4	agénésie de la masse centrale d'un corps vertébral cervical
+Q76.4	fusion congénitale anormale de la masse centrale du corps d'une vertèbre cervicale
+Q76.4	soudure congénitale anormale de la masse centrale d'un corps vertébral cervical
+Q76.4	fusion congénitale anormale de la masse cartilagineuse centrale du corps d'une vertèbre cervicale
+Q76.4	soudure congénital anormale de la masse cartilagineuse centrale d'un corps vertébral cervical
+Q76.4	mal-alignement congénital de la masse centrale du corps d'une vertèbre cervicale
+Q76.4	mal-alignment congénital de la masse centrale d'un corps vertébral cervical
+Q76.4	masse centrale surnuméraire du corps d'une vertèbre cervicale
+Q76.4	masse centrale surnuméraire d'un corps vertébral cervical
+Q76.4	forme congénitale anormale de la masse centrale du corps d'une vertèbre cervicale
+Q76.4	difformité congénitale de la masse centrale d'un corps vertébral cervical
+Q76.4	masse cartilagineuse centrale fissurée du corps d'une vertèbre cervicale
+Q76.4	masse cartilagineuse centrale bifide du corps d'une vertèbre cervicale
+Q76.4	masse cartilagineuse centrale bipartite du corps d'une vertèbre cervicale
+Q76.4	masse cartilagineuse centrale unilatérale du corps d'une vertèbre cervicale
+Q76.4	masse cartilagineuse centrale unilatérale d'un corps vertébral cervical
+Q76.4	masse cartilagineuse centrale du corps d'une vertèbre cervicale en forme d'haltère
+Q76.4	masse cartilagineuse centrale d'un corps vertébral cervical en forme d'haltère
+Q76.4	masse centrale hémicentrique du corps d'une vertèbre cervicale
+Q76.4	formation osseuse incomplète de la masse centrale du corps d'une vertèbre cervicale
+Q76.4	ossification incomplète de la masse centrale du corps d'une vertèbre cervicale
+Q76.4	absence de formation osseuse de la masse centrale du corps d'une vertèbre cervicale
+Q76.4	absence d'ossification de la masse centrale d'un corps vertébral cervical
+Q76.4	ossification bipartite de la masse centrale du corps d'une vertèbre cervicale
+Q76.4	ossification bipartite de la masse centrale d'un corps vertébral cervical
+Q76.4	ossification bifide de la masse centrale d'un corps vertébral cervical
+Q76.4	ossification en forme d'haltère de la masse centrale du corps d'une vertèbre cervicale
+Q76.4	ossification en forme d'haltère de la masse centrale d'un corps vertébral cervical
+Q76.4	anomalie congénitale d'une vertèbre thoracique
+Q76.4	absence congénitale d'une vertèbre thoracique
+Q76.4	agénésie d'une vertèbre thoracique
+Q76.4	hémivertèbre thoracique
+Q76.4	malposition congénitale d'une vertèbre thoracique
+Q76.4	position congénitale anormale d'une vertèbre thoracique
+Q76.4	vertèbre thoracique surnuméraire
+Q76.4	absence congénitale d'un arc vertébral thoracique
+Q76.4	absence congénitale d'un arc neural thoracique
+Q76.4	agénésie d'un arc vertébral thoracique
+Q76.4	fusion congénitale anormale d'un arc vertébral thoracique
+Q76.4	soudure congénitale anormale d'un arc vertébral thoracique
+Q76.4	malposition congénitale d'un arc vertébral thoracique
+Q76.4	position congénitale anormale d'un arc vertébral thoracique
+Q76.4	mal-alignement congénital d'un arc vertébral thoracique
+Q76.4	mal-alignement congénital d'un arc neural thoracique
+Q76.4	forme congénitale anormale d'un arc vertébral thoracique
+Q76.4	difformité congénitale d'un arc vertébral thoracique
+Q76.4	hypoplasie congénitale d'un arc vertébral thoracique
+Q76.4	arc vertébral thoracique hypoplasique congénital
+Q76.4	arc surnuméraire d'une vertèbre thoracique
+Q76.4	arc vertébral thoracique surnuméraire
+Q76.4	formation osseuse incomplète d'un arc vertébral thoracique
+Q76.4	ossification incomplète d'un arc neural thoracique
+Q76.4	ossification incomplète d'un arc vertébral thoracique
+Q76.4	absence de formation osseuse d'un arc vertébral thoracique
+Q76.4	absence d'ossification d'un arc vertébral thoracique
+Q76.4	absence congénitale de la masse centrale du corps d'une vertèbre thoracique
+Q76.4	absence congénitale de la masse centrale d'un corps vertébral thoracique
+Q76.4	agénésie de la masse centrale d'un corps vertébral thoracique
+Q76.4	fusion congénitale anormale de la masse centrale du corps d'une vertèbre thoracique
+Q76.4	soudure congénitale anormale de la masse centrale d'un corps vertébral thoracique
+Q76.4	fusion congénitale anormale de la masse cartilagineuse centrale du corps d'une vertèbre thoracique
+Q76.4	soudure congénitale anormale de la masse cartilagineuse centrale d'un corps vertébral thoracique
+Q76.4	mal-alignement congénital de la masse centrale du corps d'une vertèbre thoracique
+Q76.4	mal-alignement congénital de la masse centrale d'un corps vertébral thoracique
+Q76.4	masse centrale surnuméraire du corps d'une vertèbre thoracique
+Q76.4	masse centrale surnuméraire d'un corps vertébral thoracique
+Q76.4	forme congénitale anormale de la masse centrale du corps d'une vertèbre thoracique
+Q76.4	difformité congénitale de la masse centrale d'un corps vertébral thoracique
+Q76.4	masse cartilagineuse centrale fissurée du corps d'une vertèbre thoracique
+Q76.4	masse cartilagineuse centrale bipartite du corps d'une vertèbre thoracique
+Q76.4	masse cartilagineuse centrale bifide du corps d'une vertèbre thoracique
+Q76.4	masse cartilagineuse centrale unilatérale du corps d'une vertèbre thoracique
+Q76.4	masse cartilagineuse centrale unilatérale d'un corps vertébral thoracique
+Q76.4	masse cartilagineuse centrale du corps d'une vertèbre thoracique en forme d'haltère
+Q76.4	masse cartilagineuse centrale d'un corps vertébral thoracique en forme d'haltère
+Q76.4	masse centrale hémicentrique du corps d'une vertèbre thoracique
+Q76.4	formation osseuse incomplète de la masse centrale du corps d'une vertèbre thoracique
+Q76.4	ossification incomplète de la masse centrale du corps d'une vertèbre thoracique
+Q76.4	ossification incomplète de la masse centrale d'un corps vertébral thoracique
+Q76.4	absence de formation osseuse de la masse centrale du corps d'une vertèbre thoracique
+Q76.4	absence d'ossification de la masse centrale d'un corps vertébral thoracique
+Q76.4	ossification bipartite de la masse centrale du corps d'une vertèbre thoracique
+Q76.4	ossification bifide de la masse centrale d'un corps vertébral thoracique
+Q76.4	ossification bipartite de la masse centrale d'un corps vertébral thoracique
+Q76.4	ossification en forme d'haltère de la masse centrale du corps d'une vertèbre thoracique
+Q76.4	ossification en forme d'haltère de la masse centrale d'un corps vertébral thoracique
+Q76.4	anomalie congénitale d'une vertèbre lombaire
+Q76.4	absence congénitale d'une vertèbre lombaire
+Q76.4	agénésie d'une vertèbre lombaire
+Q76.4	hémivertèbre lombaire
+Q76.4	malposition congénitale d'une vertèbre lombaire
+Q76.4	position congénitale anormale d'une vertèbre lombaire
+Q76.4	vertèbre lombaire surnuméraire
+Q76.4	absence congénitale d'un arc vertébral lombaire
+Q76.4	absence congénitale d'un arc neural lombaire
+Q76.4	agénésie d'un arc vertébral lombaire
+Q76.4	fusion congénitale anormale d'un arc vertébral lombaire
+Q76.4	soudure congénitale anormale d'un arc vertébral lombaire
+Q76.4	malposition congénitale d'un arc vertébral lombaire
+Q76.4	position congénitale anormale d'un arc vertébral lombaire
+Q76.4	mal-alignement congénital d'un arc vertébral lombaire
+Q76.4	mal-alignement congénital d'un arc neural lombaire
+Q76.4	forme congénitale anormale d'un arc vertébral lombaire
+Q76.4	difformité congénitale d'un arc vertébral lombaire
+Q76.4	hypoplasie congénitale d'un arc vertébral lombaire
+Q76.4	arc vertébral lombaire hypoplasique congénital
+Q76.4	arc surnuméraire d'une vertèbre lombaire
+Q76.4	arc vertébral lombaire surnuméraire
+Q76.4	formation osseuse incomplète d'un arc vertébral lombaire
+Q76.4	ossification incomplète d'un arc vertébral lombaire
+Q76.4	ossification incomplète d'un arc neural lombaire
+Q76.4	absence de formation osseuse d'un arc vertébral lombaire
+Q76.4	absence d'ossification d'un arc vertébral lombaire
+Q76.4	absence congénitale de la masse centrale du corps d'une vertèbre lombaire
+Q76.4	absence congénitale de la masse centrale d'un corps vertébral lombaire
+Q76.4	agénésie de la masse centrale d'un corps vertébral lombaire
+Q76.4	fusion congénitale anormale de la masse centrale du corps d'une vertèbre lombaire
+Q76.4	soudure congénitale anormale de la masse centrale d'un corps vertébral lombaire
+Q76.4	fusion congénitale anormale de la masse cartilagineuse centrale du corps d'une vertèbre lombaire
+Q76.4	soudure congénitale anormale de la masse cartilagineuse centrale d'un corps vertébral lombaire
+Q76.4	mal-alignement congénital de la masse centrale du corps d'une vertèbre lombaire
+Q76.4	mal-alignement congénital de la masse centrale d'un corps vertébral lombaire
+Q76.4	masse centrale surnuméraire du corps d'une vertèbre lombaire
+Q76.4	masse centrale surnuméraire d'un corps vertébral lombaire
+Q76.4	forme congénitale anormale de la masse centrale du corps d'une vertèbre lombaire
+Q76.4	difformité congénitale de la masse centrale d'un corps vertébral lombaire
+Q76.4	masse cartilagineuse centrale fissurée du corps d'une vertèbre lombaire
+Q76.4	masse cartilagineuse centrale bipartite du corps d'une vertèbre lombaire
+Q76.4	masse cartilagineuse centrale bifide du corps d'une vertèbre lombaire
+Q76.4	masse cartilagineuse centrale unilatérale du corps d'une vertèbre lombaire
+Q76.4	masse cartilagineuse centrale unilatérale d'un corps vertébral lombaire
+Q76.4	masse cartilagineuse centrale du corps d'une vertèbre lombaire en forme d'haltère
+Q76.4	masse cartilagineuse centrale d'un corps vertébral lombaire en forme d'haltère
+Q76.4	masse centrale hémicentrique du corps d'une vertèbre lombaire
+Q76.4	formation osseuse incomplète de la masse centrale du corps d'une vertèbre lombaire
+Q76.4	ossification incomplète de la masse centrale d'un corps vertébral lombaire
+Q76.4	ossification incomplète de la masse centrale du corps d'une vertèbre lombaire
+Q76.4	absence de formation osseuse de la masse centrale du corps d'une vertèbre lombaire
+Q76.4	absence d'ossification de la masse centrale d'un corps vertébral lombaire
+Q76.4	ossification bipartite de la masse centrale du corps d'une vertèbre lombaire
+Q76.4	ossification bifide de la masse centrale d'un corps vertébral lombaire
+Q76.4	ossification bipartite de la masse centrale d'un corps vertébral lombaire
+Q76.4	ossification en forme d'haltère de la masse centrale du corps d'une vertèbre lombaire
+Q76.4	ossification en forme d'haltère de la masse centrale d'un corps vertébral lombaire
+Q76.4	anomalie congénitale d'une vertèbre sacrée
+Q76.4	absence congénitale d'une vertèbre sacrée
+Q76.4	agénésie d'une vertèbre sacrée
+Q76.4	hémivertèbre sacrée
+Q76.4	malposition congénitale d'une vertèbre sacrée
+Q76.4	position congénitale anormale d'une vertèbre sacrée
+Q76.4	vertèbre sacrée surnuméraire
+Q76.4	absence congénitale d'un arc vertébral sacré
+Q76.4	agénésie d'un arc vertébral sacré
+Q76.4	absence congénitale d'un arc neural sacré
+Q76.4	fusion congénitale anormale d'un arc vertébral sacré
+Q76.4	soudure congénitale anormale d'un arc vertébral sacré
+Q76.4	malposition congénitale d'un arc vertébral sacré
+Q76.4	position congénitale anormale d'un arc vertébral sacré
+Q76.4	mal-alignement congénital d'un arc vertébral sacré
+Q76.4	mal-alignement congénital d'un arc neural sacré
+Q76.4	forme congénitale anormale d'un arc vertébral sacré
+Q76.4	difformité congénitale d'un arc vertébral sacré
+Q76.4	hypoplasie congénitale d'un arc vertébral sacré
+Q76.4	arc vertébral sacré hypoplasique congénital
+Q76.4	arc surnuméraire d'une vertèbre sacrée
+Q76.4	arc vertébral sacré surnuméraire
+Q76.4	formation osseuse incomplète d'un arc vertébral sacré
+Q76.4	ossification incomplète d'un arc vertébral sacré
+Q76.4	ossification incomplète d'un arc neural sacré
+Q76.4	absence de formation osseuse d'un arc vertébral sacré
+Q76.4	absence d'ossification d'un arc vertébral sacré
+Q76.4	absence congénitale de la masse centrale du corps d'une vertèbre sacrée
+Q76.4	agénésie de la masse centrale d'un corps vertébral sacré
+Q76.4	absence congénitale de la masse centrale d'un corps vertébral sacré
+Q76.4	fusion congénitale anormale de la masse centrale du corps d'une vertèbre sacrée
+Q76.4	soudure congénitale anormale de la masse centrale d'un corps vertébral sacré
+Q76.4	fusion congénitale anormale de la masse cartilagineuse centrale du corps d'une vertèbre sacrée
+Q76.4	soudure congénitale anormale de la masse cartilagineuse centrale d'un corps vertébral sacré
+Q76.4	mal-alignement congénital de la masse centrale du corps d'une vertèbre sacrée
+Q76.4	mal-alignement congénital de la masse centrale d'un corps vertébral sacré
+Q76.4	masse centrale surnuméraire du corps d'une vertèbre sacrée
+Q76.4	masse centrale surnuméraire d'un corps vertébral sacré
+Q76.4	forme congénitale anormale de la masse centrale du corps d'une vertèbre sacrée
+Q76.4	difformité congénitale de la masse centrale d'un corps vertébral sacré
+Q76.4	masse cartilagineuse centrale fissurée du corps d'une vertèbre sacrée
+Q76.4	masse cartilagineuse centrale bipartite du corps d'une vertébre sacrée
+Q76.4	masse cartilagineuse centrale bifide du corps d'une vertèbre sacrée
+Q76.4	masse cartilagineuse centrale unilatérale du corps d'une vertèbre sacrée
+Q76.4	masse cartilagineuse centrale unilatérale d'un corps vertébral sacré
+Q76.4	masse cartilagineuse centrale du corps d'une vertèbre sacrée en forme d'haltère
+Q76.4	masse cartilagineuse centrale d'un corps vertébral sacré en forme d'haltère
+Q76.4	masse centrale hémicentrique du corps d'une vertèbre sacrée
+Q76.4	formation osseuse incomplète de la masse centrale du corps d'une vertèbre sacrée
+Q76.4	ossification incomplète de la masse centrale d'un corps vertébral sacré
+Q76.4	ossification incomplète de la masse centrale du corps d'une vertèbre sacrée
+Q76.4	absence de formation osseuse de la masse centrale du corps d'une vertèbre sacrée
+Q76.4	absence d'ossification de la masse centrale d'un corps vertébral sacré
+Q76.4	ossification bipartite de la masse centrale du corps d'une vertèbre sacrée
+Q76.4	ossification bipartite de la masse centrale d'un corps vertébral sacré
+Q76.4	ossification bifide de la masse centrale d'un corps vertébral sacré
+Q76.4	ossification en forme d'haltère de la masse centrale du corps d'une vertèbre sacrée
+Q76.4	ossification en forme d'haltère de la masse centrale d'un corps vertébral sacré
+Q76.4	anomalie congénitale d'une vertèbre coccygienne
+Q76.4	absence congénitale d'une vertèbre coccygienne
+Q76.4	agénésie d'une vertèbre coccygienne
+Q76.4	hémivertèbre coccygienne
+Q76.4	malposition congénitale d'une vertèbre coccygienne
+Q76.4	position congénitale anormale d'une vertèbre coccygienne
+Q76.4	vertèbre coccygienne surnuméraire
+Q76.4	absence congénitale d'un arc vertébral coccygien
+Q76.4	absence congénitale d'un arc neural coccygien
+Q76.4	agénésie d'un arc vertébral coccygien
+Q76.4	fusion congénitale anormale d'un arc vertébral coccygien
+Q76.4	soudure congénitale anormale d'un arc vertébral coccygien
+Q76.4	malposition congénitale d'un arc vertébral coccygien
+Q76.4	position congénitale anormale d'un arc vertébral coccygien
+Q76.4	mal-alignement congénital d'un arc vertébral coccygien
+Q76.4	mal-alignement congénital d'un arc neural coccygien
+Q76.4	forme congénitale anormale d'un arc vertébral coccygien
+Q76.4	difformité congénitale d'un arc vertébral coccygien
+Q76.4	hypoplasie congénitale d'un arc vertébral coccygien
+Q76.4	arc vertébral coccygien hypoplasique congénital
+Q76.4	formation osseuse incomplète d'un arc vertébral coccygien
+Q76.4	ossification incomplète d'un arc vertébral coccygien
+Q76.4	ossification incomplète d'un arc neural coccygien
+Q76.4	absence de formation osseuse d'un arc vertébral coccygien
+Q76.4	absence d'ossification d'un arc vertébral coccygien
+Q76.4	absence congénitale de la masse centrale du corps d'une vertèbre coccygienne
+Q76.4	absence congénitale de la masse centrale d'un corps vertébral coccygien
+Q76.4	agénésie de la masse centrale d'un corps vertébral coccygien
+Q76.4	fusion congénitale anormale de la masse centrale du corps d'une vertèbre coccygienne
+Q76.4	soudure congénitale anormale de la masse centrale d'un corps vertébral coccygien
+Q76.4	mal-alignement congénital de la masse centrale du corps d'une vertèbre coccygienne
+Q76.4	mal-alignement congénital de la masse centrale d'un corps vertébral coccygien
+Q76.4	forme congénitale anormale de la masse centrale du corps d'une vertèbre coccygienne
+Q76.4	difformité congénitale de la masse centrale d'un corps vertébral coccygien
+Q76.4	masse centrale hémicentrique du corps d'une vertèbre coccygienne
+Q76.4	formation osseuse incomplète de la masse centrale du corps d'une vertèbre coccygienne
+Q76.4	ossification incomplète de la masse centrale d'un corps vertébral coccygien
+Q76.4	ossification incomplète de la masse centrale du corps d'une vertèbre coccygienne
+Q76.4	absence de formation osseuse de la masse centrale du corps d'une vertèbre coccygienne
+Q76.4	absence d'ossification de la masse centrale d'un corps vertébral coccygien
+Q76.4	ossification bipartite de la masse centrale du corps d'une vertèbre coccygienne
+Q76.4	ossification bifide de la masse centrale d'un corps vertébral coccygien
+Q76.4	ossification bipartite de la masse centrale d'un corps vertébral coccygien
+Q76.4	ossification en forme d'haltère de la masse centrale du corps d'une vertèbre coccygienne
+Q76.4	ossification en forme d'haltère de la masse centrale d'un corps vertébral coccygien
+Q67.8	anomalie congénitale du tronc
+Q67.8	tronc anormalement court congénital
+Q67.8	anomalie congénitale de la cage thoracique
+Q76.5	côte cervicale
+Q76.5	côte surnuméraire dans la région cervicale
+Q76.6	absence congénitale d'une côte
+Q76.6	agénésie d'une côte
+Q76.7	absence congénitale du sternum
+Q76.7	fissure congénitale du sternum
+Q76.6	fusion congénitale anormale des côtes
+Q76.6	soudure congénitale anormale des côtes
+Q76.7	sternum bifide
+Q76.7	fissure médiane congénitale du sternum
+Q76.7	sternum bipartite
+Q76.7	sternoschisis
+Q67.8	malformation congénitale de la paroi thoracique
+Q67.8	sténothorax congénital
+Q67.6	pectus excavatum
+Q67.6	thorax en entonnoir congénital
+Q67.7	pectus carinatum
+Q67.7	thorax en bréchet congénital
+Q67.7	thorax en carène congénital
+Q76.6	forme congénitale anormale d'une côte
+Q76.6	difformité congénitale d'une côte
+Q76.6	côte incurvée
+Q76.6	côte anguleuse
+Q76.6	côte courbée
+Q76.6	côte ramifiée
+Q76.6	côte bifurquée
+Q76.6	côte fourchue
+Q76.6	hypertrophie focale congénitale d'une côte
+Q76.6	nodosité costale congénitale
+Q76.6	hypoplasie congénitale d'une côte
+Q76.6	côte hypoplasique congénitale
+Q76.6	épaississement congénital d'une côte
+Q76.6	hypertrophie congénitale d'une côte
+Q76.6	malposition congénitale d'une côte
+Q76.6	position congénitale anormale d'une côte
+Q76.6	mal-alignement congénital d'une côte
+Q76.6	mal-alignement costal congénital
+Q76.6	côte surnuméraire complète
+Q76.6	côte thoraco-lombaire
+Q76.6	côte lombaire
+Q76.6	côte surnuméraire hypoplasique
+Q76.6	côte intercostale
+Q76.6	formation osseuse incomplète d'une côte
+Q76.6	ossification incomplète d'une côte
+Q76.6	absence de formation osseuse d'une côte
+Q76.6	absence d'ossification d'une côte
+Q76.6	côte discontinue
+Q76.6	interruption de l'ossification d'une côte
+Q76.6	anomalie congénitale d'un cartilage costal
+Q76.6	cartilage costal ramifié
+Q76.6	cartilage costal bifurqué
+Q76.6	cartilage costal fourchu
+Q76.6	fusion congénitale anormale d'un cartilage costal
+Q76.6	soudure congénitale anormale d'un cartilage costal
+Q79.8	absence congénitale d'un muscle pectoral
+Q79.1	anomalie congénitale du diaphragme
+Q79.1	absence congénitale du diaphragme
+Q79.1	aplasie du diaphragme
+Q79.0	hernie diaphragmatique congénitale
+Q79.0	hernie congénitale du trou de Morgagni
+Q79.0	hernie congénitale du trou de Bochdalek
+Q79.0	éventration congénitale du diaphragme
+Q79.0	éventration congénitale du pilier droit du diaphragme
+Q79.0	éventration congénitale du pilier gauche du diaphragme
+Q79.5	anomalie congénitale de la paroi abdominale
+Q79.5	absence congénitale d'un muscle abdominal
+Q79.2	exomphale congénitale
+Q79.3	gastroschisis
+Q79.4	syndrome d'aplasie congénitale de la paroi abdominale
+Q79.4	syndrome d'agénésie musculaire abdominale
+Q79.4	syndrome d'Eagle-Barrett
+Q79.5	coeloschisis
+Q79.3	hologastroschisis
+Q79.5	thoracocoeloschisis
+Q79.5	thoracogastroschisis congénital
+Q67.8	thoracoschisis
+Q67.8	schizothorax
+Q76.7	anomalie congénitale d'une sternèbre
+Q76.7	absence congénitale d'une sternèbre
+Q76.7	agénésie d'une sternèbre
+Q76.7	mal-alignement congénital d'une sternèbre
+Q76.7	forme congénitale anormale d'une sternèbre
+Q76.7	difformité congénitale d'une sternèbre
+Q76.7	malposition congénitale d'une sternèbre
+Q76.7	position congénitale anormale d'une sternèbre
+Q76.7	centre d'ossification sternébral accessoire
+Q76.7	fusion congénitale anormale d'une sternèbre surnuméraire
+Q76.7	formation osseuse incomplète d'une sternèbre
+Q76.7	ossification incomplète d'une sternèbre
+Q76.7	absence de formation osseuse d'une sternèbre
+Q76.7	absence d'ossification d'une sternèbre
+Q76.7	ossification bipartite d'une sternèbre
+Q76.7	ossification bifide d'une sternèbre
+Q74.2	anomalie congénitale du bassin
+Q74.2	bassin vicié congénital
+Q74.2	soudure du sacrum
+Q74.2	soudure des apophyses transverses de la cinquième vertèbre lombaire avec le sacrum
+Q74.2	soudure de la dernière vertèbre sacrée à la première pièce coccygienne
+Q74.2	bassin ovale transverse
+Q74.2	bassin rétréci congénital
+Q74.2	bassin cordiforme
+Q74.2	bassin en forme de coeur
+Q74.2	bassin de Robert
+Q74.2	bassin plat
+Q74.2	bassin de Deventer
+Q74.2	bassin ovale
+Q74.2	nanisme pelvien
+Q74.2	bassin justo-major
+Q74.2	bassin géant
+Q74.2	bassin avec disjonction congénitale de la symphyse pubienne
+Q74.2	bassin justo-minor
+Q74.2	bassin juvénile
+Q74.2	bassin infantile
+Q74.2	bassin en entonnoir
+Q74.2	bassin aplati
+Q74.2	bassin de Naegele
+Q74.2	bassin rond
+Q74.2	bassin oblique ovalaire vrai
+Q74.2	bassin réniforme
+Q74.2	bassin en tromblon
+Q74.2	anomalie congénitale des os iliaques
+Q74.2	anomalie congénitale de l'ilion
+Q74.2	absence congénitale de l'ilion
+Q74.2	agénésie de l'ilion
+Q74.2	fusion congénitale anormale de l'ilion
+Q74.2	soudure congénitale anormale de l'ilion
+Q74.2	malposition congénitale de l'ilion
+Q74.2	position congénitale anormale de l'ilion
+Q74.2	hypoplasie congénitale de l'ilion
+Q74.2	ilion hypoplasique congénital
+Q74.2	épaississement congénital de l'ilion
+Q74.2	hypertrophie congénitale de l'ilion
+Q74.2	forme congénitale anormale de l'ilion
+Q74.2	difformité congénitale de l'ilion
+Q74.2	ilion incurvé
+Q74.2	ilion anguleux
+Q74.2	ilion courbé
+Q74.2	formation osseuse incomplète de l'ilion
+Q74.2	ossification incomplète de l'ilion
+Q74.2	absence de formation osseuse de l'ilion
+Q74.2	absence d'ossification de l'ilion
+Q74.2	anomalie congénitale de l'ischion
+Q74.2	absence congénitale de l'ischion
+Q74.2	agénésie de l'ischion
+Q74.2	fusion congénitale anormale de l'ischion
+Q74.2	soudure congénitale anormale de l'ischion
+Q74.2	malposition congénitale de l'ischion
+Q74.2	position congénitale anormale de l'ischion
+Q74.2	hypoplasie congénitale de l'ischion
+Q74.2	ischion hypoplasique congénital
+Q74.2	épaississement congénital de l'ischion
+Q74.2	hypertrophie congénitale de l'ischion
+Q74.2	forme congénitale anormale de l'ischion
+Q74.2	difformité congénitale de l'ischion
+Q74.2	ischion incurvé
+Q74.2	ischion anguleux
+Q74.2	ischion courbé
+Q74.2	formation osseuse incomplète de l'ischion
+Q74.2	ossification incomplète de l'ischion
+Q74.2	absence de formation osseuse de l'ischion
+Q74.2	absence d'ossification de l'ischion
+Q74.2	anomalie congénitale du pubis
+Q74.2	absence congénitale du pubis
+Q74.2	agénésie du pubis
+Q74.2	malposition congénitale du pubis
+Q74.2	position congénitale anormale du pubis
+Q74.2	mal-alignement congénital du pubis
+Q74.2	hypoplasie congénitale du pubis
+Q74.2	pubis hypoplasique congénital
+Q74.2	épaississement congénital du pubis
+Q74.2	hypertrophie congénitale du pubis
+Q74.2	forme congénitale anormale du pubis
+Q74.2	difformité congénitale du pubis
+Q74.2	pubis incurvé
+Q74.2	pubis anguleux
+Q74.2	pubis courbé
+Q74.2	formation osseuse incomplète du pubis
+Q74.2	ossification incomplète du pubis
+Q74.2	absence de formation osseuse du pubis
+Q74.2	absence d'ossification du pubis
+Q34.9	anomalie congénitale de l'appareil respiratoire
+Q34.9	malformation congénitale de l'appareil respiratoire
+Q34.9	anomalie congénitale des voies respiratoires supérieures
+Q34.9	anomalie congénitale des voies respiratoires inférieures
+Q34.9	formation accessoire des voies respiratoires inférieures
+Q30.9	malformation congénitale du nez
+Q30.9	anomalie congénitale du nez
+Q30.8	forme congénitale anormale du nez
+Q30.8	difformité congénitale du nez
+Q30.8	malposition congénitale du nez
+Q30.8	position congénitale anormale du nez
+Q30.8	narine unique
+Q30.8	malposition congénitale des narines
+Q30.8	position congénitale anormale des narines
+Q30.0	atrésie des choanes
+Q30.0	atrésie congénitale des choanes
+Q30.0	atrésie congénitale des narines
+Q30.0	narines imperforées
+Q30.0	sténose congénitale des choanes
+Q30.0	sténose congénitale des narines
+Q30.1	absence congénitale du nez
+Q30.1	arhinie
+Q30.1	hypoplasie congénitale du nez
+Q30.1	nez hypoplasique congénital
+Q30.8	hypertrophie congénitale d'une fosse nasale
+Q30.8	fosse nasale hypertrophique congénitale
+Q30.1	hypoplasie congénitale d'une fosse nasale
+Q30.1	fosse nasale hypoplasique congénitale
+Q30.8	nez accessoire
+Q30.2	fissure congénitale du nez
+Q30.2	échancrure congénitale du bout du nez
+Q67.4	déviation congénitale de la cloison nasale
+Q30.3	perforation congénitale de la cloison nasale
+Q67.4	absence congénitale de la cloison nasale
+Q67.4	nez courbé congénital
+Q67.4	malposition congénitale de la cloison nasale
+Q67.4	position congénitale anormale de la cloison nasale
+Q67.4	hypoplasie congénitale de la cloison nasale
+Q67.4	cloison nasale hypoplasique congénitale
+Q30.8	malformation congénitale des parois des sinus paranasaux
+Q30.8	lacune des parois des sinus paranasaux
+Q30.8	atrésie congénitale du nasopharynx
+Q30.8	atrésie naso-pharyngienne
+Q30.8	hypertrophie congénitale du nasopharynx
+Q30.8	anomalie congénitale d'un cornet du nez
+Q30.8	absence congénitale d'un cornet du nez
+Q30.8	absence congénitale d'un cornet nasal
+Q30.8	malposition congénitale d'un cornet du nez
+Q30.8	position congénitale anormale d'un cornet nasal
+Q30.8	malposition congénitale d'un cornet nasal
+Q30.8	hypoplasie congénitale d'un cornet du nez
+Q30.8	hypoplasie congénitale d'un cornet nasal
+Q30.8	cornet nasal hypoplasique congénital
+Q31.9	anomalie congénitale du larynx
+Q31.9	malformation congénitale du larynx
+Q31.8	palmure congénitale du larynx
+Q31.8	palmure glottique congénitale du larynx
+Q31.8	palmure sous-glottique congénitale du larynx
+Q31.8	absence congénitale du larynx
+Q31.8	agénésie du larynx
+Q31.8	anomalie congénitale du cartilage cricoïde
+Q31.8	anomalie congénitale de l'épiglotte
+Q31.8	anomalie congénitale du cartilage thyroïde
+Q31.8	atrésie congénitale de l'épiglotte
+Q31.8	atrésie congénitale de la glotte
+Q31.8	atrésie congénitale du larynx
+Q31.8	fissure congénitale du cartilage thyroïde
+Q31.8	sténose congénitale du larynx
+Q31.8	fissure congénitale de l'épiglotte
+Q31.3	laryngocèle congénitale
+Q31.3	laryngocèle
+Q31.8	fissure postérieure congénitale du cartilage cricoïde
+Q31.4	stridor laryngé congénital
+Q32.1	anomalie congénitale de la trachée
+Q32.1	malformation congénitale de la trachée
+Q32.1	malposition congénitale de la trachée
+Q32.1	position congénitale anormale de la trachée
+Q32.1	absence congénitale de la trachée
+Q32.1	agénésie de la trachée
+Q32.1	atrésie congénitale de la trachée
+Q32.1	sténose congénitale de la trachée
+Q32.1	rétrécissement congénital de la trachée
+Q32.1	dilatation congénitale de la trachée
+Q32.1	diverticule congénital de la trachée
+Q32.1	trachéocèle congénitale
+Q32.1	bronche trachéal rudimentaire
+Q32.1	trachéo-bronchomégalie congénitale
+Q32.1	trachéo-bronchomégalie
+Q32.1	syndrome de Mounier-Kuhn
+Q32.1	trachée accessoire
+Q32.1	anomalie congénitale d'un cartilage trachéal
+Q32.0	trachéomalacie congénitale
+Q32.4	anomalie congénitale des bronches
+Q32.4	malformation congénitale des bronches
+Q32.4	absence congénitale d'une bronche
+Q32.4	agénésie d'une bronche
+Q32.3	atrésie congénitale d'une bronche
+Q32.4	diverticule congénital d'une bronche
+Q32.4	bronche accessoire
+Q32.2	bronchomalacie congénitale
+Q33.9	anomalie congénitale du poumon
+Q33.9	malformation congénitale du poumon
+Q33.8	anomalie lobaire congénitale du poumon
+Q33.8	malposition congénitale du poumon
+Q33.8	position congénitale anormale du poumon
+Q33.8	forme congénitale anormale du poumon
+Q33.8	difformité congénitale du poumon
+Q33.8	hypertrophie congénitale du poumon
+Q33.8	poumon hypertrophique congénital
+Q33.0	poumon kystique congénital
+Q33.0	maladie kystique congénitale du poumon
+Q33.0	maladie polykystique congénitale du poumon
+Q33.0	poumon en nid d'abeille congénital
+Q33.0	malformation adénomateuse kystique congénitale du poumon
+Q33.3	absence congénitale du poumon
+Q33.3	agénésie du poumon
+Q33.3	aplasie congénitale du poumon
+Q33.3	absence congénitale d'un lobe du poumon
+Q33.8	poumon unilobé
+Q33.6	hypoplasie congénitale du poumon
+Q33.6	poumon hypoplasique congénital
+Q33.6	poumon rudimentaire
+Q33.6	agénésie du poumon droit
+Q33.6	agénésie du poumon gauche
+Q33.2	séquestration pulmonaire congénitale
+Q33.2	séquestration pulmonaire intralobaire
+Q33.2	séquestration pulmonaire extralobaire
+Q33.2	séquestration extrapulmonaire sous-pleurale
+Q33.8	malformation bronchopulmonaire embryonnaire
+Q33.1	poumon accessoire
+Q33.1	lobe accessoire du poumon
+Q33.1	lobe surnuméraire du poumon
+Q33.3	poumon droit bilobé
+Q33.1	poumon gauche trilobé
+Q33.1	lobe azygos du poumon
+Q33.8	surdistension lobaire du poumon infantile
+Q33.8	emphysème pulmonaire congénital
+Q33.8	emphysème lobaire congénital
+Q33.8	atrésie des bronches avec aires d'emphysème pulmonaire
+Q33.4	bronchectasie congénitale
+Q33.6	dysplasie congénitale unilatérale du poumon avec anomalies vasculaires
+Q33.8	lymphangiectasie pulmonaire congénitale
+Q34.0	anomalie congénitale des feuillets de la plèvre
+Q24.8	communication anormale entre le sac péricardique et la plèvre
+Q24.8	anomalie péricardique
+Q24.8	anomalie péricardique congénitale
+Q89.9	kyste congénital du médiastin
+Q28.9	anomalie congénitale de l'appareil circulatoire
+Q28.9	maladie vasculaire congénitale
+Q24.8	anomalie congénitale du péricarde
+Q24.8	communication anormale entre le péricarde et la cavité péritonéale
+Q24.9	maladie congénitale du coeur
+Q24.9	anomalie congénitale du coeur
+Q24.9	maladie cardiaque congénitale sans cyanose
+Q24.9	maladie cardiaque congénitale cyanotique
+Q24.9	anomalies cardiaques multiples
+Q24.9	anomalies cardiaques multiples congénitales
+Q20.3	transposition totale des gros vaisseaux
+Q20.3	transposition artérielle totale
+Q20.2	ventricule gauche à double issue
+Q20.2	origine commune ventriculaire gauche de l'aorte et de l'artère pulmonaire
+Q20.1	ventricule droit à double issue
+Q20.1	origine commune ventriculaire droite de l'aorte et de l'artère pulmonaire
+Q20.1	syndrome de Taussig-Bing
+Q20.1	malformation de Taussig-Bing
+Q20.3	transposition des gros vaisseaux avec communication interventriculaire et aorte à cheval
+Q20.5	transposition corrigée des gros vaisseaux
+Q20.5	transposition des gros vaisseaux avec inversion ventriculaire
+Q24.8	dilatation congénitale de l'oreillette
+Q24.8	ectasie congénitale de l'oreillette
+Q24.8	dilatation congénitale du ventricule cardiaque
+Q24.8	ectasie congénitale du ventricule cardiaque
+Q24.8	hypertrophie congénitale du ventricule cardiaque
+Q24.8	ventricule cardiaque hypertrophique congénital
+Q24.8	hypoplasie congénitale du ventricule cardiaque
+Q24.8	ventricule cardiaque hypoplasique congénital
+Q21.9	anomalie septale congénitale du coeur
+Q21.9	anomalie septale cardiaque congénitale
+Q21.3	tétralogie de Fallot
+Q21.3	communication interventriculaire avec sténose de la valvule pulmonaire, dextroposition de l'aorte et hypertrophie du ventricule droit
+Q21.3	coeur en sabot
+Q20.4	ventricule commun
+Q20.4	ventricule unique
+Q20.4	coeur triloculaire biauriculaire
+Q20.4	absence de septum interventriculaire
+Q20.4	ventricule droit unique
+Q20.4	ventricule gauche unique
+Q21.0	communication interventriculaire
+Q21.0	communication interventriculaire, fermeture orificielle spontanée
+Q21.0	maladie de Roger
+Q21.0	communication interventriculaire congénitale asymptomatique
+Q21.0	communication interventriculaire sous-pulmonaire
+Q21.0	communication interventriculaire du septum membraneux
+Q21.0	communication interventriculaire périmembraneuse
+Q21.0	communication interventriculaire du septum musculaire
+Q21.0	communication interventriculaire musculaire unique
+Q21.0	communications interventriculaires musculaires multiples
+Q21.0	communication interventriculaire réparée
+Q21.8	syndrome d'Eisenmenger
+Q21.8	complexe d'Eisenmenger
+Q20.5	communication entre le ventricule gauche et l'oreillette droite
+Q21.1	syndrome de Lutembacher
+Q21.1	communication interauriculaire et sténose mitrale
+Q21.1	communication interauriculaire de type ostium secundum
+Q21.1	anomalie de type ostium secundum
+Q21.1	anomalie du foramen ovale
+Q21.1	perméabilité de l'ostium secundum
+Q21.1	perméabilité du foramen ovale
+Q21.1	persistance de l'ostium secundum
+Q26.3	communication interauriculaire de type sinus venosus
+Q21.1	communication interauriculaire
+Q21.2	maladie des coussinets endocardiques
+Q21.2	communication interauriculaire et maladie des coussinets endocardiques, forme incomplète
+Q21.2	communication interauriculaire de type ostium primum
+Q21.2	persistance de l'ostium primum
+Q21.1	ostium commune
+Q21.1	absence congénitale du septum interauriculaire
+Q21.1	coeur triloculaire biventriculaire
+Q21.8	fusion congénitale prématurée du foramen ovale
+Q21.1	persistance du canal atrio-ventriculaire commun
+Q21.1	persistance du canal auriculo-ventriculaire commun
+Q21.1	persistance de l'orifice atrio-ventriculaire commun
+Q21.1	communication inter-auriculo-ventriculaire
+Q21.1	persistance de l'ostium commune
+Q21.1	maladie des coussinets endocardiques, forme complète
+Q24.8	coeur biloculaire
+Q24.8	hémicardie
+Q20.0	tronc artériel commun
+Q20.0	truncus arteriosus
+Q20.0	vrai truncus
+Q20.0	truncus arteriosus d'Edwards, type I
+Q20.0	chasse commune, artère pulmonaire et aorte séparés
+Q20.0	truncus arteriosus d'Edwards, type II
+Q20.0	artère pulmonaire principale naissant de l'aorte ascendante
+Q20.0	truncus arteriosus d'Edwards, type III
+Q20.0	truncus arteriosus d'Edwards, type IV
+Q20.0	artère pulmonaire principale naissant de l'aorte descendante
+Q24.8	malformation valvulaire cardiaque
+Q24.8	atrésie congénitale d'une valvule cardiaque
+Q24.8	malposition congénitale d'une valvule cardiaque
+Q24.8	orifice valvulaire cardiaque double
+Q24.8	nombre anormal de valves
+Q24.8	nombre anormal de cuspides
+Q24.8	valvule monocuspide du coeur
+Q23.1	valvule bicuspide du coeur
+Q23.8	valvule quadricuspide du coeur
+Q24.8	myxomatose de la valvule cardiaque
+Q24.8	différenciation incomplète de la valvule cardiaque
+Q24.8	dégénérescence myxomateuse de la valvule cardiaque
+Q24.8	insuffisance valvulaire congénitale
+Q24.8	régurgitation valvulaire congénitale
+Q24.8	insuffisance congénitale d'une valvule cardiaque
+Q24.8	sténose congénitale d'une valvule cardiaque
+Q24.8	fente congénitale d'une valvule cardiaque
+Q24.8	absence congénitale du cordage tendineux
+Q24.8	absence congénitale d'un muscle papillaire
+Q22.3	anomalie de la valvule pulmonaire
+Q22.0	atrésie congénitale de la valvule pulmonaire
+Q22.0	absence congénitale de la valvule pulmonaire
+Q22.3	hypoplasie congénitale de la valvule pulmonaire
+Q22.3	valvule pulmonaire hypoplasique congénitale
+Q22.1	sténose congénitale de la valvule pulmonaire
+Q22.1	sténose valvulaire pulmonaire congénitale
+Q22.1	sténose pulmonaire orificielle et sténose pulmonaire sous-orificielle combinées
+Q22.1	sténose supravalvulaire pulmonaire congénitale
+Q22.3	hypertrophie congénitale de la valvule pulmonaire
+Q22.3	valvule pulmonaire hypertrophique congénitale
+Q22.2	insuffisance congénitale de la valvule pulmonaire
+Q22.2	régurgitaion pulmonaire congénitale
+Q22.3	forme congénitale anormale de la valvule pulmonaire
+Q22.3	difformité congénitale de la valvule pulmonaire
+Q25.6	triade de Fallot
+Q25.6	trilogie de Fallot
+Q22.9	anomalie congénitale de la valvule tricuspide
+Q22.4	atrésie congénitale de la valvule tricuspide
+Q22.4	sténose congénitale de la valvule tricuspide
+Q22.8	hypoplasie congénitale de la valvule tricuspide
+Q22.8	valvule tricuspide hypoplasique congénitale
+Q22.8	fissure congénitale d'une cuspide de la valvule tricuspide
+Q22.8	absence congénitale de la valvule tricuspide
+Q22.5	maladie d'Ebstein
+Q22.5	maladie d'Ebstein avec communication interauriculaire
+Q22.8	insuffisance congénitale de la valvule tricuspide
+Q22.8	régurgitation tricuspide congénitale
+Q22.8	hypertrophie congénitale de la valvule tricuspide
+Q22.8	valvule tricuspide hypertrophique congénitale
+Q22.8	forme congénitale anormale de la valvule tricuspide
+Q22.8	difformité congénitale de la valvule tricuspide
+Q23.9	anomalie congénitale de la valvule aortique
+Q23.9	forme congénitale anormale de la valvule aortique
+Q23.9	difformité congénitale de la valvule aortique
+Q23.8	hypoplasie congénitale de la valvule aortique
+Q23.8	valvule aortique hypoplasique congénitale
+Q23.0	sténose congénitale de la valvule aortique
+Q23.0	sténose aortique congénitale
+Q25.3	sténose aortique supra-valvulaire congénitale
+Q23.8	absence congénitale de la valvule aortique
+Q23.0	atrésie congénitale de la valvule aortique
+Q23.8	valvule aortique double
+Q23.1	valvule aortique bicuspide
+Q23.8	hypertrophie congénitale de la valvule aortique
+Q23.8	valvule aortique hypertrophique congénitale
+Q23.1	insuffisance congénitale de la valvule aortique
+Q23.1	régurgitation aortique congénitale
+Q23.1	insuffisance aortique congénitale
+Q23.9	anomalie congénitale de la valvule mitrale
+Q23.8	absence congénitale de la valvule mitrale
+Q23.8	absence congénitale de la valvule bicuspide
+Q23.2	sténose congénitale de la valvule mitrale
+Q23.2	rétrécissement mitral congénital
+Q23.2	valvule mitrale en parachute
+Q23.2	fissure d'une cuspide de la valvule mitrale
+Q23.8	hypertrophie congénitale de la valvule mitrale
+Q23.8	hypertrophie congénitale de la valvule bicuspide
+Q23.2	atrésie congénitale de la valvule mitrale
+Q23.8	valves surnuméraires de la valvule mitrale
+Q23.8	valvule mitrale double
+Q23.8	fusion des commissures de la valvule mitrale
+Q23.8	hypoplasie congénitale de la valvule mitrale
+Q23.8	hypoplasie congénitale de la valvule bicuspide
+Q23.8	valvule mitrale hypoplasique congénitale
+Q23.8	sténose mitrale supra-valvulaire congénitale
+Q23.3	insuffisance congénitale de la valvule mitrale
+Q23.3	régurgitation mitrale congénitale
+Q23.3	insuffisance mitrale congénitale
+Q23.8	forme congénitale anormale de la valvule mitrale
+Q23.8	difformité congénitale de la valvule mitrale
+Q23.8	difformité congénitale de la valvule bicuspide
+Q23.8	malformation ebsteinoïde de la valvule mitrale
+Q23.4	syndrome d'hypoplasie du coeur gauche
+Q23.4	ventricule gauche rudimentaire
+Q24.2	coeur triatrial
+Q24.2	oreillette accessoire
+Q24.4	sténose aortique sous-valvulaire congénitale
+Q24.4	rétrécissement aortique sous-valvulaire congénital
+Q24.4	hypertrophie sténosante du ventricule gauche
+Q24.4	sténose idiopathique de la chambre de chasse du ventricule gauche
+Q24.4	sténose musculaire du ventricule gauche
+Q24.4	sténose aortique sous-valvulaire congénitale de type membraneuse
+Q24.4	sténose aortique sous-valvulaire congénitale de type canalaire
+Q24.3	sténose de l'infundibulum pulmonaire
+Q24.3	sténose isolée de l'infundibulum pulmonaire
+Q22.6	hypoplasie du coeur droit
+Q24.8	maladie d'Uhl
+Q24.8	hypoplasie congénitale du myocarde du ventricule droit
+Q24.8	dysplasie congénitale du ventricule droit
+Q24.8	ventricule droit papyracé
+Q24.8	bloc congénital du coeur
+Q24.8	bloc atrioventriculaire complet congénital
+Q24.8	BAV total congénital
+Q24.8	bloc atrioventriculaire incomplet congénital
+Q24.8	BAV partiel congénital
+Q24.8	malposition congénitale du coeur
+Q24.8	position congénitale anormale du coeur
+Q24.8	malposition congénitale de la pointe du coeur
+Q24.8	ectopie du coeur
+Q24.8	ectopie cardiaque
+Q24.8	coeur abdominal
+Q24.0	dextrocardie
+Q24.0	dextroversion du coeur
+Q24.0	dextrocardie isolée
+Q24.1	lévocardie
+Q24.1	sinistrocardie
+Q24.1	lévocardie isolée
+Q24.1	sinistrocardie isolée
+Q24.8	mésocardie
+Q24.8	coeur en position médiane
+Q24.8	malrotation congénitale du coeur
+Q24.0	dextrorotation du coeur
+Q27.8	atrésie congénitale de la veine coronaire
+Q27.8	hypoplasie congénitale de la veine coronaire
+Q24.8	réseau de Chiari
+Q24.8	reliquats de valves du sinus veineux
+Q24.8	anomalie des bandelettes auriculaires
+Q21.1	hypertrophie congénitale du sinus coronaire
+Q21.1	absence congénitale du sinus coronaire
+Q24.8	anomalie des faisceaux musculaires du ventricule droit
+Q24.8	anomalie des faisceaux musculaires du ventricule gauche
+Q24.8	anomalie des faisceaux musculaires cardiaques
+Q24.8	cardiomégalie congénitale
+Q24.8	diverticule congénital du ventricule gauche
+Q24.8	rhabdomyome congénital du coeur
+Q24.8	rhabdomyome diffus congénital du coeur
+Q24.8	rhabdomyome diffus du coeur
+Q24.8	fibroélastose endocardique primaire
+Q24.8	fibroélastose endocardique congénitale
+Q24.8	hypoplasie congénitale du coeur
+Q24.8	coeur hypoplasique congénital
+Q24.8	microcardie congénitale
+Q25.4	anomalie congénitale de l'aorte
+Q25.4	anomalie congénitale de la crosse aortique
+Q25.4	absence congénitale du canal artériel
+Q25.0	persistance du canal artériel
+Q25.0	persistance du canal de Botal
+Q25.0	dilatation congénitale du canal artériel
+Q25.0	ectasie congénitale du canal artériel
+Q25.1	coarctation de l'aorte
+Q25.1	coarctation de la crosse aortique en amont du canal artériel
+Q25.1	coarctation de l'aorte de type adulte
+Q25.1	coarctation de la crosse aortique en aval du canal artériel
+Q25.1	coarctation de l'aorte de type infantile
+Q25.4	pseudo-coarctation de l'aorte
+Q25.4	hypoplasie congénitale de la crosse de l'aorte
+Q25.4	hypoplasie tubulaire de la crosse de l'aorte
+Q25.4	hypoplasie congénitale de l'aorte ascendante
+Q25.3	sténose congénitale de la crosse de l'aorte
+Q25.3	rétrécissement congénital de la crosse de l'aorte
+Q25.2	oblitération congénitale de la crosse de l'aorte
+Q25.2	crosse de l'aorte imperforée
+Q25.2	atrésie congénitale de la crosse de l'aorte
+Q25.4	dilatation congénitale de la crosse de l'aorte
+Q25.4	ectasie congénitale de la crosse de l'aorte
+Q25.8	communication inter-aorto-pulmonaire
+Q25.8	fistule aorto-pulmonaire
+Q25.4	malposition congénitale de l'aorte
+Q25.4	position congénitale anormale de l'aorte
+Q20.3	dextroposition de l'aorte
+Q25.4	malposition congénitale du canal artériel
+Q25.4	position congénitale anormale du canal artériel
+Q20.3	dextroposition du canal artériel
+Q20.3	aorte à droite
+Q25.4	crosse aortique rétro-oesophagienne
+Q25.4	double arc aortique
+Q25.4	canal artériel double
+Q25.4	diverticule de Kommerell
+Q25.4	chevauchement aortique
+Q25.4	replis congénitaux persistants de la crosse de l'aorte
+Q25.4	anneau vasculaire aortique
+Q25.2	atrésie congénitale de l'aorte
+Q25.2	aorte imperforée
+Q25.3	sténose congénitale de l'aorte
+Q25.3	rétrécissement congénital de l'aorte
+Q25.4	absence congénitale de l'aorte
+Q25.4	aplasie congénitale de l'aorte
+Q25.4	hypoplasie congénitale de l'aorte
+Q25.4	anévrisme congénital du sinus de Valsalva
+Q25.4	anévrisme congénital de l'aorte
+Q25.4	dilatation congénitale de l'aorte
+Q25.4	tunnel aorto-ventriculaire gauche
+Q25.4	duplication congénitale de l'aorte
+Q25.4	aorte double congénitale
+Q24.5	anomalie congénitale d'une artère coronaire
+Q24.5	anomalie d'origine coronarienne
+Q24.5	communication anormale d'une artère coronaire
+Q24.5	fistule congénitale d'une artère coronaire
+Q24.5	fistule artério-veineuse coronarienne congénitale
+Q24.5	absence congénitale d'une artère coronaire
+Q24.5	anomalie d'origine de la branche circonflexe de l'artère coronaire gauche en provenance de l'artère coronaire droite
+Q24.5	anomalie d'origine d'une artère coronaire née de l'aorte
+Q24.5	anomalie d'origine d'une artère coronaire née de l'artère pulmonaire principale
+Q24.5	artère coronaire unique
+Q24.5	artériosclérose coronarienne congénitale
+Q25.9	anomalie congénitale de l'artère pulmonaire
+Q25.7	agénésie de l'artère pulmonaire
+Q25.7	absence congénitale d'une l'artère pulmonaire
+Q25.7	absence congénitale de l'artère pulmonaire droite
+Q25.7	absence congénitale de l'artère pulmonaire gauche
+Q25.5	atrésie congénitale de l'artère pulmonaire
+Q25.5	artère pulmonaire imperforée
+Q25.6	coarctation de l'artère pulmonaire
+Q25.7	hypoplasie congénitale de l'artère pulmonaire
+Q25.6	sténose congénitale de l'artère pulmonaire
+Q25.6	rétrécissement congénital de l'artère pulmonaire
+Q25.7	dilatation congénitale de l'artère pulmonaire
+Q25.7	ectasie congénitale de l'artère pulmonaire
+Q25.7	anomalie d'origine de l'artère pulmonaire
+Q25.7	tronc artériel pulmonaire à droite
+Q25.7	malposition congénitale de l'artère pulmonaire
+Q25.7	position congénitale anormale de l'artère pulmonaire
+Q25.7	artère pulmonaire rétro-oesophagienne
+Q25.7	anévrisme pulmonaire artério-veineux congénital
+Q25.8	anomalie congénitale des veines pulmonaires
+Q25.8	sténose congénitale des veines pulmonaires
+Q26.4	retour veineux pulmonaire anormal
+Q26.2	retour veineux pulmonaire total anormal
+Q26.2	RVPA total
+Q26.2	retour veineux pulmonaire total anormal sus-diaphragmatique
+Q26.3	retour veineux pulmonaire anormal à l'oreillette droite
+Q26.3	retour veineux pulmonaire anormal au sinus coronaire
+Q26.3	retour veineux pulmonaire anormal à la veine cave supérieure
+Q26.2	retour veineux pulmonaire total anormal sous-diaphragmatique
+Q26.3	retour veineux pulmonaire anormal aux veines sus-hépatiques
+Q26.3	retour veineux pulmonaire anormal à la partie abdominale de la veine cave inférieure
+Q26.3	retour veineux pulmonaire anormal partiel
+Q25.8	transposition des veines pulmonaires
+Q26.8	anomalie congénitale de la veine cave
+Q26.8	absence congénitale de la veine cave
+Q26.0	sténose congénitale de la veine cave
+Q26.8	anomalie congénitale de la veine cave supérieure
+Q26.8	absence congénitale de la veine cave supérieure
+Q26.0	sténose congénitale de la veine cave supérieure
+Q26.0	rétrécissement congénital de la veine cave supérieure
+Q26.0	atrésie congénitale de la veine cave supérieure
+Q26.0	oblitération congénitale de la veine cave supérieure
+Q26.1	persistance de la veine cave supérieure gauche
+Q26.8	syndrome du cimeterre
+Q26.8	dilatation congénitale de la veine cave supérieure
+Q26.8	ectasie congénitale de la veine cave supérieure
+Q26.8	malposition congénitale de la veine cave supérieure
+Q26.8	position congénitale anormale de la veine cave supérieure
+Q26.8	anomalie congénitale de la veine cave inférieure
+Q26.8	absence congénitale de la veine cave inférieure
+Q26.0	sténose congénitale de la veine cave inférieure
+Q26.0	rétrécissement congénital de la veine cave inférieure
+Q26.8	atrésie congénitale de la veine cave inférieure
+Q26.8	oblitération congénitale de la veine cave inférieure
+Q26.8	dilatation congénitale de la veine cave inférieure
+Q26.8	ectasie congénitale de la veine cave inférieure
+Q26.8	malposition congénitale de la veine cave inférieure
+Q26.8	position congénitale anormale de la veine cave inférieure
+Q27.8	anomalie congénitale d'une artère
+Q27.8	malformation artérielle congénitale
+Q27.8	absence congénitale d'une artère
+Q27.8	atrésie congénitale d'une artère
+Q27.8	rétrécissement congénital d'une artère
+Q27.8	angiectopie
+Q27.8	artères ectopiques
+Q27.8	artère double
+Q28.8	anévrisme périphérique congénital
+Q28.8	anévrisme artério-veineux périphérique congénital
+Q28.3	anomalie congénitale de la circulation cérébrale
+Q28.3	anomalie congénitale des vaisseaux cérébraux
+Q28.3	anomalie congénitale d'une artère cérébrale
+Q28.2	anévrisme artério-veineux cérébral congénital
+Q28.2	anévrisme congénital de l'artère communicante antérieure
+Q28.2	anévrisme ampullaire de l'artère communicante antérieure
+Q28.1	anomalie congénitale d'une artère carotide
+Q28.1	absence congénitale d'une artère carotide
+Q28.1	malposition congénitale d'une artère carotide
+Q28.1	position congénitale anormale d'une artère carotide
+Q28.1	artère carotide rétro-oesophagienne
+Q28.1	sténose congénitale d'une artère carotide
+Q28.1	dilatation congénitale d'une artère carotide
+Q27.8	persistance de l'artère omphalo-mésentérique
+Q25.4	anomalie d'origine de l'artère sous-clavière droite
+Q25.4	malposition congénitale de l'artère sous-clavière
+Q25.4	position congénitale anormale de l'artère sous-clavière
+Q25.4	artère sous-clavière rétro-oesophagienne
+Q25.4	anomalie d'origine du tronc artériel brachio-céphalique naissant à gauche de la crosse aortique
+Q27.8	absence congénitale de l'artère sous-clavière
+Q27.8	sténose congénitale de l'artère sous-clavière
+Q27.8	rétrécissement congénital de l'artère sous-clavière
+Q27.8	dilatation congénitale de l'artère sous-clavière
+Q27.8	ectasie congénitale de l'artère sous-clavière
+Q27.8	malposition congénitale du tronc artériel brachiocéphalique
+Q27.8	position congénitale anormale du tronc artériel brachiocéphalique
+Q27.8	tronc artériel brachiocéphalique anormalement court congénital
+Q27.8	sténose congénitale du tronc artériel brachiocéphalique
+Q27.8	rétrécissement congénital du tronc artériel brachiocéphalique
+Q27.8	dilatation congénitale du tronc artériel brachiocéphalique
+Q27.8	longueur congénitale anormale du tronc artériel brachiocéphalique
+Q27.8	tronc artériel brachiocéphalique anormalement long
+Q27.2	artères rénales multiples
+Q26.8	anomalie congénitale d'une veine
+Q26.8	malformation veineuse congénitale
+Q26.8	absence congénitale d'une veine
+Q26.8	atrésie congénitale d'une veine
+Q26.8	phlébectasie congénitale
+Q26.8	varice congénitale
+Q26.8	persistance de la veine cardinale postérieure gauche
+Q26.8	anomalie congénitale de la veine azygos
+Q26.8	absence congénitale de la veine azygos
+Q26.8	transposition congénitale de la veine azygos
+Q26.8	veine azygos surnuméraire
+Q24.8	veine cardinale lévo-atriale
+Q82.9	anomalie congénitale du tégument
+Q82.9	malformation congénitale du tégument
+Q82.9	anomalie congénitale de la peau
+Q82.9	anomalie congénitale cutanée
+Q82.9	génodermatose
+Q82.8	anomalie des dermatoglyphes
+Q82.8	anomalie des plis plantaires
+Q82.8	syndrome des plis palmaires
+Q82.8	pli simien
+Q82.8	sinus dermique congénital
+Q80.9	ichtyose congénitale de la peau
+Q80.9	ichthyose
+Q80.9	ichtyose
+Q80.9	ichtyose congénitale
+Q80.9	ichthyose congénitale
+Q80.8	érythrodermie ichtyosiforme congénitale dominante
+Q80.8	hyperkératose ichtyosiforme bulleuse congénitale
+Q80.8	érythrodermie ichtyosiforme bulleuse congénitale
+Q80.8	hyperkératose ichtyosiforme dominante
+Q80.1	ichtyose liée au sexe
+Q80.2	érythrodermie ichtyosiforme congénitale à transmission récessive autosomique
+Q80.2	desquamation lamelleuse du nouveau-né
+Q80.2	érythrodermie ichtyosiforme non bulleuse congénitale
+Q80.8	érythrokératodermie, trichorrhexie noueuse et dermatite atopique
+Q80.8	syndrome de Netherton
+Q80.8	érythrokératodermie variable de Mendes Da Costa
+Q80.8	ichtyose linéaire circonflexe
+Q80.8	aplasie ectodermique congénitale
+Q80.8	dysplasie ectodermique congénitale
+Q82.8	kératodermie congénitale
+Q82.8	acrokérato-élastoïdose
+Q82.8	plaques collagènes des mains et des pieds
+Q82.8	kératose palmo-plantaire
+Q82.8	kératodermie symétrique des extrémités
+Q82.8	kératodermie palmo-plantaire
+Q82.8	kératodermie palmo-plantaire diffuse
+Q82.8	kératodermie de type Thost-Unna
+Q82.8	kératodermie ponctuée
+Q82.8	kératose papuleuse
+Q82.8	kératodermie papuleuse
+Q82.8	kératose ponctuée
+Q82.8	kératodermie mutilante
+Q82.8	syndrome de Papillon-Lefèvre
+Q82.8	desmodontose juvénile avec hyperkératose
+Q82.8	syndrome d'Howel-Evans
+Q82.8	kératodermie palmo-plantaire diffuse avec cancer de l'oesophage
+Q82.8	dyskératose congénitale
+Q82.8	syndrome de Zinsser-Engman-Cole
+Q82.8	dyskératose intra-épithéliale héréditaire bénigne
+Q82.8	maladie de Witkop-von Sallmann
+Q82.8	syndrome de Witkop-von Sallmann
+Q82.8	porokératose papillomateuse de type Mantoux
+Q82.8	sébocystomatose
+Q82.8	naevus kystiques pilosébacés disséminés
+Q82.8	maladie polykystique épidermique héréditaire
+Q82.8	hyperkératose figurée centrifuge atrophiante
+Q82.8	porokératose
+Q82.8	porokératose caractérisée par des plaques
+Q82.8	porokératose de type disséminé superficiel
+Q82.8	porokératose de type linéaire unilatéral
+Q82.8	porokératose actinique superficielle disséminée
+Q82.8	dyskératose folliculaire
+Q82.8	ichtyose sébacée
+Q82.8	maladie de Darier
+Q82.8	psorospermose folliculaire végétante
+Q82.8	ichtyose folliculaire
+Q82.8	acrokératose verruciforme
+Q82.8	acrokératose verruciforme de Hopf
+Q82.8	pemphigus chronique bénin familial
+Q82.8	maladie de Hailey-Hailey
+Q82.8	épidermodysplasie verruciforme de Lewandowsky-Lutz
+Q82.8	syndrome de Lewandowsky-Lutz
+Q82.5	hamartome vasculaire de la peau
+Q82.5	naevus cutané
+Q82.5	naevus
+Q82.5	tache de vin cutanée
+Q82.5	naevus flammeus
+Q82.5	angiome plan
+Q82.5	angiome simple cutané
+Q82.5	envie
+Q82.5	angiome cutané caverneux
+Q82.5	angiome tubéreux
+Q82.5	angiomatose cutanée congénitale
+Q82.5	naevus conjonctif
+Q82.5	hamartome fibreux du nourrisson
+Q82.5	naevus lipomateux cutané superficiel
+Q82.5	syndrome d'Hoffmann-Zurhelle
+Q82.5	anomalie congénitale pigmentaire de la peau
+Q82.5	mélanose congénitale
+Q82.5	hypopigmentation congénitale de la peau
+Q82.5	naevus anémique
+Q82.5	naevus pigmentaire commun congénital
+Q82.5	mélanome bénin congénital
+Q82.5	naevus mélanique congénital
+Q82.5	tache bleue sacrée
+Q82.5	tache mongolique
+Q82.5	naevus d'Ito
+Q82.5	naevus fusco-caeruleus acromio-deltoideus
+Q82.5	naevus d'Ota
+Q82.5	naevus fusco-caeruleus opthtalmo-maxillaris
+Q82.5	syndrome d'Ota
+Q82.5	naevus comédonien
+Q82.8	acrochordon congénital
+Q82.8	cicatrice congénitale
+Q84.1	anomalie congénitale des cheveux
+Q84.0	alopécie congénitale
+Q84.0	psilose congénitale
+Q84.0	atrichie congénitale
+Q84.1	hypotrichose congénitale
+Q84.2	hypertrichose congénitale
+Q84.2	polytrichie congénitale
+Q84.2	persistance du lanugo
+Q84.2	monilethrix
+Q84.2	syndrome de Sabouraud
+Q84.2	cheveux en bayonnette
+Q84.6	anomalie congénitale des ongles
+Q84.3	anonychie
+Q84.6	hippocratisme unguéal
+Q84.6	koïlonychie congénitale
+Q84.4	leuconychie congénitale
+Q84.5	onychose congénitale
+Q84.6	fibrome sous-unguéal
+Q84.6	ongle bifide
+Q87.8	syndrome de leuconychie, surdité et hélodermie
+Q87.8	syndrome de Bart-Pumphrey
+Q87.8	syndrome d'onychodystrophie-surdité de Robinson
+Q87.8	dysplasie ectodermique de type Robinson
+Q87.8	syndrome de surdité et de pili torti
+Q87.8	syndrome de Björnstad
+Q82.9	anomalie congénitale des tissus sous-cutanés
+Q82.0	oedème héréditaire des jambes
+Q82.0	dystrophie oedémateuse
+Q82.0	lymphoedème congénital
+Q82.0	trophoedème héréditaire
+Q82.0	maladie de Milroy
+Q82.0	lymphoedème héréditaire
+Q38.6	maladie de Fordyce
+Q38.6	glandes sébacées ectopiques
+Q38.6	grains de Fordyce
+Q83.9	anomalie congénitale du sein
+Q83.9	malformation congénitale du sein
+Q83.0	absence congénitale du sein
+Q83.2	absence congénitale du mamelon
+Q83.2	athélie
+Q83.1	sein accessoire
+Q83.1	sein surnuméraire
+Q83.1	polymastie
+Q83.3	mamelon accessoire
+Q83.3	mamelon surnuméraire
+Q83.3	hyperthélie
+Q83.3	polythélie
+Q83.8	tissu mammaire ectopique
+Q83.8	tissus mammaires hétérotropes
+Q83.8	hypoplasie congénitale du sein
+Q83.8	inversion congénitale du mamelon
+Q45.9	anomalie congénitale de l'appareil digestif
+Q45.9	malformation congénitale de l'appareil digestif
+Q45.8	absence congénitale du tube digestif
+Q45.8	absence congénitale partielle du tube digestif
+Q45.8	duplication congénitale des organes digestifs
+Q45.8	malposition congénitale des organes digestifs
+Q45.9	anomalie congénitale du tube digestif
+Q45.9	malformation congénitale du tube digestif
+Q40.9	anomalie congénitale de la partie supérieure du tube digestif
+Q40.9	malformation congénitale de la partie supérieure du tube digestif
+Q45.8	malformation artério-veineuse du tube digestif
+Q45.8	atrésies gastro-intestinales multiples
+Q38.6	anomalie congénitale de la muqueuse buccale
+Q38.6	malformation congénitale de la muqueuse orale
+Q75.9	absence congénitale de la mâchoire
+Q75.9	progénie
+Q38.5	palais ogival
+Q75.9	absence congénitale de la mandibule
+Q75.9	agénésie de la mandibule
+Q75.9	fusion congénitale anormale de la mandibule
+Q75.9	soudure congénitale anormale de la mandibule
+Q75.9	forme congénitale anormale de la mandibule
+Q75.9	difformité congénitale de la mandibule
+Q75.9	formation osseuse incomplète de la mandibule
+Q75.9	ossification incomplète de la mandibule
+Q75.9	absence de formation osseuse de la mandibule
+Q75.9	absence d'ossification de la mandibule
+Q75.9	absence congénitale du maxillaire supérieur
+Q75.9	agénésie du maxillaire supérieur
+Q75.9	fusion congénitale anormale du maxillaire supérieur
+Q75.9	soudure congénitale anormale du maxillaire supérieur
+Q75.9	forme congénitale anormale du maxillaire supérieur
+Q75.9	difformité congénitale du maxillaire supérieur
+Q75.9	formation osseuse incomplète du maxillaire supérieur
+Q75.9	ossification incomplète du maxillaire supérieur
+Q75.9	absence de formation osseuse du maxillaire supérieur
+Q75.9	absence d'ossification du maxillaire supérieur
+Q35.9	fissure palatine
+Q35.9	uranoschisis
+Q35.9	fissure palatine unilatérale complète
+Q35.9	fissure palatine unilatérale incomplète
+Q35.9	urano-staphyloschisis
+Q35.5	fente congénitale de la voûte et du voile du palais
+Q35.9	fissure palatine bilatérale complète
+Q35.9	fissure palatine bilatérale incomplète
+Q75.9	hypoplasie congénitale du palais dur
+Q35.1	fissure sous-muqueuse du palais dur
+Q35.5	fente congénitale du palais primaire
+Q35.5	fente congénitale unilatérale du palais primaire
+Q35.5	fente congénitale bilatérale du palais primaire
+Q75.9	fissure congénitale de la mandibule
+Q75.9	fissure mandibulaire congénitale
+Q36.9	bec-de-lièvre
+Q36.9	cheilodysraphie
+Q36.9	fissure congénitale de la lèvre
+Q36.9	labium leporinum
+Q36.9	bec-de-lièvre unilatéral complet
+Q36.9	bec-de-lièvre unilatéral incomplet
+Q36.0	bec-de-lièvre bilatéral complet
+Q36.0	bec-de-lièvre bilatéral incomplet
+Q38.0	anomalie congénitale de la lèvre
+Q38.0	malformation labiale congénitale
+Q37.9	fissure palatine avec bec-de-lièvre
+Q37.9	fissure palatine unilatérale complète avec bec-de-lièvre
+Q37.9	fissure palatine unilatérale incomplète avec bec-de-lièvre
+Q37.8	fissure palatine bilatérale complète avec bec-de-lièvre
+Q37.8	fissure palatine bilatérale incomplète avec bec-de-lièvre
+Q18.9	fissure faciale congénitale
+Q18.9	prosoposchisis
+Q18.9	cheilognathoschisis
+Q18.9	bec-de-lièvre et fissure de la mâchoire
+Q37.9	cheilo-gnatho-palatoschisis
+Q37.9	bec-de-lièvre et fissure palatine
+Q37.9	fissure de la lèvre supérieure, de la mâchoire supérieure et du palais
+Q37.9	cheilognathoprosoposchisis
+Q37.9	fissure faciale oblique de la lèvre supérieure et de la mâchoire supérieure
+Q36.9	fistule congénitale de la lèvre
+Q36.9	dépressions congénitales de la lèvre
+Q38.0	puits commissuraux congénitaux
+Q38.6	hyperplasie congénitale des glandes sébacées de la lèvre
+Q18.6	macrochéilie congénitale
+Q18.6	hypertrophie congénitale des lèvres
+Q18.7	microchéilie congénitale
+Q18.8	synchéilie
+Q38.0	insertion aberrante du frein de la lèvre
+Q38.0	traction aberrante du frein de la lèvre
+Q38.6	forme congénitale anormale des crêtes palatines
+Q38.6	difformité congénitale des crêtes palatines
+Q38.6	malposition congénitale des crêtes palatines
+Q38.6	position congénitale anormale des crêtes palatines
+Q38.6	mal-alignement congénital des crêtes palatines
+Q38.3	anomalie congénitale de la langue
+Q38.1	ankyloglosse
+Q38.1	ankyloglossie
+Q38.3	aglossie
+Q38.3	absence congénitale de la langue
+Q38.1	adhérence congénitale de la langue
+Q38.3	fissure linguale congénitale
+Q38.3	langue bifide
+Q38.3	glossoschisis
+Q38.3	bifidité linguale
+Q38.3	langue trifide
+Q38.3	insertion aberrante du frein de la langue
+Q38.3	traction aberrante du frein de la langue
+Q38.3	protrusion congénitale de la langue
+Q38.2	macroglossie
+Q38.2	hypertrophie congénitale de la langue
+Q38.3	microglossie
+Q38.3	hypoplasie congénitale de la langue
+Q38.4	anomalie congénitale des glandes salivaires
+Q38.4	absence congénitale des glandes salivaires
+Q38.4	glande salivaire accessoire
+Q38.4	glande parotide accessoire
+Q38.4	atrésie d'un canal salivaire
+Q38.4	canal salivaire imperforé
+Q38.4	tissu parotidien ectopique
+Q38.4	fistule congénitale d'une glande salivaire
+Q38.8	anomalie congénitale du pharynx
+Q38.5	anomalie congénitale de la luette
+Q38.5	malformation congénitale de la luette
+Q38.5	absence congénitale de la luette
+Q35.7	bifidité de la luette
+Q35.7	luette bifide
+Q38.7	diverticule congénital du pharynx
+Q38.7	diverticule pharyngé
+Q38.8	atrésie congénitale du pharynx
+Q38.8	pharynx imperforé
+Q39.9	anomalie congénitale de l'oesophage
+Q39.9	anomalie oesophagienne congénitale
+Q39.8	absence congénitale de l'oesophage
+Q39.8	agénésie de l'oesophage
+Q39.8	agénésie oesophagienne
+Q39.8	absence oesophagienne congénitale
+Q39.0	atrésie congénitale de l'oesophage
+Q39.0	atrésie de l'oesophage
+Q39.0	atrésie oesophagienne
+Q39.0	atrésie oesophagienne congénitale
+Q39.0	imperforation oesophagienne
+Q39.0	oesophage imperforé
+Q39.3	sténose congénitale de l'oesophage
+Q39.3	sténose oesophagienne congénitale
+Q39.3	anneau congénital de l'oesophage
+Q39.3	rétrécissement oesophagien congénital
+Q39.3	anneau oesophagien congénital
+Q39.3	rétrécissement congénital de l'oesophage
+Q39.8	palmure congénitale de l'oesophage
+Q39.8	oesophage membraneux congénital
+Q39.5	dilatation congénitale de l'oesophage
+Q39.5	dilatation oesophagienne congénitale
+Q39.8	déplacement congénital de l'oesophage
+Q39.8	position congénitale anormale de l'oesophage
+Q39.8	malposition congénitale de l'oesophage
+Q39.8	déplacement oesophagien congénital
+Q39.6	diverticule congénital de l'oesophage
+Q39.6	diverticule oesophagien congénital
+Q39.6	diverticule oesophagien
+Q39.8	kyste congénital de l'oesophage
+Q39.8	kyste oesophagien congénital
+Q39.8	duplication congénitale de l'oesophage
+Q39.8	duplication oesophagienne congénitale
+Q39.8	méga-oesophage
+Q39.2	fistule broncho-oesophagienne congénitale
+Q39.2	fistule trachéo-oesophagienne congénitale
+Q39.2	fistule trachéo-oesophagienne congénitale de type H
+Q39.8	compression vasculaire de l'oesophage par aberration artérielle
+Q39.8	compression vasculaire de l'oesophage par aberration de l'artère sous-clavière droite née de l'aorte descendante
+Q40.3	anomalie congénitale de l'estomac
+Q40.2	absence congénitale de l'estomac
+Q40.2	agastrie
+Q40.2	agénésie de l'estomac
+Q40.2	dilatation congénitale de l'estomac
+Q40.2	distension congénitale de l'estomac
+Q40.1	hernie hiatale congénitale
+Q40.1	déplacement congénital du cardia à travers le hiatus oesophagien
+Q40.1	glissement congénital du cardia à travers le hiatus oesophagien
+Q40.2	cardiospasme congénital
+Q40.2	atrésie gastrique
+Q40.2	atrésie congénitale de l'estomac
+Q40.2	atrétogastrie
+Q40.2	estomac imperforé
+Q40.2	sténose congénitale de l'estomac
+Q40.2	rétrécissement congénital de l'estomac
+Q40.2	estomac en sablier congénital
+Q40.2	déplacement congénital de l'estomac
+Q40.2	malposition congénitale de l'estomac
+Q40.2	position congénitale anormale de l'estomac
+Q40.2	ptose congénitale de l'estomac
+Q40.2	gastroptose congénitale
+Q40.2	diverticule congénital de l'estomac
+Q40.2	duplication congénitale de l'estomac
+Q40.2	mégagastrie congénitale
+Q40.2	gastromégalie congénitale
+Q40.2	estomac dilaté congénital
+Q40.2	microgastrie congénitale
+Q40.2	estomac hypoplasique congénital
+Q40.2	hypoplasie gastrique congénitale
+Q40.2	perforation gastrique congénitale
+Q40.2	perforation gastrique néonatale
+Q40.2	transposition congénitale de l'estomac
+Q40.2	dextrogastrie
+Q40.2	tissu gastrique ectopique
+Q40.2	hétérotopie gastrique
+Q40.2	tissu pancréatique ectopique dans l'estomac
+Q40.2	résidus pancréatiques dans l'estomac
+Q40.2	adénome de la glande de Brunner
+Q40.2	hétérotopie de la glande de Brunner dans l'estomac
+Q40.2	volvulus congénital de l'estomac
+Q40.2	volvulus organoaxial congénital de l'estomac
+Q40.2	volvulus mésentéroaxial congénital de l'estomac
+Q40.0	atrésie du pylore
+Q40.0	atrésie pylorique antrale
+Q40.0	sténose hypertrophique pylorique congénitale
+Q40.0	rétrécissement congénital du pylore
+Q40.0	rétrécissement pylorique congénital
+Q40.0	sténose congénitale du pylore
+Q40.0	spasme congénital du pylore
+Q40.0	hypertrophie congénitale du pylore
+Q40.0	cloisonnement congénital du pylore
+Q40.0	cloisonnement pylorique antral congénital
+Q40.0	septum prépylorique
+Q43.9	anomalie congénitale du tube digestif inférieur
+Q43.9	malformation congénitale du tube digestif inférieur
+Q43.3	malrotation congénitale de l'intestin
+Q43.3	anomalie de fixation congénitale de l'intestin
+Q43.4	duplication congénitale de l'intestin
+Q43.4	duplication tubulaire intestinale longue
+Q43.8	transposition de l'intestin
+Q43.8	transposition intestinale
+Q43.8	muqueuse intestinale ectopique
+Q41.9	absence congénitale de l'intestin
+Q41.9	agénésie de l'intestin
+Q41.9	atrésie congénitale de l'intestin
+Q41.9	imperforation de l'intestin
+Q41.9	hypoplasie congénitale de l'intestin
+Q41.9	intestin hypoplasique congénital
+Q41.9	intestin rudimentaire
+Q41.9	sténose congénitale de l'intestin
+Q41.9	rétrécissement congénital de l'intestin
+Q43.8	diverticule congénital de l'intestin
+Q43.8	fistule congénitale de l'intestin
+Q43.8	dilatation congénitale de l'intestin
+Q43.8	entéromégalie congénitale
+Q43.8	ectasie congénitale de l'intestin
+Q43.3	malposition congénitale de l'intestin
+Q43.3	position congénitale anormale de l'intestin
+Q43.9	anomalie congénitale de l'intestin grêle
+Q41.9	absence congénitale de l'intestin grêle
+Q41.9	obstruction congénitale de l'intestin grêle
+Q41.9	atrésie congénitale de l'intestin grêle
+Q41.9	sténose congénitale de l'intestin grêle
+Q41.9	rétrécissement congénital de l'intestin grêle
+Q41.0	atrésie congénitale du duodénum
+Q41.0	atrésie duodénale
+Q41.1	atrésie congénitale du jéjunum
+Q41.1	atrésie jéjunale
+Q41.1	imperforation du jéjunum
+Q41.2	atrésie congénitale de l'iléon
+Q41.2	atrésie iléale
+Q43.8	mégaloduodénum
+Q43.8	mégaduodénum
+Q79.2	omphalocèle congénitale
+Q79.2	hernie ombilicale congénitale
+Q79.2	omphalocèle avec occlusion
+Q79.2	omphalocèle incarcérée
+Q79.2	omphalocèle irréductible
+Q79.2	omphalocèle étranglée
+Q79.2	omphalocèle gangréneuse
+Q43.0	kyste du canal omphalo-mésentérique
+Q43.0	kyste du canal vitellin
+Q43.0	diverticule de Meckel
+Q43.0	persistance du canal omphalo-mésentérique
+Q43.0	persistance du canal vitellin
+Q41.0	obstruction congénitale du duodénum
+Q41.0	obstruction congénitale complète du duodénum
+Q41.0	obstruction congénitale partielle du duodénum
+Q41.0	obstruction duodénale congénitale due à une malrotation intestinale
+Q41.0	syndrome de Ladd
+Q41.0	obstruction duodénale congénitale due à un pancréas annulaire
+Q41.0	sténose congénitale du duodénum
+Q43.4	duplication du duodénum
+Q42.9	anomalie congénitale du gros intestin
+Q42.9	absence congénitale du gros intestin
+Q42.9	atrésie congénitale du côlon
+Q42.9	obstruction congénitale du gros intestin
+Q43.3	malrotation du caecum
+Q43.3	malrotation caecale
+Q43.3	caecum flottant
+Q43.3	rotation incomplète du caecum
+Q43.3	rotation caecale incomplète
+Q43.3	rotation incomplète du côlon
+Q43.3	malrotation du côlon
+Q43.8	diverticule congénital du côlon
+Q43.8	dolichocôlon
+Q43.8	duplication congénitale du caecum
+Q43.8	duplication caecale congénitale
+Q43.8	microcôlon
+Q43.8	transposition du côlon
+Q43.4	duplication congénitale du côlon
+Q42.8	anomalie congénitale de l'appendice
+Q42.8	absence congénitale de l'appendice
+Q43.4	duplication congénitale de l'appendice
+Q42.8	méga-appendice
+Q42.8	transposition de l'appendice
+Q43.1	maladie de Hirschsprung
+Q43.1	aganglionose du côlon
+Q43.1	mégacôlon congénital
+Q43.1	macrocôlon
+Q43.1	aganglionose du plexus d'Auerbach
+Q43.2	dilatation congénitale du côlon
+Q43.8	anomalie congénitale du rectum
+Q42.1	absence congénitale du rectum
+Q42.1	atrésie congénitale du rectum
+Q42.1	atrésie rectale
+Q42.1	imperforation du rectum
+Q42.1	prolapsus rectal congénital
+Q42.1	rétrécissement congénital du rectum
+Q43.8	anomalie ano-rectale
+Q43.6	fistule périnéo-anale congénitale
+Q64.7	fistule urétro-anale congénitale
+Q64.7	fistule recto-urétrale congénitale
+Q64.7	fistule recto-vésicale congénitale
+Q52.2	fistule recto-vestibulaire congénitale
+Q52.2	fistule recto-vaginale congénitale
+Q43.6	fistule recto-cloacale congénitale
+Q42.3	agénésie ano-rectale
+Q43.7	persistance du cloaque
+Q43.8	anomalie congénitale de l'anus
+Q42.3	absence congénitale de l'anus
+Q42.3	atrésie congénitale de l'anus
+Q42.3	aproctie
+Q42.3	imperforation de l'anus
+Q42.3	atrésie anale
+Q42.3	anus hypoplasique congénital
+Q42.3	occlusion congénitale de l'anus
+Q42.3	rétrécissement congénital de l'anus
+Q42.3	sténose anale
+Q42.4	duplication congénitale de l'anus
+Q43.5	ectopie de l'anus
+Q43.3	adhérences congénitales de l'épiploon
+Q43.3	adhérences congénitales du péritoine
+Q43.3	membrane de Jackson
+Q43.3	mesenterium commune
+Q43.3	mésentère commun persistant
+Q43.3	kyste péritonéal
+Q43.3	kyste mésentérique
+Q43.3	kyste épiploïque
+Q44.5	anomalie congénitale des canaux biliaires
+Q44.5	malformation biliaire
+Q44.2	atrésie biliaire congénitale
+Q44.2	atrésie biliaire
+Q44.2	atrésie congénitale des canaux biliaires extra-hépatiques
+Q44.0	absence congénitale des canaux biliaires
+Q44.0	agénésie des canaux biliaires
+Q44.0	hypoplasie congénitale des canaux biliaires
+Q44.0	voies biliaires hypoplasiques congénitales
+Q44.7	hyperplasie congénitale des canaux biliaires intra-hépatiques
+Q44.3	obstruction congénitale des canaux biliaires
+Q44.3	sténose congénitale des canaux biliaires
+Q44.7	dilatation congénitale des canaux biliaires intra-hépatiques lobaires
+Q44.7	maladie de Caroli
+Q44.7	ectasie biliaire congénitale
+Q44.5	canaux biliaires anormalement longs congénitaux
+Q44.5	voies biliaires anormalement longues congénitales
+Q44.5	kyste cholédocien congénital
+Q44.5	kyste congénital du canal cholédoque
+Q44.5	cholédochocèle
+Q44.5	dilatation kystique congénitale du canal cholédoque
+Q44.5	duplication congénitale des canaux biliaires
+Q44.5	duplication congénitale du canal cystique
+Q44.1	anomalie congénitale de la vésicule biliaire
+Q44.1	hypoplasie congénitale de la vésicule biliaire
+Q44.1	vésicule biliaire hypoplasique congénitale
+Q44.5	duplication congénitale de la vésicule biliaire
+Q44.0	absence congénitale de la vésicule biliaire
+Q44.0	agénésie de la vésicule biliaire
+Q44.1	vésicule biliaire bilobée congénitale
+Q44.1	cloisonnement congénital de la vésicule biliaire
+Q44.1	vésicule biliaire en bonnet phrygien
+Q44.1	vésicule biliaire en sablier
+Q44.1	cloisonnements multiples de la vésicule biliaire
+Q44.1	vésicule flottante
+Q44.1	malposition congénitale de la vésicule biliaire
+Q44.1	position congénitale anormale de la vésicule biliaire
+Q44.1	vésicule biliaire intra-hépatique
+Q44.1	ectopie de la vésicule biliaire
+Q44.1	vésicule biliaire surnuméraire
+Q44.1	vésicule biliaire accessoire
+Q44.7	fibrose hépatique congénitale
+Q44.1	forme congénitale anormale de la vésicule biliaire
+Q44.1	difformité congénitale de la vésicule biliaire
+Q44.7	anomalie congénitale du foie
+Q44.7	malposition congénitale du foie
+Q44.7	position congénitale anormale du foie
+Q44.7	forme congénitale anormale du foie
+Q44.7	difformité congénitale du foie
+Q44.7	hypoplasie congénitale du foie
+Q44.7	foie hypoplasique congénital
+Q44.6	maladie kystique congénitale du foie
+Q44.6	maladie polykystique congénitale du foie
+Q44.6	maladie fibrokystique du foie
+Q44.7	absence congénitale du foie
+Q44.7	absence congénitale d'un lobe du foie
+Q44.7	canal hépatique surnuméraire
+Q44.7	foie surnuméraire
+Q44.7	lobe surnuméraire de Riedel
+Q44.7	lobe surnuméraire du foie
+Q44.7	sillons congénitaux du foie
+Q44.7	fusion congénitale anormale des lobes du foie
+Q44.7	soudure congénitale anormale des lobes du foie
+Q44.7	hépatomégalie congénitale
+Q44.7	duplication congénitale du foie
+Q44.7	foie flottant
+Q44.7	malformation artério-veineuse du foie
+Q44.7	malformation artério-veineuse hépatique
+Q45.3	anomalie congénitale du pancréas
+Q45.0	absence congénitale du pancréas
+Q45.0	agénésie du pancréas
+Q45.0	hypoplasie congénitale du pancréas
+Q45.0	pancréas hypoplasique congénital
+Q45.3	pancréas accessoire
+Q45.3	pancréas surnuméraire
+Q45.3	ectopie du pancréas
+Q45.3	hétérotopie pancréatique
+Q45.3	ectopie du pancréas dans le duodénum
+Q45.1	pancréas annulaire
+Q45.3	pancreas divisum
+Q89.2	anomalie congénitale des glandes endocrines
+Q89.2	malformation congénitale des glandes endocrines
+Q89.1	anomalie congénitale des glandes surrénales
+Q89.1	absence congénitale des glandes surrénales
+Q89.1	aplasie surrénale
+Q89.1	glande surrénale accessoire
+Q89.1	glande surrénale surnuméraire
+Q89.1	ectopie des glandes surrénales
+Q89.1	glandes surrénales aberrantes
+Q89.1	ectopie corticosurrénale
+Q89.1	choristome corticosurrénal
+Q89.1	cortex surrénal accessoire
+Q89.1	tissu surrénal extracapsulaire
+Q89.1	hypertrophie congénitale des glandes surrénales
+Q89.1	glandes surrénales hypertrophiques congénitales
+Q89.1	hypoplasie congénitale des glandes surrénales
+Q89.1	glandes surrénales hypoplasiques congénitales
+Q89.1	malposition congénitale des glandes surrénales
+Q89.1	position congénitale anormale des glandes surrénales
+Q89.1	fusion congénitale anormale des glandes surrénales
+Q89.1	soudure congénitale anormale des glandes surrénales
+Q89.1	forme congénitale anormale des glandes surrénales
+Q89.1	difformité congénitale des glandes surrénales
+Q89.2	absence congénitale d'une glande parathyroïde
+Q89.2	glande parathyroïde accessoire
+Q89.2	anomalie congénitale de la glande thyroïde
+Q89.2	absence congénitale de la glande thyroïde
+Q89.2	malposition congénitale de la glande thyroïde
+Q89.2	position congénitale anormale de la glande thyroïde
+Q89.2	glande thyroïde accessoire
+Q89.2	tissu thyroïdien ectopique
+Q89.2	tissu thyroïdien en situation aberrante
+Q89.2	thyroïde linguale
+Q89.2	reliquat thyroïdien cervical
+Q89.2	persistance du canal thyréoglosse
+Q89.2	fistule thyroglosse
+Q89.2	kyste du canal thyréoglosse
+Q89.2	kyste thyroglosse
+Q89.2	anomalie congénitale de la glande pituitaire
+Q89.2	tissu pituitaire ectopique
+Q89.2	tissu pituitaire pharyngé
+Q64.9	anomalie congénitale de l'appareil urinaire
+Q64.9	anomalie congénitale des voies urinaires
+Q64.9	malformation congénitale des voies urinaires
+Q64.9	anomalie uro-génitale congénitale
+Q63.9	anomalie congénitale des reins
+Q60.5	atrophie congénitale du rein
+Q60.5	diminution congénitale anormale du volume du rein
+Q60.0	agénésie rénale unilatérale
+Q60.0	absence rénale unilatérale congénitale
+Q60.0	absence congénitale d'un rein
+Q60.3	hypoplasie congénitale du rein
+Q60.3	rein d'Ask Upmark
+Q60.3	hypoplasie segmentaire congénitale du rein
+Q60.3	hypoplasie oligomacronéphronique du rein
+Q63.1	forme congénitale anormale du rein
+Q63.1	difformité congénitale du rein
+Q63.8	absence congénitale de la papille rénale
+Q63.8	hypoplasie congénitale de la papille rénale
+Q63.8	papille rénale hypoplasique congénitale
+Q63.0	rein accessoire
+Q63.0	rein surnuméraire
+Q63.8	blastème rénal nodulaire
+Q63.8	calcul congénital du rein
+Q63.2	malposition congénitale du rein
+Q63.2	rein pelvien
+Q63.2	rein ectopique
+Q63.2	ectopie croisée du rein
+Q63.1	rein double avec bassinet double
+Q63.1	duplication congénitale du rein
+Q63.1	rein double
+Q63.1	fusion congénitale des reins
+Q63.1	rein en fer à cheval
+Q63.3	hypertrophie congénitale du rein
+Q63.3	rein hypertrophique congénital
+Q63.3	hyperplasie congénitale du rein
+Q63.1	rein en disque
+Q63.1	lobulation congénitale du rein
+Q63.1	lobulation rénale foetale
+Q63.1	lobulation foetale du rein
+Q63.2	malrotation du rein
+Q63.2	malformation artério-veineuse du rein
+Q63.2	malformation artério-veineuse rénale
+Q61.3	maladie kystique congénitale du rein
+Q61.3	polykystome rénal
+Q61.3	polykystose rénale
+Q61.3	maladie polykystique congénitale du rein
+Q61.5	rein en éponge
+Q61.3	rein polykystique
+Q61.2	maladie polykystique du rein, type adulte
+Q61.2	maladie polykystique héréditaire du rein à transmission autosomique dominante, type adulte
+Q61.1	maladie polykystique du rein, type infantile
+Q61.1	maladie polykystique héréditaire du rein à transmission autosomique récessive, type infantile
+Q61.5	maladie kystique médullaire
+Q61.5	dégénérescence tubulaire progressive familiale
+Q61.5	néphrophtisie de Fanconi
+Q61.5	néphronophtise héréditaire de l'enfant
+Q61.8	maladie polymicrokystique du rein
+Q61.0	kyste congénital du rein
+Q61.4	dysplasie rénale congénitale
+Q62.3	anomalie congénitale du bassinet du rein
+Q62.3	hypoplasie congénitale du bassinet du rein
+Q62.3	bassinet rénal hypoplasique congénital
+Q62.3	bassinet trifide du rein
+Q62.0	hydronéphrose congénitale
+Q62.0	dilatation congénitale du bassinet du rein
+Q62.0	distension congénitale du bassinet du rein
+Q62.3	mégacalicose
+Q62.3	bassinet double du rein
+Q62.8	anomalie congénitale de l'uretère
+Q62.1	atrésie congénitale de l'uretère
+Q62.1	imperforation de l'uretère
+Q62.1	occlusion congénitale de l'uretère
+Q62.1	sténose congénitale de l'uretère
+Q62.2	hydro-uretère congénital
+Q62.2	méga-uretère congénital
+Q62.2	dilatation congénitale de l'uretère
+Q62.6	circonvolution congénitale de l'uretère
+Q62.4	absence congénitale de l'uretère
+Q62.4	agénésie de l'uretère
+Q62.5	uretère accessoire
+Q62.5	uretère double
+Q62.6	ectopie de l'uretère
+Q62.6	déviation congénitale de l'uretère
+Q62.6	malposition de l'orifice urétéral
+Q62.6	uretère rétrocave
+Q62.1	rétrécissement congénital de la jonction pyélo-urétérale
+Q62.1	rétrécissement congénital de l'orifice vésico-urétéral
+Q62.3	urétérocèle
+Q62.8	hypertrophie congénitale de la valvule urétérale
+Q62.6	implantation anormale de l'uretère
+Q64.7	anomalie congénitale de la vessie
+Q64.5	absence congénitale de la vessie
+Q64.5	acystie
+Q64.5	agénésie vésicale
+Q64.3	obstruction congénitale du col vésical
+Q64.7	vessie surnuméraire
+Q64.6	diverticule congénital de la vessie
+Q64.7	kyste congénital de la vessie
+Q64.7	dilatation congénitale de la vessie
+Q64.7	distension congénitale de la vessie
+Q64.7	hernie congénitale de la vessie
+Q64.7	prolapsus congénital de la vessie
+Q62.7	reflux vésico-urétéral congénital
+Q64.7	hypoplasie congénitale de la vessie
+Q64.7	vessie hypoplasique congénitale
+Q64.7	anomalie congénitale de l'urètre
+Q64.3	obstruction congénitale de l'urètre
+Q64.3	imperforation de l'urètre
+Q64.3	rétrécissement congénital de l'urètre
+Q64.3	formation congénitale d'une valvule urétrale
+Q64.3	valvule urétrale congénitale
+Q64.3	valvule urétrale postérieure congénitale
+Q64.5	absence congénitale de l'urètre
+Q64.7	urètre surnuméraire
+Q64.7	urètre double
+Q64.7	prolapsus congénital de l'urètre
+Q64.3	rétrécissement congénital de l'orifice vésico-urétral
+Q64.3	rétrécissement congénital du méat urinaire
+Q64.3	atrésie du méat urinaire
+Q64.3	imperforation du méat urinaire
+Q64.3	imperforation du méat urétral
+Q64.7	méat urinaire double
+Q64.7	fistule urétro-rectale congénitale
+Q50.3	dysgénésie gonadique pure 46,XX
+Q50.3	dysgénésie ovarienne avec chromosomes normaux
+Q56.0	hermaphrodisme
+Q56.0	hermaphrodisme vrai
+Q56.0	gynandrie
+Q56.3	pseudo-hermaphrodisme
+Q56.2	pseudo-hermaphrodisme féminin
+Q56.1	pseudo-hermaphrodisme masculin
+Q52.9	anomalie congénitale de l'appareil génital féminin
+Q52.9	anomalie congénitale des organes génitaux externes féminins
+Q50.3	anomalie congénitale des ovaires
+Q50.0	absence congénitale de l'ovaire
+Q50.0	agénésie ovarienne
+Q50.0	agénésie de l'ovaire
+Q50.3	ovaire accessoire
+Q50.3	ovaire surnuméraire
+Q50.3	ectopie de l'ovaire
+Q50.3	ovaire en bandelette
+Q50.3	hypertrophie congénitale de l'ovaire
+Q50.3	ovaire hypertrophique congénital
+Q50.3	hypoplasie congénitale de l'ovaire
+Q50.3	ovaire hypoplasique congénital
+Q50.3	malposition congénitale de l'ovaire
+Q50.3	position congénitale anormale de l'ovaire
+Q50.3	forme congénitale anormale de l'ovaire
+Q50.3	difformité congénitale de l'ovaire
+Q50.1	kyste congénital de l'ovaire
+Q50.6	anomalie congénitale des trompes de Fallope
+Q50.6	absence congénitale des trompes de Fallope
+Q50.6	atrésie congénitale de la trompe de Fallope
+Q50.6	trompe de Fallope accessoire
+Q50.6	anomalie congénitale du ligament large
+Q50.6	absence congénitale du ligament large
+Q50.6	ligament large accessoire
+Q50.6	atrésie congénitale du ligament large
+Q50.5	kyste embryonnaire de l'époophore
+Q50.5	kyste embryonnaire du canal de Gartner
+Q50.5	kyste du canal de Gartner
+Q50.5	kyste du tube de Kobelt
+Q50.5	kyste embryonnaire fimbrial
+Q50.5	kyste parovarien
+Q52.8	kyste wolffien
+Q52.8	kyste du canal de Wolff
+Q51.9	anomalie congénitale de l'utérus
+Q51.9	anomalie de l'utérus
+Q51.9	utérus anormal congénital
+Q51.0	absence congénitale de l'utérus
+Q51.0	amétrie
+Q51.0	aplasie congénitale de l'utérus
+Q51.0	agénésie de l'utérus
+Q51.8	uterus arcuatus
+Q51.8	utérus arqué
+Q51.5	uterus acollis
+Q51.3	utérus bicorne
+Q51.3	uterus bicornis
+Q51.3	uterus bicornuatus vetularum
+Q51.4	uterus unicornis
+Q51.4	absence congénitale d'une corne utérine
+Q51.3	uterus bicornis unicollis
+Q51.3	uterus bicornis bicollus
+Q51.8	uterus bicameratus vetularum
+Q51.1	utérus double congénital
+Q51.1	utérus didelphe
+Q51.1	uterus duplex
+Q51.3	utérus incudiforme
+Q51.8	uterus biforis
+Q51.8	utérus cochlée
+Q51.8	utérus cordiforme
+Q51.8	utérus en forme de coeur
+Q51.8	persistance de l'utérus foetal
+Q51.8	utérus infantile
+Q51.8	utérus pubescent congénital
+Q51.8	utérus hypoplasique congénital
+Q51.8	hypoplasie congénitale de l'utérus
+Q51.8	uterus parvicollis
+Q51.8	uterus bilocularis
+Q51.8	uterus septus
+Q51.8	uterus bipartitus
+Q51.8	uterus subseptus
+Q51.8	forme congénitale anormale de l'utérus
+Q51.8	difformité congénitale de l'utérus
+Q51.8	atrésie congénitale de l'utérus
+Q51.8	imperforation de l'utérus
+Q51.8	hystératrésie
+Q51.8	utérus prolabé congénital
+Q51.8	anomalie congénitale du col de l'utérus
+Q51.5	absence congénitale du col de l'utérus
+Q51.2	duplication congénitale de col de l'utérus
+Q51.2	col utérin double
+Q51.8	sténose congénitale de la cavité du col de l'utérus
+Q52.1	utérus bicorne avec vagin cloisonné
+Q52.4	anomalie congénitale du vagin
+Q52.0	absence congénitale du vagin
+Q52.1	duplication congénitale du vagin
+Q52.4	cloisonnement congénital du vagin
+Q52.4	sténose congénitale du vagin
+Q52.4	kyste embryonnaire du vagin
+Q52.4	imperforation du vagin
+Q52.7	anomalie congénitale de la vulve
+Q52.3	imperforation de l'hymen
+Q52.7	kyste congénital de la vulve
+Q52.4	kyste congénital du canal de Nück
+Q52.7	absence congénitale de la vulve
+Q52.5	synéchie vulvaire
+Q52.7	absence congénitale du clitoris
+Q55.9	anomalie congénitale de l'appareil génital masculin
+Q56.1	utérus rudimentaire chez l'homme
+Q55.2	anomalie congénitale des testicules
+Q53.0	malposition congénitale d'un testicule
+Q53.0	position congénitale anormale d'un testicule
+Q53.9	cryptorchidie
+Q53.9	testicule retenu
+Q53.9	testicule non descendu
+Q53.9	testicule cryptorchide
+Q53.9	ectopie testiculaire
+Q53.9	testicule ectopique
+Q53.9	pseudo-cryptorchidie
+Q55.1	hypoplasie congénitale d'un testicule
+Q55.1	testicule hypoplasique congénital
+Q55.1	micro-orchidie congénitale
+Q55.1	hypoplasie testiculaire congénitale
+Q55.0	absence congénitale d'un testicule
+Q55.0	agénésie d'un testicule
+Q55.0	anorchidie
+Q55.0	aplasie congénitale d'un testicule
+Q55.0	anorchie
+Q55.0	syndrome de régression testiculaire
+Q55.0	agonadie
+Q55.1	fusion congénitale des testicules
+Q55.1	synorchidie
+Q55.0	monorchidie
+Q55.0	monorchidisme
+Q55.2	polyorchidie
+Q55.2	polyorchidisme
+Q55.2	testicule surnuméraire
+Q55.2	hypertrophie congénitale d'un testicule
+Q55.2	testicule hypertrophique congénital
+Q55.2	forme congénitale anormale d'un testicule
+Q55.2	difformité congénitale d'un testicule
+Q55.2	absence congénitale de l'épithélium germinal des testicules
+Q55.2	absence de cellules germinales
+Q55.2	aplasie germinale
+Q55.2	aplasie germinale des testicules
+Q55.2	syndrome de Del Castillo
+Q55.2	agénésie des cellules de Leydig
+Q55.2	dysgénésie des cellules de Leydig
+Q55.2	dysplasie testiculaire kystique
+Q55.4	anomalie congénitale de l'épididyme
+Q55.4	absence congénitale de l'épididyme
+Q55.4	agénésie de l'épididyme
+Q55.4	hypoplasie congénitale de l'épididyme
+Q55.4	épididyme hypoplasique congénital
+Q55.4	malposition congénitale de l'épididyme
+Q55.4	position congénitale anormale de l'épididyme
+Q55.6	anomalie congénitale du pénis
+Q55.5	absence congénitale du pénis
+Q55.6	hypoplasie congénitale du pénis
+Q55.6	coudures congénitales de la verge
+Q55.6	coudure latérale congénitale du pénis
+Q54.9	hypospadias
+Q64.0	épispadias
+Q64.0	anaspadias
+Q54.8	paraspadias
+Q55.4	anomalie congénitale de la prostate
+Q55.4	absence congénitale de la prostate
+Q55.4	anomalie congénitale des cordons spermatiques
+Q55.4	absence congénitale du cordon spermatique
+Q55.4	aplasie congénitale des cordons spermatiques
+Q55.4	anomalie congénitale des canaux déférents
+Q55.4	absence congénitale d'un canal déférent
+Q55.3	atrésie congénitale d'un canal déférent
+Q55.3	imperforation d'un canal déférent
+Q55.4	malposition congénitale d'un canal déférent
+Q55.4	position congénitale anormale d'un canal déférent
+Q55.4	hypoplasie congénitale d'un canal déférent
+Q55.4	canal déférent rudimentaire
+Q55.3	atrésie congénitale du canal éjaculateur
+Q07.9	anomalie congénitale du système nerveux
+Q07.9	malformation congénitale du système nerveux
+Q07.9	maladie congénitale du système nerveux
+Q07.9	lésion congénitale du système nerveux
+Q07.9	dégénérescence congénitale du système nerveux
+Q07.9	dégénérescence neurologique congénitale
+Q00.1	crânio-rachischisis
+Q00.2	iniencéphalie
+Q00.2	iniencéphale
+Q07.0	syndrome d'Arnold-Chiari
+Q07.0	malformation d'Arnold-Chiari
+Q85.8	dysplasie cérébro-faciale
+Q04.9	anomalie congénitale du cerveau
+Q04.9	malformation congénitale du cerveau
+Q04.9	maladie congénitale du cerveau
+Q04.9	lésion congénitale du cerveau
+Q04.9	anomalies multiples du cerveau
+Q04.3	dysgénésie corticale cérébrale
+Q00.0	hémicéphalie
+Q00.0	absence congénitale de la portion sus-tentorielle du cerveau
+Q00.0	hémicéphale
+Q01.9	exencéphalie
+Q04.3	hydranencéphalie
+Q04.3	absence congénitale des hémisphères cérébraux
+Q01.9	encéphalocèle
+Q01.9	céphalocèle
+Q01.2	encéphalocèle occipitale
+Q01.1	encéphalocèle nasale
+Q01.9	encéphalomyélocèle
+Q01.9	encéphalo-cystocèle
+Q01.9	hydrencéphalocèle
+Q01.9	hydrocéphalocèle
+Q01.9	hydro-encéphalocèle
+Q01.9	méningo-encéphalocèle
+Q01.9	encéphaloméningocèle
+Q01.9	méningocèle congénitale
+Q01.9	méningocèle
+Q01.9	méningocèle cérébrale congénitale
+Q01.9	méningocèle cérébrale
+Q01.9	méningocèle crânienne
+Q01.9	méningocèle crânienne congénitale
+Q01.9	hydroméningocèle
+Q01.9	hydroméningocèle crânienne
+Q01.9	encéphalo-cysto-méningocèle
+Q02	microcéphale
+Q02	nanocéphalie
+Q02	microcéphalie
+Q02	micrencéphalie
+Q02	hydromicrocéphalie
+Q75.3	macrocéphalie
+Q75.3	macrocéphale
+Q75.8	brachycéphalie
+Q04.3	syndrome de Kaufman
+Q04.3	microcéphalie, microcornée et retard mental
+Q04.3	absence congénitale d'une partie du cerveau
+Q04.3	aplasie congénitale d'une partie du cerveau
+Q04.3	agénésie d'une partie du cerveau
+Q04.3	agénésie du corps calleux
+Q04.3	hypoplasie congénitale d'une partie du cerveau
+Q04.3	hypoplasie congénitale du cerveau
+Q04.3	cerveau hypoplasique congénital
+Q04.3	agyrie
+Q04.3	microgyrie
+Q04.3	agénésie de l'hémisphère cérébral
+Q04.3	forme congénitale anormale du cerveau
+Q04.3	difformité congénitale du cerveau
+Q04.3	agénésie de l'hémisphère cérébelleux
+Q04.3	forme congénitale anormale du cervelet
+Q04.3	difformité congénitale du cervelet
+Q04.3	hypoplasie congénitale de la couche profonde granuleuse interne de l'écorce cérébelleuse
+Q04.3	hypoplasie ponto-cérébelleuse congénitale
+Q04.3	hypoplasie cérébelleuse congénitale
+Q04.3	hypoplasie cérébelleuse
+Q04.3	cervelet hypoplasique congénital
+Q04.3	hypoplasie congénitale du cervelet
+Q85.8	hémangioblastome cérébelleux
+Q85.8	hémangioblastose du cervelet
+Q85.8	angiomatose congénitale des leptoméninges
+Q85.8	angiomatose méningée
+Q03.9	hydrocéphalie congénitale
+Q03.9	hydrencéphalie congénitale
+Q03.9	dilatation congénitale des ventricules cérébraux
+Q03.9	hydrocéphalie du nouveau-né
+Q03.1	syndrome de Dandy-Walker
+Q03.1	malformation de Dandy-Walker
+Q03.1	hydrocéphalie interne congénitale
+Q03.0	syndrome de l'aqueduc de Sylvius
+Q03.0	obstruction congénitale de l'aqueduc de Sylvius
+Q03.0	sténose congénitale de l'aqueduc de Sylvius
+Q03.1	atrésie du foramen de Magendie
+Q03.1	atrésie du foramen de Luschka
+Q04.6	kyste cérébral congénital
+Q04.6	kyste colloïde du troisième ventricule
+Q04.5	encéphalomégalie
+Q04.5	mégalencéphalie
+Q04.8	macrogyrie
+Q04.8	pachygyrie
+Q04.6	porencéphalie congénitale
+Q04.6	schizocéphalie
+Q04.6	porose cérébrale congénitale
+Q04.6	porencéphalie schizocéphalique
+Q04.6	pseudo-porencéphalie congénitale
+Q04.6	excavation kystique pseudo-porencéphalique
+Q04.8	atrophie ischémique congénitale du système nerveux central
+Q04.8	état marbré
+Q04.8	ulégyrie
+Q04.8	ulégyrie congénitale
+Q04.8	tissu glial ectopique
+Q04.8	masses névrogliques ectopiques
+Q04.8	hétérotopie gliale nasale
+Q04.8	gliome nasal
+Q04.8	tissu neuronal ectopique
+Q04.8	substance grise ectopique
+Q04.8	substance grise ectopique dans le centre ovale de Vieussens
+Q04.8	notochorde hétéropique
+Q04.8	chorde dorsale hétérotopique
+Q04.8	sinus péricrânien
+Q04.8	malformation artério-veineuse durale
+Q04.8	dysplasie encéphalo-ophtalmique
+Q04.8	syndrome d'Arlington Krause
+Q04.8	syndrome de Dyke-Davidoff
+Q06.9	anomalie congénitale de la moelle épinière
+Q06.9	malformation congénitale de la moelle épinière
+Q06.9	maladie congénitale de la moelle épinière
+Q06.9	lésion congénitale de la moelle épinière
+Q05.9	spina bifida
+Q05.9	spina bifida aperta
+Q05.9	hydrorachis externe rétromédullaire
+Q05.9	spina bifida sans mention d'hydrocéphalie
+Q05.5	spina bifida cervical
+Q05.6	spina bifida dorsal
+Q05.7	spina bifida lombaire
+Q05.4	spina bifida avec hydrocéphalie
+Q05.4	hydromyéloméningocèle
+Q05.4	hydrorachis interne intramédullaire
+Q05.4	hydromyélocèle
+Q05.4	hydroméningocèle spinale congénitale
+Q05.4	méningocèle spinale congénitale
+Q05.4	méningocèle spinale
+Q05.8	méningocèle sacrée congénitale
+Q05.8	méningocèle sacrée
+Q05.9	myélocèle
+Q05.9	syringomyélocèle
+Q05.9	syringocèle
+Q05.9	méningomyélocèle
+Q05.9	myélocystocèle
+Q05.9	myéloméningocèle
+Q06.2	myéloschisis
+Q06.2	diplomyélie
+Q05.9	rachischisis
+Q05.9	holorachischisis
+Q06.2	diastématomyélie
+Q06.2	hypertrichose sacrée et diastématomyélie
+Q06.4	hydromyélie
+Q06.4	hydrorachis
+Q06.0	amyélie
+Q06.1	atélomyélie
+Q06.1	hypoplasie congénitale de la moelle épinière
+Q06.8	hémimyélie
+Q06.3	défaut de développement de la queue de cheval
+Q06.3	défaut de développement de la moelle épinière
+Q06.1	myélodysplasie
+Q06.9	anomalie congénitale des méninges rachidiennes
+Q07.9	anomalie congénitale du système nerveux périphérique
+Q07.8	anomalie congénitale des nerfs
+Q07.8	agénésie d'un nerf
+Q07.8	malposition congénitale du plexus brachial
+Q07.8	mâchoire à clignotement
+Q07.8	phénomène de Marcus Gunn
+Q43.1	aganglionose des ganglions parasympathiques
+Q43.1	absence congénitale des cellules ganglionnaires parasympathiques
+Q15.9	anomalie congénitale de l'oeil
+Q15.9	malformation congénitale de l'oeil
+Q15.8	malposition congénitale de l'oeil
+Q15.8	position congénitale anormale de l'oeil
+Q13.0	colobome oculaire congénital
+Q15.8	mélanose oculaire
+Q11.1	absence congénitale de la saillie oculaire
+Q11.1	anophtalmie
+Q11.1	anophtalmie clinique
+Q11.1	agénésie des yeux
+Q11.1	absence congénitale des yeux
+Q11.1	monophtalmie
+Q11.1	absence congénitale d'un oeil
+Q11.1	malformation kystique congénitale du globe oculaire
+Q15.8	exophtalmie congénitale
+Q15.8	protrusion congénitale du globe oculaire
+Q11.2	cryptophtalmie
+Q11.1	hypoplasie congénitale de la saillie oculaire
+Q11.2	microphtalmie
+Q11.2	microphtalmie simple
+Q11.2	microphtalmie associée à d'autres anomalies de l'oeil et de ses annexes
+Q11.2	dysplasie de l'oeil
+Q13.8	dysgénésie irido-cornéenne
+Q13.8	dysgénésie de segment antérieur de l'oeil
+Q11.2	atrophie héréditaire des globes oculaires
+Q11.2	maladie de Norrie
+Q11.2	microphtalmie oligophrénique
+Q11.2	hypoplasie de l'oeil
+Q11.2	oeil rudimentaire
+Q11.3	hypertrophie congénitale de la saillie oculaire
+Q11.3	saillie oculaire hypertrophique congénitale
+Q11.3	macrophtalmie
+Q11.3	mégalophtalmie
+Q15.0	buphtalmie
+Q15.0	hydrophtalmie
+Q15.0	buphtalmie simple
+Q15.0	glaucome congénital
+Q15.0	glaucome du nouveau-né
+Q15.0	buphtalmie avec kératoglobe congénital
+Q15.0	buphtalmie avec mégalocornée
+Q15.0	buphtalmie avec kératomégalie
+Q15.0	buphtalmie avec luxation congénitale du cristallin
+Q15.0	glaucome causé par une luxation congénitale du cristallin
+Q15.0	kératomégalie
+Q15.0	kératoglobe
+Q15.0	mégalocornée
+Q13.4	kératocône congénital
+Q87.8	kératocône congénital posticus circumscriptus
+Q87.8	syndrome de Haney-Falls
+Q13.4	sclérocornée congénitale
+Q12.0	cataracte congénitale
+Q12.0	cataracte capsulaire congénitale
+Q12.0	cataracte sous-capsulaire congénitale
+Q12.0	cataracte corticale congénitale
+Q12.0	cataracte zonulaire congénitale
+Q12.0	cataracte lamellaire congénitale
+Q12.0	cataracte embryonnaire
+Q12.0	cataracte totale congénitale
+Q12.0	cataracte complète congénitale
+Q12.0	cataracte incomplète congénitale
+Q12.1	ectopie congénitale du cristallin
+Q12.1	cristallin ectopique
+Q12.3	aphakie congénitale
+Q12.3	absence congénitale de cristallin
+Q12.8	forme congénitale anormale du cristallin
+Q12.8	difformité congénitale du cristallin
+Q12.8	microphakie
+Q12.8	cristallin hypoplasique congénital
+Q12.4	sphérophakie
+Q12.4	sphérophakie congénitale
+Q12.8	lenticône antérieur
+Q12.8	lentiglobe antérieur
+Q12.8	lenticône postérieur
+Q12.8	lentiglobe postérieur
+Q12.8	pigmentation congénitale du cristallin
+Q12.8	pigmentation capsulaire antérieure congénitale
+Q12.8	persistance de la membrane du cristallin
+Q13.4	microcornée
+Q13.3	opacité cornéenne congénitale gênant la vision
+Q13.3	opacité cornéenne congénitale sans gêne de la vision
+Q13.4	dystrophie cornéenne maculaire congénitale
+Q13.8	kyste conjonctival congénital
+Q13.8	anomalie congénitale de la chambre antérieure de l'oeil
+Q13.8	syndrome de clivage de la chambre antérieure de l'oeil
+Q13.8	syndrome de Reese-Ellsworth
+Q13.8	anomalie d'Axenfeld
+Q13.8	embryotoxon postérieur de la cornée
+Q13.1	aniridie
+Q13.2	anisocorie congénitale
+Q13.2	atrésie de la pupille
+Q13.0	colobome congénital de l'iris
+Q13.2	pseudocolobome de l'iris
+Q13.2	corectopie
+Q13.8	anomalie congénitale de la sclérotique
+Q13.8	mélanose congénitale de la sclérotique
+Q13.5	sclérotique bleue
+Q14.0	anomalie congénitale du corps vitré
+Q14.0	opacité congénitale du corps vitré
+Q14.8	colobome du fond de l'oeil
+Q14.8	colobome choriorétinien
+Q14.8	colobome de la rétine et de la choroïde
+Q14.8	persistance du corps vitré primaire
+Q14.3	anomalie congénitale de la choroïde
+Q14.3	hypoplasie congénitale de la choroïde
+Q14.3	hypopigmentation congénitale de la choroïde
+Q14.1	dégénérescence choriorétinienne congénitale
+Q87.8	syndrome d'Aicardi
+Q14.8	pli congénital du segment postérieur de l'oeil
+Q14.8	kyste congénital du segment postérieur de l'oeil
+Q14.1	rétinoschisis congénitale
+Q14.1	hémangioblastomatose rétinienne
+Q14.1	hémangioblastomatose de la rétine
+Q14.1	anomalie congénitale de la macule
+Q14.1	anomalie congénitale de la rétine
+Q14.1	albinisme du fond de l'oeil
+Q14.1	dépigmentation du fond de l'oeil
+Q14.1	dysplasie rétinienne
+Q14.1	dysplasie rétinienne multifocale
+Q14.1	persistance des plis rétiniens
+Q14.1	dysplasie rétinienne géographique
+Q14.1	dysplasie rétinienne diffuse
+Q14.2	anomalie congénitale de la papille optique
+Q14.2	carence myélinique congénitale de la papille optique
+Q14.8	hypoplasie du nerf optique
+Q14.8	colobome congénital de la papille optique
+Q14.8	persistance de l'artère hyaloïdienne
+Q14.8	formation vestigiale du canal de Cloquet
+Q14.8	formation vestigiale du canal hyaloïdien
+Q15.8	anomalie vasculaire congénitale de l'oeil
+Q13.2	persistance des membranes pupillaires
+Q27.8	anévrisme rétinien congénital
+Q27.8	malformation artério-veineuse rétinienne
+Q07.8	anomalie congénitale du nerf optique
+Q10.3	anomalie congénitale des paupières
+Q10.3	malformation congénitale des paupières
+Q10.3	fente macropalpébrale
+Q10.3	blépharophimosis congénital
+Q10.0	ptose congénitale de la paupière supérieure
+Q10.3	ablépharie
+Q10.3	agénésie des paupières
+Q10.3	ablépharie complète
+Q10.3	absence congénitale des paupières
+Q10.3	ablépharie partielle
+Q10.3	microblépharon
+Q10.3	colobome des paupières
+Q10.3	colobome palpébral
+Q10.3	paupière accessoire
+Q10.3	épiblépharon congénital
+Q10.3	syndrome de Swan, type II
+Q10.1	ectropion congénital
+Q10.2	entropion congénital
+Q10.3	ankyloblépharon congénital
+Q10.3	ankyloblépharon total
+Q10.3	absence congénitale des cils
+Q10.3	agénésie des cils
+Q10.3	cils ectopiques de la paupière
+Q10.6	anomalie congénitale de l'appareil lacrymal
+Q10.4	absence congénitale de l'appareil lacrymal
+Q10.4	agénésie de l'appareil lacrymal
+Q10.6	anomalie congénitale de la glande lacrymale
+Q10.6	hypoplasie congénitale du point lacrymal
+Q10.6	point lacrymal hypoplasique
+Q10.4	absence congénitale du point lacrymal
+Q10.4	agénésie du point lacrymal
+Q10.6	imperforation du point lacrymal
+Q10.6	déplacement congénital du point lacrymal
+Q10.6	canal lacrymo-nasal accessoire
+Q10.6	glande lacrymale accessoire
+Q10.6	diverticule congénital d'un canalicule lacrymal
+Q10.6	obstruction congénitale du canal lacrymo-nasal
+Q10.7	anomalie congénitale de l'orbite
+Q10.7	muscle oculaire accessoire
+Q17.9	anomalie congénitale de l'oreille
+Q17.9	malformation de l'oreille
+Q17.9	malformation congénitale de l'oreille
+Q16.9	absence congénitale de l'oreille
+Q18.2	pavillon cervical
+Q16.9	anomalie congénitale de l'oreille avec surdité partielle
+Q16.0	absence congénitale de l'oreille externe
+Q16.0	agénésie de l'oreille externe
+Q16.0	absence congénitale de l'auricule
+Q16.0	absence congénitale du pavillon de l'oreille
+Q16.0	absence congénitale du conduit auditif externe
+Q16.0	absence congénitale de l'auricule avec atrésie du conduit auditif
+Q16.0	absence congénitale de l'auricule avec sténose du conduit auditif
+Q16.1	rétrécissement congénital du conduit auditif externe
+Q16.1	atrésie congénitale du conduit auditif externe
+Q16.4	conduit auditif double
+Q16.4	anomalie congénitale de l'oreille moyenne
+Q16.1	atrésie congénitale du méat auditif osseux de l'oreille moyenne
+Q16.1	rétrécissement congénitale du méat auditif osseux de l'oreille moyenne
+Q16.3	anomalie congénitale des osselets de l'oreille
+Q16.3	fusion congénitale anormale des osselets de l'oreille
+Q16.3	coalescence congénitale anormale des osselets de l'oreille
+Q16.3	fusion congénitale anormale des osselets auriculaires
+Q16.3	fixation congénitale des osselets de l'oreille
+Q16.4	absence congénitale des osselets de l'oreille
+Q16.4	agénésie des osselets de l'oreille
+Q16.4	absence congénitale des osselets auriculaires
+Q16.5	anomalie congénitale de l'oreille interne
+Q16.5	aplasie congénitale de l'oreille interne
+Q16.5	anomalie congénitale du labyrinthe membraneux
+Q16.5	absence congénitale du labyrinthe membraneux
+Q16.5	développement partiel du labyrinthe membraneux
+Q16.5	anomalie congénitale de l'organe de Corti
+Q16.5	dysplasie congénitale de l'oreille interne
+Q16.5	forme congénitale anormale de l'oreille interne
+Q16.5	difformité congénitale de l'oreille interne
+Q17.0	auricule accessoire de l'oreille
+Q17.0	tragus accessoire de l'oreille
+Q17.0	appendice préauriculaire
+Q17.8	fossette préauriculaire
+Q17.8	dépression préauriculaire congénitale
+Q17.0	polyotie
+Q17.0	oreille externe surnuméraire
+Q17.4	malposition congénitale du pavillon de l'oreille
+Q17.4	position congénitale anormale du pavillon de l'oreille
+Q17.3	forme congénitale anormale du pavillon de l'oreille
+Q17.3	difformité congénitale du pavillon de l'oreille
+Q17.0	lobule surnuméraire de l'oreille
+Q17.8	absence congénitale du lobe de l'oreille
+Q17.1	macrotie
+Q17.2	microtie
+Q17.4	oreilles basses
+Q17.5	oreille chauve souris
+Q17.5	oreille proéminante
+Q17.8	tubercule de Darwin
+Q16.4	forme congénitale anormale des osselets de l'oreille
+Q16.4	difformité congénitale des osselets de l'oreille
+Q16.4	absence de formation osseuse des osselets de l'oreille
+Q16.4	absence d'ossification des osselets de l'oreille
+Q16.4	absence congénitale de l'anneau tympanique
+Q16.4	agénésie de l'anneau tympanique
+Q16.4	fusion congénitale anormale de l'anneau tympanique
+Q16.4	soudure congénitale anormale de l'anneau tympanique
+Q16.4	forme congénitale anormale de l'anneau tympanique
+Q16.4	difformité congénitale de l'anneau tympanique
+Q16.4	formation osseuse incomplète de l'anneau tympanique
+Q16.4	ossification incomplète de l'anneau tympanique
+Q16.4	absence de formation osseuse de l'anneau tympanique
+Q16.4	absence d'ossification de l'anneau tympanique
+Q16.4	hypoplasie congénitale de l'anneau tympanique
+Q16.4	anneau tympanique hypoplasique congénital
+Q18.9	anomalie congénitale de la face
+Q18.9	dysmorphie faciale
+Q18.9	malformation faciale
+Q18.9	malformation congénitale de la face
+Q67.0	asymétrie de la face
+Q67.0	malformation faciale par compression
+Q60.6	malformation faciale du syndrome de Potter
+Q38.6	absence congénitale de la bouche
+Q38.6	astomie
+Q18.4	macrostomie congénitale
+Q18.4	macrostomie
+Q18.4	macrostomie unilatérale congénitale
+Q18.4	macrostomie unilatérale
+Q18.4	macrostomie bilatérale congénitale
+Q18.4	macrostomie bilatérale
+Q18.5	microstomie
+Q18.9	anomalie congénitale du cou
+Q18.9	malformation congénitale du cou
+Q18.0	kyste branchial
+Q18.0	kyste branchiogène
+Q18.0	fissure branchiale
+Q18.0	vestige branchial
+Q18.0	fente branchiale
+Q18.0	fistule branchiale
+Q18.2	auricule cervicale
+Q18.1	sinus préauriculaire
+Q18.1	sinus préauriculaire congénital
+Q18.1	fistule congénitale de l'oreille
+Q18.1	fistule préauriculaire congénitale
+Q18.1	fistule préauriculaire
+Q18.1	kyste préauriculaire
+Q18.1	fistule congénitale de l'auricule
+Q18.1	fistule cervico-auriculaire congénitale
+Q18.3	pterygium colli
+Q18.3	ptérygion du cou
+Q18.8	fistule cervicale aboutissant dans la cavité du pharynx
+Q18.8	fistule congénitale du cou
+Q16.2	absence congénitale de la trompe d'Eustache
+Q68.0	anomalie congénitale du muscle sterno-cléido-mastoïdien
+Q68.0	torticolis sterno-mastoïdien congénital
+Q68.0	fibromatose du cou
+Q68.0	torticolis congénital
+Q68.0	rétraction congénitale du muscle sterno-cléido-mastoïdien
+Q89.9	anomalie congénitale du système hématopoïétique
+Q89.0	anomalie congénitale de la rate
+Q89.0	malposition congénitale de la rate
+Q89.0	position congénitale anormale de la rate
+Q89.0	rate accessoire
+Q89.0	rate surnuméraire
+Q89.0	polysplénie
+Q89.0	tissu splénique ectopique
+Q89.0	splénomégalie congénitale
+Q89.0	lobulation congénitale de la rate
+Q89.0	fusion splénogonadique
+Q89.0	absence congénitale de la rate
+Q89.0	asplénie congénitale
+Q89.0	forme congénitale anormale de la rate
+Q89.0	difformité congénitale de la rate
+Q89.0	kyste congénital de la rate
+Q89.0	hypoplasie congénitale de la rate
+Q89.0	rate hypoplasique congénitale
+Q89.2	anomalie congénitale du thymus
+Q89.2	tissu thymique ectopique
+Q89.2	tissu thymique accessoire
+Q89.2	thymus surnuméraire
+Q89.2	résidu thymique cervical
+Q89.2	fissure congénitale du thymus
+Q89.2	thymus bifide
+Q89.2	thymus bipartite
+Q89.2	division congénitale du thymus
+Q89.2	hypoplasie congénitale du thymus
+Q89.2	thymus hypoplasique congénital
+Q89.2	forme congénitale anormale du thymus
+Q89.2	difformité congénitale du thymus
+Q89.2	malposition congénitale du thymus
+Q89.2	position congénitale anormale du thymus
+Q89.2	absence congénitale du thymus
+Q89.2	agénésie du thymus
+Q89.3	situs ambiguus
+Q89.3	situs inversus viscerum
+Q89.3	inversion viscérale
+Q89.3	situs inversus abdominalis
+Q89.3	transposition abdominale
+Q89.3	transposition des viscères abdominaux
+Q89.3	inversion des organes abdominaux
+Q89.3	situs inversus thoracis
+Q89.3	transposition des viscères thoraciques
+Q89.3	inversion des organes thoraciques
+Q89.9	anomalie congénitale du foetus
+Q00.0	foetus grenouille
+Q80.4	foetus arlequin
+Q80.2	desquamation lamellaire collodionnée du nouveau-né
+Q80.4	ichtyose intra-uterine
+Q80.2	bébé collodion
+Q89.7	monstre
+Q89.7	tératisme
+Q89.7	monstre autositaire
+Q89.7	monstre parasitaire
+Q89.7	monstre triple
+Q89.7	monstre polysome
+Q89.4	duplication foetale anormale
+Q89.4	jumeaux anormaux
+Q89.4	gémellité anormale
+Q89.7	notomèle
+Q89.7	monstre simple
+Q87.2	monstre symélien
+Q87.2	symélie
+Q87.2	sirénomèle
+Q87.2	sympodie
+Q87.2	sympus
+Q87.2	sirénomélie
+Q87.0	monstre cyclocéphalien
+Q87.0	monopsie
+Q87.0	cyclope
+Q87.0	cyclocéphalie
+Q87.0	cyclopie
+Q87.0	synophtalmie
+Q87.0	cyclopien hypognathe
+Q87.0	opocéphale
+Q87.0	rhinocéphalie
+Q00.0	acéphalie
+Q00.0	acéphale
+Q00.0	absence congénitale de la tête
+Q00.0	acéphalostomie
+Q00.0	monstre acrânien
+Q00.0	acrânien
+Q00.0	acrânie
+Q00.0	podencéphale
+Q00.0	anencéphale
+Q00.0	anencéphalie
+Q00.0	monstre anencéphalique
+Q00.0	hémianencéphalie
+Q00.0	hémicrânie
+Q00.0	anencéphalie partielle
+Q00.0	amyélencéphale
+Q75.9	monstre avec anomalies crâniennes
+Q75.9	duplication crânienne
+Q75.9	craniodidyme
+Q75.9	atrétocéphale
+Q75.8	agnathe
+Q17.4	synote
+Q17.4	synotie
+Q75.8	dérencéphale
+Q75.8	cébocéphale
+Q75.8	cébocéphalie
+Q75.8	ethmocéphale
+Q75.8	omocéphale
+Q76.7	monstre célosomien
+Q76.7	célosomien
+Q76.7	célosomie
+Q89.4	monstre double
+Q89.4	monstre jumeau
+Q89.4	anadidyme
+Q89.4	céphalodyme
+Q89.4	dipyge
+Q89.4	céphalothoracopage
+Q89.4	thoracodelphe
+Q89.4	thoradelphe
+Q89.4	pygodidyme
+Q89.4	craniopage
+Q89.4	céphalopage
+Q89.4	craniopage occipital
+Q89.4	craniopage pariétal
+Q89.4	monocéphalien
+Q89.4	monocephalus tetrapus dibrachius
+Q89.4	monocephalus tripus dibrachius
+Q89.4	syncéphale
+Q89.4	synencéphale
+Q89.4	synencéphalie
+Q89.4	déradelphe
+Q89.4	janiceps
+Q89.4	monstre janus
+Q89.4	anacatadidyme
+Q89.4	dicéphale dipyge
+Q89.4	gastro-thoracopage
+Q89.4	thoraco-gastrodidyme
+Q89.4	thoracodidyme
+Q89.4	thoracopage
+Q89.4	thoracopage parasitaire
+Q89.4	thoracopage épigastrique
+Q89.4	thoracoparacéphale
+Q89.4	omphalopage
+Q89.4	monomphalien
+Q89.4	omphalo-angiopage
+Q89.4	allantoïdo-angiopage
+Q89.4	ischiopage
+Q89.4	pygopage
+Q89.4	catadidyme
+Q89.4	hétérodyme
+Q89.4	hétérodidyme
+Q89.4	dicephalus dipus tetrabrachius
+Q89.4	dicephalus dipus tribrachius
+Q89.4	dicephalus tripus tribrachius
+Q89.8	monstre acardiaque
+Q89.8	acardie
+Q89.8	acardiaque
+Q89.8	jumeaux acardiaques
+Q89.8	holoacardius
+Q89.8	holoacardius amorphus
+Q89.8	fetus anideus
+Q89.8	acardiacus anceps
+Q89.8	hemiacardius
+Q89.8	holoacardius acephalus
+Q89.8	holoacardius acormus
+Q89.7	monstre composé
+Q89.7	jumeaux conjoints incomplets
+Q89.4	desmiognathe
+Q89.4	dicéphale parasitaire
+Q89.4	épignathe
+Q89.4	thoracomèle
+Q89.4	ischiomèle
+Q89.4	pygomèle
+Q89.4	gastro-thoracopage dipyge
+Q89.4	dipyge parasitaire
+Q89.4	dichirus
+Q89.4	diprosope
+Q89.4	monocéphalien diprosope
+Q89.4	diprosope tétrophtalme
+Q89.4	céphalo-diprosope
+Q89.4	opodidyme
+Q89.4	opodyme
+Q89.4	dicéphale
+Q89.4	dérodidyme
+Q89.4	dicephalus dipus dibrachius
+Q89.4	dipodie
+Q89.4	diplopodie
+Q89.4	pygoamorphus
+Q89.4	jumeaux siamois
+Q89.4	jumeaux siamois symétriques
+Q89.4	jumeaux siamois égaux
+Q89.4	diplopage
+Q89.4	duplicitas symmetros
+Q89.4	xiphopage
+Q89.4	jumeaux conjoints asymétriques
+Q89.4	hétérodelphe
+Q89.4	jumeaux conjoints inégaux
+Q89.4	hétéropage
+Q99.0	chimère
+Q99.0	chimère hétérologue
+Q99.0	chimère homologue
+Q99.0	chimère isologue
+Q99.0	chimère par irradiation
+Q64.4	kyste allantoïdien
+Q64.4	kyste congénital de l'ouraque
+Q64.4	kyste de l'ouraque
+Q64.4	fistule congénitale de l'ouraque
+Q64.4	persistance de l'ouraque
+Q27.0	anomalie artérielle du cordon ombilical
+Q27.0	anomalie congénitale d'une artère ombilicale
+Q27.0	artère et veine uniques du cordon ombilical
+Q27.0	absence congénitale d'une artère ombilicale
+Q27.0	artère ombilicale unique
+Q27.0	hypoplasie congénitale d'une artère ombilicale
+Q27.0	vaisseau unique du cordon ombilical
+Q87.2	syndrome du pouce large
+Q87.8	macrodystrophie lipomateuse progressive
+Q38.6	naevus de Cannon
+Q38.6	leukokératose héréditaire de la muqueuse buccale
+Q38.6	naevus spongiosus albus mucosae
+Q38.6	naevus blanc spongieux de la muqueuse buccale
+Q43.3	syndrome d'interposition sous-phrénique
+Q43.3	syndrome de Chilaïditi
+Q43.0	diverticulite de Meckel
+Q82.1	xeroderma pigmentosum
+Q82.1	atrophoderma pigmentosum
+Q82.1	dermatose de Kaposi
+Q82.1	mélanose lenticulaire progressive
+Q82.1	maladie pigmentaire épithéliomateuse
+Q82.1	xeroderma de Kaposi
+Q82.1	xeroderma pigmentosum, groupe A
+Q82.1	xeroderma pigmentosum, groupe B
+Q82.1	xeroderma pigmentosum, groupe C
+Q82.1	xeroderma pigmentosum, groupe D
+Q82.1	xeroderma pigmentosum, groupe E
+Q82.1	xeroderma pigmentosum, groupe F
+Q82.1	xeroderma pigmentosum, groupe G
+Q82.1	xeroderma pigmentosum, forme variante
+Q82.1	xeroderma pigmentosum neurologique
+Q82.1	xeroderma pigmentosum non neurologique
+Q80.1	déficit en stéryl-sulfatase
+Q80.1	déficit en stéroïde sulfatase
+Q80.1	ichtyose liée au chromosome X
+Q80.1	déficit en sulfatase placentaire
+Q80.1	maladie par carence en stéroïde sulfatase
+Q80.1	déficit en stéroïde sulfatase placentaire
+Q79.6	syndrome d'Ehlers-Danlos
+Q79.6	dystrophie mésodermique congénitale
+Q79.6	cutis hyperelastica
+Q79.6	syndrome de Danlos
+Q79.6	maladie d'Ehlers-Danlos
+Q79.6	hyperélasticité de la peau
+Q79.6	hyperélasticité cutanée
+Q79.6	dermatorrhexis, chalazodermie et hyperlaxité articulaire
+Q79.6	syndrome d'Ehlers-Danlos de type I
+Q79.6	syndrome d'Ehlers-Danlos, forme grave
+Q79.6	syndrome d'Ehlers-Danlos, forme classique sévère
+Q79.6	syndrome d'Ehlers-Danlos de type II
+Q79.6	syndrome d'Ehlers-Danlos, forme classique légère
+Q79.6	syndrome d'Ehlers-Danlos, forme légère
+Q79.6	syndrome d'Ehlers-Danlos de type III
+Q79.6	syndrome d'Ehlers-Danlos, forme bénigne hypermobile
+Q79.6	syndrome d'Ehlers-Danlos de type IV
+Q79.6	syndrome de Sack-Barabas
+Q79.6	syndrome de Sack
+Q79.6	syndrome d'Ehlers-Danlos de type IV dominant
+Q79.6	syndrome d'Ehlers-Danlos de type IV récessif
+Q79.6	syndrome d'Ehlers-Danlos de type V
+Q79.6	syndrome d'Ehlers-Danlos, forme légère liée au chromosome X
+Q79.6	syndrome d'Ehlers-Danlos, avec déficit en hydroxylysine
+Q79.6	maladie du collagène par déficit en hydroxylysine
+Q79.6	syndrome d'Ehlers-Danlos, avec déficit en lysyl hydroxylase
+Q79.6	déficit en protocollagène lysyl hydroxylase
+Q79.6	syndrome d'Ehlers-Danlos, forme oculaire sans déficit en hydroxylysine
+Q79.6	kératoglobe avec fragilité cornéenne, sclérotique bleue et hyperlaxité articulaire
+Q79.6	fragilité oculaire avec hyperlaxité ligamentaire
+Q79.6	syndrome d'Ehlers-Danlos de type VI avec macrocéphalie
+Q79.6	syndrome d'Ehlers-Danlos, avec déficit en procollagène-protéinase
+Q79.6	syndrome d'Ehlers-Danlos de type VII
+Q79.6	déficit en procollagène peptidase
+Q79.6	déficit en procollagène protéase
+Q79.6	déficit en procollagène aminoprotéase
+Q79.6	arthrochalasis multiplex congenita
+Q79.6	syndrome d'Ehlers-Danlos, résistant à la procollagène protéinase
+Q79.6	syndrome d'Ehlers-Danlos de type VII autosomique dominant
+Q79.6	syndrome d'Ehlers-Danlos de type VII avec procollagène mutant
+Q79.6	syndrome d'Ehlers-Danlos de type VIII
+Q79.6	syndrome d'Ehlers-Danlos, forme avec périodontite
+Q79.6	syndrome d'Ehlers-Danlos, forme dysfibronectinémique
+Q79.6	syndrome d'Ehlers-Danlos de type X
+Q79.6	syndrome d'Ehlers-Danlos, avec anomalies plaquettaires
+Q79.6	syndrome d'Ehlers-Danlos, avec laxité articulaire familiale
+Q79.6	syndrome d'Ehlers-Danlos de type XI
+Q79.6	hyperlaxité articulaire généralisée familiale
+Q79.6	laxité articulaire familiale
+Q79.6	syndrome d'instabilité articulaire familiale
+Q82.8	cutis laxa
+Q82.8	dermatolysie
+Q82.8	chalodermie
+Q82.8	chalazodermie
+Q82.8	pachydermocèle
+Q82.8	pachydermatocèle
+Q82.8	cutis laxa, forme autosomique dominante
+Q82.8	cutis laxa, forme autosomique récessive
+Q82.8	anémie hémolytique avec emphysème et cutis laxa
+Q82.8	cutis laxa lié au chromosome X
+Q82.8	syndrome d'Ehlers-Danlos, avec arriération mentale
+Q82.8	syndrome d'Ehlers-Danlos, avec corne occipitale
+Q82.8	syndrome d'Ehlers-Danlos de type IX
+Q82.8	syndrome d'Ehlers-Danlos, forme squelettique liée au chromosome X
+Q82.8	syndrome de cutis laxa - opacité cornéenne et oligophrénie
+Q82.8	cutis laxa, opacité cornéenne et arriération mentale
+Q82.8	syndrome de de Barsy
+Q82.8	syndrome progéroïde de de Barsy
+Q82.8	cutis laxa avec ostéodystrophie
+Q82.8	cutis laxa avec hyperlaxité articulaire et retard de développement
+Q78.0	ostéogénèse imparfaite
+Q78.0	fragilité osseuse héréditaire
+Q78.0	ostéopsathyrose
+Q78.0	osteogenesis imperfecta
+Q78.0	ostéogénèse imparfaite avec sclérotiques bleues
+Q78.0	ostéogenèse imparfaite de type I
+Q78.0	osteogenesis imperfecta tarda
+Q78.0	osteopsathyrosis idiopathica tarda
+Q78.0	OI de type I
+Q78.0	osteogenesis imperfecta psathyrotica
+Q78.0	maladie d'Eddowes
+Q78.0	maladie d'Adair-Dighton
+Q78.0	maladie de Spurway
+Q78.0	maladie des hommes de verre
+Q78.0	maladie de Lobstein
+Q78.0	fragilité osseuse héréditaire tardive
+Q78.0	syndrome des sclérotiques bleues
+Q78.0	syndrome de Van der Hoeve et de Kleyn
+Q78.0	ostéogenèse imparfaite avec sclérotiques bleues et dents normales
+Q78.0	ostéogenèse imparfaite de type IB
+Q78.0	ostéogenèse imparfaite avec sclérotiques bleues et dentinogenèse imparfaite
+Q78.0	ostéogenèse imparfaite avec dents opalescentes
+Q78.0	ostéogenèse imparfaite de type IA
+Q78.0	ostéogenèse imparfaite, forme létale périnatale
+Q78.0	dysplasie périostale
+Q78.0	aplasia ossea microplastica
+Q78.0	aplasia periostalis
+Q78.0	fragilité osseuse héréditaire congénitale
+Q78.0	ostéogenèse imparfaite, forme létale néonatale
+Q78.0	ostéogenèse imparfaite de type II
+Q78.0	ostéoporose foetale
+Q78.0	osteopsathyrosis congenita
+Q78.0	osteopsathyrosis foetalis
+Q78.0	dysplasie périostale congénitale
+Q78.0	ostéogenèse imparfaite, forme dominante périnatale et létale
+Q78.0	ostéogenèse imparfaite congénitale néonatale et létale
+Q78.0	ostéogenèse imparfaite de type II, forme dominante
+Q78.0	ostéogenèse imparfaite, forme létale périnatale récessive
+Q78.0	ostéogenèse imparfaite de type II, forme récessive
+Q78.0	ostéogenèse imparfaite de type Vrölik
+Q78.0	syndrome de Porak et Durante
+Q78.0	maladie de Vrölik
+Q78.0	ostéogenèse imparfaite, forme létale périnatale récessive, avec microcéphalie et cataractes
+Q78.0	ostéogenèse imparfaite avec déformation progressive et sclérotiques normales
+Q78.0	ostéogenèse imparfaite de type III
+Q78.0	ostéogenèse imparfaite déformante progressive avec sclérotiques normales
+Q78.0	ostéogenèse imparfaite avec sclérotiques normales, forme dominante
+Q78.0	ostéogenèse imparfaite de type IV B
+Q78.0	ostéogenèse imparfaite de type IV A
+Q78.0	ostéogenèse imparfaite de type IV
+Q87.4	syndrome de Marfan
+Q87.4	maladie de Marfan
+Q87.4	syndrome d'arriération mentale marfanoïde
+Q87.4	syndrome d'hyperlaxité articulaire marfanoïde
+Q82.8	pseudoxanthome élastique
+Q82.8	naevus elasticus
+Q82.8	syndrome de Grönblad-Strandberg
+Q82.8	élastorrhexie systématisée
+Q81.9	épidermolyse bulleuse
+Q81.9	pemphigus congénital
+Q81.9	pemphigus héréditaire
+Q81.9	épidermolyse bulleuse récidivante
+Q81.9	épidermolyse bulleuse héréditaire
+Q81.9	pemphigus traumatique
+Q81.9	acantholyse bulleuse
+Q81.1	épidermolyse bulleuse dystrophique récessive
+Q81.1	épidermolyse bulleuse héréditaire, forme polydysplasique
+Q81.1	épidermolyse bulleuse héréditaire polydysplasique
+Q81.8	épidermolyse bulleuse dystrophique progressive, récessive
+Q81.8	épidermolyse bulleuse dystrophique neurotrophique
+Q81.8	épidermolyse bulleuse récessive de type III
+Q81.8	épidermolyse bulleuse progressive avec surdité congénitale
+Q81.8	maladie de Goldscheider
+Q81.2	épidermolyse bulleuse dystrophique dominante
+Q81.2	épidermolyse bulleuse héréditaire, forme dystrophique dominante
+Q81.2	épidermolyse bulleuse hyperplasique
+Q81.8	épidermolyse bulleuse dystrophique dominante, forme albopapuloïde
+Q81.8	épidermolyse bulleuse dystrophique de type Parsini
+Q81.8	épidermolyse bulleuse dystrophique dominante avec désépidermisation
+Q81.8	épidermolyse bulleuse dystrophique de type Bart
+Q81.8	épidermolyse bulleuse jonctionnelle
+Q81.1	syndrome d'Herlitz
+Q81.1	épidermolyse bulleuse jonctionnelle congénitale
+Q81.1	épidermolyse bulleuse létale
+Q81.1	épidermolyse bulleuse jonctionnelle de type Herlitz-Pearson
+Q81.8	syndrome d'épidermolyse bulleuse jonctionnelle congénitale et d'atrésie pylorique
+Q81.8	épidermolyse bulleuse létale avec atrésie pylorique
+Q81.8	épidermolyse bulleuse jonctionnelle de l'adulte
+Q81.8	épidermolyse bulleuse jonctionnelle de type Disentis
+Q81.0	épidermolyse bulleuse simple
+Q81.8	épidermolyse bulleuse simple généralisée
+Q81.8	maladie de Köbner
+Q81.8	épidermolyse bulleuse simple de type Köbner
+Q81.8	épidermolyse bulleuse simple des mains et des pieds
+Q81.8	syndrome de Weber-Cockayne
+Q81.8	épidermolyse bulleuse de type Cockayne-Touraine
+Q81.8	épidermolyse bulleuse simple dominante de type Weber-Cockayne
+Q81.0	épidermolyse bulleuse simple autosomique dominante
+Q81.0	épidermolyse bulleuse simple de type 1
+Q81.0	épidermolyse bulleuse simple de type Ogna
+Q81.8	épidermolyse bulleuse prétibiale
+Q74.3	syndrome hépatorénal cholestatique et arthrogrypose familiale
+Q74.3	maladie hépatique, cholestatique et pigmentaire, familiale et létale
+Q87.8	syndrome d'Alström
+Q87.8	syndrome d'Alport
+Q52.6	phimosis clitoridien
+Q52.6	constriction de l'anneau préputial du clitoris
+Q86.0	foetopathie alcoolique
+Q86.0	syndrome d'alcoolisme foetal
+Q87.1	syndrome de Rud
+Q87.1	syndrome de nanisme - érythrodermie ichtyosiforme - retard mental
+Q07.8	syndrome de paralysie hérédofamiliale du plexus brachial
+Q87.1	maladie de Bruck-de Lange
+Q13.0	colobome de l'oeil
+Q13.0	colobome oculaire
+Q13.0	colobome de l'iris
+Q13.2	hypoplasie de l'iris
+Q13.2	pupille ectopique
+Q15.0	glaucome de l'enfance
+Q15.0	glaucome infantile
+Q12.0	cataracte lamellaire
+Q12.0	cataracte zonulaire
+Q10.5	obstruction néonatale du canal lacrymo-nasal
+Q01.8	encéphalocèle de l'orbite
+Q01.8	encéphalocèle orbitaire
+Q15.8	atrophie optique héréditaire
+Q15.8	atrophie optique héréditaire dominante
+Q14.2	colobome de la papille optique
+Q15.8	ataxie cérébelleuse abortive
+Q15.8	syndrome de Behr I
+Q15.8	ataxie-atrophie optique infantile
+Q87.5	syndrome de Strachan-Scott
+Q87.5	syndrome de Howes-Pallister-Landor
+Q87.5	syndrome associant atrophie optique, polynévrite, ataxie et troubles digestifs
+Q89.2	goitre lingual
+Q89.0	rate ectopique
+Q89.0	rate flottante
+Q89.0	rate vagabonde
+Q89.0	rate aberrante

@@ -1,0 +1,754 @@
+E00.0	syndrome d'insuffisance thyroïdienne congénitale du type neurologique
+E00.1	syndrome d'insuffisance thyroïdienne congénitale du type myxoedémateux
+E00.2	syndrome d'insuffisance thyroïdienne congénitale du type mixte
+E00.9	syndrome d'insuffisance thyroïdienne congénitale, non spécifié
+E01.0	goitre diffus lié à une carence en iode
+E01.0	goitre diffus endémique lié à une carence en iode
+E01.1	goitre multinodulaire lié à une carence en iode
+E01.1	goitre multinodulaire endémique lié à une carence en iode
+E01.2	goitre lié à une carence en iode, non spécifié
+E01.2	goitre endémique lié à une carence en iode, non spécifié
+E01.8	d'autres troubles thyroïdiens et apparentés liés à une carence en iode
+E02	hypothyroïdie subclinique lié à une carence en iode
+E03.0	hypothyroïdie congénitale, avec goitre diffus
+E03.1	hypothyroïdie congénitale, sans goitre
+E03.2	hypothyroïdie due à des médicaments et à d'autres substances exogènes
+E03.3	hypothyroïdie post-infectieuse
+E03.4	atrophie thyroïdienne
+E03.4	atrophie thyroïdienne acquise
+E03.5	coma myxoedémateux
+E03.8	autre hypothyroïdie spécifiée
+E03.9	hypothyroïdie, non spécifiée
+E04.0	goitre diffus non toxique
+E04.1	nodule thyroïdien unique non toxique
+E04.2	goitre multinodulaire non toxique
+E04.8	autre goitre non toxique spécifié
+E04.9	goitre non toxique, non spécifié
+E05.0	hyperthyroïdie avec goitre diffus sans crise thyrotoxique
+E05.1	hyperthyroïdie avec goitre diffus avec une crise thyrotoxique
+E05.10	hyperthyroïdie avec un unique nodule thyroïdien toxique sans crise thyrotoxique
+E05.11	hyperthyroïdie avec un unique nodule thyroïdien toxique avec une crise thyrotoxique
+E05.20	hyperthyroïdie avec goitre multinodulaire toxique sans crise thyrotoxique
+E05.21	hyperthyroïdie avec goitre multinodulaire toxique avec une crise thyrotoxique
+E05.30	hyperthyroïdie due à des nodules thyroïdiens ectopiques sans crise thyrotoxique
+E05.31	hyperthyroïdie due à des nodules thyroïdiens ectopiques avec une crise thyrotoxique
+E05.40	hyperthyroïdie factice sans crise thyrotoxique
+E05.41	hyperthyroïdie factice avec une crise thyrotoxique
+E05.80	d'autres hyperthyroïdies sans crise thyrotoxique
+E05.81	d'autres hyperthyroïdies avec une crise thyrotoxique
+E05.90	hyperthyroïdie, non spécifiée, sans crise thyrotoxique
+E05.91	hyperthyroïdie, non spécifiée, avec une crise thyrotoxique
+E06.0	thyroïdite aiguë
+E06.1	thyroïdite subaiguë
+E06.2	thyroïdite chronique avec hyperthyroïdie transitoire
+E06.3	thyroïdite auto-immune
+E06.4	thyroïdite médicamenteuse
+E06.5	d'autres thyroïdites chroniques
+E06.9	thyroïdite, non spécifiée
+E07.0	hypersécrétion de calcitonine
+E07.1	goitre dû à un trouble de l'hormonosynthèse
+E07.81	syndrome du dysfonctionnement euthyroïdien
+E07.89	d'autres troubles spécifiés de la thyroïde
+E07.9	trouble de la thyroïde, non spécifié
+E08.0	diabète sucré dû à une affection sous-jacente avec hyperosmolarité sans coma hyperglycémique hyperosmolaire non cétosique
+E08.1	diabète sucré dû à une affection sous-jacente avec hyperosmolarité avec coma
+E08.10	diabète sucré dû à une affection sous-jacente avec acidocétose sans coma
+E08.11	diabète sucré dû à une affection sous-jacente avec acidocétose avec coma
+E08.21	diabète sucré dû à une affection sous-jacente avec néphropathie diabétique
+E08.22	diabète sucré dû à une affection sous-jacente avec une maladie rénale diabétique chronique
+E08.29	diabète sucré dû à une affection sous-jacente avec une autre complication rénale diabétique
+E08.311	diabète sucré dû à une affection sous-jacente avec rétinopathie diabétique non spécifiée avec oedème maculaire
+E08.319	diabète sucré dû à une affection sous-jacente avec rétinopathie diabétique non spécifiée sans oedème maculaire
+E08.321	diabète sucré dû à une affection sous-jacente avec rétinopathie diabétique non proliférative légère avec oedème maculaire
+E08.329	diabète sucré dû à une affection sous-jacente avec rétinopathie diabétique non proliférative légère sans oedème maculaire
+E08.331	diabète sucré dû à une affection sous-jacente avec rétinopathie diabétique non proliférative moyenne avec oedème maculaire
+E08.339	diabète sucré dû à une affection sous-jacente avec rétinopathie diabétique non proliférative moyenne sans oedème maculaire
+E09.52	diabète sucré induit par des médicaments avec angiopathie diabétique périphérique avec gangrène
+E09.52	diabète sucré induit par des produits chimiques avec angiopathie diabétique périphérique avec gangrène
+E09.59	diabète sucré induit par des médicaments avec d'autres complications circulatoires
+E09.59	diabète sucré induit par des produits chimiques avec d'autres complications circulatoires
+E09.610	diabète sucré induit par des produits chimiques avec arthropathie neuropathique diabétique
+E09.610	diabète sucré induit par des produits chimiques avec arthropathie neuropathique diabétique
+E09.618	diabète sucré induit par des médicaments avec autre arthropathie diabétique
+E09.618	diabète sucré induit par des produits chimiques avec autre arthropathie diabétique
+E20.8	d'autres hypoparathyroïdies
+E20.9	hypoparathyroïdie, non spécifiée
+E21.0	hyperparathyroïdie primaire
+E21.1	hyperparathyroïdie secondaire, non classée ailleurs
+E21.2	d'autres hyperparathyroïdies
+E21.3	hyperparathyroïdie, non spécifiée
+E21.4	d'autres troubles spécifiés de la glande parathyroïde
+E21.5	trouble de la glande parathyroïde, non spécifié
+E64.0	séquelles de malnutrition protéino-calorique
+E64.1	séquelles de carence en vitamine A
+E64.2	séquelles de carence en vitamine C
+E64.3	séquelles de rachitisme
+E64.8	séquelles d'autres carences nutritionnelles
+E64.9	séquelles de carence nutritionnelle, non spécifiée
+E65	adiposité localisée
+E66.1	obésite morbide due à un excès de calories
+E66.1	obésite morbide sévère due à un excès de calories
+E66.9	autre obésité due à un excès de calories
+E66.1	obésité médicamenteuse
+E66.2	obésite morbide avec hypoventilation alvéolaire
+E66.2	obésite morbide sévère avec hypoventilation alvéolaire
+E66.3	surpoids
+E66.8	d'autres obésités
+E66.9	obésité, non spécifiée
+E67.0	hypervitaminose A
+E67.1	hypercaroténémie
+E67.2	syndrome d'hypervitaminose B6
+E67.3	hypervitaminose D
+E67.8	d'autres apports excessifs, spécifiés
+E68	séquelles d'apports excessifs
+E70.0	phénylcétonurie classique
+E70.1	d'autres hyperphénylalaninémies
+E70.20	anomalie du métabolisme de la tyrosine, non spécifiée
+E70.21	tyrosinémie
+E70.29	d'autres anomalies du métabolisme de la tyrosine
+E70.30	albinisme, non spécifié
+E70.310	albinisme oculaire lié à l'X
+E70.311	albinisme oculaire autosomique récessif
+E70.318	autre albinisme oculaire
+E70.319	albinisme oculaire, non spécifié
+E70.320	albinisme oculo-cutané, tyrosinase négatif
+E70.321	albinisme oculo-cutané, tyrosinase positif
+E70.328	autre albinisme oculo-cutané
+E70.329	albinisme oculo-cutané, non spécifié
+E70.330	syndrome de Chediak-Higashi
+E70.331	syndrome de Hermansky-Pudlak
+E70.338	autre albinisme avec une anomalie hématologique
+E70.339	albinisme avec une anomalie hématologique, non spécifiée
+E70.39	autre albinisme, spécifié
+E08.341	diabète sucré dû à une affection sous-jacente avec rétinopathie diabétique non proliférative sévère avec oedème maculaire
+E08.349	diabète sucré dû à une affection sous-jacente avec rétinopathie diabétique non proliférative sévère sans oedème maculaire
+E08.351	diabète sucré dû à une affection sous-jacente avec rétinopathie diabétique proliférative avec oedème maculaire
+E08.359	diabète sucré dû à une affection sous-jacente avec rétinopathie diabétique proliférative sans oedème maculaire
+E08.36	diabète sucré dû à une affection sous-jacente avec cataracte diabétique
+E08.39	diabète sucré dû à une affection sous-jacente avec une autre complication ophtalmologique diabétique
+E08.40	diabète sucré dû à une affection sous-jacente avec neuropathie diabétique, non spécifiée
+E08.41	diabète sucré dû à une affection sous-jacente avec mononeuropathie diabétique
+E08.42	diabète sucré dû à une affection sous-jacente avec polyneuropathie diabétique
+E08.43	diabète sucré dû à une affection sous-jacente avec neuropathie diabétique autonome
+E08.43	diabète sucré dû à une affection sous-jacente avec polyneuropathie diabétique autonome
+E08.44	diabète sucré dû à une affection sous-jacente avec amyotrophie diabétique
+E08.49	diabète sucré dû à une affection sous-jacente avec d'autres complications neurologiques diabétiques
+E08.51	diabète sucré dû à une affection sous-jacente avec angiopathie diabétique périphérique sans gangrène
+E08.52	diabète sucré dû à une affection sous-jacente avec angiopathie diabétique périphérique avec gangrène
+E08.59	diabète sucré dû à une affection sous-jacente avec d'autres complications circulatoires
+E08.610	diabète sucré dû à une affection sous-jacente avec arthropathie neuropathique diabétique
+E08.618	diabète sucré dû à une affection sous-jacente avec d'autres arthropathie diabétique
+E08.620	diabète sucré dû à une affection sous-jacente avec dermatite diabétique
+E08.621	diabète sucré dû à une affection sous-jacente avec un ulcère du pied
+E08.622	diabète sucré dû à une affection sous-jacente avec un autre ulcère de la peau
+E08.628	diabète sucré dû à une affection sous-jacente avec d'autres complications de la peau
+E08.630	diabète sucré dû à une affection sous-jacente avec une maladie périodontale
+E08.638	diabète sucré dû à une affection sous-jacente avec d'autres complications orales
+E08.641	diabète sucré dû à une affection sous-jacente avec hypoglycémie avec coma
+E08.649	diabète sucré dû à une affection sous-jacente avec hypoglycémie sans coma
+E08.65	diabète sucré dû à une affection sous-jacente avec hyperglycémie
+E08.69	diabète sucré dû à une affection sous-jacente avec une autre complication spécifiée
+E08.8	diabète sucré dû à une affection sous-jacente avec des complications non spécifiées
+E08.9	diabète sucré dû à une affection sous-jacente sans complications
+E09.0	diabète sucré induit par des médicaments avec hyperosmolarité sans coma hyperglycémique hyperosmolaire non cétosique
+E09.1	diabète sucré induit par des médicaments avec hyperosmolarité avec coma
+E09.10	diabète sucré induit par des médicaments avec acidocétose sans coma
+E09.11	diabète sucré induit par des médicaments avec acidocétose avec coma
+E09.21	diabète sucré induit par des médicaments avec néphropathie diabétique
+E09.22	diabète sucré induit par des médicaments avec une maladie rénale diabétique chronique
+E09.29	diabète sucré induit par des médicaments avec une autre complication rénale diabétique
+E09.311	diabète sucré induit par des médicaments avec rétinopathie diabétique non spécifiée avec oedème maculaire
+E09.319	diabète sucré induit par des médicaments avec rétinopathie diabétique non spécifiée sans oedème maculaire
+E09.321	diabète sucré induit par des médicaments avec rétinopathie diabétique non proliférative légère avec oedème maculaire
+E09.329	diabète sucré induit par des médicaments avec rétinopathie diabétique non proliférative légère sans oedème maculaire
+E09.331	diabète sucré induit par des médicaments avec rétinopathie diabétique non proliférative moyenne avec oedème maculaire
+E09.339	diabète sucré induit par des médicaments avec rétinopathie diabétique non proliférative moyenne sans oedème maculaire
+E09.341	diabète sucré induit par des médicaments avec rétinopathie diabétique non proliférative sévère avec oedème maculaire
+E09.349	diabète sucré induit par des médicaments avec rétinopathie diabétique non proliférative sévère sans oedème maculaire
+E09.351	diabète sucré induit par des médicaments avec rétinopathie diabétique proliférative avec oedème maculaire
+E09.359	diabète sucré induit par des médicaments avec rétinopathie diabétique proliférative sans oedème maculaire
+E09.36	diabète sucré induit par des médicaments avec cataracte diabétique
+E09.39	diabète sucré induit par des médicaments avec une autre complication ophtalmologique diabétique
+E09.40	diabète sucré induit par des médicaments avec des complications neurologiques avec neuropathie diabétique, non spécifiée
+E09.41	diabète sucré induit par des médicaments avec des complications neurologiques avec mononeuropathie diabétique
+E09.42	diabète sucré induit par des médicaments avec des complications neurologiques avec polyneuropathie diabétique
+E09.43	diabète sucré induit par des médicaments avec des complications neurologiques avec neuropathie diabétique autonome
+E09.43	diabète sucré induit par des médicaments avec des complications neurologiques avec polyneuropathie diabétique autonome
+E09.44	diabète sucré induit par des médicaments avec des complications neurologiques avec amyotrophie diabétique
+E09.49	diabète sucré induit par des médicaments avec une autre complication neurologique
+E09.51	diabète sucré induit par des médicaments avec angiopathie diabétique périphérique sans gangrène
+E09.620	diabète sucré induit par des médicaments avec dermatite diabétique
+E09.621	diabète sucré induit par des médicaments avec un ulcère du pied
+E09.622	diabète sucré induit par des médicaments avec un autre ulcère de la peau
+E09.628	diabète sucré induit par des médicaments avec d'autres complications de la peau
+E09.630	diabète sucré induit par des médicaments avec une maladie périodontale
+E09.638	diabète sucré induit par des médicaments avec d'autres complications orales
+E09.641	diabète sucré induit par des médicaments avec hypoglycémie avec coma
+E09.649	diabète sucré induit par des médicaments avec hypoglycémie sans coma
+E09.65	diabète sucré induit par des médicaments avec hyperglycémie
+E09.69	diabète sucré induit par des médicaments avec une autre complication spécifiée
+E09.8	diabète sucré induit par des médicaments avec des complications non spécifiées
+E09.9	diabète sucré induit par des médicaments sans complications
+E09.0	diabète sucré induit par des produits chimiques avec hyperosmolarité sans coma hyperglycémique hyperosmolaire non cétosique
+E09.1	diabète sucré induit par des produits chimiques avec hyperosmolarité avec coma
+E09.10	diabète sucré induit par des produits chimiques avec acidocétose sans coma
+E09.11	diabète sucré induit par des produits chimiques avec acidocétose avec coma
+E09.21	diabète sucré induit par des produits chimiques avec néphropathie diabétique
+E09.22	diabète sucré induit par des produits chimiques avec une maladie rénale diabétique chronique
+E09.29	diabète sucré induit par des produits chimiques avec une autre complication rénale diabétique
+E09.311	diabète sucré induit par des produits chimiques avec rétinopathie diabétique non spécifiée avec oedème maculaire
+E09.319	diabète sucré induit par des produits chimiques avec rétinopathie diabétique non spécifiée sans oedème maculaire
+E09.321	diabète sucré induit par des produits chimiques avec rétinopathie diabétique non proliférative légère avec oedème maculaire
+E09.329	diabète sucré induit par des produits chimiques avec rétinopathie diabétique non proliférative légère sans oedème maculaire
+E09.331	diabète sucré induit par des produits chimiques avec rétinopathie diabétique non proliférative moyenne avec oedème maculaire
+E09.339	diabète sucré induit par des produits chimiques avec rétinopathie diabétique non proliférative moyenne sans oedème maculaire
+E09.341	diabète sucré induit par des produits chimiques avec rétinopathie diabétique non proliférative sévère avec oedème maculaire
+E09.349	diabète sucré induit par des produits chimiques avec rétinopathie diabétique non proliférative sévère sans oedème maculaire
+E09.351	diabète sucré induit par des produits chimiques avec rétinopathie diabétique proliférative avec oedème maculaire
+E09.359	diabète sucré induit par des produits chimiques avec rétinopathie diabétique proliférative sans oedème maculaire
+E09.36	diabète sucré induit par des produits chimiques avec cataracte diabétique
+E09.39	diabète sucré induit par des produits chimiques avec une autre complication ophtalmologique diabétique
+E09.40	diabète sucré induit par des produits chimiques avec des complications neurologiques avec neuropathie diabétique, non spécifiée
+E09.41	diabète sucré induit par des produits chimiques avec des complications neurologiques avec mononeuropathie diabétique
+E09.42	diabète sucré induit par des produits chimiques avec des complications neurologiques avec polyneuropathie diabétique
+E09.43	diabète sucré induit par des produits chimiques avec des complications neurologiques avec neuropathie diabétique autonome
+E09.43	diabète sucré induit par des produits chimiques avec des complications neurologiques avec polyneuropathie diabétique autonome
+E09.44	diabète sucré induit par des produits chimiques avec des complications neurologiques avec amyotrophie diabétique
+E09.49	diabète sucré induit par des produits chimiques avec une autre complication neurologique
+E09.51	diabète sucré induit par des produits chimiques avec angiopathie diabétique périphérique sans gangrène
+E09.620	diabète sucré induit par des produits chimiques avec dermatite diabétique
+E09.621	diabète sucré induit par des produits chimiques avec un ulcère du pied
+E09.622	diabète sucré induit par des produits chimiques avec un autre ulcère de la peau
+E09.628	diabète sucré induit par des produits chimiques avec d'autres complications de la peau
+E09.630	diabète sucré induit par des produits chimiques avec une maladie périodontale
+E09.638	diabète sucré induit par des produits chimiques avec d'autres complications orales
+E09.641	diabète sucré induit par des produits chimiques avec hypoglycémie avec coma
+E09.649	diabète sucré induit par des produits chimiques avec hypoglycémie sans coma
+E09.65	diabète sucré induit par des produits chimiques avec hyperglycémie
+E09.69	diabète sucré induit par des produits chimiques avec une autre complication spécifiée
+E09.8	diabète sucré induit par des produits chimiques avec des complications non spécifiées
+E09.9	diabète sucré induit par des produits chimiques sans complications
+E10.10	diabète sucré du type 1 avec acidocétose sans coma
+E10.11	diabète sucré du type 1 avec acidocétose avec coma
+E10.21	diabète sucré du type 1 avec néphropathie diabétique
+E10.22	diabète sucré du type 1 avec une maladie rénale diabétique chronique
+E10.29	diabète sucré du type 1 avec une autre complication rénale diabétique
+E10.311	diabète sucré du type 1 avec rétinopathie diabétique non spécifiée avec oedème maculaire
+E10.319	diabète sucré du type 1 avec rétinopathie diabétique non spécifiée sans oedème maculaire
+E10.321	diabète sucré du type 1 avec rétinopathie diabétique non proliférative légère avec oedème maculaire
+E10.329	diabète sucré du type 1 avec rétinopathie diabétique non proliférative légère sans oedème maculaire
+E10.331	diabète sucré du type 1 avec rétinopathie diabétique non proliférative moyenne avec oedème maculaire
+E10.339	diabète sucré du type 1 avec rétinopathie diabétique non proliférative moyenne sans oedème maculaire
+E10.341	diabète sucré du type 1 avec rétinopathie diabétique non proliférative sévère avec oedème maculaire
+E10.349	diabète sucré du type 1 avec rétinopathie diabétique non proliférative sévère sans oedème maculaire
+E10.351	diabète sucré du type 1 avec rétinopathie diabétique proliférative avec oedème maculaire
+E10.359	diabète sucré du type 1 avec rétinopathie diabétique proliférative sans oedème maculaire
+E10.36	diabète sucré du type 1 avec cataracte diabétique
+E10.39	diabète sucré du type 1 avec une autre complication ophtalmologique diabétique
+E10.40	diabète sucré du type 1 avec neuropathie diabétique
+E10.41	diabète sucré du type 1 avec mononeuropathie diabétique
+E10.42	diabète sucré du type 1 avec polyneuropathie diabétique
+E10.43	diabète sucré du type 1 avec neuropathie diabétique autonome
+E10.43	diabète sucré du type 1 avec polyneuropathie diabétique autonome
+E10.44	diabète sucré du type 1 avec amyotrophie diabétique
+E10.49	diabète sucré du type 1 avec une autre complication neurologique diabétique
+E10.51	diabète sucré du type 1 avec angiopathie diabétique périphérique sans gangrène
+E10.52	diabète sucré du type 1 avec angiopathie diabétique périphérique avec gangrène
+E10.59	diabète sucré du type 1 avec d'autres complications circulatoires
+E10.610	diabète sucré du type 1 avec arthropathie neuropathique diabétique
+E10.618	diabète sucré du type 1 avec arthropathie diabétique autre
+E10.620	diabète sucré du type 1 avec dermatite diabétique
+E10.621	diabète sucré du type 1 avec un ulcère du pied
+E10.622	diabète sucré du type 1 avec un autre ulcère de la peau
+E10.628	diabète sucré du type 1 avec d'autres complications de la peau
+E10.630	diabète sucré du type 1 avec une maladie périodontale
+E10.638	diabète sucré du type 1 avec d'autres complications orales
+E10.641	diabète sucré du type 1 avec hypoglycémie avec coma
+E10.649	diabète sucré du type 1 avec hypoglycémie sans coma
+E10.65	diabète sucré du type 1 avec hyperglycémie
+E10.69	diabète sucré du type 1 avec une autre complication spécifiée
+E10.8	diabète sucré du type 1 avec des complications non spécifiées
+E10.9	diabète sucré du type 1 sans complications
+E11.0	diabète sucré du type 2 avec hyperosmolarité sans coma hyperglycémique-hyperosmolaire non cétosique
+E11.1	diabète sucré du type 2 avec hyperosmolarité avec coma
+E11.21	diabète sucré du type 2 avec néphropathie diabétique
+E11.22	diabète sucré du type 2 avec une maladie rénale diabétique chronique
+E11.29	diabète sucré du type 2 avec une autre complication rénale diabétique
+E11.311	diabète sucré du type 2 avec rétinopathie diabétique non spécifiée avec oedème maculaire
+E11.319	diabète sucré du type 2 avec rétinopathie diabétique non spécifiée sans oedème maculaire
+E11.321	diabète sucré du type 2 avec rétinopathie diabétique non proliférative légère avec oedème maculaire
+E11.329	diabète sucré du type 2 avec rétinopathie diabétique non proliférative légère sans oedème maculaire
+E11.331	diabète sucré du type 2 avec rétinopathie diabétique non proliférative moyenne avec oedème maculaire
+E11.339	diabète sucré du type 2 avec rétinopathie diabétique non proliférative moyenne sans oedème maculaire
+E11.341	diabète sucré du type 2 avec rétinopathie diabétique non proliférative sévère avec oedème maculaire
+E11.349	diabète sucré du type 2 avec rétinopathie diabétique non proliférative sévère sans oedème maculaire
+E11.351	diabète sucré du type 2 avec rétinopathie diabétique proliférative avec oedème maculaire
+E11.359	diabète sucré du type 2 avec rétinopathie diabétique proliférative sans oedème maculaire
+E11.36	diabète sucré du type 2 avec cataracte diabétique
+E11.39	diabète sucré du type 2 avec une autre complication ophtalmologique diabétique
+E11.40	diabète sucré du type 2 avec neuropathie diabétique, non spécifiée
+E11.41	diabète sucré du type 2 avec mononeuropathie diabétique
+E11.42	diabète sucré du type 2 avec polyneuropathie diabétique
+E11.43	diabète sucré du type 2 avec neuropathie diabétique autonome
+E11.43	diabète sucré du type 2 avec polyneuropathie diabétique autonome
+E11.44	diabète sucré du type 2 avec amyotrophie diabétique
+E11.49	diabète sucré du type 2 avec une autre complication neurologique diabétique
+E11.51	diabète sucré du type 2 avec angiopathie diabétique périphérique sans gangrène
+E11.52	diabète sucré du type 2 avec angiopathie diabétique périphérique avec gangrène
+E11.59	diabète sucré du type 2 avec d'autres complications circulatoires
+E11.610	diabète sucré du type 2 avec arthropathie neuropathique diabétique
+E11.618	diabète sucré du type 2 avec arthropathie diabétique autre
+E11.620	diabète sucré du type 2 avec dermatite diabétique
+E11.621	diabète sucré du type 2 avec un ulcère du pied
+E11.622	diabète sucré du type 2 avec un autre ulcère de la peau
+E11.628	diabète sucré du type 2 avec d'autres complications de la peau
+E11.630	diabète sucré du type 2 avec une maladie périodontale
+E11.638	diabète sucré du type 2 avec d'autres complications orales
+E11.641	diabète sucré du type 2 avec hypoglycémie avec coma
+E11.649	diabète sucré du type 2 avec hypoglycémie sans coma
+E11.65	diabète sucré du type 2 avec hyperglycémie
+E11.69	diabète sucré du type 2 avec une autre complication spécifiée
+E11.8	diabète sucré du type 2 avec des complications non spécifiées
+E11.9	diabète sucré du type 2 sans complications
+E13.0	autre diabète sucré spécifié avec hyperosmolarité sans coma hyperglycémique hyperosmolaire non cétosique
+E13.1	autre diabète sucré spécifié avec hyperosmolarité avec coma
+E13.10	autre diabète sucré spécifié avec acidocétose sans coma
+E13.11	autre diabète sucré spécifié avec acidocétose avec coma
+E13.21	autre diabète sucré spécifié avec néphropathie diabétique
+E13.22	autre diabète sucré spécifié avec une maladie rénale diabétique chronique
+E13.29	autre diabète sucré spécifié avec une autre complication rénale diabétique
+E13.311	autre diabète sucré spécifié avec rétinopathie diabétique non spécifiée avec oedème maculaire
+E13.319	autre diabète sucré spécifié avec rétinopathie diabétique non spécifiée sans oedème maculaire
+E13.321	autre diabète sucré spécifié avec rétinopathie diabétique non proliférative légère avec oedème maculaire
+E13.329	autre diabète sucré spécifié avec rétinopathie diabétique non proliférative légère sans oedème maculaire
+E13.331	autre diabète sucré spécifié avec rétinopathie diabétique non proliférative moyenne avec oedème maculaire
+E13.339	autre diabète sucré spécifié avec rétinopathie diabétique non proliférative moyenne sans oedème maculaire
+E13.341	autre diabète sucré spécifié avec  rétinopathie diabétique non proliférative sévère avec oedème maculaire
+E13.349	autre diabète sucré spécifié avec  rétinopathie diabétique non proliférative sévère sans oedème maculaire
+E13.351	autre diabète sucré spécifié avec rétinopathie diabétique proliférative avec oedème maculaire
+E13.359	autre diabète sucré spécifié avec rétinopathie diabétique proliférative sans oedème maculaire
+E13.36	autre diabète sucré spécifié avec cataracte diabétique
+E13.39	autre diabète sucré spécifié avec une autre complication ophtalmologique diabétique
+E13.40	autre diabète sucré spécifié avec neuropathie diabétique, non spécifiée
+E13.41	autre diabète sucré spécifié avec mononeuropathie diabétique
+E13.42	autre diabète sucré spécifié avec polyneuropathie diabétique
+E13.43	autre diabète sucré spécifié avec neuropathie diabétique autonome
+E13.43	autre diabète sucré spécifié avec polyneuropathie diabétique autonome
+E13.44	autre diabète sucré spécifié avec amyotrophie diabétique
+E13.49	autre diabète sucré spécifié avec une autre complication neurologique diabétique
+E13.51	autre diabète sucré spécifié avec angiopathie diabétique périphérique sans gangrène
+E13.52	autre diabète sucré spécifié avec angiopathie diabétique périphérique avec gangrène
+E13.59	autre diabète sucré spécifié avec d'autres complications circulatoires
+E13.610	autre diabète sucré spécifié avec arthropathie neuropathique diabétique
+E13.618	autre diabète sucré spécifié avec autre arthropathie diabétique
+E13.620	autre diabète sucré spécifié avec dermatite diabétique
+E13.621	autre diabète sucré spécifié avec un ulcère du pied
+E13.622	autre diabète sucré spécifié avec un autre ulcère de la peau
+E13.628	autre diabète sucré spécifié avec d'autres complications de la peau
+E13.630	autre diabète sucré spécifié avec une maladie périodontale
+E13.638	autre diabète sucré spécifié avec d'autres complications orales
+E13.641	autre diabète sucré spécifié avec hypoglycémie avec coma
+E13.649	autre diabète sucré spécifié avec hypoglycémie sans coma
+E13.65	autre diabète sucré spécifié avec hyperglycémie
+E13.69	autre diabète sucré spécifié avec une autre complication
+E13.8	autre diabète sucré spécifié avec des complications non spécifiées
+E13.9	autre diabète sucré spécifié sans complication
+E15	coma hypoglycémique non diabétique
+E16.0	hypoglycémie médicamenteuse, sans coma
+E16.1	autre hypoglycémie
+E16.2	hypoglycémie, non spécifiée
+E16.3	hypersécrétion de glucagon
+E16.4	hypersécrétion de gastrine
+E16.8	d'autres troubles spécifiés de la sécrétion pancréatique interne
+E16.9	trouble de la sécrétion pancréatique interne, non spécifiée
+E20.0	hypoparathyroïdie idiopathique
+E20.1	pseudohypoparathyroïdie
+E22.0	acromégalie et gigantisme
+E22.1	hyperprolactinémie
+E22.2	syndrome de sécrétion inappropriée d'ADH
+E22.8	autre hyperfonctionnement de l'hypophyse
+E22.9	hyperfonctionnement de l'hypophyse, non spécifié
+E23.0	hypopituitarisme
+E23.1	hypopituitarisme médicamenteux
+E23.2	diabète insipide
+E23.3	dysfonctionnement hypothalamique, non classé ailleurs
+E23.6	d'autres troubles de l'hypophyse
+E23.7	trouble de l'hypophyse, non spécifié
+E24.0	maladie de Cushing hypophyso-dépendante
+E24.1	syndrome de Nelson
+E24.2	syndrome de Cushing médicamenteux
+E24.3	syndrome de sécrétion ectopique d'ACTH
+E24.4	pseudosyndrome de Cushing dû à l'alcool
+E24.8	d'autres syndromes de Cushing
+E24.9	syndrome de Cushing, non spécifié
+E25.0	troubles adréno-génitaux congénitaux avec un déficit enzymatique
+E25.8	d'autres troubles adréno-génitaux
+E25.9	trouble adréno-génital, non spécifié
+E26.1	syndrome de Conn
+E26.2	hyperaldostéronisme sensible aux corticoïdes
+E26.9	autre hyperaldostéronisme primaire
+E26.1	hyperaldostéronisme secondaire
+E26.81	syndrome de Bartter
+E26.89	autre hyperaldostéronisme
+E26.9	hyperaldostéronisme, non spécifié
+E27.0	d'autres hyperfonctionnements corticosurrénaux
+E27.1	insuffisance corticosurrénale primaire
+E27.2	crise addisonienne
+E27.3	insuffisance corticosurrénale médicamenteuse
+E27.40	insuffisance corticosurrénale, non spécifiée
+E27.49	autre insuffisance corticosurrénale
+E27.5	hyperfonctionnement de la médullosurrénale
+E27.8	d'autres maladies spécifiées de la glande surrénale
+E27.9	troubles de la glande surrénale, non spécifiée
+E28.0	hyperoestrogénisme
+E28.1	hyperandrogénisme
+E28.2	syndrome des ovaires polykystiques
+E28.310	ménopause prématurée symptomatique
+E28.319	ménopause prématurée asymptomatique
+E28.39	autre insuffisance ovarienne primaire
+E28.8	autre dysfonctionnement ovarien
+E28.9	dysfonctionnement ovarien, non spécifié
+E29.0	hyperfonctionnement testiculaire
+E29.1	hypofonctionnement testiculaire
+E29.8	autre dysfonctionnement testiculaire
+E29.9	dysfonctionnement testiculaire, non spécifié
+E30.0	retard pubertaire
+E30.1	puberté précoce
+E30.8	d'autres troubles de la puberté
+E30.9	trouble de la puberté, non spécifié
+E31.0	insuffisance polyglandulaire auto-immune
+E31.1	hyperfonctionnement polyglandulaire
+E31.20	syndrome de néoplasie endocrine multiple, non spécifié
+E31.21	néoplasie endocrine multiple, type I
+E31.22	néoplasie endocrine multiple, type IIA
+E31.23	néoplasie endocrine multiple, type IIB
+E31.20	MEN, non spécifié
+E31.21	MEN, type I
+E31.22	MEN, type IIA
+E31.23	MEN, type IIB
+E31.8	autre dysfonctionnement polyglandulaire
+E31.9	dysfonctionnement polyglandulaire, non spécifié
+E32.0	hyperplasie persistante du thymus
+E32.1	abcès du thymus
+E32.8	d'autres maladies du thymus
+E32.9	maladie du thymus, non spécifiée
+E34.0	syndrome carcinoïde
+E34.1	d'autres hypersécrétions des hormones intestinales
+E34.2	sécrétion hormonale ectopique, non classée ailleurs
+E34.3	petite stature, due à un trouble endocrinien
+E34.4	haute stature constitutionnelle
+E34.50	syndrome d'insensibilité aux androgènes, non spécifié
+E34.51	syndrome d'insensibilité complète aux androgènes
+E34.52	syndrome d'insensibilité partielle aux androgènes
+E34.8	d'autres troubles endocriniens spécifiés
+E34.9	trouble endocrinien, non spécifié
+E35	troubles endocriniens, dans des maladies classées ailleurs
+E36.1	hémorragie et hématome peropératoires d'un organe du système endocrinien, compliquant une procédure sur le système endocrinien
+E36.2	hémorragie et hématome peropératoires d'un organe du système endocrinien, compliquant une autre procédure
+E36.11	ponction et lacération accidentelles d'un organe du système endocrinien, durant une procédure sur le système endocrinien
+E36.12	ponction et lacération accidentelles d'un organe du système endocrinien, durant une autre procédure
+E36.1	hémorragie et hématome peropératoires d'une structure du système endocrinien, compliquant une procédure sur le système endocrinien
+E36.2	hémorragie et hématome peropératoires d'une structure du système endocrinien, compliquant une autre procédure
+E36.11	ponction et lacération accidentelles d'une structure du système endocrinien, durant une procédure sur le système endocrinien
+E36.12	ponction et lacération accidentelles d'une structure du système endocrinien, durant une autre procédure
+E36.8	d'autres complications peropératoires du système endocrinien
+E40	kwashiorkor
+E41	marasme nutritionnel
+E42	kwashiorkor avec marasme
+E43	malnutrition protéino-calorique sévère, non spécifiée
+E44.0	malnutrition protéino-calorique moyenne
+E44.1	malnutrition protéino-calorique légère
+E45	retard du développement suite à une malnutrition protéino-calorique
+E46	malnutrition protéino-calorique, non spécifiée
+E50.0	carence en vitamine A avec xérose conjonctivale
+E50.1	carence en vitamine A avec des taches de Bitot et xérose conjonctivale
+E50.2	carence en vitamine A avec xérose cornéenne
+E50.3	carence en vitamine A avec xérose et ulcération cornéennes
+E50.4	carence en vitamine A avec kératomalacie
+E50.5	carence en vitamine A avec héméralopie
+E50.6	carence en vitamine A avec des cicatrices xérophtalmiques de la cornée
+E50.7	d'autres manifestations oculaires de carence en vitamine A
+E50.8	d'autres manifestations de carence en vitamine A
+E50.9	carence en vitamine A, non spécifiée
+E51.11	béribéri sec
+E51.12	béribéri humide
+E51.2	encéphalopathie de Wernicke
+E51.8	d'autres manifestations de carence en thiamine
+E51.8	d'autres manifestations de carence en vitamine B1
+E51.9	carence en thiamine, non spécifiée
+E51.9	carence en vitamine B1, non spécifiée
+E52	pellagre
+E52	carence en acide nicotinique
+E52	carence en niacine
+E52	carence en vitamine B3
+E53.0	carence en riboflavine 
+E53.0	carence en vitamine B2
+E53.1	carence en pyridoxine 
+E53.1	carence en vitamine B6
+E53.8	d'autres carences spécifiées en vitamines du groupe B
+E53.9	carence en vitamine B, non spécifiée
+E54	carence en acide ascorbique
+E54	carence en vitamine C
+E55.0	rachitisme évolutif
+E55.9	carence en vitamine D, non spécifiée
+E56.0	carence en vitamine E
+E56.1	carence en vitamine K
+E56.8	carence en d'autres vitamines
+E56.9	carence en vitamine, non spécifiée
+E58	carence alimentaire en calcium
+E59	carence alimentaire en sélénium
+E60	carence alimentaire en zinc
+E61.0	carence en cuivre
+E61.1	carence en fer
+E61.2	carence en magnésium
+E61.3	carence en manganèse
+E61.4	carence en chrome
+E61.5	carence en molybdène
+E61.6	carence en vanadium
+E61.7	carence en plusieurs éléments nutritionnels
+E61.8	carence en d'autres éléments nutritionnels, spécifiés
+E61.9	carence en élément nutritionnel, non spécifiée
+E63.0	carence en acides gras essentiels
+E63.1	déséquilibre alimentaire
+E63.8	d'autres carences nutritionnelles, spécifiées
+E63.9	carence nutritionnelle, non spécifiée
+E70.40	troubles du métabolisme de l'histidine, non spécifiés
+E70.41	histidinémie
+E70.49	d'autres anomalies du métabolisme de l'histidine
+E70.5	troubles du métabolisme du tryptophane
+E70.8	d'autres troubles du métabolisme des acides aminés aromatiques
+E70.9	trouble du métabolisme des acides aminés aromatiques, non spécifié
+E71.0	maladie du sirop d'érable
+E71.0	leucinose
+E71.0	MSUD
+E79.9	trouble du métabolisme de la purine et de la pyrimidine, non spécifié
+E80.0	porphyrie érythropoïétique héréditaire
+E80.1	porphyrie cutanée tardive
+E80.20	porphyrie, non spécifiée
+E80.21	porphyrie aiguë intermittente
+E80.21	porphyrie aiguë intermittente hépatique
+E80.29	d'autres porphyries
+E80.3	déficit en catalase et en peroxydase
+E80.4	syndrome de Gilbert
+E71.110	acidémie isovalérique
+E71.111	acidurie 3-méthylglutaconique
+E71.118	d'autres aciduries organiques à chaîne ramifiée
+E71.120	acidémie méthylmalonique
+E71.121	acidémie propionique
+E71.128	d'autres troubles du métabolisme de l'acide propionique
+E71.19	d'autres troubles du métabolisme des acides aminés à chaîne ramifiée
+E71.2	trouble du métabolisme des acides aminés à chaîne ramifiée, non spécifié
+E71.30	trouble du métabolisme des acides gras, non spécifié
+E71.310	déficit en acyl-CoA déshydrogénase à chaîne longue/très longue
+E71.311	déficit en acyl-CoA déshydrogénase à chaîne moyenne
+E71.312	déficit en acyl-CoA déshydrogénase à chaîne courte
+E71.313	acidurie glutarique du type II
+E71.314	carence en carnitine palmityltransférase musculaire
+E71.318	d'autres troubles d'oxydation des acides gras
+E71.32	troubles du métabolisme cétosique
+E71.39	d'autres troubles du métabolisme des acides gras
+E71.40	trouble du métabolisme de la carnitine, non spécifié
+E71.41	déficit primaire en carnitine
+E71.42	déficit en carnitine dû à des erreurs innées du métabolisme
+E71.43	déficit iatrogène en carnitine
+E71.440	Syndrome de Bannayan-Riley-Ruvalcaba
+E71.448	autre déficit secondaire en carnitine
+E71.50	trouble des péroxysomes, non spécifié
+E71.510	syndrome de Zellweger
+E71.511	adrénoleucodystrophie néonatale
+E71.518	d'autres troubles de biogenèse des peroxysomes
+E71.520	adrénoleucodystrophie cérébrale de l'enfant liée à l'X
+E71.521	adrénoleucodystrophie de l'adolescent liée à l'X
+E71.522	adrénomyéloneuropathie
+E71.528	autre adrénoleucodystrophie liée à l'X
+E71.529	adrénoleucodystrophie liée à l'X, non spécifiée
+E71.53	d'autres troubles des péroxysomes du groupe 2
+E71.540	chondrodysplasie ponctuée rhizomélique
+E71.541	Syndrome Zellweger-like
+E71.542	d'autres troubles des péroxysomes du groupe 3
+E71.548	d'autres troubles des péroxysomes
+E72.0	troubles du transport des acides aminés, non spécifiés
+E72.1	cystinurie
+E72.2	maladie de Hartnup
+E72.3	syndrome de Lowe
+E72.4	cystinose
+E72.9	d'autres troubles du transport des acides aminés
+E72.10	troubles du métabolisme des acides aminés soufrés, non spécifiés
+E72.11	homocystinurie
+E72.12	déficit en méthylènetétrahydrofolate réductase
+E72.19	d'autres troubles du métabolisme des acides aminés soufrés
+E72.20	trouble du métabolisme de l'urée, non spécifié
+E72.21	argininémie
+E72.22	acidurie arginino-succinique
+E72.23	citrullinémie
+E72.29	d'autres troubles du métabolisme de l'urée
+E72.3	troubles du métabolisme de la lysine et de l'hydroxylysine
+E72.4	troubles du métabolisme de l'ornithine
+E72.50	trouble du métabolisme de la glycine, non spécifié
+E72.51	hyperglycinémie non cétosique
+E72.52	triméthylaminurie
+E72.53	hyperoxalurie
+E72.59	d'autres troubles du métabolisme de la glycine
+E72.8	d'autres troubles spécifiés du métabolisme des acides aminés
+E72.9	trouble du métabolisme des acides aminés, non spécifié
+E73.0	déficit congénital en lactase
+E73.1	déficit secondaire en lactase
+E73.8	d'autres intolérances au lactose
+E73.9	intolérance au lactose, non spécifiée
+E74.0	maladie du stockage du glycogène, non spécifiée
+E74.1	maladie de von Gierke
+E74.2	maladie de Pompe
+E74.3	maladie de Cori
+E74.4	maladie de McArdle
+E74.9	autre maladie du stockage du glycogène
+E74.10	trouble du métabolisme du fructose, non spécifié
+E74.11	fructosurie essentielle
+E74.12	intolérance héréditaire au fructose
+E74.19	d'autres troubles du métabolisme du fructose
+E74.20	troubles du métabolisme du galactose, non spécifié
+E74.21	galactosémie
+E74.29	d'autres troubles du métabolisme du galactose
+E74.31	déficit en sucrase-isomaltase
+E74.39	d'autres troubles de l'absorption intestinale des hydrates de carbone
+E74.4	troubles du métabolisme du pyruvate et de la gluconéogenèse
+E74.8	d'autres troubles spécifiés du métabolisme des hydrates de carbone
+E74.9	trouble du métabolisme des hydrates de carbone, non spécifié
+E75.0	gangliosidose à GM2, non spécifiée
+E75.1	maladie de Sandhoff
+E75.2	maladie de Tay-Sachs
+E75.9	autre gangliosidose à GM2
+E75.10	gangliosidose, non spécifiée
+E75.11	mucolipidose type 4
+E75.19	d'autres gangliosidoses
+E75.21	maladie de Fabry
+E75.21	maladie de Fabry-Anderson
+E75.22	maladie de Gaucher
+E75.23	maladie de Krabbe
+E75.240	maladie de Niemann-Pick type A
+E75.241	maladie de Niemann-Pick type B
+E75.242	maladie de Niemann-Pick type C
+E75.243	maladie de Niemann-Pick type D
+E75.248	autre maladie de Niemann-Pick
+E75.249	maladie de Niemann-Pick, non spécifiée
+E75.25	leucodystrophie métachromatique
+E75.29	autre sphingolipidose
+E75.3	sphingolipidose, non spécifiée
+E75.4	céroïde-lipofuscinose neuronale
+E75.5	d'autres troubles du stockage des lipides
+E75.6	trouble du stockage des lipides, non spécifié
+E76.1	syndrome de Hurler
+E76.2	syndrome de Hurler-Scheie
+E76.3	syndrome de Scheie
+E76.1	mucopolysaccharidose type II
+E76.210	maladie de Morquio type A
+E76.211	maladie de Morquio type B
+E76.219	maladie de Morquio, non spécifiée
+E76.22	maladie de Sanfilippo
+E76.29	d'autres mucopolysaccharidoses
+E76.3	mucopolysaccharidose, non spécifiée
+E76.8	d'autres troubles du métabolisme des glucosaminoglycanes
+E76.9	trouble du métabolisme des glycosaminoglycanes, non spécifié
+E77.0	défauts de la transformation post-traductionnelle des enzymes lysosomiaux
+E77.1	défauts de la dégradation des glycoprotéines
+E77.8	d'autres troubles du métabolisme des glycoprotéines
+E77.9	trouble du métabolisme des glycoprotéines, non spécifié
+E78.0	hypercholestérolémie essentielle
+E78.1	hypertriglycéridémie essentielle
+E78.2	hyperlipidémie mixte
+E78.3	hyperchylomicronémie
+E78.4	autre hyperlipidémie
+E78.5	hyperlipidémie, non spécifiée
+E78.6	déficit en lipoprotéines
+E78.70	trouble du métabolisme des acides biliaires et du cholestérol, non spécifié
+E78.71	syndrome de Barth
+E78.72	syndrome de Smith-Lemli-Opitz
+E78.79	d'autres troubles du métabolisme des acides biliaires et du cholestérol
+E78.81	dermato-arthrite lipoïdique
+E78.89	d'autres troubles du métabolisme des lipoprotéines
+E78.9	trouble du métabolisme des lipoprotéines, non spécifié
+E79.0	hyperuricémie sans signes d'arthrite inflammatoire et de maladie tophacée
+E79.1	syndrome de Lesch-Nyhan
+E79.2	déficit en myodénylate deaminase
+E79.8	d'autres troubles du métabolisme de la purine et de la pyrimidine
+E80.5	syndrome de Crigler-Najjar
+E80.6	d'autres troubles du métabolisme de la bilirubine
+E80.7	trouble du métabolisme de la bilirubine, non spécifié
+E83.0	trouble du métabolisme du cuivre, non spécifié
+E83.1	maladie de Wilson
+E83.9	d'autres troubles du métabolisme du cuivre
+E83.10	trouble du métabolisme du fer, non spécifié
+E83.110	hémochromatose héréditaire
+E83.111	hémochromatose due à des transfusions de globules rouges répétées
+E83.118	autre hémochromatose
+E83.119	hémochromatose, non spécifiée
+E83.19	d'autres troubles du métabolisme du fer
+E83.2	troubles du métabolisme du zinc
+E83.30	trouble du métabolisme du phosphore, non spécifié
+E83.31	hypophosphatémie familiale
+E83.32	rachitisme héréditaire résistant à la vitamine D 
+E83.32	rachitisme héréditaire résistant à la vitamine D type 1
+E83.32	rachitisme héréditaire résistant à la vitamine D type 2
+E83.39	d'autres troubles du métabolisme du phosphore
+E83.40	troubles du métabolisme du magnésium, non spécifiés
+E83.41	hypermagnésémie
+E83.42	hypomagnésémie
+E83.49	d'autres troubles du métabolisme du magnésium
+E83.50	trouble du métabolisme du calcium, non spécifié
+E83.51	hypocalcémie
+E83.52	hypercalcémie
+E83.59	d'autres troubles du métabolisme du calcium
+E83.81	syndrome des os affamés
+E83.89	d'autres troubles du métabolisme des minéraux
+E83.9	trouble du métabolisme des minéraux, non spécifié
+E84.0	mucoviscidose avec des manifestations pulmonaires
+E84.11	mucoviscidose avec iléus méconial
+E84.19	mucoviscidose avec d'autres manifestations intestinales
+E84.8	mucoviscidose avec d'autres manifestations
+E84.9	mucoviscidose, non spécifiée
+E85.0	amyloïdose familiale non neuropathique
+E85.1	amyloïdose familiale neuropathique
+E85.2	amyloïdose familiale, non spécifiée
+E85.3	amyloïdose systémique secondaire
+E85.4	amyloïdose limitée à un organe
+E85.4	amyloïdose limitée à plusieurs organes
+E85.8	d'autres amyloïdoses
+E85.9	amyloïdose, non spécifiée
+E86.0	déshydratation
+E86.1	hypovolémie
+E86.9	déplétion volumique, non spécifiée
+E87.0	hyperosmolalité et hypernatrémie
+E87.1	hypoosmolalité et hyponatrémie
+E87.2	acidose
+E87.3	alcalose
+E87.4	trouble de l'équilibre acido-basique, mixte
+E87.5	hyperkaliémie
+E87.6	hypokaliémie
+E87.70	hypervolémie, non spécifiée
+E87.71	hypervolémie circulatoire due à une transfusion
+E87.79	hypervolémie, autre
+E87.8	d'autres troubles hydro-électrolytiques, non classés ailleurs
+E88.1	déficit en alpha-1-antitrypsine
+E88.9	d'autres troubles du métabolisme des protéines plasmatiques, non classés ailleurs
+E88.1	lipodystrophie, non classée ailleurs
+E88.2	lipomatose, non classée ailleurs
+E88.3	syndrome de lyse tumorale
+E88.40	trouble du métabolisme mitochondrial, non spécifié
+E88.41	syndrome de MELAS
+E88.42	syndrome de MERFF
+E88.49	d'autres troubles du métabolisme mitochondrial
+E88.81	syndrome métabolique
+E88.89	d'autres troubles métaboliques, spécifiés
+E88.9	trouble métabolique, non spécifié
+E89.0	hypothyroïdie après une procédure
+E89.1	hypoinsulinémie après une procédure
+E89.2	hypoparathyroïdie après une procédure
+E89.3	hypopituitarisme après une procédure
+E89.40	insuffisance ovarienne asymptomatique après une procédure
+E89.41	insuffisance ovarienne symptomatique après une procédure
+E89.5	hypofonctionnement testiculaire après une procédure
+E89.6	hypofonctionnement corticosurrénal après une procédure
+E89.6	hypofonctionnement médullosurrénal après une procédure
+E89.6	hypofonctionnement corticomédullosurrénal après une procédure
+E89.810	hématome et hémorragie post-procédurales d'un organe ou d'une structure du système endocrinien, suite à une procédure sur le système endocrinien
+E89.811	hématome et hémorragie post-procédurales d'un organe ou d'une structure du système endocrinien, suite à une autre procédure
+E89.89	d'autres complications et troubles endocriniens et métaboliques après une procédure
